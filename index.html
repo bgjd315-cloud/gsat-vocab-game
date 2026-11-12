@@ -237,6 +237,10 @@ textarea{width:100%;min-height:110px;font-family:ui-monospace,Consolas,monospace
 .hjournal .t{position:relative;z-index:1;padding:14px 16px;color:#fff;display:grid;gap:2px}
 .hjournal .t b{font-size:18px}
 .htb{display:flex;gap:14px;align-items:center;width:100%;text-align:left;border:1px solid var(--line);border-radius:18px;padding:12px 16px;background:var(--t-list);box-shadow:var(--shadow);margin-bottom:10px}
+.hplace{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center;border:1px solid var(--line);border-radius:18px;padding:12px 16px;background:var(--t-dex);box-shadow:var(--shadow);margin-top:12px}
+.hplace img{width:56px;height:56px;object-fit:contain;flex:none}
+.hplace .t{display:grid;gap:2px;flex:1;min-width:180px}.hplace .t b{font-size:17px}.hplace .t span{font-size:13px;color:var(--muted)}
+.hplace .b{display:flex;gap:8px;width:100%}.hplace .b button{flex:1;margin:0}
 .htb img{width:60px;height:60px;object-fit:contain;flex:none}
 .htb .t{display:grid;gap:2px;flex:1;min-width:0}.htb .t b{font-size:17px}.htb .t span{font-size:13px;color:var(--muted)}
 .books{display:grid;grid-template-columns:repeat(5,1fr);gap:6px;margin-bottom:12px}
@@ -578,7 +582,6 @@ let view='home';
 function go(v,arg){view=v;window.scrollTo(0,0);PP.on=false;if(recPlayer)recPlayer.pause();if('speechSynthesis' in window)speechSynthesis.cancel();AUD.duck(false);({home,dex:()=>dex(arg),list:()=>list(arg),journal:()=>journal(arg),tb:()=>tbBooks(arg),phr:()=>phrHub(arg),gq:()=>gqHub(),cz:()=>czHub(arg),czp:()=>czPlay(arg),listen:()=>listenGame(),trp:()=>trPlay(arg),rcp:()=>rcPlay(arg),toeic:()=>toeicHub(arg),toeicg:()=>toeicGroup(arg),gr:()=>grBook(arg),grc:()=>grCard(arg),tbl:()=>tbLesson(arg),read:()=>readView(arg)})[v]?.();}
 
 function home(){
-  if(needPlacement()){placementIntro();return;}
   const due=dueList(); const q=newQuota(due.length); const lv=S.level;
   const nw=nextNew(lv,q);
   const st=S.streak;
@@ -599,6 +602,7 @@ function home(){
     <div class="hstat"><div><div class="tickets" aria-label="請假券 ${st.tickets} 張">${tk}</div><div class="k">請假券 ${st.tickets}/3</div></div></div>
     <div class="hstat"><div><div class="v">${learned}</div><div class="k">已學單字</div></div></div>
   </div>
+  ${needPlacement()&&!S.placeOff?`<div class="hplace">${pic('guide_think','')}<div class="t"><b>不知道從哪一級開始？</b><span>可以先做分級小測（40 題、約 10 分鐘）幫你找起點；也可以直接從下面選級別開始。</span></div><div class="b"><button class="hgo" id="plGo" style="--lc:var(--l0)">做分級小測</button><button class="ghost" id="plNo">不用了</button></div></div>`:''}
   <div class="hsub"><b>我的旅程</b><span>點地圖或下方切換級別</span></div>
   <nav class="journey" aria-label="選擇級別">${journey}</nav>
   <section class="hmission" style="--lc:${LC[lv]}">
@@ -635,6 +639,7 @@ function home(){
   <div class="foot">KK 音標由 CMU Pronouncing Dictionary（© Carnegie Mellon University，BSD 授權）轉換整理。單字與詞性：大考中心《高中英文參考詞彙表（111 學年度起適用）》第三至六級。${LEVELS.includes(7)?'第七級依開放授權的英文詞頻資料 wordfreq（Robyn Speer 等，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" target="_blank" rel="noopener">CC BY-SA 4.0</a>）選出大考詞彙表以外的常用字，再依對高中閱讀的實用度挑選排序；中文與例句為本站編寫，第七級字表以 CC BY-SA 4.0 釋出。':''}<br>中文意思為簡要參考；例句標「學測原句」者取自大考中心 107–115 學年度學測英文試題，標「編寫例句」者為本站編寫、經老師審閱。<br>進度只存在這台裝置的瀏覽器，換手機或清除瀏覽資料前請先到「設定・備份」匯出。</div>`;
   app.querySelectorAll('.jstep,.spot').forEach(b=>b.onclick=()=>{S.level=+b.dataset.lv;save();home();});
   document.getElementById('setBtn').onclick=settings;
+  {const g=document.getElementById('plGo');if(g)g.onclick=placementIntro;const n=document.getElementById('plNo');if(n)n.onclick=()=>{S.placeOff=1;save();home();};}
   const sb=document.getElementById('startBtn'); if(sb)sb.onclick=()=>startSession(due.slice(0,120),nw);
   const mb=document.getElementById('moreBtn'); if(mb)mb.onclick=()=>startSession([],nextNew(lv,10));
   const jb=document.getElementById('journalBtn'); if(jb)jb.onclick=()=>go('journal',lv);
@@ -653,7 +658,7 @@ function home(){
 }
 
 
-/* ---------- 分級小測（第一次進入時全員做） ---------- */
+/* ---------- 分級小測（首頁可選擇要不要做；設定裡也能重做） ---------- */
 function needPlacement(){return !S.placed&&JHPOOL.length>=10&&W.some(w=>w.lv===0);}
 function placementIntro(){
   app.innerHTML=`<div class="card result pop" style="text-align:left;justify-items:stretch">
@@ -661,8 +666,8 @@ function placementIntro(){
     <h2 style="margin:0;text-align:center">開始之前：分級小測</h2>
     <p style="margin:0">共 40 題，大約 10 分鐘。前 24 題是國中學過的字，後 16 題是高中常用、但國中課本較少出現的字。</p>
     <p style="margin:0;color:var(--muted);font-size:14px">不會的字直接選最像的就好，不扣分。測完會建議你從「國中銜接站」或「第三級」開始。</p>
-    <button class="hgo" id="pgo" style="--lc:var(--l0)">開始小測</button></div>`;
-  document.getElementById('pgo').onclick=placement;
+    <button class="hgo" id="pgo" style="--lc:var(--l0)">開始小測</button><button class="ghost" id="pback" style="width:100%">先不要，回首頁</button></div>`;
+  document.getElementById('pgo').onclick=placement;document.getElementById('pback').onclick=()=>go('home');
 }
 function placement(){
   const jh=shuffle(JHPOOL.slice()).slice(0,24).map(x=>({k:'jh',en:x.word,pos:x.pos,zh:x.zh}));
