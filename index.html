@@ -581,9 +581,11 @@ const SPK='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9v6h4l5 4V5L7
 const app=document.getElementById('app');
 const LC={0:'var(--l0)',1:'var(--l1)',2:'var(--l2)',7:'var(--l7)',8:'var(--l8)',3:'var(--l3)',4:'var(--l4)',5:'var(--l5)',6:'var(--l6)'};
 // 地圖上各區域：名稱、x%、y%
-// 五區版地圖（map5）上的按鈕位置：出發港在最左邊
-const REGION5={0:[12,49],3:[29.5,57],4:[50,47],5:[70.5,57],6:[90,62],7:[90,41]};  // 7：新地圖畫好前，先放在高塔上方（避開右上角「設定」按鈕）
-function useMap5(img){if(!/map5/.test(img.src))return;const h=img.closest('.hhero');if(!h)return;
+// 新版地圖上的按鈕位置（x%, y%）：map6 六區（含第七級銀河彼端）；map5 五區為備用
+// 右上角有「設定」按鈕，手機上會蓋住上方約四成，所以右側的按鈕都放在 y ≥ 50%
+const MAPPOS={map6:{0:[9,57],3:[25,53],4:[45,68],5:[60,53],6:[75,75],7:[91,51]},
+              map5:{0:[12,49],3:[29.5,57],4:[50,47],5:[70.5,57],6:[90,62],7:[90,41]}};
+function useMap5(img){const m=(img.src.match(/map\d/)||[])[0];const REGION5=MAPPOS[m];if(!REGION5)return;const h=img.closest('.hhero');if(!h)return;
   LEVELS.filter(l=>REGION5[l]).forEach(l=>{let b=h.querySelector(`.spot[data-lv="${l}"]`);if(!b){b=document.createElement('button');b.className='spot';b.dataset.lv=l;b.innerHTML=`<b>${lvName(l)}</b><span>${REGION[l][0]}</span>`;b.onclick=()=>{S.level=l;save();home();};h.appendChild(b);}
     b.classList.toggle('on',l===S.level);b.style.left=REGION5[l][0]+'%';b.style.top=REGION5[l][1]+'%';});}
 const REGION={0:['出發港',null,null],7:['銀河彼端',null,null],3:['森林小鎮',13,64],4:['港口城市',38,55],5:['雪山',63,57],6:['星空高塔',86,64]};
@@ -603,7 +605,7 @@ function home(){
   const todo=due.length+nw.length;
   app.innerHTML=`
   <header class="hhero">
-    <img src="img/map5.webp" alt="冒險地圖" onload="useMap5(this)" onerror="this.onerror=()=>this.remove();this.onload=null;this.src='img/map.webp'">
+    <img src="img/map6.webp" alt="冒險地圖" onload="useMap5(this)" onerror="this.onerror=()=>this.remove();this.src='img/map5.webp'">
     <div class="htitle"><b>單字開外掛</b><span>Vocab BOOST</span><small>單字實力直接升級，學測英文一路破關。</small></div>
     <button class="hset" id="setBtn">設定・備份</button>
     ${LEVELS.filter(l=>REGION[l][1]!=null).map(l=>`<button class="spot ${l===lv?'on':''}" style="left:${REGION[l][1]}%;top:${REGION[l][2]}%" data-lv="${l}" aria-label="第 ${l} 級 ${REGION[l][0]}"><b>L${l}</b><span>${REGION[l][0]}</span></button>`).join('')}
