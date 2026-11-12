@@ -445,11 +445,13 @@ function markTarget(s,t,mode){
 /* ========== 背景音樂與音效（Web Audio 即時合成，原創旋律，不用外部音檔） ========== */
 const AUD=(()=>{
   let ctx=null,master,music,sfxBus,delay,fb,timer=null,step=0,next=0,duckOn=false,started=false;
-  const BPM=74, E8=60/BPM/2;               // 八分音符長度
+  const BPM=108, E8=60/BPM/2;              // 八分音符長度（輕快的步行速度）
   const hz=m=>440*Math.pow(2,(m-69)/12);
-  // 和弦（MIDI）：A 段 Fmaj7–Em7–Dm7–Cmaj7，B 段 Am7–Fmaj7–G6–Cmaj7，每個和弦兩小節
-  const A=[[53,57,60,64],[52,55,59,62],[50,53,57,60],[48,52,55,59]];
-  const B=[[45,52,55,60],[53,57,60,64],[43,50,55,59],[48,52,55,64]];
+  // 和弦（MIDI，大三和弦為主、明亮）：A 段 C–G–Am–F，B 段 F–G–C–C，每個和弦一小節
+  const A=[[48,52,55,60],[43,50,55,59],[45,52,57,60],[41,53,57,60]];
+  const B=[[41,53,57,60],[43,50,55,59],[48,52,55,64],[48,52,55,64]];
+  const ARP=[0,1,2,3,2,1,2,3];             // 每小節的分解和弦（跳躍感）
+  const RHY=[1,0,1,1,0,1,1,0];             // 旋律節奏型：切分、有彈性
   const PENTA=[72,74,76,79,81,84];         // C 大調五聲音階（高八度），旋律只用這幾個音
   const volOf=()=>S.audio.music?S.audio.vol*(duckOn?0.3:1):0;
   function init(){
@@ -489,19 +491,22 @@ const AUD=(()=>{
   let lastNote=76;
   function schedule(){
     while(next<ctx.currentTime+0.5){
-      const t=next, loop=Math.floor(step/64), inLoop=step%64, chordIdx=Math.floor(inLoop/16), barStep=inLoop%8;
+      const t=next, loop=Math.floor(step/32), inLoop=step%32, chordIdx=Math.floor(inLoop/8), barStep=inLoop%8;
       const prog=(loop%2?B:A)[chordIdx];
-      if(inLoop%16===0) prog.forEach(m=>pad(m,t,E8*16));
-      if(barStep===0) bass(prog[0],t);
-      if(barStep===4) bass(prog[0]+7,t);
-      if(barStep===2||barStep===6) brush(t);
-      // 旋律：稀疏、多半落在和弦音上；一開始四小節安靜一點
-      const p=(loop===0&&inLoop<16)?0.12:0.3;
-      if((barStep%2===0&&Math.random()<p)||Math.random()<p*0.3){
+      if(barStep===0) prog.forEach(m=>pad(m,t,E8*8));
+      // 低音：一、三拍根音，第四拍跳五度，走起來有彈性
+      if(barStep===0||barStep===4) bass(prog[0],t);
+      if(barStep===6) bass(prog[0]+7,t);
+      if(barStep%2===1) brush(t);
+      // 分解和弦：小聲墊底，讓節奏輕快
+      pluck(prog[ARP[barStep]]+12,t,0.018);
+      // 旋律：照節奏型出現、多半落在和弦音上、偏向往上走；一開始兩小節只有伴奏
+      if(!(loop===0&&inLoop<16)&&RHY[barStep]&&Math.random()<0.75){
         const chordTones=PENTA.filter(n=>prog.some(c=>(n-c)%12===0));
-        const pool=Math.random()<0.6&&chordTones.length?chordTones:PENTA;
-        let cand=pool.filter(n=>Math.abs(n-lastNote)<=7); if(!cand.length)cand=pool;
-        lastNote=cand[Math.floor(Math.random()*cand.length)]; pluck(lastNote,t+Math.random()*0.02);
+        const pool=(barStep===0||Math.random()<0.55)&&chordTones.length?chordTones:PENTA;
+        let cand=pool.filter(n=>Math.abs(n-lastNote)<=5&&n!==lastNote); if(!cand.length)cand=pool;
+        if(lastNote<76){const up=cand.filter(n=>n>lastNote);if(up.length)cand=up;}
+        lastNote=cand[Math.floor(Math.random()*cand.length)]; pluck(lastNote,t+Math.random()*0.01,0.05);
       }
       next+=E8; step++;
     }
