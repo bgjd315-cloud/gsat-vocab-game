@@ -92,3 +92,15 @@ if (!out.includes('/*__TT__*/null')) throw new Error('app.html 找不到多益�
 out = out.replace('/*__TT__*/null', () => esc(JSON.stringify(tt)));
 fs.writeFileSync(path.join(__dirname, 'index.html'), out);
 console.log('index.html', (out.length / 1024).toFixed(0) + ' KB', '閱讀篇數', reading.length);
+
+// 離線快取 sw.js：VER＝圖片、音檔、圖示的檔名＋大小指紋，檔案有變（例如重錄音檔）手機上的舊快取就會自動換新
+const swSrc = path.join(__dirname, 'src', 'sw.js');
+if (fs.existsSync(swSrc)) {
+  const crypto = require('crypto'), h = crypto.createHash('sha1');
+  const walk = d => { if (!fs.existsSync(d)) return; for (const f of fs.readdirSync(d, { withFileTypes: true }).sort((a, b) => a.name < b.name ? -1 : 1)) {
+    const p = path.join(d, f.name); if (f.isDirectory()) walk(p); else h.update(path.relative(__dirname, p) + ':' + fs.statSync(p).size + '\n'); } };
+  ['img', 'audio', 'icons'].forEach(d => walk(path.join(__dirname, d)));
+  const ver = h.digest('hex').slice(0, 10);
+  fs.writeFileSync(path.join(__dirname, 'sw.js'), fs.readFileSync(swSrc, 'utf8').replace("/*__VER__*/'dev'", `'${ver}'`));
+  console.log('sw.js', ver);
+}

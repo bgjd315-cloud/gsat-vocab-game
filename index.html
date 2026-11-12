@@ -4,6 +4,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>單字開外掛｜Vocab BOOST</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="單字開外掛">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#f5f2fa" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#16131f" media="(prefers-color-scheme: dark)">
 <meta name="description" content="單字實力直接升級，學測英文一路破關。大考英文參考詞彙表第三至六級 4,008 詞條：間隔複習、熟練星等、學測真題例句。">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&family=Outfit:wght@500;700;800&family=Literata:wght@400;600&display=swap">
@@ -240,6 +249,7 @@ textarea{width:100%;min-height:110px;font-family:ui-monospace,Consolas,monospace
 .hplace{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center;border:1px solid var(--line);border-radius:18px;padding:12px 16px;background:var(--t-dex);box-shadow:var(--shadow);margin-top:12px}
 .hplace img{width:56px;height:56px;object-fit:contain;flex:none}
 .hplace .t{display:grid;gap:2px;flex:1;min-width:180px}.hplace .t b{font-size:17px}.hplace .t span{font-size:13px;color:var(--muted)}
+.pwasteps{margin:6px 0 0;padding-left:20px;font-size:13.5px;line-height:1.65;color:var(--fg)}.pwasteps li{margin:2px 0}.hplace .pwasteps b{font-size:inherit}
 .hplace .b{display:flex;gap:8px;width:100%}.hplace .b button{flex:1;margin:0}
 .htb img{width:60px;height:60px;object-fit:contain;flex:none}
 .htb .t{display:grid;gap:2px;flex:1;min-width:0}.htb .t b{font-size:17px}.htb .t span{font-size:13px;color:var(--muted)}
@@ -616,6 +626,7 @@ function home(){
     <div class="hstat"><div><div class="v">${learned}</div><div class="k">已學單字</div></div></div>
   </div>
   ${needPlacement()&&!S.placeOff?`<div class="hplace">${pic('guide_think','')}<div class="t"><b>不知道從哪一級開始？</b><span>可以先做分級小測（40 題、約 10 分鐘）幫你找起點；也可以直接從下面選級別開始。</span></div><div class="b"><button class="hgo" id="plGo" style="--lc:var(--l0)">做分級小測</button><button class="ghost" id="plNo">不用了</button></div></div>`:''}
+  ${installCard(learned)}
   <div class="hsub"><b>我的旅程</b><span>點地圖或下方切換級別</span></div>
   <nav class="journey" aria-label="選擇級別">${journey}</nav>
   <section class="hmission" style="--lc:${LC[lv]}">
@@ -652,6 +663,7 @@ function home(){
   <div class="foot">KK 音標由 CMU Pronouncing Dictionary（© Carnegie Mellon University，BSD 授權）轉換整理。單字與詞性：大考中心《高中英文參考詞彙表（111 學年度起適用）》第三至六級。${LEVELS.includes(7)?'第七級依開放授權的英文詞頻資料 wordfreq（Robyn Speer 等，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" target="_blank" rel="noopener">CC BY-SA 4.0</a>）選出大考詞彙表以外的常用字，再依對高中閱讀的實用度挑選排序；中文與例句為本站編寫，第七級字表以 CC BY-SA 4.0 釋出。':''}<br>中文意思為簡要參考；例句標「學測原句」者取自大考中心 107–115 學年度學測英文試題，標「編寫例句」者為本站編寫、經老師審閱。<br>進度只存在這台裝置的瀏覽器，換手機或清除瀏覽資料前請先到「設定・備份」匯出。</div>`;
   app.querySelectorAll('.jstep,.spot').forEach(b=>b.onclick=()=>{S.level=+b.dataset.lv;save();home();});
   document.getElementById('setBtn').onclick=settings;
+  bindInstall();
   {const g=document.getElementById('plGo');if(g)g.onclick=placementIntro;const n=document.getElementById('plNo');if(n)n.onclick=()=>{S.placeOff=1;save();home();};}
   const sb=document.getElementById('startBtn'); if(sb)sb.onclick=()=>startSession(due.slice(0,120),nw);
   const mb=document.getElementById('moreBtn'); if(mb)mb.onclick=()=>startSession([],nextNew(lv,10));
@@ -1575,7 +1587,9 @@ function settings(){
   <div class="field"><label>匯出進度（換手機、清除瀏覽資料前先做）</label><div class="row"><button class="ghost" id="exCopy">複製進度碼</button><button class="ghost" id="exFile">下載備份檔</button></div></div>
   <div class="field"><label for="imp">匯入進度（貼上進度碼，或選擇備份檔）</label><textarea id="imp" placeholder="GV1.…"></textarea><div class="row"><button class="ghost" id="imBtn">匯入進度碼</button><label class="ghost" style="text-align:center;cursor:pointer">選擇備份檔<input type="file" id="imFile" accept=".txt,.json" hidden></label></div><div id="imMsg" class="msg"></div></div>
   ${JHPOOL.length?`<div class="field"><label>分級小測${S.placed?`（上次：國中字 ${S.placed.jh}%・高中常用字 ${S.placed.br}%）`:''}</label><button class="ghost" id="replace">重新做分級小測</button></div>`:''}
+  ${!IS_APP&&(IS_IOS||installEvt)?`<div class="field"><label>裝到手機桌面（像 App 一樣全螢幕使用）</label><button class="ghost" id="pwaShow">顯示安裝步驟</button></div>`:''}
   <button class="primary" id="mclose">完成</button>`);
+  {const ps=document.getElementById('pwaShow');if(ps)ps.onclick=()=>{S.pwaOff=0;save();modal.hidden=true;go('home');};}
   {const rp=document.getElementById('replace');if(rp)rp.onclick=()=>{modal.hidden=true;placementIntro();};}
   document.getElementById('nm').oninput=e=>{S.name=e.target.value.trim();save();};
   sheet.querySelectorAll('#ord button').forEach(b=>b.onclick=()=>{S.order=b.dataset.v;save();sheet.querySelectorAll('#ord button').forEach(x=>x.classList.toggle('on',x===b));});
@@ -1606,6 +1620,38 @@ document.addEventListener('keydown',e=>{
   if(/^[1-4]$/.test(e.key)){const b=app.querySelectorAll('.opt')[+e.key-1];if(b&&!b.disabled){b.click();e.preventDefault();}}
   else if(e.key==='Enter'){const b=document.getElementById('nx')||document.getElementById('go');if(b){b.click();e.preventDefault();}}
 });
+/* ---------- 加到手機主畫面（PWA）：離線快取＋安裝教學 ---------- */
+const IS_IOS=/iP(hone|ad|od)/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
+const IS_APP=navigator.standalone===true||matchMedia('(display-mode: standalone)').matches;
+let installEvt=null;
+addEventListener('beforeinstallprompt',e=>{e.preventDefault();installEvt=e;if(view==='home')home();});
+if('serviceWorker' in navigator&&location.protocol.startsWith('http'))addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}));
+if(navigator.storage&&navigator.storage.persist)navigator.storage.persist().catch(()=>{});
+function installCard(learned){
+  if(IS_APP){
+    if(!IS_IOS||S.appMoved||learned>0)return '';
+    return `<div class="hplace">${pic('guide_cheer','')}<div class="t"><b>歡迎使用單字開外掛 App！</b><span>之前在 Safari 學過的話，到「設定・備份」貼上進度碼，就能接著學；第一次用就直接開始。</span></div><div class="b"><button class="hgo" id="appSet" style="--lc:var(--l0)">貼上進度碼</button><button class="ghost" id="appNew">我是新開始</button></div></div>`;
+  }
+  if(S.pwaOff||!(IS_IOS||installEvt))return '';
+  if(!IS_IOS)return `<div class="hplace">${pic('guide_cheer','')}<div class="t"><b>裝到手機桌面，用起來像 App</b><span>全螢幕、從桌面一點就開，用過的單字和發音沒網路也能複習。</span></div><div class="b"><button class="hgo" id="pwaInstall" style="--lc:var(--l0)">安裝</button><button class="ghost" id="pwaNo">不用了</button></div></div>`;
+  const has=Object.keys(S.w).length>0;
+  return `<div class="hplace">${pic('guide_cheer','')}<div class="t"><b>把單字開外掛裝到 iPhone 桌面</b><span>裝好後全螢幕、從桌面一點就開，用過的單字和發音沒網路也能複習。</span>
+    <ol class="pwasteps">${has?'<li>先按下面的「複製進度碼」，貼到 LINE 記事本存好（iPhone 上的 App 和 Safari 進度是分開的，等一下要貼回去）。</li>':''}
+    <li>用 <b>Safari</b> 打開這個網站，點下方的「分享」按鈕（方框加向上箭頭；沒看到就先點右下角的「⋯」）。</li>
+    <li>往下找「<b>加入主畫面</b>」；有「以網頁 App 打開」的開關就保持開啟，再按「加入」。</li>
+    <li>回到桌面，點「單字開外掛」圖示打開${has?'，到「設定・備份」→「匯入進度碼」貼上剛才複製的進度碼':''}。</li></ol></div>
+    <div class="b">${has?'<button class="hgo" id="pwaCopy" style="--lc:var(--l0)">複製進度碼</button>':''}<button class="ghost" id="pwaNo">${has?'之後再說':'知道了'}</button></div><div id="pwaMsg" class="msg" style="width:100%"></div></div>`;
+}
+function bindInstall(){
+  const $=id=>document.getElementById(id);
+  if($('pwaNo'))$('pwaNo').onclick=()=>{S.pwaOff=1;save();home();};
+  if($('pwaInstall'))$('pwaInstall').onclick=async()=>{if(!installEvt)return;installEvt.prompt();await installEvt.userChoice.catch(()=>{});installEvt=null;home();};
+  if($('pwaCopy'))$('pwaCopy').onclick=async()=>{const c=await b64gz(JSON.stringify(S));const m=$('pwaMsg');
+    try{await navigator.clipboard.writeText(c);m.textContent='已複製進度碼，請先貼到 LINE 記事本或備忘錄存好，再照著步驟加入主畫面。';}
+    catch(e){m.textContent='無法自動複製，請到「設定・備份」按「複製進度碼」。';}};
+  if($('appSet'))$('appSet').onclick=()=>settings();
+  if($('appNew'))$('appNew').onclick=()=>{S.appMoved=1;save();home();};
+}
 document.getElementById('musicBtn').onclick=()=>AUD.toggle();
 AUD.updateBtn();
 home();
