@@ -525,10 +525,16 @@ const AUD=(()=>{
   }
   function updateBtn(){const b=document.getElementById('musicBtn');if(!b)return;b.setAttribute('aria-pressed',String(S.audio.music));b.textContent=S.audio.music?'♪ 音樂開':'♪ 音樂關';b.classList.toggle('off',!S.audio.music);}
   // 瀏覽器規定：使用者第一次點擊或按鍵後才能出聲
-  function firstGesture(e){ if(started)return; if(e&&e.target&&e.target.id==='musicBtn')return; started=true; apply(); }
-  ['pointerdown','keydown'].forEach(ev=>document.addEventListener(ev,firstGesture,{passive:true}));
+  // 手機上 pointerdown 不算「使用者操作」，要等 pointerup／touchend／click 才能真的出聲；之後每次點擊也順便把被系統暫停的聲音叫醒
+  function firstGesture(e){
+    if(e&&e.target&&e.target.closest&&e.target.closest('#musicBtn'))return;
+    if(!started){ started=true; apply(); return; }
+    if(ctx&&ctx.state!=='running'&&!document.hidden&&(S.audio.music&&timer||S.audio.sfx))ctx.resume();
+  }
+  ['pointerdown','pointerup','touchend','click','keydown'].forEach(ev=>document.addEventListener(ev,firstGesture,{passive:true}));
   return {apply,duck,sfx,updateBtn,
-    toggle(){S.audio.music=!S.audio.music;save();started=true;apply();},
+    // 還沒出聲前按「♪ 音樂開」＝開始播放，而不是把音樂關掉
+    toggle(){if(!started&&S.audio.music){started=true;apply();return;}S.audio.music=!S.audio.music;save();started=true;apply();},
     setVol(v){S.audio.vol=v;save();if(ctx&&timer)music.gain.setTargetAtTime(volOf(),ctx.currentTime,0.1);}};
 })();
 
