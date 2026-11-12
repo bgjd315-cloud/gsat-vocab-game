@@ -1,0 +1,1594 @@
+[
+ {
+  "id": "TO-0001",
+  "word": "memo",
+  "day": 1,
+  "rank": 6
+ },
+ {
+  "id": "TO-0002",
+  "word": "receptionist",
+  "day": 1,
+  "rank": 72
+ },
+ {
+  "id": "TO-0003",
+  "word": "photocopy",
+  "day": 1,
+  "rank": 123
+ },
+ {
+  "id": "TO-0004",
+  "word": "copier",
+  "day": 1,
+  "rank": 132
+ },
+ {
+  "id": "TO-0005",
+  "word": "cartridge",
+  "day": 1,
+  "rank": 180
+ },
+ {
+  "id": "TO-0006",
+  "word": "paperwork",
+  "day": 1,
+  "rank": 222
+ },
+ {
+  "id": "TO-0007",
+  "word": "memorandum",
+  "day": 1,
+  "rank": 259
+ },
+ {
+  "id": "TO-0008",
+  "word": "delete",
+  "day": 1,
+  "rank": 299
+ },
+ {
+  "id": "TO-0009",
+  "word": "automate",
+  "day": 1,
+  "rank": 388
+ },
+ {
+  "id": "TO-0010",
+  "word": "outdated",
+  "day": 1,
+  "rank": 446
+ },
+ {
+  "id": "TO-0011",
+  "word": "rearrange",
+  "day": 1,
+  "rank": 488
+ },
+ {
+  "id": "TO-0012",
+  "word": "misplace",
+  "day": 1,
+  "rank": 504
+ },
+ {
+  "id": "TO-0013",
+  "word": "login",
+  "day": 1,
+  "rank": 525
+ },
+ {
+  "id": "TO-0014",
+  "word": "proofread",
+  "day": 1,
+  "rank": 532
+ },
+ {
+  "id": "TO-0015",
+  "word": "unspecified",
+  "day": 1,
+  "rank": 590
+ },
+ {
+  "id": "TO-0016",
+  "word": "periodically",
+  "day": 1,
+  "rank": 642
+ },
+ {
+  "id": "TO-0017",
+  "word": "authorization",
+  "day": 1,
+  "rank": 661
+ },
+ {
+  "id": "TO-0018",
+  "word": "postal",
+  "day": 1,
+  "rank": 783
+ },
+ {
+  "id": "TO-0019",
+  "word": "spreadsheet",
+  "day": 1,
+  "rank": 791
+ },
+ {
+  "id": "TO-0020",
+  "word": "streamline",
+  "day": 1,
+  "rank": 793
+ },
+ {
+  "id": "TO-0021",
+  "word": "toner",
+  "day": 1,
+  "rank": 798
+ },
+ {
+  "id": "TO-0022",
+  "word": "blueprint",
+  "day": 1,
+  "rank": 892
+ },
+ {
+  "id": "TO-0023",
+  "word": "storeroom",
+  "day": 1,
+  "rank": 1086
+ },
+ {
+  "id": "TO-0024",
+  "word": "departmental",
+  "day": 1,
+  "rank": 1118
+ },
+ {
+  "id": "TO-0025",
+  "word": "diagnostic",
+  "day": 1,
+  "rank": 1121
+ },
+ {
+  "id": "TO-0026",
+  "word": "electronically",
+  "day": 1,
+  "rank": 1128
+ },
+ {
+  "id": "TO-0027",
+  "word": "letterhead",
+  "day": 1,
+  "rank": 1147
+ },
+ {
+  "id": "TO-0028",
+  "word": "modem",
+  "day": 1,
+  "rank": 1149
+ },
+ {
+  "id": "TO-0029",
+  "word": "redesign",
+  "day": 1,
+  "rank": 1167
+ },
+ {
+  "id": "TO-0030",
+  "word": "unauthorized",
+  "day": 1,
+  "rank": 1247
+ },
+ {
+  "id": "TO-0031",
+  "word": "unplug",
+  "day": 1,
+  "rank": 1249
+ },
+ {
+  "id": "TO-0032",
+  "word": "reschedule",
+  "day": 2,
+  "rank": 77
+ },
+ {
+  "id": "TO-0033",
+  "word": "upcoming",
+  "day": 2,
+  "rank": 86
+ },
+ {
+  "id": "TO-0034",
+  "word": "attendee",
+  "day": 2,
+  "rank": 102
+ },
+ {
+  "id": "TO-0035",
+  "word": "availability",
+  "day": 2,
+  "rank": 229
+ },
+ {
+  "id": "TO-0036",
+  "word": "presenter",
+  "day": 2,
+  "rank": 250
+ },
+ {
+  "id": "TO-0037",
+  "word": "finalize",
+  "day": 2,
+  "rank": 390
+ },
+ {
+  "id": "TO-0038",
+  "word": "luncheon",
+  "day": 2,
+  "rank": 394
+ },
+ {
+  "id": "TO-0039",
+  "word": "overview",
+  "day": 2,
+  "rank": 396
+ },
+ {
+  "id": "TO-0040",
+  "word": "boardroom",
+  "day": 2,
+  "rank": 437
+ },
+ {
+  "id": "TO-0041",
+  "word": "informal",
+  "day": 2,
+  "rank": 499
+ },
+ {
+  "id": "TO-0042",
+  "word": "effectiveness",
+  "day": 2,
+  "rank": 572
+ },
+ {
+  "id": "TO-0043",
+  "word": "paraphrase",
+  "day": 2,
+  "rank": 781
+ },
+ {
+  "id": "TO-0044",
+  "word": "affirmative",
+  "day": 2,
+  "rank": 959
+ },
+ {
+  "id": "TO-0045",
+  "word": "brainstorm",
+  "day": 2,
+  "rank": 961
+ },
+ {
+  "id": "TO-0046",
+  "word": "reconsider",
+  "day": 2,
+  "rank": 1166
+ },
+ {
+  "id": "TO-0047",
+  "word": "timeline",
+  "day": 2,
+  "rank": 1241
+ },
+ {
+  "id": "TO-0048",
+  "word": "videoconference",
+  "day": 2,
+  "rank": 1250
+ },
+ {
+  "id": "TO-0049",
+  "word": "itinerary",
+  "day": 3,
+  "rank": 146
+ },
+ {
+  "id": "TO-0050",
+  "word": "complimentary",
+  "day": 3,
+  "rank": 231
+ },
+ {
+  "id": "TO-0051",
+  "word": "occupancy",
+  "day": 3,
+  "rank": 293
+ },
+ {
+  "id": "TO-0052",
+  "word": "cancellation",
+  "day": 3,
+  "rank": 380
+ },
+ {
+  "id": "TO-0053",
+  "word": "excursion",
+  "day": 3,
+  "rank": 463
+ },
+ {
+  "id": "TO-0054",
+  "word": "airfare",
+  "day": 3,
+  "rank": 493
+ },
+ {
+  "id": "TO-0055",
+  "word": "checkout",
+  "day": 3,
+  "rank": 665
+ },
+ {
+  "id": "TO-0056",
+  "word": "concierge",
+  "day": 3,
+  "rank": 668
+ },
+ {
+  "id": "TO-0057",
+  "word": "entrée",
+  "day": 3,
+  "rank": 714
+ },
+ {
+  "id": "TO-0058",
+  "word": "spa",
+  "day": 3,
+  "rank": 790
+ },
+ {
+  "id": "TO-0059",
+  "word": "congestion",
+  "day": 3,
+  "rank": 811
+ },
+ {
+  "id": "TO-0060",
+  "word": "amenity",
+  "day": 3,
+  "rank": 845
+ },
+ {
+  "id": "TO-0061",
+  "word": "deluxe",
+  "day": 3,
+  "rank": 968
+ },
+ {
+  "id": "TO-0062",
+  "word": "purser",
+  "day": 3,
+  "rank": 1005
+ },
+ {
+  "id": "TO-0063",
+  "word": "adapter",
+  "day": 3,
+  "rank": 1023
+ },
+ {
+  "id": "TO-0064",
+  "word": "rider",
+  "day": 3,
+  "rank": 1077
+ },
+ {
+  "id": "TO-0065",
+  "word": "ballroom",
+  "day": 3,
+  "rank": 1104
+ },
+ {
+  "id": "TO-0066",
+  "word": "doorman",
+  "day": 3,
+  "rank": 1127
+ },
+ {
+  "id": "TO-0067",
+  "word": "getaway",
+  "day": 3,
+  "rank": 1136
+ },
+ {
+  "id": "TO-0068",
+  "word": "inconvenience",
+  "day": 4,
+  "rank": 116
+ },
+ {
+  "id": "TO-0069",
+  "word": "provider",
+  "day": 4,
+  "rank": 133
+ },
+ {
+  "id": "TO-0070",
+  "word": "newsletter",
+  "day": 4,
+  "rank": 178
+ },
+ {
+  "id": "TO-0071",
+  "word": "salesperson",
+  "day": 4,
+  "rank": 275
+ },
+ {
+  "id": "TO-0072",
+  "word": "flyer",
+  "day": 4,
+  "rank": 367
+ },
+ {
+  "id": "TO-0073",
+  "word": "showroom",
+  "day": 4,
+  "rank": 376
+ },
+ {
+  "id": "TO-0074",
+  "word": "promotional",
+  "day": 4,
+  "rank": 424
+ },
+ {
+  "id": "TO-0075",
+  "word": "purchaser",
+  "day": 4,
+  "rank": 485
+ },
+ {
+  "id": "TO-0076",
+  "word": "faulty",
+  "day": 4,
+  "rank": 497
+ },
+ {
+  "id": "TO-0077",
+  "word": "newsstand",
+  "day": 4,
+  "rank": 505
+ },
+ {
+  "id": "TO-0078",
+  "word": "generic",
+  "day": 4,
+  "rank": 635
+ },
+ {
+  "id": "TO-0079",
+  "word": "hotline",
+  "day": 4,
+  "rank": 679
+ },
+ {
+  "id": "TO-0080",
+  "word": "customize",
+  "day": 4,
+  "rank": 707
+ },
+ {
+  "id": "TO-0081",
+  "word": "discontinue",
+  "day": 4,
+  "rank": 710
+ },
+ {
+  "id": "TO-0082",
+  "word": "introductory",
+  "day": 4,
+  "rank": 723
+ },
+ {
+  "id": "TO-0083",
+  "word": "sticker",
+  "day": 4,
+  "rank": 841
+ },
+ {
+  "id": "TO-0084",
+  "word": "dealership",
+  "day": 4,
+  "rank": 857
+ },
+ {
+  "id": "TO-0085",
+  "word": "rebate",
+  "day": 4,
+  "rank": 871
+ },
+ {
+  "id": "TO-0086",
+  "word": "overcharge",
+  "day": 4,
+  "rank": 928
+ },
+ {
+  "id": "TO-0087",
+  "word": "refundable",
+  "day": 4,
+  "rank": 940
+ },
+ {
+  "id": "TO-0088",
+  "word": "waive",
+  "day": 4,
+  "rank": 955
+ },
+ {
+  "id": "TO-0089",
+  "word": "cordless",
+  "day": 4,
+  "rank": 967
+ },
+ {
+  "id": "TO-0090",
+  "word": "personalize",
+  "day": 4,
+  "rank": 1002
+ },
+ {
+  "id": "TO-0091",
+  "word": "expedite",
+  "day": 4,
+  "rank": 1046
+ },
+ {
+  "id": "TO-0092",
+  "word": "consignment",
+  "day": 4,
+  "rank": 1113
+ },
+ {
+  "id": "TO-0093",
+  "word": "automotive",
+  "day": 4,
+  "rank": 1199
+ },
+ {
+  "id": "TO-0094",
+  "word": "footwear",
+  "day": 4,
+  "rank": 1215
+ },
+ {
+  "id": "TO-0095",
+  "word": "sedan",
+  "day": 4,
+  "rank": 1229
+ },
+ {
+  "id": "TO-0096",
+  "word": "unreliable",
+  "day": 4,
+  "rank": 1242
+ },
+ {
+  "id": "TO-0097",
+  "word": "invoice",
+  "day": 5,
+  "rank": 19
+ },
+ {
+  "id": "TO-0098",
+  "word": "overtime",
+  "day": 5,
+  "rank": 164
+ },
+ {
+  "id": "TO-0099",
+  "word": "relocate",
+  "day": 5,
+  "rank": 236
+ },
+ {
+  "id": "TO-0100",
+  "word": "intern",
+  "day": 5,
+  "rank": 307
+ },
+ {
+  "id": "TO-0101",
+  "word": "paycheck",
+  "day": 5,
+  "rank": 320
+ },
+ {
+  "id": "TO-0102",
+  "word": "internship",
+  "day": 5,
+  "rank": 345
+ },
+ {
+  "id": "TO-0103",
+  "word": "overdue",
+  "day": 5,
+  "rank": 348
+ },
+ {
+  "id": "TO-0104",
+  "word": "reimburse",
+  "day": 5,
+  "rank": 375
+ },
+ {
+  "id": "TO-0105",
+  "word": "businessperson",
+  "day": 5,
+  "rank": 495
+ },
+ {
+  "id": "TO-0106",
+  "word": "managerial",
+  "day": 5,
+  "rank": 526
+ },
+ {
+  "id": "TO-0107",
+  "word": "recruiter",
+  "day": 5,
+  "rank": 533
+ },
+ {
+  "id": "TO-0108",
+  "word": "stockholder",
+  "day": 5,
+  "rank": 537
+ },
+ {
+  "id": "TO-0109",
+  "word": "payroll",
+  "day": 5,
+  "rank": 581
+ },
+ {
+  "id": "TO-0110",
+  "word": "downturn",
+  "day": 5,
+  "rank": 631
+ },
+ {
+  "id": "TO-0111",
+  "word": "payable",
+  "day": 5,
+  "rank": 686
+ },
+ {
+  "id": "TO-0112",
+  "word": "economize",
+  "day": 5,
+  "rank": 713
+ },
+ {
+  "id": "TO-0113",
+  "word": "foreman",
+  "day": 5,
+  "rank": 769
+ },
+ {
+  "id": "TO-0114",
+  "word": "fundraise",
+  "day": 5,
+  "rank": 772
+ },
+ {
+  "id": "TO-0115",
+  "word": "organizational",
+  "day": 5,
+  "rank": 833
+ },
+ {
+  "id": "TO-0116",
+  "word": "freelance",
+  "day": 5,
+  "rank": 864
+ },
+ {
+  "id": "TO-0117",
+  "word": "debit",
+  "day": 5,
+  "rank": 901
+ },
+ {
+  "id": "TO-0118",
+  "word": "downsize",
+  "day": 5,
+  "rank": 905
+ },
+ {
+  "id": "TO-0119",
+  "word": "flextime",
+  "day": 5,
+  "rank": 911
+ },
+ {
+  "id": "TO-0120",
+  "word": "reimbursement",
+  "day": 5,
+  "rank": 941
+ },
+ {
+  "id": "TO-0121",
+  "word": "attire",
+  "day": 5,
+  "rank": 1029
+ },
+ {
+  "id": "TO-0122",
+  "word": "layoff",
+  "day": 5,
+  "rank": 1060
+ },
+ {
+  "id": "TO-0123",
+  "word": "overpay",
+  "day": 5,
+  "rank": 1065
+ },
+ {
+  "id": "TO-0124",
+  "word": "penalize",
+  "day": 5,
+  "rank": 1068
+ },
+ {
+  "id": "TO-0125",
+  "word": "relocation",
+  "day": 5,
+  "rank": 1074
+ },
+ {
+  "id": "TO-0126",
+  "word": "audition",
+  "day": 5,
+  "rank": 1102
+ },
+ {
+  "id": "TO-0127",
+  "word": "paralegal",
+  "day": 5,
+  "rank": 1158
+ },
+ {
+  "id": "TO-0128",
+  "word": "stockbroker",
+  "day": 5,
+  "rank": 1181
+ },
+ {
+  "id": "TO-0129",
+  "word": "apprehensive",
+  "day": 5,
+  "rank": 1198
+ },
+ {
+  "id": "TO-0130",
+  "word": "induction",
+  "day": 5,
+  "rank": 1223
+ },
+ {
+  "id": "TO-0131",
+  "word": "wellness",
+  "day": 5,
+  "rank": 1231
+ },
+ {
+  "id": "TO-0132",
+  "word": "renovation",
+  "day": 6,
+  "rank": 79
+ },
+ {
+  "id": "TO-0133",
+  "word": "renovate",
+  "day": 6,
+  "rank": 124
+ },
+ {
+  "id": "TO-0134",
+  "word": "unattended",
+  "day": 6,
+  "rank": 431
+ },
+ {
+  "id": "TO-0135",
+  "word": "malfunction",
+  "day": 6,
+  "rank": 445
+ },
+ {
+  "id": "TO-0136",
+  "word": "realtor",
+  "day": 6,
+  "rank": 487
+ },
+ {
+  "id": "TO-0137",
+  "word": "remodel",
+  "day": 6,
+  "rank": 509
+ },
+ {
+  "id": "TO-0138",
+  "word": "diner",
+  "day": 6,
+  "rank": 596
+ },
+ {
+  "id": "TO-0139",
+  "word": "culinary",
+  "day": 6,
+  "rank": 629
+ },
+ {
+  "id": "TO-0140",
+  "word": "healthcare",
+  "day": 6,
+  "rank": 776
+ },
+ {
+  "id": "TO-0141",
+  "word": "renter",
+  "day": 6,
+  "rank": 785
+ },
+ {
+  "id": "TO-0142",
+  "word": "vacate",
+  "day": 6,
+  "rank": 883
+ },
+ {
+  "id": "TO-0143",
+  "word": "homeowner",
+  "day": 6,
+  "rank": 918
+ },
+ {
+  "id": "TO-0144",
+  "word": "occupant",
+  "day": 6,
+  "rank": 927
+ },
+ {
+  "id": "TO-0145",
+  "word": "redecorate",
+  "day": 6,
+  "rank": 937
+ },
+ {
+  "id": "TO-0146",
+  "word": "condominium",
+  "day": 6,
+  "rank": 965
+ },
+ {
+  "id": "TO-0147",
+  "word": "extinguisher",
+  "day": 6,
+  "rank": 1047
+ },
+ {
+  "id": "TO-0148",
+  "word": "demolish",
+  "day": 6,
+  "rank": 1117
+ },
+ {
+  "id": "TO-0149",
+  "word": "outage",
+  "day": 6,
+  "rank": 1156
+ },
+ {
+  "id": "TO-0150",
+  "word": "overcrowd",
+  "day": 6,
+  "rank": 1157
+ },
+ {
+  "id": "TO-0151",
+  "word": "cleanliness",
+  "day": 6,
+  "rank": 1234
+ },
+ {
+  "id": "TO-0152",
+  "word": "e-book",
+  "day": 1,
+  "rank": 4,
+  "extra": 1
+ },
+ {
+  "id": "TO-0153",
+  "word": "correctly",
+  "day": 1,
+  "rank": 47,
+  "extra": 1
+ },
+ {
+  "id": "TO-0154",
+  "word": "coworker",
+  "day": 1,
+  "rank": 85,
+  "extra": 1
+ },
+ {
+  "id": "TO-0155",
+  "word": "laptop",
+  "day": 1,
+  "rank": 96,
+  "extra": 1
+ },
+ {
+  "id": "TO-0156",
+  "word": "distractor",
+  "day": 1,
+  "rank": 120,
+  "extra": 1
+ },
+ {
+  "id": "TO-0157",
+  "word": "folder",
+  "day": 1,
+  "rank": 122,
+  "extra": 1
+ },
+ {
+  "id": "TO-0158",
+  "word": "rewrite",
+  "day": 1,
+  "rank": 145,
+  "extra": 1
+ },
+ {
+  "id": "TO-0159",
+  "word": "headquarters",
+  "day": 1,
+  "rank": 203,
+  "extra": 1
+ },
+ {
+  "id": "TO-0160",
+  "word": "commonly",
+  "day": 1,
+  "rank": 214,
+  "extra": 1
+ },
+ {
+  "id": "TO-0161",
+  "word": "photocopier",
+  "day": 1,
+  "rank": 260,
+  "extra": 1
+ },
+ {
+  "id": "TO-0162",
+  "word": "desktop",
+  "day": 1,
+  "rank": 403,
+  "extra": 1
+ },
+ {
+  "id": "TO-0163",
+  "word": "sender",
+  "day": 1,
+  "rank": 408,
+  "extra": 1
+ },
+ {
+  "id": "TO-0164",
+  "word": "reviewer",
+  "day": 1,
+  "rank": 474,
+  "extra": 1
+ },
+ {
+  "id": "TO-0165",
+  "word": "programmer",
+  "day": 1,
+  "rank": 531,
+  "extra": 1
+ },
+ {
+  "id": "TO-0166",
+  "word": "tech",
+  "day": 1,
+  "rank": 588,
+  "extra": 1
+ },
+ {
+  "id": "TO-0167",
+  "word": "spam",
+  "day": 1,
+  "rank": 651,
+  "extra": 1
+ },
+ {
+  "id": "TO-0168",
+  "word": "webpage",
+  "day": 1,
+  "rank": 697,
+  "extra": 1
+ },
+ {
+  "id": "TO-0169",
+  "word": "careless",
+  "day": 1,
+  "rank": 808,
+  "extra": 1
+ },
+ {
+  "id": "TO-0170",
+  "word": "anew",
+  "day": 1,
+  "rank": 888,
+  "extra": 1
+ },
+ {
+  "id": "TO-0171",
+  "word": "evenly",
+  "day": 1,
+  "rank": 975,
+  "extra": 1
+ },
+ {
+  "id": "TO-0172",
+  "word": "misidentify",
+  "day": 1,
+  "rank": 996,
+  "extra": 1
+ },
+ {
+  "id": "TO-0173",
+  "word": "contraction",
+  "day": 1,
+  "rank": 1039,
+  "extra": 1
+ },
+ {
+  "id": "TO-0174",
+  "word": "smartphone",
+  "day": 1,
+  "rank": 1178,
+  "extra": 1
+ },
+ {
+  "id": "TO-0175",
+  "word": "by-law",
+  "day": 1,
+  "rank": 1203,
+  "extra": 1
+ },
+ {
+  "id": "TO-0176",
+  "word": "hereby",
+  "day": 1,
+  "rank": 1218,
+  "extra": 1
+ },
+ {
+  "id": "TO-0177",
+  "word": "restatement",
+  "day": 1,
+  "rank": 1228,
+  "extra": 1
+ },
+ {
+  "id": "TO-0178",
+  "word": "o'clock",
+  "day": 2,
+  "rank": 10,
+  "extra": 1
+ },
+ {
+  "id": "TO-0179",
+  "word": "caller",
+  "day": 2,
+  "rank": 35,
+  "extra": 1
+ },
+ {
+  "id": "TO-0180",
+  "word": "inference",
+  "day": 2,
+  "rank": 68,
+  "extra": 1
+ },
+ {
+  "id": "TO-0181",
+  "word": "planner",
+  "day": 2,
+  "rank": 530,
+  "extra": 1
+ },
+ {
+  "id": "TO-0182",
+  "word": "unsure",
+  "day": 2,
+  "rank": 556,
+  "extra": 1
+ },
+ {
+  "id": "TO-0183",
+  "word": "unavailable",
+  "day": 2,
+  "rank": 695,
+  "extra": 1
+ },
+ {
+  "id": "TO-0184",
+  "word": "ideally",
+  "day": 2,
+  "rank": 720,
+  "extra": 1
+ },
+ {
+  "id": "TO-0185",
+  "word": "silently",
+  "day": 2,
+  "rank": 789,
+  "extra": 1
+ },
+ {
+  "id": "TO-0186",
+  "word": "bye",
+  "day": 2,
+  "rank": 807,
+  "extra": 1
+ },
+ {
+  "id": "TO-0187",
+  "word": "generalization",
+  "day": 2,
+  "rank": 822,
+  "extra": 1
+ },
+ {
+  "id": "TO-0188",
+  "word": "reflexive",
+  "day": 2,
+  "rank": 838,
+  "extra": 1
+ },
+ {
+  "id": "TO-0189",
+  "word": "formally",
+  "day": 2,
+  "rank": 984,
+  "extra": 1
+ },
+ {
+  "id": "TO-0190",
+  "word": "factual",
+  "day": 2,
+  "rank": 1213,
+  "extra": 1
+ },
+ {
+  "id": "TO-0191",
+  "word": "intently",
+  "day": 2,
+  "rank": 1225,
+  "extra": 1
+ },
+ {
+  "id": "TO-0192",
+  "word": "sightseeing",
+  "day": 3,
+  "rank": 325,
+  "extra": 1
+ },
+ {
+  "id": "TO-0193",
+  "word": "safely",
+  "day": 3,
+  "rank": 585,
+  "extra": 1
+ },
+ {
+  "id": "TO-0194",
+  "word": "sauna",
+  "day": 3,
+  "rank": 689,
+  "extra": 1
+ },
+ {
+  "id": "TO-0195",
+  "word": "seaside",
+  "day": 3,
+  "rank": 740,
+  "extra": 1
+ },
+ {
+  "id": "TO-0196",
+  "word": "thunderstorm",
+  "day": 3,
+  "rank": 951,
+  "extra": 1
+ },
+ {
+  "id": "TO-0197",
+  "word": "hiker",
+  "day": 3,
+  "rank": 990,
+  "extra": 1
+ },
+ {
+  "id": "TO-0198",
+  "word": "unpleasant",
+  "day": 3,
+  "rank": 1019,
+  "extra": 1
+ },
+ {
+  "id": "TO-0199",
+  "word": "comfortably",
+  "day": 3,
+  "rank": 1037,
+  "extra": 1
+ },
+ {
+  "id": "TO-0200",
+  "word": "housekeeping",
+  "day": 3,
+  "rank": 1053,
+  "extra": 1
+ },
+ {
+  "id": "TO-0201",
+  "word": "underground",
+  "day": 3,
+  "rank": 1091,
+  "extra": 1
+ },
+ {
+  "id": "TO-0202",
+  "word": "toiletries",
+  "day": 3,
+  "rank": 1186,
+  "extra": 1
+ },
+ {
+  "id": "TO-0203",
+  "word": "sunscreen",
+  "day": 3,
+  "rank": 1230,
+  "extra": 1
+ },
+ {
+  "id": "TO-0204",
+  "word": "mini",
+  "day": 4,
+  "rank": 114,
+  "extra": 1
+ },
+ {
+  "id": "TO-0205",
+  "word": "unreal",
+  "day": 4,
+  "rank": 119,
+  "extra": 1
+ },
+ {
+  "id": "TO-0206",
+  "word": "shopper",
+  "day": 4,
+  "rank": 183,
+  "extra": 1
+ },
+ {
+  "id": "TO-0207",
+  "word": "unhappy",
+  "day": 4,
+  "rank": 239,
+  "extra": 1
+ },
+ {
+  "id": "TO-0208",
+  "word": "worldwide",
+  "day": 4,
+  "rank": 253,
+  "extra": 1
+ },
+ {
+  "id": "TO-0209",
+  "word": "seller",
+  "day": 4,
+  "rank": 323,
+  "extra": 1
+ },
+ {
+  "id": "TO-0210",
+  "word": "pants",
+  "day": 4,
+  "rank": 372,
+  "extra": 1
+ },
+ {
+  "id": "TO-0211",
+  "word": "locally",
+  "day": 4,
+  "rank": 606,
+  "extra": 1
+ },
+ {
+  "id": "TO-0212",
+  "word": "ma'am",
+  "day": 4,
+  "rank": 725,
+  "extra": 1
+ },
+ {
+  "id": "TO-0213",
+  "word": "dissatisfied",
+  "day": 4,
+  "rank": 765,
+  "extra": 1
+ },
+ {
+  "id": "TO-0214",
+  "word": "lifestyle",
+  "day": 4,
+  "rank": 829,
+  "extra": 1
+ },
+ {
+  "id": "TO-0215",
+  "word": "internationally",
+  "day": 4,
+  "rank": 867,
+  "extra": 1
+ },
+ {
+  "id": "TO-0216",
+  "word": "teen",
+  "day": 4,
+  "rank": 878,
+  "extra": 1
+ },
+ {
+  "id": "TO-0217",
+  "word": "freighter",
+  "day": 4,
+  "rank": 913,
+  "extra": 1
+ },
+ {
+  "id": "TO-0218",
+  "word": "skateboard",
+  "day": 4,
+  "rank": 946,
+  "extra": 1
+ },
+ {
+  "id": "TO-0219",
+  "word": "unused",
+  "day": 4,
+  "rank": 954,
+  "extra": 1
+ },
+ {
+  "id": "TO-0220",
+  "word": "poorly",
+  "day": 4,
+  "rank": 1003,
+  "extra": 1
+ },
+ {
+  "id": "TO-0221",
+  "word": "revolutionize",
+  "day": 4,
+  "rank": 1009,
+  "extra": 1
+ },
+ {
+  "id": "TO-0222",
+  "word": "salespeople",
+  "day": 4,
+  "rank": 1080,
+  "extra": 1
+ },
+ {
+  "id": "TO-0223",
+  "word": "wristwatch",
+  "day": 4,
+  "rank": 1194,
+  "extra": 1
+ },
+ {
+  "id": "TO-0224",
+  "word": "homemade",
+  "day": 4,
+  "rank": 1220,
+  "extra": 1
+ },
+ {
+  "id": "TO-0225",
+  "word": "trainer",
+  "day": 5,
+  "rank": 228,
+  "extra": 1
+ },
+ {
+  "id": "TO-0226",
+  "word": "test taker",
+  "day": 5,
+  "rank": 313,
+  "extra": 1
+ },
+ {
+  "id": "TO-0227",
+  "word": "job seeker",
+  "day": 5,
+  "rank": 428,
+  "extra": 1
+ },
+ {
+  "id": "TO-0228",
+  "word": "inexperience",
+  "day": 5,
+  "rank": 465,
+  "extra": 1
+ },
+ {
+  "id": "TO-0229",
+  "word": "renown",
+  "day": 5,
+  "rank": 648,
+  "extra": 1
+ },
+ {
+  "id": "TO-0230",
+  "word": "lighter",
+  "day": 5,
+  "rank": 992,
+  "extra": 1
+ },
+ {
+  "id": "TO-0231",
+  "word": "unpaid",
+  "day": 5,
+  "rank": 1092,
+  "extra": 1
+ },
+ {
+  "id": "TO-0232",
+  "word": "euro",
+  "day": 5,
+  "rank": 1132,
+  "extra": 1
+ },
+ {
+  "id": "TO-0233",
+  "word": "hardworking",
+  "day": 5,
+  "rank": 1139,
+  "extra": 1
+ },
+ {
+  "id": "TO-0234",
+  "word": "indirect",
+  "day": 5,
+  "rank": 1141,
+  "extra": 1
+ },
+ {
+  "id": "TO-0235",
+  "word": "café",
+  "day": 6,
+  "rank": 105,
+  "extra": 1
+ },
+ {
+  "id": "TO-0236",
+  "word": "fitness",
+  "day": 6,
+  "rank": 115,
+  "extra": 1
+ },
+ {
+  "id": "TO-0237",
+  "word": "ice cream",
+  "day": 6,
+  "rank": 291,
+  "extra": 1
+ },
+ {
+  "id": "TO-0238",
+  "word": "air conditioner",
+  "day": 6,
+  "rank": 352,
+  "extra": 1
+ },
+ {
+  "id": "TO-0239",
+  "word": "dishwasher",
+  "day": 6,
+  "rank": 711,
+  "extra": 1
+ },
+ {
+  "id": "TO-0240",
+  "word": "repairperson",
+  "day": 6,
+  "rank": 786,
+  "extra": 1
+ },
+ {
+  "id": "TO-0241",
+  "word": "walkway",
+  "day": 6,
+  "rank": 800,
+  "extra": 1
+ },
+ {
+  "id": "TO-0242",
+  "word": "cooler",
+  "day": 6,
+  "rank": 855,
+  "extra": 1
+ },
+ {
+  "id": "TO-0243",
+  "word": "refinery",
+  "day": 6,
+  "rank": 938,
+  "extra": 1
+ },
+ {
+  "id": "TO-0244",
+  "word": "baker",
+  "day": 6,
+  "rank": 960,
+  "extra": 1
+ },
+ {
+  "id": "TO-0245",
+  "word": "cookbook",
+  "day": 6,
+  "rank": 1040,
+  "extra": 1
+ },
+ {
+  "id": "TO-0246",
+  "word": "cheeseburger",
+  "day": 6,
+  "rank": 1109,
+  "extra": 1
+ },
+ {
+  "id": "TO-0247",
+  "word": "donut",
+  "day": 6,
+  "rank": 1126,
+  "extra": 1
+ },
+ {
+  "id": "TO-0248",
+  "word": "tablecloth",
+  "day": 6,
+  "rank": 1182,
+  "extra": 1
+ },
+ {
+  "id": "TO-0249",
+  "word": "daytime",
+  "day": 6,
+  "rank": 1207,
+  "extra": 1
+ }
+]

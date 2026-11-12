@@ -1,0 +1,5982 @@
+[
+{
+"y": 97,
+"n": 1,
+"zh": "艾咪沒有注意到課程表的更動，因此錯過了那堂課。",
+"oz": [
+"逮捕",
+"警示",
+"注意到",
+"延遲"
+],
+"ex": "句意：艾咪沒有＿＿課表的更動，所以錯過上課。關鍵線索是 missed the class，表示她沒察覺到變動。空格後接名詞 changes，需及物動詞。notice 意為「注意到」，notice changes 語意通順，故選 notice。",
+"status": "ok",
+"hint": "注意後半句「錯過了那堂課」，推想她前面沒做到什麼事。",
+"why": [
+"(A) arrest 逮捕：changes 是課表更動，不是能逮捕的對象",
+"(B) alarm 警示：alarm 是使人驚慌，不能接課表變動作受詞",
+"(C) notice 注意到，錯過課程是因為沒察覺變動，符合",
+"(D) delay 延遲：delay 是拖延，沒察覺和延遲課表無關"
+],
+"col": "notice a change 注意到變化；take notice of 留意（例：Did you notice the sign? 你有注意到那個告示嗎？）",
+"fam": "notice v. → noticeable adj.（顯眼的）；notice n.（通知）",
+"strat": "抓 missed the class 這個結果線索，反推空格是「沒察覺」。"
+},
+{
+"y": 97,
+"n": 2,
+"zh": "老年人不容易抓自己的背，所以背癢時需要別人幫忙。",
+"oz": [
+"貼標籤",
+"抓、搔",
+"減輕",
+"擠壓"
+],
+"ex": "句意：老人不容易＿＿自己的背，背癢時需要人幫忙。線索是 backs itch（背癢），癢時自然要「抓」。空格需及物動詞，接 their backs。scratch 意為抓、搔，最符合，故選 scratch。",
+"status": "ok",
+"hint": "看後面 when their backs itch，想想背癢時人們會對背做什麼動作。",
+"why": [
+"(A) label 貼標籤：label 是貼標籤，背部癢時不會這樣處理",
+"(B) scratch 抓、搔，癢了要抓，與 itch 呼應",
+"(C) lighten 減輕：lighten 指減輕重量或使變亮，不能處理背癢",
+"(D) squeeze 擠壓：squeeze 是壓擠，背癢時應抓而非擠"
+],
+"col": "scratch one's head 搔頭；scratch the surface 只觸及表面（例：We have only scratched the surface. 我們只是淺嘗而已）",
+"fam": "scratch v./n.；scratchy adj.（發癢的）",
+"strat": "先抓住 itch（癢）這個情境詞，想動作再選動詞。"
+},
+{
+"y": 97,
+"n": 3,
+"zh": "瑪麗胃痛，需要吃容易消化的食物。",
+"oz": [
+"發射、發起",
+"入侵",
+"採用",
+"消化"
+],
+"ex": "句意：瑪麗胃痛，要吃容易＿＿的食物。線索是 stomachache 與 food，食物在胃裡被處理，所以是消化。easy to 後接原形動詞，digest 即「消化」，故選 digest。",
+"status": "ok",
+"hint": "空格前有 easy to，想想吃進胃裡的食物要容易「怎麼樣」。",
+"why": [
+"(A) launch 發射、發起：launch 接火箭或計畫，食物不能被發射",
+"(B) invade 入侵：invade 接國家或領土，不能形容食物",
+"(C) adopt 採用：adopt 接方法或意見，與胃痛吃東西無關",
+"(D) digest 消化，胃痛要吃好消化的食物，正確"
+],
+"col": "easy to digest 容易消化；digest information 吸收資訊（例：It takes time to digest the news. 要花點時間消化這則消息）",
+"fam": "digest v. → digestion n.（消化）→ digestive adj.",
+"strat": "看 easy to 後面要接的動作，配合 stomachache 想食物的處理方式。"
+},
+{
+"y": 97,
+"n": 4,
+"zh": "由於我們的教室沒有冷氣，炎熱的夏天我們必須忍受高溫。",
+"oz": [
+"消耗",
+"忍受",
+"恢復",
+"促進"
+],
+"ex": "句意：教室沒冷氣，炎熱夏天只好＿＿高溫。線索是 not air-conditioned，表示無法改善，只能忍受。空格接 the heat，tolerate 意為忍受，符合語意，故選 tolerate。",
+"status": "ok",
+"hint": "注意 not air-conditioned 與 hot summer days，想想沒冷氣時人只能怎麼面對熱。",
+"why": [
+"(A) consume 消耗：consume 指耗用資源，consume the heat 不通順",
+"(B) tolerate 忍受，沒冷氣只能忍耐熱，正確",
+"(C) recover 恢復：recover 指康復或取回，不能接 the heat",
+"(D) promote 促進：promote 指推廣或提升，沒有人會想促進高溫"
+],
+"col": "tolerate pain 忍受疼痛；tolerate differences 容忍差異（例：I can't tolerate noise. 我受不了噪音）",
+"fam": "tolerate v. → tolerance n. → tolerant adj.",
+"strat": "沒冷氣是無奈處境，找「只能忍耐」的動詞。"
+},
+{
+"y": 97,
+"n": 5,
+"zh": "蘇笨手笨腳，所以逛街時總是打破東西。",
+"oz": [
+"虔誠的",
+"視覺的",
+"笨拙的",
+"親密的"
+],
+"ex": "句意：蘇很＿＿，所以逛街總是打破東西。so...that 表因果，always breaks something 是結果，原因應是動作笨拙。空格需形容詞，clumsy 即笨手笨腳，故選 clumsy。",
+"status": "ok",
+"hint": "看 always breaks something，推想她的性格或動作特點；空格前有 so，後面是 that 子句表結果。",
+"why": [
+"(A) religious 虔誠的：religious 與打破東西沒有因果關係",
+"(B) visual 視覺的：visual 與視覺有關，不能說明常打破東西",
+"(C) clumsy 笨拙的，笨手笨腳才會常打破東西",
+"(D) intimate 親密的：intimate 形容關係，不能解釋為何常打破東西"
+],
+"col": "clumsy hands 笨手笨腳；a clumsy excuse 拙劣的藉口（例：He is clumsy with tools. 他不擅長用工具）",
+"fam": "clumsy adj. → clumsily adv. → clumsiness n.",
+"strat": "so...that 表結果，從結果 always breaks 倒推個性。"
+},
+{
+"y": 97,
+"n": 6,
+"zh": "安喜歡逛花市，她相信花的香氣能使她心情清爽。",
+"oz": [
+"例子",
+"優勢",
+"家電",
+"香氣"
+],
+"ex": "句意：安相信花的＿＿使她心情清爽。空格前有 the，後接 of flowers，需名詞。能讓人精神一振又與花有關的是香氣。fragrance 即香氣，故選 fragrance。",
+"status": "ok",
+"hint": "空格前有 the，後有 of flowers，看 refreshed her mind 想想花能帶給人的感受。",
+"why": [
+"(A) instance 例子：instance 不能接 of flowers 表示使人清爽的東西",
+"(B) dominance 優勢：dominance 指支配地位，與花的感官效果無關",
+"(C) appliance 家電：appliance 與花無關，也不會使人心情清爽",
+"(D) fragrance 香氣，花香能讓人神清氣爽，正確"
+],
+"col": "the fragrance of roses 玫瑰香；a light fragrance 淡淡的香氣（例：The fragrance filled the room. 香氣瀰漫整個房間）",
+"fam": "fragrance n. → fragrant adj.（芳香的）",
+"strat": "refreshed her mind 提示是感官（嗅覺）帶來的感受。"
+},
+{
+"y": 97,
+"n": 7,
+"zh": "查爾斯王子有機農場的收益都捐給慈善機構，以幫助窮人和病人。",
+"oz": [
+"慈善機構",
+"公告",
+"收成",
+"叛亂者"
+],
+"ex": "句意：王子有機農場的利潤捐給＿＿，幫助窮人和病人。go to 後接受益對象，help the poor and the sick 說明是做善事的機構。charities 即慈善機構，故選 charities。",
+"status": "ok",
+"hint": "注意 go to ... to help the poor and the sick，想想利潤該流向哪種機構；空格是複數名詞。",
+"why": [
+"(A) charities 慈善機構，用來幫助窮人與病人，正確",
+"(B) bulletins 公告：bulletins 是消息公布，利潤不會流向公告",
+"(C) harvests 收成：harvests 是農作物收穫，不是接受捐款的對象",
+"(D) rebels 叛亂者：rebels 是造反的人，不會用利潤去幫助他們"
+],
+"col": "donate to charity 捐給慈善機構；a charity event 慈善活動（例：She gave money to charity. 她把錢捐給慈善團體）",
+"fam": "charity n. → charitable adj.（慈善的）",
+"strat": "看 go to 後面的受益者，與 help the poor 呼應。"
+},
+{
+"y": 97,
+"n": 8,
+"zh": "傑克獲得難得的特權，可以使用總統辦公室，讓其他人相當嫉妒。",
+"oz": [
+"惡作劇",
+"特權",
+"參與",
+"職業"
+],
+"ex": "句意：傑克獲得使用總統辦公室的難得＿＿，讓別人很嫉妒。the rare ___ of + V-ing，表示少有的特別待遇。privilege 意為特權、榮幸，最合適，故選 privilege。",
+"status": "ok",
+"hint": "看 rare 修飾空格，且 made others quite jealous，想想能使人嫉妒的是什麼待遇。",
+"why": [
+"(A) mischief 惡作劇：mischief 是調皮搗蛋，不會讓人嫉妒",
+"(B) privilege 特權，罕見的特別待遇令人嫉妒，正確",
+"(C) involvement 參與：involvement 不與 rare 和 of using 連成此意",
+"(D) occupation 職業：occupation 是工作類別，不是能被賦予的機會"
+],
+"col": "have the privilege of... 有幸／享有……的特權；privileged class 特權階級（例：It's a privilege to meet you. 很榮幸認識你）",
+"fam": "privilege n. → privileged adj.",
+"strat": "rare 加 jealous 暗示獲得特別待遇，找「特權」意義的字。"
+},
+{
+"y": 97,
+"n": 9,
+"zh": "這台新電腦顯然比舊的好，因為它有許多新功能。",
+"oz": [
+"技術的",
+"合適的",
+"較優越的",
+"典型的"
+],
+"ex": "句意：這台新電腦顯然＿＿於舊的，因為功能很多。be ___ to 是比較結構，superior to 表示優於。because 後說有許多新功能，故選 superior。",
+"status": "ok",
+"hint": "空格後有 to the old one，看 because 後面說新電腦功能多，想想新舊比較結果。",
+"why": [
+"(A) technical 技術的：technical 後不接 to 做比較，也不表優劣",
+"(B) suitable 合適的：suitable 要接 for，不能用來比新舊優劣",
+"(C) superior 較優越的，superior to 是固定比較用法，正確",
+"(D) typical 典型的：typical 是 typical of，不能表示比較優劣"
+],
+"col": "be superior to 優於；a superior product 優質產品（例：This design is superior to that one. 這個設計比那個好）",
+"fam": "superior adj./n. → superiority n.；反義 inferior",
+"strat": "空格後有 to，先想哪個形容詞用 to 比較兩者。"
+},
+{
+"y": 97,
+"n": 10,
+"zh": "西蒙熱愛工作，對他而言工作永遠第一，家人和朋友則是次要的。",
+"oz": [
+"次要的",
+"暫時的",
+"善於交際的",
+"有能力的"
+],
+"ex": "句意：賽門熱愛工作，工作永遠第一，家人朋友是＿＿。comes first 與空格對比，表示家人朋友排後面。secondary 意為次要的，故選 secondary。",
+"status": "ok",
+"hint": "看 work always comes first，空格要和 first 形成對比。",
+"why": [
+"(A) secondary 次要的，與 first 對比，正確",
+"(B) temporary 暫時的：temporary 指時間短暫，不是談重要順序",
+"(C) sociable 善於交際的：sociable 形容人，不能表示家人朋友的順位",
+"(D) capable 有能力的：capable 與家人朋友排在工作之後無關"
+],
+"col": "of secondary importance 次要的；secondary school 中等學校（例：Safety is secondary to speed here. 在這裡速度比安全重要）",
+"fam": "secondary adj. ← second；反義 primary",
+"strat": "comes first 與空格對比，找表「排後面」的字。"
+},
+{
+"y": 97,
+"n": 11,
+"zh": "雖然你的計畫看起來不錯，你還是要務實，考慮自己實際做得到什麼。",
+"oz": [
+"戲劇性的",
+"務實的",
+"壓力大的",
+"可管理的"
+],
+"ex": "句意：雖然計畫看起來不錯，你必須＿＿，考慮實際能做到什麼。Although 引導讓步，後面應提醒腳踏實地。realistic 意為務實的、切合實際的，故選 realistic。",
+"status": "ok",
+"hint": "看 Although 表轉折，加上 consider what you can actually do，想想空格要表達的態度。",
+"why": [
+"(A) dramatic 戲劇性的：dramatic 與考慮實際能做到什麼無關",
+"(B) realistic 務實的，consider what you can actually do 就是務實，正確",
+"(C) stressful 壓力大的：stressful 形容情境，不能當人的態度",
+"(D) manageable 可管理的：manageable 形容事物容易處理，不能接 you have to be"
+],
+"col": "be realistic 實際一點；a realistic goal 切實的目標（例：Be realistic about your budget. 預算要務實）",
+"fam": "realistic adj. → reality n. → realize v.",
+"strat": "Although 轉折加 what you can actually do，找「務實」。"
+},
+{
+"y": 97,
+"n": 12,
+"zh": "1994年建於海底的英法之間的隧道，使英國與歐洲大陸聯繫更緊密。",
+"oz": [
+"瀑布",
+"寺廟",
+"隧道",
+"海峽"
+],
+"ex": "句意：1994年建於海底的英法間的＿＿使英國與歐洲大陸連結。built under the sea 表示海底工程，用來連接兩地的是隧道。tunnel 即隧道，故選 tunnel（英法海底隧道）。",
+"status": "ok",
+"hint": "看 connects the UK with mainland Europe 且 built under the sea，想想連接兩地的海底建築。",
+"why": [
+"(A) waterfall 瀑布：waterfall 是自然景觀，不能蓋在海底",
+"(B) temple 寺廟：temple 是宗教建築，不能連接英法",
+"(C) tunnel 隧道，海底隧道連接英法，正確",
+"(D) channel 海峽：channel 是自然水域，不能說被 built"
+],
+"col": "the Channel Tunnel 英法海底隧道；dig a tunnel 挖隧道（例：The train passes through a long tunnel. 火車穿過一條長隧道）",
+"fam": "tunnel n./v.",
+"strat": "built under the sea 加 connects，想人造的通道。"
+},
+{
+"y": 97,
+"n": 13,
+"zh": "這個旅遊方案很吸引人，那個看起來也同樣吸引人，我不知道該選哪一個。",
+"oz": [
+"同樣地",
+"每年地",
+"僅僅",
+"感激地"
+],
+"ex": "句意：這個旅遊方案很吸引人，那個看起來＿＿吸引人，我不知選哪個。前面說這個很吸引人，後面又說不知選哪個，表示兩者同樣吸引人。equally 即同樣地，故選 equally。",
+"status": "ok",
+"hint": "空格修飾 attractive，看前半句 very appealing，想想兩個方案的吸引力關係。",
+"why": [
+"(A) equally 同樣地，兩個方案一樣吸引人，正確",
+"(B) annually 每年地：annually 指每年一次，與比較吸引力無關",
+"(C) merely 僅僅：merely 帶有只是之意，不能表示兩方案一樣吸引人",
+"(D) gratefully 感激地：gratefully 是情感副詞，不能形容方案"
+],
+"col": "equally important 同樣重要；treat everyone equally 平等對待（例：Both are equally good. 兩者一樣好）",
+"fam": "equal adj./v. → equally adv. → equality n.",
+"strat": "前句 very appealing，後句要選能表「也一樣」的副詞。"
+},
+{
+"y": 97,
+"n": 14,
+"zh": "年輕的台灣舞者許芳宜最近在紐約林肯中心演出，獲得極大讚賞。",
+"oz": [
+"表演",
+"假裝",
+"延期",
+"說服"
+],
+"ex": "句意：許芳宜近日在林肯中心＿＿，獲得大量讚賞。她是舞者，在劇場能獲得稱讚的是表演。performed 意為表演，且此處不需受詞，故選 performed。",
+"status": "ok",
+"hint": "注意主詞是 dancer，後面還有 won praise，想想她在林肯中心做了什麼。",
+"why": [
+"(A) performed 表演，舞者在林肯中心演出，正確",
+"(B) pretended 假裝：pretend 後常接 to V 或 that，不能單獨用",
+"(C) postponed 延期：postpone 必須接受詞，不合在林肯中心的描述",
+"(D) persuaded 說服：persuade 要接人，無法與 at Lincoln Center 連用"
+],
+"col": "perform at a theater 在劇場演出；perform a task 執行任務（例：She performed on stage. 她登台表演）",
+"fam": "perform v. → performance n. → performer n.",
+"strat": "主詞是舞者，從 won praise 想她做的事（不及物）。"
+},
+{
+"y": 97,
+"n": 15,
+"zh": "警方徹底搜查了嫌犯的房子，幾乎把整間屋子翻了過來。",
+"oz": [
+"相對地",
+"徹底地",
+"隨意地",
+"永久地"
+],
+"ex": "句意：警方＿＿搜查嫌犯的房子，幾乎把整個房子翻過來。後句說差點把房子翻過來，表示搜得很徹底。thoroughly 即徹底地，故選 thoroughly。",
+"status": "ok",
+"hint": "看 almost turned the whole house upside down，想想警察搜查房子的程度。",
+"why": [
+"(A) relatively 相對地：relatively 是程度副詞，不能形容搜查方式",
+"(B) thoroughly 徹底地，翻遍房子就是徹底，正確",
+"(C) casually 隨意地：casually 與翻遍整個房子矛盾",
+"(D) permanently 永久地：permanently 指永久，不能形容搜查"
+],
+"col": "search thoroughly 徹底搜查；thoroughly enjoy 非常享受（例：The doctor examined him thoroughly. 醫生為他做了徹底的檢查）",
+"fam": "thorough adj. → thoroughly adv.",
+"strat": "後句 turned the whole house upside down 說明搜查程度。"
+},
+{
+"y": 98,
+"n": 1,
+"zh": "史提夫對那地方的描述非常生動，我幾乎能在腦中想像出來。",
+"oz": [
+"苦的",
+"生動的",
+"敏感的",
+"勇敢的"
+],
+"ex": "句意：史蒂夫對那地方的描述很＿＿，讓我幾乎能在腦中想像。so...that 表結果：能想像畫面，是因為描述生動。vivid 即生動的，故選 vivid。",
+"status": "ok",
+"hint": "看 so ... that I could almost picture it，想想怎樣的描述能讓人腦中浮現畫面。",
+"why": [
+"(A) bitter 苦的：bitter 形容味道或心情，不能形容描述",
+"(B) vivid 生動的，能使人在腦中浮現畫面，正確",
+"(C) sensitive 敏感的：sensitive 與能否想像畫面無關",
+"(D) courageous 勇敢的：courageous 形容人的勇氣，與 description 不搭"
+],
+"col": "a vivid description 生動的描述；vivid memory 鮮明的記憶（例：She has vivid dreams. 她的夢境很鮮明）",
+"fam": "vivid adj. → vividly adv.",
+"strat": "so...that 的結果是 picture it，找能製造畫面的字。"
+},
+{
+"y": 98,
+"n": 2,
+"zh": "人們感到不舒服或緊張時，可能會把手臂交叉抱在胸前，好像在保護自己。",
+"oz": [
+"拋",
+"交疊",
+"遮蓋",
+"屈服"
+],
+"ex": "句意：人不舒服或緊張時，可能把手臂＿＿在胸前，好像在保護自己。across their chests 說明手臂交叉疊在胸前。fold one's arms 是固定搭配，故選 fold。",
+"status": "ok",
+"hint": "看 across their chests 與 as if to protect themselves，想想手臂在胸前的動作。",
+"why": [
+"(A) toss 拋：toss 是丟擲，手臂不是被丟到胸前",
+"(B) fold 交疊，fold one's arms 即抱胸，正確",
+"(C) veil 遮蓋：veil 指蒙上，不接 arms 作受詞",
+"(D) yield 屈服：yield 不接 arms，也無交疊的意思"
+],
+"col": "fold one's arms 雙臂交叉；fold a letter 摺信（例：He folded his arms and waited. 他抱著手臂等著）",
+"fam": "fold v./n. → folder n.（資料夾）",
+"strat": "across their chests 加 arms，想手臂在胸前的姿勢。"
+},
+{
+"y": 98,
+"n": 3,
+"zh": "這些百貨公司的門在你靠近時會自動滑開，你不用自己開門。",
+"oz": [
+"必然地",
+"勤勉地",
+"自動地",
+"故意地"
+],
+"ex": "句意：百貨公司的門在你靠近時會＿＿滑開，你不必自己開。後句說不用自己開，表示門自行啟動。automatically 即自動地，故選 automatically。",
+"status": "ok",
+"hint": "看 slide open ... when you approach 與 You don't have to open them yourself，想想門開的方式。",
+"why": [
+"(A) necessarily 必然地：necessarily 常用於否定，與門自動開無關",
+"(B) diligently 勤勉地：diligently 形容人努力，不能形容門",
+"(C) automatically 自動地，不必自己開，正確",
+"(D) intentionally 故意地：intentionally 指有意為之，門沒有意圖"
+],
+"col": "work automatically 自動運作；be automatically renewed 自動續約（例：The lights turn on automatically. 燈會自動亮起）",
+"fam": "automatic adj. → automatically adv.；automation n.",
+"strat": "後句 You don't have to open them 是線索，反推門的運作。"
+},
+{
+"y": 98,
+"n": 4,
+"zh": "妮可是個傑出的語言學習者，短時間內就精通中文和日文。",
+"oz": [
+"方便的",
+"受歡迎的",
+"規律的",
+"傑出的"
+],
+"ex": "句意：妮可是個＿＿的語言學習者，短時間內就精通中文和日文。後面成果顯著，空格應表示傑出。brilliant 意為傑出的、聰明的，故選 brilliant。",
+"status": "ok",
+"hint": "看 Within a short period of time 與 a good command of，想想怎樣的學習者能很快學好兩種語言。",
+"why": [
+"(A) convenient 方便的：convenient 不能形容人，也不解釋學得快",
+"(B) popular 受歡迎的：popular 與短時間學好語言無關",
+"(C) regular 規律的：regular 形容習慣，不是形容 learner 的優異",
+"(D) brilliant 傑出的，短時間精通兩種語言，正確"
+],
+"col": "a brilliant student 傑出的學生；a brilliant idea 絕妙主意（例：She is a brilliant pianist. 她是出色的鋼琴家）",
+"fam": "brilliant adj. → brilliance n.",
+"strat": "後句 good command of 兩種語言，反推空格是「傑出」。"
+},
+{
+"y": 98,
+"n": 5,
+"zh": "隨著油價上漲，人們騎腳踏車上班的趨勢日增。",
+"oz": [
+"許可",
+"樂器",
+"外表",
+"趨勢"
+],
+"ex": "句意：油價上漲，騎腳踏車上班的＿＿越來越明顯。an increasing tendency for sb to V 表示傾向增加。tendency 意為趨勢、傾向，故選 tendency。",
+"status": "ok",
+"hint": "空格前是 increasing，後接 for people to + V，想想這個名詞要能接不定詞。",
+"why": [
+"(A) permit 許可：permit 與油價上漲和騎車通勤無關",
+"(B) instrument 樂器：instrument 不能表示越來越多人騎車",
+"(C) appearance 外表：appearance 無法表示越來越多人做某事",
+"(D) tendency 趨勢，與 increasing 連用，正確"
+],
+"col": "a tendency to V 有……的傾向；an upward tendency 上升趨勢（例：He has a tendency to be late. 他有遲到的習慣）",
+"fam": "tendency n. ← tend v.",
+"strat": "increasing ___ for people to V，想能接不定詞的名詞。"
+},
+{
+"y": 98,
+"n": 6,
+"zh": "這個資訊來自非常可靠的消息來源，所以你不必擔心被騙。",
+"oz": [
+"可靠的",
+"有彈性的",
+"笨拙的",
+"殘暴的"
+],
+"ex": "句意：這資訊來自非常＿＿的來源，所以不必擔心被騙。不會被騙的來源，就是可靠的。reliable 意為可靠的，故選 reliable。",
+"status": "ok",
+"hint": "看 so you don't have to worry about being cheated，想想怎樣的資訊來源能讓人放心。",
+"why": [
+"(A) reliable 可靠的，才不用怕被騙，正確",
+"(B) flexible 有彈性的：flexible 與來源是否可信無關",
+"(C) clumsy 笨拙的：clumsy 形容人動作，不能形容 source",
+"(D) brutal 殘暴的：brutal 形容暴力，不合資訊來源"
+],
+"col": "a reliable source 可靠來源；reliable service 可靠的服務（例：This car is reliable. 這輛車很可靠）",
+"fam": "rely v. → reliable adj. → reliability n.；反義 unreliable",
+"strat": "後句 don't have to worry about being cheated 反推來源性質。"
+},
+{
+"y": 98,
+"n": 7,
+"zh": "我們希望世界沒有戰爭，所有人彼此和平和諧共處。",
+"oz": [
+"抱怨",
+"和諧",
+"任務",
+"質地"
+],
+"ex": "句意：我們希望世界沒有戰爭，大家彼此和平並且＿＿共處。and 連接 peace 與空格，需語意相近的名詞，harmony 即和諧，故選 harmony。",
+"status": "ok",
+"hint": "看 live in peace and ___，空格與 peace 並列，想想與和平相似的詞。",
+"why": [
+"(A) complaint 抱怨：complaint 與 peace 方向相反，不能用 and 並列",
+"(B) harmony 和諧，與 peace 並列，正確",
+"(C) mission 任務：mission 與人們共處的狀態無關",
+"(D) texture 質地：texture 指質感，與人際共處無關"
+],
+"col": "live in harmony with 與……和諧共處；in harmony 和諧一致（例：People and nature should live in harmony. 人與自然應和諧共處）",
+"fam": "harmony n. → harmonious adj.",
+"strat": "and 連接 peace，找語意相近的詞。"
+},
+{
+"y": 98,
+"n": 8,
+"zh": "為了充分討論這個議題，委員會在會議上花了整整一小時交換意見。",
+"oz": [
+"存放",
+"交換",
+"統治",
+"打斷"
+],
+"ex": "句意：委員會在會議上花一個小時＿＿意見，充分討論議題。spend time + V-ing，討論意見的行為是互相交換。exchanging 意為交換，故選 exchanging。",
+"status": "ok",
+"hint": "看 spent a whole hour ___ their ideas，想想委員會討論時對彼此意見做什麼；動詞用 -ing。",
+"why": [
+"(A) depositing 存放：deposit 指存錢或放置，不能接 ideas",
+"(B) exchanging 交換，exchange ideas 即交流意見，正確",
+"(C) governing 統治：govern 接國家或人民，不能接 ideas",
+"(D) interrupting 打斷：interrupt 與 a full discussion 目的矛盾"
+],
+"col": "exchange ideas 交流意見；exchange gifts 交換禮物（例：They exchanged phone numbers. 他們交換了電話號碼）",
+"fam": "exchange v./n.",
+"strat": "空格接 their ideas，想討論時意見的往來動作。"
+},
+{
+"y": 98,
+"n": 9,
+"zh": "在適應西方生活方式的同時，許多亞裔美國移民仍努力保存自己的文化與傳統。",
+"oz": [
+"自願",
+"散播",
+"保存",
+"激勵"
+],
+"ex": "句意：許多亞裔移民適應西方生活方式時，仍努力＿＿自己的文化傳統。While 表對比，後面是努力保持原有文化。preserve 意為保存，故選 preserve。",
+"status": "ok",
+"hint": "看 While adapting to western ways 的轉折，想想移民對自己文化要做什麼。",
+"why": [
+"(A) volunteer 自願：volunteer 是不及物或接 to V，不能接 cultures",
+"(B) scatter 散播：scatter 是散開，與維護文化的目的相反",
+"(C) preserve 保存，preserve culture 為常見搭配，正確",
+"(D) motivate 激勵：motivate 要接人，不接 cultures"
+],
+"col": "preserve nature 保護自然；preserve food 保存食物（例：We must preserve our traditions. 我們得保存傳統）",
+"fam": "preserve v. → preservation n.",
+"strat": "While 轉折，前面適應西方，後面要找「保留」。"
+},
+{
+"y": 98,
+"n": 10,
+"zh": "隨著全球經濟惡化，把現金存銀行似乎比投資股市更明智、更合理。",
+"oz": [
+"明智的",
+"可攜帶的",
+"明確的",
+"焦慮的"
+],
+"ex": "句意：經濟惡化，把現金存銀行比投資股市更明智也更＿＿。and 連接 wiser 與空格，語意應相近。sensible 意為明智的、合理的，故選 sensible。",
+"status": "ok",
+"hint": "看 wiser and more ___ 並列，且 keep cash in the bank rather than invest，想想與 wiser 相近的形容詞。",
+"why": [
+"(A) sensible 明智的，與 wiser 並列，正確",
+"(B) portable 可攜帶的：portable 形容物品，不能描述投資選擇",
+"(C) explicit 明確的：explicit 與明智不是並列的同類概念",
+"(D) anxious 焦慮的：anxious 指擔心，不能說把錢存銀行很焦慮"
+],
+"col": "a sensible choice 明智的選擇；sensible shoes 實用的鞋（例：It is sensible to save money. 存錢是明智的）",
+"fam": "sense n. → sensible adj.；注意與 sensitive 不同",
+"strat": "wiser and more ___ 並列，空格與 wiser 語意相近。"
+},
+{
+"y": 98,
+"n": 11,
+"zh": "在新當選總統歐巴馬的領導下，美國預期將開啟政治與經濟的新頁。",
+"oz": [
+"採用",
+"香氣",
+"身分",
+"領導"
+],
+"ex": "句意：在新當選總統歐巴馬的＿＿下，美國有望翻開政經新頁。Under the ___ of + 人 是固定用法，指在某人領導之下。leadership 即領導，故選 leadership。",
+"status": "ok",
+"hint": "看 Under the ___ of ... president，想想總統與國家方向之間的關係。",
+"why": [
+"(A) adoption 採用：adoption 與 Under the ___ of 結構不搭",
+"(B) fragrance 香氣：fragrance 與總統無關",
+"(C) identity 身分：identity 不用 Under the identity of 表此意",
+"(D) leadership 領導，under the leadership of 為常見搭配，正確"
+],
+"col": "under the leadership of 在……領導下；leadership skills 領導能力（例：The team grew under her leadership. 在她領導下團隊成長）",
+"fam": "leader n. → leadership n. → lead v.",
+"strat": "Under the ___ of + 人，想固定搭配。"
+},
+{
+"y": 98,
+"n": 12,
+"zh": "汽車引擎技術的快速進步，使得在不久的將來製造飛天車在技術上成為可能。",
+"oz": [
+"個別地",
+"狹窄地",
+"準時地",
+"技術上"
+],
+"ex": "句意：馬達工程快速進步，使未來造出飛行汽車在＿＿上成為可能。it is technically possible 表示以技術而言可行。technically 即技術上，故選 technically。",
+"status": "ok",
+"hint": "看 makes it ___ possible 的空格位置，是修飾形容詞的副詞，想想「在什麼方面可行」。",
+"why": [
+"(A) individually 個別地：individually 指逐一，與可行性無關",
+"(B) narrowly 狹窄地：narrowly 指勉強地，不能修飾 possible",
+"(C) punctually 準時地：punctually 指守時，不能修飾 possible",
+"(D) technically 技術上，與 engineering 相呼應，正確"
+],
+"col": "technically possible 技術上可行；technically speaking 嚴格說來（例：It is technically easy. 技術上很容易）",
+"fam": "technique n. → technical adj. → technically adv.",
+"strat": "空格修飾 possible，想「從哪方面」來說可行。"
+},
+{
+"y": 98,
+"n": 13,
+"zh": "拍照時，你可以走動，從不同角度拍攝目標物。",
+"oz": [
+"情緒",
+"趨勢",
+"角度",
+"輸入"
+],
+"ex": "句意：拍照時可以走動，從不同＿＿拍攝目標。move around 改變位置，會得到不同的拍攝角度。angles 即角度，故選 angles。",
+"status": "ok",
+"hint": "看 from different ___，想想拍照移動位置時改變的是什麼。",
+"why": [
+"(A) moods 情緒：moods 與拍攝位置的改變無關",
+"(B) trends 趨勢：trends 是流行走向，不是拍攝位置",
+"(C) angles 角度，from different angles 為常見搭配，正確",
+"(D) inputs 輸入：inputs 是輸入資料，與拍照無關"
+],
+"col": "from different angles 從不同角度；a sharp angle 銳角（例：Look at the problem from another angle. 從另一個角度看問題）",
+"fam": "angle n./v. → angular adj.",
+"strat": "move around 加 shoot，想改變位置會改變什麼。"
+},
+{
+"y": 98,
+"n": 14,
+"zh": "老師根據評語要求學生修改或重寫作文。",
+"oz": [
+"修改",
+"辭職",
+"使恢復精神",
+"提醒"
+],
+"ex": "句意：學生被要求根據老師評語＿＿或重寫作文。or 連接的 rewrite 與空格相近，修改作文即 revise。故選 revise。",
+"status": "ok",
+"hint": "看 or rewrite 並列，想想根據老師評語對作文做的動作。",
+"why": [
+"(A) revise 修改，與 rewrite 並列，正確",
+"(B) resign 辭職：resign 不能接 compositions，也無法與 rewrite 並列",
+"(C) refresh 使恢復精神：refresh 對象是人，不能處理作文",
+"(D) remind 提醒：remind 要接人，且不是對作文做修改"
+],
+"col": "revise a plan 修改計畫；revise for an exam 複習準備考試（例：Please revise your essay. 請修改你的作文）",
+"fam": "revise v. → revision n.",
+"strat": "or rewrite 並列，找對作文做的相近動作。"
+},
+{
+"y": 98,
+"n": 15,
+"zh": "除了肺癌之外，吸菸的另一個後果是皺紋，這是老化的早期徵兆。",
+"oz": [
+"恩賜",
+"活動",
+"後果",
+"突破"
+],
+"ex": "句意：除了肺癌，吸菸的另一項＿＿是皺紋。lung cancer 與 wrinkles 都是吸菸造成的結果。consequence 即後果，故選 consequence。",
+"status": "ok",
+"hint": "看 Besides lung cancer 與 another ___ of smoking，想想癌症與皺紋同屬吸菸的什麼。",
+"why": [
+"(A) blessing 恩賜：blessing 是好事，與吸菸造成皺紋矛盾",
+"(B) campaign 活動：campaign 指運動，不是吸菸的結果",
+"(C) consequence 後果，吸菸造成的結果，正確",
+"(D) breakthrough 突破：breakthrough 是重大進展，不合吸菸負面結果"
+],
+"col": "serious consequences 嚴重後果；as a consequence 因此（例：Lying has bad consequences. 說謊會有不良後果）",
+"fam": "consequence n. → consequent adj. → consequently adv.",
+"strat": "another ___ of smoking，找吸菸造成的負面結果。"
+},
+{
+"y": 99,
+"n": 1,
+"zh": "林先生是非常多產的作家，他每年至少出版五本小說。",
+"oz": [
+"適度的",
+"暫時的",
+"多產的",
+"不情願的"
+],
+"ex": "句意：林先生是非常＿＿的作家，每年至少出版五本小說。分號後說明每年出版多部，表示創作量大。productive 意為多產的，故選 productive。",
+"status": "ok",
+"hint": "看分號後 publishes at least five novels every year，想想怎樣的作家能年年出書。",
+"why": [
+"(A) moderate 適度的：moderate 指不過量，不能說明每年出版五本",
+"(B) temporary 暫時的：temporary 與持續多年出版矛盾",
+"(C) productive 多產的，每年出版五本小說，正確",
+"(D) reluctant 不情願的：reluctant 與大量出版的勤快矛盾"
+],
+"col": "a productive writer 多產作家；a productive meeting 有成效的會議（例：She had a productive day. 她今天很有成效）",
+"fam": "produce v. → product n. → productive adj. → productivity n.",
+"strat": "分號後 at least five novels every year 是產量線索。"
+},
+{
+"y": 99,
+"n": 2,
+"zh": "使用熱敷墊或泡熱水澡有時有助於緩解下背痛。",
+"oz": [
+"擦亮",
+"緩解",
+"轉換",
+"維持"
+],
+"ex": "句意：使用熱敷墊或泡熱水澡有時能幫助＿＿下背疼痛。熱敷的目的是讓疼痛變輕。relieve 意為緩解、減輕，relieve pain 是常見搭配，故選 relieve。",
+"status": "ok",
+"hint": "看 heating pad、warm baths 與 pain in the lower back，想想熱敷對疼痛的作用。",
+"why": [
+"(A) polish 擦亮：polish 是擦拭使發亮，不能處理疼痛",
+"(B) relieve 緩解，relieve pain 是常見搭配，正確",
+"(C) switch 轉換：switch 是切換，與減輕疼痛無關",
+"(D) maintain 維持：maintain 是保持，沒人想維持疼痛"
+],
+"col": "relieve pain 緩解疼痛；relieve stress 紓解壓力（例：Tea helps relieve a headache. 喝茶有助緩解頭痛）",
+"fam": "relieve v. → relief n. → relieved adj.（鬆了口氣的）",
+"strat": "heating pad 的功用是緩解，配 pain 找搭配動詞。"
+},
+{
+"y": 99,
+"n": 3,
+"zh": "彼得昨晚熬夜，所以今早喝了很多咖啡，讓自己在課堂上保持清醒。",
+"oz": [
+"可接受的",
+"驚訝的",
+"正確的",
+"清醒的"
+],
+"ex": "句意：彼得昨晚熬夜，今早喝很多咖啡以便上課時保持＿＿。keep oneself + adj. 表示維持某狀態，咖啡提神，所以是保持清醒。awake 即清醒的，故選 awake。",
+"status": "ok",
+"hint": "看 stayed up late 與 drank a lot of coffee，想想咖啡的功用與 keep oneself 後接的形容詞。",
+"why": [
+"(A) acceptable 可接受的：acceptable 無法表示咖啡帶來的狀態",
+"(B) amazed 驚訝的：amazed 與喝咖啡提神無關",
+"(C) accurate 正確的：accurate 形容資料精準，不能形容人在課堂上的狀態",
+"(D) awake 清醒的，熬夜後喝咖啡為保持清醒，正確"
+],
+"col": "stay awake 保持清醒；keep sb awake 使某人睡不著（例：The noise kept me awake. 噪音讓我睡不著）",
+"fam": "awake adj./v. → awaken v.；注意 awake 為敘述形容詞",
+"strat": "stayed up late 加 coffee，想咖啡的目的。"
+},
+{
+"y": 99,
+"n": 4,
+"zh": "由於通貨膨脹，日用品價格上漲，同樣的東西我們現在得付更多錢。",
+"oz": [
+"通貨膨脹",
+"解決方法",
+"反對",
+"狀況"
+],
+"ex": "句意：由於＿＿，日用品價格上漲，同樣東西得多付錢。Due to 後接名詞，物價普遍上升的經濟原因就是通貨膨脹。inflation 即通貨膨脹，故選 inflation。",
+"status": "ok",
+"hint": "看 prices have gone up 與 pay more for the same items，想想造成物價普遍上漲的原因。",
+"why": [
+"(A) inflation 通貨膨脹，貨幣貶值使物價上漲，正確",
+"(B) solution 解決方法：solution 是答案，不會造成物價上漲",
+"(C) objection 反對：objection 是異議，不會造成物價上漲",
+"(D) condition 狀況：condition 太籠統，不是漲價的經濟原因"
+],
+"col": "high inflation 高通膨；inflation rate 通貨膨脹率（例：Inflation makes food more expensive. 通膨使食物變貴）",
+"fam": "inflate v. → inflation n.；反義 deflation",
+"strat": "prices have gone up 前的 Due to，要找經濟原因。"
+},
+{
+"y": 99,
+"n": 5,
+"zh": "政府正盡力保存原住民部落的文化，唯恐這些文化即將消失。",
+"oz": [
+"保存",
+"使挫折",
+"猶豫",
+"推翻"
+],
+"ex": "句意：政府盡全力＿＿原住民文化，以免它們很快消失。for fear that 後面是擔心消失，所以政府要設法保存。preserve 意為保存，故選 preserve。",
+"status": "ok",
+"hint": "看 for fear that they may soon die out，想想政府對部落文化要做什麼。",
+"why": [
+"(A) preserve 保存，防止文化消失，正確",
+"(B) frustrate 使挫折：frustrate 指使人氣餒，不能接 cultures",
+"(C) hesitate 猶豫：hesitate 是不及物動詞，不能接受詞",
+"(D) overthrow 推翻：overthrow 指推翻政權，與保護文化目的相反"
+],
+"col": "preserve cultures 保存文化；preserve wildlife 保護野生動物（例：The museum preserves old photos. 博物館保存舊照片）",
+"fam": "preserve v. → preservation n.",
+"strat": "for fear that they die out，找防止消失的動詞。"
+},
+{
+"y": 99,
+"n": 6,
+"zh": "我抗拒不了麵包店飄來的香味，所以走進去買了一條新鮮麵包。",
+"oz": [
+"堅持",
+"抵抗",
+"獲得",
+"包含"
+],
+"ex": "句意：我無法＿＿麵包店的香味，所以走進去買了麵包。so 表結果：我走進去，表示沒能抗拒。could not resist 即抗拒不了，故選 resist。",
+"status": "ok",
+"hint": "看 sweet smell from the bakery 與 so I walked in，想想面對香味最後的結果。",
+"why": [
+"(A) insist 堅持：insist 是不及物，需 insist on，不接 smell",
+"(B) resist 抵抗，could not resist 抗拒不了誘惑，正確",
+"(C) obtain 獲得：obtain 是取得，與抗拒香味的結果不符",
+"(D) contain 包含：contain 指容納，不合 so I walked in"
+],
+"col": "resist temptation 抗拒誘惑；can't resist + V-ing 忍不住……（例：I can't resist chocolate. 我抗拒不了巧克力）",
+"fam": "resist v. → resistance n. → resistant adj.",
+"strat": "so I walked in 說明結果，倒推對香味的反應。"
+},
+{
+"y": 99,
+"n": 7,
+"zh": "史提夫每天有好幾場會議要參加，所以行程非常緊湊。",
+"oz": [
+"密集的",
+"各種的",
+"緊湊的",
+"目前的"
+],
+"ex": "句意：史蒂夫每天有好幾場會議，所以行程非常＿＿。meetings 很多，表示行程排得滿。tight schedule 是固定搭配，故選 tight。",
+"status": "ok",
+"hint": "看 several meetings every day，想想行程被排滿時用來形容 schedule 的詞。",
+"why": [
+"(A) dense 密集的：dense 形容濃密、人口多，不與 schedule 搭配",
+"(B) various 各種的：various 不能形容行程的緊湊程度",
+"(C) tight 緊湊的，tight schedule 是常見搭配，正確",
+"(D) current 目前的：current 只表現在，不表示行程很滿"
+],
+"col": "a tight schedule 緊湊的行程；a tight budget 預算吃緊（例：I have a tight schedule today. 我今天行程很滿）",
+"fam": "tight adj./adv. → tighten v.",
+"strat": "several meetings 暗示行程滿，想與 schedule 的搭配。"
+},
+{
+"y": 99,
+"n": 8,
+"zh": "美國游泳選手麥可·菲爾普斯在2008年奧運男子游泳比賽中打破七項世界紀錄，贏得八面金牌。",
+"oz": [
+"訓練",
+"技巧",
+"例行事項",
+"比賽"
+],
+"ex": "句意：菲爾普斯在2008年奧運男子游泳＿＿中打破七項世界紀錄，拿下八面金牌。金牌與紀錄都來自比賽。contests 即比賽，故選 contests。",
+"status": "ok",
+"hint": "看 broke seven world records 與 won eight gold medals，想想他在奧運拿金牌的場合。",
+"why": [
+"(A) drills 訓練：drills 是練習，不會在訓練中拿金牌",
+"(B) techniques 技巧：techniques 是方法，不是奧運中奪牌的項目",
+"(C) routines 例行事項：routines 是日常程序，與奧運得獎無關",
+"(D) contests 比賽，swimming contests 指游泳項目，正確"
+],
+"col": "a singing contest 歌唱比賽；win a contest 贏得比賽（例：She entered a speech contest. 她參加演講比賽）",
+"fam": "contest n./v. → contestant n.",
+"strat": "broke records 與 gold medals 發生在什麼場合。"
+},
+{
+"y": 99,
+"n": 9,
+"zh": "那些大學生義務在孤兒院工作，不收酬勞地協助孩子課業。",
+"oz": [
+"自願的",
+"競爭的",
+"悲傷的",
+"實際的"
+],
+"ex": "句意：那些大學生在孤兒院以＿＿方式工作，不拿酬勞幫孩子課業輔導。without receiving any pay 說明是自願的。on a voluntary basis 是固定搭配，故選 voluntary。",
+"status": "ok",
+"hint": "看 without receiving any pay，想想不拿薪水的工作性質。",
+"why": [
+"(A) voluntary 自願的，不拿酬勞，正確",
+"(B) competitive 競爭的：competitive 與不拿報酬的工作基礎矛盾",
+"(C) sorrowful 悲傷的：sorrowful 與 basis 搭配不通",
+"(D) realistic 實際的：realistic 不與 on a ___ basis 搭配"
+],
+"col": "on a voluntary basis 自願性質；voluntary work 志願工作（例：Joining is voluntary. 參加是自願的）",
+"fam": "volunteer n./v. → voluntary adj. → voluntarily adv.",
+"strat": "without receiving any pay 決定 basis 的性質。"
+},
+{
+"y": 99,
+"n": 10,
+"zh": "研究顯示，要求孩子做家事，例如倒垃圾或洗碗，有助他們成為負責任的大人。",
+"oz": [
+"任務",
+"家事",
+"方法",
+"事件"
+],
+"ex": "句意：研究顯示讓孩子做倒垃圾、洗碗之類的＿＿，能使他們長大更負責。倒垃圾、洗碗是家務。house chores 為固定用法，故選 chores。",
+"status": "ok",
+"hint": "看 such as taking out the trash or doing the dishes，想想這些事屬於什麼類型。",
+"why": [
+"(A) missions 任務：missions 搭配 house 不是常用說法",
+"(B) chores 家務，倒垃圾與洗碗屬家事，正確",
+"(C) approaches 方法：approaches 是做法，不是倒垃圾這類事",
+"(D) incidents 事件：incidents 是事故，不是孩子要做的事"
+],
+"col": "do chores 做雜務；household chores 家事（例：He does chores after school. 他放學後做家事）",
+"fam": "chore n.（常用複數）",
+"strat": "such as taking out the trash 是同類事項的線索。"
+},
+{
+"y": 99,
+"n": 11,
+"zh": "約翰被老闆罵了十多分鐘，顯然她對他又遲到感到不高興。",
+"oz": [
+"表達地",
+"顯然",
+"立即",
+"原本"
+],
+"ex": "句意：約翰被老闆罵了十多分鐘。＿＿，她對他再次遲到不高興。由老闆罵很久可以推論她不高興，語氣是「看起來」。apparently 即顯然，故選 apparently。",
+"status": "ok",
+"hint": "看空格前有逗號，句首連接前一句 scolded，想想她為何對 John 不開心的推論詞。",
+"why": [
+"(A) Expressively 表達地：expressively 形容表現力，與推論她不高興無關",
+"(B) Apparently 顯然，根據情況推論，正確",
+"(C) Immediately 立即：immediately 表馬上，不合句意",
+"(D) Originally 原本：originally 表原先，與目前不高興相反"
+],
+"col": "apparently 顯然、似乎；It is apparent that... 顯然……（例：Apparently, he forgot the meeting. 顯然他忘了開會）",
+"fam": "apparent adj. → apparently adv.",
+"strat": "空格在句首，是根據前一句推論的語氣詞。"
+},
+{
+"y": 99,
+"n": 12,
+"zh": "橘子樹在夏天遭受暴風雨的嚴重損害，農民預期今年冬天收成會大幅下降。",
+"oz": [
+"潛在的",
+"相對的",
+"嚴重的",
+"互相的"
+],
+"ex": "句意：橘子樹在夏季暴風雨中受到＿＿的損害，農民預期今冬收成大減。sharp decline 表示損害很大。severe damage 為常見搭配，故選 severe。",
+"status": "ok",
+"hint": "看 suffered ___ damage 與 sharp decline in harvests，想想損害的程度。",
+"why": [
+"(A) potential 潛在的：potential 指尚未發生，但損害已發生",
+"(B) relative 相對的：relative 與損害程度無關",
+"(C) severe 嚴重的，severe damage 常見，正確",
+"(D) mutual 互相的：mutual 指雙方互有，不能修飾 damage"
+],
+"col": "severe damage 嚴重損害；severe weather 惡劣天氣（例：The storm caused severe damage. 風暴造成嚴重破壞）",
+"fam": "severe adj. → severely adv. → severity n.",
+"strat": "sharp decline in harvests 是損害程度的線索。"
+},
+{
+"y": 99,
+"n": 13,
+"zh": "莫拉克颱風在2009年8月初奪走六百多條人命，是台灣近數十年來最嚴重的天然災害。",
+"oz": [
+"災害",
+"障礙",
+"焦慮",
+"崩塌"
+],
+"ex": "句意：莫拉克颱風奪走六百多條人命，成為台灣近數十年最嚴重的天然＿＿。颱風造成大量死傷，屬災害。natural disaster 為固定說法，故選 disaster。",
+"status": "ok",
+"hint": "看 claimed more than six hundred lives 與 most serious natural ___，想想颱風屬於哪一類事件。",
+"why": [
+"(A) disaster 災害，natural disaster 天然災害，正確",
+"(B) barrier 障礙：barrier 是阻礙物，不是奪走生命的事件",
+"(C) anxiety 焦慮：anxiety 是心理狀態，不是自然事件",
+"(D) collapse 崩塌：collapse 是倒塌，不能概括颱風的災難性質"
+],
+"col": "natural disaster 天然災害；disaster area 災區（例：The flood was a terrible disaster. 洪水是場可怕的災難）",
+"fam": "disaster n. → disastrous adj.",
+"strat": "natural ___ 是常見搭配，配 claimed lives 想事件類型。"
+},
+{
+"y": 99,
+"n": 14,
+"zh": "羅伯特是這場車禍唯一的目擊者，警方必須仰賴他查明事故究竟如何發生。",
+"oz": [
+"商人",
+"嚮導",
+"目擊者",
+"客戶"
+],
+"ex": "句意：羅伯特是這起車禍唯一的＿＿，警方得靠他才能查出車禍經過。他提供事發經過，是親眼看見的人。witness 即目擊者，故選 witness。",
+"status": "ok",
+"hint": "看 The police had to count on him，想想他對車禍調查的角色。",
+"why": [
+"(A) dealer 商人：dealer 與車禍調查無關",
+"(B) guide 嚮導：guide 與車禍目擊無關",
+"(C) witness 目擊者，能說明車禍如何發生，正確",
+"(D) client 客戶：client 與警方調查不相關"
+],
+"col": "a witness to an accident 事故目擊者；witness a crime 目睹犯罪（例：Three witnesses saw it. 三位目擊者看到了）",
+"fam": "witness n./v.",
+"strat": "police 要靠他查出經過，推其身分。"
+},
+{
+"y": 99,
+"n": 15,
+"zh": "傑森在車禍中受重傷，幾乎無法移動雙腿，並立即被送往醫院。",
+"oz": [
+"因此",
+"無疑地",
+"便利地",
+"幾乎不"
+],
+"ex": "句意：傑森車禍重傷，＿＿能移動雙腿，立刻被送醫。badly injured 表示傷勢嚴重，腿幾乎動不了。scarcely 即幾乎不，語意通順，故選 scarcely。",
+"status": "ok",
+"hint": "看 Badly injured 與 move his legs，想想受傷嚴重時腿的活動程度；注意 could 後接副詞再接原形動詞。",
+"why": [
+"(A) accordingly 因此：accordingly 表承接前文的結果，與傷重無關",
+"(B) undoubtedly 無疑地：undoubtedly 與重傷情境不合",
+"(C) handily 便利地：handily 與腿無法移動矛盾",
+"(D) scarcely 幾乎不，could scarcely move 表示勉強動不了，正確"
+],
+"col": "can scarcely believe 幾乎不能相信；scarcely any 幾乎沒有（例：I could scarcely breathe. 我幾乎無法呼吸）",
+"fam": "scarce adj. → scarcely adv. → scarcity n.",
+"strat": "Badly injured 加 move his legs，想活動程度。"
+},
+{
+"y": 100,
+"n": 1,
+"zh": "所有新生都有一分鐘的時間向全班簡短地自我介紹。",
+"oz": [
+"簡短地",
+"著名地",
+"逐漸地",
+"明顯地"
+],
+"ex": "句意：新生每人有一分鐘＿＿向全班自我介紹。時間只有一分鐘，介紹自然要簡短。briefly 即簡短地，故選 briefly。",
+"status": "ok",
+"hint": "看 one minute to ___ introduce themselves，想想一分鐘的自我介紹應有的長度。",
+"why": [
+"(A) briefly 簡短地，一分鐘內介紹，正確",
+"(B) famously 著名地：famously 與一分鐘自我介紹無關",
+"(C) gradually 逐漸地：gradually 與限時一分鐘矛盾",
+"(D) obviously 明顯地：obviously 不能表示介紹方式"
+],
+"col": "briefly explain 簡短說明；to put it briefly 簡而言之（例：Please describe it briefly. 請簡短描述）",
+"fam": "brief adj./v. → briefly adv.",
+"strat": "one minute 是時間限制，想介紹的方式。"
+},
+{
+"y": 100,
+"n": 2,
+"zh": "他的深棕色夾克手肘處有破洞，而且已褪成淺棕色，但他仍繼續穿著。",
+"oz": [
+"循環",
+"褪色",
+"鬆開",
+"分開"
+],
+"ex": "句意：他的深棕色外套手肘破洞，且已＿＿成淺棕色，但他仍穿著。dark brown 變成 light brown，是顏色褪去。faded 意為褪色，故選 faded。",
+"status": "ok",
+"hint": "看 had holes in the elbows 與 dark brown ... to light brown，想想舊衣服顏色的變化。",
+"why": [
+"(A) cycled 循環：cycled 指騎單車或循環，與外套顏色無關",
+"(B) faded 褪色，顏色由深變淺，正確",
+"(C) loosened 鬆開：loosened 不能表示顏色由深轉淺",
+"(D) divided 分開：divided 與外套顏色變化無關"
+],
+"col": "fade away 逐漸消失；faded jeans 褪色牛仔褲（例：The colors faded in the sun. 顏色在陽光下褪了）",
+"fam": "fade v. → faded adj.",
+"strat": "dark brown ... to light brown 是顏色變淺的線索。"
+},
+{
+"y": 100,
+"n": 3,
+"zh": "公司裡每個人都喜歡和傑森共事，他具備了成為理想夥伴的所有特質。",
+"oz": [
+"理想的",
+"舒適的",
+"頻繁的",
+"敵意的"
+],
+"ex": "句意：大家都喜歡與傑森共事，他具備了所有成為＿＿夥伴的特質。qualities 是好的特質，所以夥伴是人人想要的。desirable 意為令人嚮往的、理想的，故選 desirable。",
+"status": "ok",
+"hint": "看 Everyone enjoys working with Jason 與 qualities，想想什麼樣的夥伴人人都想合作。",
+"why": [
+"(A) desirable 理想的，具備好特質的夥伴，正確",
+"(B) comfortable 舒適的：comfortable 不能形容人作為夥伴的特質",
+"(C) frequent 頻繁的：frequent 不能形容 partner 的素質",
+"(D) hostile 敵意的：hostile 與大家都喜歡他矛盾"
+],
+"col": "a desirable location 理想的地點；desirable qualities 令人嚮往的特質（例：Experience is desirable for this job. 有經驗對這份工作較理想）",
+"fam": "desire n./v. → desirable adj.",
+"strat": "qualities 加 Everyone enjoys，找正面形容詞。"
+},
+{
+"y": 100,
+"n": 4,
+"zh": "眼睛對光線敏感，直視太陽可能傷害我們的眼睛。",
+"oz": [
+"幾乎不",
+"特別地",
+"完全地",
+"直接地"
+],
+"ex": "句意：眼睛對光敏感，＿＿看太陽可能傷眼。sensitive to light 提示直視強光很危險。directly 即直接地，looking at the sun directly 語意自然，故選 directly。",
+"status": "ok",
+"hint": "看 Eyes are sensitive to light，想想看太陽時什麼方式最傷眼；空格是副詞。",
+"why": [
+"(A) hardly 幾乎不：hardly 與 could damage 的警告語氣矛盾",
+"(B) specially 特別地：specially 與看太陽傷眼沒有邏輯",
+"(C) totally 完全地：totally 不是描述看太陽的方式",
+"(D) directly 直接地，直視太陽傷眼，正確"
+],
+"col": "look directly at 直視；directly after 緊接著（例：Don't look directly at the sun. 別直視太陽）",
+"fam": "direct adj./v. → directly adv. → direction n.",
+"strat": "Eyes are sensitive to light 提示危險的看法。"
+},
+{
+"y": 100,
+"n": 5,
+"zh": "因為天氣不好，我們被迫取消週末野餐的計畫。",
+"oz": [
+"維持",
+"記錄",
+"提議",
+"取消"
+],
+"ex": "句意：因為天氣不好，我們被迫＿＿週末野餐計畫。bad weather 說明只能不辦。cancel 意為取消，故選 cancel。",
+"status": "ok",
+"hint": "看 because of the bad weather，想想天氣不好時野餐計畫會被怎麼處理。",
+"why": [
+"(A) maintain 維持：maintain 與被迫改變計畫矛盾",
+"(B) record 記錄：record 與天氣不好無關",
+"(C) propose 提議：propose 與被迫矛盾，也不合壞天氣",
+"(D) cancel 取消，天氣不好只好取消，正確"
+],
+"col": "cancel a plan 取消計畫；cancel a flight 取消航班（例：The game was canceled due to rain. 比賽因雨取消）",
+"fam": "cancel v. → cancellation n.",
+"strat": "were forced to 加 bad weather，想計畫的下場。"
+},
+{
+"y": 100,
+"n": 6,
+"zh": "三個人正在競選市長，三位候選人似乎都對當選很有信心，但選舉結果公布前我們無從得知。",
+"oz": [
+"粒子",
+"接收者",
+"候選人",
+"容器"
+],
+"ex": "句意：三人競選市長，三位＿＿似乎都有信心當選。run for mayor 的人就是參選人。candidates 即候選人，故選 candidates。",
+"status": "ok",
+"hint": "看 running for mayor 與 will be elected，想想參選市長的人如何稱呼；空格是複數名詞。",
+"why": [
+"(A) particles 粒子：particles 與競選市長無關",
+"(B) receivers 接收者：receivers 與選舉無關",
+"(C) candidates 候選人，參選市長者，正確",
+"(D) containers 容器：containers 與選舉無關"
+],
+"col": "a presidential candidate 總統候選人；candidate for a job 職務應徵者（例：Two candidates are running. 兩位候選人在競選）",
+"fam": "candidate n.",
+"strat": "running for mayor 的人稱什麼。"
+},
+{
+"y": 100,
+"n": 7,
+"zh": "如果你違反交通法規，例如酒駕，你可能有一段時間不能開車。",
+"oz": [
+"破壞",
+"違反",
+"攻擊",
+"入侵"
+],
+"ex": "句意：如果你＿＿交通法規，例如酒駕，可能有一段時間不得開車。會被禁駕，是因為違法。violate a law 為固定搭配，故選 violate。",
+"status": "ok",
+"hint": "看 such as drinking and driving 與 may not drive for some time，想想對交通法規做什麼才會被禁駕。",
+"why": [
+"(A) destroy 破壞：destroy 是毀壞，不接 law 表違法",
+"(B) violate 違反，violate a law 違法，正確",
+"(C) attack 攻擊：attack 是攻擊人或地，不接 law",
+"(D) invade 入侵：invade 是入侵領土，不接 law"
+],
+"col": "violate a rule 違反規定；violate human rights 侵害人權（例：He violated the traffic law. 他違反了交通規則）",
+"fam": "violate v. → violation n.",
+"strat": "a traffic law 是受詞，找搭配 law 的動詞。"
+},
+{
+"y": 100,
+"n": 8,
+"zh": "申請大學意味著寄出申請書、寫讀書計畫等等，這是一個漫長的過程，讓學生很緊張。",
+"oz": [
+"差事",
+"手術",
+"過程",
+"展示"
+],
+"ex": "句意：申請大學要寄申請書、寫讀書計畫等，是個漫長的＿＿，讓學生緊張。這些一連串步驟屬過程。process 即過程，故選 process。",
+"status": "ok",
+"hint": "看 means sending in applications, writing study plans, and so on，想想這一連串步驟合稱什麼。",
+"why": [
+"(A) errand 差事：errand 是跑腿雜事，不是申請大學的一連串步驟",
+"(B) operation 手術：operation 與申請大學無關",
+"(C) process 過程，申請需經多個步驟，正確",
+"(D) display 展示：display 與申請手續無關"
+],
+"col": "a long process 漫長的過程；in the process of 在……過程中（例：Learning is a slow process. 學習是漫長的過程）",
+"fam": "process n./v. → procession n.（隊伍）",
+"strat": "means sending...writing...and so on 是歸納步驟，a long ___。"
+},
+{
+"y": 100,
+"n": 9,
+"zh": "朱博士關於新能源的演講在研討會上吸引了聽眾極大的關注。",
+"oz": [
+"注意",
+"財富",
+"解決辦法",
+"影響"
+],
+"ex": "句意：朱博士談新能源的演講吸引聽眾極大的＿＿。attract attention 是固定搭配，故選 attention。",
+"status": "ok",
+"hint": "看 attracted great ___ from the audience，想想演講吸引聽眾什麼。",
+"why": [
+"(A) attention 注意，attract attention 吸引注意，正確",
+"(B) fortune 財富：fortune 不能被吸引來自聽眾",
+"(C) solution 解決辦法：solution 不是聽眾給予的",
+"(D) influence 影響：influence 通常是演講給聽眾，不是聽眾給予"
+],
+"col": "attract attention 吸引注意；pay attention to 注意（例：The news drew attention. 這則新聞引人關注）",
+"fam": "attend v. → attention n. → attentive adj.",
+"strat": "attracted great ___ 是固定搭配。"
+},
+{
+"y": 100,
+"n": 10,
+"zh": "辦公室每個人明天都必須出席會議，不允許有例外。",
+"oz": [
+"例外",
+"增加",
+"分割",
+"措施"
+],
+"ex": "句意：辦公室每個人明天都必須開會，不准有＿＿。Everyone must attend 表示無一例外。no exceptions 為常見說法，故選 exceptions。",
+"status": "ok",
+"hint": "看 Everyone ... must attend 與 There are no ___ allowed，想想規定一律要出席時不准有什麼。",
+"why": [
+"(A) exceptions 例外，無一例外，正確",
+"(B) additions 增加：additions 與規定一律出席矛盾",
+"(C) divisions 分割：divisions 與出席規定無關",
+"(D) measures 措施：measures 與 no ... allowed 不合語意"
+],
+"col": "no exceptions 無例外；with the exception of 除……之外（例：There are no exceptions to the rule. 這條規定沒有例外）",
+"fam": "except prep. → exception n. → exceptional adj.",
+"strat": "Everyone must attend 後接 There are no ___ allowed。"
+},
+{
+"y": 100,
+"n": 11,
+"zh": "要做新鮮檸檬汁，把檸檬對切，把汁擠進碗裡，再依喜好加水和糖。",
+"oz": [
+"減少",
+"擠",
+"冷凍",
+"停止"
+],
+"ex": "句意：做新鮮檸檬汁時，把檸檬切半，＿＿汁到碗裡，再加水和糖。從檸檬取汁要用力擠。squeeze 即擠壓，故選 squeeze。",
+"status": "ok",
+"hint": "看 lemon、juice 與 into a bowl，想想從檸檬弄出汁的動作。",
+"why": [
+"(A) decrease 減少：decrease 是減少，不能取出汁",
+"(B) squeeze 擠，squeeze juice 擠汁，正確",
+"(C) freeze 冷凍：freeze 是結冰，與榨汁無關",
+"(D) cease 停止：cease 是停下，與榨汁無關"
+],
+"col": "squeeze a lemon 擠檸檬；squeeze into 擠進（例：Squeeze some lemon on the fish. 在魚上擠點檸檬）",
+"fam": "squeeze v./n.",
+"strat": "into a bowl 加 juice，想從檸檬取汁的動作。"
+},
+{
+"y": 100,
+"n": 12,
+"zh": "佛教是泰國的主要宗教，90%的人口自認為佛教徒。",
+"oz": [
+"種族的",
+"競爭的",
+"謙虛的",
+"佔優勢的"
+],
+"ex": "句意：佛教是泰國的＿＿宗教，90%人口自認佛教徒。比例高達九成，表示居主導地位。dominant 即佔優勢的，故選 dominant。",
+"status": "ok",
+"hint": "看 with 90% ... identified as Buddhists，想想佛教在泰國的地位。",
+"why": [
+"(A) racial 種族的：racial 與宗教地位無關",
+"(B) competitive 競爭的：competitive 不用來形容宗教",
+"(C) modest 謙虛的：modest 形容人的態度，不能形容宗教",
+"(D) dominant 佔優勢的，九成人口信仰，正確"
+],
+"col": "a dominant position 主導地位；dominant culture 主流文化（例：English is the dominant language there. 英語在那裡是主要語言）",
+"fam": "dominate v. → dominant adj. → dominance n.",
+"strat": "90% of the total population 暗示居多數的地位。"
+},
+{
+"y": 100,
+"n": 13,
+"zh": "我打開一本書時，會先看目錄，以大致了解這本書，並看看有哪些章節可能有興趣閱讀。",
+"oz": [
+"合約",
+"內容、目錄",
+"競賽",
+"聯絡"
+],
+"ex": "句意：翻開書時我先看目錄，了解書的概況。table of contents 是目錄的固定說法，故選 contents。",
+"status": "ok",
+"hint": "看 table of ___ 是固定片語，想想書前面的「目錄」怎麼說。",
+"why": [
+"(A) contracts 合約：contracts 與書的前面部分無關",
+"(B) contents 內容、目錄，table of contents 正確",
+"(C) contests 競賽：contests 與看書無關",
+"(D) contacts 聯絡：contacts 是聯絡方式，不是書中的目錄"
+],
+"col": "table of contents 目錄；the contents of a box 盒內物品（例：Check the contents page. 查看目錄頁）",
+"fam": "contain v. → content n.（常用複數 contents）",
+"strat": "table of ___ 是固定片語，指書前的目錄。"
+},
+{
+"y": 100,
+"n": 14,
+"zh": "孩子們看到小丑上台都好開心，笑著、尖叫著、高興地拍手。",
+"oz": [
+"令人欽佩的",
+"可怕的",
+"高興的",
+"強烈的"
+],
+"ex": "句意：孩子們看到小丑上台非常＿＿，又笑又叫又拍手。laughed、clapped happily 表示開心。delighted 意為高興的，be delighted to see 為搭配，故選 delighted。",
+"status": "ok",
+"hint": "看 laughed, screamed, and clapped 與 happily，想想孩子看小丑的心情。",
+"why": [
+"(A) admirable 令人欽佩的：admirable 指值得讚賞，與孩子笑鬧反應無關",
+"(B) fearful 可怕的：fearful 與 laughed 和 clapped 矛盾",
+"(C) delighted 高興的，笑鬧拍手，正確",
+"(D) intense 強烈的：intense 形容程度，不能形容孩子的心情"
+],
+"col": "be delighted to V 很高興做……；delighted with 對……高興（例：I'm delighted to meet you. 很高興認識你）",
+"fam": "delight n./v. → delighted adj. → delightful adj.",
+"strat": "laughed, screamed, clapped 說明孩子的心情。"
+},
+{
+"y": 100,
+"n": 15,
+"zh": "瑪姬颱風帶給宜蘭縣大量雨水，遠多於該地區這個季節的平均雨量。",
+"oz": [
+"平均的",
+"體貼的",
+"有希望的",
+"愉快的"
+],
+"ex": "句意：瑪姬颱風帶來大量雨水，遠多於該區該季的＿＿雨量。與颱風雨量比較的基準是平常水準。average 意為平均的，故選 average。",
+"status": "ok",
+"hint": "看 much greater than the ___ rainfall of the season，想想與颱風雨量對比的是什麼基準。",
+"why": [
+"(A) average 平均的，作為比較基準，正確",
+"(B) considerate 體貼的：considerate 形容人，不能形容 rainfall",
+"(C) promising 有希望的：promising 與雨量無關",
+"(D) enjoyable 愉快的：enjoyable 不能形容雨量"
+],
+"col": "average rainfall 平均雨量；on average 平均而言（例：The average age is twenty. 平均年齡二十歲）",
+"fam": "average adj./n./v.",
+"strat": "much greater than 後面要找比較基準。"
+},
+{
+"y": 101,
+"n": 1,
+"zh": "電影結局對約翰來說並不意外，因為他已讀過電影改編的小說。",
+"oz": [
+"願景",
+"焦點",
+"驚喜",
+"結論"
+],
+"ex": "句意：電影結局對約翰不算是＿＿，因為他已讀過原著小說。already read 表示早就知道。come as a surprise 是固定搭配，故選 surprise。",
+"status": "ok",
+"hint": "看 did not come as a ___ 與 already read the novel，想想先看過小說的人對結局的反應。",
+"why": [
+"(A) vision 願景：vision 是對未來的想像，不與 come as a 連用",
+"(B) focus 焦點：focus 不與 come as a 搭配表意外",
+"(C) surprise 驚喜，早知結局故不意外，正確",
+"(D) conclusion 結論：conclusion 與 already read 無關，不是受到意外的事"
+],
+"col": "come as a surprise 令人意外；to my surprise 令我驚訝的是（例：The news came as a surprise. 這消息出人意料）",
+"fam": "surprise n./v. → surprised adj. → surprising adj.",
+"strat": "come as a ___ 是固定搭配，already read 提示結局已知。"
+},
+{
+"y": 101,
+"n": 2,
+"zh": "為了保持健康強健，約翰有規律地運動，他每週在健身房運動兩次。",
+"oz": [
+"規律地",
+"直接地",
+"幾乎不",
+"逐漸地"
+],
+"ex": "句意：為保持健康，約翰＿＿運動，每週上健身房兩次。twice a week 說明固定頻率。regularly 即規律地，故選 regularly。",
+"status": "ok",
+"hint": "看 works out twice a week，想想「每週兩次」的運動頻率副詞。",
+"why": [
+"(A) regularly 規律地，每週固定兩次，正確",
+"(B) directly 直接地：directly 不表運動頻率，與 twice a week 無關",
+"(C) hardly 幾乎不：hardly 與每週運動兩次矛盾",
+"(D) gradually 逐漸地：gradually 與固定頻率無關"
+],
+"col": "exercise regularly 規律運動；regular check-up 定期檢查（例：She visits her grandma regularly. 她定期探望奶奶）",
+"fam": "regular adj. → regularly adv.；反義 irregular",
+"strat": "twice a week 是頻率，找表規律的副詞。"
+},
+{
+"y": 101,
+"n": 3,
+"zh": "旅行是讓我們探索不同文化並拓展視野的好方法。",
+"oz": [
+"假定",
+"探索",
+"佔據",
+"激勵"
+],
+"ex": "句意：旅行是讓我們＿＿不同文化並拓展視野的好方法。and 連接 broaden our horizons，旅行是為了認識新文化。explore 意為探索，故選 explore。",
+"status": "ok",
+"hint": "看 and broaden our horizons，空格與 different cultures 構成動詞片語。",
+"why": [
+"(A) assume 假定：assume 是認定，不能接 different cultures 表旅行的收穫",
+"(B) explore 探索，旅行去認識不同文化，正確",
+"(C) occupy 佔據：occupy 是佔領，不適合形容認識文化",
+"(D) inspire 激勵：inspire 要接人，不接 cultures"
+],
+"col": "explore a new place 探索新地方；explore options 探討各種選擇（例：We explored the old town. 我們探索了老城區）",
+"fam": "explore v. → exploration n. → explorer n.",
+"strat": "and broaden our horizons 與空格同向。"
+},
+{
+"y": 101,
+"n": 4,
+"zh": "后羿射九日的故事是知名的中國傳說，但可能不是真實的歷史事件。",
+"oz": [
+"人物",
+"謠言",
+"奇蹟",
+"傳說"
+],
+"ex": "句意：后羿射九日是有名的中國＿＿，但可能不是真實歷史事件。故事可能不真實，是流傳的古老傳說。legend 即傳說，故選 legend。",
+"status": "ok",
+"hint": "看 well-known Chinese ___ 與 may not be a true historical event，想想真假難辨的古老故事。",
+"why": [
+"(A) figure 人物：figure 指人物，不是流傳的故事",
+"(B) rumor 謠言：rumor 指未證實的傳言，不用於古老故事",
+"(C) miracle 奇蹟：miracle 指奇跡，不是故事類型",
+"(D) legend 傳說，流傳已久但未必真實，正確"
+],
+"col": "an urban legend 都市傳說；a legend of ... ……的傳說（例：The legend says a dragon lived here. 傳說有龍住在此）",
+"fam": "legend n. → legendary adj.",
+"strat": "well-known 加 may not be true，想流傳已久的故事。"
+},
+{
+"y": 101,
+"n": 5,
+"zh": "根據最近研究，12歲以下的孩子通常不夠成熟，無法辨識風險並應付危險情況。",
+"oz": [
+"勤勉的",
+"成熟的",
+"熟悉的",
+"真誠的"
+],
+"ex": "句意：近期研究指出，12歲以下兒童通常不夠＿＿，無法辨認風險、處理危險情況。處理危險需要心智成熟。mature 即成熟的，故選 mature。",
+"status": "ok",
+"hint": "看 under the age of 12 與 recognize risk and deal with dangerous situations，想想孩子在這方面欠缺什麼。",
+"why": [
+"(A) diligent 勤勉的：diligent 與辨認風險能力無關",
+"(B) mature 成熟的，12歲以下不夠成熟，正確",
+"(C) familiar 熟悉的：familiar 不能與 enough 表示能力足夠",
+"(D) sincere 真誠的：sincere 與辨認風險無關"
+],
+"col": "mature enough 夠成熟；mature for one's age 比同齡成熟（例：He is mature for his age. 他比同齡人成熟）",
+"fam": "mature adj./v. → maturity n.；反義 immature",
+"strat": "children under 12 與 recognize risk，想欠缺的條件。"
+},
+{
+"y": 101,
+"n": 6,
+"zh": "海倫聽到弟弟在事故中沒有受傷，鬆了一口氣。",
+"oz": [
+"猶豫",
+"寬慰",
+"悲傷",
+"勝利"
+],
+"ex": "句意：海倫聽到哥哥在車禍中沒受傷，鬆了一口氣。a sigh of relief 是固定說法，故選 relief。",
+"status": "ok",
+"hint": "看 sigh of ___ 與 not injured，想想聽到哥哥沒事後鬆口氣的感受。",
+"why": [
+"(A) hesitation 猶豫：hesitation 不合聽到好消息後的嘆息",
+"(B) relief 寬慰，a sigh of relief 鬆一口氣，正確",
+"(C) sorrow 悲傷：sorrow 與哥哥沒事矛盾",
+"(D) triumph 勝利：triumph 與哥哥沒事無關"
+],
+"col": "a sigh of relief 鬆了一口氣；much to my relief 讓我鬆口氣的是（例：She breathed a sigh of relief. 她鬆了口氣）",
+"fam": "relieve v. → relief n. → relieved adj.",
+"strat": "sigh of ___ 是固定搭配，配 not injured。"
+},
+{
+"y": 101,
+"n": 7,
+"zh": "研究顯示外向性格的人傾向更樂觀，常預期好事會發生。",
+"oz": [
+"有效率的",
+"實際的",
+"易變的",
+"樂觀的"
+],
+"ex": "句意：研究顯示外向的人較傾向更＿＿，常預期好事會發生。預期好事發生，是樂觀的態度。optimistic 即樂觀的，故選 optimistic。",
+"status": "ok",
+"hint": "看 outgoing personalities 與 expecting that good things will happen，想想怎樣的人總預期好事發生。",
+"why": [
+"(A) efficient 有效率的：efficient 不能解釋預期好事發生",
+"(B) practical 實際的：practical 與預期好事相反",
+"(C) changeable 易變的：changeable 與外向無明顯關係",
+"(D) optimistic 樂觀的，期待好事發生，正確"
+],
+"col": "be optimistic about 對……樂觀；optimistic view 樂觀看法（例：She is optimistic about the future. 她對未來樂觀）",
+"fam": "optimist n. → optimistic adj.；反義 pessimistic",
+"strat": "expecting good things 是樂觀的表現。"
+},
+{
+"y": 101,
+"n": 8,
+"zh": "沒有人跑得贏保羅，他已連續三年贏得跑步冠軍。",
+"oz": [
+"快速地",
+"緊急地",
+"連續地",
+"暫時地"
+],
+"ex": "句意：沒人跑得贏保羅，他已＿＿三年拿到賽跑冠軍。for three years 表持續一段時間，故為連續。continuously 即連續地，故選 continuously。",
+"status": "ok",
+"hint": "看 won the running championship ___ for three years，想想連續三年拿冠軍的狀態。",
+"why": [
+"(A) rapidly 快速地：rapidly 與 for three years 持續時間無關",
+"(B) urgently 緊急地：urgently 與連年奪冠無關",
+"(C) continuously 連續地，三年不間斷，正確",
+"(D) temporarily 暫時地：temporarily 與連續三年矛盾"
+],
+"col": "work continuously 持續工作；rain continuously 不停下雨（例：It rained continuously for a week. 連續下了一週的雨）",
+"fam": "continue v. → continuous adj. → continuously adv.",
+"strat": "for three years 表持續，找表連續的副詞。"
+},
+{
+"y": 101,
+"n": 9,
+"zh": "如果你從台北飛東京，你搭的是國際航班，而非國內航班。",
+"oz": [
+"自由的",
+"國內的",
+"連接的",
+"普遍的"
+],
+"ex": "句意：從台北飛東京是國際航班，而非＿＿航班。rather than 前後對比，與 international 相對的是國內的。domestic 即國內的，故選 domestic。",
+"status": "ok",
+"hint": "看 international, rather than a ___ flight，想想與國際航班相對的航班。",
+"why": [
+"(A) liberal 自由的：liberal 與 international 沒有對比關係",
+"(B) domestic 國內的，與 international 相對，正確",
+"(C) connected 連接的：connected 不是航班類型",
+"(D) universal 普遍的：universal 不與 international 對比"
+],
+"col": "domestic flight 國內航班；domestic violence 家暴（例：They only fly domestic routes. 他們只飛國內航線）",
+"fam": "domestic adj.；反義 international / foreign",
+"strat": "rather than 前後對比 international。"
+},
+{
+"y": 101,
+"n": 10,
+"zh": "傑克對他新買的炫酷摩托車非常自豪，一直向所有朋友吹噓它有多酷、跑多快。",
+"oz": [
+"吹噓",
+"提議",
+"閒聊",
+"坦承"
+],
+"ex": "句意：傑克很以新摩托車為傲，一直向朋友＿＿它多酷多快。has been ___ to all his friends about 表示向朋友誇耀。boast about 即吹噓，故選 boasting。",
+"status": "ok",
+"hint": "看 proud of his fancy new motorcycle 與 about how cool it looks，想想他對朋友說話的態度；空格是現在分詞，後接 to。",
+"why": [
+"(A) boasting 吹噓，boast to sb about sth 誇耀，正確",
+"(B) proposing 提議：propose 後不接 about how cool it looks 這種語意",
+"(C) gossiping 閒聊：gossip 是說閒話，不合炫耀新車",
+"(D) confessing 坦承：confess 是承認，與 proud 矛盾"
+],
+"col": "boast about 吹噓；boast of 誇耀（例：He boasts about his grades. 他炫耀自己的成績）",
+"fam": "boast v./n. → boastful adj.",
+"strat": "proud of 新摩托車，向朋友說 about how cool it looks。"
+},
+{
+"y": 101,
+"n": 11,
+"zh": "過去二十年來，家庭觀念已有相當大的改變。例如我祖父家有十個孩子，我卻是獨生子。",
+"oz": [
+"互相地",
+"狹窄地",
+"相當大地",
+"幾乎不"
+],
+"ex": "句意：過去二十年，家庭觀念改變了＿＿。例子說祖父有十個孩子，我卻是獨生子，變化很大。considerably 即相當大地，故選 considerably。",
+"status": "ok",
+"hint": "看 For example 後的祖父十個孩子與我是獨生子，想想觀念轉變的程度。",
+"why": [
+"(A) mutually 互相地：mutually 不能修飾 changed",
+"(B) narrowly 狹窄地：narrowly 與變化程度無關",
+"(C) considerably 相當大地，十個孩子變獨生，變化大，正確",
+"(D) scarcely 幾乎不：scarcely 與例子中的巨大改變矛盾"
+],
+"col": "improve considerably 大幅改善；considerably higher 高出許多（例：Prices rose considerably. 物價大幅上漲）",
+"fam": "consider v. → considerable adj. → considerably adv.",
+"strat": "例子 ten children 到 only child，看變化程度。"
+},
+{
+"y": 101,
+"n": 12,
+"zh": "會議主席要求大家大聲發言，而不是彼此低聲嘀咕自己的意見。",
+"oz": [
+"背誦",
+"咯咯笑",
+"低聲嘀咕",
+"吹口哨"
+],
+"ex": "句意：主席要大家大聲說話，不要在彼此之間＿＿意見。speak up 是大聲說，相反就是低聲嘀咕。murmuring 即低聲說話，故選 murmuring。",
+"status": "ok",
+"hint": "看 speak up instead of ___，想想與大聲發言相反的行為。",
+"why": [
+"(A) reciting 背誦：recite 與 opinions 不搭，且不是低聲交談",
+"(B) giggling 咯咯笑：giggle 不接 opinions",
+"(C) murmuring 低聲嘀咕，與 speak up 相反，正確",
+"(D) whistling 吹口哨：whistle 不接 opinions"
+],
+"col": "murmur to oneself 喃喃自語；a murmur of voices 低語聲（例：They murmured their opinions. 他們低聲交換意見）",
+"fam": "murmur v./n.",
+"strat": "speak up instead of ___ 對比，找小聲說話。"
+},
+{
+"y": 101,
+"n": 13,
+"zh": "雖然陳先生很有錢，卻是個非常吝嗇的人，從不願花錢幫助有需要的人。",
+"oz": [
+"絕對的",
+"精確的",
+"經濟的",
+"吝嗇的"
+],
+"ex": "句意：陳先生雖然有錢，卻很＿＿，從不願花錢幫助需要的人。Although 表轉折，never willing to spend 說明吝嗇。stingy 即吝嗇的，故選 stingy。",
+"status": "ok",
+"hint": "看 Although Mr. Chen is rich 的轉折，以及 never willing to spend any money，想想與有錢相反的特質。",
+"why": [
+"(A) absolute 絕對的：absolute 不能形容吝嗇的個性",
+"(B) precise 精確的：precise 與不願花錢無關",
+"(C) economic 經濟的：economic 指經濟的，不是吝嗇",
+"(D) stingy 吝嗇的，有錢卻不肯花，正確"
+],
+"col": "a stingy person 吝嗇鬼；be stingy with money 在錢上很小氣（例：He is stingy with tips. 他給小費很吝嗇）",
+"fam": "stingy adj.；反義 generous",
+"strat": "Although rich 轉折，never willing to spend 是線索。"
+},
+{
+"y": 101,
+"n": 14,
+"zh": "如果你想知道夢的意義，現在有一些網站可以幫你解讀夢境。",
+"oz": [
+"克服",
+"解讀",
+"轉移",
+"修訂"
+],
+"ex": "句意：想知道夢的意義，現在有網站可幫你＿＿它們。what your dreams mean 說明是要詮釋意義。interpret 即解讀，故選 interpret。",
+"status": "ok",
+"hint": "看 what your dreams mean 與 websites help you ___ them，想想想知道夢的意義時對夢做什麼。",
+"why": [
+"(A) overcome 克服：overcome 與夢的意義無關",
+"(B) interpret 解讀，說明夢的意義，正確",
+"(C) transfer 轉移：transfer 與夢的意義無關",
+"(D) revise 修訂：revise 是修改，與解讀夢無關"
+],
+"col": "interpret a dream 解夢；interpret data 解讀資料（例：How do you interpret this poem? 你如何解讀這首詩？）",
+"fam": "interpret v. → interpretation n. → interpreter n.（口譯員）",
+"strat": "what your dreams mean 說明要做的事。"
+},
+{
+"y": 101,
+"n": 15,
+"zh": "這台新電腦的記憶體容量已增加，可以儲存更多資訊。",
+"oz": [
+"容量",
+"職業",
+"附件",
+"機械"
+],
+"ex": "句意：新電腦的記憶體＿＿增加了，所以可存更多資訊。存放更多資料，指的是容量變大。capacity 即容量，故選 capacity。",
+"status": "ok",
+"hint": "看 memory ___ 與 more information can be stored，想想儲存資訊多寡取決於什麼。",
+"why": [
+"(A) capacity 容量，記憶體增加才能存更多，正確",
+"(B) occupation 職業：occupation 與記憶體增加無關",
+"(C) attachment 附件：attachment 與能存多少資訊無關",
+"(D) machinery 機械：machinery 與記憶體無關"
+],
+"col": "storage capacity 儲存容量；at full capacity 滿載（例：The stadium has a capacity of 50,000. 球場可容納五萬人）",
+"fam": "capable adj. → capacity n.",
+"strat": "memory ___ 加 more information can be stored。"
+},
+{
+"y": 102,
+"n": 1,
+"zh": "昨天雨下得太大，棒球賽必須延到下週六。",
+"oz": [
+"投降",
+"延期",
+"放棄",
+"反對"
+],
+"ex": "句意：昨天雨太大，棒球賽得＿＿到下週六。until next Saturday 表示延到日後。postpone 即延期，故選 postponed。",
+"status": "ok",
+"hint": "看 rained so hard 與 until next Saturday，想想雨太大時比賽會被怎麼處理；空格是過去分詞。",
+"why": [
+"(A) surrendered 投降：surrender 與比賽延期無關",
+"(B) postponed 延期，延到下週六，正確",
+"(C) abandoned 放棄：abandon 不表示延到下週六",
+"(D) opposed 反對：oppose 不能表示比賽被延期"
+],
+"col": "postpone a meeting 延後會議；postpone until/to 延到（例：The trip was postponed to May. 旅行延到五月）",
+"fam": "postpone v. → postponement n.",
+"strat": "until next Saturday 表示延後而非取消。"
+},
+{
+"y": 102,
+"n": 2,
+"zh": "隨著越來越多人依賴網路取得資訊，網路已取代報紙成為最重要的新聞來源。",
+"oz": [
+"分發",
+"減去",
+"取代",
+"轉移"
+],
+"ex": "句意：越來越多人靠網路取得資訊，網路已＿＿報紙成為最重要的新聞來源。replace A as B 表示取代 A 的地位。replaced 即取代，故選 replaced。",
+"status": "ok",
+"hint": "看 rely on the Internet 與 as the most important source of news，想想網路與報紙的地位變化。",
+"why": [
+"(A) distributed 分發：distribute 是分送，不表示取代",
+"(B) subtracted 減去：subtract 是做減法，與新聞來源無關",
+"(C) replaced 取代，網路取代報紙，正確",
+"(D) transferred 轉移：transfer 與報紙地位無關"
+],
+"col": "replace A with B 以 B 取代 A；replace sb as 接替某人（例：Email has replaced letters. 電子郵件取代了信件）",
+"fam": "replace v. → replacement n.",
+"strat": "as the most important source 說明替代關係。"
+},
+{
+"y": 102,
+"n": 3,
+"zh": "存夠了錢，喬訂了今年暑假的兩趟旅行，一趟去法國，一趟去澳洲。",
+"oz": [
+"預訂",
+"觀察",
+"附上",
+"存款"
+],
+"ex": "句意：存夠錢後，喬伊＿＿了兩趟暑假旅行，一去法國一去澳洲。前提是存夠錢，接著是安排旅程。book 即預訂，故選 booked。",
+"status": "ok",
+"hint": "看 two trips for this summer vacation, one to France and the other to Australia，想想對旅行做什麼安排；有 Having saved enough money。",
+"why": [
+"(A) booked 預訂，已存夠錢預訂旅行，正確",
+"(B) observed 觀察：observe 與預訂旅行無關",
+"(C) enclosed 附上：enclose 是附在信內，與旅行無關",
+"(D) deposited 存款：deposit 不接 trips"
+],
+"col": "book a flight 訂機票；book a table 訂位（例：I booked a room for two nights. 我訂了兩晚房間）",
+"fam": "book v./n. → booking n.",
+"strat": "two trips 是受詞，想安排旅程的動作。"
+},
+{
+"y": 102,
+"n": 4,
+"zh": "由於我不完全了解你的提案，我不適合對它發表任何意見。",
+"oz": [
+"差別",
+"解決辦法",
+"要求",
+"評論"
+],
+"ex": "句意：我不完全了解你的提案，沒立場對它做任何＿＿。make a comment on 表示對某事發表評論。comment 即評論，故選 comment。",
+"status": "ok",
+"hint": "看 not fully understand your proposal，想想不了解時對提案能做什麼。",
+"why": [
+"(A) difference 差別：difference 與 comment on 的語意不符",
+"(B) solution 解決辦法：solution 與不了解提案矛盾",
+"(C) demand 要求：demand 不是對提案不了解時會做的事",
+"(D) comment 評論，make comments on 發表評論，正確"
+],
+"col": "make a comment on 對……發表意見；No comment. 無可奉告（例：Do you have any comment? 你有何意見？）",
+"fam": "comment n./v. → commentary n.",
+"strat": "not fully understand，能做的只有講意見。"
+},
+{
+"y": 102,
+"n": 5,
+"zh": "貝蒂不願接受朋友的建議，因為她覺得自己能想出更好的點子。",
+"oz": [
+"可容忍的",
+"敏感的",
+"不情願的",
+"謙虛的"
+],
+"ex": "句意：貝蒂＿＿接受朋友的建議，因為她認為自己能想出更好的主意。後半句說明她不想接受。reluctant 即不情願的，be reluctant to V，故選 reluctant。",
+"status": "ok",
+"hint": "看 she thought she could come up with a better idea herself，想想她對朋友建議的態度。",
+"why": [
+"(A) tolerable 可容忍的：tolerable 不能形容人不想接受建議",
+"(B) sensitive 敏感的：sensitive 與接受建議無關",
+"(C) reluctant 不情願的，因覺得自己有更好主意，正確",
+"(D) modest 謙虛的：modest 與不採納建議矛盾"
+],
+"col": "be reluctant to V 不願意做……；reluctantly 勉強地（例：He was reluctant to leave. 他不願離開）",
+"fam": "reluctant adj. → reluctantly adv. → reluctance n.",
+"strat": "she thought she could come up with a better idea。"
+},
+{
+"y": 102,
+"n": 6,
+"zh": "銀行盡力吸引更多顧客，行員總是隨時提供迅速的服務。",
+"oz": [
+"單一的",
+"迅速的",
+"昂貴的",
+"可能的"
+],
+"ex": "句意：銀行盡力吸引客戶，員工隨時提供＿＿的服務。為了吸引客戶，服務應是迅速的。prompt service 為常見搭配，故選 prompt。",
+"status": "ok",
+"hint": "看 attract more customers 與 always available，想想銀行員工提供給客戶的服務特質。",
+"why": [
+"(A) singular 單一的：singular 與服務速度無關",
+"(B) prompt 迅速的，吸引客戶需要快速服務，正確",
+"(C) expensive 昂貴的：expensive 與吸引客戶矛盾",
+"(D) probable 可能的：probable 不與 service 搭配"
+],
+"col": "prompt service 迅速服務；a prompt reply 及時回覆（例：Thank you for your prompt response. 感謝你迅速回覆）",
+"fam": "prompt adj./v. → promptly adv.",
+"strat": "attract more customers 加 always available。"
+},
+{
+"y": 102,
+"n": 7,
+"zh": "約翰在自助餐廳的兼職經驗，是他自己開餐廳的良好準備。",
+"oz": [
+"準備",
+"認可",
+"形成",
+"計算"
+],
+"ex": "句意：約翰在餐廳打工的經驗，是開自己餐廳的良好＿＿。經驗有助於日後經營，所以是準備。good preparation for 為常見搭配，故選 preparation。",
+"status": "ok",
+"hint": "看 part-time experience at the cafeteria 與 running his own restaurant，想想打工經驗對開餐廳的作用。",
+"why": [
+"(A) preparation 準備，打工經驗是為開餐廳做準備，正確",
+"(B) recognition 認可：recognition 與打工經驗是準備無關",
+"(C) formation 形成：formation 與經驗對開餐廳無關",
+"(D) calculation 計算：calculation 與打工經驗無關"
+],
+"col": "preparation for 為……做的準備；in preparation for 為……做準備（例：Practice is good preparation for the test. 練習是考試的好準備）",
+"fam": "prepare v. → preparation n. → preparatory adj.",
+"strat": "good ___ for 是搭配，經驗是為未來準備。"
+},
+{
+"y": 102,
+"n": 8,
+"zh": "女性的流行時尚不斷改變：這一季可能流行褲裝，下一季可能偏好迷你裙。",
+"oz": [
+"最近",
+"不久",
+"相對地",
+"不斷地"
+],
+"ex": "句意：女裝流行＿＿在變：這一季可能流行褲裝，下一季可能流行迷你裙。One season ... the next season 表示一直變。constantly 即不斷地，故選 constantly。",
+"status": "ok",
+"hint": "看 One season ... but the next season ...，想想流行款式季季轉變的狀態。",
+"why": [
+"(A) lately 最近：lately 與季節循環變動無關",
+"(B) shortly 不久：shortly 與一直變動矛盾",
+"(C) relatively 相對地：relatively 是程度副詞，不表持續變動",
+"(D) constantly 不斷地，季季都變，正確"
+],
+"col": "constantly changing 不斷變化；constantly complain 老是抱怨（例：Technology is constantly improving. 科技不斷進步）",
+"fam": "constant adj. → constantly adv.",
+"strat": "One season ... the next season 表示季季變。"
+},
+{
+"y": 102,
+"n": 9,
+"zh": "站在海岸邊，我們看到一群海鷗飛過海面，然後滑翔落在水面上。",
+"oz": [
+"一群（狼等）",
+"一群（鳥）",
+"一群（牛羊）",
+"一群（魚）"
+],
+"ex": "句意：站在海邊，我們看見一＿＿海鷗飛過海面。群體名詞依動物而異，鳥類常用 flock。a flock of seagulls 為固定搭配，故選 flock。",
+"status": "ok",
+"hint": "看 seagulls flying over the ocean，想想「一群海鷗」的量詞。",
+"why": [
+"(A) pack 一群（狼等）：pack 用於狼或狗，不用於海鷗",
+"(B) flock 一群（鳥），a flock of birds 鳥群，正確",
+"(C) herd 一群（牛羊）：herd 用於牛羊，不用於海鷗",
+"(D) school 一群（魚）：school 用於魚群"
+],
+"col": "a flock of sheep 一群羊；a flock of birds 一群鳥（例：A flock of geese flew by. 一群鵝飛過）",
+"fam": "flock n./v.",
+"strat": "seagulls 是鳥類，想鳥群的量詞。"
+},
+{
+"y": 102,
+"n": 10,
+"zh": "這本書不但資訊豐富，也很有娛樂性，讓我閱讀時又笑又放鬆。",
+"oz": [
+"體諒的",
+"傳染的",
+"有趣的",
+"惱人的"
+],
+"ex": "句意：這本書不僅有知識性，也很＿＿，讓我邊讀邊笑、感到放鬆。making me laugh 說明有趣。entertaining 意為有趣的、娛樂性的，故選 entertaining。",
+"status": "ok",
+"hint": "看 not only informative but also ___ 與 making me laugh，想想讓人笑又放鬆的書。",
+"why": [
+"(A) understanding 體諒的：understanding 與逗人笑無關",
+"(B) infecting 傳染的：infecting 與書的內容無關",
+"(C) entertaining 有趣的，使人笑、放鬆，正確",
+"(D) annoying 惱人的：annoying 與使我笑和放鬆矛盾"
+],
+"col": "an entertaining show 有趣的節目；entertain guests 招待客人（例：The movie was very entertaining. 這部電影很有趣）",
+"fam": "entertain v. → entertainment n. → entertaining adj.",
+"strat": "making me laugh and feel relaxed 是形容書。"
+},
+{
+"y": 102,
+"n": 11,
+"zh": "整天在電腦前工作後，我的脖子和肩膀變得僵硬，連頭都轉不了。",
+"oz": [
+"濃密的",
+"嚴厲的",
+"僵硬的",
+"具體的"
+],
+"ex": "句意：整天用電腦後，我的脖子和肩膀變得很＿＿，連頭都轉不動。轉不動頭表示肌肉僵硬。stiff 即僵硬的，故選 stiff。",
+"status": "ok",
+"hint": "看 neck and shoulders 與 couldn't even turn my head，想想整天對電腦後脖子的狀態。",
+"why": [
+"(A) dense 濃密的：dense 形容頭髮或霧，不形容肌肉",
+"(B) harsh 嚴厲的：harsh 與肌肉狀態無關",
+"(C) stiff 僵硬的，肌肉僵硬轉不動，正確",
+"(D) concrete 具體的：concrete 是具體，不能形容肌肉"
+],
+"col": "a stiff neck 脖子僵硬；stiff muscles 僵硬的肌肉（例：I woke up with a stiff back. 我醒來背很僵）",
+"fam": "stiff adj. → stiffness n.",
+"strat": "couldn't even turn my head 表示脖子活動受限。"
+},
+{
+"y": 102,
+"n": 12,
+"zh": "在流感季節開始前打流感疫苗，能讓身體對可能使我們生病的病毒建立保護力。",
+"oz": [
+"毒藥",
+"痛苦",
+"洩漏",
+"病毒"
+],
+"ex": "句意：流感季前打流感疫苗，能讓身體建立對可能使我們生病的＿＿的防護。疫苗針對致病的微生物。virus 即病毒，故選 virus。",
+"status": "ok",
+"hint": "看 flu shot 與 protection against the ___ that could make us sick，想想疫苗預防的是什麼。",
+"why": [
+"(A) poison 毒藥：poison 不是疫苗預防的對象",
+"(B) misery 痛苦：misery 是心情，不是疫苗預防對象",
+"(C) leak 洩漏：leak 是漏出，與生病無關",
+"(D) virus 病毒，疫苗防護病毒，正確"
+],
+"col": "a flu virus 流感病毒；computer virus 電腦病毒（例：The virus spreads quickly. 病毒傳播很快）",
+"fam": "virus n. → viral adj.",
+"strat": "flu shot 預防的是 make us sick 的來源。"
+},
+{
+"y": 102,
+"n": 13,
+"zh": "這個王國在統治者死後開始崩潰，不久就被鄰國併吞。",
+"oz": [
+"崩潰",
+"解散",
+"反叛",
+"撤退"
+],
+"ex": "句意：統治者死後，王國開始＿＿，不久被鄰國併吞。被併吞是因為國家已瓦解。collapse 即崩潰，故選 collapse。",
+"status": "ok",
+"hint": "看 after the death of its ruler 與 taken over by a neighboring country，想想國家的下場。",
+"why": [
+"(A) collapse 崩潰，國家瓦解才被併吞，正確",
+"(B) dismiss 解散：dismiss 接人或會議，不用於王國",
+"(C) rebel 反叛：rebel 指造反，與統治者死後無關",
+"(D) withdraw 撤退：withdraw 與被鄰國接管的原因不符"
+],
+"col": "collapse suddenly 突然倒塌；economic collapse 經濟崩潰（例：The old bridge collapsed. 舊橋倒塌了）",
+"fam": "collapse v./n.",
+"strat": "taken over 之前，王國發生了什麼。"
+},
+{
+"y": 102,
+"n": 14,
+"zh": "雖然凱文在去年的歌唱比賽失利，他並不感到沮喪。今年他日夜練習，終於奪得冠軍。",
+"oz": [
+"寬慰的",
+"懷疑的",
+"打折的",
+"沮喪的"
+],
+"ex": "句意：凱文雖然去年歌唱比賽失敗，卻沒有感到＿＿，今年苦練並奪冠。Though 表轉折，失敗後沒有沮喪。frustrated 即沮喪的，故選 frustrated。",
+"status": "ok",
+"hint": "看 Though Kevin failed ... he did not feel ___，以及後面苦練奪冠，想想失敗後他沒有的情緒。",
+"why": [
+"(A) relieved 寬慰的：relieved 與失敗後的情緒不同",
+"(B) suspected 懷疑的：suspected 與失敗後的情緒無關",
+"(C) discounted 打折的：discounted 與情緒無關",
+"(D) frustrated 沮喪的，失敗卻不氣餒，正確"
+],
+"col": "feel frustrated 感到挫折；frustrating experience 令人沮喪的經驗（例：She was frustrated by the delay. 延誤令她沮喪）",
+"fam": "frustrate v. → frustration n. → frustrated adj.",
+"strat": "Though failed 轉折，he did not feel 的狀態。"
+},
+{
+"y": 102,
+"n": 15,
+"zh": "艾瑪和喬正在為三歲的雙胞胎找一位住家保母，最好是會煮飯的。",
+"oz": [
+"起初",
+"顯然",
+"最好是",
+"相當地"
+],
+"ex": "句意：艾瑪和喬想找與兩歲雙胞胎同住的保母，＿＿會煮飯的。the one who knows how to cook 是附加期望。preferably 即最好是，故選 preferably。",
+"status": "ok",
+"hint": "看空格前逗號，想想想找會做飯的保母，語氣是「最好」。",
+"why": [
+"(A) initially 起初：initially 與附加期望無關",
+"(B) apparently 顯然：apparently 與找保母的期望不合",
+"(C) preferably 最好是，表示附加的期望，正確",
+"(D) considerably 相當地：considerably 不能表示偏好"
+],
+"col": "preferably 最好是；prefer A to B 比較喜歡 A（例：Bring a friend, preferably a tall one. 帶個朋友，最好是高個子）",
+"fam": "prefer v. → preference n. → preferable adj. → preferably adv.",
+"strat": "空格前有逗號，後面 one who knows how to cook。"
+},
+{
+"y": 103,
+"n": 1,
+"zh": "迷路又害怕的小狗在街上徘徊，尋找牠的主人。",
+"oz": [
+"解散",
+"滑行",
+"徘徊",
+"行軍"
+],
+"ex": "句意：迷路又害怕的小狗在街上＿＿，尋找牠的主人。lost 與 looking for 暗示漫無目的地走動。wander 即徘徊，故選 wandered。",
+"status": "ok",
+"hint": "看 Lost and scared 與 looking for its master，想想迷路小狗在街上的移動。",
+"why": [
+"(A) dismissed 解散：dismissed 與小狗找主人無關",
+"(B) glided 滑行：glided 與街道上找主人的情境不合",
+"(C) wandered 徘徊，迷路找主人，正確",
+"(D) marched 行軍：marched 是整齊行進，不是小狗迷路"
+],
+"col": "wander around 閒逛；wander off 走失（例：Don't wander off. 不要走散）",
+"fam": "wander v. → wanderer n.",
+"strat": "Lost and scared 加 looking for its master。"
+},
+{
+"y": 103,
+"n": 2,
+"zh": "上個月一個晴朗的下午，我們都脫掉鞋子，赤腳走在草地上。",
+"oz": [
+"赤裸的",
+"生的",
+"堅韌的",
+"滑的"
+],
+"ex": "句意：上個月一個晴朗的午後，我們脫掉鞋子，光著腳走在草地上。took off our shoes 說明腳沒穿東西。with bare feet 為固定搭配，故選 bare。",
+"status": "ok",
+"hint": "看 walked on the grass 與 took off our shoes，想想脫鞋後腳的狀態。",
+"why": [
+"(A) bare 赤裸的，with bare feet 光腳，正確",
+"(B) raw 生的：raw 指未煮過，不能形容腳",
+"(C) tough 堅韌的：tough 不能形容赤腳",
+"(D) slippery 滑的：slippery 與脫鞋走草地無關"
+],
+"col": "bare feet 赤腳；bare hands 空手（例：Walk on the beach in bare feet. 光腳在沙灘走）",
+"fam": "bare adj./v. → barely adv.（幾乎不）",
+"strat": "took off our shoes 後，腳的狀態。"
+},
+{
+"y": 103,
+"n": 3,
+"zh": "在網路上散布他人謠言，在法律上和道德上都是錯的。",
+"oz": [
+"道德上",
+"身體上",
+"文學上",
+"商業上"
+],
+"ex": "句意：在網路上散播他人謠言，在法律上與＿＿上都是錯的。legally and ___ 並列，副詞指不同層面。morally wrong 為常見說法，故選 morally。",
+"status": "ok",
+"hint": "看 legally and ___ wrong，想想散播謠言除了違法還犯了什麼層面的錯。",
+"why": [
+"(A) morally 道德上，與 legally 並列，正確",
+"(B) physically 身體上：physically 與散播謠言的對錯無關",
+"(C) literarily 文學上：literarily 與散播謠言無關",
+"(D) commercially 商業上：commercially 與謠言的對錯無關"
+],
+"col": "morally wrong 道德上不對；morally responsible 道德上有責任（例：It is morally wrong to cheat. 作弊在道德上不對）",
+"fam": "moral adj./n. → morally adv. → morality n.",
+"strat": "legally and ___ 並列，找另一層面的對錯。"
+},
+{
+"y": 103,
+"n": 4,
+"zh": "這些暖身運動是設計來幫助人們放鬆肌肉並預防受傷。",
+"oz": [
+"生產",
+"連接",
+"拓寬",
+"放鬆"
+],
+"ex": "句意：這些暖身運動可幫助人們＿＿肌肉並預防受傷。暖身是讓肌肉放鬆、不緊繃。loosen 即放鬆，故選 loosen。",
+"status": "ok",
+"hint": "看 warm-up exercises 與 prevent injuries，想想暖身動作對肌肉的作用。",
+"why": [
+"(A) produce 生產：produce 與預防受傷無關",
+"(B) connect 連接：connect 不能用於肌肉的暖身",
+"(C) broaden 拓寬：broaden 不能形容肌肉",
+"(D) loosen 放鬆，暖身使肌肉放鬆，正確"
+],
+"col": "loosen one's tie 鬆開領帶；loosen muscles 放鬆肌肉（例：Stretch to loosen your muscles. 伸展來放鬆肌肉）",
+"fam": "loose adj. → loosen v.；反義 tighten",
+"strat": "warm-up 加 muscles，想暖身後肌肉的狀態。"
+},
+{
+"y": 103,
+"n": 5,
+"zh": "美玲和父母關係很親近，做重要決定前她總是會請教他們。",
+"oz": [
+"使印象深刻",
+"勸告",
+"請教",
+"激勵"
+],
+"ex": "句意：美玲和父母關係很親近，做重要決定前總會＿＿他們。close relationship 加上 important decisions，表示徵詢意見。consult 即請教，故選 consults。",
+"status": "ok",
+"hint": "看 before she makes important decisions，想想她對父母做的事；consult 接人。",
+"why": [
+"(A) impresses 使印象深刻：impress 不是做決定前會對父母做的事",
+"(B) advises 勸告：advise 是她給父母意見，與句意相反",
+"(C) consults 請教，向父母徵詢意見，正確",
+"(D) motivates 激勵：motivate 與做決定前的行為不合"
+],
+"col": "consult a doctor 看醫生；consult a dictionary 查字典（例：You should consult a lawyer. 你該諮詢律師）",
+"fam": "consult v. → consultant n. → consultation n.",
+"strat": "before important decisions，想向父母徵詢。"
+},
+{
+"y": 103,
+"n": 6,
+"zh": "這家餐廳有每人新台幣250元的最低消費，所以我們四個人至少要付1,000元。",
+"oz": [
+"明確的",
+"最低的",
+"有彈性的",
+"眾多的"
+],
+"ex": "句意：餐廳有＿＿收費每人250元，所以四人至少要付1000元。at least 提示是最低消費。minimum charge 為常見搭配，故選 minimum。",
+"status": "ok",
+"hint": "看 NT$250 per person 與 at least NT$1,000，想想四人最少付多少的收費。",
+"why": [
+"(A) definite 明確的：definite 不表示最低費用",
+"(B) minimum 最低的，at least 對應最低消費，正確",
+"(C) flexible 有彈性的：flexible 與固定每人250元矛盾",
+"(D) numerous 眾多的：numerous 不能形容單一收費"
+],
+"col": "minimum charge 最低消費；minimum wage 最低工資（例：The minimum age is 18. 最低年齡為十八歲）",
+"fam": "minimum n./adj.；反義 maximum",
+"strat": "at least NT$1,000 對應最低消費。"
+},
+{
+"y": 103,
+"n": 7,
+"zh": "在書展中，來自21個國家的參展商將展示教科書、小說和漫畫書。",
+"oz": [
+"預測",
+"需要",
+"展示",
+"瞄準"
+],
+"ex": "句意：書展上來自21國的參展者將＿＿教科書、小說和漫畫。exhibitors 是參展者，在書展會陳列展示書籍。display 即展示，故選 display。",
+"status": "ok",
+"hint": "看 Book Fair 與 exhibitors，想想參展者對書做什麼。",
+"why": [
+"(A) predict 預測：predict 與展出書籍不合",
+"(B) require 需要：require 與參展者做的事不符",
+"(C) display 展示，參展者陳列書籍，正確",
+"(D) target 瞄準：target 與展書無關"
+],
+"col": "on display 展示中；display goods 陳列商品（例：The museum displays old coins. 博物館展示古幣）",
+"fam": "display v./n.",
+"strat": "exhibitors at the Book Fair 的動作。"
+},
+{
+"y": 103,
+"n": 8,
+"zh": "約翰上台演講前，深呼吸一口氣讓自己冷靜下來。",
+"oz": [
+"順序",
+"休息",
+"努力",
+"呼吸"
+],
+"ex": "句意：約翰上台演講前，深吸一口＿＿讓自己冷靜。take a deep breath 為固定說法，故選 breath。",
+"status": "ok",
+"hint": "看 to calm himself down 與 deep ___，想想上台前平復情緒的動作。",
+"why": [
+"(A) order 順序：order 不與 deep 搭配表深呼吸",
+"(B) rest 休息：rest 不與 take a deep 搭配",
+"(C) effort 努力：effort 不與 deep 搭配表平復情緒",
+"(D) breath 呼吸，take a deep breath 深呼吸，正確"
+],
+"col": "take a deep breath 深呼吸；out of breath 喘不過氣（例：Take a deep breath and relax. 深呼吸，放輕鬆）",
+"fam": "breath n.（名詞）→ breathe v.（動詞，發音不同）",
+"strat": "take a deep ___ 是固定搭配。"
+},
+{
+"y": 103,
+"n": 9,
+"zh": "台灣大多數年輕人不滿足於高中文憑，會繼續念大學深造。",
+"oz": [
+"成熟",
+"文憑",
+"基礎",
+"保證"
+],
+"ex": "句意：台灣多數年輕人不滿足於高中＿＿，繼續念大學。高中畢業的學歷證明是文憑。diploma 即文憑，故選 diploma。",
+"status": "ok",
+"hint": "看 not satisfied with a high school ___ 與 further education in college，想想高中畢業的證明。",
+"why": [
+"(A) maturity 成熟：maturity 不是高中畢業的資格",
+"(B) diploma 文憑，高中畢業證書，正確",
+"(C) foundation 基礎：foundation 不與 high school 搭配成此意",
+"(D) guarantee 保證：guarantee 與高中畢業無關"
+],
+"col": "a high school diploma 高中畢業證書；earn a diploma 取得文憑（例：She received her diploma last June. 她去年六月拿到文憑）",
+"fam": "diploma n. → diplomatic adj.（外交的），注意不要混淆",
+"strat": "a high school ___ 是高中畢業的證明。"
+},
+{
+"y": 103,
+"n": 10,
+"zh": "居民被告知不要把所有家庭廢棄物直接丟進垃圾桶，可回收的物品應先分類回收。",
+"oz": [
+"不久",
+"直接地",
+"向前",
+"亦即"
+],
+"ex": "句意：居民被告知不要把所有家庭廢棄物＿＿丟進垃圾桶，可回收的要先分類。後句說應先分類，所以不能不經處理地丟。straight 即直接地，故選 straight。",
+"status": "ok",
+"hint": "看 into the trash can 與 reusable materials should first be sorted，想想不要「不先分類就」丟的方式。",
+"why": [
+"(A) shortly 不久：shortly 表時間，不能表丟的方式",
+"(B) straight 直接地，不經分類直接丟，正確",
+"(C) forward 向前：forward 與丟進垃圾桶的方式不合",
+"(D) namely 亦即：namely 是連接詞，不能修飾 dump"
+],
+"col": "go straight home 直接回家；straight into 直接進入（例：Don't throw it straight into the bin. 別直接丟進垃圾桶）",
+"fam": "straight adj./adv. → straighten v.",
+"strat": "reusable materials should first be sorted 暗示不先分類。"
+},
+{
+"y": 103,
+"n": 11,
+"zh": "凱文站在梯子上想拿最上層書架的書時，失去平衡摔到地上。",
+"oz": [
+"音量",
+"重量",
+"平衡",
+"方向"
+],
+"ex": "句意：凱文站在梯子上伸手拿頂層書時失去＿＿而摔到地上。站不穩才會摔倒。lose one's balance 為固定搭配，故選 balance。",
+"status": "ok",
+"hint": "看 standing on a ladder 與 fell to the ground，想想站在梯子上摔下來是失去了什麼。",
+"why": [
+"(A) volume 音量：volume 與摔倒無關",
+"(B) weight 重量：weight 不是 lose 的受詞，且與摔倒不合",
+"(C) balance 平衡，lose one's balance 失去平衡，正確",
+"(D) direction 方向：direction 不是 lose 的受詞，與摔倒不合"
+],
+"col": "lose one's balance 失去平衡；keep one's balance 保持平衡（例：She lost her balance and fell. 她失去平衡摔倒）",
+"fam": "balance n./v. → balanced adj.",
+"strat": "standing on a ladder 加 fell，想失去什麼才摔倒。"
+},
+{
+"y": 103,
+"n": 12,
+"zh": "如果學生入學人數持續下降，大學的一些課程可能會被裁撤，以降低營運成本。",
+"oz": [
+"減輕",
+"裁撤",
+"預計",
+"說明"
+],
+"ex": "句意：入學人數持續下滑，大學的某些學程可能被＿＿以降低營運成本。為了省錢，會把學程停掉。eliminated 即裁撤，故選 eliminated。",
+"status": "ok",
+"hint": "看 enrollment continues to drop 與 reduce the operation costs，想想學校對學程的處理。",
+"why": [
+"(A) relieved 減輕：relieved 與裁撤學程無關",
+"(B) eliminated 裁撤，為降低成本而廢除，正確",
+"(C) projected 預計：projected 與降低成本無關",
+"(D) accounted 說明：accounted 與降低成本無關"
+],
+"col": "eliminate waste 消除浪費；be eliminated 被淘汰（例：The team was eliminated from the contest. 該隊被淘汰）",
+"fam": "eliminate v. → elimination n.",
+"strat": "enrollment drop 與 reduce cost，想學程的處理。"
+},
+{
+"y": 103,
+"n": 13,
+"zh": "那個偏遠村落的人以打獵和原始形式的農業維生，沒有使用現代農法。",
+"oz": [
+"普遍的",
+"壯觀的",
+"原始的",
+"有禮貌的"
+],
+"ex": "句意：偏遠村落的人以打獵和＿＿形式的農業維生，沒有使用現代農法。No modern methods 說明是原始方式。primitive 即原始的，故選 primitive。",
+"status": "ok",
+"hint": "看 No modern agricultural methods are used，想想與現代相對的農業形式。",
+"why": [
+"(A) universal 普遍的：universal 與現代方法相對",
+"(B) splendid 壯觀的：splendid 與沒有現代方法無關",
+"(C) primitive 原始的，與現代相對，正確",
+"(D) courteous 有禮貌的：courteous 不能形容農業"
+],
+"col": "primitive tools 原始工具；primitive society 原始社會（例：They lived in a primitive hut. 他們住在簡陋的小屋）",
+"fam": "primitive adj.",
+"strat": "No modern methods 是與現代相對。"
+},
+{
+"y": 103,
+"n": 14,
+"zh": "政府因敘利亞爆發內戰，對台灣人發布旅遊警示。",
+"oz": [
+"警示",
+"紀念碑",
+"出口",
+"循環"
+],
+"ex": "句意：因敘利亞內戰爆發，政府發布了對國人的旅遊＿＿。政府要提醒國人注意旅遊安全。travel alert 即旅遊警示，故選 alert。",
+"status": "ok",
+"hint": "看 in response to the outbreak of civil war in Syria，想想政府會對國民發布什麼。",
+"why": [
+"(A) alert 警示，travel alert 旅遊警示，正確",
+"(B) monument 紀念碑：monument 與旅遊提醒無關",
+"(C) exit 出口：exit 與旅遊提醒無關",
+"(D) circulation 循環：circulation 與旅遊提醒無關"
+],
+"col": "travel alert 旅遊警示；on alert 戒備（例：The government issued a health alert. 政府發布健康警報）",
+"fam": "alert n./adj./v.",
+"strat": "civil war outbreak 加 travel ___，想政府發布的提醒。"
+},
+{
+"y": 103,
+"n": 15,
+"zh": "台北動物園的大貓熊寶寶圓仔因出生時受的小傷與母親分開，被保育員照料了一陣子。",
+"oz": [
+"離開",
+"監禁",
+"照料",
+"捕獲"
+],
+"ex": "句意：圓仔因出生時受輕傷與母親分開，一陣子由飼育員＿＿。minor injury 暗示需要照顧。be tended by 即被照料，故選 tended。",
+"status": "ok",
+"hint": "看 separated from her mother 與 a minor injury，想想被隔離期間動物管理員做的事；空格是過去分詞，前有 was。",
+"why": [
+"(A) departed 離開：departed 不接 by zookeepers 表被動語意",
+"(B) jailed 監禁：jailed 是關進監獄，不用於貓熊受傷後",
+"(C) tended 照料，因受傷由飼育員照顧，正確",
+"(D) captured 捕獲：captured 指抓到野生動物，與幼貓熊受傷後不合"
+],
+"col": "tend a garden 照料花園；tend to V 傾向（例：Nurses tend the sick. 護士照顧病人）",
+"fam": "tend v. → tendency n.；tend to 另有『傾向』義",
+"strat": "minor injury 暗示需要照顧，找被動 by zookeepers。"
+},
+{
+"y": 104,
+"n": 1,
+"zh": "現今許多公司採行彈性工時，讓員工自己決定何時上班，最早早上六點，最晚上午十一點。",
+"oz": [
+"相對的",
+"嚴重的",
+"原始的",
+"有彈性的"
+],
+"ex": "①空格修飾 work schedule，句意是「可自行決定上班時間的」工時。②線索是 allows employees to decide when to arrive。③需要形容詞。④能依個人決定的工時就是 flexible。",
+"status": "ok",
+"hint": "看 allows their employees to decide when to arrive 這段，說明工時有什麼特性？",
+"why": [
+"(A) relative 相對的：工時不是「相對的」，且與員工自選上班時間無關",
+"(B) severe 嚴重的：「嚴重的」工時語意怪，無法說明可自由選擇",
+"(C) primitive 原始的：「原始的」工時與現代公司的新制度不符",
+"(D) flexible 有彈性的：符合，flexible schedule 即可自行調整的彈性工時"
+],
+"col": "flexible hours 彈性工時；She has a flexible schedule. 她的時間很有彈性。",
+"fam": "flexible adj. → flexibility n.；flexibly adv.",
+"strat": "抓 allows employees to decide when 的「自己決定」，聯想到彈性"
+},
+{
+"y": 104,
+"n": 2,
+"zh": "為了教孩子明辨是非，有些父母會在孩子表現良好時獎勵他們，行為不當時懲罰他們。",
+"oz": [
+"解決",
+"宣告",
+"獎勵",
+"忽視"
+],
+"ex": "①空格要填與 punish 相對的動詞，表示孩子表現好時父母怎麼做。②線索是 when they behave well 與 punish ... when they misbehave 的對比。③需要及物動詞，後接 their children。④表現好應給予 reward。",
+"status": "ok",
+"hint": "注意 and punish them when they misbehave，前後是相對的作法。",
+"why": [
+"(A) settle 解決：「解決」孩子無法與 punish 形成賞罰對比",
+"(B) declare 宣告：「宣告」孩子沒有任何意義，與表現好無關",
+"(C) reward 獎勵：符合，reward 與 punish 形成賞罰對比",
+"(D) neglect 忽視：「忽視」孩子是不理會，不是對好行為的回應"
+],
+"col": "reward sb for sth 因某事獎勵某人；They rewarded her for her honesty. 他們獎勵她的誠實。",
+"fam": "reward v./n. → rewarding adj. 值得的",
+"strat": "看 punish 前後的 and 並列，空格必須是與懲罰相反的動作"
+},
+{
+"y": 104,
+"n": 3,
+"zh": "為了維持緊縮的預算，羅伯特買了較平價的LED電視，而不是花俏昂貴的3D電視。",
+"oz": [
+"技術的",
+"重大的",
+"負擔得起的",
+"表達的"
+],
+"ex": "①空格形容 LED TV，與昂貴花俏的 3D TV 相對。②線索是 tight budget 與 instead of a fancy, expensive 3D TV。③需要形容詞修飾名詞。④預算緊所以選價格 affordable 的。",
+"status": "ok",
+"hint": "tight budget 加上 instead of ... expensive，想想預算有限會買怎樣的電視。",
+"why": [
+"(A) technical 技術的：「技術的」電視與預算、價格無關",
+"(B) significant 重大的：「重大的」電視不能說明價格便宜",
+"(C) affordable 負擔得起的：符合，affordable 表示價格能負擔，與 expensive 對比",
+"(D) expressive 表達的：「表達的」電視語意怪，不能對比昂貴"
+],
+"col": "affordable price 負擔得起的價格；This phone is affordable. 這支手機價格不貴。",
+"fam": "afford v. → affordable adj. → affordability n.",
+"strat": "tight budget 配 instead of expensive，反推要選價格低的字"
+},
+{
+"y": 104,
+"n": 4,
+"zh": "大衛的新書因為精美的插圖和有趣的故事而登上暢銷書榜。",
+"oz": [
+"操作",
+"插圖",
+"訂婚",
+"成就"
+],
+"ex": "①空格需要書中美麗的東西，與有趣的故事並列。②線索是 beautiful ... and amusing stories，且使書成為暢銷書。③需要複數名詞。④書中美麗的圖片就是 illustrations。",
+"status": "ok",
+"hint": "beautiful ______ and amusing stories，兩者並列，都是書的內容特色。",
+"why": [
+"(A) operations 操作：「操作」不是書的內容，也不會被稱美麗",
+"(B) illustrations 插圖：符合，illustrations 指書中的插圖",
+"(C) engagements 訂婚：「訂婚」與書的內容無關",
+"(D) accomplishments 成就：「成就」不是書裡可看見的美麗事物"
+],
+"col": "book illustrations 書籍插圖；a children's book with colorful illustrations 有彩色插圖的童書。",
+"fam": "illustrate v. → illustration n. → illustrator n. 插畫家",
+"strat": "與 stories 並列的名詞，要同屬「書的內容特色」，且能被稱 beautiful"
+},
+{
+"y": 104,
+"n": 5,
+"zh": "機場因暴風雪關閉，我們飛往巴黎的班機必須延到隔天出發。",
+"oz": [
+"移動",
+"登記",
+"傾向",
+"出發"
+],
+"ex": "①空格要填去巴黎這件事被延到隔天的名詞。②線索是 airport、for Paris、delayed。③需要名詞，且後接 for Paris。④航班要出發去巴黎，所以是 departure。",
+"status": "ok",
+"hint": "airport closed 與 delayed 兩個線索，想想航班延後的是什麼？",
+"why": [
+"(A) movement 移動：「移動」太籠統，不會說 movement for Paris",
+"(B) registration 登記：「登記」與前往巴黎的航班延後無關",
+"(C) tendency 傾向：「傾向」是抽象趨勢，不能被延到隔天",
+"(D) departure 出發：符合，departure for Paris 指前往巴黎的出發"
+],
+"col": "departure time 出發時間；The departure was delayed. 出發延後了。",
+"fam": "depart v. → departure n.（反義 arrival）",
+"strat": "先抓 airport closed 與 delayed，再配 for Paris 判斷是旅程的起點"
+},
+{
+"y": 104,
+"n": 6,
+"zh": "學生一感覺到地震，就迅速跑出教室到室外空地。",
+"oz": [
+"迅速地",
+"幾乎",
+"鬆散地",
+"正式地"
+],
+"ex": "①空格是副詞，修飾 ran，描述一感到地震時的跑法。②線索是 The moment the students felt the earthquake。③需要副詞修飾動詞。④面臨地震自然是 swiftly 逃離。",
+"status": "ok",
+"hint": "The moment 引導的時間子句，感覺到地震後會怎麼跑？",
+"why": [
+"(A) swiftly 迅速地：符合，swiftly 表示迅速地，合乎逃生情境",
+"(B) nearly 幾乎：「幾乎」不能修飾 ran 描述跑的方式",
+"(C) loosely 鬆散地：「鬆散地」與緊急逃出教室情境矛盾",
+"(D) formally 正式地：「正式地」不能形容地震時奔跑的方式"
+],
+"col": "move swiftly 迅速移動；He swiftly left the room. 他迅速離開房間。",
+"fam": "swift adj. → swiftly adv.",
+"strat": "The moment 搭配立即的動作，副詞要符合緊急逃生"
+},
+{
+"y": 104,
+"n": 7,
+"zh": "這部電梯的最大載重為400公斤，為了安全，不應超載。",
+"oz": [
+"精緻的",
+"自動的",
+"必要的",
+"最大的"
+],
+"ex": "①空格形容 capacity，電梯載重為 400 公斤，不應超載。②線索是 shouldn't be overloaded，表示 400 是上限。③需要形容詞。④上限就是 maximum。",
+"status": "ok",
+"hint": "電梯的 capacity 加上 shouldn't be overloaded，想想承載量的上限。",
+"why": [
+"(A) delicate 精緻的：「精緻的」是易損物品的形容，不能形容載重",
+"(B) automatic 自動的：「自動的」電梯載重不是這種性質",
+"(C) essential 必要的：「必要的」載重與 400 是上限的語意不符",
+"(D) maximum 最大的：符合，maximum capacity 即最大載重量"
+],
+"col": "maximum speed 最高速度；The maximum is 400 kg. 最多 400 公斤。",
+"fam": "maximum adj./n. → maximize v.（反義 minimum）",
+"strat": "shouldn't be overloaded 暗示 400 是上限，聯想 capacity 的上限"
+},
+{
+"y": 104,
+"n": 8,
+"zh": "男女公開做出親密行為，例如擁抱和親吻，在某些保守的社會中是不被允許的。",
+"oz": [
+"親密的",
+"羞愧的",
+"認真的",
+"緊急的"
+],
+"ex": "①空格形容 behavior，包含擁抱與親吻。②線索是 hugging and kissing 與 between men and women。③需要形容詞。④擁抱親吻屬於 intimate（親密）行為。",
+"status": "ok",
+"hint": "hugging and kissing 是例子，看它們屬於男女之間怎樣的行為。",
+"why": [
+"(A) intimate 親密的：符合，intimate behavior 指親密的舉動",
+"(B) ashamed 羞愧的：「羞愧的」不能修飾 behavior 表示擁抱親吻",
+"(C) earnest 認真的：「認真的」不是擁抱親吻的特徵",
+"(D) urgent 緊急的：「緊急的」行為與公開親吻無關"
+],
+"col": "intimate relationship 親密關係；They are intimate friends. 他們是摯友。",
+"fam": "intimate adj. → intimacy n.",
+"strat": "由 hugging and kissing 例子反推 behavior 的類型"
+},
+{
+"y": 104,
+"n": 9,
+"zh": "服藥時，我們應仔細閱讀標籤上的說明，因為上面有如何與何時服用等重要資訊。",
+"oz": [
+"獎牌",
+"引言",
+"標籤",
+"食譜"
+],
+"ex": "①空格是吃藥時要看的、上面有用法說明的東西。②線索是 When taking medicine、instructions on the ...。③需要複數名詞。④藥盒或藥瓶上的說明紙是 labels。",
+"status": "ok",
+"hint": "instructions on the ____ 與 how and when to take it，想想藥品上的說明印在哪裡。",
+"why": [
+"(A) medals 獎牌：「獎牌」上不會有服藥說明",
+"(B) quotes 引言：「引言」是引用文字，不是藥品上的說明",
+"(C) labels 標籤：符合，labels 指標籤，藥品標籤上有服用說明",
+"(D) recipes 食譜：「食譜」是烹飪用，不是藥品說明載體"
+],
+"col": "read the label 看標籤；warning label 警告標示。 Check the label first. 先看標籤。",
+"fam": "label n./v. → labeling n.",
+"strat": "instructions on the ... 要想到說明印在藥品包裝上的東西"
+},
+{
+"y": 104,
+"n": 10,
+"zh": "憤怒的乘客因班機無故被取消，與航空公司人員激烈爭吵。",
+"oz": [
+"明顯地",
+"憤怒地",
+"順從地",
+"懷疑地"
+],
+"ex": "①空格副詞描述乘客與航空人員爭論的方式。②線索是 angry 與 flight was cancelled without any reason。③需要副詞修飾 argued。④生氣的人會 furiously 爭吵。",
+"status": "ok",
+"hint": "angry passengers 與 cancelled without any reason 說明他們的情緒，副詞要跟這種心情一致。",
+"why": [
+"(A) evidently 明顯地：「明顯地」只表示看得出，沒有生氣的情緒",
+"(B) furiously 憤怒地：符合，furiously 表示憤怒激烈地",
+"(C) obediently 順從地：「順從地」與生氣爭吵矛盾",
+"(D) suspiciously 懷疑地：「懷疑地」與班機被無故取消的憤怒不吻合"
+],
+"col": "argue furiously 憤怒地爭吵；He shook his head furiously. 他氣得猛搖頭。",
+"fam": "fury n. → furious adj. → furiously adv.",
+"strat": "angry 提示情緒，選與生氣同方向的副詞"
+},
+{
+"y": 104,
+"n": 11,
+"zh": "為了推廣新產品，公司在正式上市前提供了一些免費試用品。",
+"oz": [
+"貢獻",
+"使印象深刻",
+"推廣",
+"估計"
+],
+"ex": "①空格是動詞，表示公司為了讓更多人知道產品而做的事。②線索是 free samples 與 before they officially launched it。③需要原形動詞，後接 the new product。④送試用品的目的是 promote。",
+"status": "ok",
+"hint": "在正式上市前先送試用品，目的是什麼？",
+"why": [
+"(A) contribute 貢獻：「貢獻」不能直接接新產品表達宣傳",
+"(B) impress 使印象深刻：「使印象深刻」重點在人，不是送試用品的目的",
+"(C) promote 推廣：符合，promote a product 即推廣產品",
+"(D) estimate 估計：「估計」產品與送試用品的行為無關"
+],
+"col": "promote a product 推廣商品；promote sales 促銷。 The ad promotes the new phone. 廣告在推廣新手機。",
+"fam": "promote v. → promotion n.；promotional adj.",
+"strat": "free samples 是為了讓更多人認識產品，反推 promote"
+},
+{
+"y": 104,
+"n": 12,
+"zh": "我對第一次出國旅行感到擔心，但爸爸向我保證他會協助規劃，讓一切不出差錯。",
+"oz": [
+"拯救",
+"向…保證",
+"激勵",
+"傳達"
+],
+"ex": "①空格要填爸爸對我的擔心做出的回應，說他會協助規劃。②線索是 me that he would help plan。③需要動詞，後接人與 that 子句。④表示向我保證，用 assured。",
+"status": "ok",
+"hint": "空格後接 me that...，哪個動詞可用「人＋that 子句」？",
+"why": [
+"(A) rescued 拯救：「拯救」我不接 that 子句內容",
+"(B) assured 向…保證：符合，assure sb that 表示向某人保證",
+"(C) inspired 激勵：「激勵」不是承諾不出錯，語意較偏精神鼓舞",
+"(D) conveyed 傳達：「傳達」不用人＋that，且不夠有保證的意味"
+],
+"col": "assure sb that... 向某人保證…；I assure you it's safe. 我向你保證這很安全。",
+"fam": "assure v. → assurance n.；assured adj. 有把握的",
+"strat": "空格後面接「人＋that 子句」，且是向人保證"
+},
+{
+"y": 104,
+"n": 13,
+"zh": "最近的食用油醜聞引發要求對食品銷售加強更嚴格監管的呼聲。",
+"oz": [
+"容忍",
+"保證",
+"管制",
+"分配"
+],
+"ex": "①空格要填食品銷售方面可以被加強的東西。②線索是 cooking oil scandals 與 calls for tougher。③需要名詞，與 of sales of food products 搭配。④醜聞後要求更嚴的 regulation。",
+"status": "ok",
+"hint": "scandals 與 tougher，想想食品銷售會有什麼被加強。",
+"why": [
+"(A) tolerance 容忍：「容忍」是放寬，與 tougher 方向相反",
+"(B) guarantee 保證：「保證」不會被說成 tougher 的對象",
+"(C) regulation 管制：符合，tougher regulation 指更嚴格的管制",
+"(D) distribution 分配：「分配」是配送方式，不是醜聞後要加強的"
+],
+"col": "tougher regulations 更嚴格的規定；government regulation 政府管制。",
+"fam": "regulate v. → regulation n.；regulatory adj.",
+"strat": "scandals 後的 tougher，找能被加強的管理措施"
+},
+{
+"y": 104,
+"n": 14,
+"zh": "約翰下班後應該多和朋友家人互動，而不是待在房間玩電腦遊戲。",
+"oz": [
+"探索",
+"互動",
+"協商",
+"參與"
+],
+"ex": "①空格是 John 該與朋友家人多做的事，而不是躲在房間打電動。②線索是 with his friends and family 與 instead of staying in his room。③需要不及物動詞，可接 with。④與人往來就是 interact。",
+"status": "ok",
+"hint": "空格後面省略的介系詞，配合 with his friends and family。",
+"why": [
+"(A) explore 探索：「探索」多接地點或事物，不是與親友相處",
+"(B) interact 互動：符合，interact with 指與人互動",
+"(C) negotiate 協商：「協商」是談判，不是下班後與家人相處",
+"(D) participate 參與：「參與」要接 in，後面不是 with 朋友"
+],
+"col": "interact with sb 與某人互動；Kids interact through play. 孩子藉由遊戲互動。",
+"fam": "interact v. → interaction n.；interactive adj.",
+"strat": "空格後有 with 與 instead of staying in his room，要選不及物動詞表人際往來"
+},
+{
+"y": 104,
+"n": 15,
+"zh": "為了防止伊波拉病毒從西非擴散到世界其他地方，許多機場已開始對來自疫區的旅客進行伊波拉篩檢。",
+"oz": [
+"篩檢",
+"名單",
+"剪報",
+"阻擋"
+],
+"ex": "①空格是機場針對疫區旅客進行的防疫措施。②線索是 prevent the spread、Ebola、passengers from the infected areas。③需要複數名詞，前面有 Ebola 當修飾。④檢查是否染病稱為 screenings（篩檢）。",
+"status": "ok",
+"hint": "Ebola 病毒要防止擴散，機場對來自疫區的旅客做什麼檢查？",
+"why": [
+"(A) screenings 篩檢：符合，screening 指篩檢，Ebola screenings 為防疫檢查",
+"(B) listings 名單：「名單」不能防止病毒擴散",
+"(C) clippings 剪報：「剪報」是報紙剪貼，與機場防疫無關",
+"(D) blockings 阻擋：「阻擋」不是常見搭配，也不是檢查旅客"
+],
+"col": "health screening 健康篩檢；screen for cancer 篩檢癌症。 They screen all visitors. 他們篩檢所有訪客。",
+"fam": "screen v./n. → screening n.",
+"strat": "prevent spread 與 passengers 是防疫檢查的線索"
+},
+{
+"y": 105,
+"n": 1,
+"zh": "當地搖滾樂團的海報被張貼在商店櫥窗，以促銷他們的演唱會門票。",
+"oz": [
+"旅程",
+"交通",
+"演唱會",
+"唱片"
+],
+"ex": "①空格修飾 tickets，指搖滾樂團賣的門票。②線索是 local rock band 與 tickets。③需要名詞作修飾語。④樂團賣的票是 concert tickets。",
+"status": "ok",
+"hint": "posters 要促銷什麼票？搭配 rock band 想想。",
+"why": [
+"(A) journey 旅程：「旅程」票是旅行票，不是樂團的",
+"(B) traffic 交通：「交通」票語意怪，與樂團無關",
+"(C) concert 演唱會：符合，concert tickets 指演唱會門票",
+"(D) record 唱片：「唱片」不是演出票的名稱"
+],
+"col": "concert hall 音樂廳；go to a concert 去聽演唱會。 We bought concert tickets. 我們買了演唱會票。",
+"fam": "",
+"strat": "rock band 與 tickets，用日常搭配來判斷"
+},
+{
+"y": 105,
+"n": 2,
+"zh": "瑪麗亞不想把大衛面試失敗的壞消息告訴他，她自己對此也相當難過。",
+"oz": [
+"可怕的",
+"昏昏欲睡的",
+"悲慘的",
+"難過的"
+],
+"ex": "①空格要填瑪麗亞對大衛面試失敗的感受。②線索是 didn't want to deliver the bad news 與 quite ______ about it。③需要形容詞，且與 about 搭配。④不想傳壞消息，表示替他 upset。",
+"status": "ok",
+"hint": "didn't want to deliver the bad news，她對此是什麼心情？",
+"why": [
+"(A) awful 可怕的：「可怕的」是形容事物，不是她的感受",
+"(B) drowsy 昏昏欲睡的：「昏昏欲睡」與壞消息的情緒無關",
+"(C) tragic 悲慘的：「悲慘的」形容事件，不形容自己對事件的感受",
+"(D) upset 難過的：符合，be upset about 指對某事難過"
+],
+"col": "be upset about sth 對某事難過；She was upset about the news. 她對消息感到難過。",
+"fam": "upset adj./v.（三態同形）",
+"strat": "didn't want to deliver 反映同情的心情，配 about it 找形容詞"
+},
+{
+"y": 105,
+"n": 3,
+"zh": "這位新來的人說話帶有濃厚的愛爾蘭口音，他一定來自愛爾蘭。",
+"oz": [
+"口音",
+"身分",
+"感激",
+"簽名"
+],
+"ex": "①空格要填說話時所帶的愛爾蘭特色。②線索是 speaks with a strong Irish 與 he must be from Ireland。③需要名詞。④由說話特徵推斷來自愛爾蘭，指 accent。",
+"status": "ok",
+"hint": "speaks with a strong Irish ___，想想說話時會帶有什麼特徵。",
+"why": [
+"(A) accent 口音：符合，a strong Irish accent 指濃厚的愛爾蘭口音",
+"(B) identity 身分：「身分」不能和 speaks with 搭配",
+"(C) gratitude 感激：「感激」不是說話特徵",
+"(D) signature 簽名：「簽名」與說話方式無關"
+],
+"col": "speak with an accent 帶有口音；He has a Southern accent. 他有南方口音。",
+"fam": "accent n./v.",
+"strat": "speaks with a strong Irish 之後接說話特徵"
+},
+{
+"y": 105,
+"n": 4,
+"zh": "雖然自車禍後瑪姬身體上被限制在輪椅上，她並不讓自己只侷限於室內活動。",
+"oz": [
+"停止",
+"承諾",
+"限制",
+"傳達"
+],
+"ex": "①空格要填她被輪椅所限制的狀態。②線索是 physically ... to her wheelchair 與 although she does not limit herself。③需要過去分詞，與 to 搭配。④表示被困在輪椅上，用 confined。",
+"status": "ok",
+"hint": "was ______ to her wheelchair，空格後接 to，且 does not limit herself 是對比。",
+"why": [
+"(A) ceased 停止：「停止」不能與 to her wheelchair 搭配",
+"(B) committed 承諾：「承諾」be committed to 是投入，不是被困",
+"(C) confined 限制：符合，be confined to 指被限制在某處",
+"(D) conveyed 傳達：「傳達」不用於人被輪椅限制"
+],
+"col": "be confined to bed 臥病在床；He was confined to his room. 他被關在房裡。",
+"fam": "confine v. → confinement n.；confined adj.",
+"strat": "to 與 wheelchair 提示被限制，要用 be ...ed to 的搭配"
+},
+{
+"y": 105,
+"n": 5,
+"zh": "所有乘車的乘客都必須繫安全帶，以降低意外時受傷的風險。",
+"oz": [
+"傷害",
+"冒犯",
+"犧牲",
+"受害者"
+],
+"ex": "①空格是發生意外時，安全帶能降低的風險。②線索是 fasten seatbelts、reduce the risk of、accident。③需要名詞，接在 of 後面。④意外中的風險是 injury。",
+"status": "ok",
+"hint": "seatbelts 與 in case of an accident，想想安全帶減少什麼風險。",
+"why": [
+"(A) injury 傷害：符合，risk of injury 指受傷的風險",
+"(B) offense 冒犯：「冒犯」不是安全帶要減少的風險",
+"(C) sacrifice 犧牲：「犧牲」不是繫安全帶降低的風險",
+"(D) victim 受害者：「受害者」是人，不是 risk of 後面的內容"
+],
+"col": "risk of injury 受傷風險；He had a back injury. 他背部受傷。",
+"fam": "injure v. → injury n.；injured adj.",
+"strat": "seatbelts + accident，推出要降低的風險"
+},
+{
+"y": 105,
+"n": 6,
+"zh": "這所學校的校長是個品格特別慷慨的人，他把一部分薪水撥作貧困家庭孩子的獎學金。",
+"oz": [
+"安全",
+"成熟",
+"設施",
+"慷慨"
+],
+"ex": "①空格是校長特別突出的品格。②線索是 sets aside salary for a scholarship fund for needy children。③需要名詞，在 a man of exceptional 之後。④捐出薪水代表 generosity。",
+"status": "ok",
+"hint": "He sets aside a part of his salary，看他把錢用在什麼人身上。",
+"why": [
+"(A) security 安全：「安全」不是人的品格",
+"(B) maturity 成熟：「成熟」不能解釋捐出薪水給獎學金",
+"(C) facility 設施：「設施」是設備，不是人的特質",
+"(D) generosity 慷慨：符合，generosity 指慷慨，與捐出薪水給獎學金相符"
+],
+"col": "a man of generosity 慷慨的人；Thank you for your generosity. 謝謝你的慷慨。",
+"fam": "generous adj. → generosity n.；generously adv.",
+"strat": "sets aside salary 的行為指向人的優點"
+},
+{
+"y": 105,
+"n": 7,
+"zh": "自然科老師總是先示範實驗室設備的使用方法，才讓學生自行使用。",
+"oz": [
+"容忍",
+"聯想",
+"示範",
+"誇大"
+],
+"ex": "①空格是老師在學生自己用器材前先做的事。②線索是 before she lets her students use it on their own。③需要第三人稱單數動詞，主詞是 teacher。④先讓學生看怎麼用，就是 demonstrates。",
+"status": "ok",
+"hint": "看 before she lets her students use it on their own，老師先做什麼？",
+"why": [
+"(A) tolerates 容忍：「容忍」老師不是在允許學生犯錯",
+"(B) associates 聯想：「聯想」不是教學動作",
+"(C) demonstrates 示範：符合，demonstrates 指示範，先示範再放手",
+"(D) exaggerates 誇大：「誇大」說得誇張與教安全使用不合"
+],
+"col": "demonstrate how to V 示範如何…；She demonstrated the method. 她示範了方法。",
+"fam": "demonstrate v. → demonstration n.；demonstrator n.",
+"strat": "before she lets students use it 暗示先教，再放手"
+},
+{
+"y": 105,
+"n": 8,
+"zh": "該地區大部分被樹林覆蓋，鳥種繁多，是賞鳥人的天堂。",
+"oz": [
+"耐用的",
+"私人的",
+"寫實的",
+"眾多的"
+],
+"ex": "①空格形容 bird species，數量使該地成為賞鳥天堂。②線索是 so ... that it is a paradise for birdwatchers。③需要形容詞，與複數 species 搭配。④鳥種 numerous 才是天堂。",
+"status": "ok",
+"hint": "paradise for birdwatchers 是結果，所以鳥的種類要怎樣？",
+"why": [
+"(A) durable 耐用的：「耐用的」不能形容鳥種",
+"(B) private 私人的：「私人的」與賞鳥天堂相反",
+"(C) realistic 寫實的：「寫實的」不能形容 bird species",
+"(D) numerous 眾多的：符合，numerous 指眾多的，修飾複數名詞"
+],
+"col": "numerous species 眾多物種；Numerous people attended. 很多人出席。",
+"fam": "number n. → numerous adj.",
+"strat": "so ... that 後說天堂，推出鳥種的狀態"
+},
+{
+"y": 105,
+"n": 9,
+"zh": "大多數情況下，委員們能很快達成共識。然而偶爾他們意見分歧很大，難以做出決定。",
+"oz": [
+"偶爾",
+"自動地",
+"極大地",
+"無辜地"
+],
+"ex": "①空格是句首副詞，表示少數情況下委員會意見分歧。②線索是 In most cases 與 however 的轉折。③需要副詞。④對「大多數」的對比就是 Occasionally。",
+"status": "ok",
+"hint": "In most cases ... however，空格副詞要與前句的「多數情況」形成對比。",
+"why": [
+"(A) Occasionally 偶爾：符合，Occasionally 指偶爾，對應 In most cases",
+"(B) Automatically 自動地：「自動地」不能表示少數情況",
+"(C) Enormously 極大地：「極大地」不是頻率副詞，無法對比 In most cases",
+"(D) Innocently 無辜地：「無辜地」與轉折意義無關"
+],
+"col": "occasionally visit 偶爾拜訪；We occasionally eat out. 我們偶爾外食。",
+"fam": "occasion n. → occasional adj. → occasionally adv.",
+"strat": "In most cases 配 however，選表示少數情況的副詞"
+},
+{
+"y": 105,
+"n": 10,
+"zh": "許多人在退休前會盡量存很多錢，因為有足夠的錢會讓他們對未來有安全感。",
+"oz": [
+"隔離",
+"升遷",
+"退休",
+"宣布"
+],
+"ex": "①空格是人生中需要存很多錢的時間點。②線索是 save money、security for their future。③需要名詞，在 before 之後。④為了未來有保障，通常是 retirement 前。",
+"status": "ok",
+"hint": "save a lot of money before ____，之後的 future security 提供線索。",
+"why": [
+"(A) isolation 隔離：「隔離」不是存錢的人生階段",
+"(B) promotion 升遷：「升遷」不一定要存很多錢，也與未來保障無關",
+"(C) retirement 退休：符合，before retirement 指退休之前",
+"(D) announcement 宣布：「宣布」與存錢無關"
+],
+"col": "retire from 從…退休；retirement age 退休年齡。 He saves for retirement. 他為退休存錢。",
+"fam": "retire v. → retirement n.；retired adj.",
+"strat": "security for their future 暗示存錢是為了人生哪個階段"
+},
+{
+"y": 105,
+"n": 11,
+"zh": "冬天我們的皮膚容易變得乾燥而發癢，這個問題通常以擦乳液或乳霜來處理。",
+"oz": [
+"警覺的",
+"發癢的",
+"穩定的",
+"有彈性的"
+],
+"ex": "①空格與 dry 並列，是冬天皮膚的狀況。②線索是 dry and ______，且用 lotions or creams 處理。③需要形容詞。④乾燥的皮膚常 itchy。",
+"status": "ok",
+"hint": "dry and ____ ，用乳液處理的皮膚問題，感覺是什麼？",
+"why": [
+"(A) alert 警覺的：「警覺的」是人的狀態，不是皮膚",
+"(B) itchy 發癢的：符合，itchy 指發癢的，乾燥皮膚常見症狀",
+"(C) steady 穩定的：「穩定的」不是需要乳液處理的問題",
+"(D) flexible 有彈性的：「有彈性的」是好狀態，不是需處理的問題"
+],
+"col": "itchy skin 發癢的皮膚；My eyes feel itchy. 我眼睛發癢。",
+"fam": "itch v./n. → itchy adj.",
+"strat": "dry and 並列，用乳液處理，選皮膚症狀"
+},
+{
+"y": 105,
+"n": 12,
+"zh": "班森在贏得茱莉的芳心並獲得她父母同意後不久就娶了她。",
+"oz": [
+"贏得",
+"估計",
+"保證",
+"強化"
+],
+"ex": "①空格是動詞，表示他先獲得茱莉的愛。②線索是 her heart 與 gained her parents' approval。③需要過去分詞，接 her heart。④征服芳心用 conquered。",
+"status": "ok",
+"hint": "gained her parents' approval 之前，Benson 先對 her heart 做了什麼？",
+"why": [
+"(A) conquered 贏得：符合，conquer one's heart 指贏得某人芳心",
+"(B) estimated 估計：「估計」不能接 heart",
+"(C) guaranteed 保證：「保證」不是贏得對方的心",
+"(D) intensified 強化：「強化」heart 不是常見搭配，語意也不合"
+],
+"col": "conquer a fear 戰勝恐懼；He conquered her heart. 他贏得了她的心。",
+"fam": "conquer v. → conqueror n.；conquest n.",
+"strat": "her heart 與 gained her parents' approval，是結婚前贏得人"
+},
+{
+"y": 105,
+"n": 13,
+"zh": "最近的洪水完全毀了我父母的農場，農舍和果樹都沒了，什麼也沒留下。",
+"oz": [
+"毀壞",
+"使破裂",
+"加速",
+"忽視"
+],
+"ex": "①空格要填洪水對農場造成的完全性破壞。②線索是 completely 與 nothing was left。③需要過去式動詞，接 my parents' farm。④全部都沒了，表示被 ruined。",
+"status": "ok",
+"hint": "The farmhouse and fruit trees were all gone，農場遭遇了什麼？",
+"why": [
+"(A) ruined 毀壞：符合，ruined 指毀壞，與 nothing was left 相合",
+"(B) cracked 使破裂：「使破裂」只是破損，不能解釋全部消失",
+"(C) hastened 加速：「加速」不能說洪水對農場的結果",
+"(D) neglected 忽視：「忽視」洪水不會忽視農場"
+],
+"col": "be ruined 被毀；The storm ruined the crops. 風暴毀了作物。",
+"fam": "ruin v./n. → ruined adj.",
+"strat": "The farmhouse and fruit trees were all gone 說明全部消失"
+},
+{
+"y": 105,
+"n": 14,
+"zh": "這項調查的結果不可靠，因為受訪者不是所研究全體人口的典型或具代表性的樣本。",
+"oz": [
+"原始的",
+"精神的",
+"有代表性的",
+"提供資訊的"
+],
+"ex": "①空格與 typical 並列，形容樣本的性質。②線索是 typical or ______ sample of the entire population。③需要形容詞。④能代表整體的樣本是 representative。",
+"status": "ok",
+"hint": "not reliable 的原因，看 typical or ____ sample。",
+"why": [
+"(A) primitive 原始的：「原始的」不能形容樣本",
+"(B) spiritual 精神的：「精神的」與調查樣本無關",
+"(C) representative 有代表性的：符合，representative sample 指具代表性的樣本",
+"(D) informative 提供資訊的：「提供資訊的」是形容資料，不是樣本代表性"
+],
+"col": "a representative sample 具代表性的樣本；representative of 代表。",
+"fam": "represent v. → representative adj./n. → representation n.",
+"strat": "與 typical 並列，找樣本屬性"
+},
+{
+"y": 105,
+"n": 15,
+"zh": "配合全球環保運動，汽車製造商一直努力讓新車款更環保，以減少污染。",
+"oz": [
+"自由地",
+"個別地",
+"財務上",
+"環境上"
+],
+"ex": "①空格要與 friendly 組成「對環境友善的」。②線索是 friendly 與 reduce pollution。③需要副詞修飾形容詞 friendly。④固定說法是 environmentally friendly。",
+"status": "ok",
+"hint": "空格後接 friendly，想想「環保的」英文怎麼說。",
+"why": [
+"(A) liberally 自由地：「慷慨地」不與 friendly 搭配",
+"(B) individually 個別地：「個別地」與環保無關",
+"(C) financially 財務上：「財務上」不能與 friendly 組成環保",
+"(D) environmentally 環境上：符合，environmentally friendly 指對環境友善"
+],
+"col": "environmentally friendly 環保的；user-friendly 方便使用的。",
+"fam": "environment n. → environmental adj. → environmentally adv.",
+"strat": "friendly 前面要副詞，且固定說環保"
+},
+{
+"y": 106,
+"n": 1,
+"zh": "約翰的時鐘運作不正常，鬧鐘在沒設定時也會響。",
+"oz": [
+"溫柔地",
+"正常地",
+"堅固地",
+"有利地"
+],
+"ex": "①空格是副詞，描述時鐘運作的狀態。②線索是 not functioning 與 alarm rings even when it's not set。③需要副詞修飾 functioning。④沒設定也響，表示沒有 properly 運作。",
+"status": "ok",
+"hint": "The alarm rings even when it's not set，那時鐘運作得怎麼樣？",
+"why": [
+"(A) tenderly 溫柔地：「溫柔地」鬧鐘不可能這樣運作",
+"(B) properly 正常地：符合，not functioning properly 指運作不正常",
+"(C) solidly 堅固地：「堅固地」是結構，不是功能運作",
+"(D) favorably 有利地：「有利地」與故障語意不合"
+],
+"col": "work properly 正常運作；The machine isn't working properly. 機器沒有正常運作。",
+"fam": "proper adj. → properly adv.",
+"strat": "rings even when it's not set 是時鐘功能不正常"
+},
+{
+"y": 106,
+"n": 2,
+"zh": "麥可決定從事物理學的職業，並立志成為教授。",
+"oz": [
+"追求",
+"發誓",
+"保留",
+"起草"
+],
+"ex": "①空格是動詞，表示 Michael 要朝物理職涯努力。②線索是 a career in physics 與 set his mind on becoming a professor。③需要原形動詞。④努力追求職涯，用 pursue。",
+"status": "ok",
+"hint": "set his mind on becoming a professor 表示他對職涯的決心。",
+"why": [
+"(A) pursue 追求：符合，pursue a career 指從事、追求某種職業",
+"(B) swear 發誓：「發誓」不接 a career",
+"(C) reserve 保留：「保留」職涯語意不合",
+"(D) draft 起草：「起草」不能接 career"
+],
+"col": "pursue a goal 追求目標；She pursued her dream. 她追求夢想。",
+"fam": "pursue v. → pursuit n. 追求",
+"strat": "set his mind on 暗示追求的事"
+},
+{
+"y": 106,
+"n": 3,
+"zh": "彼得打算到非洲偏遠地區健行，在那裡他可能好幾天都遇不到另一個人。",
+"oz": [
+"本地的",
+"棘手的",
+"偏遠的",
+"空的"
+],
+"ex": "①空格形容 part of Africa，位置很少人煙。②線索是 might not meet another human being for days。③需要形容詞。④幾天遇不到人，是 remote 的地區。",
+"status": "ok",
+"hint": "might not meet another human being for days，指的是怎樣的地方？",
+"why": [
+"(A) native 本地的：「本地的」不能解釋遇不到人",
+"(B) tricky 棘手的：「棘手的」形容問題，不形容地點偏遠",
+"(C) remote 偏遠的：符合，remote 指偏遠的",
+"(D) vacant 空的：「空的」多形容房間或座位，不用於非洲的地區"
+],
+"col": "a remote village 偏遠村莊；remote control 遙控器。 It is a remote island. 那是座偏遠的島。",
+"fam": "remote adj. → remotely adv.",
+"strat": "might not meet another human being for days 暗示偏遠"
+},
+{
+"y": 106,
+"n": 4,
+"zh": "這個社區的人傾向認同自己所屬的團體，常把團體利益置於個人利益之前。",
+"oz": [
+"任命",
+"消除",
+"佔據",
+"認同"
+],
+"ex": "①空格要填與所屬團體的關係，重視團體利益。②線索是 with the group they belong to 與 put group interests before personal ones。③需要不及物動詞，接 with。④認同團體是 identify with。",
+"status": "ok",
+"hint": "put group interests before personal ones，說明人對群體有什麼感覺？",
+"why": [
+"(A) appoint 任命：「任命」不接 with",
+"(B) eliminate 消除：「消除」與重視團體利益矛盾",
+"(C) occupy 佔據：「佔據」不接 with 表示認同",
+"(D) identify 認同：符合，identify with 指認同"
+],
+"col": "identify with sb 認同某人；identify a problem 找出問題。 I identify with the hero. 我認同主角。",
+"fam": "identify v. → identity n.；identification n.",
+"strat": "with 與 group 要找動詞，意思是認同團體"
+},
+{
+"y": 106,
+"n": 5,
+"zh": "我把那個男人誤認成知名演員並向他要簽名，真是尷尬。",
+"oz": [
+"令人放鬆的",
+"令人尷尬的",
+"吸引人的",
+"辯護的"
+],
+"ex": "①空格形容 it 這件事，描述主詞做錯事的感受。②線索是 mistook the man for a well-known actor 與 asked for his autograph。③需要形容詞，修飾 it。④認錯人要簽名會讓人覺得 embarrassing。",
+"status": "ok",
+"hint": "mistook the man for a well-known actor，認錯人以後是什麼感覺？",
+"why": [
+"(A) relaxing 令人放鬆的：「令人放鬆的」與認錯人的反應矛盾",
+"(B) embarrassing 令人尷尬的：符合，embarrassing 指令人尷尬的",
+"(C) appealing 吸引人的：「吸引人的」不能形容出糗",
+"(D) defending 辯護的：「辯護的」與要簽名無關"
+],
+"col": "an embarrassing moment 尷尬時刻；feel embarrassed 覺得尷尬。 It was embarrassing. 真是尷尬。",
+"fam": "embarrass v. → embarrassing adj./embarrassed adj. → embarrassment n.",
+"strat": "mistook the man for a famous actor 是出糗，找尷尬感受"
+},
+{
+"y": 106,
+"n": 6,
+"zh": "把大部分薪水花在房租和食物後，艾蜜莉亞幾乎沒有錢留給娛樂和其他開銷。",
+"oz": [
+"幾乎不",
+"相當",
+"僅僅",
+"樂意地"
+],
+"ex": "①空格是副詞，表示她剩下可用的錢極少。②線索是 spending most of her salary on rent and food，以及 had any money left。③需要副詞，與 had any 搭配。④barely 有幾乎沒有的否定意味。",
+"status": "ok",
+"hint": "spending most of her salary 之後，剩下的錢怎麼樣？",
+"why": [
+"(A) barely 幾乎不：符合，barely had any money 指幾乎沒有錢",
+"(B) fairly 相當：「相當」語意相反，不是錢不夠",
+"(C) merely 僅僅：「僅僅」不能與 had any 搭配表示幾乎沒有",
+"(D) readily 樂意地：「樂意地」與花光薪水不合"
+],
+"col": "barely enough 勉強夠；can barely see 幾乎看不見。 I barely know him. 我幾乎不認識他。",
+"fam": "bare adj. → barely adv.",
+"strat": "spending most of ... 說明剩下極少，要選帶否定意味的副詞"
+},
+{
+"y": 106,
+"n": 7,
+"zh": "在北大西洋西部的百慕達三角，據報有些飛機和船隻神祕消失，不留一絲痕跡。",
+"oz": [
+"嚮導",
+"痕跡",
+"密碼",
+"指紋"
+],
+"ex": "①空格是名詞，表示船機消失得毫無痕跡。②線索是 mysteriously disappeared without a。③需要單數名詞，前面有 a。④固定說法是 without a trace。",
+"status": "ok",
+"hint": "without a ____ 是常用表達，百慕達三角的故事要說什麼消失？",
+"why": [
+"(A) guide 嚮導：「嚮導」不是 without a 的固定說法",
+"(B) trace 痕跡：符合，without a trace 指不留一絲痕跡",
+"(C) code 密碼：「密碼」與消失無關",
+"(D) print 指紋：「指紋」是特定線索，沒有 without a print 的說法"
+],
+"col": "disappear without a trace 消失無蹤；no trace of 沒有…的跡象。 There was no trace of him. 找不到他的蹤跡。",
+"fam": "trace n./v.",
+"strat": "without a 是固定片語，抓住 mysteriously disappeared"
+},
+{
+"y": 106,
+"n": 8,
+"zh": "東尼一邊喊著問候語、一邊揮舞大告示牌，催促路過的購物者到他的店裡買剛出爐的麵包。",
+"oz": [
+"存取",
+"編輯",
+"強加",
+"催促"
+],
+"ex": "①空格要填他對路過顧客的行為，目的是要他們來買麵包。②線索是 shouting, waving 與 to visit his shop and buy。③需要及物動詞，接 shoppers + to V。④以喊叫、揮牌力勸人來店，用 urged。",
+"status": "ok",
+"hint": "Shouting greetings and waving a big sign，他想讓路過的人怎麼做？",
+"why": [
+"(A) accessed 存取：「存取」不接人加 to V",
+"(B) edited 編輯：「編輯」與招攬顧客不合",
+"(C) imposed 強加：「強加」需接 on，不接 to V",
+"(D) urged 催促：符合，urge sb to V 指催促某人做…"
+],
+"col": "urge sb to V 力勸某人；She urged him to rest. 她力勸他休息。",
+"fam": "urge v./n. → urgent adj. → urgency n.",
+"strat": "to visit his shop and buy 是目的，找「催促」"
+},
+{
+"y": 106,
+"n": 9,
+"zh": "這片海灘有連續三公里的金色沙灘，每年夏天吸引世界各地的藝術家用細軟的沙創作驚人的雕塑。",
+"oz": [
+"憲法",
+"反對",
+"雕塑",
+"冒險"
+],
+"ex": "①空格是藝術家用沙創作出的東西。②線索是 artists、create amazing、fine soft sand。③需要複數名詞。④用沙做出來的藝術品是 sculptures。",
+"status": "ok",
+"hint": "artists 與 create amazing ____ with sand，想想用沙能做出什麼作品。",
+"why": [
+"(A) constitutions 憲法：「憲法」不能用沙創作",
+"(B) objections 反對：「反對」不是創作的成果",
+"(C) sculptures 雕塑：符合，sculptures 指雕塑作品",
+"(D) adventures 冒險：「冒險」不能用沙創作"
+],
+"col": "sand sculpture 沙雕；an ice sculpture 冰雕。 He makes sculptures. 他創作雕塑。",
+"fam": "sculpt v. → sculpture n.；sculptor n. 雕刻家",
+"strat": "artists 與 sand，想想創作品"
+},
+{
+"y": 106,
+"n": 10,
+"zh": "雲層散開，一道光束穿過窗戶照在教堂內，落到地板上。",
+"oz": [
+"下降",
+"光束",
+"火花",
+"小徑"
+],
+"ex": "①空格是量詞性名詞，描述穿過窗戶落到地板的一束光。②線索是 a ______ of light 與 through the windows。③需要單數名詞。④光穿過縫隙形成束狀，稱為 beam。",
+"status": "ok",
+"hint": "a ____ of light 是固定的量詞搭配，想想穿過窗戶的光是什麼形狀。",
+"why": [
+"(A) dip 下降：「下降」不是光的量詞",
+"(B) beam 光束：符合，a beam of light 指一道光束",
+"(C) spark 火花：「火花」是迸出的光，不是穿窗的連續光",
+"(D) path 小徑：「小徑」是路，不是光的一道"
+],
+"col": "a beam of sunlight 一束陽光；a laser beam 雷射光束。 A beam shone in. 一道光射進來。",
+"fam": "beam n./v.",
+"strat": "a ... of light 是量詞，想想光的形狀"
+},
+{
+"y": 106,
+"n": 11,
+"zh": "提姆的祖母給他的生日卡片裡，總是附上一些錢，而不是禮物。",
+"oz": [
+"附入",
+"安裝",
+"保存",
+"獎賞"
+],
+"ex": "①空格是動詞，表示把錢放進卡片裡。②線索是 some money in the birthday card。③需要過去式動詞，接 some money。④把物品附在信件或卡片裡稱為 enclose，此處用 enclosed。",
+"status": "ok",
+"hint": "Instead of a gift，奶奶在生日卡片「裡面」放了什麼動作？",
+"why": [
+"(A) enclosed 附入：符合，enclose 指附入、隨函附上",
+"(B) installed 安裝：「安裝」不能用於卡片裡放錢",
+"(C) preserved 保存：「保存」不是把錢放進去的動作",
+"(D) rewarded 獎賞：「獎賞」不接 money in the card"
+],
+"col": "enclose a check 附上支票；Please find the enclosed form. 請看附上的表格。",
+"fam": "enclose v. → enclosure n.",
+"strat": "in the birthday card 說明錢放進卡片，找附入動詞"
+},
+{
+"y": 106,
+"n": 12,
+"zh": "雖然贏得金牌是每個奧運選手的夢想，但如果是靠作弊得來，就毫無意義。",
+"oz": [
+"信號",
+"榮耀",
+"獎牌",
+"利潤"
+],
+"ex": "①空格填奧運冠軍獲得的東西。②線索是 gold、Olympic athlete 與 if achieved by cheating。③需要名詞，與 gold 搭配。④奧運得獎得到的是 medal。",
+"status": "ok",
+"hint": "gold ____ 是奧運選手夢想的獎，想想名稱。",
+"why": [
+"(A) signal 信號：「信號」不是獎項",
+"(B) glory 榮耀：「榮耀」不是實物，也不與 gold 搭配",
+"(C) medal 獎牌：符合，gold medal 指金牌",
+"(D) profit 利潤：「利潤」與奧運選手夢想不符"
+],
+"col": "win a gold medal 贏得金牌；She won a silver medal. 她得到銀牌。",
+"fam": "medal n. → medalist n. 獎牌得主",
+"strat": "gold 搭配的是獎項名稱"
+},
+{
+"y": 106,
+"n": 13,
+"zh": "小偷進入公寓大樓偷了一些珠寶，然後他喬裝成保全人員，從前門走出去。",
+"oz": [
+"使平衡",
+"計算",
+"偽裝",
+"註冊"
+],
+"ex": "①空格是動詞，表示小偷假扮成保全。②線索是 stole jewelry、as a security guard、walked out the front gate。③需要過去式動詞，接 himself as。④假扮身分以避免被發現，是 disguise，此處用 disguised。",
+"status": "ok",
+"hint": "then walked out the front gate as a security guard，小偷用什麼方式？",
+"why": [
+"(A) balanced 使平衡：「使平衡」與扮成保全無關",
+"(B) calculated 計算：「計算」不接 himself as",
+"(C) disguised 偽裝：符合，disguise oneself as 指喬裝成",
+"(D) registered 註冊：「註冊」不是假扮"
+],
+"col": "disguise oneself as 喬裝成；in disguise 喬裝的。 He wore a disguise. 他戴了偽裝。",
+"fam": "disguise v./n.",
+"strat": "walked out the front gate 說明他用假身分混出去"
+},
+{
+"y": 106,
+"n": 14,
+"zh": "由於人們玩寶可夢 GO 時發生許多意外，玩家被建議要留意環境中可能的危險。",
+"oz": [
+"察覺的",
+"羞愧的",
+"懷疑的",
+"有罪的"
+],
+"ex": "①空格形容玩家要對環境危險有的狀態。②線索是 advised、numerous accidents、possible dangers。③需要形容詞，與 of 搭配。④提醒玩家要意識到危險，用 aware。",
+"status": "ok",
+"hint": "were advised to be ____ of possible dangers，of 前面要什麼形容詞？",
+"why": [
+"(A) aware 察覺的：符合，be aware of 指留意、意識到",
+"(B) ashamed 羞愧的：「羞愧的」不會用在提醒玩家上",
+"(C) doubtful 懷疑的：「懷疑的」不是被建議對危險的態度",
+"(D) guilty 有罪的：「有罪的」與危險無關"
+],
+"col": "be aware of 注意到；I'm aware of the risk. 我知道有風險。",
+"fam": "aware adj. → awareness n.；unaware adj.",
+"strat": "advised ... dangers 的 of，找 be ... of"
+},
+{
+"y": 106,
+"n": 15,
+"zh": "小說系列中的偵探福爾摩斯以驚人的觀察力和對瑣碎事實的了解令讀者印象深刻。",
+"oz": [
+"清白",
+"估計",
+"保證",
+"觀察"
+],
+"ex": "①空格是福爾摩斯令人驚嘆的能力，與瑣碎事實的知識並列。②線索是 detective 與 powers of。③需要名詞，與 powers of 搭配。④偵探靠看細節，因此是 observation。",
+"status": "ok",
+"hint": "detective 與 knowledge of trivial facts，想想偵探的過人能力是什麼。",
+"why": [
+"(A) innocence 清白：「清白」不是 powers of 的內容",
+"(B) estimation 估計：「估計」不是偵探的特色能力",
+"(C) assurance 保證：「保證」不是偵探的能力",
+"(D) observation 觀察：符合，powers of observation 指觀察力"
+],
+"col": "powers of observation 觀察力；careful observation 仔細觀察。 He is good at observation. 他很會觀察。",
+"fam": "observe v. → observation n.；observer n.",
+"strat": "detective 與 powers of，找偵探的能力"
+},
+{
+"y": 107,
+"n": 1,
+"zh": "芒果在台灣是季節性的水果；大多數在七月達到甜度的巔峰。",
+"oz": [
+"成熟的",
+"通常的",
+"季節性的",
+"特別的"
+],
+"ex": "①空格形容 fruit，說明芒果的特性。②線索是 most of them reach their peak of sweetness in July。③需要形容詞。④只在特定月份最甜，代表是依季節的 seasonal 水果。",
+"status": "ok",
+"hint": "reach their peak of sweetness in July，說明芒果什麼時候有。",
+"why": [
+"(A) mature 成熟的：「成熟的」指狀態，不是此類水果的類別",
+"(B) usual 通常的：「通常的」不能說明只有七月最甜",
+"(C) seasonal 季節性的：符合，seasonal fruit 指季節性水果",
+"(D) particular 特別的：「特別的」不是說明產季"
+],
+"col": "seasonal fruit 當季水果；seasonal work 季節性工作。 Strawberries are seasonal. 草莓有季節性。",
+"fam": "season n. → seasonal adj.",
+"strat": "peak of sweetness in July 說明有產季"
+},
+{
+"y": 107,
+"n": 2,
+"zh": "撰寫學期報告和口頭報告是大學生典型的課程要求。",
+"oz": [
+"要求",
+"技巧",
+"情況",
+"原則"
+],
+"ex": "①空格是課程中規定學生要完成的事項。②線索是 Writing term papers and giving oral reports 與 typical course。③需要複數名詞，與 course 搭配。④課程規定是 requirements。",
+"status": "ok",
+"hint": "Writing term papers and giving oral reports 是大學課程裡必須做的事。",
+"why": [
+"(A) requirements 要求：符合，course requirements 指課程要求",
+"(B) techniques 技巧：「技巧」不是被要求完成的事",
+"(C) situations 情況：「情況」不是報告的屬性",
+"(D) principles 原則：「原則」不是報告和口頭報告"
+],
+"col": "course requirements 課程要求；meet the requirements 符合條件。",
+"fam": "require v. → requirement n.",
+"strat": "term papers 與 oral reports 是必須完成的事項"
+},
+{
+"y": 107,
+"n": 3,
+"zh": "如果我們年輕時努力實現夢想，年老時就不會覺得錯過了什麼。",
+"oz": [
+"分配",
+"實現",
+"說服",
+"監視"
+],
+"ex": "①空格是動詞，表示努力讓夢想成真。②線索是 work hard to、dreams、will not feel that we missed out。③需要原形動詞，接 our dreams。④實現夢想是 fulfill 的固定搭配。",
+"status": "ok",
+"hint": "work hard to ____ our dreams，想想與 dreams 最常搭配的動詞。",
+"why": [
+"(A) distribute 分配：「分配」不接 dreams",
+"(B) fulfill 實現：符合，fulfill one's dreams 指實現夢想",
+"(C) convince 說服：「說服」不接 dreams",
+"(D) monitor 監視：「監視」與實現夢想無關"
+],
+"col": "fulfill a dream 實現夢想；fulfill a promise 履行承諾。 He fulfilled his wish. 他實現了心願。",
+"fam": "fulfill v. → fulfillment n.",
+"strat": "dreams 的常見動詞，找實現夢想"
+},
+{
+"y": 107,
+"n": 4,
+"zh": "如果你一直許下空洞的承諾卻從不努力兌現，很少人會信任你。",
+"oz": [
+"寒冷的",
+"自由派的",
+"空洞的",
+"明確的"
+],
+"ex": "①空格形容 promises，與沒有努力兌現的承諾相符。②線索是 Few people will trust you 與 never make efforts to keep them。③需要形容詞。④有名無實的承諾是 hollow 的。",
+"status": "ok",
+"hint": "never make efforts to keep them，那些 promises 是怎樣的？",
+"why": [
+"(A) chilly 寒冷的：「寒冷的」不能形容承諾",
+"(B) liberal 自由派的：「自由派的」與承諾無關",
+"(C) hollow 空洞的：符合，hollow promises 指空洞、不實的承諾",
+"(D) definite 明確的：「明確的」與沒有人信任的情況相反"
+],
+"col": "hollow promises 空洞的承諾；hollow words 空話。 The tree trunk is hollow. 樹幹是空心的。",
+"fam": "hollow adj./n.",
+"strat": "never make efforts to keep them 暗示承諾的品質"
+},
+{
+"y": 107,
+"n": 5,
+"zh": "貝琪上週打網球時扭傷了腳踝，現在還很痛。",
+"oz": [
+"滑倒",
+"傾倒",
+"扭傷",
+"康復"
+],
+"ex": "①空格是動詞，表示打網球時腳踝受傷。②線索是 playing tennis、ankle、still hurts badly。③需要過去式動詞，接 her ankle。④ankle 受傷常說 twisted（扭到）。",
+"status": "ok",
+"hint": "playing tennis 與 still hurts badly，腳踝發生了什麼事？",
+"why": [
+"(A) slipped 滑倒：「滑倒」不接 her ankle 表示扭傷",
+"(B) dumped 傾倒：「傾倒」與腳踝受傷不合",
+"(C) twisted 扭傷：符合，twist one's ankle 指扭傷腳踝",
+"(D) recovered 康復：「康復」與 still hurts badly 相矛盾"
+],
+"col": "twist one's ankle 扭傷腳踝；twist a cap 扭開蓋子。 He twisted his wrist. 他扭到手腕。",
+"fam": "twist v./n. → twisted adj.",
+"strat": "playing tennis 與 still hurts，推出腳踝受傷的動作"
+},
+{
+"y": 107,
+"n": 6,
+"zh": "研究顯示男女思考方式通常不同，例如他們對婚姻在生命中的意義有截然不同的信念。",
+"oz": [
+"決定",
+"信念",
+"風格",
+"程度"
+],
+"ex": "①空格是名詞，表示男女對婚姻意義的不同看法。②線索是 think differently 與 what marriage means。③需要複數名詞，接 about。④關於意義的看法是 beliefs。",
+"status": "ok",
+"hint": "different ____ about what marriage means，看看這是在談想法還是行為。",
+"why": [
+"(A) decisions 決定：「決定」不是對意義的看法",
+"(B) beliefs 信念：符合，beliefs about 指對…的看法",
+"(C) styles 風格：「風格」不談對婚姻意義的看法",
+"(D) degrees 程度：「程度」不能接 about what marriage means"
+],
+"col": "belief in sth 相信…；religious beliefs 宗教信仰。 I have no belief in luck. 我不信運氣。",
+"fam": "believe v. → belief n.；believable adj.",
+"strat": "what marriage means 的看法，找 beliefs"
+},
+{
+"y": 107,
+"n": 7,
+"zh": "新經理要求很高。例如，員工完成同樣的工作，期限比以前短得多。",
+"oz": [
+"有說服力的",
+"可容忍的",
+"可疑的",
+"要求嚴格的"
+],
+"ex": "①空格形容 manager，後面的例子說明他的作風。②線索是 For instance 與 much shorter deadlines。③需要形容詞。④期限縮短代表要求很高，即 demanding。",
+"status": "ok",
+"hint": "For instance 之後說期限比以前短，所以經理的特質是什麼？",
+"why": [
+"(A) persuasive 有說服力的：「有說服力的」不能解釋短期限",
+"(B) tolerable 可容忍的：「可容忍的」與短期限矛盾",
+"(C) suspicious 可疑的：「可疑的」與短期限無關",
+"(D) demanding 要求嚴格的：符合，demanding 指要求嚴格的"
+],
+"col": "a demanding job 要求很高的工作；demanding boss 嚴格的老闆。 It is a demanding task. 這是吃力的工作。",
+"fam": "demand v./n. → demanding adj.",
+"strat": "For instance 後面的舉例，推出經理的特質"
+},
+{
+"y": 107,
+"n": 8,
+"zh": "這對夫妻焦急地尋找失蹤的孩子，而孩子們其實正在附近的樹林裡玩得開心。",
+"oz": [
+"焦急地",
+"精確地",
+"顯然地",
+"清楚地"
+],
+"ex": "①空格是副詞，描述父母找孩子的心情。②線索是 missing children 與 actually having fun 的對比。③需要副詞修飾 looking。④孩子失蹤，父母當然 anxiously 地找。",
+"status": "ok",
+"hint": "kids were actually having fun，與父母的行為形成對比。",
+"why": [
+"(A) anxiously 焦急地：符合，anxiously 指焦急地",
+"(B) precisely 精確地：「精確地」不描述找人的心情",
+"(C) evidently 顯然地：「顯然地」不表示找人的方式",
+"(D) distinctly 清楚地：「清楚地」不是找失蹤孩子的情緒"
+],
+"col": "wait anxiously 焦急等待；She looked anxiously around. 她焦急地四處張望。",
+"fam": "anxiety n. → anxious adj. → anxiously adv.",
+"strat": "actually having fun 是對比，推出父母的心情"
+},
+{
+"y": 107,
+"n": 9,
+"zh": "發表完極具力量的演說後，這位得獎者被一群要求簽名的粉絲團團圍住。",
+"oz": [
+"存放",
+"預訂",
+"消失",
+"圍繞"
+],
+"ex": "①空格是被動動詞，表示得獎者被粉絲怎麼樣。②線索是 was ______ by a group of fans asking for her signature。③需要過去分詞，與 by 搭配。④一群人圍著她要簽名，用 surrounded。",
+"status": "ok",
+"hint": "a group of fans asking for her signature，講者被怎樣了？",
+"why": [
+"(A) deposited 存放：「存放」不能以人為主詞",
+"(B) reserved 預訂：「預訂」與粉絲圍著要簽名無關",
+"(C) vanished 消失：「消失」不及物，不能用被動",
+"(D) surrounded 圍繞：符合，be surrounded by 指被…圍繞"
+],
+"col": "be surrounded by 被…環繞；The house is surrounded by trees. 房子被樹木環繞。",
+"fam": "surround v. → surrounding adj./n.",
+"strat": "surrounded by + fans asking for signature，找 be ...ed by"
+},
+{
+"y": 107,
+"n": 10,
+"zh": "應徵者極力想讓面試官留下深刻印象，證明自己很有能力、應該錄取。",
+"oz": [
+"歸功於",
+"使印象深刻",
+"減輕",
+"獲得"
+],
+"ex": "①空格是動詞，表示應徵者想讓面試官相信自己有能力。②線索是 the interviewers that they were very capable。③需要動詞，接人與 that 子句。④讓面試官留下深刻印象並認為他們有能力，用 impress。",
+"status": "ok",
+"hint": "trying very hard to ____ the interviewers that...，後面接子句。",
+"why": [
+"(A) credit 歸功於：「歸功於」不接人加 that 子句",
+"(B) impress 使印象深刻：符合，impress sb that... 指使某人印象深刻、相信",
+"(C) relieve 減輕：「減輕」與想讓面試官相信無關",
+"(D) acquire 獲得：「獲得」不接人加 that 子句"
+],
+"col": "impress sb with sth 以某事讓人印象深刻；make a good impression 給人好印象。",
+"fam": "impress v. → impression n.；impressive adj.",
+"strat": "the interviewers that 後接子句，要找帶 that 的動詞"
+},
+{
+"y": 107,
+"n": 11,
+"zh": "今年第一場雪後，整片草原消失在一層雪毯之下。",
+"oz": [
+"雪花",
+"花朵",
+"毯子",
+"閃光"
+],
+"ex": "①空格是名詞，描述雪蓋住草原的樣子。②線索是 the entire grassland disappeared under a ______ of snow。③需要單數名詞，與 of snow 搭配。④像毯子一樣覆蓋，用 blanket。",
+"status": "ok",
+"hint": "a ____ of snow 常用來描述覆蓋整片草原的積雪。",
+"why": [
+"(A) flake 雪花：「雪花」是單片，不能蓋住整片草原",
+"(B) blossom 花朵：「花朵」與雪無關",
+"(C) blanket 毯子：符合，a blanket of snow 指一層覆蓋的雪",
+"(D) flash 閃光：「閃光」不能用來形容雪"
+],
+"col": "a blanket of snow 一層積雪；a blanket of fog 一層濃霧。",
+"fam": "blanket n./v.",
+"strat": "a ... of snow 與 entire grassland，找像毯子的覆蓋"
+},
+{
+"y": 107,
+"n": 12,
+"zh": "彼得喜歡邊距寬的書，這樣有足夠的空間寫筆記。",
+"oz": [
+"角度",
+"頁邊空白",
+"例外",
+"限制"
+],
+"ex": "①空格是名詞，指書頁上可以寫字的位置。②線索是 enough space to write notes。③需要複數名詞，與 wide 搭配。④書頁邊緣的空白是 margins。",
+"status": "ok",
+"hint": "books with wide ____，後面說有足夠空間寫筆記。",
+"why": [
+"(A) angles 角度：「角度」不是書頁上的空間",
+"(B) margins 頁邊空白：符合，margins 指頁邊空白，可供寫筆記",
+"(C) exceptions 例外：「例外」不能用來寫筆記",
+"(D) limitations 限制：「限制」與寫筆記的空間相反"
+],
+"col": "wide margin 寬邊距；margin of error 誤差範圍。 Write in the margin. 寫在頁邊。",
+"fam": "margin n. → marginal adj.",
+"strat": "enough space to write notes 要找書頁上的空白處"
+},
+{
+"y": 107,
+"n": 13,
+"zh": "學期初老師告訴學生，遲交作業會被扣低分作為處罰。",
+"oz": [
+"困難",
+"評論",
+"便宜貨",
+"處罰"
+],
+"ex": "①空格是名詞，表示遲交作業被扣分的性質。②線索是 late assignments would receive a low grade。③需要名詞，與 as a 搭配。④對遲交的 penalty（處罰）。",
+"status": "ok",
+"hint": "late assignments would receive a low grade as a ____，這是針對遲交的後果。",
+"why": [
+"(A) hardship 困難：「困難」不是老師的規定",
+"(B) comment 評論：「評論」不是低分",
+"(C) bargain 便宜貨：「便宜貨」與遲交無關",
+"(D) penalty 處罰：符合，as a penalty 指作為處罰"
+],
+"col": "penalty for late work 遲交的處罰；death penalty 死刑。 There is a penalty for cheating. 作弊會受罰。",
+"fam": "penalty n. → penalize v.",
+"strat": "late assignments 低分是目的在處罰"
+},
+{
+"y": 107,
+"n": 14,
+"zh": "這家醫院正在進行各種研究，探討高脂飲食與癌症的關聯。",
+"oz": [
+"進行",
+"證實",
+"暗示",
+"改善"
+],
+"ex": "①空格是被動動詞，表示在醫院進行研究。②線索是 studies 與 explore the link between...。③需要過去分詞，與 studies 搭配。④進行研究用 conducted。",
+"status": "ok",
+"hint": "studies have been ____ in this hospital，想想「研究」搭哪個動詞。",
+"why": [
+"(A) conducted 進行：符合，conduct studies 指進行研究",
+"(B) confirmed 證實：「證實」與 explore 的探索階段不合",
+"(C) implied 暗示：「暗示」不接 studies 表示進行",
+"(D) improved 改善：「改善」不接 studies"
+],
+"col": "conduct research 進行研究；They conducted an experiment. 他們進行了實驗。",
+"fam": "conduct v./n.；conductor n.",
+"strat": "studies 搭配動詞，找進行研究"
+},
+{
+"y": 107,
+"n": 15,
+"zh": "猛烈快速的大火上週席捲加州大部分地區，這場大規模的火災風暴已奪走三十人的性命。",
+"oz": [
+"有效率的",
+"可靠的",
+"大規模的",
+"足夠的"
+],
+"ex": "①空格形容 firestorm，與前句的猛烈相呼應。②線索是 claimed the lives of thirty people。③需要形容詞。④造成多人死亡，規模 massive。",
+"status": "ok",
+"hint": "Intense, fast-moving fires ... claimed the lives of thirty people，火災有什麼規模？",
+"why": [
+"(A) efficient 有效率的：「有效率的」不能形容火災風暴",
+"(B) reliable 可靠的：「可靠的」與災害無關",
+"(C) massive 大規模的：符合，massive 指大規模的",
+"(D) adequate 足夠的：「足夠的」與人命損失不合"
+],
+"col": "massive damage 巨大損失；A massive crowd gathered. 一大群人聚集。",
+"fam": "mass n. → massive adj.",
+"strat": "claimed lives of thirty people 暗示規模大"
+},
+{
+"y": 108,
+"n": 1,
+"zh": "巴比很在意家中的隱私，要求父母未經允許不要翻他的東西。",
+"oz": [
+"紀律",
+"設施",
+"隱私",
+"代表"
+],
+"ex": "①空格是名詞，是他在家中希望被尊重的東西。②線索是 asked his parents not to go through his things。③需要名詞，與 his 搭配。④不想被翻東西，是在意 privacy。",
+"status": "ok",
+"hint": "not go through his things without his permission，他在意的是什麼？",
+"why": [
+"(A) discipline 紀律：「紀律」與翻東西無關",
+"(B) facility 設施：「設施」與要求父母不要翻無關",
+"(C) privacy 隱私：符合，privacy 指隱私",
+"(D) representation 代表：「代表」與在意家中事無關"
+],
+"col": "invade one's privacy 侵犯隱私；I need some privacy. 我需要一點隱私。",
+"fam": "private adj. → privacy n.",
+"strat": "not go through his things 暗示要的是私人空間"
+},
+{
+"y": 108,
+"n": 2,
+"zh": "新經理是個真正的紳士，親切又謙虛，和以前那位小氣又愛頤指氣使的經理完全不同。",
+"oz": [
+"渴望的",
+"自由的",
+"刻薄的",
+"較差的"
+],
+"ex": "①空格與 bossy 並列，形容前任經理的個性。②線索是 totally different from the former manager，且新經理 kind and humble。③需要形容詞。④與親切謙虛相反，是 mean（刻薄的）。",
+"status": "ok",
+"hint": "totally different from... kind and humble，所以前任經理是反義。",
+"why": [
+"(A) eager 渴望的：「渴望的」不是與 kind and humble 相反的特質",
+"(B) liberal 自由的：「自由的」與 bossy 不屬同一類",
+"(C) mean 刻薄的：符合，mean 指刻薄的、不友善的",
+"(D) inferior 較差的：「較差的」是比較，不是性格"
+],
+"col": "be mean to sb 對某人刻薄；Don't be mean. 不要這麼小氣。",
+"fam": "",
+"strat": "totally different from kind and humble，所以是相反的特質"
+},
+{
+"y": 108,
+"n": 3,
+"zh": "氣象局預測颱風將帶來強風豪雨，並警告大家可能的危險。",
+"oz": [
+"傳達",
+"使有關聯",
+"詮釋",
+"預測"
+],
+"ex": "①空格是動詞，表示對颱風的未來提出看法。②線索是 would bring strong winds 與 warned everyone。③需要過去式動詞，接 that 子句。④氣象局的工作是 predicted。",
+"status": "ok",
+"hint": "warned everyone of the possible danger，所以氣象局對颱風做了什麼？",
+"why": [
+"(A) conveyed 傳達：「傳達」只是轉述，不一定是預測",
+"(B) associated 使有關聯：「使有關聯」與預報無關",
+"(C) interpreted 詮釋：「詮釋」是解釋，不是預告未來",
+"(D) predicted 預測：符合，predicted 指預測"
+],
+"col": "predict the weather 預測天氣；Experts predict a rise. 專家預測會上升。",
+"fam": "predict v. → prediction n.；predictable adj.",
+"strat": "would bring strong winds 是對未來的說法"
+},
+{
+"y": 108,
+"n": 4,
+"zh": "不同航空公司對隨身行李有不同的限制，但許多國際航空限制每件隨身行李為七公斤。",
+"oz": [
+"地標",
+"限制",
+"百分比",
+"情況"
+],
+"ex": "①空格是各航空公司對隨身行李的規定。②線索是 limit a carry-on piece to 7 kilograms。③需要複數名詞，接 for。④限制重量的規定，就是 restrictions。",
+"status": "ok",
+"hint": "many international airlines limit a carry-on piece to 7 kilograms，這是什麼性質？",
+"why": [
+"(A) landmarks 地標：「地標」與規定無關",
+"(B) restrictions 限制：符合，restrictions 指限制",
+"(C) percentages 百分比：「百分比」不能說明規定",
+"(D) circumstances 情況：「情況」不能指各公司的重量規定"
+],
+"col": "restrictions on sth 對…的限制；age restriction 年齡限制。 There are size restrictions. 有尺寸限制。",
+"fam": "restrict v. → restriction n.；restricted adj.",
+"strat": "limit ... to 7 kilograms 是規定，反推 restrictions"
+},
+{
+"y": 108,
+"n": 5,
+"zh": "許多人很高興政府終於宣布兒童節為國定假日。",
+"oz": [
+"任命",
+"宣布",
+"表演",
+"牽涉"
+],
+"ex": "①空格是動詞，表示政府把兒童節定為國定假日。②線索是 the government 與 Children's Day as a national holiday。③需要過去分詞，接受詞與 as 補語。④官方正式宣布，用 declared。",
+"status": "ok",
+"hint": "Children's Day as a national holiday，政府對這個日子做了什麼？",
+"why": [
+"(A) appointed 任命：「任命」通常接人，不接節日",
+"(B) declared 宣布：符合，declare ... as a holiday 指宣布為假日",
+"(C) performed 表演：「表演」與政府決定無關",
+"(D) involved 牽涉：「牽涉」不能表示宣布為假日"
+],
+"col": "declare war 宣戰；declare sb the winner 宣布某人獲勝。 They declared a holiday. 他們宣布放假。",
+"fam": "declare v. → declaration n.",
+"strat": "national holiday 是官方決定，找宣布"
+},
+{
+"y": 108,
+"n": 6,
+"zh": "為了達成讓公司成為市場龍頭的目標，蜜雪兒提出今年在全國開十家新店的計畫。",
+"oz": [
+"勸告",
+"佔據",
+"提出",
+"認可"
+],
+"ex": "①空格是動詞，表示 Michelle 對開十家新店做出的動作。②線索是 To reach the goal 與 a plan to open ten new stores。③需要過去式動詞，接 a plan。④為達標而提出計畫，用 proposed。",
+"status": "ok",
+"hint": "To reach the goal ..., Michelle ____ a plan，一個計畫要先做什麼。",
+"why": [
+"(A) advised 勸告：「勸告」不接 a plan 表示提出",
+"(B) occupied 佔據：「佔據」不接 a plan",
+"(C) proposed 提出：符合，propose a plan 指提出計畫",
+"(D) recognized 認可：「認可」不是 Michelle 提出計畫"
+],
+"col": "propose a plan 提出計畫；She proposed a new idea. 她提出新點子。",
+"fam": "propose v. → proposal n.",
+"strat": "a plan 前面搭配的動詞，找提出"
+},
+{
+"y": 108,
+"n": 7,
+"zh": "沉默在某種程度上和言語一樣具有表達力，例如可以用來表示不同意或缺乏興趣。",
+"oz": [
+"好交際的",
+"有表達力的",
+"合理的",
+"客觀的"
+],
+"ex": "①空格是形容詞，表示沉默能像言語一樣傳達態度。②線索是 as ... as speech 與 show disagreement or lack of interest。③需要形容詞，用於 as...as 結構。④可傳達意思，表示 expressive。",
+"status": "ok",
+"hint": "as ____ as speech，後面說可用來表示不同意或缺乏興趣。",
+"why": [
+"(A) sociable 好交際的：「好交際的」不能形容沉默",
+"(B) expressive 有表達力的：符合，expressive 指有表達力的",
+"(C) reasonable 合理的：「合理的」與傳達不同意無關",
+"(D) objective 客觀的：「客觀的」與表達態度無關"
+],
+"col": "expressive eyes 有表情的眼睛；Music is expressive. 音樂有表現力。",
+"fam": "express v. → expression n. → expressive adj.",
+"strat": "as ... as speech 與 show disagreement，找能傳意的形容詞"
+},
+{
+"y": 108,
+"n": 8,
+"zh": "這個電視節目是為兒童設計的，尤其是五歲以下的兒童，內容沒有暴力或粗話。",
+"oz": [
+"特別地",
+"明智地",
+"適度地",
+"相當地"
+],
+"ex": "①空格是副詞，表示特別針對五歲以下兒童。②線索是 designed for children, ______ for those under five。③需要副詞，放在 for 前，作強調。④從廣到狹，常用 particularly。",
+"status": "ok",
+"hint": "for those under five 是在 children 中特別強調一群。",
+"why": [
+"(A) particularly 特別地：符合，particularly 指尤其、特別",
+"(B) sensibly 明智地：「明智地」不能引導 for those",
+"(C) moderately 適度地：「適度地」不能強調對象",
+"(D) considerably 相當地：「相當地」不接 for those 強調"
+],
+"col": "particularly for 尤其針對；I like fruit, particularly apples. 我愛水果，尤其蘋果。",
+"fam": "particular adj. → particularly adv.",
+"strat": "for those under five 是特別強調，找特別強調副詞"
+},
+{
+"y": 108,
+"n": 9,
+"zh": "湯米，請把玩具收進箱子，否則你可能會被絆倒而受傷。",
+"oz": [
+"絆倒",
+"擦傷",
+"導航",
+"居住"
+],
+"ex": "①空格是動詞，表示踩到玩具而受傷。②線索是 put away the toys 與 hurt yourself。③需要原形動詞，與 on 搭配。④被玩具絆倒是 stumble on。",
+"status": "ok",
+"hint": "hurt yourself 的原因是玩具散落在地，想想會發生什麼動作。",
+"why": [
+"(A) stumble 絆倒：符合，stumble on 指被…絆倒",
+"(B) graze 擦傷：「擦傷」不接 on them",
+"(C) navigate 導航：「導航」與玩具無關",
+"(D) dwell 居住：「居住」與受傷無關"
+],
+"col": "stumble over a stone 被石頭絆倒；He stumbled on the step. 他被台階絆到。",
+"fam": "stumble v./n.",
+"strat": "hurt yourself 的前提是玩具散落，找絆倒"
+},
+{
+"y": 108,
+"n": 10,
+"zh": "每年九月舉行的年度化裝舞會是學校一年中最盛大的活動之一。",
+"oz": [
+"最初的",
+"年度的",
+"明顯的",
+"偶爾的"
+],
+"ex": "①空格是形容詞，形容 costume party 的頻率。②線索是 held every September。③需要形容詞，修飾名詞。④每年一次就是 annual。",
+"status": "ok",
+"hint": "held every September 告訴你這個活動多久舉行一次。",
+"why": [
+"(A) initial 最初的：「最初的」與每年舉行無關",
+"(B) annual 年度的：符合，annual 指每年的",
+"(C) evident 明顯的：「明顯的」不是頻率",
+"(D) occasional 偶爾的：「偶爾的」與每年九月矛盾"
+],
+"col": "annual event 年度活動；annual meeting 年會。 It is an annual party. 這是年度派對。",
+"fam": "annual adj. → annually adv.",
+"strat": "held every September 就是每年一次"
+},
+{
+"y": 108,
+"n": 11,
+"zh": "在工作面試中，態度和個性通常是影響面試官決定的重要因素。",
+"oz": [
+"因素",
+"結果",
+"任務",
+"身分"
+],
+"ex": "①空格是名詞，表示影響面試決定的事項。②線索是 attitude and personality 與 influence the decision。③需要複數名詞，接 that 子句修飾。④影響決定的是 factors。",
+"status": "ok",
+"hint": "attitude and personality 是影響面試官決定的什麼東西？",
+"why": [
+"(A) factors 因素：符合，important factors 指重要因素",
+"(B) outcomes 結果：「結果」不是影響因素",
+"(C) missions 任務：「任務」不是態度與個性",
+"(D) identities 身分：「身分」與態度、個性不同類"
+],
+"col": "key factor 關鍵因素；a factor in success 成功的因素。 Weather is a factor. 天氣是一項因素。",
+"fam": "",
+"strat": "influence the decision 是影響面試的東西"
+},
+{
+"y": 108,
+"n": 12,
+"zh": "書中把這座白雪覆頂的山描寫得如此生動，讓場景彷彿活生生浮現在讀者眼前。",
+"oz": [
+"遙遠地",
+"有意義地",
+"愉快地",
+"生動地"
+],
+"ex": "①空格是副詞，修飾 described，表示描寫的程度。②線索是 so ______ that the scene seems to come alive。③需要副詞。④讓畫面像活的一樣，就是 vividly。",
+"status": "ok",
+"hint": "the scene seems to come alive in front of the reader's eyes，是描寫得怎樣？",
+"why": [
+"(A) distantly 遙遠地：「遙遠地」不能讓場景活現",
+"(B) meaningfully 有意義地：「有意義地」不能描述畫面活現",
+"(C) cheerfully 愉快地：「愉快地」不能描述場景",
+"(D) vividly 生動地：符合，vividly 指生動地"
+],
+"col": "describe vividly 生動描述；She vividly recalled it. 她清楚回憶起。",
+"fam": "vivid adj. → vividly adv.",
+"strat": "scene seems to come alive 是生動"
+},
+{
+"y": 108,
+"n": 13,
+"zh": "被盛開的花朵與歡快啁啾的鳥兒環繞，王家人在國家公園健行玩得很開心。",
+"oz": [
+"打盹",
+"舀",
+"翻動",
+"啁啾"
+],
+"ex": "①空格是現在分詞，描述鳥兒的動作。②線索是 flowers blooming and birds ______ merrily。③需要 V-ing，與 merrily 搭配。④鳥快樂地叫，是 chirping。",
+"status": "ok",
+"hint": "birds ____ merrily 與盛開的花並列，想想鳥快樂時發出什麼聲音。",
+"why": [
+"(A) napping 打盹：「打盹」與 merrily 矛盾",
+"(B) scooping 舀：「舀」與鳥無關",
+"(C) flipping 翻動：「翻動」不適用於鳥",
+"(D) chirping 啁啾：符合，chirping 指啁啾，birds chirping merrily 最自然"
+],
+"col": "birds chirp 鳥鳴；Birds chirped happily. 鳥兒開心地鳴叫。",
+"fam": "chirp v./n.",
+"strat": "merrily 與 birds，找鳥的聲音"
+},
+{
+"y": 108,
+"n": 14,
+"zh": "與朋友保持持續的聯繫很重要，這樣需要時才有人可以傾訴。",
+"oz": [
+"好處",
+"聯絡",
+"手勢",
+"恩惠"
+],
+"ex": "①空格是名詞，表示與朋友的往來。②線索是 maintain constant ______ with our friends。③需要名詞，與 maintain 搭配。④保持 contact 才會有人可談心。",
+"status": "ok",
+"hint": "someone to talk to in times of need 是保持什麼的目的？",
+"why": [
+"(A) benefit 好處：「好處」不接 maintain with friends",
+"(B) contact 聯絡：符合，maintain contact with 指保持聯繫",
+"(C) gesture 手勢：「手勢」與保持朋友往來無關",
+"(D) favor 恩惠：「恩惠」不與 maintain 搭配"
+],
+"col": "keep in contact 保持聯絡；lose contact with 失去聯繫。 We stay in contact. 我們保持聯絡。",
+"fam": "contact n./v.",
+"strat": "maintain ... with friends，找 maintain 的搭配"
+},
+{
+"y": 108,
+"n": 15,
+"zh": "這個國家的年輕世代對工廠工作和蓋房子、採水果等其他體力勞動工作較無興趣。",
+"oz": [
+"因果的",
+"耐用的",
+"體力的",
+"暴力的"
+],
+"ex": "①空格形容 labor jobs，與工廠工作並列。②線索是 house construction and fruit picking。③需要形容詞，修飾 labor。④用身體勞動的工作稱為 manual labor。",
+"status": "ok",
+"hint": "house construction and fruit picking 是哪一類工作？",
+"why": [
+"(A) causal 因果的：「因果的」與工作類型無關",
+"(B) durable 耐用的：「耐用的」不能形容 labor jobs",
+"(C) manual 體力的：符合，manual labor 指體力勞動",
+"(D) violent 暴力的：「暴力的」與蓋房子、採水果不合"
+],
+"col": "manual labor 體力勞動；manual worker 勞工。 He does manual work. 他做體力工作。",
+"fam": "manual adj./n.（n. 指手冊）；manually adv.",
+"strat": "house construction and fruit picking 都是靠體力"
+},
+{
+"y": 109,
+"n": 1,
+"zh": "經過數小時討論，我們班終於達成結論：畢業旅行要去花蓮。",
+"oz": [
+"平衡",
+"結論",
+"定義",
+"和諧"
+],
+"ex": "①空格是名詞，表示討論數小時後得到的結果。②線索是 After hours of discussion 與 reached the ______ that...。③需要名詞，與 reach 搭配。④討論後得到的是 conclusion。",
+"status": "ok",
+"hint": "reached the ____ that we would go to Hualien，that 後面是什麼的內容？",
+"why": [
+"(A) balance 平衡：「平衡」不是討論後得到的",
+"(B) conclusion 結論：符合，reach a conclusion 指達成結論",
+"(C) definition 定義：「定義」不是討論結果",
+"(D) harmony 和諧：「和諧」不接 that 子句"
+],
+"col": "reach a conclusion 得出結論；jump to conclusions 貿然下結論。 We drew a conclusion. 我們得出結論。",
+"fam": "conclude v. → conclusion n.；conclusive adj.",
+"strat": "After hours of discussion 說明討論後的結果"
+},
+{
+"y": 109,
+"n": 2,
+"zh": "珍通過考試並拿到近乎滿分，讓老師大吃一驚；她上學期差點被當。",
+"oz": [
+"使無聊",
+"使驚訝",
+"使著迷",
+"通知"
+],
+"ex": "①空格是動詞，表示珍的好成績對老師的影響。②線索是 nearly perfect score 與 almost failed the course last semester。③需要過去式動詞，接 her teacher。④成績出乎意料，令人 amazed。",
+"status": "ok",
+"hint": "she almost failed the course last semester 是對比線索。",
+"why": [
+"(A) bored 使無聊：「使無聊」與好成績無關",
+"(B) amazed 使驚訝：符合，amazed 指使驚訝",
+"(C) charmed 使著迷：「使著迷」與成績落差無關",
+"(D) informed 通知：「通知」與驚訝無關"
+],
+"col": "amaze sb 使某人驚訝；be amazed at 對…感到驚訝。 Her skill amazed us. 她的技術讓我們驚訝。",
+"fam": "amaze v. → amazing adj./amazed adj. → amazement n.",
+"strat": "almost failed 與 nearly perfect score 是對比"
+},
+{
+"y": 109,
+"n": 3,
+"zh": "吸塵器壞了，我們把它送回製造商檢查維修吧。",
+"oz": [
+"講師",
+"出版商",
+"研究員",
+"製造商"
+],
+"ex": "①空格是名詞，表示負責維修的對象。②線索是 not working 與 inspected and repaired。③需要名詞，指負責產品的人或公司。④製造吸塵器的公司最合理，即 manufacturer。",
+"status": "ok",
+"hint": "要把壞掉的吸塵器送回哪裡檢查維修？",
+"why": [
+"(A) lecturer 講師：「講師」不會修吸塵器",
+"(B) publisher 出版商：「出版商」與吸塵器無關",
+"(C) researcher 研究員：「研究員」不負責修理",
+"(D) manufacturer 製造商：符合，manufacturer 指製造商"
+],
+"col": "the manufacturer 製造商；manufacturing industry 製造業。 Contact the manufacturer. 聯絡製造商。",
+"fam": "manufacture v./n. → manufacturer n.",
+"strat": "inspected and repaired 的對象是生產商"
+},
+{
+"y": 109,
+"n": 4,
+"zh": "由於全球金融危機，該國上個月出口下降了百分之四十，是自 2000 年以來最大的降幅。",
+"oz": [
+"奉承",
+"轉變",
+"減輕",
+"減少"
+],
+"ex": "①空格是動詞，表示出口下降。②線索是 financial crisis 與 the largest drop。③需要過去式動詞，接 by 40 percent。④下降用 decreased。",
+"status": "ok",
+"hint": "the largest drop 說明出口的變化方向。",
+"why": [
+"(A) flattered 奉承：「奉承」不能說明出口變化",
+"(B) transformed 轉變：「轉變」沒有說明下降",
+"(C) relieved 減輕：「減輕」不能形容出口下降",
+"(D) decreased 減少：符合，decreased by 40 percent 指減少四成"
+],
+"col": "decrease by 10% 減少一成；a decrease in sales 銷售下降。 Prices decreased sharply. 價格大幅下降。",
+"fam": "decrease v./n.（反義 increase）",
+"strat": "the largest drop 直接表示下降"
+},
+{
+"y": 109,
+"n": 5,
+"zh": "洋芋片放在桌上沒蓋很久，已經不再新鮮酥脆了。",
+"oz": [
+"堅硬的",
+"酥脆的",
+"原本的",
+"光滑的"
+],
+"ex": "①空格與 fresh 並列，指洋芋片新鮮時的口感。②線索是 left uncovered for a long time 與 no longer taste fresh and。③需要形容詞。④洋芋片放久會受潮，不再 crispy。",
+"status": "ok",
+"hint": "no longer taste fresh and ____，想想洋芋片的口感。",
+"why": [
+"(A) solid 堅硬的：「堅硬的」不是洋芋片的優點",
+"(B) crispy 酥脆的：符合，crispy 指酥脆的",
+"(C) original 原本的：「原本的」不是口感",
+"(D) smooth 光滑的：「光滑的」不是洋芋片的口感"
+],
+"col": "crispy chips 酥脆洋芋片；crispy bacon 脆培根。 The skin is crispy. 皮很酥脆。",
+"fam": "crisp adj. → crispy adj.",
+"strat": "no longer taste fresh and 的對象是洋芋片口感"
+},
+{
+"y": 109,
+"n": 6,
+"zh": "鎮民蓋了一座紀念碑，紀念為了從燃燒的公車救出學生而犧牲生命的勇敢老師。",
+"oz": [
+"紀念碑",
+"難民",
+"紀念品",
+"鞭炮"
+],
+"ex": "①空格是名詞，是鎮民為紀念老師所建。②線索是 built a ______ in memory of。③需要單數名詞。④為紀念而建的建築是 monument。",
+"status": "ok",
+"hint": "in memory of 之後建的是什麼東西？",
+"why": [
+"(A) monument 紀念碑：符合，monument 指紀念碑",
+"(B) refugee 難民：「難民」不能被建造",
+"(C) souvenir 紀念品：「紀念品」不是蓋出來的",
+"(D) firecracker 鞭炮：「鞭炮」與紀念老師無關"
+],
+"col": "build a monument 建造紀念碑；It is a war monument. 這是戰爭紀念碑。",
+"fam": "monument n. → monumental adj.",
+"strat": "in memory of 是為紀念而建"
+},
+{
+"y": 109,
+"n": 7,
+"zh": "史密斯教授古典中文課的學生必須背誦中國名詩人的詩。",
+"oz": [
+"建構",
+"暴露",
+"背誦",
+"安裝"
+],
+"ex": "①空格是動詞，表示學生在課堂上要做的事。②線索是 classical Chinese class 與 poems by famous poets。③需要原形動詞，接 poems。④古詩課常要 recite（背誦）。",
+"status": "ok",
+"hint": "classical Chinese class 的學生要如何處理 poems？",
+"why": [
+"(A) construct 建構：「建構」不接 poems",
+"(B) expose 暴露：「暴露」與詩無關",
+"(C) recite 背誦：符合，recite poems 指背誦詩",
+"(D) install 安裝：「安裝」不接詩"
+],
+"col": "recite a poem 背誦詩；He recited the speech. 他背誦演講稿。",
+"fam": "recite v. → recitation n.",
+"strat": "classical Chinese class 與 poems，找對詩的動作"
+},
+{
+"y": 109,
+"n": 8,
+"zh": "雖然唐先生聲稱房子屬於他，卻沒有提出任何所有權的證明。",
+"oz": [
+"慣例",
+"關係",
+"保險",
+"所有權"
+],
+"ex": "①空格是名詞，指對房子歸屬的證明。②線索是 the house belongs to him 與 proof of。③需要名詞，接 of。④歸屬權的證明是 ownership。",
+"status": "ok",
+"hint": "claims the house belongs to him，缺少的是什麼的證明？",
+"why": [
+"(A) convention 慣例：「慣例」不是房屋歸屬",
+"(B) relationship 關係：「關係」與房屋歸屬證明無關",
+"(C) insurance 保險：「保險」與房屋歸屬不同",
+"(D) ownership 所有權：符合，proof of ownership 指所有權證明"
+],
+"col": "proof of ownership 所有權證明；home ownership 擁有住宅。",
+"fam": "own v. → owner n. → ownership n.",
+"strat": "belongs to him 與 proof of，找歸屬"
+},
+{
+"y": 109,
+"n": 9,
+"zh": "古雅典以早期發展民主制度聞名，常被說是民主的搖籃。",
+"oz": [
+"使命",
+"目標",
+"搖籃",
+"里程碑"
+],
+"ex": "①空格是名詞，指民主制度的起源地。②線索是 Ancient Athens 與 early development of democracy。③需要單數名詞，與 of democracy 搭配。④形容發源地常用 cradle（搖籃）。",
+"status": "ok",
+"hint": "famous for its early development of the democratic system，雅典與民主的關係。",
+"why": [
+"(A) mission 使命：「使命」不指發源地",
+"(B) target 目標：「目標」與雅典歷史地位不合",
+"(C) cradle 搖籃：符合，the cradle of democracy 指民主的搖籃",
+"(D) milestone 里程碑：「里程碑」是階段性事件，不是發源地"
+],
+"col": "the cradle of civilization 文明的搖籃；Greece is the cradle of Western art. 希臘是西方藝術的搖籃。",
+"fam": "cradle n./v.",
+"strat": "the ... of democracy 是發源地說法"
+},
+{
+"y": 109,
+"n": 10,
+"zh": "這種糖果因含有遠超過容許程度的人工成分而不能再販售。",
+"oz": [
+"豐富的",
+"巨大的",
+"容許的",
+"描述的"
+],
+"ex": "①空格形容 level，是法規或標準所允許的範圍。②線索是 can no longer be sold 與 far beyond。③需要形容詞，修飾 level。④超過 permissible（容許）量不能賣。",
+"status": "ok",
+"hint": "far beyond the ____ level，糖果因此不能賣，想想標準。",
+"why": [
+"(A) abundant 豐富的：「豐富的」不能表示超標的標準",
+"(B) immense 巨大的：「巨大的」不能形容標準量",
+"(C) permissible 容許的：符合，permissible level 指容許的程度",
+"(D) descriptive 描述的：「描述的」與標準無關"
+],
+"col": "permissible level 容許量；permissible limit 允許範圍。 It is not permissible. 這是不被允許的。",
+"fam": "permit v. → permission n. → permissible adj.",
+"strat": "far beyond 與 can no longer be sold，推出法定標準"
+},
+{
+"y": 109,
+"n": 11,
+"zh": "傑克上週比賽的優異表現消除了所有對他能否進入校隊的懷疑。",
+"oz": [
+"消除",
+"取消",
+"忽略",
+"取代"
+],
+"ex": "①空格是動詞，表示優異表現讓疑慮消失。②線索是 excellent performance 與 all the doubts。③需要過去分詞，接 doubts。④讓疑慮消失用 erased。",
+"status": "ok",
+"hint": "excellent performance 對 doubts 產生了什麼作用？",
+"why": [
+"(A) erased 消除：符合，erase doubts 指消除疑慮",
+"(B) canceled 取消：「取消」多指活動或計畫，不接 doubts",
+"(C) overlooked 忽略：「忽略」不是使疑慮消失",
+"(D) replaced 取代：「取代」不接 all the doubts"
+],
+"col": "erase doubts 消除疑慮；He erased the file. 他刪除了檔案。",
+"fam": "erase v. → eraser n. 橡皮擦",
+"strat": "excellent performance 的效果是疑慮消失"
+},
+{
+"y": 109,
+"n": 12,
+"zh": "嘲笑外國人的口音是霸凌，沒有人該因發音而被笑。",
+"oz": [
+"嘲笑",
+"偷偷接近",
+"提示",
+"怒視"
+],
+"ex": "①空格是動詞，表示對外國人口音做的霸凌行為。②線索是 bullying 與 laughed at for their pronunciation。③需要原形動詞，接 accent。④嘲笑別人的口音是 mock。",
+"status": "ok",
+"hint": "laughed at 與 bullying 說明對口音做的是什麼事。",
+"why": [
+"(A) mock 嘲笑：符合，mock 指嘲笑",
+"(B) sneak 偷偷接近：「偷偷接近」與嘲笑無關",
+"(C) prompt 提示：「提示」與嘲笑無關",
+"(D) glare 怒視：「怒視」不接 accent"
+],
+"col": "mock sb 嘲笑某人；mock exam 模擬考。 Don't mock his accent. 別嘲笑他的口音。",
+"fam": "mock v./adj./n. → mockery n.",
+"strat": "laughed at 與 bullying 是對口音的嘲弄"
+},
+{
+"y": 109,
+"n": 13,
+"zh": "瑪麗三個月瘦了十公斤，所以她以前緊身的牛仔褲現在掛在臀部上。",
+"oz": [
+"幾乎不",
+"均勻地",
+"目前",
+"以前"
+],
+"ex": "①空格是副詞，表示牛仔褲過去曾經緊身。②線索是 lost ten kilograms 與 now hanging off。③需要副詞，與 now 對比。④與現在相對的是 formerly。",
+"status": "ok",
+"hint": "now hanging off her hips 與 lost ten kilograms 表示和以前不同。",
+"why": [
+"(A) barely 幾乎不：「幾乎不」不是時間對比",
+"(B) evenly 均勻地：「均勻地」與時間無關",
+"(C) currently 目前：「目前」與 now 重複",
+"(D) formerly 以前：符合，formerly 指以前"
+],
+"col": "formerly known as 舊稱；a former student 前學生。 He formerly lived here. 他以前住這裡。",
+"fam": "former adj. → formerly adv.",
+"strat": "now 的對比，要找過去的時間副詞"
+},
+{
+"y": 109,
+"n": 14,
+"zh": "警察給我們看酒駕事故的照片，以強調在路上保持清醒的重要。",
+"oz": [
+"清醒的",
+"雄偉的",
+"精力旺盛的",
+"明顯的"
+],
+"ex": "①空格是形容詞，表示開車時的狀態。②線索是 drunk driving accidents 與 staying ______ on the road。③需要形容詞，接 stay。④與酒醉相反，是 sober。",
+"status": "ok",
+"hint": "drunk driving 的照片是為了強調要保持什麼狀態。",
+"why": [
+"(A) sober 清醒的：符合，stay sober 指保持清醒（沒喝酒）",
+"(B) majestic 雄偉的：「雄偉的」不能形容駕駛狀態",
+"(C) vigorous 精力旺盛的：「精力旺盛的」不等於未酒醉",
+"(D) noticeable 明顯的：「明顯的」與酒駕無關"
+],
+"col": "stay sober 保持清醒；He is sober now. 他現在清醒了。",
+"fam": "sober adj./v. → sobriety n.",
+"strat": "drunk driving 暗示要的是不酒醉"
+},
+{
+"y": 109,
+"n": 15,
+"zh": "吃巧克力能預防心臟病的說法有爭議，因為沒有足夠的科學證據支持。",
+"oz": [
+"有創意的",
+"有爭議的",
+"循環的",
+"壯麗的"
+],
+"ex": "①空格是形容詞，形容 claim，缺少證據。②線索是 not enough scientific evidence to support it。③需要形容詞。④缺乏證據的說法是 disputable（有爭議）。",
+"status": "ok",
+"hint": "not enough scientific evidence，所以這說法怎麼了。",
+"why": [
+"(A) creative 有創意的：「有創意的」不能表示缺證據",
+"(B) disputable 有爭議的：符合，disputable 指有爭議的",
+"(C) circular 循環的：「循環的」不符合說法的語意",
+"(D) magnificent 壯麗的：「壯麗的」與缺乏證據不合"
+],
+"col": "a disputable claim 有爭議的說法；dispute the result 對結果有異議。 It is disputable. 這點有爭議。",
+"fam": "dispute v./n. → disputable adj.",
+"strat": "not enough scientific evidence 是質疑"
+},
+{
+"y": 110,
+"n": 1,
+"zh": "湯姆真是個頑皮的男孩，爸媽不在時他喜歡捉弄並對妹妹開玩笑。",
+"oz": [
+"警示",
+"節省",
+"捉弄",
+"反對"
+],
+"ex": "句意：他喜歡______並對妹妹開玩笑。空格動詞與 play jokes on 並列（and），需表示惡作劇的行為。tease 為及物動詞，意為取笑、捉弄，與 naughty boy 的形象吻合，故選 tease。",
+"status": "ok",
+"hint": "注意 play jokes on 這個動作，空格填的動詞要與它並列，語意相近。",
+"why": [
+"(A) alert 警示：警示他人與「對妹妹開玩笑」無法並列",
+"(B) spare 節省：「饒過」妹妹與 play jokes on 語意矛盾",
+"(C) tease 捉弄：正解：tease 捉弄、戲弄，與 play jokes on 並列且符合頑皮形象。",
+"(D) oppose 反對：「反對」不是對妹妹做的頑皮行為"
+],
+"col": "tease sb. about sth. 就某事取笑某人；Don't tease your sister. 別捉弄你妹妹。",
+"fam": "tease v. → teasing n.（取笑）",
+"strat": "用 and 並列的 play jokes on 當線索，找語意相近的動詞"
+},
+{
+"y": 110,
+"n": 2,
+"zh": "建議年長顧客在這家店搭電梯而不要搭手扶梯，因為手扶梯可能太快讓他們站不穩。",
+"oz": [
+"通風道",
+"操作員",
+"手扶梯",
+"儀器"
+],
+"ex": "句意：建議年長者搭電梯，而不要搭______，因為它可能移動太快。空格與 the elevator 對比，且 move too fast 暗示會讓人失去平衡的設備。escalator 手扶梯在購物場所常見，故選 escalator。",
+"status": "ok",
+"hint": "空格前有 rather than，拿來和 elevator 對比，另一種在商店裡的代步設施。",
+"why": [
+"(A) airway 通風道：airway 是航道，不是商店裡讓人搭乘的設施",
+"(B) operator 操作員：operator 是操作員，不是 elevator 的對照物",
+"(C) escalator 手扶梯：正解：escalator 手扶梯，與電梯並列且會移動太快。",
+"(D) instrument 儀器：instrument 是儀器，不會「移動太快」"
+],
+"col": "take the escalator 搭手扶梯；Take the escalator to the second floor. 搭手扶梯到二樓。",
+"fam": "escalator n.（elevator 電梯為對照字）",
+"strat": "rather than 前後是對照項，找與 elevator 同類的設施"
+},
+{
+"y": 110,
+"n": 3,
+"zh": "一聽到主人的呼喚，狗搖著尾巴，乖乖地跟著她走出房間。",
+"oz": [
+"順從地",
+"顯然地",
+"合邏輯地",
+"徹底地"
+],
+"ex": "句意：狗聽到主人呼喚，搖著尾巴，______地跟著她走出房間。空格需要副詞修飾 followed。wagged its tail 與回應主人的呼喚，表示乖巧聽話，obediently 順從地最合適，故選 obediently。",
+"status": "ok",
+"hint": "空格放在句尾修飾動詞 followed，注意狗聽到呼喚後的反應。",
+"why": [
+"(A) obediently 順從地：正解：obediently 順從地，符合狗聽主人召喚。",
+"(B) apparently 顯然地：apparently 表推測，不描述狗跟著走的方式",
+"(C) logically 合邏輯地：logically 指合邏輯，狗不會「合邏輯地」跟隨",
+"(D) thoroughly 徹底地：thoroughly 是徹底地，與跟著走不搭"
+],
+"col": "obey one's master 服從主人；The dog obeyed the command. 狗服從指令。",
+"fam": "obey v. → obedient adj. → obediently adv. → obedience n.",
+"strat": "wagged its tail 與回應呼喚，推測狗的態度再選副詞"
+},
+{
+"y": 110,
+"n": 4,
+"zh": "因為許多室內植物來自潮濕的叢林環境，它們需要潮濕的空氣才能保持翠綠健康。",
+"oz": [
+"潮濕的",
+"不新鮮的",
+"酥脆的",
+"肥沃的"
+],
+"ex": "句意：許多室內植物來自濕熱的叢林，所以需要______的空氣才能保持翠綠。空格修飾 air，須是形容詞。humid jungle 暗示潮濕環境，因此植物需要 moist 空氣，故選 moist。",
+"status": "ok",
+"hint": "看 humid jungle environments，植物原生環境的空氣是什麼狀態？",
+"why": [
+"(A) moist 潮濕的：正解：moist 潮濕的，與 humid 環境呼應。",
+"(B) stale 不新鮮的：stale 指不新鮮，與濕熱叢林來源不符",
+"(C) crisp 酥脆的：crisp 是乾爽清脆，與 humid 相反",
+"(D) fertile 肥沃的：fertile 形容土壤肥沃，不能修飾 air"
+],
+"col": "moist air 濕潤的空氣；Keep the soil moist. 保持土壤濕潤。",
+"fam": "moist adj. → moisture n.（水氣）→ moisturize v.（保濕）",
+"strat": "由 humid 這個原因線索，推斷植物需要的空氣"
+},
+{
+"y": 110,
+"n": 5,
+"zh": "跳傘員從飛機跳出後成功安全著陸，即使她的降落傘在半空中沒有打開。",
+"oz": [
+"一瞥",
+"緯度",
+"部分",
+"降落傘"
+],
+"ex": "句意：跳傘員雖然______在半空中沒打開，仍安全著陸。空格需名詞，且是會打開的物品。skydiver 與 jumping out of the aircraft 提示答案是降落傘 parachute，故選 parachute。",
+"status": "ok",
+"hint": "看 skydiver 與 jump out of the aircraft，跳傘者必備的裝備是什麼？",
+"why": [
+"(A) glimpse 一瞥：glimpse 是一瞥，不會「沒打開」",
+"(B) latitude 緯度：latitude 是緯度，與跳傘及安全著陸無關",
+"(C) segment 部分：segment 是部分，不是跳傘的裝備",
+"(D) parachute 降落傘：正解：parachute 降落傘，是跳傘必備且需要打開。"
+],
+"col": "open a parachute 打開降落傘；The parachute opened safely. 降落傘順利打開。",
+"fam": "parachute n./v.（用降落傘降落）",
+"strat": "skydiver 加 failed to open，找會打開的跳傘裝備"
+},
+{
+"y": 110,
+"n": 6,
+"zh": "用來驅動重型機器的蒸汽機的發明，為社會帶來革命性的改變。",
+"oz": [
+"有說服力的",
+"和諧的",
+"傳統的",
+"革命性的"
+],
+"ex": "句意：蒸汽機的發明為社會帶來______的改變。空格形容 change，需是影響深遠的描述。蒸汽機推動工業，是劃時代轉變，revolutionary 革命性的最合適，故選 revolutionary。",
+"status": "ok",
+"hint": "注意 brought about 與 steam engine 這類大發明，會帶來怎樣程度的變化？",
+"why": [
+"(A) persuasive 有說服力的：persuasive 形容說服力，蒸汽機不是靠說服改變社會",
+"(B) harmonious 和諧的：harmonious 和諧，和機器帶來的大變動無關",
+"(C) conventional 傳統的：conventional 傳統，與新發明造成的改變相反",
+"(D) revolutionary 革命性的：正解：revolutionary 革命性的，符合蒸汽機的重大影響。"
+],
+"col": "a revolutionary change 革命性的改變；a revolutionary idea 劃時代的想法",
+"fam": "revolution n. → revolutionary adj. / revolve v.",
+"strat": "brought about 加重大發明，選表示劃時代程度的形容詞"
+},
+{
+"y": 110,
+"n": 7,
+"zh": "為了鼓勵課堂互動，老師把班上分成小組，請他們與同伴一起解決問題。",
+"oz": [
+"操作",
+"互動",
+"調整",
+"解釋"
+],
+"ex": "句意：為了鼓勵課堂______，老師分組讓學生與夥伴一起解題。空格需名詞，且與 together with their partners 呼應，指人與人之間的往來。interaction 互動最合適，故選 interaction。",
+"status": "ok",
+"hint": "看 divided into groups 與 solve a problem together，老師想鼓勵的是學生之間的什麼？",
+"why": [
+"(A) operation 操作：operation 是操作，與分組討論的合作互動不同",
+"(B) interaction 互動：正解：interaction 互動，符合分組合作的情境。",
+"(C) adjustment 調整：adjustment 是調整，分組解題不是為了調整",
+"(D) explanation 解釋：explanation 是解釋，重點在一起解題而非單方解說"
+],
+"col": "classroom interaction 課堂互動；interact with sb. 與某人互動",
+"fam": "interact v. → interaction n. → interactive adj.",
+"strat": "together with partners 暗示人與人往來，選名詞"
+},
+{
+"y": 110,
+"n": 8,
+"zh": "麗莎昨天打籃球時跌倒在地，扭傷了腳踝。",
+"oz": [
+"埋",
+"用拳打",
+"散布",
+"跌倒"
+],
+"ex": "句意：Lisa 打籃球時______到地上，扭傷腳踝。空格需不及物動詞，加 onto the ground 表摔倒的動作。tumble 為失去平衡跌倒，符合意外受傷，故選 tumbled。",
+"status": "ok",
+"hint": "空格後接 onto the ground，且造成腳踝受傷，想想打球時的意外動作。",
+"why": [
+"(A) buried 埋：buried 是埋，Lisa 不會自己「埋到地上」",
+"(B) punched 用拳打：punched 是揮拳，onto the ground 不能接",
+"(C) scattered 散布：scattered 是散落，主詞是單一的人，動作不合",
+"(D) tumbled 跌倒：正解：tumbled 跌倒，符合打球意外摔傷。"
+],
+"col": "tumble down the stairs 從樓梯滾落；He tumbled off his bike. 他從單車上摔下來。",
+"fam": "tumble v./n.（跌倒）",
+"strat": "onto the ground 加 injured her ankle，推斷意外摔倒的動作"
+},
+{
+"y": 110,
+"n": 9,
+"zh": "數百名居民收到市政府提供的免費檢測包，以查明他們的水是否含有有害化學物質。",
+"oz": [
+"工具包",
+"試驗",
+"區域",
+"證明"
+],
+"ex": "句意：數百位居民從市政府拿到免費檢測______，以確認水中有無有害化學物。空格接在 testing 之後構成複合名詞，指檢測用的成套工具。testing kits 檢測套組最自然，故選 kits。",
+"status": "ok",
+"hint": "看 find out if their water contained harmful chemicals，居民拿到什麼東西來檢驗水？",
+"why": [
+"(A) kits 工具包：正解：kits 套組，testing kits 指檢測工具包。",
+"(B) trials 試驗：trials 是試驗，居民不是領取「試驗」來驗水",
+"(C) zones 區域：zones 是區域，領不到區域",
+"(D) proofs 證明：proofs 是證明，不是能領取的檢測物品"
+],
+"col": "test kit 檢測套組；a first-aid kit 急救箱",
+"fam": "kit n.（成套工具）",
+"strat": "free testing ___ 要選能發放給居民的檢測物品"
+},
+{
+"y": 110,
+"n": 10,
+"zh": "2011 年諾貝爾和平獎共同頒給三位女性，表彰她們為爭取女權所做的努力。",
+"oz": [
+"積極地",
+"認真地",
+"共同地",
+"自然地"
+],
+"ex": "句意：2011 年諾貝爾和平獎______頒給三位女性。空格是副詞修飾 awarded，三人同獲一個獎，應是共同。jointly 共同地最合適，故選 jointly。",
+"status": "ok",
+"hint": "看空格修飾 awarded，且三位女性一起得獎，想想獎項怎麼被「給予」。",
+"why": [
+"(A) actively 積極地：actively 是積極地，頒獎並非獲獎者主動",
+"(B) earnestly 認真地：earnestly 是認真地，不描述頒獎方式",
+"(C) jointly 共同地：正解：jointly 共同地，說明三人共同獲獎。",
+"(D) naturally 自然地：naturally 是自然地，與三人同獲一獎無關"
+],
+"col": "jointly owned 共同擁有；award a prize jointly 共同頒獎",
+"fam": "joint adj./n. → jointly adv.",
+"strat": "三位女性共得一個獎，用副詞表示頒獎方式"
+},
+{
+"y": 110,
+"n": 11,
+"zh": "在執行長的英明領導下，公司蓬勃發展並賺取豐厚利潤。",
+"oz": [
+"鼓掌",
+"蓬勃發展",
+"循環",
+"超過"
+],
+"ex": "句意：在執行長英明領導下，公司______並賺取巨額利潤。空格是與 making great profits 並列的進行式動詞。flourishing 蓬勃發展與賺大錢相符，故選 flourishing。",
+"status": "ok",
+"hint": "注意 making great profits 與 wise leadership，公司的狀態如何？",
+"why": [
+"(A) applauding 鼓掌：applauding 是鼓掌，公司不會鼓掌",
+"(B) flourishing 蓬勃發展：正解：flourishing 蓬勃發展，與獲利豐厚相符。",
+"(C) circulating 循環：circulating 是流通，不能表示賺大錢",
+"(D) exceeding 超過：exceeding 是超越，後面沒有受詞可接"
+],
+"col": "flourish 繁榮；The business flourished. 生意興隆。",
+"fam": "flourish v. → flourishing adj.",
+"strat": "and 後與 making great profits 並列，選表成功的詞"
+},
+{
+"y": 110,
+"n": 12,
+"zh": "明明連駕照都沒有，卻把錢浪費在昂貴的車上，簡直荒謬。",
+"oz": [
+"荒謬的",
+"謹慎的",
+"精力旺盛的",
+"頑固的"
+],
+"ex": "句意：連駕照都沒有卻花錢買貴車，絕對是______。空格需形容詞，用 It is ... to V 結構。連駕照都沒有就買豪車很不合理，absurd 荒謬的最貼切，故選 absurd。",
+"status": "ok",
+"hint": "看 waste your money 與 cannot even get a driver's license，這種行為給人什麼感覺？",
+"why": [
+"(A) absurd 荒謬的：正解：absurd 荒謬的，描述不合理的行為。",
+"(B) cautious 謹慎的：cautious 謹慎，與浪費錢的行為相反",
+"(C) vigorous 精力旺盛的：vigorous 是有活力，不是評價買車合不合理",
+"(D) obstinate 頑固的：obstinate 是頑固，形容人而非行為"
+],
+"col": "an absurd idea 荒謬的想法；It is absurd to V. 做……很荒唐",
+"fam": "absurd adj. → absurdity n. / absurdly adv.",
+"strat": "cannot even get a license 暗示行為不合理，選評價形容詞"
+},
+{
+"y": 110,
+"n": 13,
+"zh": "非法藥物使用的問題很複雜，不能只歸因於單一原因。",
+"oz": [
+"單一的",
+"可數的",
+"有利的",
+"防衛的"
+],
+"ex": "句意：毒品問題很複雜，不能只歸因於單一原因。空格修飾 reason，與 one 搭配表示唯一。singular 在此是單一的，符合 merely one 之意，故選 singular。",
+"status": "ok",
+"hint": "看空格前的 one 與前面的 cannot be traced to merely，原因的數量怎麼描述？",
+"why": [
+"(A) singular 單一的：正解：singular 單一的，與 merely one 呼應。",
+"(B) countable 可數的：countable 是文法用語，不能形容原因",
+"(C) favorable 有利的：favorable 是有利的，與 merely one 的數量無關",
+"(D) defensive 防衛的：defensive 是防衛的，不能修飾 reason"
+],
+"col": "a singular event 單一事件；singular and plural 單數與複數",
+"fam": "singular adj. → singularity n.",
+"strat": "merely one 暗示單一，選能修飾 reason 表數量的詞"
+},
+{
+"y": 110,
+"n": 14,
+"zh": "這個非營利組織承諾五年內投入一百萬美元，資助醫療中心的興建。",
+"oz": [
+"裝備",
+"決心",
+"承諾投入",
+"使聯合"
+],
+"ex": "句意：非營利組織五年內______一百萬美元來資助醫療中心。空格需及物動詞，後接金額。committed 在此意指承諾投入資金，故選 committed。",
+"status": "ok",
+"hint": "看 $1 million over five years to finance，組織對這筆錢做了什麼承諾？",
+"why": [
+"(A) equipped 裝備：equipped 後接被裝備的人事，不接金額",
+"(B) resolved 決心：resolved 指決定，不直接接 $1 million",
+"(C) committed 承諾投入：正解：committed 承諾投入，commit money to 投入資金。",
+"(D) associated 使聯合：associated 是使聯想，與出資無關"
+],
+"col": "commit money to sth. 投入資金；commit oneself to 致力於",
+"fam": "commit v. → commitment n.",
+"strat": "$1 million over five years 加 to finance，找出資動詞"
+},
+{
+"y": 110,
+"n": 15,
+"zh": "颱風過後一週，一些橋梁終於開通，受災最嚴重的地區公車服務也恢復了。",
+"oz": [
+"出發",
+"恢復",
+"運送",
+"相符"
+],
+"ex": "句意：颱風一週後，一些橋重新開放，公車服務也______了。空格是不及物動詞，主詞是 bus service。服務停擺後再度開始用 resumed 恢復，故選 resumed。",
+"status": "ok",
+"hint": "注意 One week after the typhoon 與 bridges were finally opened，公車服務會怎樣？",
+"why": [
+"(A) departed 出發：departed 是出發，bus service 不能「出發」",
+"(B) resumed 恢復：正解：resumed 恢復，符合颱風後服務重新開始。",
+"(C) transported 運送：transported 是運送，缺受詞",
+"(D) corresponded 相符：corresponded 是相符，與服務恢復無關"
+],
+"col": "resume service 恢復服務；resume work 恢復工作",
+"fam": "resume v. → resumption n.",
+"strat": "One week after 與 finally opened，選表示重新開始的動詞"
+},
+{
+"y": 111,
+"n": 1,
+"zh": "傑佛瑞不想煮飯時，常在網路上訂披薩並請人送到家。",
+"oz": [
+"提前的",
+"送達的",
+"提供的",
+"伸展的"
+],
+"ex": "句意：他常在網上訂披薩，叫人把它______到家。has it + p.p. 表被動完成，且 orders pizza online 指送貨。delivered 送達最合適，故選 delivered。",
+"status": "ok",
+"hint": "注意 has it ______ to his house，句型是 have + 受詞 + 過去分詞。",
+"why": [
+"(A) advanced 提前的：advanced 是提前的，不能接 to his house",
+"(B) delivered 送達的：正解：delivered 送達，have it delivered 叫人送來。",
+"(C) offered 提供的：offered 是提供，披薩不是被「提供」到家",
+"(D) stretched 伸展的：stretched 是伸展，與外送無關"
+],
+"col": "have sth. delivered 請人把某物送來；deliver food 送餐",
+"fam": "deliver v. → delivery n.",
+"strat": "has it + 空格，用 have it p.p. 結構並看 order online"
+},
+{
+"y": 111,
+"n": 2,
+"zh": "珍是我有過最好的助理，我無法想像沒有她的幫忙怎麼經營辦公室。",
+"oz": [
+"助理",
+"影響",
+"貢獻",
+"政客"
+],
+"ex": "句意：Jane 是我遇過最棒的______，沒有她我無法經營辦公室。空格需指人的名詞，且是辦公室中協助的人。assistant 助理最合適，故選 assistant。",
+"status": "ok",
+"hint": "注意 running my office without her help，這個人在辦公室扮演什麼角色？",
+"why": [
+"(A) assistant 助理：正解：assistant 助理，符合辦公室情境。",
+"(B) influence 影響：influence 是影響，不是能幫忙的人",
+"(C) contribution 貢獻：contribution 是貢獻，不是人",
+"(D) politician 政客：politician 是政客，與辦公室助手無關"
+],
+"col": "personal assistant 私人助理；an assistant manager 副理",
+"fam": "assist v. → assistant n. / assistance n.",
+"strat": "without her help 暗示空格要填協助自己的人"
+},
+{
+"y": 111,
+"n": 3,
+"zh": "廟方以十天的獅陣、歌仔戲和傳統布袋戲表演慶祝媽祖節。",
+"oz": [
+"閒聊",
+"測驗",
+"木偶",
+"綜藝"
+],
+"ex": "句意：廟宇辦了十天舞獅、歌仔戲和傳統手______秀。hand ______ shows 是複合名詞，指用手操作的傳統戲。hand puppet 手偶，符合媽祖遶境的傳統活動，故選 puppet。",
+"status": "ok",
+"hint": "看前面的 lion dances、Taiwanese operas，空格要與後面 shows 搭配成一種傳統表演。",
+"why": [
+"(A) chat 閒聊：chat 閒聊，hand chat 不是傳統表演",
+"(B) quiz 測驗：quiz 是測驗，hand quiz 不是廟會節目",
+"(C) puppet 木偶：正解：puppet 木偶，hand puppet shows 是傳統戲。",
+"(D) variety 綜藝：variety 是綜藝，hand variety 不成詞"
+],
+"col": "puppet show 木偶戲；a hand puppet 布袋戲偶",
+"fam": "puppet n.（木偶）→ puppeteer n.",
+"strat": "與 lion dances、operas 並列，hand 後接傳統表演"
+},
+{
+"y": 111,
+"n": 4,
+"zh": "這種新疫苗因具有潛在致命的副作用而被食藥署禁用。",
+"oz": [
+"潛在地",
+"細緻地",
+"含糊地",
+"可選擇地"
+],
+"ex": "句意：新疫苗因其______致命的副作用被禁。空格是副詞修飾 fatal。被禁是因為有可能致命，potentially 潛在地最合適，故選 potentially。",
+"status": "ok",
+"hint": "看 banned 與 fatal side effects，空格修飾 fatal，想想為何會被禁。",
+"why": [
+"(A) potentially 潛在地：正解：potentially 潛在地，說明可能出現致命副作用。",
+"(B) delicately 細緻地：delicately 是細緻地，不能修飾 fatal",
+"(C) ambiguously 含糊地：ambiguously 是含糊地，與副作用致命無關",
+"(D) optionally 可選擇地：optionally 是可選地，副作用不是選擇的"
+],
+"col": "potentially dangerous 有潛在危險；potentially fatal 可能致命",
+"fam": "potential adj./n. → potentially adv.",
+"strat": "banned 的原因是 fatal，選修飾 fatal 的副詞"
+},
+{
+"y": 111,
+"n": 5,
+"zh": "為照片加上日期與關鍵字標籤，能幫助你輕鬆在檔案中分類。",
+"oz": [
+"加標籤",
+"聚集",
+"滾動",
+"快拍"
+],
+"ex": "句意：給照片加上日期和關鍵字有助分類。句首是動名詞做主詞，需要動作與 dates and keywords 搭配。tagging 加標籤符合整理照片，故選 Tagging。",
+"status": "ok",
+"hint": "句首空格後接 the photos，且 help you sort 說明這個動作要達成什麼目的。",
+"why": [
+"(A) Tagging 加標籤：正解：Tagging 加標籤，符合用日期關鍵字標記照片。",
+"(B) Flocking 聚集：Flocking 是聚集，不能用於整理照片",
+"(C) Rolling 滾動：Rolling 是滾動，與加日期關鍵字無關",
+"(D) Snapping 快拍：Snapping 是快拍，不是標記已有照片"
+],
+"col": "tag a photo 在照片上加標籤；hashtag 主題標籤",
+"fam": "tag v./n. → tagging n.",
+"strat": "with dates and keywords 暗示替照片貼標籤"
+},
+{
+"y": 111,
+"n": 6,
+"zh": "隨和的人通常令人愉快又容易相處，但別期望他或她總是對每件事都說好。",
+"oz": [
+"巨大的",
+"親密的",
+"隨和的",
+"最終的"
+],
+"ex": "句意：______的人通常令人愉快易相處，但別指望他總說好。空格前是 An，需母音開頭形容詞，且描述好相處。agreeable 隨和的，符合易相處，故選 agreeable。",
+"status": "ok",
+"hint": "看 pleasant、easy to get along with，但 don't expect always say yes，找一個符合此人格的形容詞。",
+"why": [
+"(A) enormous 巨大的：enormous 是巨大，不形容人好相處",
+"(B) intimate 親密的：intimate 是親密，不等於易相處",
+"(C) agreeable 隨和的：正解：agreeable 隨和的，符合好相處。",
+"(D) ultimate 最終的：ultimate 是最終，不能形容人的個性"
+],
+"col": "an agreeable person 隨和的人；agreeable weather 宜人的天氣",
+"fam": "agree v. → agreeable adj. / agreement n.",
+"strat": "pleasant、easy to get along with，選形容個性的詞"
+},
+{
+"y": 111,
+"n": 7,
+"zh": "藏在小巷深處、夾在各種小店之間，這家米其林餐廳的入口行人幾乎看不到。",
+"oz": [
+"完全相同的",
+"看得見的",
+"可得到的",
+"非凡的"
+],
+"ex": "句意：米其林餐廳入口藏在小巷深處，路人幾乎______不到。barely 搭配 visible，表示幾乎看不見，與 Hidden 呼應，故選 visible。",
+"status": "ok",
+"hint": "看 Hidden deep in a small alley，門口藏在巷弄裡，對路人來說是什麼狀態？",
+"why": [
+"(A) identical 完全相同的：identical 是相同，不是看不看得見",
+"(B) visible 看得見的：正解：visible 看得見的，barely visible 幾乎看不見。",
+"(C) available 可得到的：available 是可取得，不是看得見",
+"(D) remarkable 非凡的：remarkable 是非凡，與被藏起來矛盾"
+],
+"col": "barely visible 幾乎看不見；visible to the naked eye 肉眼可見",
+"fam": "visible adj. → visibility n. / invisible adj.",
+"strat": "Hidden 與 barely 暗示幾乎不被看見，選感官形容詞"
+},
+{
+"y": 111,
+"n": 8,
+"zh": "我環島旅行的原始預算是五千元，但最終的花費可能高出百分之五十。",
+"oz": [
+"適度的",
+"絕對的",
+"有前途的",
+"最終的"
+],
+"ex": "句意：原本預算五千元，但______花費可能高出五成。original 與空格對比，需指最後的結果。eventual 最終的符合，故選 eventual。",
+"status": "ok",
+"hint": "看 original budget，對照 NT$5,000，空格要表示最後實際的花費。",
+"why": [
+"(A) moderate 適度的：moderate 是適度，不指最後結果",
+"(B) absolute 絕對的：absolute 是絕對，不與 original 對照",
+"(C) promising 有前途的：promising 是有前途，不修飾 cost",
+"(D) eventual 最終的：正解：eventual 最終的，與 original 預算對比。"
+],
+"col": "the eventual cost 最終費用；the eventual winner 最後的贏家",
+"fam": "eventual adj. → eventually adv.",
+"strat": "original 與空格呈對照，找表示最後結果的詞"
+},
+{
+"y": 111,
+"n": 9,
+"zh": "看完自然史電視節目後，亞當決定前往南達科他州尋找恐龍化石。",
+"oz": [
+"試驗",
+"路線",
+"罷工",
+"探尋"
+],
+"ex": "句意：亞當決定去南達科他州______恐龍化石。go on a ______ for sth. 表示展開尋找，quest 探尋最合適，故選 quest。",
+"status": "ok",
+"hint": "空格前是 go on a，後接 for dinosaur fossils，想想「尋找」的名詞。",
+"why": [
+"(A) trial 試驗：trial 是試驗，與尋找化石不搭",
+"(B) route 路線：route 是路線，go on a route 不成立",
+"(C) strike 罷工：strike 是罷工，與尋找化石無關",
+"(D) quest 探尋：正解：quest 探尋，go on a quest for 搭配。"
+],
+"col": "a quest for sth. 追尋某物；a quest for knowledge 求知之旅",
+"fam": "quest n./v.",
+"strat": "go on a ___ for 是固定結構，表示出發尋找"
+},
+{
+"y": 111,
+"n": 10,
+"zh": "粉紅色櫻花處處盛開，山谷在明媚春光下像年輕新娘般泛紅。",
+"oz": [
+"彈跳",
+"臉紅",
+"擦亮",
+"轉移"
+],
+"ex": "句意：粉紅櫻花盛開，山谷在春陽下像新娘般______。空格是第三人稱單數動詞，和 bride 對照臉頰泛紅。blushes 臉紅，表示粉紅色，故選 blushes。",
+"status": "ok",
+"hint": "看 like a young bride 與 pink cherry blossoms，想想新娘和櫻花的共同感覺。",
+"why": [
+"(A) bounces 彈跳：bounces 是彈跳，山谷不會彈跳",
+"(B) blushes 臉紅：正解：blushes 臉紅，形容粉紅色如新娘。",
+"(C) polishes 擦亮：polishes 是擦亮，缺受詞且山谷不能擦亮自己",
+"(D) transfers 轉移：transfers 是轉移，與櫻花盛開無關"
+],
+"col": "blush with shame 羞愧臉紅；a blushing bride 臉紅的新娘",
+"fam": "blush v./n.",
+"strat": "like a young bride 暗示臉頰泛紅，連結粉紅櫻花"
+},
+{
+"y": 112,
+"n": 1,
+"zh": "公車司機常抱怨乘客座位下的口香糖，因為黏黏的而且很難清除。",
+"oz": [
+"黏的",
+"油膩的",
+"笨拙的",
+"強大的"
+],
+"ex": "句意：司機抱怨口香糖又______又很難清除。空格是形容詞，與 hard to remove 連用，描述口香糖的性質。sticky 黏的符合，故選 sticky。",
+"status": "ok",
+"hint": "看口香糖 hard to remove，空格要描述它的觸感或狀態。",
+"why": [
+"(A) sticky 黏的：正解：sticky 黏的，說明口香糖不易清除。",
+"(B) greasy 油膩的：greasy 是油膩，口香糖不是油的特性",
+"(C) clumsy 笨拙的：clumsy 是笨拙，只能形容人",
+"(D) mighty 強大的：mighty 是強大，與難清除無關"
+],
+"col": "sticky note 便利貼；sticky fingers 黏手",
+"fam": "stick v. → sticky adj.",
+"strat": "hard to remove 暗示口香糖附著的特性"
+},
+{
+"y": 112,
+"n": 2,
+"zh": "傑西是有天分的模特兒，拍照時能輕易擺出優雅的姿勢。",
+"oz": [
+"拍手",
+"丟",
+"姿勢",
+"啪地一聲"
+],
+"ex": "句意：傑西是有才華的模特兒，能輕鬆為拍攝擺出優雅的______。adopt 與 elegant 後需名詞，指姿態。pose 姿勢，故選 pose。",
+"status": "ok",
+"hint": "看 talented model 與 camera shoot，空格前 elegant，想想模特兒擺出什麼。",
+"why": [
+"(A) clap 拍手：clap 是拍手，不是姿態",
+"(B) toss 丟：toss 是丟，不能被模特兒 adopt",
+"(C) pose 姿勢：正解：pose 姿勢，strike/adopt a pose 擺姿勢。",
+"(D) snap 啪地一聲：snap 是啪的一聲，不是優雅的姿態"
+],
+"col": "strike a pose 擺姿勢；pose for a photo 擺姿勢拍照",
+"fam": "pose n./v.",
+"strat": "talented model 加 elegant，選模特兒擺出的名詞"
+},
+{
+"y": 112,
+"n": 3,
+"zh": "為了畫家族樹，瑪麗試著追溯她的祖先，直到他們抵達北美。",
+"oz": [
+"兄弟姊妹",
+"通勤者",
+"祖先",
+"講師"
+],
+"ex": "句意：為了畫家譜，瑪莉追溯她的______到他們抵達北美時。family tree 追溯的是前人。ancestors 祖先最合適，故選 ancestors。",
+"status": "ok",
+"hint": "看 family tree 與 trace her ______ back，想想族譜追溯的是誰。",
+"why": [
+"(A) siblings 兄弟姊妹：siblings 是同輩手足，無法追溯到抵達北美時",
+"(B) commuters 通勤者：commuters 是通勤族，與家譜無關",
+"(C) ancestors 祖先：正解：ancestors 祖先，符合家譜追溯。",
+"(D) instructors 講師：instructors 是講師，與家譜無關"
+],
+"col": "trace one's ancestors 追溯祖先；ancestor worship 祖先崇拜",
+"fam": "ancestor n. → ancestral adj. / ancestry n.",
+"strat": "family tree 與 trace back，推斷追溯的對象是前代"
+},
+{
+"y": 112,
+"n": 4,
+"zh": "接獲超級颱風警報後，南茜衝到超市，卻發現貨架幾乎是空的，存貨快沒了。",
+"oz": [
+"空白的",
+"空的",
+"中空的",
+"奇怪的"
+],
+"ex": "句意：南希衝去超市，發現貨架幾乎______，存貨快沒了。空格形容 shelves，與 stock nearly gone 呼應。bare 表示空蕩蕩，故選 bare。",
+"status": "ok",
+"hint": "看 shelves 與 the stock nearly gone，貨架變成什麼狀態？",
+"why": [
+"(A) blank 空白的：blank 是空白，通常指沒寫東西，不形容無貨",
+"(B) bare 空的：正解：bare 空的，almost bare shelves 貨架幾乎空了。",
+"(C) hollow 中空的：hollow 是中空，形容內部空，不是沒存貨",
+"(D) queer 奇怪的：queer 是奇怪，與缺貨無關"
+],
+"col": "bare shelves 空蕩的貨架；bare hands 赤手",
+"fam": "bare adj./v. → barely adv.",
+"strat": "the stock nearly gone 說明貨架沒有東西"
+},
+{
+"y": 112,
+"n": 5,
+"zh": "即使傑克當面對我說了「抱歉」，我在他的道歉中感覺不到任何誠意。",
+"oz": [
+"責任",
+"慷慨",
+"正直",
+"誠意"
+],
+"ex": "句意：傑克親口道歉，但我感覺不到他道歉的______。連接 apology 的名詞應是誠意。sincerity 誠意最合適，故選 sincerity。",
+"status": "ok",
+"hint": "看 said \"Sorry!\" in person 與 did not feel any ______ in his apology，缺少的是道歉裡的什麼。",
+"why": [
+"(A) liability 責任：liability 是責任，與道歉裡的感受無關",
+"(B) generosity 慷慨：generosity 是慷慨，不是道歉要有的",
+"(C) integrity 正直：integrity 是正直，不是道歉的真誠度",
+"(D) sincerity 誠意：正解：sincerity 誠意，sincerity in an apology。"
+],
+"col": "with sincerity 真誠地；doubt one's sincerity 懷疑某人誠意",
+"fam": "sincere adj. → sincerely adv. → sincerity n.",
+"strat": "Sorry 說了但沒感覺，缺的是道歉中的真誠"
+},
+{
+"y": 112,
+"n": 6,
+"zh": "我祖父的記憶力驚人，他仍能生動描述孩童時第一天上學的情景。",
+"oz": [
+"決心",
+"片段",
+"特權",
+"回憶力"
+],
+"ex": "句意：祖父有驚人的______力，仍能生動描述入學第一天。powers of recall 是固定搭配，指記憶力，故選 recall。",
+"status": "ok",
+"hint": "看 powers of ______ 與 vividly describe first day at school，想想老人家厲害的是哪種能力。",
+"why": [
+"(A) resolve 決心：resolve 是決心，與描述往事無關",
+"(B) fraction 片段：fraction 是片段，powers of fraction 不成詞",
+"(C) privilege 特權：privilege 是特權，與記憶力無關",
+"(D) recall 回憶力：正解：recall 回憶力，powers of recall。"
+],
+"col": "total recall 完全回想；recall a memory 回想往事",
+"fam": "recall v./n.",
+"strat": "powers of 後接能力，從 vividly describe 推斷記憶"
+},
+{
+"y": 112,
+"n": 7,
+"zh": "近期研究發現許多證據可反駁藥廠對其「神奇」抗癌藥片的說法。",
+"oz": [
+"挑起",
+"反駁",
+"揭露",
+"轉換"
+],
+"ex": "句意：近期研究有很多證據來______藥廠對神奇藥片的說法。證據用來駁斥說法，用 counter 反駁，故選 counter。",
+"status": "ok",
+"hint": "看 evidence to ______ the claims，這個動作要針對藥廠的說法，想想研究證據與其關係。",
+"why": [
+"(A) provoke 挑起：provoke 是激怒，不接 claims",
+"(B) counter 反駁：正解：counter 反駁，符合證據推翻說法。",
+"(C) expose 揭露：expose 是揭露，較重在曝光而非反駁說法",
+"(D) convert 轉換：convert 是轉換，與推翻說法無關"
+],
+"col": "counter a claim 反駁說法；counter argument 反論點",
+"fam": "counter v./n. → counterpart n.",
+"strat": "evidence 對 claims 要有反駁關係，找表示推翻的詞"
+},
+{
+"y": 112,
+"n": 8,
+"zh": "貪腐官員和錯誤政策使國家經濟癱瘓，並讓人民背負龐大外債。",
+"oz": [
+"使癱瘓",
+"加速",
+"使成為",
+"冒險"
+],
+"ex": "句意：貪官和錯誤政策已______國家經濟，並使人民背負外債。空格需要與負面結果相符的動詞，cripple 使癱瘓、嚴重受損最合適，故選 crippled。",
+"status": "ok",
+"hint": "看 Corrupt officials and misguided policies 與 burdened its people，這些對經濟造成什麼影響？",
+"why": [
+"(A) crippled 使癱瘓：正解：crippled 使癱瘓，描述嚴重傷害經濟。",
+"(B) accelerated 加速：accelerated 是加速，與負面結果不符",
+"(C) rendered 使成為：rendered 需補語，接 economy 後語意不通",
+"(D) ventured 冒險：ventured 是冒險，不接受詞 economy"
+],
+"col": "cripple the economy 重創經濟；crippled by debt 被債務拖垮",
+"fam": "cripple v./n.",
+"strat": "burdened its people 是負面，推斷動詞也要有負面結果"
+},
+{
+"y": 112,
+"n": 9,
+"zh": "由於球迷人數創紀錄來看棒球決賽，球場周圍的公路整天塞滿車輛。",
+"oz": [
+"堵塞的",
+"被打擾的",
+"被圍住的",
+"被注射的"
+],
+"ex": "句意：棒球決賽球迷人數創紀錄，球場周圍公路整天被車流______。be choked with traffic 表示被車塞滿，故選 choked。",
+"status": "ok",
+"hint": "看 highways ... with traffic，空格後 with，想想球迷多時道路的狀況。",
+"why": [
+"(A) choked 堵塞的：正解：choked 堵塞的，be choked with traffic 塞車。",
+"(B) disturbed 被打擾的：disturbed 是被打擾，不搭 with traffic",
+"(C) enclosed 被圍住的：enclosed 是被圍住，不是塞車",
+"(D) injected 被注射的：injected 是被注射，與道路無關"
+],
+"col": "be choked with sth. 被某物塞滿；choke on 噎到",
+"fam": "choke v. → choked adj.",
+"strat": "highways 與 traffic，用 be ___ with traffic 找塞車的詞"
+},
+{
+"y": 112,
+"n": 10,
+"zh": "研究顯示，據稱無偏見的媒體其實常深受政治意識形態影響。",
+"oz": [
+"無疑地",
+"大約",
+"可理解地",
+"據稱地"
+],
+"ex": "句意：研究顯示，______公正的媒體其實常受政治意識形態影響。in fact 與前面形成對比，表示表面如此但不屬實。supposedly 據稱地最合適，故選 supposedly。",
+"status": "ok",
+"hint": "注意 unbiased media 與 in fact often deeply influenced，前後語意形成反差，用來標明說法並非事實。",
+"why": [
+"(A) undoubtedly 無疑地：undoubtedly 與 in fact 的反差矛盾",
+"(B) roughly 大約：roughly 是大約，不修飾 unbiased",
+"(C) understandably 可理解地：understandably 是可理解地，與媒體是否公正無關",
+"(D) supposedly 據稱地：正解：supposedly 據稱地，與事實形成對比。"
+],
+"col": "supposedly safe 據說安全；be supposed to V 應該",
+"fam": "suppose v. → supposed adj. → supposedly adv.",
+"strat": "in fact 轉折，推斷前面是「號稱」的說法"
+},
+{
+"y": 113,
+"n": 1,
+"zh": "想要苗條身材的人應該規律運動並維持健康飲食。",
+"oz": [
+"辛辣的",
+"苗條的",
+"輕微的",
+"滑溜的"
+],
+"ex": "句意：想要______身材的人，應該規律運動與健康飲食。空格形容 figure，且與運動有關，slender 苗條的最合適，故選 slender。",
+"status": "ok",
+"hint": "看 figure 與 exercise regularly，想想人想要的身材是什麼樣。",
+"why": [
+"(A) spicy 辛辣的：spicy 是辛辣，形容食物而非身材",
+"(B) slender 苗條的：正解：slender 苗條的，描述身材。",
+"(C) slight 輕微的：slight 是輕微，不是人人想要的身材",
+"(D) slippery 滑溜的：slippery 是滑溜，形容表面"
+],
+"col": "a slender figure 纖細身材；slender fingers 纖長手指",
+"fam": "slender adj.",
+"strat": "figure 與 exercise，選形容理想身材的詞"
+},
+{
+"y": 113,
+"n": 2,
+"zh": "看太陽從雲海中升起，是所有遊客到阿里山必做的活動。",
+"oz": [
+"浮現",
+"閃爍",
+"衝",
+"漂浮"
+],
+"ex": "句意：看太陽從雲海中______，是所有遊客到阿里山必做的事。watch + 受詞 + V-ing，太陽從雲中升起，emerging 浮現，故選 emerging。",
+"status": "ok",
+"hint": "看 sea of clouds 與 Ali Mountain，想想看日出時太陽如何出現。",
+"why": [
+"(A) emerging 浮現：正解：emerging 浮現，emerge from the clouds。",
+"(B) flashing 閃爍：flashing 是閃爍，不是日出的方式",
+"(C) rushing 衝：rushing 是衝，太陽不會「衝」出雲海",
+"(D) floating 漂浮：floating 是漂浮，沒有升起的意思"
+],
+"col": "emerge from 從……出現；emerge as a leader 嶄露頭角",
+"fam": "emerge v. → emergence n. / emergency n.",
+"strat": "sun 與 sea of clouds，推斷日出時從雲中出現"
+},
+{
+"y": 113,
+"n": 3,
+"zh": "你知道下一班公車幾點到嗎？我在這裡已經等超過三十分鐘了。",
+"oz": [
+"易於",
+"預定到達的",
+"受限於",
+"停靠的"
+],
+"ex": "句意：你知道下一班公車幾點______嗎？我已等了三十多分鐘。be due 表示預定到達，是固定搭配，故選 due。",
+"status": "ok",
+"hint": "看 the next bus is ______ 與 waiting for more than 30 minutes，想想公車預計何時到。",
+"why": [
+"(A) apt 易於：apt 是易於，apt to 後接動詞而非時間",
+"(B) due 預定到達的：正解：due 預定到達，be due at/to arrive。",
+"(C) bound 受限於：bound 是將前往，bound for 才指方向",
+"(D) docked 停靠的：docked 是靠岸，只用於船"
+],
+"col": "The train is due at 5. 火車預定五點到；due date 到期日",
+"fam": "due adj. → duly adv.",
+"strat": "next bus 與 waiting，選預定到站的詞"
+},
+{
+"y": 113,
+"n": 4,
+"zh": "酷熱和高濕度讓我覺得又熱又黏，不管怎麼降溫都一樣。",
+"oz": [
+"密度",
+"濕度",
+"循環",
+"氣氛"
+],
+"ex": "句意：酷熱和高______讓我又熱又黏，怎麼降溫都沒用。high 後接名詞，hot and sticky 說明濕度高，故選 humidity。",
+"status": "ok",
+"hint": "看 roasting heat 與 hot and sticky，想想悶熱黏膩感來自濕氣還是什麼。",
+"why": [
+"(A) density 密度：density 是密度，不形容天氣悶熱",
+"(B) humidity 濕度：正解：humidity 濕度，high humidity 高濕度。",
+"(C) circulation 循環：circulation 是循環，不會讓人黏膩",
+"(D) atmosphere 氣氛：atmosphere 是氣氛，與熱、黏無關"
+],
+"col": "high humidity 高濕度；relative humidity 相對濕度",
+"fam": "humid adj. → humidity n.",
+"strat": "roasting heat 與 hot and sticky，推斷濕氣的名詞"
+},
+{
+"y": 113,
+"n": 5,
+"zh": "畢卡索和莫內等偉大藝術家的作品，無疑經得起時間的考驗。",
+"oz": [
+"停留",
+"拿",
+"服務",
+"經得起"
+],
+"ex": "句意：畢卡索和莫內的作品無疑會______時間的考驗。stand the test of time 是固定搭配，表示經得起考驗，故選 stand。",
+"status": "ok",
+"hint": "注意 test of time 是固定片語，想想動詞要怎樣與它搭配。",
+"why": [
+"(A) stay 停留：stay 是停留，stand the test of time 才是固定搭配",
+"(B) take 拿：take 是拿，take the test 才行，與 of time 不搭",
+"(C) serve 服務：serve 是服務，與時間的考驗無關",
+"(D) stand 經得起：正解：stand 經得起，stand the test of time。"
+],
+"col": "stand the test of time 經得起時間考驗；stand a chance 有機會",
+"fam": "stand v. → stood",
+"strat": "test of time 是固定片語，先想動詞搭配"
+},
+{
+"y": 113,
+"n": 6,
+"zh": "在某些國家，兵役只對男性是強制的；女性不必服役。",
+"oz": [
+"強有力的",
+"實際的",
+"強制的",
+"獨特的"
+],
+"ex": "句意：有些國家兵役對男性是______，女性不用服役。與 do not have to 對比，表示男性必須。compulsory 強制的，故選 compulsory。",
+"status": "ok",
+"hint": "看 men only; women do not have to serve，想想兵役對男性是什麼性質的規定。",
+"why": [
+"(A) forceful 強有力的：forceful 是強勢，用來形容人或論點",
+"(B) realistic 實際的：realistic 是實際，與是否必須服役無關",
+"(C) compulsory 強制的：正解：compulsory 強制的，compulsory service 義務役。",
+"(D) distinctive 獨特的：distinctive 是獨特，不說明是否強制"
+],
+"col": "compulsory education 義務教育；compulsory military service 強制兵役",
+"fam": "compulsion n. → compulsory adj.",
+"strat": "women do not have to，反推男性是必須服役"
+},
+{
+"y": 113,
+"n": 7,
+"zh": "團隊抱怨領導者總是把成員辛苦完成的工作成果都攬為己功。",
+"oz": [
+"優勢",
+"報復",
+"補救",
+"功勞"
+],
+"ex": "句意：團隊抱怨領導總是把所有辛勞的______攬到自己身上。take the credit for 表示獨攬功勞，故選 credit。",
+"status": "ok",
+"hint": "看 took the ______ for all the hard work 與 complained，想想領導者獨占了什麼。",
+"why": [
+"(A) advantage 優勢：advantage 優勢，take advantage of 才是搭配",
+"(B) revenge 報復：revenge 是報復，與功勞無關",
+"(C) remedy 補救：remedy 是補救，與辛勞成果無關",
+"(D) credit 功勞：正解：credit 功勞，take credit for 居功。"
+],
+"col": "take credit for sth. 居功；give credit to sb. 把功勞歸給某人",
+"fam": "credit n./v.",
+"strat": "took the ___ for all the hard work，選固定搭配"
+},
+{
+"y": 113,
+"n": 8,
+"zh": "這家位於市中心的商務旅館不僅承諾良好服務，還有便利的大眾運輸。",
+"oz": [
+"提議",
+"包含",
+"承諾",
+"證實"
+],
+"ex": "句意：位在市中心的商務飯店不僅______好服務，還有便捷交通。promise 承諾可接 service，表示飯店保證提供，故選 promises。",
+"status": "ok",
+"hint": "看 not only ... but also，空格動詞後面接 good service 與 convenient transport，想想飯店提供什麼。",
+"why": [
+"(A) proposes 提議：proposes 是提議，不接 service",
+"(B) contains 包含：contains 是包含，不用於承諾服務",
+"(C) promises 承諾：正解：promises 承諾，hotel promises good service。",
+"(D) confirms 證實：confirms 是證實，不是飯店提供服務"
+],
+"col": "promise good service 承諾優質服務；a promising future 有前途",
+"fam": "promise v./n. → promising adj.",
+"strat": "not only ... but also 並列服務與交通，選提供類動詞"
+},
+{
+"y": 113,
+"n": 9,
+"zh": "由於血庫庫存降到危險的低量，許多醫院正向大眾呼籲捐血。",
+"oz": [
+"呼籲",
+"方法",
+"手術",
+"觀察"
+],
+"ex": "句意：血庫存量低，許多醫院向大眾做出______，請大家捐血。make an appeal for 表示呼籲，故選 appeal。",
+"status": "ok",
+"hint": "注意 make an ______ for 與 donate blood，想想醫院向公眾做的事。",
+"why": [
+"(A) appeal 呼籲：正解：appeal 呼籲，make an appeal for。",
+"(B) approach 方法：approach 是方法，不能 make an approach for",
+"(C) operation 手術：operation 是手術，與請大眾捐血無關",
+"(D) observation 觀察：observation 是觀察，與籲請民眾捐血無關"
+],
+"col": "make an appeal for help 呼籲幫助；appeal to sb. 向某人呼籲",
+"fam": "appeal v./n.",
+"strat": "make an ___ for 後接 donate，選呼籲"
+},
+{
+"y": 113,
+"n": 10,
+"zh": "大衛發現自己不能選擇讀書夥伴，只會被隨機分到讀書小組時很失望。",
+"oz": [
+"合格地",
+"隨機地",
+"顯然地",
+"因此"
+],
+"ex": "句意：大衛無法選學習夥伴，而是被______分到組裡。與 could not choose 相反，指不由自己決定，randomly 隨機地最合適，故選 randomly。",
+"status": "ok",
+"hint": "看 could not choose his study partners，所以是怎樣被分到小組。",
+"why": [
+"(A) eligibly 合格地：eligibly 不成語意，不能修飾 placed",
+"(B) randomly 隨機地：正解：randomly 隨機地，與無法選擇對應。",
+"(C) apparently 顯然地：apparently 是顯然，不描述分組方式",
+"(D) consequently 因此：consequently 是因此，是連接副詞，不能修飾 placed"
+],
+"col": "randomly selected 隨機挑選；random number 隨機數",
+"fam": "random adj. → randomly adv.",
+"strat": "could not choose 但 would be，推斷是無法自選的分組方式"
+},
+{
+"y": 114,
+"n": 1,
+"zh": "如果你在漏水的水龍頭下放一個容器，會驚訝二十四小時內收集到的水量。",
+"oz": [
+"邊界",
+"計時器",
+"容器",
+"記號筆"
+],
+"ex": "句意：把______放在漏水的水龍頭下，會驚訝 24 小時收集的水量。空格需能盛水的物品，container 容器最合適，故選 container。",
+"status": "ok",
+"hint": "看 under a leaking faucet 與 amount of water collected，想想什麼東西用來接水。",
+"why": [
+"(A) border 邊界：border 是邊界，不能盛水",
+"(B) timer 計時器：timer 是計時器，不能盛水",
+"(C) container 容器：正解：container 容器，可用來接水。",
+"(D) marker 記號筆：marker 是記號筆，不能收集水"
+],
+"col": "a plastic container 塑膠容器；container ship 貨櫃船",
+"fam": "contain v. → container n.",
+"strat": "under a leaking faucet 加 collected，選能盛水的物品"
+},
+{
+"y": 114,
+"n": 2,
+"zh": "當地農夫市集很受歡迎，因為向社區民眾提供各種新鮮的當季農產品。",
+"oz": [
+"農產品",
+"時尚",
+"品牌",
+"趨勢"
+],
+"ex": "句意：當地農夫市集因提供多種新鮮當季______而受歡迎。farmers' market 賣的是農產品，produce 在此作不可數名詞，故選 produce。",
+"status": "ok",
+"hint": "看 fresh seasonal ______ 與 farmers' market，想想市場賣的是什麼東西。",
+"why": [
+"(A) produce 農產品：正解：produce 農產品，fresh produce 新鮮蔬果。",
+"(B) fashion 時尚：fashion 是時尚，不是市集賣的東西",
+"(C) brand 品牌：brand 是品牌，不搭 fresh seasonal",
+"(D) trend 趨勢：trend 是趨勢，不是賣的東西"
+],
+"col": "fresh produce 新鮮農產品；local produce 本地農產品",
+"fam": "produce n.（讀作 PRO-duce）/ v. → product n.",
+"strat": "farmers' market 與 fresh seasonal，推斷賣的是農產品"
+},
+{
+"y": 114,
+"n": 3,
+"zh": "隨著歲月流逝，我許多童年記憶已經模糊，我再也無法清楚回想當時發生的事。",
+"oz": [
+"變模糊",
+"修剪",
+"排空",
+"刺眼"
+],
+"ex": "句意：許多童年記憶已經______，我記不清當時發生了什麼。與 no longer recall clearly 相呼應，blurring 變模糊，故選 blurring。",
+"status": "ok",
+"hint": "看 can no longer recall clearly，想想記憶變得怎樣，空格是 are already 之後的進行式。",
+"why": [
+"(A) blurring 變模糊：正解：blurring 變模糊，符合記憶模糊。",
+"(B) trimming 修剪：trimming 是修剪，不描述記憶",
+"(C) draining 排空：draining 是排空，不描述記憶",
+"(D) glaring 刺眼：glaring 是刺眼，只能形容光"
+],
+"col": "blurred memory 模糊的記憶；blur the line 模糊界線",
+"fam": "blur v./n. → blurry adj.",
+"strat": "can no longer recall clearly，推斷記憶的狀態"
+},
+{
+"y": 114,
+"n": 4,
+"zh": "種族歧視言論本質上具有冒犯性且傷人，任何場合都應避免。",
+"oz": [
+"過度的",
+"狂怒的",
+"冒犯的",
+"固執的"
+],
+"ex": "句意：種族歧視言論本質上______且傷人，任何場合都應避免。與 hurtful 並列，表示讓人感到被冒犯。offensive 冒犯的，故選 offensive。",
+"status": "ok",
+"hint": "看 Racist remarks 與 hurtful，空格與 hurtful 並列，想想此類言論給人的感覺。",
+"why": [
+"(A) excessive 過度的：excessive 是過度，不是種族言論的本質",
+"(B) furious 狂怒的：furious 是狂怒，形容人而非言論",
+"(C) offensive 冒犯的：正解：offensive 冒犯的，與 hurtful 並列。",
+"(D) stubborn 固執的：stubborn 是固執，形容人而非言論"
+],
+"col": "offensive language 冒犯性語言；an offensive remark 冒犯的話",
+"fam": "offend v. → offense n. → offensive adj.",
+"strat": "與 hurtful 並列，選形容言論的詞"
+},
+{
+"y": 114,
+"n": 5,
+"zh": "對作文初稿不滿意，瑪麗在交給老師前修改了好幾次。",
+"oz": [
+"文本",
+"刷子",
+"草稿",
+"情節"
+],
+"ex": "句意：不滿意作文的第一______，瑪莉修改了好幾次才交給老師。first draft 指初稿，故選 draft。",
+"status": "ok",
+"hint": "看 revised it several times，先想想作文在定稿前叫什麼。",
+"why": [
+"(A) text 文本：text 是文本，first text 不是稿次",
+"(B) brush 刷子：brush 是刷子，與作文無關",
+"(C) draft 草稿：正解：draft 草稿，first draft 初稿。",
+"(D) plot 情節：plot 是情節，不是作文修改的稿次"
+],
+"col": "first draft 初稿；a rough draft 草稿",
+"fam": "draft n./v. → draftsman n.",
+"strat": "revised several times，推斷第一版是初稿"
+},
+{
+"y": 114,
+"n": 6,
+"zh": "那棟廢棄的房子空置多年，滿是厚厚的灰塵和陳年潮濕木頭的氣味。",
+"oz": [
+"隨意的",
+"易碎的",
+"遙遠的",
+"空置的"
+],
+"ex": "句意：這棟荒廢的房子被______多年，滿是灰塵與潮濕味。left vacant 指閒置無人住，故選 vacant。",
+"status": "ok",
+"hint": "看 deserted house 與 thick coating of dust，想想房子被怎樣放置多年。",
+"why": [
+"(A) casual 隨意的：casual 是隨意，不搭 left",
+"(B) fragile 易碎的：fragile 是易碎，left fragile 不成立",
+"(C) remote 遙遠的：remote 是偏遠，left remote 語意不通",
+"(D) vacant 空置的：正解：vacant 空置的，left vacant 被閒置。"
+],
+"col": "leave a house vacant 讓房子閒置；a vacant seat 空位",
+"fam": "vacant adj. → vacancy n.",
+"strat": "deserted house，推斷房子被丟著沒人住"
+},
+{
+"y": 114,
+"n": 7,
+"zh": "這位高中女生在協助老人逃離火場時展現了極大的勇氣。",
+"oz": [
+"巨大的",
+"專屬的",
+"多重的",
+"極大的"
+],
+"ex": "句意：這位高中女生幫助老人逃離火場，展現了______勇氣。courage 是不可數名詞，需表示程度大，enormous 極大的最合適，故選 enormous。",
+"status": "ok",
+"hint": "看 courage 前的修飾，想想救人逃火災展現的是怎樣程度的勇氣。",
+"why": [
+"(A) gigantic 巨大的：gigantic 是體積巨大，不形容勇氣",
+"(B) exclusive 專屬的：exclusive 是專屬，與勇氣無關",
+"(C) multiple 多重的：multiple 是多重，不修飾不可數名詞 courage",
+"(D) enormous 極大的：正解：enormous 極大的，enormous courage 極大勇氣。"
+],
+"col": "enormous pressure 極大壓力；enormous success 巨大成功",
+"fam": "enormous adj. → enormously adv.",
+"strat": "courage 前要選能形容程度的形容詞"
+},
+{
+"y": 114,
+"n": 8,
+"zh": "公共資助的計畫在經濟艱困時期，常因資源不足而被中止或延宕。",
+"oz": [
+"中止",
+"孵化",
+"擁有",
+"強化"
+],
+"ex": "句意：公共專案在經濟困難時常因資源缺乏而被______或延誤。與 delayed 並列，表示被中止。halted 中止，故選 halted。",
+"status": "ok",
+"hint": "看 due to a lack of resources 與 delayed，空格與 delayed 並列，想想經費不足時專案會怎樣。",
+"why": [
+"(A) halted 中止：正解：halted 中止，與 delayed 並列。",
+"(B) hatched 孵化：hatched 是孵化，不用於專案",
+"(C) possessed 擁有：possessed 是擁有，與專案延誤無關",
+"(D) reinforced 強化：reinforced 是強化，與資源不足相反"
+],
+"col": "halt production 停止生產；come to a halt 停下",
+"fam": "halt v./n.",
+"strat": "與 delayed 並列，lack of resources 暗示被叫停"
+},
+{
+"y": 114,
+"n": 9,
+"zh": "儘管行程繁忙，總統仍蒞臨該校畢業典禮，親自出席並發表暖心演說。",
+"oz": [
+"稱讚",
+"使增光",
+"對…演講",
+"歸功於"
+],
+"ex": "句意：儘管行程繁忙，總統仍以他的出席與暖心演說______畢業典禮。grace sth. with 表示使增光，故選 graced。",
+"status": "ok",
+"hint": "看 with his presence and a heartwarming speech，想想總統出席對典禮的影響。",
+"why": [
+"(A) praised 稱讚：praised 是稱讚，不接 with his presence",
+"(B) graced 使增光：正解：graced 使增光，grace sth. with one's presence。",
+"(C) addressed 對…演講：addressed 是對人演講，不接 ceremony 搭 with",
+"(D) credited 歸功於：credited 是歸功，與出席無關"
+],
+"col": "grace the occasion 為場合增光；graceful 優雅的",
+"fam": "grace n./v. → graceful adj. / gracious adj.",
+"strat": "with his presence 暗示為典禮增光"
+},
+{
+"y": 114,
+"n": 10,
+"zh": "該公司經理被控口頭辱罵同事，稱他們為「無可救藥的魯蛇」而遭到起訴。",
+"oz": [
+"口頭上",
+"支配地",
+"合法地",
+"相關地"
+],
+"ex": "句意：經理因______辱罵同事、叫他們無可救藥的失敗者而被告。罵人是用言語，verbally 口頭上最合適，故選 verbally。",
+"status": "ok",
+"hint": "看 calling them hopeless losers，想想侮辱用的是什麼方式。",
+"why": [
+"(A) verbally 口頭上：正解：verbally 口頭上，verbally abuse 言語辱罵。",
+"(B) dominantly 支配地：dominantly 是支配地，不修飾辱罵",
+"(C) legitimately 合法地：legitimately 是合法，與被告矛盾",
+"(D) relevantly 相關地：relevantly 是相關地，不貼切"
+],
+"col": "verbally abuse 言語辱罵；a verbal agreement 口頭協議",
+"fam": "verbal adj. → verbally adv.",
+"strat": "calling them losers 是用話語，選副詞"
+},
+{
+"y": 115,
+"n": 1,
+"zh": "市長的行程如此緊湊，要安排她的訪談得花上好幾週。",
+"oz": [
+"倉促的",
+"緊湊的",
+"勤勉的",
+"例行的"
+],
+"ex": "句意：市長的行程如此______，要花好幾週才能安排訪談。空格形容 schedule，且與難約相呼應，tight 緊湊的，故選 tight。",
+"status": "ok",
+"hint": "看 takes weeks to arrange an interview，想想市長的行程是什麼狀態。",
+"why": [
+"(A) hasty 倉促的：hasty 是倉促，形容決定而非行程",
+"(B) tight 緊湊的：正解：tight 緊湊的，a tight schedule 行程滿。",
+"(C) diligent 勤勉的：diligent 是勤勉，形容人",
+"(D) routine 例行的：routine 是例行，不說明難約"
+],
+"col": "a tight schedule 緊湊的行程；tight deadline 緊迫的期限",
+"fam": "tight adj. → tighten v. / tightly adv.",
+"strat": "takes weeks to arrange，推斷行程很滿"
+},
+{
+"y": 115,
+"n": 2,
+"zh": "珍一開始是業餘的藝術設計師，現在有了自己的專業工作室。",
+"oz": [
+"官方的",
+"立即的",
+"業餘的",
+"初級的"
+],
+"ex": "句意：Jane 一開始是______藝術設計師，現在有自己的專業工作室。與 professional 對比，表示非專業。amateur 業餘的，故選 amateur。",
+"status": "ok",
+"hint": "看 but now she has a professional studio，空格與 professional 形成對比。",
+"why": [
+"(A) official 官方的：official 是官方，不與 professional 對照",
+"(B) instant 立即的：instant 是立即，不修飾 designer",
+"(C) amateur 業餘的：正解：amateur 業餘的，與 professional 對比。",
+"(D) elementary 初級的：elementary 是初級，不是身分對照"
+],
+"col": "an amateur photographer 業餘攝影師；amateur vs professional",
+"fam": "amateur adj./n.",
+"strat": "started as 與 now professional，找與其對照的詞"
+},
+{
+"y": 115,
+"n": 3,
+"zh": "這所名校的教職缺很快就吸引了十多位資格優異的應徵者。",
+"oz": [
+"職涯",
+"職缺",
+"期望",
+"靈感"
+],
+"ex": "句意：這所名校的教職______很快吸引十幾位合格申請者。applicants 申請的是職缺，故選 vacancy。",
+"status": "ok",
+"hint": "看 attracted more than a dozen well-qualified applicants，想想學校釋出的是什麼。",
+"why": [
+"(A) career 職涯：career 是職涯，不是被申請的",
+"(B) vacancy 職缺：正解：vacancy 職缺，teaching vacancy 教職缺額。",
+"(C) expectation 期望：expectation 是期望，不是被申請的",
+"(D) inspiration 靈感：inspiration 是靈感，不會吸引申請者"
+],
+"col": "fill a vacancy 補缺；a job vacancy 工作職缺",
+"fam": "vacant adj. → vacancy n.",
+"strat": "applicants 申請的是職缺，選名詞"
+},
+{
+"y": 115,
+"n": 4,
+"zh": "由一位年輕工程師設計的這項新產品，創造出遠超過最初預期的利潤。",
+"oz": [
+"起初",
+"真正地",
+"或者",
+"根本地"
+],
+"ex": "句意：新產品帶來的利潤遠超過______預期。than initially expected 是常見省略句型，表示起初預期，故選 initially。",
+"status": "ok",
+"hint": "看 far more profit than ______ expected，想想與「起初預期」的對比。",
+"why": [
+"(A) initially 起初：正解：initially 起初，than initially expected。",
+"(B) genuinely 真正地：genuinely 是真正地，不搭 than expected",
+"(C) alternatively 或者：alternatively 是或者，語意不合",
+"(D) fundamentally 根本地：fundamentally 是根本地，不搭 expected"
+],
+"col": "than initially expected 超出起初預期；initially planned 起初計畫",
+"fam": "initial adj. → initially adv.",
+"strat": "far more than ___ expected，選表示起初的副詞"
+},
+{
+"y": 115,
+"n": 5,
+"zh": "已證實水果與蔬菜的均衡攝取量是健康的關鍵要素。",
+"oz": [
+"面向",
+"整合",
+"供應",
+"攝取量"
+],
+"ex": "句意：已證實均衡的蔬果______是健康的關鍵。空格後接 of fruit and vegetables，指攝取量。consumption 攝取量，故選 consumption。",
+"status": "ok",
+"hint": "看 a balanced ______ of fruit and vegetables，想想與健康相關的是吃多少。",
+"why": [
+"(A) dimension 面向：dimension 是面向，不是攝取的量",
+"(B) integration 整合：integration 是整合，與吃多少無關",
+"(C) provision 供應：provision 是供應，不是個人攝取量",
+"(D) consumption 攝取量：正解：consumption 攝取量，consumption of fruit。"
+],
+"col": "fruit consumption 水果攝取量；energy consumption 能源消耗",
+"fam": "consume v. → consumption n. / consumer n.",
+"strat": "balanced ___ of fruit and vegetables，選吃多少的名詞"
+},
+{
+"y": 115,
+"n": 6,
+"zh": "提米是個害羞、害怕公開露面的男孩，他很害怕在大批觀眾面前演講的念頭。",
+"oz": [
+"害怕",
+"強調",
+"漫遊",
+"逃脫"
+],
+"ex": "句意：害羞的提米______在大批觀眾前演說的念頭。afraid of 提示害怕，dread 害怕，故選 dreads。",
+"status": "ok",
+"hint": "看 shy boy afraid of making public appearances，想想他對上台演說的感受。",
+"why": [
+"(A) dreads 害怕：正解：dreads 害怕，dread the thought of。",
+"(B) stresses 強調：stresses 是強調，與害羞怕上台不合",
+"(C) wanders 漫遊：wanders 是漫遊，不及物",
+"(D) escapes 逃脫：escapes 是逃脫，不接 thought"
+],
+"col": "dread doing sth. 害怕做某事；dread the thought of 害怕想到",
+"fam": "dread v./n. → dreadful adj.",
+"strat": "shy 與 afraid of，找表示害怕的動詞"
+},
+{
+"y": 115,
+"n": 7,
+"zh": "對這位新加冕的鋼琴比賽冠軍而言，音樂是他生命的熱情所在，他全心投入。",
+"oz": [
+"資源",
+"影響",
+"熱情",
+"強調"
+],
+"ex": "句意：對這位鋼琴比賽得主，音樂是他生命的______，他全心投入。devoted himself 呼應熱情，passion 熱情，故選 passion。",
+"status": "ok",
+"hint": "看 devoted himself to whole-heartedly，音樂在他生命裡是什麼。",
+"why": [
+"(A) resource 資源：resource 是資源，不是生命投入的對象",
+"(B) impact 影響：impact 是影響，與全心投入不合",
+"(C) passion 熱情：正解：passion 熱情，life's passion。",
+"(D) emphasis 強調：emphasis 是強調，與音樂的地位無關"
+],
+"col": "a passion for music 對音樂的熱愛；follow one's passion 追隨熱情",
+"fam": "passion n. → passionate adj.",
+"strat": "devoted himself 暗示對音樂懷抱的熱情"
+},
+{
+"y": 115,
+"n": 8,
+"zh": "那名對路人大吼並用玻璃瓶攻擊他們的酒駕司機很快被警方逮捕。",
+"oz": [
+"粉碎",
+"攻擊",
+"翻倒",
+"譴責"
+],
+"ex": "句意：酒駕者對路人大喊並用玻璃瓶______他們，很快被捕。空格需及物動詞，且對象是 them。assaulted 攻擊，故選 assaulted。",
+"status": "ok",
+"hint": "看 shouted at passers-by 與被警察逮捕，此人對路人做了什麼。",
+"why": [
+"(A) shattered 粉碎：shattered 是打碎，不接人",
+"(B) assaulted 攻擊：正解：assaulted 攻擊，assault sb. with sth.。",
+"(C) overturned 翻倒：overturned 是翻倒，不接人",
+"(D) condemned 譴責：condemned 是譴責，不能用瓶子"
+],
+"col": "assault sb. with a weapon 持武器攻擊；assault and battery 傷害",
+"fam": "assault v./n.",
+"strat": "with glass bottles 加 them，推斷攻擊的動詞"
+},
+{
+"y": 115,
+"n": 9,
+"zh": "公車站人太多，我必須用手肘擠過人群才能及時上車。",
+"oz": [
+"撞毀",
+"跌倒",
+"用手肘推擠",
+"掙扎"
+],
+"ex": "句意：車站人太多，我得用手肘______擠過人群才能趕上車。空格與 my way through the crowd 搭配，elbow one's way 表示用手肘推擠前進，故選 elbow。",
+"status": "ok",
+"hint": "看 had to ______ my way through the crowd，想想在人群中前進的方式。",
+"why": [
+"(A) crash 撞毀：crash 是撞毀，不搭 my way",
+"(B) tumble 跌倒：tumble 是跌倒，不搭 my way",
+"(C) elbow 用手肘推擠：正解：elbow 用手肘推擠，elbow one's way through。",
+"(D) struggle 掙扎：struggle 是掙扎，不如 elbow 貼切"
+],
+"col": "elbow one's way 擠過去；elbow room 活動空間",
+"fam": "elbow n./v.",
+"strat": "my way through the crowd，選能推擠前進的動詞"
+},
+{
+"y": 115,
+"n": 10,
+"zh": "美國校園的致命槍擊事件已引發對如何防止此類悲劇再次發生的嚴重關切。",
+"oz": [
+"迅速的",
+"殘酷的",
+"嚴苛的",
+"嚴重的"
+],
+"ex": "句意：美國校園致命槍擊案引發對如何預防悲劇再發生的______憂慮。空格修飾 concerns，grave concerns 為固定搭配，表示嚴重憂慮，故選 grave。",
+"status": "ok",
+"hint": "看 Deadly shootings 與 raised ______ concerns，想想對此類悲劇的擔憂程度。",
+"why": [
+"(A) swift 迅速的：swift 是迅速，不搭 concerns",
+"(B) brutal 殘酷的：brutal 是殘酷，形容暴行",
+"(C) harsh 嚴苛的：harsh 是嚴苛，形容條件或批評",
+"(D) grave 嚴重的：正解：grave 嚴重的，grave concerns 嚴重憂慮。"
+],
+"col": "grave concern 嚴重關切；a grave mistake 嚴重錯誤",
+"fam": "grave adj. → gravity n.",
+"strat": "Deadly shootings 引發 ___ concerns，選嚴重程度的固定搭配"
+}
+]

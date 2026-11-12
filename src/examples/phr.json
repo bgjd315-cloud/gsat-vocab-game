@@ -1,0 +1,3993 @@
+[
+ {
+  "id": "P-0001",
+  "phrase": "the rest (of)",
+  "zh": "……的其餘部分；其餘的",
+  "say": "the rest of",
+  "en": "Amy finished her homework early, so she spent the rest of the evening reading.",
+  "exzh": "Amy 很早就寫完功課，所以剩下的晚上時間她都在看書。",
+  "targets": [
+   "the rest of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0002",
+  "phrase": "in person",
+  "zh": "親自；當面",
+  "say": "in person",
+  "en": "Ben only knew Kevin online, so they finally met in person at the club camp.",
+  "exzh": "Ben 以前只在網路上認識 Kevin，所以他們終於在社團營隊上見到了本人。",
+  "targets": [
+   "in person"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0003",
+  "phrase": "take...seriously",
+  "zh": "認真看待⋯⋯",
+  "say": "take something seriously",
+  "en": "Mr. Chen asked us to take the science fair rules seriously.",
+  "exzh": "陳老師要求我們認真看待科展的規定。",
+  "targets": [
+   "take",
+   "seriously"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0004",
+  "phrase": "let...down",
+  "zh": "讓⋯⋯失望",
+  "say": "let someone down",
+  "en": "I promised to help, so I don't want to let my team down.",
+  "exzh": "我答應過要幫忙，所以不想讓我的團隊失望。",
+  "targets": [
+   "let",
+   "down"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0005",
+  "phrase": "make sure",
+  "zh": "務必；確保",
+  "say": "make sure",
+  "en": "Please make sure you turn off the lights before you leave the classroom.",
+  "exzh": "離開教室前請務必把燈關掉。",
+  "targets": [
+   "make sure"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0006",
+  "phrase": "put...first",
+  "zh": "把⋯⋯放在第一位",
+  "say": "put someone first",
+  "en": "Lisa always puts her family first when she plans her weekend.",
+  "exzh": "Lisa 規劃週末時，總是把家人擺在第一位。",
+  "targets": [
+   "puts",
+   "first"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0007",
+  "phrase": "dress up",
+  "zh": "盛裝打扮；裝扮",
+  "say": "dress up",
+  "en": "The students dressed up as animals for the school's English day.",
+  "exzh": "學生們為學校的英語日裝扮成各種動物。",
+  "targets": [
+   "dressed up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0008",
+  "phrase": "in fact",
+  "zh": "事實上；其實",
+  "say": "in fact",
+  "en": "Kevin looks quiet, but in fact he is very funny with close friends.",
+  "exzh": "Kevin 看起來很安靜，但其實跟好朋友在一起時很風趣。",
+  "targets": [
+   "in fact"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0009",
+  "phrase": "go through",
+  "zh": "仔細檢查；經歷",
+  "say": "go through",
+  "en": "We went through all the notes together before the biology test.",
+  "exzh": "生物考試前，我們一起把所有筆記仔細看過一遍。",
+  "targets": [
+   "went through"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0010",
+  "phrase": "in case",
+  "zh": "以防萬一；萬一",
+  "say": "in case",
+  "en": "Take an umbrella in case it rains during our class trip.",
+  "exzh": "帶把雨傘吧，以防班遊時下雨。",
+  "targets": [
+   "in case"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0011",
+  "phrase": "in addition",
+  "zh": "此外；另外",
+  "say": "in addition",
+  "en": "The cafe is cheap. In addition, the staff are really friendly.",
+  "exzh": "這間咖啡店很便宜，此外店員也很親切。",
+  "targets": [
+   "In addition"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0012",
+  "phrase": "hang out",
+  "zh": "閒晃；和朋友出去玩",
+  "say": "hang out",
+  "en": "After basketball practice, Ben and his friends like to hang out at the park.",
+  "exzh": "籃球練習後，Ben 和朋友們喜歡在公園閒晃聊天。",
+  "targets": [
+   "hang out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0013",
+  "phrase": "turn to",
+  "zh": "求助於；轉向",
+  "say": "turn to",
+  "en": "When Amy had trouble with math, she turned to her teacher for help.",
+  "exzh": "Amy 數學遇到困難時，會向老師求助。",
+  "targets": [
+   "turned to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0014",
+  "phrase": "take...personally",
+  "zh": "把⋯⋯當成針對自己",
+  "say": "take something personally",
+  "en": "Don't take his comment personally; he was just tired after the exam.",
+  "exzh": "別把他的話當成針對你，他只是考完試太累了。",
+  "targets": [
+   "take",
+   "personally"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0015",
+  "phrase": "hold on to",
+  "zh": "緊緊抓住；保留",
+  "say": "hold on to",
+  "en": "Hold on to the handrail when the MRT starts moving.",
+  "exzh": "捷運開動時，請抓緊扶手。",
+  "targets": [
+   "Hold on to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0016",
+  "phrase": "look out for",
+  "zh": "留意；提防",
+  "say": "look out for",
+  "en": "Look out for motorcycles when you cross the street near school.",
+  "exzh": "在學校附近過馬路時，要留意機車。",
+  "targets": [
+   "Look out for"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0017",
+  "phrase": "be on the lookout for",
+  "zh": "留心尋找；密切注意",
+  "say": "be on the lookout for",
+  "en": "Lisa is on the lookout for a cheap used bike for her part-time job.",
+  "exzh": "Lisa 正在留意有沒有便宜的二手腳踏車，好用來打工。",
+  "targets": [
+   "is on the lookout for"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0018",
+  "phrase": "for example",
+  "zh": "例如；舉例來說",
+  "say": "for example",
+  "en": "Many clubs are fun. For example, the cooking club makes a new dish every week.",
+  "exzh": "很多社團都很有趣，例如烹飪社每週都會做一道新菜。",
+  "targets": [
+   "For example"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0019",
+  "phrase": "according to",
+  "zh": "根據；依照",
+  "say": "according to",
+  "en": "According to the weather report, it will be sunny during our sports day.",
+  "exzh": "根據氣象報告，我們運動會當天會是晴天。",
+  "targets": [
+   "According to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0020",
+  "phrase": "up to",
+  "zh": "多達；取決於；由⋯⋯決定",
+  "say": "up to",
+  "en": "The school bus can carry up to forty students.",
+  "exzh": "這輛校車最多可以載四十名學生。",
+  "targets": [
+   "up to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0021",
+  "phrase": "due to",
+  "zh": "由於；因為",
+  "say": "due to",
+  "en": "The game was moved indoors due to the heavy rain.",
+  "exzh": "由於下大雨，比賽被移到室內舉行。",
+  "targets": [
+   "due to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0022",
+  "phrase": "all of a sudden",
+  "zh": "突然；忽然",
+  "say": "all of a sudden",
+  "en": "All of a sudden, the lights went out in the science lab.",
+  "exzh": "自然實驗室的燈突然全滅了。",
+  "targets": [
+   "All of a sudden"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0023",
+  "phrase": "turn out",
+  "zh": "結果是；原來",
+  "say": "turn out",
+  "en": "Our plan turned out to be much easier than we thought.",
+  "exzh": "我們的計畫結果比想像中容易得多。",
+  "targets": [
+   "turned out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0024",
+  "phrase": "come across",
+  "zh": "偶然遇見；偶然發現",
+  "say": "come across",
+  "en": "Kevin came across an old photo of his grandma while cleaning his room.",
+  "exzh": "Kevin 打掃房間時，無意間發現一張奶奶的舊照片。",
+  "targets": [
+   "came across"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0025",
+  "phrase": "carry out",
+  "zh": "執行；實施",
+  "say": "carry out",
+  "en": "Our group carried out the experiment in science class on Friday.",
+  "exzh": "我們這組星期五在自然課進行了實驗。",
+  "targets": [
+   "carried out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0026",
+  "phrase": "come along",
+  "zh": "一起來；跟著來",
+  "say": "come along",
+  "en": "We're going to the night market. Do you want to come along?",
+  "exzh": "我們要去夜市，你想一起來嗎？",
+  "targets": [
+   "come along"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0027",
+  "phrase": "pack...up",
+  "zh": "把⋯⋯收拾好；打包",
+  "say": "pack something up",
+  "en": "Ben packed his books up quickly when the bell rang.",
+  "exzh": "鐘聲一響，Ben 很快把書收拾好。",
+  "targets": [
+   "packed",
+   "up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0028",
+  "phrase": "on one's own",
+  "zh": "獨自；靠自己",
+  "say": "on one's own",
+  "en": "Lisa made the poster on her own without any help.",
+  "exzh": "Lisa 沒有任何人幫忙，自己完成了這張海報。",
+  "targets": [
+   "on her own"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0029",
+  "phrase": "for a while",
+  "zh": "一會兒；一段時間",
+  "say": "for a while",
+  "en": "Amy waited at the bus stop for a while before the bus came.",
+  "exzh": "公車來之前，Amy 在站牌那裡等了一會兒。",
+  "targets": [
+   "for a while"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0030",
+  "phrase": "end up",
+  "zh": "最後落得；終究",
+  "say": "end up",
+  "en": "We got lost and ended up at a small park.",
+  "exzh": "我們迷了路，最後來到一座小公園。",
+  "targets": [
+   "ended up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0031",
+  "phrase": "even though",
+  "zh": "即使；雖然",
+  "say": "even though",
+  "en": "Kevin went to practice even though he felt tired.",
+  "exzh": "即使覺得很累，Kevin 還是去練習了。",
+  "targets": [
+   "even though"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0032",
+  "phrase": "close to",
+  "zh": "接近；靠近",
+  "say": "close to",
+  "en": "My house is close to the school, so I walk every day.",
+  "exzh": "我家離學校很近，所以我每天走路上學。",
+  "targets": [
+   "close to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0033",
+  "phrase": "over time",
+  "zh": "隨著時間；久而久之",
+  "say": "over time",
+  "en": "Over time, Amy's English got much better because she read every day.",
+  "exzh": "隨著時間過去，Amy 因為每天閱讀，英文進步了很多。",
+  "targets": [
+   "Over time"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0034",
+  "phrase": "pay a visit to",
+  "zh": "拜訪；探望",
+  "say": "pay a visit to",
+  "en": "On Sunday, we paid a visit to our grandparents in Tainan.",
+  "exzh": "星期天，我們到台南探望祖父母。",
+  "targets": [
+   "paid a visit to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0035",
+  "phrase": "as always",
+  "zh": "一如往常",
+  "say": "as always",
+  "en": "As always, Mr. Chen gave us a lot of homework on Friday.",
+  "exzh": "陳老師星期五一如往常地出了很多作業。",
+  "targets": [
+   "As always"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0036",
+  "phrase": "tons of",
+  "zh": "大量的；很多的",
+  "say": "tons of",
+  "en": "I have tons of homework to finish this weekend.",
+  "exzh": "這個週末我有一大堆作業要寫完。",
+  "targets": [
+   "tons of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0037",
+  "phrase": "look for",
+  "zh": "尋找",
+  "say": "look for",
+  "en": "Ben is looking for his lost water bottle in the gym.",
+  "exzh": "Ben 正在體育館裡找他弄丟的水壺。",
+  "targets": [
+   "looking for"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0038",
+  "phrase": "make a living",
+  "zh": "謀生；維持生計",
+  "say": "make a living",
+  "en": "Lisa's uncle makes a living by selling fruit at the market.",
+  "exzh": "Lisa 的叔叔靠在市場賣水果維生。",
+  "targets": [
+   "makes a living"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0039",
+  "phrase": "look forward to",
+  "zh": "期待；盼望",
+  "say": "look forward to",
+  "en": "We are looking forward to the school trip next month.",
+  "exzh": "我們很期待下個月的校外教學。",
+  "targets": [
+   "looking forward to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0040",
+  "phrase": "come out of",
+  "zh": "從⋯⋯出來；產生自",
+  "say": "come out of",
+  "en": "Several students came out of the library at the same time.",
+  "exzh": "幾位學生同時從圖書館走了出來。",
+  "targets": [
+   "came out of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0041",
+  "phrase": "as soon as",
+  "zh": "一⋯⋯就⋯⋯；儘快",
+  "say": "as soon as",
+  "en": "Call me as soon as you arrive at the station.",
+  "exzh": "你一到車站就打電話給我。",
+  "targets": [
+   "as soon as"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0042",
+  "phrase": "be likely to",
+  "zh": "很可能；有可能",
+  "say": "be likely to",
+  "en": "It is likely to rain tomorrow, so bring a raincoat.",
+  "exzh": "明天很可能會下雨，所以要帶雨衣。",
+  "targets": [
+   "is likely to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0043",
+  "phrase": "within (...) reach",
+  "zh": "在⋯⋯搆得到的範圍內；伸手可及",
+  "say": "within reach",
+  "en": "The snacks were within reach, so Kevin grabbed one.",
+  "exzh": "零食就在伸手可及的地方，所以 Kevin 拿了一個。",
+  "targets": [
+   "within reach"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0044",
+  "phrase": "line up",
+  "zh": "排隊；排成一列",
+  "say": "line up",
+  "en": "Students lined up in front of the cafeteria at noon.",
+  "exzh": "中午時學生們在餐廳前排隊。",
+  "targets": [
+   "lined up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0045",
+  "phrase": "take advantage of",
+  "zh": "利用；趁著",
+  "say": "take advantage of",
+  "en": "Ben took advantage of the long weekend to visit his cousins.",
+  "exzh": "Ben 利用連假去拜訪表兄弟姊妹。",
+  "targets": [
+   "took advantage of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0046",
+  "phrase": "set up",
+  "zh": "設立；架設；安排",
+  "say": "set up",
+  "en": "The club members set up the booth before the school fair opened.",
+  "exzh": "園遊會開始前，社員們先把攤位架設好。",
+  "targets": [
+   "set up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0047",
+  "phrase": "start off",
+  "zh": "開始；開頭",
+  "say": "start off",
+  "en": "Let's start off the meeting with a short game.",
+  "exzh": "我們用一個小遊戲來開始這場會議吧。",
+  "targets": [
+   "start off"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0048",
+  "phrase": "come in",
+  "zh": "進來；進入",
+  "say": "come in",
+  "en": "Please come in and sit down, the class is about to begin.",
+  "exzh": "請進來坐下，課快要開始了。",
+  "targets": [
+   "come in"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0049",
+  "phrase": "stand for",
+  "zh": "代表；象徵",
+  "say": "stand for",
+  "en": "Do you know what the letters PE stand for?",
+  "exzh": "你知道 PE 這兩個字母代表什麼嗎？",
+  "targets": [
+   "stand for"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0050",
+  "phrase": "nothing but",
+  "zh": "只有；僅僅",
+  "say": "nothing but",
+  "en": "Kevin ate nothing but noodles for lunch this week.",
+  "exzh": "Kevin 這星期午餐只吃麵。",
+  "targets": [
+   "nothing but"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0051",
+  "phrase": "get rid of",
+  "zh": "擺脫；除去",
+  "say": "get rid of",
+  "en": "Lisa wants to get rid of her old notebooks before moving.",
+  "exzh": "Lisa 想在搬家前把舊筆記本處理掉。",
+  "targets": [
+   "get rid of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0052",
+  "phrase": "when it comes to...",
+  "zh": "談到；至於",
+  "say": "when it comes to",
+  "en": "When it comes to cooking, my dad is better than anyone.",
+  "exzh": "說到做菜，我爸爸比誰都厲害。",
+  "targets": [
+   "When it comes to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0053",
+  "phrase": "except for",
+  "zh": "除了⋯⋯之外",
+  "say": "except for",
+  "en": "Everyone was on time except for Ben, who missed the bus.",
+  "exzh": "除了錯過公車的 Ben 之外，大家都準時到了。",
+  "targets": [
+   "except for"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0054",
+  "phrase": "for a start",
+  "zh": "首先；第一點",
+  "say": "for a start",
+  "en": "This park is great. For a start, it is free and close to home.",
+  "exzh": "這座公園很棒，首先它免費，而且離家很近。",
+  "targets": [
+   "For a start"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0055",
+  "phrase": "on the other hand",
+  "zh": "另一方面",
+  "say": "on the other hand",
+  "en": "Math is hard for Amy. On the other hand, she loves art.",
+  "exzh": "數學對 Amy 來說很難，但另一方面，她很喜歡美術。",
+  "targets": [
+   "On the other hand"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0056",
+  "phrase": "for the better",
+  "zh": "往好的方向；變得更好",
+  "say": "for the better",
+  "en": "Joining the club changed Kevin's school life for the better.",
+  "exzh": "加入社團讓 Kevin 的校園生活變得更好。",
+  "targets": [
+   "for the better"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0057",
+  "phrase": "take action",
+  "zh": "採取行動",
+  "say": "take action",
+  "en": "If we want a cleaner campus, we must take action now.",
+  "exzh": "如果想要校園更乾淨，我們現在就得採取行動。",
+  "targets": [
+   "take action"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0058",
+  "phrase": "put up",
+  "zh": "張貼；搭建；忍受",
+  "say": "put up",
+  "en": "Lisa put up a poster for the music club on the board.",
+  "exzh": "Lisa 在布告欄上貼了一張音樂社的海報。",
+  "targets": [
+   "put up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0059",
+  "phrase": "thanks to",
+  "zh": "多虧；由於",
+  "say": "thanks to",
+  "en": "Thanks to Mr. Chen's help, I finally understood the lesson.",
+  "exzh": "多虧陳老師的幫忙，我終於懂了這一課。",
+  "targets": [
+   "Thanks to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0060",
+  "phrase": "rather than",
+  "zh": "而不是；與其⋯⋯不如",
+  "say": "rather than",
+  "en": "Ben chose to walk to school rather than ride the bus.",
+  "exzh": "Ben 選擇走路上學，而不搭公車。",
+  "targets": [
+   "rather than"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0061",
+  "phrase": "start out",
+  "zh": "起初；開始（做）",
+  "say": "start out",
+  "en": "Kevin started out as a beginner, but he now plays well.",
+  "exzh": "Kevin 一開始是初學者，但現在彈得很好。",
+  "targets": [
+   "started out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0062",
+  "phrase": "no longer",
+  "zh": "不再",
+  "say": "no longer",
+  "en": "The old gym is no longer used for sports class.",
+  "exzh": "那間舊體育館已不再用來上體育課。",
+  "targets": [
+   "no longer"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0063",
+  "phrase": "on the contrary",
+  "zh": "相反地；正好相反",
+  "say": "on the contrary",
+  "en": "The test wasn't hard. On the contrary, it was easier than I expected.",
+  "exzh": "這次考試並不難，相反地，比我預期的還簡單。",
+  "targets": [
+   "On the contrary"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0064",
+  "phrase": "tear at one's heart",
+  "zh": "使某人心痛",
+  "say": "tear at one's heart",
+  "en": "It tore at Lisa's heart to see her dog so sick.",
+  "exzh": "看到愛犬病得這麼重，Lisa 心如刀割。",
+  "targets": [
+   "tore at",
+   "heart"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0065",
+  "phrase": "pay off",
+  "zh": "有成果；得到回報",
+  "say": "pay off",
+  "en": "Amy's hard work paid off when she won first prize in the contest.",
+  "exzh": "Amy 的努力在她比賽得到第一名時有了回報。",
+  "targets": [
+   "paid off"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0066",
+  "phrase": "have one's heart set on",
+  "zh": "一心想要⋯⋯",
+  "say": "have one's heart set on",
+  "en": "Ben has his heart set on joining the school baseball team.",
+  "exzh": "Ben 一心想加入學校的棒球隊。",
+  "targets": [
+   "has",
+   "heart set on"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0067",
+  "phrase": "speed (...) up",
+  "zh": "加速",
+  "say": "speed up",
+  "en": "Please speed up, or we'll miss the train.",
+  "exzh": "請走快一點，不然我們會趕不上火車。",
+  "targets": [
+   "speed up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0068",
+  "phrase": "rise to one's feet",
+  "zh": "起立；站起來",
+  "say": "rise to one's feet",
+  "en": "When the principal came in, all the students rose to their feet.",
+  "exzh": "校長走進來時，所有學生都站了起來。",
+  "targets": [
+   "rose to their feet"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0069",
+  "phrase": "carry...through",
+  "zh": "把⋯⋯進行到底；完成",
+  "say": "carry something through",
+  "en": "Lisa carried her plan through even when it was difficult.",
+  "exzh": "即使很困難，Lisa 還是把她的計畫執行到底。",
+  "targets": [
+   "carried",
+   "through"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0070",
+  "phrase": "be used to",
+  "zh": "習慣於⋯⋯",
+  "say": "be used to",
+  "en": "Kevin is used to waking up at six for school.",
+  "exzh": "Kevin 已經習慣為了上學在六點起床。",
+  "targets": [
+   "is used to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0071",
+  "phrase": "needless to say",
+  "zh": "不用說；不言而喻",
+  "say": "needless to say",
+  "en": "Needless to say, Amy was happy to get a good grade.",
+  "exzh": "不用說，Amy 拿到好成績非常開心。",
+  "targets": [
+   "Needless to say"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0072",
+  "phrase": "believe it or not",
+  "zh": "信不信由你",
+  "say": "believe it or not",
+  "en": "Believe it or not, Ben cooked dinner for the whole family.",
+  "exzh": "信不信由你，Ben 煮了全家人的晚餐。",
+  "targets": [
+   "Believe it or not"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0073",
+  "phrase": "come up with",
+  "zh": "想出；提出",
+  "say": "come up with",
+  "en": "Our group came up with a great idea for the science fair.",
+  "exzh": "我們這組為科展想出了一個很棒的點子。",
+  "targets": [
+   "came up with"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0074",
+  "phrase": "in comparison with",
+  "zh": "與⋯⋯相比",
+  "say": "in comparison with",
+  "en": "In comparison with last year, this exam was much easier.",
+  "exzh": "和去年相比，這次考試簡單多了。",
+  "targets": [
+   "In comparison with"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0075",
+  "phrase": "regardless of",
+  "zh": "不管；不論",
+  "say": "regardless of",
+  "en": "Everyone can join the club regardless of age or grade.",
+  "exzh": "不論年齡或年級，每個人都可以加入這個社團。",
+  "targets": [
+   "regardless of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0076",
+  "phrase": "put aside",
+  "zh": "把⋯⋯放在一邊；擱置",
+  "say": "put aside",
+  "en": "Kevin put aside his phone and focused on his homework.",
+  "exzh": "Kevin 把手機放到一旁，專心寫功課。",
+  "targets": [
+   "put aside"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0077",
+  "phrase": "from then on",
+  "zh": "從那時起",
+  "say": "from then on",
+  "en": "Lisa failed once, but from then on she studied harder.",
+  "exzh": "Lisa 失敗過一次，但從那以後她更用功念書。",
+  "targets": [
+   "from then on"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0078",
+  "phrase": "all the more",
+  "zh": "更加；越發",
+  "say": "all the more",
+  "en": "The story was all the more interesting because it was true.",
+  "exzh": "這個故事因為是真的，所以更加有趣。",
+  "targets": [
+   "all the more"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0079",
+  "phrase": "fly into a rage",
+  "zh": "勃然大怒",
+  "say": "fly into a rage",
+  "en": "The coach flew into a rage when the team ignored his advice.",
+  "exzh": "球隊不聽他的建議，教練勃然大怒。",
+  "targets": [
+   "flew into a rage"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0080",
+  "phrase": "for one thing",
+  "zh": "首先；其一",
+  "say": "for one thing",
+  "en": "I don't want to go. For one thing, it's too far.",
+  "exzh": "我不想去，一來是因為太遠了。",
+  "targets": [
+   "For one thing"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0081",
+  "phrase": "be/become filled with",
+  "zh": "充滿⋯⋯",
+  "say": "be filled with",
+  "en": "The classroom was filled with laughter during the party.",
+  "exzh": "派對期間，教室裡充滿了笑聲。",
+  "targets": [
+   "was filled with"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0082",
+  "phrase": "slip away",
+  "zh": "溜走；流逝",
+  "say": "slip away",
+  "en": "Time slipped away while Amy was reading in the library.",
+  "exzh": "Amy 在圖書館看書時，時間不知不覺地溜走了。",
+  "targets": [
+   "slipped away"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0083",
+  "phrase": "take notice (of...)",
+  "zh": "注意到⋯⋯",
+  "say": "take notice of",
+  "en": "Nobody took notice of the small sign on the wall.",
+  "exzh": "沒有人注意到牆上那塊小牌子。",
+  "targets": [
+   "took notice of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0084",
+  "phrase": "blow up",
+  "zh": "吹脹；爆炸",
+  "say": "blow up",
+  "en": "Ben blew up twenty balloons for the class party.",
+  "exzh": "Ben 為班上的派對吹了二十個氣球。",
+  "targets": [
+   "blew up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0085",
+  "phrase": "take away",
+  "zh": "拿走；帶走",
+  "say": "take away",
+  "en": "Please take away your trash when you leave the cafeteria.",
+  "exzh": "離開餐廳時，請把你的垃圾帶走。",
+  "targets": [
+   "take away"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0086",
+  "phrase": "speak out",
+  "zh": "大聲說出；公開表達意見",
+  "say": "speak out",
+  "en": "Amy spoke out at the class meeting about the noisy hallway.",
+  "exzh": "Amy 在班會上公開表示走廊太吵了。",
+  "targets": [
+   "spoke out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0087",
+  "phrase": "call for",
+  "zh": "要求；需要",
+  "say": "call for",
+  "en": "The coach called for more practice before the big game.",
+  "exzh": "教練要求大賽前要多加練習。",
+  "targets": [
+   "called for"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0088",
+  "phrase": "in addition to",
+  "zh": "除了⋯⋯之外（還有）",
+  "say": "in addition to",
+  "en": "In addition to English, Kevin is learning Japanese.",
+  "exzh": "除了英文之外，Kevin 還在學日文。",
+  "targets": [
+   "In addition to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0089",
+  "phrase": "for instance",
+  "zh": "例如；比方說",
+  "say": "for instance",
+  "en": "I like many sports. For instance, I play badminton every Sunday.",
+  "exzh": "我喜歡很多運動，比方說我每個星期天都打羽毛球。",
+  "targets": [
+   "For instance"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0090",
+  "phrase": "ever since",
+  "zh": "自從⋯⋯以來",
+  "say": "ever since",
+  "en": "Ever since I joined the choir, I have felt more confident.",
+  "exzh": "自從加入合唱團後，我覺得自己更有自信了。",
+  "targets": [
+   "Ever since"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0091",
+  "phrase": "in other words",
+  "zh": "換句話說",
+  "say": "in other words",
+  "en": "You must hand in the report by Friday. In other words, you have two days.",
+  "exzh": "你必須在星期五前交報告，換句話說，你只剩兩天。",
+  "targets": [
+   "In other words"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0092",
+  "phrase": "meet with",
+  "zh": "遭遇；獲得（反應）；與⋯⋯會面",
+  "say": "meet with",
+  "en": "Lisa's idea met with strong support from her classmates.",
+  "exzh": "Lisa 的點子得到同學們的大力支持。",
+  "targets": [
+   "met with"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0093",
+  "phrase": "spring into action",
+  "zh": "立即採取行動",
+  "say": "spring into action",
+  "en": "When the power went out, the club leaders sprang into action.",
+  "exzh": "停電時，社團幹部們立刻動了起來。",
+  "targets": [
+   "sprang into action"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0094",
+  "phrase": "fit in",
+  "zh": "融入；適應；合得來",
+  "say": "fit in",
+  "en": "Amy was nervous, but she soon fit in at her new school.",
+  "exzh": "Amy 原本很緊張，但很快就融入了新學校。",
+  "targets": [
+   "fit in"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0095",
+  "phrase": "around the corner",
+  "zh": "即將來臨；就在轉角",
+  "say": "around the corner",
+  "en": "The bookstore is just around the corner from our school.",
+  "exzh": "那家書店就在我們學校轉角處。",
+  "targets": [
+   "around the corner"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0096",
+  "phrase": "sick to one's stomach",
+  "zh": "噁心想吐；反胃",
+  "say": "sick to one's stomach",
+  "en": "Ben felt sick to his stomach after riding the roller coaster.",
+  "exzh": "Ben 坐完雲霄飛車後覺得很反胃。",
+  "targets": [
+   "sick to his stomach"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0097",
+  "phrase": "make peace",
+  "zh": "和解；言歸於好",
+  "say": "make peace",
+  "en": "Kevin and Ben made peace after their argument about the game.",
+  "exzh": "Kevin 和 Ben 在為了比賽吵架後和好了。",
+  "targets": [
+   "made peace"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0098",
+  "phrase": "make fun of",
+  "zh": "取笑；嘲弄",
+  "say": "make fun of",
+  "en": "Don't make fun of others because of how they look.",
+  "exzh": "不要因為別人的外表而取笑他們。",
+  "targets": [
+   "make fun of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0099",
+  "phrase": "at least",
+  "zh": "至少",
+  "say": "at least",
+  "en": "You should sleep at least eight hours before the exam.",
+  "exzh": "考試前你至少應該睡八個小時。",
+  "targets": [
+   "at least"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0100",
+  "phrase": "apart from",
+  "zh": "除了⋯⋯之外",
+  "say": "apart from",
+  "en": "Apart from math, Lisa likes all her classes.",
+  "exzh": "除了數學之外，Lisa 喜歡所有的課。",
+  "targets": [
+   "Apart from"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0101",
+  "phrase": "...not...anymore",
+  "zh": "不再⋯⋯",
+  "say": "not anymore",
+  "en": "Kevin does not play video games after school anymore.",
+  "exzh": "Kevin 放學後不再打電動了。",
+  "targets": [
+   "not",
+   "anymore"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0102",
+  "phrase": "as well as",
+  "zh": "和⋯⋯一樣；以及",
+  "say": "as well as",
+  "en": "Amy plays the piano as well as the violin.",
+  "exzh": "Amy 除了拉小提琴，也會彈鋼琴。",
+  "targets": [
+   "as well as"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0103",
+  "phrase": "for free",
+  "zh": "免費",
+  "say": "for free",
+  "en": "The museum lets students visit for free on the first Sunday of every month.",
+  "exzh": "博物館在每個月的第一個星期日讓學生免費參觀。",
+  "targets": [
+   "for free"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0104",
+  "phrase": "at present",
+  "zh": "目前；現在",
+  "say": "at present",
+  "en": "At present, Amy is too busy with club activities to join our trip.",
+  "exzh": "Amy目前忙於社團活動，沒辦法加入我們的旅行。",
+  "targets": [
+   "At present"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0105",
+  "phrase": "give...a try",
+  "zh": "試一試⋯⋯",
+  "say": "give something a try",
+  "en": "Ben was afraid of rock climbing, but he decided to give it a try.",
+  "exzh": "Ben原本很怕攀岩，但他決定試一試。",
+  "targets": [
+   "give",
+   "a try"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0106",
+  "phrase": "broaden one's horizons",
+  "zh": "拓展視野",
+  "say": "broaden one's horizons",
+  "en": "Traveling abroad can broaden your horizons and teach you about other cultures.",
+  "exzh": "出國旅行能拓展你的視野，讓你認識其他文化。",
+  "targets": [
+   "broaden",
+   "horizons"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0107",
+  "phrase": "take part in",
+  "zh": "參加",
+  "say": "take part in",
+  "en": "Kevin wants to take part in the school science fair this year.",
+  "exzh": "Kevin今年想參加學校的科學展。",
+  "targets": [
+   "take part in"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0108",
+  "phrase": "take place",
+  "zh": "舉行；發生",
+  "say": "take place",
+  "en": "The graduation ceremony will take place in the gym next Friday.",
+  "exzh": "畢業典禮將在下週五於體育館舉行。",
+  "targets": [
+   "take place"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0109",
+  "phrase": "come about",
+  "zh": "發生；產生",
+  "say": "come about",
+  "en": "How did the idea for our class trip come about?",
+  "exzh": "我們班遊的點子是怎麼來的？",
+  "targets": [
+   "come about"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0110",
+  "phrase": "help (...) out",
+  "zh": "幫忙；幫⋯⋯一把",
+  "say": "help someone out",
+  "en": "Lisa often helps her mom out at the family shop after school.",
+  "exzh": "Lisa放學後常到家裡的店幫媽媽的忙。",
+  "targets": [
+   "helps",
+   "out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0111",
+  "phrase": "hand out",
+  "zh": "發放；分發",
+  "say": "hand out",
+  "en": "Mr. Chen asked me to hand out the test papers to everyone.",
+  "exzh": "Mr. Chen請我把考卷發給大家。",
+  "targets": [
+   "hand out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0112",
+  "phrase": "take on",
+  "zh": "承擔；接下",
+  "say": "take on",
+  "en": "Kevin took on the job of cleaning the science lab every week.",
+  "exzh": "Kevin接下了每週打掃自然教室的工作。",
+  "targets": [
+   "took on"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0113",
+  "phrase": "later on",
+  "zh": "後來；稍後",
+  "say": "later on",
+  "en": "Amy was shy at first, but later on she became our class leader.",
+  "exzh": "Amy起初很害羞，但後來當上了我們的班長。",
+  "targets": [
+   "later on"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0114",
+  "phrase": "in the beginning",
+  "zh": "起初；一開始",
+  "say": "in the beginning",
+  "en": "In the beginning, I could not understand the teacher's English at all.",
+  "exzh": "一開始，我完全聽不懂老師說的英文。",
+  "targets": [
+   "In the beginning"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0115",
+  "phrase": "too...to...",
+  "zh": "太⋯⋯而無法⋯⋯",
+  "say": "too something to do something",
+  "en": "The box was too heavy for Lisa to carry up the stairs alone.",
+  "exzh": "這個箱子太重了，Lisa一個人搬不上樓梯。",
+  "targets": [
+   "too",
+   "to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0116",
+  "phrase": "play a/an...role (in)",
+  "zh": "在⋯⋯中扮演重要角色",
+  "say": "play an important role in",
+  "en": "Sleep plays an important role in how well students learn at school.",
+  "exzh": "睡眠對學生在學校的學習成效扮演重要的角色。",
+  "targets": [
+   "plays an",
+   "role in"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0117",
+  "phrase": "think up",
+  "zh": "想出；編出",
+  "say": "think up",
+  "en": "Our club members thought up a funny name for the team.",
+  "exzh": "我們的社員替球隊想出了一個好笑的名字。",
+  "targets": [
+   "thought up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0118",
+  "phrase": "hear of",
+  "zh": "聽說過",
+  "say": "hear of",
+  "en": "Have you ever heard of the small bookstore near our school?",
+  "exzh": "你有聽說過我們學校附近那間小書店嗎？",
+  "targets": [
+   "heard of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0119",
+  "phrase": "make it to",
+  "zh": "趕到；成功抵達",
+  "say": "make it to",
+  "en": "Lisa ran fast and made it to the station before the train left.",
+  "exzh": "Lisa跑得很快，在火車開走前趕到了車站。",
+  "targets": [
+   "made it to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0120",
+  "phrase": "ask for",
+  "zh": "要求；請求",
+  "say": "ask for",
+  "en": "Do not be afraid to ask for help when you get stuck in math class.",
+  "exzh": "在數學課卡住時，別怕開口求助。",
+  "targets": [
+   "ask for"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0121",
+  "phrase": "invite someone over",
+  "zh": "邀請某人來家裡",
+  "say": "invite someone over",
+  "en": "Kevin invited his classmates over to watch the baseball game at his house.",
+  "exzh": "Kevin邀請同學來他家看棒球比賽。",
+  "targets": [
+   "invited",
+   "over"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0122",
+  "phrase": "refer to",
+  "zh": "提及；參考；指",
+  "say": "refer to",
+  "en": "The teacher asked us to refer to page 20 for the answer.",
+  "exzh": "老師要我們參考第20頁找答案。",
+  "targets": [
+   "refer to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0123",
+  "phrase": "as...as possible",
+  "zh": "盡可能⋯⋯",
+  "say": "as much as possible",
+  "en": "Please finish your homework as early as possible tonight.",
+  "exzh": "今晚請盡早把功課寫完。",
+  "targets": [
+   "as",
+   "as possible"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0124",
+  "phrase": "break...up",
+  "zh": "把⋯⋯拆開；把⋯⋯分成幾部分",
+  "say": "break something up",
+  "en": "The teacher broke the class up into four small groups.",
+  "exzh": "老師把全班分成四個小組。",
+  "targets": [
+   "broke",
+   "up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0125",
+  "phrase": "fill in",
+  "zh": "填寫；填補",
+  "say": "fill in",
+  "en": "Please fill in your name and class number on the form.",
+  "exzh": "請在表格上填寫你的姓名和班級座號。",
+  "targets": [
+   "fill in"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0126",
+  "phrase": "make use of",
+  "zh": "利用",
+  "say": "make use of",
+  "en": "Amy makes good use of her time on the bus to review English words.",
+  "exzh": "Amy善加利用搭公車的時間複習英文單字。",
+  "targets": [
+   "makes",
+   "use of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0127",
+  "phrase": "ISS",
+  "zh": "國際太空站",
+  "say": "I S S",
+  "en": "Mr. Chen showed a video about life on the ISS in science class.",
+  "exzh": "Mr. Chen在自然課播放了一部關於國際太空站生活的影片。",
+  "targets": [
+   "ISS"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0128",
+  "phrase": "out of this world",
+  "zh": "好極了；非比尋常",
+  "say": "out of this world",
+  "en": "The sunset we saw from the mountain was out of this world.",
+  "exzh": "我們在山上看到的夕陽美得不可思議。",
+  "targets": [
+   "out of this world"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0129",
+  "phrase": "work out",
+  "zh": "健身運動；解決",
+  "say": "work out",
+  "en": "Ben works out in the school gym three times a week.",
+  "exzh": "Ben每週在學校的健身房運動三次。",
+  "targets": [
+   "works out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0130",
+  "phrase": "work up a sweat",
+  "zh": "流汗；運動到出汗",
+  "say": "work up a sweat",
+  "en": "We worked up a sweat playing basketball in the afternoon sun.",
+  "exzh": "我們在午後的陽光下打籃球，打得滿身大汗。",
+  "targets": [
+   "worked up a sweat"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0131",
+  "phrase": "have a lie-down",
+  "zh": "躺下休息",
+  "say": "have a lie-down",
+  "en": "After the long hike, Lisa wanted to have a lie-down for a while.",
+  "exzh": "長程健行後，Lisa想躺下來休息一會兒。",
+  "targets": [
+   "have a lie-down"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0132",
+  "phrase": "pass on...to...",
+  "zh": "把⋯⋯傳給⋯⋯",
+  "say": "pass something on to someone",
+  "en": "Please pass the news on to the other members of the club.",
+  "exzh": "請把這個消息轉告給社團的其他成員。",
+  "targets": [
+   "pass",
+   "on to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0133",
+  "phrase": "cheer...up",
+  "zh": "使⋯⋯振作；讓⋯⋯開心",
+  "say": "cheer someone up",
+  "en": "Amy brought cookies to cheer her little brother up.",
+  "exzh": "Amy帶了餅乾來逗弟弟開心。",
+  "targets": [
+   "cheer",
+   "up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0134",
+  "phrase": "turn...down",
+  "zh": "拒絕；調低",
+  "say": "turn someone down",
+  "en": "Ben turned the invitation down because he had a test the next day.",
+  "exzh": "Ben婉拒了邀請，因為他隔天有考試。",
+  "targets": [
+   "turned",
+   "down"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0135",
+  "phrase": "be about to",
+  "zh": "即將",
+  "say": "be about to",
+  "en": "The bus was about to leave when Lisa ran to the stop.",
+  "exzh": "Lisa跑到站牌時，公車正要開走。",
+  "targets": [
+   "was about to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0136",
+  "phrase": "after all",
+  "zh": "畢竟；終究",
+  "say": "after all",
+  "en": "Don't be upset with Kevin; he is only a beginner after all.",
+  "exzh": "別對Kevin生氣，他畢竟只是個新手。",
+  "targets": [
+   "after all"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0137",
+  "phrase": "pass away",
+  "zh": "去世",
+  "say": "pass away",
+  "en": "Amy's grandfather passed away last year, and she still misses him.",
+  "exzh": "Amy的爺爺去年過世了，她仍然很想念他。",
+  "targets": [
+   "passed away"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0138",
+  "phrase": "make a difference",
+  "zh": "有影響；起作用",
+  "say": "make a difference",
+  "en": "Even a small effort in recycling can make a difference.",
+  "exzh": "即使是在資源回收上的一點小努力，也能帶來改變。",
+  "targets": [
+   "make a difference"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0139",
+  "phrase": "trial and error",
+  "zh": "反覆試驗；不斷嘗試",
+  "say": "trial and error",
+  "en": "Ben learned to cook by trial and error in his family's kitchen.",
+  "exzh": "Ben在家裡的廚房不斷嘗試錯誤，學會了做菜。",
+  "targets": [
+   "trial and error"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0140",
+  "phrase": "in charge",
+  "zh": "負責；主管",
+  "say": "in charge of",
+  "en": "Lisa is in charge of the school newspaper this semester.",
+  "exzh": "Lisa這學期負責學校的校刊。",
+  "targets": [
+   "in charge"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0141",
+  "phrase": "figure out",
+  "zh": "弄清楚；想出",
+  "say": "figure out",
+  "en": "It took Amy an hour to figure out the math problem.",
+  "exzh": "Amy花了一個小時才解出這道數學題。",
+  "targets": [
+   "figure out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0142",
+  "phrase": "roll up one's sleeves",
+  "zh": "捲起袖子準備大幹",
+  "say": "roll up one's sleeves",
+  "en": "Everyone rolled up their sleeves and began to clean the classroom.",
+  "exzh": "大家捲起袖子，開始打掃教室。",
+  "targets": [
+   "rolled up",
+   "sleeves"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0143",
+  "phrase": "get down to...",
+  "zh": "開始認真做⋯⋯",
+  "say": "get down to something",
+  "en": "After lunch, Kevin got down to studying for the history test.",
+  "exzh": "午餐後，Kevin開始認真準備歷史考試。",
+  "targets": [
+   "got down to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0144",
+  "phrase": "run out (of...)",
+  "zh": "用完；耗盡",
+  "say": "run out of",
+  "en": "We ran out of paper, so Mr. Chen got some from the office.",
+  "exzh": "我們的紙用完了，所以Mr. Chen去辦公室拿了一些。",
+  "targets": [
+   "ran out of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0145",
+  "phrase": "make up for",
+  "zh": "彌補",
+  "say": "make up for",
+  "en": "Ben studied extra hard this week to make up for his low score.",
+  "exzh": "Ben這週格外用功，想彌補他的低分。",
+  "targets": [
+   "make up for"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0146",
+  "phrase": "as a result",
+  "zh": "結果；因此",
+  "say": "as a result",
+  "en": "It rained all day. As a result, the school sports day was moved.",
+  "exzh": "雨下了一整天，因此學校運動會延期了。",
+  "targets": [
+   "As a result"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0147",
+  "phrase": "fall victim to",
+  "zh": "成為⋯⋯的受害者",
+  "say": "fall victim to",
+  "en": "Many students fell victim to a bad cold after the long rainy week.",
+  "exzh": "在連續下雨的一週後，許多學生得了重感冒。",
+  "targets": [
+   "fell victim to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0148",
+  "phrase": "feed on",
+  "zh": "以⋯⋯為食",
+  "say": "feed on",
+  "en": "In biology class, we learned that pandas feed on bamboo.",
+  "exzh": "在生物課上，我們學到貓熊以竹子為食。",
+  "targets": [
+   "feed on"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0149",
+  "phrase": "set the stage for",
+  "zh": "為⋯⋯鋪路；為⋯⋯打下基礎",
+  "say": "set the stage for",
+  "en": "Early practice set the stage for the team's win in the final game.",
+  "exzh": "早早開始練習，為球隊在決賽中獲勝打下了基礎。",
+  "targets": [
+   "set the stage for"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0150",
+  "phrase": "scare...to death",
+  "zh": "把⋯⋯嚇死",
+  "say": "scare someone to death",
+  "en": "The loud noise in the dark hall scared Lisa to death.",
+  "exzh": "黑暗走廊裡的巨大聲響把Lisa嚇死了。",
+  "targets": [
+   "scared",
+   "to death"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0151",
+  "phrase": "make one's hair stand on end",
+  "zh": "令人毛骨悚然",
+  "say": "make one's hair stand on end",
+  "en": "The scary story at camp made my hair stand on end.",
+  "exzh": "營隊裡的那個恐怖故事讓我毛骨悚然。",
+  "targets": [
+   "made",
+   "hair stand on end"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0152",
+  "phrase": "in honor of",
+  "zh": "為了紀念；向⋯⋯致敬",
+  "say": "in honor of",
+  "en": "The school held a concert in honor of the retiring principal.",
+  "exzh": "學校舉辦了一場音樂會，向即將退休的校長致敬。",
+  "targets": [
+   "in honor of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0153",
+  "phrase": "in advance (of...)",
+  "zh": "事先；提前",
+  "say": "in advance of",
+  "en": "Please buy the tickets in advance so we can get good seats.",
+  "exzh": "請事先買好票，這樣我們才能有好座位。",
+  "targets": [
+   "in advance"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0154",
+  "phrase": "die out",
+  "zh": "絕種；逐漸消失",
+  "say": "die out",
+  "en": "Scientists worry that these birds may die out in twenty years.",
+  "exzh": "科學家擔心這些鳥可能在二十年內絕種。",
+  "targets": [
+   "die out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0155",
+  "phrase": "turn...into...",
+  "zh": "把⋯⋯變成⋯⋯",
+  "say": "turn something into something",
+  "en": "Mom turned the old box into a pencil case for me.",
+  "exzh": "媽媽把舊盒子改成了一個鉛筆盒給我。",
+  "targets": [
+   "turned",
+   "into"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0156",
+  "phrase": "feast one's eyes on",
+  "zh": "飽覽；大飽眼福",
+  "say": "feast one's eyes on",
+  "en": "At the night market, we feasted our eyes on colorful lanterns.",
+  "exzh": "在夜市裡，我們欣賞著五彩繽紛的燈籠，大飽眼福。",
+  "targets": [
+   "feasted",
+   "eyes on"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0157",
+  "phrase": "face to face",
+  "zh": "面對面",
+  "say": "face to face",
+  "en": "Amy talked to her pen pal face to face for the first time.",
+  "exzh": "Amy第一次和她的筆友面對面聊天。",
+  "targets": [
+   "face to face"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0158",
+  "phrase": "stand out",
+  "zh": "突出；顯眼",
+  "say": "stand out",
+  "en": "Kevin's red jacket made him stand out in the crowd.",
+  "exzh": "Kevin的紅外套讓他在人群中很顯眼。",
+  "targets": [
+   "stand out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0159",
+  "phrase": "fall in love with",
+  "zh": "愛上",
+  "say": "fall in love with",
+  "en": "Lisa fell in love with photography after joining the school club.",
+  "exzh": "Lisa加入學校社團後，愛上了攝影。",
+  "targets": [
+   "fell in love with"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0160",
+  "phrase": "set off",
+  "zh": "出發；引發",
+  "say": "set off",
+  "en": "We set off for the mountain early in the morning.",
+  "exzh": "我們一大早就出發前往山上。",
+  "targets": [
+   "set off"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0161",
+  "phrase": "come upon",
+  "zh": "偶然發現；偶然遇到",
+  "say": "come upon",
+  "en": "While cleaning the library, Ben came upon an old map.",
+  "exzh": "在打掃圖書館時，Ben意外發現了一張舊地圖。",
+  "targets": [
+   "came upon"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0162",
+  "phrase": "care for",
+  "zh": "照顧；喜歡",
+  "say": "care for",
+  "en": "Amy cares for her sick grandmother after school.",
+  "exzh": "Amy放學後照顧生病的奶奶。",
+  "targets": [
+   "cares for"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0163",
+  "phrase": "cling to",
+  "zh": "緊抓；堅持",
+  "say": "cling to",
+  "en": "The little boy clung to his mother's hand at the busy station.",
+  "exzh": "在擁擠的車站裡，小男孩緊緊抓著媽媽的手。",
+  "targets": [
+   "clung to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0164",
+  "phrase": "lay eyes on",
+  "zh": "看見",
+  "say": "lay eyes on",
+  "en": "I will never forget the moment I first laid eyes on the sea.",
+  "exzh": "我永遠忘不了第一次看見大海的那一刻。",
+  "targets": [
+   "laid eyes on"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0165",
+  "phrase": "worst of all",
+  "zh": "最糟的是",
+  "say": "worst of all",
+  "en": "It was cold and rainy, and worst of all, we missed the last bus.",
+  "exzh": "天氣又冷又下雨，最糟的是我們還錯過了末班公車。",
+  "targets": [
+   "worst of all"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0166",
+  "phrase": "in return (for)",
+  "zh": "作為回報",
+  "say": "in return for",
+  "en": "Amy helped Ben with math, and he cooked lunch for her in return.",
+  "exzh": "Amy幫Ben補數學，他則煮午餐回報她。",
+  "targets": [
+   "in return"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0167",
+  "phrase": "for sb.'s sake/for the sake of sb.",
+  "zh": "為了某人",
+  "say": "for someone's sake",
+  "en": "Dad drove two hours for my sake so I could join the contest.",
+  "exzh": "爸爸為了我開了兩個小時的車，讓我能參加比賽。",
+  "targets": [
+   "for",
+   "sake"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0168",
+  "phrase": "account for",
+  "zh": "說明；佔(比例)",
+  "say": "account for",
+  "en": "Girls account for more than half of the students in our club.",
+  "exzh": "我們社團裡女生佔了一半以上。",
+  "targets": [
+   "account for"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0169",
+  "phrase": "as well",
+  "zh": "也；同樣",
+  "say": "as well",
+  "en": "Ben plays the piano, and he sings as well.",
+  "exzh": "Ben會彈鋼琴，也會唱歌。",
+  "targets": [
+   "as well"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0170",
+  "phrase": "in the case of...",
+  "zh": "就⋯⋯而言；在⋯⋯的情況下",
+  "say": "in the case of",
+  "en": "In the case of heavy rain, the picnic will be moved indoors.",
+  "exzh": "如果下大雨，野餐會改到室內舉行。",
+  "targets": [
+   "In the case of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0171",
+  "phrase": "under the circumstances",
+  "zh": "在這種情況下",
+  "say": "under the circumstances",
+  "en": "Under the circumstances, we decided to stop the game early.",
+  "exzh": "在這種情況下，我們決定提早結束比賽。",
+  "targets": [
+   "Under the circumstances"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0172",
+  "phrase": "follow suit",
+  "zh": "跟著做；效法",
+  "say": "follow suit",
+  "en": "Amy brought her own cup, and her classmates soon followed suit.",
+  "exzh": "Amy自備杯子，同學們很快也跟著這麼做。",
+  "targets": [
+   "followed suit"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0173",
+  "phrase": "aside from",
+  "zh": "除了",
+  "say": "aside from",
+  "en": "Aside from math, Kevin likes all his school subjects.",
+  "exzh": "除了數學之外，Kevin喜歡所有的學科。",
+  "targets": [
+   "Aside from"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0174",
+  "phrase": "best of all",
+  "zh": "最棒的是",
+  "say": "best of all",
+  "en": "The trip was fun, and best of all, it was free.",
+  "exzh": "這趟旅行很好玩，最棒的是還免費。",
+  "targets": [
+   "best of all"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0175",
+  "phrase": "lead to",
+  "zh": "導致；通往",
+  "say": "lead to",
+  "en": "Staying up late often leads to poor grades.",
+  "exzh": "熬夜常會導致成績不好。",
+  "targets": [
+   "leads to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0176",
+  "phrase": "what's more",
+  "zh": "此外；更重要的是",
+  "say": "what's more",
+  "en": "The cake was cheap. What's more, it tasted great.",
+  "exzh": "這蛋糕很便宜，而且味道還很棒。",
+  "targets": [
+   "What's more"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0177",
+  "phrase": "worse still",
+  "zh": "更糟的是",
+  "say": "worse still",
+  "en": "The test was hard, and worse still, I forgot my pen.",
+  "exzh": "考試很難，更糟的是我還忘了帶筆。",
+  "targets": [
+   "worse still"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0178",
+  "phrase": "deal with",
+  "zh": "處理；應付",
+  "say": "deal with",
+  "en": "Lisa learned how to deal with stress before big exams.",
+  "exzh": "Lisa學會了如何在大考前應付壓力。",
+  "targets": [
+   "deal with"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0179",
+  "phrase": "take pleasure in",
+  "zh": "以⋯⋯為樂",
+  "say": "take pleasure in",
+  "en": "Ben takes pleasure in helping younger students with homework.",
+  "exzh": "Ben樂於幫學弟妹寫功課。",
+  "targets": [
+   "takes pleasure in"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0180",
+  "phrase": "go about",
+  "zh": "著手處理；開始做",
+  "say": "go about",
+  "en": "I don't know how to go about writing a science report.",
+  "exzh": "我不知道該怎麼著手寫自然科報告。",
+  "targets": [
+   "go about"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0181",
+  "phrase": "set out",
+  "zh": "出發；著手",
+  "say": "set out",
+  "en": "The class set out to clean the park near our school.",
+  "exzh": "全班動身去打掃學校附近的公園。",
+  "targets": [
+   "set out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0182",
+  "phrase": "send...off",
+  "zh": "為⋯⋯送行；寄出",
+  "say": "send someone off",
+  "en": "Many students came to the station to send Amy off.",
+  "exzh": "許多同學到車站為Amy送行。",
+  "targets": [
+   "send",
+   "off"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0183",
+  "phrase": "in the meantime",
+  "zh": "同時；在此期間",
+  "say": "in the meantime",
+  "en": "Mom is cooking dinner. In the meantime, I will set the table.",
+  "exzh": "媽媽在煮晚餐，這段時間我來擺碗筷。",
+  "targets": [
+   "In the meantime"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0184",
+  "phrase": "all manner of",
+  "zh": "各式各樣的",
+  "say": "all manner of",
+  "en": "The night market sells all manner of snacks.",
+  "exzh": "夜市賣各式各樣的小吃。",
+  "targets": [
+   "all manner of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0185",
+  "phrase": "be looking to...",
+  "zh": "打算；想要",
+  "say": "be looking to",
+  "en": "Our basketball club is looking to find a new coach.",
+  "exzh": "我們的籃球社想找一位新教練。",
+  "targets": [
+   "is looking to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0186",
+  "phrase": "cost an arm and a leg",
+  "zh": "非常昂貴",
+  "say": "cost an arm and a leg",
+  "en": "The new phone cost an arm and a leg, so Kevin kept his old one.",
+  "exzh": "那支新手機貴得嚇人，所以Kevin繼續用舊的。",
+  "targets": [
+   "cost an arm and a leg"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0187",
+  "phrase": "give...a hand",
+  "zh": "幫⋯⋯一把",
+  "say": "give someone a hand",
+  "en": "Can you give me a hand with these heavy books?",
+  "exzh": "你可以幫我搬這些很重的書嗎？",
+  "targets": [
+   "give",
+   "a hand"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0188",
+  "phrase": "build on",
+  "zh": "以⋯⋯為基礎再發展",
+  "say": "build on",
+  "en": "In science class, we build on what we learned last week.",
+  "exzh": "在自然課上，我們以上週學到的內容為基礎繼續往下學。",
+  "targets": [
+   "build on"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0189",
+  "phrase": "map out",
+  "zh": "規劃",
+  "say": "map out",
+  "en": "Lisa and her friends mapped out their trip to Tainan.",
+  "exzh": "Lisa和朋友們規劃了去台南的旅行。",
+  "targets": [
+   "mapped out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0190",
+  "phrase": "nowhere to be found",
+  "zh": "到處都找不到",
+  "say": "nowhere to be found",
+  "en": "I looked everywhere, but my umbrella was nowhere to be found.",
+  "exzh": "我到處找，卻怎麼也找不到我的雨傘。",
+  "targets": [
+   "nowhere to be found"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0191",
+  "phrase": "leave...behind",
+  "zh": "留下；遺忘；把⋯⋯拋在後面",
+  "say": "leave something behind",
+  "en": "Ben left his lunch box behind at home this morning.",
+  "exzh": "Ben今天早上把便當盒忘在家裡了。",
+  "targets": [
+   "left",
+   "behind"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0192",
+  "phrase": "result from",
+  "zh": "起因於",
+  "say": "result from",
+  "en": "Her good grades result from hard work every day.",
+  "exzh": "她的好成績來自每天的努力。",
+  "targets": [
+   "result from"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0193",
+  "phrase": "in no time",
+  "zh": "很快；馬上",
+  "say": "in no time",
+  "en": "Kevin finished all his math homework in no time after dinner.",
+  "exzh": "Kevin吃完晚餐後，很快就把數學作業寫完了。",
+  "targets": [
+   "in no time"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0194",
+  "phrase": "on top of",
+  "zh": "除了⋯⋯之外還；在⋯⋯上面",
+  "say": "on top of",
+  "en": "On top of homework, Amy has a part-time job on weekends.",
+  "exzh": "除了功課之外，Amy週末還有一份兼職工作。",
+  "targets": [
+   "On top of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0195",
+  "phrase": "in the long run",
+  "zh": "長遠來看",
+  "say": "in the long run",
+  "en": "Learning a little English every day will help you in the long run.",
+  "exzh": "每天學一點英文，長遠來看會對你有幫助。",
+  "targets": [
+   "in the long run"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0196",
+  "phrase": "make one's way to",
+  "zh": "前往",
+  "say": "make one's way to",
+  "en": "After class, Lisa made her way to the school gym.",
+  "exzh": "下課後，Lisa前往學校的體育館。",
+  "targets": [
+   "made",
+   "way to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0197",
+  "phrase": "at the drop of a hat",
+  "zh": "毫不猶豫；馬上",
+  "say": "at the drop of a hat",
+  "en": "Kevin will help his friends at the drop of a hat.",
+  "exzh": "Kevin會毫不猶豫地幫助朋友。",
+  "targets": [
+   "at the drop of a hat"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0198",
+  "phrase": "have one's roots in",
+  "zh": "起源於",
+  "say": "have one's roots in",
+  "en": "This old festival has its roots in farming life.",
+  "exzh": "這個古老的節慶起源於農家生活。",
+  "targets": [
+   "has",
+   "roots in"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0199",
+  "phrase": "so as to",
+  "zh": "為了；以便",
+  "say": "so as to",
+  "en": "We left early so as to catch the first train.",
+  "exzh": "我們提早出發，以便趕上第一班火車。",
+  "targets": [
+   "so as to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0200",
+  "phrase": "back and forth",
+  "zh": "來回地",
+  "say": "back and forth",
+  "en": "The ball went back and forth across the net many times.",
+  "exzh": "球在網子兩邊來回飛了很多次。",
+  "targets": [
+   "back and forth"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0201",
+  "phrase": "wear on",
+  "zh": "(時間)慢慢流逝",
+  "say": "wear on",
+  "en": "As the afternoon wore on, the students grew sleepy.",
+  "exzh": "隨著下午時間慢慢過去，學生們愈來愈想睡。",
+  "targets": [
+   "wore on"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0202",
+  "phrase": "around the clock",
+  "zh": "全天候；日夜不停",
+  "say": "around the clock",
+  "en": "The convenience store near my school is open around the clock.",
+  "exzh": "我學校附近的便利商店全天營業。",
+  "targets": [
+   "around the clock"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0203",
+  "phrase": "the fruit(s) of...",
+  "zh": "⋯⋯的成果",
+  "say": "the fruits of",
+  "en": "The medal is the fruit of Amy's long hours of practice.",
+  "exzh": "這面獎牌是Amy長時間練習的成果。",
+  "targets": [
+   "the fruit of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0204",
+  "phrase": "by no means",
+  "zh": "絕不；一點也不",
+  "say": "by no means",
+  "en": "Learning English is by no means easy, but it is fun.",
+  "exzh": "學英文絕對不輕鬆，但很有趣。",
+  "targets": [
+   "by no means"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0205",
+  "phrase": "cross one's mind",
+  "zh": "想到⋯⋯；浮現腦海",
+  "say": "cross one's mind",
+  "en": "It never crossed Amy's mind that the test would be moved to Friday.",
+  "exzh": "Amy 從沒想過考試會改到星期五。",
+  "targets": [
+   "crossed",
+   "mind"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0206",
+  "phrase": "make clear",
+  "zh": "說清楚；講明白",
+  "say": "make clear",
+  "en": "Mr. Chen made clear that phones are not allowed during the quiz.",
+  "exzh": "陳老師講明了小考期間不可以使用手機。",
+  "targets": [
+   "made clear"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0207",
+  "phrase": "at a time",
+  "zh": "一次（一個）",
+  "say": "at a time",
+  "en": "The bus is small, so only five students can get on at a time.",
+  "exzh": "這輛公車很小，所以一次只能上五位學生。",
+  "targets": [
+   "at a time"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0208",
+  "phrase": "base...on...",
+  "zh": "以⋯⋯為基礎",
+  "say": "base something on something",
+  "en": "Kevin based his science report on the results of our own experiment.",
+  "exzh": "Kevin 的自然科報告是根據我們自己的實驗結果寫的。",
+  "targets": [
+   "based",
+   "on"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0209",
+  "phrase": "at risk (of)",
+  "zh": "有⋯⋯的危險",
+  "say": "at risk of",
+  "en": "Players who skip warm-up exercises are at risk of hurting their legs.",
+  "exzh": "不做暖身運動的球員有傷到腿的風險。",
+  "targets": [
+   "at risk of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0210",
+  "phrase": "rise above",
+  "zh": "不受⋯⋯影響；超越",
+  "say": "rise above",
+  "en": "Lisa tried to rise above the rude comments and keep smiling.",
+  "exzh": "Lisa 努力不被那些無禮的評論影響，繼續保持微笑。",
+  "targets": [
+   "rise above"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0211",
+  "phrase": "strike a balance",
+  "zh": "取得平衡",
+  "say": "strike a balance",
+  "en": "It is hard to strike a balance between homework and club activities.",
+  "exzh": "要在功課和社團活動之間取得平衡很不容易。",
+  "targets": [
+   "strike a balance"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0212",
+  "phrase": "in the end",
+  "zh": "最後；終究",
+  "say": "in the end",
+  "en": "We argued for an hour, but in the end we chose the blue poster.",
+  "exzh": "我們爭論了一個小時，但最後選了藍色的海報。",
+  "targets": [
+   "in the end"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0213",
+  "phrase": "in need of",
+  "zh": "需要",
+  "say": "in need of",
+  "en": "Our badminton club is in need of new rackets this semester.",
+  "exzh": "我們羽球社這學期需要新的球拍。",
+  "targets": [
+   "in need of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0214",
+  "phrase": "as a whole",
+  "zh": "整體而言",
+  "say": "as a whole",
+  "en": "As a whole, the class did well in the English speech contest.",
+  "exzh": "整體而言，全班在英語演講比賽中表現得很好。",
+  "targets": [
+   "As a whole"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0215",
+  "phrase": "all in all",
+  "zh": "總而言之",
+  "say": "all in all",
+  "en": "All in all, the school trip to Tainan was a great experience.",
+  "exzh": "總的來說，這趟台南校外教學是很棒的經驗。",
+  "targets": [
+   "All in all"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0216",
+  "phrase": "on track",
+  "zh": "步入正軌；進度順利",
+  "say": "on track",
+  "en": "Ben checks his study plan every week to stay on track for the exam.",
+  "exzh": "Ben 每週檢查讀書計畫，好讓考試準備維持在進度上。",
+  "targets": [
+   "on track"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0217",
+  "phrase": "clear out",
+  "zh": "清空；清理掉",
+  "say": "clear out",
+  "en": "Dad asked us to clear out the old boxes from the storage room.",
+  "exzh": "爸爸要我們把儲藏室裡的舊箱子清出來。",
+  "targets": [
+   "clear out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0218",
+  "phrase": "make way (for)",
+  "zh": "讓路給⋯⋯；為⋯⋯騰出空間",
+  "say": "make way for",
+  "en": "Please make way for the students carrying the big science models.",
+  "exzh": "請讓路給搬著大型自然科模型的同學。",
+  "targets": [
+   "make way for"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0219",
+  "phrase": "depend on",
+  "zh": "取決於；依賴",
+  "say": "depend on",
+  "en": "Whether we have the picnic depends on the weather tomorrow.",
+  "exzh": "我們能不能去野餐要看明天的天氣。",
+  "targets": [
+   "depends on"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0220",
+  "phrase": "under one's wing",
+  "zh": "受⋯⋯的照顧；在⋯⋯的庇護下",
+  "say": "under one's wing",
+  "en": "The senior player took Kevin under his wing and taught him new skills.",
+  "exzh": "那位學長把 Kevin 帶在身邊照顧，教他新的技巧。",
+  "targets": [
+   "under his wing"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0221",
+  "phrase": "come with",
+  "zh": "附帶；隨⋯⋯附有",
+  "say": "come with",
+  "en": "This new phone comes with a free case and a charger.",
+  "exzh": "這支新手機附贈保護殼和充電器。",
+  "targets": [
+   "comes with"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0222",
+  "phrase": "to come",
+  "zh": "未來的；即將到來的",
+  "say": "to come",
+  "en": "Let's work hard now so we can enjoy good results in the years to come.",
+  "exzh": "我們現在努力，就能在未來幾年享受好成果。",
+  "targets": [
+   "to come"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0223",
+  "phrase": "a fish out of water",
+  "zh": "格格不入的人；人生地不熟",
+  "say": "a fish out of water",
+  "en": "On his first day at the new school, Ben felt like a fish out of water.",
+  "exzh": "在新學校的第一天，Ben 覺得自己格格不入。",
+  "targets": [
+   "a fish out of water"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0224",
+  "phrase": "in the same boat",
+  "zh": "處境相同",
+  "say": "in the same boat",
+  "en": "We all failed the quiz, so we are in the same boat.",
+  "exzh": "我們小考都沒過，所以大家處境一樣。",
+  "targets": [
+   "in the same boat"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0225",
+  "phrase": "from top to bottom",
+  "zh": "從頭到尾；徹底地",
+  "say": "from top to bottom",
+  "en": "Our class cleaned the classroom from top to bottom before the visit.",
+  "exzh": "參訪之前，我們班把教室從上到下徹底打掃了一遍。",
+  "targets": [
+   "from top to bottom"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0226",
+  "phrase": "breathe a sigh of relief",
+  "zh": "鬆一口氣",
+  "say": "breathe a sigh of relief",
+  "en": "Lisa breathed a sigh of relief when she saw her name on the list.",
+  "exzh": "Lisa 看到名單上有自己的名字時鬆了一口氣。",
+  "targets": [
+   "breathed a sigh of relief"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0227",
+  "phrase": "drown out...",
+  "zh": "蓋過⋯⋯的聲音",
+  "say": "drown out something",
+  "en": "The loud music from the next room drowned out the teacher's voice.",
+  "exzh": "隔壁房間的大聲音樂蓋過了老師的聲音。",
+  "targets": [
+   "drowned out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0228",
+  "phrase": "take in...",
+  "zh": "欣賞；吸收；理解",
+  "say": "take in something",
+  "en": "Pause for a moment and take in the beautiful view from the mountain top.",
+  "exzh": "停下來一會兒，好好欣賞山頂的美景。",
+  "targets": [
+   "take in"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0229",
+  "phrase": "keep a record",
+  "zh": "做紀錄；保存紀錄",
+  "say": "keep a record",
+  "en": "Amy keeps a record of everything she spends in a small notebook.",
+  "exzh": "Amy 用一本小筆記本記錄她所有的花費。",
+  "targets": [
+   "keeps a record"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0230",
+  "phrase": "to this day",
+  "zh": "至今",
+  "say": "to this day",
+  "en": "Mom still keeps my first drawing to this day.",
+  "exzh": "媽媽至今仍保存著我的第一張畫。",
+  "targets": [
+   "to this day"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0231",
+  "phrase": "in large part",
+  "zh": "在很大程度上",
+  "say": "in large part",
+  "en": "Our team's success was in large part due to good teamwork.",
+  "exzh": "我們隊的成功在很大程度上要歸功於良好的團隊合作。",
+  "targets": [
+   "in large part"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0232",
+  "phrase": "bring back",
+  "zh": "使回想起；帶回",
+  "say": "bring back",
+  "en": "This old song brings back happy memories of my elementary school days.",
+  "exzh": "這首老歌讓我想起小學時快樂的回憶。",
+  "targets": [
+   "brings back"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0233",
+  "phrase": "on time",
+  "zh": "準時",
+  "say": "on time",
+  "en": "Kevin ran to the station to arrive on time for the train.",
+  "exzh": "Kevin 跑到車站，好準時趕上火車。",
+  "targets": [
+   "on time"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0234",
+  "phrase": "without a doubt",
+  "zh": "毫無疑問",
+  "say": "without a doubt",
+  "en": "Without a doubt, Lisa is the best singer in our class.",
+  "exzh": "毫無疑問，Lisa 是我們班最會唱歌的人。",
+  "targets": [
+   "Without a doubt"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0235",
+  "phrase": "(take...) day off",
+  "zh": "休假一天",
+  "say": "take a day off",
+  "en": "Mom took a day off to go to my school sports day.",
+  "exzh": "媽媽請了一天假來參加我們學校的運動會。",
+  "targets": [
+   "took a day off"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0236",
+  "phrase": "look after",
+  "zh": "照顧；照料",
+  "say": "look after",
+  "en": "Ben looks after his little sister every afternoon after school.",
+  "exzh": "Ben 每天放學後下午都要照顧他的妹妹。",
+  "targets": [
+   "looks after"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0237",
+  "phrase": "take to the streets",
+  "zh": "走上街頭",
+  "say": "take to the streets",
+  "en": "Thousands of fans took to the streets to celebrate the team's win.",
+  "exzh": "成千上萬的球迷走上街頭慶祝球隊獲勝。",
+  "targets": [
+   "took to the streets"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0238",
+  "phrase": "come to a standstill",
+  "zh": "完全停頓；陷入停擺",
+  "say": "come to a standstill",
+  "en": "Traffic came to a standstill because of the heavy rain.",
+  "exzh": "因為大雨，交通完全停了下來。",
+  "targets": [
+   "came to a standstill"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0239",
+  "phrase": "take (...) steps",
+  "zh": "採取措施",
+  "say": "take steps",
+  "en": "The school took steps to keep the playground safe for everyone.",
+  "exzh": "學校採取了措施，讓遊樂場對大家都安全。",
+  "targets": [
+   "took steps"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0240",
+  "phrase": "in this regard",
+  "zh": "在這方面",
+  "say": "in this regard",
+  "en": "Lisa is weak in math, and her tutor can help her in this regard.",
+  "exzh": "Lisa 的數學不好，她的家教老師能在這方面幫她。",
+  "targets": [
+   "in this regard"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0241",
+  "phrase": "in question",
+  "zh": "所討論的；有問題的",
+  "say": "in question",
+  "en": "The student in question forgot to hand in his homework.",
+  "exzh": "被提到的那位學生忘了交作業。",
+  "targets": [
+   "in question"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0242",
+  "phrase": "to such an extent that...",
+  "zh": "到了⋯⋯的程度以致於",
+  "say": "to such an extent that",
+  "en": "Kevin was tired to such an extent that he fell asleep on the bus.",
+  "exzh": "Kevin 累到在公車上睡著了。",
+  "targets": [
+   "to such an extent that"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0243",
+  "phrase": "be fed up (with)",
+  "zh": "對⋯⋯感到厭煩",
+  "say": "be fed up with",
+  "en": "Amy is fed up with waiting for the slow school bus every morning.",
+  "exzh": "Amy 受夠了每天早上等那班很慢的校車。",
+  "targets": [
+   "is fed up with"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0244",
+  "phrase": "throw up",
+  "zh": "嘔吐",
+  "say": "throw up",
+  "en": "Ben felt sick on the bumpy bus and almost threw up.",
+  "exzh": "Ben 在顛簸的公車上覺得不舒服，差點吐出來。",
+  "targets": [
+   "threw up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0245",
+  "phrase": "take down",
+  "zh": "記下；拆下",
+  "say": "take down",
+  "en": "Please take down the homework from the board before you leave.",
+  "exzh": "離開前請把黑板上的作業抄下來。",
+  "targets": [
+   "take down"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0246",
+  "phrase": "stand up for",
+  "zh": "支持；為⋯⋯挺身而出",
+  "say": "stand up for",
+  "en": "Lisa always stands up for her friends when someone treats them unfairly.",
+  "exzh": "有人對朋友不公平時，Lisa 總是挺身而出幫他們。",
+  "targets": [
+   "stands up for"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0247",
+  "phrase": "hold one's head up",
+  "zh": "昂首挺胸；保持自尊",
+  "say": "hold one's head up",
+  "en": "Even after losing the game, Kevin held his head up high.",
+  "exzh": "即使輸了比賽，Kevin 仍然昂首挺胸。",
+  "targets": [
+   "held his head up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0248",
+  "phrase": "come over",
+  "zh": "過來；到某人家拜訪",
+  "say": "come over",
+  "en": "Can you come over to my house to study for the test?",
+  "exzh": "你可以來我家一起準備考試嗎？",
+  "targets": [
+   "come over"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0249",
+  "phrase": "scare...off",
+  "zh": "把⋯⋯嚇跑",
+  "say": "scare something off",
+  "en": "The loud noise scared the birds off the school roof.",
+  "exzh": "巨大的聲響把鳥嚇離了學校的屋頂。",
+  "targets": [
+   "scared",
+   "off"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0250",
+  "phrase": "have high hopes",
+  "zh": "抱有很大期望",
+  "say": "have high hopes",
+  "en": "Our coach has high hopes for the basketball team this year.",
+  "exzh": "教練對今年的籃球隊期望很高。",
+  "targets": [
+   "has high hopes"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0251",
+  "phrase": "more or less",
+  "zh": "差不多；大致上",
+  "say": "more or less",
+  "en": "I have more or less finished my science report.",
+  "exzh": "我的自然科報告差不多完成了。",
+  "targets": [
+   "more or less"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0252",
+  "phrase": "come to mind",
+  "zh": "浮現腦海；想起",
+  "say": "come to mind",
+  "en": "When I hear the word summer, the beach comes to mind.",
+  "exzh": "我一聽到「夏天」這個詞，腦中就浮現海灘。",
+  "targets": [
+   "comes to mind"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0253",
+  "phrase": "spring up",
+  "zh": "突然冒出；迅速興起",
+  "say": "spring up",
+  "en": "New bubble tea shops spring up near our school every year.",
+  "exzh": "我們學校附近每年都冒出新的手搖飲料店。",
+  "targets": [
+   "spring up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0254",
+  "phrase": "by chance",
+  "zh": "偶然；碰巧",
+  "say": "by chance",
+  "en": "Amy met her old teacher by chance at the night market.",
+  "exzh": "Amy 在夜市碰巧遇到她以前的老師。",
+  "targets": [
+   "by chance"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0255",
+  "phrase": "be blessed with",
+  "zh": "享有；得天獨厚地擁有",
+  "say": "be blessed with",
+  "en": "Our town is blessed with beautiful mountains and clean rivers.",
+  "exzh": "我們的小鎮得天獨厚，擁有美麗的山和乾淨的河。",
+  "targets": [
+   "is blessed with"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0256",
+  "phrase": "watch out",
+  "zh": "小心；當心",
+  "say": "watch out",
+  "en": "Watch out! The floor in the science lab is wet.",
+  "exzh": "小心！自然科實驗室的地板是濕的。",
+  "targets": [
+   "Watch out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0257",
+  "phrase": "to one's heart's content",
+  "zh": "盡情地；心滿意足地",
+  "say": "to one's heart's content",
+  "en": "On vacation, Ben played baseball to his heart's content.",
+  "exzh": "放假時，Ben 盡情地打棒球。",
+  "targets": [
+   "to his heart's content"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0258",
+  "phrase": "fall into the wrong hands",
+  "zh": "落入壞人手中",
+  "say": "fall into the wrong hands",
+  "en": "Don't leave your student card on the bus, or it may fall into the wrong hands.",
+  "exzh": "別把學生證留在公車上，不然可能會落到壞人手裡。",
+  "targets": [
+   "fall into the wrong hands"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0259",
+  "phrase": "log in",
+  "zh": "登入",
+  "say": "log in",
+  "en": "You need a password to log in to the school website.",
+  "exzh": "你需要密碼才能登入學校網站。",
+  "targets": [
+   "log in"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0260",
+  "phrase": "sign in",
+  "zh": "簽到；登入",
+  "say": "sign in",
+  "en": "Visitors must sign in at the front desk before entering the school.",
+  "exzh": "訪客進入學校前必須先在櫃台簽到。",
+  "targets": [
+   "sign in"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0261",
+  "phrase": "go the extra mile",
+  "zh": "多下功夫；格外努力",
+  "say": "go the extra mile",
+  "en": "Lisa went the extra mile and practiced the speech ten more times.",
+  "exzh": "Lisa 格外努力，又多練習了十次演講。",
+  "targets": [
+   "went the extra mile"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0262",
+  "phrase": "heat up",
+  "zh": "加熱；升溫",
+  "say": "heat up",
+  "en": "Please heat up the soup in the microwave for two minutes.",
+  "exzh": "請把湯放進微波爐加熱兩分鐘。",
+  "targets": [
+   "heat up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0263",
+  "phrase": "keep in shape",
+  "zh": "保持健康體態",
+  "say": "keep in shape",
+  "en": "Kevin runs every morning to keep in shape for the basketball season.",
+  "exzh": "Kevin 每天早上跑步，好在籃球季保持良好體態。",
+  "targets": [
+   "keep in shape"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0264",
+  "phrase": "push...to the limit",
+  "zh": "把⋯⋯逼到極限",
+  "say": "push something to the limit",
+  "en": "The long hike pushed Amy to the limit, but she finished it.",
+  "exzh": "這趟長途健行把 Amy 逼到了極限，但她還是走完了。",
+  "targets": [
+   "pushed",
+   "to the limit"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0265",
+  "phrase": "get cold feet",
+  "zh": "臨陣退縮；膽怯",
+  "say": "get cold feet",
+  "en": "Ben got cold feet just before he went on stage.",
+  "exzh": "Ben 在上台前突然緊張退縮。",
+  "targets": [
+   "got cold feet"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0266",
+  "phrase": "sign up",
+  "zh": "報名；註冊",
+  "say": "sign up",
+  "en": "Many students sign up for the school choir at the start of the year.",
+  "exzh": "許多學生在學年初報名參加學校合唱團。",
+  "targets": [
+   "sign up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0267",
+  "phrase": "work one's way up",
+  "zh": "靠努力逐步晉升",
+  "say": "work one's way up",
+  "en": "Mr. Lin started as a part-time worker and worked his way up to manager.",
+  "exzh": "林先生從工讀生做起，一步步升到經理。",
+  "targets": [
+   "worked his way up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0268",
+  "phrase": "before long",
+  "zh": "不久；很快",
+  "say": "before long",
+  "en": "Don't worry; before long, you will get used to the new school.",
+  "exzh": "別擔心，不久你就會習慣新學校的。",
+  "targets": [
+   "before long"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0269",
+  "phrase": "walk of life",
+  "zh": "社會階層；行業",
+  "say": "walk of life",
+  "en": "People from every walk of life came to the charity fair at our school.",
+  "exzh": "各行各業的人都來參加我們學校的義賣會。",
+  "targets": [
+   "walk of life"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0270",
+  "phrase": "lay out",
+  "zh": "攤開；擺出；詳細說明",
+  "say": "lay out",
+  "en": "Lisa laid out all her notes on the desk before studying.",
+  "exzh": "讀書之前，Lisa 把所有筆記攤在桌上。",
+  "targets": [
+   "laid out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0271",
+  "phrase": "stem from",
+  "zh": "起因於；源自",
+  "say": "stem from",
+  "en": "Many traffic accidents in our city stem from careless driving.",
+  "exzh": "我們城市的許多交通事故都是由粗心駕駛造成的。",
+  "targets": [
+   "stem from"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0272",
+  "phrase": "get at",
+  "zh": "搆到；拿到；暗指",
+  "say": "get at",
+  "en": "I can't get at the book on the top shelf without a ladder.",
+  "exzh": "沒有梯子我搆不到最上層架子上的書。",
+  "targets": [
+   "get at"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0273",
+  "phrase": "strike a chord (with sb.)",
+  "zh": "引起（某人）共鳴",
+  "say": "strike a chord with someone",
+  "en": "The singer's story struck a chord with many students in our school.",
+  "exzh": "那位歌手的故事引起了我們學校許多學生的共鳴。",
+  "targets": [
+   "struck a chord with"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0274",
+  "phrase": "prior to",
+  "zh": "在⋯⋯之前",
+  "say": "prior to",
+  "en": "Please turn off your phones prior to the start of the exam.",
+  "exzh": "請在考試開始之前把手機關機。",
+  "targets": [
+   "prior to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0275",
+  "phrase": "stock up",
+  "zh": "大量囤貨",
+  "say": "stock up",
+  "en": "Mom stocked up on rice and water before the typhoon came.",
+  "exzh": "颱風來之前，媽媽囤了很多米和水。",
+  "targets": [
+   "stocked up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0276",
+  "phrase": "mistake...for...",
+  "zh": "把⋯⋯誤認為⋯⋯",
+  "say": "mistake something for something",
+  "en": "I almost mistook the new teacher for a student.",
+  "exzh": "我差點把新來的老師誤認成學生。",
+  "targets": [
+   "mistook",
+   "for"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0277",
+  "phrase": "last but not least",
+  "zh": "最後但同樣重要的是",
+  "say": "last but not least",
+  "en": "Last but not least, I want to thank my parents for their support.",
+  "exzh": "最後但同樣重要的是，我要謝謝爸媽的支持。",
+  "targets": [
+   "Last but not least"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0278",
+  "phrase": "fall for",
+  "zh": "被⋯⋯欺騙；上當",
+  "say": "fall for",
+  "en": "Don't fall for online ads that promise easy money.",
+  "exzh": "別被承諾輕鬆賺錢的網路廣告騙了。",
+  "targets": [
+   "fall for"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0279",
+  "phrase": "take a look at",
+  "zh": "看一看；檢視",
+  "say": "take a look at",
+  "en": "Let's take a look at the results of our experiment.",
+  "exzh": "我們來看看實驗的結果吧。",
+  "targets": [
+   "take a look at"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0280",
+  "phrase": "be worlds apart",
+  "zh": "天差地遠；截然不同",
+  "say": "be worlds apart",
+  "en": "Ben and his brother are worlds apart in their tastes in music.",
+  "exzh": "Ben 和他哥哥在音樂品味上天差地遠。",
+  "targets": [
+   "are worlds apart"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0281",
+  "phrase": "by contrast",
+  "zh": "相較之下",
+  "say": "by contrast",
+  "en": "Summer in Taipei is hot and wet; by contrast, winter is cool.",
+  "exzh": "台北的夏天又熱又濕，相較之下，冬天就涼爽多了。",
+  "targets": [
+   "by contrast"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0282",
+  "phrase": "make up",
+  "zh": "組成；構成；編造",
+  "say": "make up",
+  "en": "Girls make up about half of the members in our robot club.",
+  "exzh": "女生約占我們機器人社成員的一半。",
+  "targets": [
+   "make up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0283",
+  "phrase": "from far and wide",
+  "zh": "從四面八方；從遠近各地",
+  "say": "from far and wide",
+  "en": "Visitors came from far and wide to see the lantern festival.",
+  "exzh": "遊客從四面八方來看燈會。",
+  "targets": [
+   "from far and wide"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0284",
+  "phrase": "make for",
+  "zh": "有助於；促成；走向",
+  "say": "make for",
+  "en": "Fresh fruit and milk make for a healthy breakfast.",
+  "exzh": "新鮮水果和牛奶有助於構成健康的早餐。",
+  "targets": [
+   "make for"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0285",
+  "phrase": "have...at heart",
+  "zh": "把⋯⋯放在心上；真心為⋯⋯著想",
+  "say": "have something at heart",
+  "en": "Our teacher always has our best interests at heart.",
+  "exzh": "我們的老師總是真心為我們的最佳利益著想。",
+  "targets": [
+   "has",
+   "at heart"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0286",
+  "phrase": "rest assured",
+  "zh": "請放心",
+  "say": "rest assured",
+  "en": "Rest assured, we will finish the poster before the deadline.",
+  "exzh": "請放心，我們會在截止日前完成海報。",
+  "targets": [
+   "Rest assured"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0287",
+  "phrase": "better still",
+  "zh": "更好的是",
+  "say": "better still",
+  "en": "Walk to school, or better still, ride a bike.",
+  "exzh": "走路去學校，或者更好的是騎腳踏車。",
+  "targets": [
+   "better still"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0288",
+  "phrase": "take a...toll",
+  "zh": "造成損害；帶來沉重代價",
+  "say": "take a toll",
+  "en": "Staying up late every night took a heavy toll on Kevin's health.",
+  "exzh": "每天熬夜對 Kevin 的健康造成了嚴重的損害。",
+  "targets": [
+   "took a heavy toll"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0289",
+  "phrase": "in theory",
+  "zh": "理論上",
+  "say": "in theory",
+  "en": "In theory, the plan is simple, but it is hard to do in practice.",
+  "exzh": "理論上這個計畫很簡單，但實際做起來很難。",
+  "targets": [
+   "In theory"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0290",
+  "phrase": "at a price",
+  "zh": "付出代價",
+  "say": "at a price",
+  "en": "Amy won the contest, but it was at a price, because she had no free weekends.",
+  "exzh": "Amy 贏得了比賽，但這是有代價的，因為她沒有任何空閒的週末。",
+  "targets": [
+   "at a price"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0291",
+  "phrase": "jump to conclusions",
+  "zh": "妄下結論",
+  "say": "jump to conclusions",
+  "en": "Don't jump to conclusions before you hear the whole story.",
+  "exzh": "在聽完整個故事之前，不要妄下結論。",
+  "targets": [
+   "jump to conclusions"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0292",
+  "phrase": "keep a(n) (...) eye on...",
+  "zh": "留意；照看",
+  "say": "keep an eye on",
+  "en": "Please keep an eye on my bag while I buy a drink.",
+  "exzh": "我去買飲料時，請幫我看一下包包。",
+  "targets": [
+   "keep an eye on"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0293",
+  "phrase": "set...apart (from...)",
+  "zh": "使⋯⋯與眾不同",
+  "say": "set something apart from something",
+  "en": "Kevin's speed sets him apart from the other runners.",
+  "exzh": "Kevin 的速度讓他與其他跑者不同。",
+  "targets": [
+   "sets",
+   "apart from"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0294",
+  "phrase": "in consequence",
+  "zh": "因此；結果",
+  "say": "in consequence",
+  "en": "Ben missed the bus; in consequence, he was late for school.",
+  "exzh": "Ben 錯過了公車，因此上學遲到了。",
+  "targets": [
+   "in consequence"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0295",
+  "phrase": "contend with",
+  "zh": "應付；對付",
+  "say": "contend with",
+  "en": "Farmers often have to contend with strong typhoons.",
+  "exzh": "農夫常常得應付強烈的颱風。",
+  "targets": [
+   "contend with"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0296",
+  "phrase": "result in",
+  "zh": "導致；造成",
+  "say": "result in",
+  "en": "Too little sleep can result in poor grades.",
+  "exzh": "睡眠太少可能導致成績不好。",
+  "targets": [
+   "result in"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0297",
+  "phrase": "as a matter of fact",
+  "zh": "事實上",
+  "say": "as a matter of fact",
+  "en": "As a matter of fact, I have never been to Kaohsiung.",
+  "exzh": "事實上，我從來沒去過高雄。",
+  "targets": [
+   "As a matter of fact"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0298",
+  "phrase": "owing to",
+  "zh": "由於；因為",
+  "say": "owing to",
+  "en": "The game was moved indoors owing to the heavy rain.",
+  "exzh": "由於大雨，比賽改到室內舉行。",
+  "targets": [
+   "owing to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0299",
+  "phrase": "far from",
+  "zh": "絕非；遠非",
+  "say": "far from",
+  "en": "The test was far from easy; most of us missed several questions.",
+  "exzh": "這次考試一點也不簡單，我們大多數人都錯了好幾題。",
+  "targets": [
+   "far from"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0300",
+  "phrase": "go down in history",
+  "zh": "名留青史；載入史冊",
+  "say": "go down in history",
+  "en": "Our school's first science fair will go down in history.",
+  "exzh": "我們學校的第一場科學展覽會將會載入校史。",
+  "targets": [
+   "go down in history"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0301",
+  "phrase": "as long as",
+  "zh": "只要",
+  "say": "as long as",
+  "en": "You can borrow my notes as long as you return them tomorrow.",
+  "exzh": "只要你明天還我，就可以借我的筆記。",
+  "targets": [
+   "as long as"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0302",
+  "phrase": "be heavy with",
+  "zh": "充滿著⋯⋯；沉重地帶著⋯⋯",
+  "say": "be heavy with",
+  "en": "The air was heavy with the smell of rain after the hot day.",
+  "exzh": "炎熱的一天過後，空氣中瀰漫著雨的氣味。",
+  "targets": [
+   "was heavy with"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0303",
+  "phrase": "live out",
+  "zh": "實現；過（某種生活）",
+  "say": "live out",
+  "en": "Amy hopes to live out her dream of becoming a science teacher.",
+  "exzh": "Amy 希望實現她成為自然科老師的夢想。",
+  "targets": [
+   "live out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "P-0304",
+  "phrase": "have yet to",
+  "zh": "還沒有；尚未",
+  "say": "have yet to",
+  "en": "I have yet to finish my homework for tomorrow's math class.",
+  "exzh": "我還沒寫完明天數學課的作業。",
+  "targets": [
+   "have yet to"
+  ],
+  "status": "ok",
+  "note": ""
+ }
+]

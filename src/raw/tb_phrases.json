@@ -1,0 +1,1522 @@
+[
+{
+"id": "P-0001",
+"phrase": "the rest (of)",
+"first": "B1L01"
+},
+{
+"id": "P-0002",
+"phrase": "in person",
+"first": "B1L01"
+},
+{
+"id": "P-0003",
+"phrase": "take...seriously",
+"first": "B1L01"
+},
+{
+"id": "P-0004",
+"phrase": "let...down",
+"first": "B1L01"
+},
+{
+"id": "P-0005",
+"phrase": "make sure",
+"first": "B1L01"
+},
+{
+"id": "P-0006",
+"phrase": "put...first",
+"first": "B1L01"
+},
+{
+"id": "P-0007",
+"phrase": "dress up",
+"first": "B1L01"
+},
+{
+"id": "P-0008",
+"phrase": "in fact",
+"first": "B1L02"
+},
+{
+"id": "P-0009",
+"phrase": "go through",
+"first": "B1L02"
+},
+{
+"id": "P-0010",
+"phrase": "in case",
+"first": "B1L02"
+},
+{
+"id": "P-0011",
+"phrase": "in addition",
+"first": "B1L02"
+},
+{
+"id": "P-0012",
+"phrase": "hang out",
+"first": "B1L02"
+},
+{
+"id": "P-0013",
+"phrase": "turn to",
+"first": "B1L02"
+},
+{
+"id": "P-0014",
+"phrase": "take...personally",
+"first": "B1L02"
+},
+{
+"id": "P-0015",
+"phrase": "hold on to",
+"first": "B1L03"
+},
+{
+"id": "P-0016",
+"phrase": "look out for",
+"first": "B1L03"
+},
+{
+"id": "P-0017",
+"phrase": "be on the lookout for",
+"first": "B1L03"
+},
+{
+"id": "P-0018",
+"phrase": "for example",
+"first": "B1L03"
+},
+{
+"id": "P-0019",
+"phrase": "according to",
+"first": "B1L03"
+},
+{
+"id": "P-0020",
+"phrase": "up to",
+"first": "B1L03"
+},
+{
+"id": "P-0021",
+"phrase": "due to",
+"first": "B1L04"
+},
+{
+"id": "P-0022",
+"phrase": "all of a sudden",
+"first": "B1L04"
+},
+{
+"id": "P-0023",
+"phrase": "turn out",
+"first": "B1L04"
+},
+{
+"id": "P-0024",
+"phrase": "come across",
+"first": "B1L04"
+},
+{
+"id": "P-0025",
+"phrase": "carry out",
+"first": "B1L04"
+},
+{
+"id": "P-0026",
+"phrase": "come along",
+"first": "B1L05"
+},
+{
+"id": "P-0027",
+"phrase": "pack...up",
+"first": "B1L05"
+},
+{
+"id": "P-0028",
+"phrase": "on one's own",
+"first": "B1L05"
+},
+{
+"id": "P-0029",
+"phrase": "for a while",
+"first": "B1L05"
+},
+{
+"id": "P-0030",
+"phrase": "end up",
+"first": "B1L05"
+},
+{
+"id": "P-0031",
+"phrase": "even though",
+"first": "B1L06"
+},
+{
+"id": "P-0032",
+"phrase": "close to",
+"first": "B1L06"
+},
+{
+"id": "P-0033",
+"phrase": "over time",
+"first": "B1L06"
+},
+{
+"id": "P-0034",
+"phrase": "pay a visit to",
+"first": "B1L06"
+},
+{
+"id": "P-0035",
+"phrase": "as always",
+"first": "B1L06"
+},
+{
+"id": "P-0036",
+"phrase": "tons of",
+"first": "B1L07"
+},
+{
+"id": "P-0037",
+"phrase": "look for",
+"first": "B1L07"
+},
+{
+"id": "P-0038",
+"phrase": "make a living",
+"first": "B1L07"
+},
+{
+"id": "P-0039",
+"phrase": "look forward to",
+"first": "B1L07"
+},
+{
+"id": "P-0040",
+"phrase": "come out of",
+"first": "B1L07"
+},
+{
+"id": "P-0041",
+"phrase": "as soon as",
+"first": "B1L07"
+},
+{
+"id": "P-0042",
+"phrase": "be likely to",
+"first": "B1L08"
+},
+{
+"id": "P-0043",
+"phrase": "within (...) reach",
+"first": "B1L08"
+},
+{
+"id": "P-0044",
+"phrase": "line up",
+"first": "B1L08"
+},
+{
+"id": "P-0045",
+"phrase": "take advantage of",
+"first": "B1L08"
+},
+{
+"id": "P-0046",
+"phrase": "set up",
+"first": "B1L08"
+},
+{
+"id": "P-0047",
+"phrase": "start off",
+"first": "B1L08"
+},
+{
+"id": "P-0048",
+"phrase": "come in",
+"first": "B1L09"
+},
+{
+"id": "P-0049",
+"phrase": "stand for",
+"first": "B1L09"
+},
+{
+"id": "P-0050",
+"phrase": "nothing but",
+"first": "B1L09"
+},
+{
+"id": "P-0051",
+"phrase": "get rid of",
+"first": "B1L09"
+},
+{
+"id": "P-0052",
+"phrase": "when it comes to...",
+"first": "B1L09"
+},
+{
+"id": "P-0053",
+"phrase": "except for",
+"first": "B1R01"
+},
+{
+"id": "P-0054",
+"phrase": "for a start",
+"first": "B1R01"
+},
+{
+"id": "P-0055",
+"phrase": "on the other hand",
+"first": "B1R01"
+},
+{
+"id": "P-0056",
+"phrase": "for the better",
+"first": "B1R02"
+},
+{
+"id": "P-0057",
+"phrase": "take action",
+"first": "B1R02"
+},
+{
+"id": "P-0058",
+"phrase": "put up",
+"first": "B1R02"
+},
+{
+"id": "P-0059",
+"phrase": "thanks to",
+"first": "B1R02"
+},
+{
+"id": "P-0060",
+"phrase": "rather than",
+"first": "B1R02"
+},
+{
+"id": "P-0061",
+"phrase": "start out",
+"first": "B1R03"
+},
+{
+"id": "P-0062",
+"phrase": "no longer",
+"first": "B1R03"
+},
+{
+"id": "P-0063",
+"phrase": "on the contrary",
+"first": "B1R03"
+},
+{
+"id": "P-0064",
+"phrase": "tear at one's heart",
+"first": "B1R03"
+},
+{
+"id": "P-0065",
+"phrase": "pay off",
+"first": "B1R03"
+},
+{
+"id": "P-0066",
+"phrase": "have one's heart set on",
+"first": "B2L01"
+},
+{
+"id": "P-0067",
+"phrase": "speed (...) up",
+"first": "B2L01"
+},
+{
+"id": "P-0068",
+"phrase": "rise to one's feet",
+"first": "B2L01"
+},
+{
+"id": "P-0069",
+"phrase": "carry...through",
+"first": "B2L01"
+},
+{
+"id": "P-0070",
+"phrase": "be used to",
+"first": "B2L02"
+},
+{
+"id": "P-0071",
+"phrase": "needless to say",
+"first": "B2L02"
+},
+{
+"id": "P-0072",
+"phrase": "believe it or not",
+"first": "B2L02"
+},
+{
+"id": "P-0073",
+"phrase": "come up with",
+"first": "B2L02"
+},
+{
+"id": "P-0074",
+"phrase": "in comparison with",
+"first": "B2L02"
+},
+{
+"id": "P-0075",
+"phrase": "regardless of",
+"first": "B2L02"
+},
+{
+"id": "P-0076",
+"phrase": "put aside",
+"first": "B2L03"
+},
+{
+"id": "P-0077",
+"phrase": "from then on",
+"first": "B2L03"
+},
+{
+"id": "P-0078",
+"phrase": "all the more",
+"first": "B2L03"
+},
+{
+"id": "P-0079",
+"phrase": "fly into a rage",
+"first": "B2L03"
+},
+{
+"id": "P-0080",
+"phrase": "for one thing",
+"first": "B2L03"
+},
+{
+"id": "P-0081",
+"phrase": "be/become filled with",
+"first": "B2L03"
+},
+{
+"id": "P-0082",
+"phrase": "slip away",
+"first": "B2L03"
+},
+{
+"id": "P-0083",
+"phrase": "take notice (of...)",
+"first": "B2L04"
+},
+{
+"id": "P-0084",
+"phrase": "blow up",
+"first": "B2L04"
+},
+{
+"id": "P-0085",
+"phrase": "take away",
+"first": "B2L04"
+},
+{
+"id": "P-0086",
+"phrase": "speak out",
+"first": "B2L04"
+},
+{
+"id": "P-0087",
+"phrase": "call for",
+"first": "B2L04"
+},
+{
+"id": "P-0088",
+"phrase": "in addition to",
+"first": "B2L05"
+},
+{
+"id": "P-0089",
+"phrase": "for instance",
+"first": "B2L05"
+},
+{
+"id": "P-0090",
+"phrase": "ever since",
+"first": "B2L05"
+},
+{
+"id": "P-0091",
+"phrase": "in other words",
+"first": "B2L05"
+},
+{
+"id": "P-0092",
+"phrase": "meet with",
+"first": "B2L05"
+},
+{
+"id": "P-0093",
+"phrase": "spring into action",
+"first": "B2L05"
+},
+{
+"id": "P-0094",
+"phrase": "fit in",
+"first": "B2L06"
+},
+{
+"id": "P-0095",
+"phrase": "around the corner",
+"first": "B2L06"
+},
+{
+"id": "P-0096",
+"phrase": "sick to one's stomach",
+"first": "B2L06"
+},
+{
+"id": "P-0097",
+"phrase": "make peace",
+"first": "B2L06"
+},
+{
+"id": "P-0098",
+"phrase": "make fun of",
+"first": "B2L06"
+},
+{
+"id": "P-0099",
+"phrase": "at least",
+"first": "B2L06"
+},
+{
+"id": "P-0100",
+"phrase": "apart from",
+"first": "B2L06"
+},
+{
+"id": "P-0101",
+"phrase": "...not...anymore",
+"first": "B2L06"
+},
+{
+"id": "P-0102",
+"phrase": "as well as",
+"first": "B2L07"
+},
+{
+"id": "P-0103",
+"phrase": "for free",
+"first": "B2L07"
+},
+{
+"id": "P-0104",
+"phrase": "at present",
+"first": "B2L07"
+},
+{
+"id": "P-0105",
+"phrase": "give...a try",
+"first": "B2L07"
+},
+{
+"id": "P-0106",
+"phrase": "broaden one's horizons",
+"first": "B2L07"
+},
+{
+"id": "P-0107",
+"phrase": "take part in",
+"first": "B2L08"
+},
+{
+"id": "P-0108",
+"phrase": "take place",
+"first": "B2L08"
+},
+{
+"id": "P-0109",
+"phrase": "come about",
+"first": "B2L08"
+},
+{
+"id": "P-0110",
+"phrase": "help (...) out",
+"first": "B2L08"
+},
+{
+"id": "P-0111",
+"phrase": "hand out",
+"first": "B2L08"
+},
+{
+"id": "P-0112",
+"phrase": "take on",
+"first": "B2L09"
+},
+{
+"id": "P-0113",
+"phrase": "later on",
+"first": "B2L09"
+},
+{
+"id": "P-0114",
+"phrase": "in the beginning",
+"first": "B2L09"
+},
+{
+"id": "P-0115",
+"phrase": "too...to...",
+"first": "B2L09"
+},
+{
+"id": "P-0116",
+"phrase": "play a/an...role (in)",
+"first": "B2L09"
+},
+{
+"id": "P-0117",
+"phrase": "think up",
+"first": "B2L09"
+},
+{
+"id": "P-0118",
+"phrase": "hear of",
+"first": "B2R01"
+},
+{
+"id": "P-0119",
+"phrase": "make it to",
+"first": "B2R01"
+},
+{
+"id": "P-0120",
+"phrase": "ask for",
+"first": "B2R01"
+},
+{
+"id": "P-0121",
+"phrase": "invite someone over",
+"first": "B2R01"
+},
+{
+"id": "P-0122",
+"phrase": "refer to",
+"first": "B2R01"
+},
+{
+"id": "P-0123",
+"phrase": "as...as possible",
+"first": "B2R01"
+},
+{
+"id": "P-0124",
+"phrase": "break...up",
+"first": "B2R02"
+},
+{
+"id": "P-0125",
+"phrase": "fill in",
+"first": "B2R02"
+},
+{
+"id": "P-0126",
+"phrase": "make use of",
+"first": "B2R02"
+},
+{
+"id": "P-0127",
+"phrase": "ISS",
+"first": "B2R03"
+},
+{
+"id": "P-0128",
+"phrase": "out of this world",
+"first": "B2R03"
+},
+{
+"id": "P-0129",
+"phrase": "work out",
+"first": "B2R03"
+},
+{
+"id": "P-0130",
+"phrase": "work up a sweat",
+"first": "B2R03"
+},
+{
+"id": "P-0131",
+"phrase": "have a lie-down",
+"first": "B2R03"
+},
+{
+"id": "P-0132",
+"phrase": "pass on...to...",
+"first": "B3L01"
+},
+{
+"id": "P-0133",
+"phrase": "cheer...up",
+"first": "B3L01"
+},
+{
+"id": "P-0134",
+"phrase": "turn...down",
+"first": "B3L01"
+},
+{
+"id": "P-0135",
+"phrase": "be about to",
+"first": "B3L01"
+},
+{
+"id": "P-0136",
+"phrase": "after all",
+"first": "B3L01"
+},
+{
+"id": "P-0137",
+"phrase": "pass away",
+"first": "B3L01"
+},
+{
+"id": "P-0138",
+"phrase": "make a difference",
+"first": "B3L01"
+},
+{
+"id": "P-0139",
+"phrase": "trial and error",
+"first": "B3L02"
+},
+{
+"id": "P-0140",
+"phrase": "in charge",
+"first": "B3L02"
+},
+{
+"id": "P-0141",
+"phrase": "figure out",
+"first": "B3L02"
+},
+{
+"id": "P-0142",
+"phrase": "roll up one's sleeves",
+"first": "B3L02"
+},
+{
+"id": "P-0143",
+"phrase": "get down to...",
+"first": "B3L02"
+},
+{
+"id": "P-0144",
+"phrase": "run out (of...)",
+"first": "B3L03"
+},
+{
+"id": "P-0145",
+"phrase": "make up for",
+"first": "B3L03"
+},
+{
+"id": "P-0146",
+"phrase": "as a result",
+"first": "B3L03"
+},
+{
+"id": "P-0147",
+"phrase": "fall victim to",
+"first": "B3L03"
+},
+{
+"id": "P-0148",
+"phrase": "feed on",
+"first": "B3L03"
+},
+{
+"id": "P-0149",
+"phrase": "set the stage for",
+"first": "B3L03"
+},
+{
+"id": "P-0150",
+"phrase": "scare...to death",
+"first": "B3L04"
+},
+{
+"id": "P-0151",
+"phrase": "make one's hair stand on end",
+"first": "B3L04"
+},
+{
+"id": "P-0152",
+"phrase": "in honor of",
+"first": "B3L04"
+},
+{
+"id": "P-0153",
+"phrase": "in advance (of...)",
+"first": "B3L04"
+},
+{
+"id": "P-0154",
+"phrase": "die out",
+"first": "B3L04"
+},
+{
+"id": "P-0155",
+"phrase": "turn...into...",
+"first": "B3L05"
+},
+{
+"id": "P-0156",
+"phrase": "feast one's eyes on",
+"first": "B3L05"
+},
+{
+"id": "P-0157",
+"phrase": "face to face",
+"first": "B3L05"
+},
+{
+"id": "P-0158",
+"phrase": "stand out",
+"first": "B3L05"
+},
+{
+"id": "P-0159",
+"phrase": "fall in love with",
+"first": "B3L05"
+},
+{
+"id": "P-0160",
+"phrase": "set off",
+"first": "B3L06"
+},
+{
+"id": "P-0161",
+"phrase": "come upon",
+"first": "B3L06"
+},
+{
+"id": "P-0162",
+"phrase": "care for",
+"first": "B3L06"
+},
+{
+"id": "P-0163",
+"phrase": "cling to",
+"first": "B3L06"
+},
+{
+"id": "P-0164",
+"phrase": "lay eyes on",
+"first": "B3L06"
+},
+{
+"id": "P-0165",
+"phrase": "worst of all",
+"first": "B3L06"
+},
+{
+"id": "P-0166",
+"phrase": "in return (for)",
+"first": "B3L06"
+},
+{
+"id": "P-0167",
+"phrase": "for sb.'s sake/for the sake of sb.",
+"first": "B3L06"
+},
+{
+"id": "P-0168",
+"phrase": "account for",
+"first": "B3L07"
+},
+{
+"id": "P-0169",
+"phrase": "as well",
+"first": "B3L07"
+},
+{
+"id": "P-0170",
+"phrase": "in the case of...",
+"first": "B3L07"
+},
+{
+"id": "P-0171",
+"phrase": "under the circumstances",
+"first": "B3L07"
+},
+{
+"id": "P-0172",
+"phrase": "follow suit",
+"first": "B3L07"
+},
+{
+"id": "P-0173",
+"phrase": "aside from",
+"first": "B3L07"
+},
+{
+"id": "P-0174",
+"phrase": "best of all",
+"first": "B3L07"
+},
+{
+"id": "P-0175",
+"phrase": "lead to",
+"first": "B3L08"
+},
+{
+"id": "P-0176",
+"phrase": "what's more",
+"first": "B3L08"
+},
+{
+"id": "P-0177",
+"phrase": "worse still",
+"first": "B3L08"
+},
+{
+"id": "P-0178",
+"phrase": "deal with",
+"first": "B3L08"
+},
+{
+"id": "P-0179",
+"phrase": "take pleasure in",
+"first": "B3L08"
+},
+{
+"id": "P-0180",
+"phrase": "go about",
+"first": "B3L08"
+},
+{
+"id": "P-0181",
+"phrase": "set out",
+"first": "B3L09"
+},
+{
+"id": "P-0182",
+"phrase": "send...off",
+"first": "B3L09"
+},
+{
+"id": "P-0183",
+"phrase": "in the meantime",
+"first": "B3L09"
+},
+{
+"id": "P-0184",
+"phrase": "all manner of",
+"first": "B3L09"
+},
+{
+"id": "P-0185",
+"phrase": "be looking to...",
+"first": "B3L09"
+},
+{
+"id": "P-0186",
+"phrase": "cost an arm and a leg",
+"first": "B3R01"
+},
+{
+"id": "P-0187",
+"phrase": "give...a hand",
+"first": "B3R01"
+},
+{
+"id": "P-0188",
+"phrase": "build on",
+"first": "B3R01"
+},
+{
+"id": "P-0189",
+"phrase": "map out",
+"first": "B3R01"
+},
+{
+"id": "P-0190",
+"phrase": "nowhere to be found",
+"first": "B3R02"
+},
+{
+"id": "P-0191",
+"phrase": "leave...behind",
+"first": "B3R02"
+},
+{
+"id": "P-0192",
+"phrase": "result from",
+"first": "B3R02"
+},
+{
+"id": "P-0193",
+"phrase": "in no time",
+"first": "B3R02"
+},
+{
+"id": "P-0194",
+"phrase": "on top of",
+"first": "B3R02"
+},
+{
+"id": "P-0195",
+"phrase": "in the long run",
+"first": "B3R02"
+},
+{
+"id": "P-0196",
+"phrase": "make one's way to",
+"first": "B3R03"
+},
+{
+"id": "P-0197",
+"phrase": "at the drop of a hat",
+"first": "B3R03"
+},
+{
+"id": "P-0198",
+"phrase": "have one's roots in",
+"first": "B3R03"
+},
+{
+"id": "P-0199",
+"phrase": "so as to",
+"first": "B3R03"
+},
+{
+"id": "P-0200",
+"phrase": "back and forth",
+"first": "B4L01"
+},
+{
+"id": "P-0201",
+"phrase": "wear on",
+"first": "B4L01"
+},
+{
+"id": "P-0202",
+"phrase": "around the clock",
+"first": "B4L01"
+},
+{
+"id": "P-0203",
+"phrase": "the fruit(s) of...",
+"first": "B4L01"
+},
+{
+"id": "P-0204",
+"phrase": "by no means",
+"first": "B4L01"
+},
+{
+"id": "P-0205",
+"phrase": "cross one's mind",
+"first": "B4L01"
+},
+{
+"id": "P-0206",
+"phrase": "make clear",
+"first": "B4L01"
+},
+{
+"id": "P-0207",
+"phrase": "at a time",
+"first": "B4L02"
+},
+{
+"id": "P-0208",
+"phrase": "base...on...",
+"first": "B4L02"
+},
+{
+"id": "P-0209",
+"phrase": "at risk (of)",
+"first": "B4L02"
+},
+{
+"id": "P-0210",
+"phrase": "rise above",
+"first": "B4L02"
+},
+{
+"id": "P-0211",
+"phrase": "strike a balance",
+"first": "B4L03"
+},
+{
+"id": "P-0212",
+"phrase": "in the end",
+"first": "B4L03"
+},
+{
+"id": "P-0213",
+"phrase": "in need of",
+"first": "B4L03"
+},
+{
+"id": "P-0214",
+"phrase": "as a whole",
+"first": "B4L03"
+},
+{
+"id": "P-0215",
+"phrase": "all in all",
+"first": "B4L03"
+},
+{
+"id": "P-0216",
+"phrase": "on track",
+"first": "B4L03"
+},
+{
+"id": "P-0217",
+"phrase": "clear out",
+"first": "B4L03"
+},
+{
+"id": "P-0218",
+"phrase": "make way (for)",
+"first": "B4L03"
+},
+{
+"id": "P-0219",
+"phrase": "depend on",
+"first": "B4L03"
+},
+{
+"id": "P-0220",
+"phrase": "under one's wing",
+"first": "B4L04"
+},
+{
+"id": "P-0221",
+"phrase": "come with",
+"first": "B4L04"
+},
+{
+"id": "P-0222",
+"phrase": "to come",
+"first": "B4L04"
+},
+{
+"id": "P-0223",
+"phrase": "a fish out of water",
+"first": "B4L04"
+},
+{
+"id": "P-0224",
+"phrase": "in the same boat",
+"first": "B4L04"
+},
+{
+"id": "P-0225",
+"phrase": "from top to bottom",
+"first": "B4L05"
+},
+{
+"id": "P-0226",
+"phrase": "breathe a sigh of relief",
+"first": "B4L05"
+},
+{
+"id": "P-0227",
+"phrase": "drown out...",
+"first": "B4L05"
+},
+{
+"id": "P-0228",
+"phrase": "take in...",
+"first": "B4L05"
+},
+{
+"id": "P-0229",
+"phrase": "keep a record",
+"first": "B4L05"
+},
+{
+"id": "P-0230",
+"phrase": "to this day",
+"first": "B4L05"
+},
+{
+"id": "P-0231",
+"phrase": "in large part",
+"first": "B4L06"
+},
+{
+"id": "P-0232",
+"phrase": "bring back",
+"first": "B4L06"
+},
+{
+"id": "P-0233",
+"phrase": "on time",
+"first": "B4L06"
+},
+{
+"id": "P-0234",
+"phrase": "without a doubt",
+"first": "B4L06"
+},
+{
+"id": "P-0235",
+"phrase": "(take...) day off",
+"first": "B4L07"
+},
+{
+"id": "P-0236",
+"phrase": "look after",
+"first": "B4L07"
+},
+{
+"id": "P-0237",
+"phrase": "take to the streets",
+"first": "B4L07"
+},
+{
+"id": "P-0238",
+"phrase": "come to a standstill",
+"first": "B4L07"
+},
+{
+"id": "P-0239",
+"phrase": "take (...) steps",
+"first": "B4L07"
+},
+{
+"id": "P-0240",
+"phrase": "in this regard",
+"first": "B4L07"
+},
+{
+"id": "P-0241",
+"phrase": "in question",
+"first": "B4L08"
+},
+{
+"id": "P-0242",
+"phrase": "to such an extent that...",
+"first": "B4L08"
+},
+{
+"id": "P-0243",
+"phrase": "be fed up (with)",
+"first": "B4L08"
+},
+{
+"id": "P-0244",
+"phrase": "throw up",
+"first": "B4L08"
+},
+{
+"id": "P-0245",
+"phrase": "take down",
+"first": "B4L08"
+},
+{
+"id": "P-0246",
+"phrase": "stand up for",
+"first": "B4L09"
+},
+{
+"id": "P-0247",
+"phrase": "hold one's head up",
+"first": "B4L09"
+},
+{
+"id": "P-0248",
+"phrase": "come over",
+"first": "B4L09"
+},
+{
+"id": "P-0249",
+"phrase": "scare...off",
+"first": "B4L09"
+},
+{
+"id": "P-0250",
+"phrase": "have high hopes",
+"first": "B4L09"
+},
+{
+"id": "P-0251",
+"phrase": "more or less",
+"first": "B4R01"
+},
+{
+"id": "P-0252",
+"phrase": "come to mind",
+"first": "B4R01"
+},
+{
+"id": "P-0253",
+"phrase": "spring up",
+"first": "B4R01"
+},
+{
+"id": "P-0254",
+"phrase": "by chance",
+"first": "B4R01"
+},
+{
+"id": "P-0255",
+"phrase": "be blessed with",
+"first": "B4R01"
+},
+{
+"id": "P-0256",
+"phrase": "watch out",
+"first": "B4R02"
+},
+{
+"id": "P-0257",
+"phrase": "to one's heart's content",
+"first": "B4R02"
+},
+{
+"id": "P-0258",
+"phrase": "fall into the wrong hands",
+"first": "B4R02"
+},
+{
+"id": "P-0259",
+"phrase": "log in",
+"first": "B4R02"
+},
+{
+"id": "P-0260",
+"phrase": "sign in",
+"first": "B4R02"
+},
+{
+"id": "P-0261",
+"phrase": "go the extra mile",
+"first": "B4R03"
+},
+{
+"id": "P-0262",
+"phrase": "heat up",
+"first": "B4R03"
+},
+{
+"id": "P-0263",
+"phrase": "keep in shape",
+"first": "B4R03"
+},
+{
+"id": "P-0264",
+"phrase": "push...to the limit",
+"first": "B4R03"
+},
+{
+"id": "P-0265",
+"phrase": "get cold feet",
+"first": "B4R03"
+},
+{
+"id": "P-0266",
+"phrase": "sign up",
+"first": "B4R03"
+},
+{
+"id": "P-0267",
+"phrase": "work one's way up",
+"first": "B4R03"
+},
+{
+"id": "P-0268",
+"phrase": "before long",
+"first": "B4R03"
+},
+{
+"id": "P-0269",
+"phrase": "walk of life",
+"first": "B5L01"
+},
+{
+"id": "P-0270",
+"phrase": "lay out",
+"first": "B5L01"
+},
+{
+"id": "P-0271",
+"phrase": "stem from",
+"first": "B5L01"
+},
+{
+"id": "P-0272",
+"phrase": "get at",
+"first": "B5L01"
+},
+{
+"id": "P-0273",
+"phrase": "strike a chord (with sb.)",
+"first": "B5L01"
+},
+{
+"id": "P-0274",
+"phrase": "prior to",
+"first": "B5L02"
+},
+{
+"id": "P-0275",
+"phrase": "stock up",
+"first": "B5L02"
+},
+{
+"id": "P-0276",
+"phrase": "mistake...for...",
+"first": "B5L02"
+},
+{
+"id": "P-0277",
+"phrase": "last but not least",
+"first": "B5L02"
+},
+{
+"id": "P-0278",
+"phrase": "fall for",
+"first": "B5L02"
+},
+{
+"id": "P-0279",
+"phrase": "take a look at",
+"first": "B5L03"
+},
+{
+"id": "P-0280",
+"phrase": "be worlds apart",
+"first": "B5L03"
+},
+{
+"id": "P-0281",
+"phrase": "by contrast",
+"first": "B5L03"
+},
+{
+"id": "P-0282",
+"phrase": "make up",
+"first": "B5L03"
+},
+{
+"id": "P-0283",
+"phrase": "from far and wide",
+"first": "B5L03"
+},
+{
+"id": "P-0284",
+"phrase": "make for",
+"first": "B5L03"
+},
+{
+"id": "P-0285",
+"phrase": "have...at heart",
+"first": "B5L04"
+},
+{
+"id": "P-0286",
+"phrase": "rest assured",
+"first": "B5L04"
+},
+{
+"id": "P-0287",
+"phrase": "better still",
+"first": "B5L04"
+},
+{
+"id": "P-0288",
+"phrase": "take a...toll",
+"first": "B5L04"
+},
+{
+"id": "P-0289",
+"phrase": "in theory",
+"first": "B5L04"
+},
+{
+"id": "P-0290",
+"phrase": "at a price",
+"first": "B5L04"
+},
+{
+"id": "P-0291",
+"phrase": "jump to conclusions",
+"first": "B5L04"
+},
+{
+"id": "P-0292",
+"phrase": "keep a(n) (...) eye on...",
+"first": "B5L04"
+},
+{
+"id": "P-0293",
+"phrase": "set...apart (from...)",
+"first": "B5L05"
+},
+{
+"id": "P-0294",
+"phrase": "in consequence",
+"first": "B5L05"
+},
+{
+"id": "P-0295",
+"phrase": "contend with",
+"first": "B5L05"
+},
+{
+"id": "P-0296",
+"phrase": "result in",
+"first": "B5L05"
+},
+{
+"id": "P-0297",
+"phrase": "as a matter of fact",
+"first": "B5L05"
+},
+{
+"id": "P-0298",
+"phrase": "owing to",
+"first": "B5L05"
+},
+{
+"id": "P-0299",
+"phrase": "far from",
+"first": "B5L05"
+},
+{
+"id": "P-0300",
+"phrase": "go down in history",
+"first": "B5L06"
+},
+{
+"id": "P-0301",
+"phrase": "as long as",
+"first": "B5L06"
+},
+{
+"id": "P-0302",
+"phrase": "be heavy with",
+"first": "B5L06"
+},
+{
+"id": "P-0303",
+"phrase": "live out",
+"first": "B5L06"
+},
+{
+"id": "P-0304",
+"phrase": "have yet to",
+"first": "B5L06"
+}
+]

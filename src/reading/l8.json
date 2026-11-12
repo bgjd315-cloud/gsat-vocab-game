@@ -1,0 +1,2214 @@
+[
+ {
+  "id": "TO-R11",
+  "level": 8,
+  "day": 1,
+  "kind": "toeic",
+  "title": "Email: Changes to Office Paperwork",
+  "topic": "電子郵件・辦公室文書",
+  "paragraphs": [
+   "To: All staff\nFrom: Dana Lee, Office Manager\nSubject: Changes to office paperwork",
+   "Starting on March 1, we will [[streamline|TO-0020]] our office [[paperwork|TO-0006]]. At the moment, too many forms are printed, signed, and kept in the [[storeroom|TO-0023]]. Most [[departmental|TO-0024]] forms will now be sent [[electronically|TO-0026]]. You will open the new system with your own [[login|TO-0013]], so please do not share it. Any [[unauthorized|TO-0030]] use will be reported to your manager.",
+   "Our [[outdated|TO-0010]] [[copier|TO-0004]] on the second floor will also be replaced next month. Until then, if it runs out of [[toner|TO-0021]], please ask Ms. Park, our [[receptionist|TO-0002]], for a new [[cartridge|TO-0005]]. Please do not try to change it yourself, because the machine is easy to damage.",
+   "Training sessions will be held on February 24 and 25 at 3 p.m. in Meeting Room B. Each session takes about one hour. Please sign up with Ms. Park by February 20. If you cannot attend either day, tell me, and I will find another time for you.",
+   "Thank you,\nDana Lee"
+  ],
+  "zh": [
+   "收件者：全體員工\n寄件者：辦公室經理 Dana Lee\n主旨：辦公室文書作業的變動",
+   "從 3 月 1 日起，我們將精簡辦公室的文書作業。目前有太多表單是列印、簽名後再放進儲藏室保管。大部分部門表單今後將以電子方式傳送。你們將用自己的登入帳號開啟新系統，所以請不要與他人共用。任何未經授權的使用都會通報給你的主管。",
+   "二樓那台老舊的影印機下個月也會被汰換。在那之前，如果影印機的碳粉用完了，請向我們的接待人員 Park 女士領取新的碳粉匣。請不要自己嘗試更換，因為這台機器很容易損壞。",
+   "教育訓練將在 2 月 24 日和 25 日下午 3 點於 B 會議室舉行，每場約一小時。請在 2 月 20 日前向 Park 女士報名。如果這兩天你都無法參加，請告訴我，我會替你另外安排時間。",
+   "謝謝大家，\nDana Lee"
+  ],
+  "glosses": [],
+  "targets": [
+   "TO-0020",
+   "TO-0006",
+   "TO-0023",
+   "TO-0024",
+   "TO-0026",
+   "TO-0013",
+   "TO-0030",
+   "TO-0010",
+   "TO-0004",
+   "TO-0021",
+   "TO-0002",
+   "TO-0005"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "目的",
+    "stem": "What is the purpose of the e-mail?",
+    "options": [
+     "To explain new ways of handling office forms and equipment",
+     "To ask staff to buy new office supplies",
+     "To announce that the office will move",
+     "To invite staff to a company party"
+    ],
+    "answer": 0,
+    "explain": "信中說明將精簡文書作業、改用電子表單與新登入系統，並提到更換影印機與訓練，故選 (A)。(C) 信中並未提到辦公室要搬遷。",
+    "evidence": "Starting on March 1, we will streamline our office paperwork."
+   },
+   {
+    "type": "細節",
+    "stem": "Who should employees ask for a new toner cartridge?",
+    "options": [
+     "Dana Lee",
+     "Ms. Park",
+     "A department manager",
+     "A repair worker"
+    ],
+    "answer": 1,
+    "explain": "第二段指出碳粉用完時要向接待人員 Ms. Park 領取，故選 (B)。(A) Dana Lee 是寫信的人，信中並未要求員工向她領取。",
+    "evidence": "Until then, if it runs out of toner, please ask Ms. Park, our receptionist, for a new cartridge."
+   },
+   {
+    "type": "細節",
+    "stem": "What are employees asked to do by February 20?",
+    "options": [
+     "Return their login",
+     "Replace the copier",
+     "Sign up for a training session",
+     "Send forms to the storeroom"
+    ],
+    "answer": 2,
+    "explain": "第三段要求員工在 2 月 20 日前向 Ms. Park 報名訓練，故選 (C)。(D) 信中沒有要求把表單送去儲藏室，反而是要減少紙本保管。",
+    "evidence": "Please sign up with Ms. Park by February 20."
+   },
+   {
+    "type": "推論",
+    "stem": "What is suggested about the office's old system?",
+    "options": [
+     "It is faster than the new one.",
+     "It is used only by managers.",
+     "It does not need a login.",
+     "It uses many paper forms."
+    ],
+    "answer": 3,
+    "explain": "信中說目前許多表單仍用列印、簽名並存放於儲藏室，可見舊系統大量使用紙本，故選 (D)。(B) 信中並沒有說舊系統比較快。",
+    "evidence": "At the moment, too many forms are printed, signed, and kept in the storeroom."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "The company hopes to ______ its hiring process so that new workers can start faster.",
+    "options": [
+     "postpone",
+     "streamline",
+     "overlook",
+     "withdraw"
+    ],
+    "answer": 1,
+    "word": "TO-0020",
+    "explain": "要讓新人更快上工，表示把流程簡化、使更有效率，故選 streamline。postpone（延後）、overlook（忽略）、withdraw（撤回）都不合句意。"
+   },
+   {
+    "stem": "The copy machine is out of ______, so all the pages come out blank.",
+    "options": [
+     "receptionist",
+     "storeroom",
+     "toner",
+     "login"
+    ],
+    "answer": 2,
+    "word": "TO-0021",
+    "explain": "影印出來是空白，表示碳粉用完，故選 toner。receptionist（接待人員）、storeroom（儲藏室）、login（登入帳號）都無法說明影印出空白頁的原因。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R12",
+  "level": 8,
+  "day": 1,
+  "kind": "toeic",
+  "title": "Memo: Computer Check on Friday",
+  "topic": "備忘錄・電腦檢查",
+  "paragraphs": [
+   "MEMO\nTo: Finance Department\nFrom: Kevin Brooks, IT Supervisor\nDate: October 8\nRe: Computer check",
+   "On Friday, October 12, the IT team will run a [[diagnostic|TO-0025]] check on every computer in the building. The work will start at 6 p.m. and should be finished by 9 p.m. During this time, the network will be off, and the office [[modem|TO-0028]] will be restarted.",
+   "Before you leave on Friday, please save your work and [[unplug|TO-0031]] your desktop computer. Please also [[delete|TO-0008]] any files you no longer need, because a full hard drive slows down the check.",
+   "After the check, we plan to [[automate|TO-0009]] the monthly [[spreadsheet|TO-0019]] reports so that nobody has to enter numbers by hand. Computers will also be checked [[periodically|TO-0016]], about once every three months. If you [[misplace|TO-0012]] a cable or find that something is missing after the work, please tell the help desk. Do not [[rearrange|TO-0011]] the cables behind your desk, even if they look messy."
+  ],
+  "zh": [
+   "備忘錄\n收件者：財務部\n寄件者：資訊部主管 Kevin Brooks\n日期：10 月 8 日\n事由：電腦檢查",
+   "10 月 12 日星期五，資訊團隊將對大樓內的每一台電腦進行診斷檢查。工作將從下午 6 點開始，預計晚上 9 點前完成。在這段時間，網路會中斷，辦公室的數據機也會重新啟動。",
+   "星期五下班前，請先儲存你的檔案，並拔掉桌上型電腦的插頭。也請刪除不再需要的檔案，因為硬碟太滿會拖慢檢查速度。",
+   "檢查完成後，我們打算把每月的試算表報告自動化，這樣就不必再用手輸入數字。電腦之後也會定期檢查，大約每三個月一次。如果你在作業後弄丟了線材，或發現有東西不見了，請告訴服務台。即使後面的線看起來很亂，也請不要自行重新整理。"
+  ],
+  "glosses": [],
+  "targets": [
+   "TO-0025",
+   "TO-0028",
+   "TO-0031",
+   "TO-0008",
+   "TO-0009",
+   "TO-0019",
+   "TO-0016",
+   "TO-0012",
+   "TO-0011"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "目的",
+    "stem": "What is the purpose of the memo?",
+    "options": [
+     "To ask staff to buy new computers",
+     "To tell staff how to get ready for a computer check",
+     "To report that the network is broken",
+     "To explain a change in working hours"
+    ],
+    "answer": 1,
+    "explain": "備忘錄說明週五將檢查電腦，並要求員工先存檔、拔插頭、刪檔案，故選 (B)。(A) 文中沒有提到要買新電腦。",
+    "evidence": "Before you leave on Friday, please save your work and unplug your desktop computer."
+   },
+   {
+    "type": "細節",
+    "stem": "When is the check expected to end?",
+    "options": [
+     "At 9 p.m. on October 8",
+     "At 9 p.m. on October 12",
+     "At 6 p.m. on October 8",
+     "At 6 p.m. on October 12"
+    ],
+    "answer": 1,
+    "explain": "第二段說工作從下午 6 點開始、晚上 9 點前完成，日期是 10 月 12 日，故選 (B)。(D) 6 點是開始時間，不是結束時間。",
+    "evidence": "The work will start at 6 p.m. and should be finished by 9 p.m."
+   },
+   {
+    "type": "細節",
+    "stem": "Why should staff delete old files?",
+    "options": [
+     "A full hard drive makes the check slower.",
+     "The files may be stolen during the check.",
+     "The IT team needs more office space.",
+     "The new reports cannot be saved."
+    ],
+    "answer": 0,
+    "explain": "第三段明說硬碟太滿會拖慢檢查，所以要刪檔案，故選 (A)。(B) 文中沒有提到檔案被偷。",
+    "evidence": "Please also delete any files you no longer need, because a full hard drive slows down the check."
+   },
+   {
+    "type": "推論",
+    "stem": "What is most likely true about the monthly reports now?",
+    "options": [
+     "They are already done by a computer.",
+     "They are no longer needed.",
+     "They are checked once a year.",
+     "They are put together mostly by hand."
+    ],
+    "answer": 3,
+    "explain": "IT 打算讓報告自動化，好讓人不用再手動輸入數字，可見目前多半靠人工，故選 (D)。(A) 若已經自動化就不需要說「計畫」了。",
+    "evidence": "After the check, we plan to automate the monthly spreadsheet reports so that nobody has to enter numbers by hand."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Our computers are checked ______, usually once every three months.",
+    "options": [
+     "carelessly",
+     "silently",
+     "unfortunately",
+     "periodically"
+    ],
+    "answer": 3,
+    "word": "TO-0016",
+    "explain": "once every three months 表示固定一段時間重複一次，故選 periodically（定期地）。carelessly（粗心地）、silently（安靜地）、unfortunately（不幸地）都不合句意。"
+   },
+   {
+    "stem": "Please ______ the old e-mails you do not need so that your mailbox has more space.",
+    "options": [
+     "delete",
+     "rearrange",
+     "unplug",
+     "proofread"
+    ],
+    "answer": 0,
+    "word": "TO-0008",
+    "explain": "信箱要有更多空間，應該刪除不需要的郵件，故選 delete。rearrange（重新佈置）、unplug（拔插頭）、proofread（校對）都無法讓信箱空出空間。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R13",
+  "level": 8,
+  "day": 1,
+  "kind": "toeic",
+  "title": "Emails: Ordering Office Supplies",
+  "topic": "電子郵件・訂購辦公用品（雙篇）",
+  "paragraphs": [
+   "--- E-mail 1 ---\nTo: Hal Nunez, Operations Director\nFrom: Rita Gomez, Office Assistant\nDate: June 3\nSubject: Request for approval",
+   "Dear Mr. Nunez,\nOur staff [[photocopy|TO-0003]] nearly 2,000 pages a month, and our supply of [[toner|TO-0021]] is almost gone. I need your [[authorization|TO-0017]] to order the items below.\n6 boxes of toner at $45 each = $270\n2 packs of [[letterhead|TO-0027]] paper at $30 each = $60\nTotal: $330",
+   "I would also like to stop sending customer letters by [[postal|TO-0018]] mail and send them [[electronically|TO-0026]] instead. It is cheaper and faster.\nRita",
+   "--- E-mail 2 ---\nTo: Rita Gomez, Office Assistant\nFrom: Hal Nunez, Operations Director\nDate: June 4\nSubject: RE: Request for approval",
+   "Dear Rita,\nThank you for the list. I approve the paper, but please order only 4 boxes of toner, not 6, because the old machine will be replaced in July. The delivery date was [[unspecified|TO-0015]] on the price list, so please ask the seller for it. Before anything is printed on the new letterhead, please ask Ms. Chen to [[proofread|TO-0014]] it. Your idea about customer letters is a good one. Let's talk about it on Friday.\nHal"
+  ],
+  "zh": [
+   "--- 電子郵件 1 ---\n收件者：營運總監 Hal Nunez\n寄件者：辦公室助理 Rita Gomez\n日期：6 月 3 日\n主旨：請求核准",
+   "Nunez 先生您好：\n我們的員工每個月影印將近 2,000 頁，碳粉庫存也快用完了。我需要您授權，才能訂購下列物品。\n碳粉 6 盒，每盒 45 美元 = 270 美元\n公司抬頭信紙 2 包，每包 30 美元 = 60 美元\n總計：330 美元",
+   "我也想停止以郵寄方式寄送客戶信函，改用電子方式寄送。這樣比較便宜、也比較快。\nRita",
+   "--- 電子郵件 2 ---\n收件者：辦公室助理 Rita Gomez\n寄件者：營運總監 Hal Nunez\n日期：6 月 4 日\n主旨：回覆：請求核准",
+   "Rita 妳好：\n謝謝妳提供清單。我核准信紙的部分，但請只訂 4 盒碳粉，不要訂 6 盒，因為舊機器 7 月就會被換掉。價目表上沒有註明送貨日期，所以請向賣家詢問。在新的公司抬頭信紙印上任何東西之前，請 Chen 女士先校對。妳關於客戶信函的想法很好，我們星期五再談。\nHal"
+  ],
+  "glosses": [],
+  "targets": [
+   "TO-0003",
+   "TO-0021",
+   "TO-0017",
+   "TO-0027",
+   "TO-0018",
+   "TO-0026",
+   "TO-0015",
+   "TO-0014"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "目的",
+    "stem": "Why did Ms. Gomez write to Mr. Nunez?",
+    "options": [
+     "To report that a machine is broken",
+     "To ask for a new job",
+     "To get his approval for an order",
+     "To complain about a late delivery"
+    ],
+    "answer": 2,
+    "explain": "第一封信寫道需要主管授權才能訂購清單上的物品，故選 (C)。(B) 信中沒有求職的內容。",
+    "evidence": "I need your authorization to order the items below."
+   },
+   {
+    "type": "細節",
+    "stem": "Why does Mr. Nunez want fewer boxes of toner?",
+    "options": [
+     "The company will get a new copy machine in July.",
+     "The toner is too expensive.",
+     "Ms. Chen already bought some.",
+     "The company will print fewer letters."
+    ],
+    "answer": 0,
+    "explain": "第二封信說舊機器 7 月就會被更換，所以只訂 4 盒，故選 (A)。(B) 信中並未嫌價格太貴，他只是減少數量。",
+    "evidence": "I approve the paper, but please order only 4 boxes of toner, not 6, because the old machine will be replaced in July."
+   },
+   {
+    "type": "細節",
+    "stem": "How much will the company most likely spend on the order?",
+    "options": [
+     "$330",
+     "$240",
+     "$180",
+     "$270"
+    ],
+    "answer": 1,
+    "explain": "需合併兩封信：Hal 核准信紙 60 美元，碳粉改訂 4 盒，4 × 45 = 180 美元，合計 240 美元，故選 (B)。(A) 330 美元是 Rita 原本申請的總額。",
+    "evidence": "I approve the paper, but please order only 4 boxes of toner, not 6, because the old machine will be replaced in July."
+   },
+   {
+    "type": "推論",
+    "stem": "What does Ms. Gomez suggest about sending customer letters?",
+    "options": [
+     "It takes too many workers.",
+     "It should be done on Fridays.",
+     "It needs a new printer.",
+     "It would be cheaper to send them by e-mail."
+    ],
+    "answer": 3,
+    "explain": "Rita 說改用電子方式比較便宜也比較快，故選 (D)。(A) 她並沒有提到人手不足。",
+    "evidence": "It is cheaper and faster."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "The manager must give her ______ before anyone can spend more than $500.",
+    "options": [
+     "excursion",
+     "itinerary",
+     "authorization",
+     "amenity"
+    ],
+    "answer": 2,
+    "word": "TO-0017",
+    "explain": "超過 500 美元要經過經理的批准，故選 authorization（授權；批准）。excursion（短程旅行）、itinerary（行程表）、amenity（便利設施）都不合句意。"
+   },
+   {
+    "stem": "Please ______ the report carefully before you send it to the client.",
+    "options": [
+     "automate",
+     "unplug",
+     "reschedule",
+     "proofread"
+    ],
+    "answer": 3,
+    "word": "TO-0014",
+    "explain": "寄給客戶前要仔細檢查文字錯誤，故選 proofread（校對）。automate（自動化）、unplug（拔插頭）、reschedule（改期）都不合句意。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R21",
+  "level": 8,
+  "day": 2,
+  "kind": "toeic",
+  "title": "Email: Planning Meeting Moved",
+  "topic": "電子郵件・會議改期",
+  "paragraphs": [
+   "To: All project team members\nFrom: Priya Shah, Project Coordinator\nSubject: Change to Tuesday's meeting",
+   "I am writing to let you know that we must [[reschedule|TO-0032]] the [[upcoming|TO-0033]] planning meeting. Mr. Evans, our main [[presenter|TO-0036]], has to fly to Chicago on Tuesday, so he will not be in the office. Please check your calendar and tell me your [[availability|TO-0035]] for Wednesday or Thursday of next week.",
+   "The meeting will now be held in the [[boardroom|TO-0040]] on the fifth floor. We will begin with a short [[overview|TO-0039]] of the schedule. After that, we will [[brainstorm|TO-0045]] ideas for the customer event in May. We hope to [[finalize|TO-0037]] the budget by the end of the meeting, so please read the attached [[timeline|TO-0047]] first. Each [[attendee|TO-0034]] should bring at least two ideas.",
+   "Please reply by Friday at noon. I will send the new date as soon as everyone has answered. I am sorry for the trouble.",
+   "Priya Shah"
+  ],
+  "zh": [
+   "收件者：全體專案團隊成員\n寄件者：專案協調員 Priya Shah\n主旨：週二會議異動",
+   "我寫這封信是要通知大家，我們必須把即將舉行的企劃會議改期。我們的主要簡報者 Evans 先生星期二必須飛往芝加哥，所以他不會在辦公室。請查看你的行事曆，告訴我你下週三或週四有沒有空。",
+   "會議現在將改在五樓的會議室舉行。我們會先簡短概述行程，接著腦力激盪五月客戶活動的點子。我們希望在會議結束前把預算定案，所以請先閱讀附上的時程表。每位與會者應至少帶兩個點子。",
+   "請在週五中午前回覆。等大家都回覆後，我會立刻寄出新的日期。造成不便，敬請見諒。",
+   "Priya Shah"
+  ],
+  "glosses": [],
+  "targets": [
+   "TO-0032",
+   "TO-0033",
+   "TO-0036",
+   "TO-0035",
+   "TO-0040",
+   "TO-0039",
+   "TO-0045",
+   "TO-0037",
+   "TO-0047",
+   "TO-0034"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "目的",
+    "stem": "What is the purpose of the e-mail?",
+    "options": [
+     "To say that a meeting will be held at a different time",
+     "To ask for a larger budget",
+     "To introduce a new team member",
+     "To cancel the customer event"
+    ],
+    "answer": 0,
+    "explain": "信中說明會議必須改期，並請大家回報可行的時間，故選 (A)。(B) 信中雖提到預算，但只是會議要討論的內容之一。",
+    "evidence": "I am writing to let you know that we must reschedule the upcoming planning meeting."
+   },
+   {
+    "type": "細節",
+    "stem": "Why must the meeting be changed?",
+    "options": [
+     "Ms. Shah is going on a trip.",
+     "Mr. Evans will be away on Tuesday.",
+     "The boardroom is not free on Tuesday.",
+     "The budget is not ready."
+    ],
+    "answer": 1,
+    "explain": "第一段說主要簡報者 Mr. Evans 週二要去芝加哥，所以改期，故選 (B)。(C) 信中沒有說會議室被占用，只說會議室換成五樓。",
+    "evidence": "Mr. Evans, our main presenter, has to fly to Chicago on Tuesday, so he will not be in the office."
+   },
+   {
+    "type": "細節",
+    "stem": "What should attendees do before the meeting?",
+    "options": [
+     "Book a flight to Chicago",
+     "Send the budget to Mr. Evans",
+     "Write a report on the customer event",
+     "Read the timeline and prepare ideas"
+    ],
+    "answer": 3,
+    "explain": "第二段要求大家先閱讀附上的時程表，並每人至少帶兩個點子，故選 (D)。(B) 預算是會中要定案的，沒有要求事先寄給 Evans。",
+    "evidence": "Each attendee should bring at least two ideas."
+   },
+   {
+    "type": "推論",
+    "stem": "What can be inferred about the new meeting date?",
+    "options": [
+     "It will be next Friday.",
+     "It has not been decided yet.",
+     "It will be the same as before.",
+     "It will be in May."
+    ],
+    "answer": 1,
+    "explain": "信中請大家回報週三或週四的空檔，等所有人回覆後才會寄出新日期，可見尚未決定，故選 (B)。(A) 週五是回覆的期限，不是開會日。",
+    "evidence": "I will send the new date as soon as everyone has answered."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Please check your ______ and tell me when you are free next week.",
+    "options": [
+     "availability",
+     "effectiveness",
+     "overview",
+     "paraphrase"
+    ],
+    "answer": 0,
+    "word": "TO-0035",
+    "explain": "要告訴對方什麼時候有空，是在回報可行的時間，故選 availability（空檔）。effectiveness（效果）、overview（概要）、paraphrase（改述）都不合句意。"
+   },
+   {
+    "stem": "I have a doctor's appointment on Monday, so we need to ______ our meeting to Tuesday.",
+    "options": [
+     "delete",
+     "reschedule",
+     "unplug",
+     "misplace"
+    ],
+    "answer": 1,
+    "word": "TO-0032",
+    "explain": "因為週一有約，要把會議挪到週二，故選 reschedule（改期）。delete（刪除）、unplug（拔插頭）、misplace（弄丟）都不能搭配 to Tuesday。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R22",
+  "level": 8,
+  "day": 2,
+  "kind": "toeic",
+  "title": "Article: Making Meetings Work",
+  "topic": "文章・有效率的會議",
+  "paragraphs": [
+   "WORKPLACE TIPS: Making Meetings Work Better",
+   "Many workers say that meetings take too much time. Here are three simple ways to improve the [[effectiveness|TO-0042]] of yours.",
+   "First, choose the right way to meet. A [[videoconference|TO-0048]] saves travel time when team members work in different cities, while an [[informal|TO-0041]] chat at someone's desk is enough for a small question. Save the [[boardroom|TO-0040]] for important talks. Give each [[presenter|TO-0036]] ten minutes, and keep to the [[timeline|TO-0047]] on the agenda.",
+   "Second, listen carefully. When someone gives a long answer, try to [[paraphrase|TO-0043]] it in a few words, such as \"So you are saying that the delivery will be late.\" This shows that you understand. Also, ask questions that need a clear answer. An [[affirmative|TO-0044]] answer means the group can move on.",
+   "Third, end with action. Write down who will do what and by when. If a plan does not work after a month, do not be afraid to [[reconsider|TO-0046]] it."
+  ],
+  "zh": [
+   "職場小秘訣：讓會議更有效率",
+   "許多上班族說開會太耗時間。以下三個簡單的方法，可以提升你們會議的效率。",
+   "第一，選擇適合的開會方式。當團隊成員分處不同城市時，視訊會議可以節省交通時間；而在某人座位旁非正式聊一聊，就足以處理小問題。把會議室留給重要的討論。給每位簡報者十分鐘，並遵守議程上的時程。",
+   "第二，專心傾聽。當有人給了很長的回答時，試著用幾句話改述，例如「所以你的意思是貨會晚到。」這能表示你聽懂了。另外，要問能得到明確答案的問題。肯定的回答代表大家可以進入下一項。",
+   "第三，以行動作結。寫下誰要做什麼、何時完成。如果一個計畫一個月後仍不見效，不要害怕重新考慮。"
+  ],
+  "glosses": [],
+  "targets": [
+   "TO-0042",
+   "TO-0048",
+   "TO-0041",
+   "TO-0040",
+   "TO-0036",
+   "TO-0047",
+   "TO-0043",
+   "TO-0044",
+   "TO-0046"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "主旨",
+    "stem": "What is the article mainly about?",
+    "options": [
+     "How to travel to a meeting",
+     "Simple ways to hold better meetings",
+     "Why meetings should be stopped",
+     "Which meeting room is the best"
+    ],
+    "answer": 1,
+    "explain": "全文提供三個讓會議更有效率的方法，故選 (B)。(C) 文中只說重要的討論用會議室，並未比較哪間最好。",
+    "evidence": "Here are three simple ways to improve the effectiveness of yours."
+   },
+   {
+    "type": "細節",
+    "stem": "According to the article, when is a videoconference useful?",
+    "options": [
+     "When team members are in different cities",
+     "When the topic is very small",
+     "When no agenda is ready",
+     "When a plan must be changed"
+    ],
+    "answer": 0,
+    "explain": "第三段說團隊成員分處不同城市時，視訊會議可省下交通時間，故選 (A)。(B) 小問題適合的是在座位旁的非正式聊天。",
+    "evidence": "A videoconference saves travel time when team members work in different cities, while an informal chat at someone's desk is enough for a small question."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"paraphrase\" in the article is closest in meaning to ______.",
+    "options": [
+     "ignore",
+     "record",
+     "restate",
+     "cancel"
+    ],
+    "answer": 2,
+    "explain": "文中 paraphrase 後面舉例用另一種話重述對方的意思，與 restate（重述）最接近，故選 (C)。(B) record 是「記錄」，文中沒有要求錄下發言。",
+    "evidence": "When someone gives a long answer, try to paraphrase it in a few words, such as \"So you are saying that the delivery will be late.\""
+   },
+   {
+    "type": "推論",
+    "stem": "What would the writer most likely suggest if a plan is not working well?",
+    "options": [
+     "Stop the project at once",
+     "Hold a longer meeting",
+     "Ask the presenter to talk more",
+     "Think about it again"
+    ],
+    "answer": 3,
+    "explain": "作者說計畫一個月後不見效時，不要怕重新考慮，故選 (D)。(A) 文中並未建議立刻停止。",
+    "evidence": "If a plan does not work after a month, do not be afraid to reconsider it."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Before we sign the contract, we should ______ the price once more.",
+    "options": [
+     "unplug",
+     "reconsider",
+     "automate",
+     "reschedule"
+    ],
+    "answer": 1,
+    "word": "TO-0046",
+    "explain": "簽約前要再想一次價格，故選 reconsider（重新考慮）。unplug（拔插頭）、automate（自動化）、reschedule（改期）都不合句意。"
+   },
+   {
+    "stem": "The new training program has improved the ______ of our sales team.",
+    "options": [
+     "effectiveness",
+     "boardroom",
+     "attendee",
+     "luncheon"
+    ],
+    "answer": 0,
+    "word": "TO-0042",
+    "explain": "訓練讓業務團隊的「成效」提升，故選 effectiveness。boardroom（會議室）、attendee（與會者）、luncheon（午餐會）都無法被「提升」。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R23",
+  "level": 8,
+  "day": 2,
+  "kind": "toeic",
+  "title": "Notice and Email: Staff Luncheon",
+  "topic": "公告與電子郵件・員工午餐會（雙篇）",
+  "paragraphs": [
+   "--- Notice ---\nANNUAL STAFF LUNCHEON\nDate: Friday, December 14\nPlace: Harbor Room, Grand Hotel",
+   "All employees are invited to our [[upcoming|TO-0033]] [[luncheon|TO-0038]]. The event is [[informal|TO-0041]], so there is no need to dress up. Lunch will be served at 12:00. At 12:45, we will give out the yearly awards. At 1:15, our guest [[presenter|TO-0036]], Dr. Lin, will give a talk on teamwork.",
+   "Please check your [[availability|TO-0035]] and reply by December 7 so that we can [[finalize|TO-0037]] the number of meals. Staff in our Taipei office can join by [[videoconference|TO-0048]].",
+   "--- E-mail ---\nTo: Events Office\nFrom: Tom Reyes, Taipei Office\nDate: December 5\nSubject: Staff luncheon",
+   "Hello,\nI would like to join the luncheon, but my client meeting does not end until 1:00 p.m. Can I join by video after that? I am free from then on, and I most want to hear Dr. Lin's talk. As an [[attendee|TO-0034]] from another office, I would also like to know whether the awards will be shown online."
+  ],
+  "zh": [
+   "--- 公告 ---\n年度員工午餐會\n日期：12 月 14 日星期五\n地點：Grand 飯店 Harbor 廳",
+   "邀請全體員工參加即將舉行的午餐會。活動氣氛輕鬆，不需要盛裝出席。12:00 開始用餐，12:45 頒發年度獎項，1:15 由特邀講者 Lin 博士分享團隊合作的演說。",
+   "請確認你的時間並於 12 月 7 日前回覆，以便我們確定餐點數量。台北辦公室的同仁可以用視訊方式參加。",
+   "--- 電子郵件 ---\n收件者：活動辦公室\n寄件者：台北辦公室 Tom Reyes\n日期：12 月 5 日\n主旨：員工午餐會",
+   "您好：\n我想參加午餐會，但我的客戶會議要到下午 1 點才結束。我之後可以用視訊加入嗎？從那時起我就有空了，而且我最想聽 Lin 博士的演說。身為其他辦公室的與會者，我也想知道頒獎過程會不會線上播出。"
+  ],
+  "glosses": [],
+  "targets": [
+   "TO-0033",
+   "TO-0038",
+   "TO-0041",
+   "TO-0036",
+   "TO-0035",
+   "TO-0037",
+   "TO-0048",
+   "TO-0034"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "目的",
+    "stem": "Why did Mr. Reyes write the e-mail?",
+    "options": [
+     "To invite Dr. Lin to give a talk",
+     "To cancel his client meeting",
+     "To ask for a different meal",
+     "To ask if he can take part in the event from far away"
+    ],
+    "answer": 3,
+    "explain": "Reyes 問能否在會議結束後以視訊加入午餐會，故選 (D)。(B) 客戶會議是他無法準時參加的原因，他並未取消。",
+    "evidence": "Can I join by video after that?"
+   },
+   {
+    "type": "細節",
+    "stem": "What is the luncheon for?",
+    "options": [
+     "To thank employees and share ideas",
+     "To meet new customers",
+     "To plan a new project",
+     "To train new workers"
+    ],
+    "answer": 0,
+    "explain": "公告提到頒發年度獎項及團隊合作的演說，是對員工表揚與分享，故選 (A)。(C) 公告沒有提到新專案的規劃。",
+    "evidence": "At 12:45, we will give out the yearly awards."
+   },
+   {
+    "type": "細節",
+    "stem": "Which part of the luncheon will Mr. Reyes probably miss?",
+    "options": [
+     "The whole event",
+     "Dr. Lin's talk",
+     "The yearly awards",
+     "The reply deadline"
+    ],
+    "answer": 2,
+    "explain": "需合併兩份文件：公告說 12:45 頒獎、1:15 演說；Reyes 的會議要到 1:00 才結束，所以會錯過 12:45 的頒獎，故選 (C)。(A) 他說之後就有空，且最想聽的就是 Lin 博士的演說，所以不會錯過。",
+    "evidence": "I would like to join the luncheon, but my client meeting does not end until 1:00 p.m."
+   },
+   {
+    "type": "推論",
+    "stem": "What is suggested about the Taipei office?",
+    "options": [
+     "It is closed on December 14.",
+     "Its staff are allowed to join the luncheon online.",
+     "It holds its own luncheon.",
+     "It has no staff attending."
+    ],
+    "answer": 1,
+    "explain": "公告說台北辦公室同仁可用視訊參加，故選 (B)。",
+    "evidence": "Staff in our Taipei office can join by videoconference."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "The ______ will be held at noon, and lunch will be served for all staff.",
+    "options": [
+     "blueprint",
+     "modem",
+     "itinerary",
+     "luncheon"
+    ],
+    "answer": 3,
+    "word": "TO-0038",
+    "explain": "中午舉行並提供午餐，指的是午餐會，故選 luncheon。blueprint（藍圖）、modem（數據機）、itinerary（行程表）都不合句意。"
+   },
+   {
+    "stem": "We need to ______ the guest list by Monday so that the hotel can prepare the right number of seats.",
+    "options": [
+     "finalize",
+     "overlook",
+     "unplug",
+     "misplace"
+    ],
+    "answer": 0,
+    "word": "TO-0037",
+    "explain": "要在週一前把名單定案，好讓飯店準備座位，故選 finalize（定案）。overlook（忽略）、unplug（拔插頭）、misplace（弄丟）都不合句意。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R31",
+  "level": 8,
+  "day": 3,
+  "kind": "toeic",
+  "title": "Email: Hotel Booking Confirmation",
+  "topic": "電子郵件・飯店訂房確認",
+  "paragraphs": [
+   "To: Ms. Olivia Tan\nFrom: Seaview Hotel Reservations\nSubject: Your booking confirmation",
+   "Thank you for choosing the Seaview Hotel. We are pleased to confirm your stay from May 14 to May 17 in a [[deluxe|TO-0061]] room with an ocean view. Breakfast is [[complimentary|TO-0050]] for all guests, and our [[spa|TO-0058]] and pool are open every day from 8 a.m. to 9 p.m.",
+   "[[Checkout|TO-0055]] time is 11 a.m. If you need to leave your bags after that, our [[doorman|TO-0066]] will keep them safe. Our [[concierge|TO-0056]] can also help with taxis, dinner plans, and a one-day [[excursion|TO-0053]] to the national park. Because of heavy [[congestion|TO-0059]] on the highway from the airport on Fridays, we suggest that you leave the airport early or take the train.",
+   "If you must change your plans, you may make a free [[cancellation|TO-0052]] up to 48 hours before your arrival. After that, one night's charge will apply. Guests from other countries may need a power [[adapter|TO-0063]], and we are happy to lend one at the front desk."
+  ],
+  "zh": [
+   "收件者：Olivia Tan 女士\n寄件者：Seaview 飯店訂房組\n主旨：您的訂房確認",
+   "感謝您選擇 Seaview 飯店。我們很高興確認您 5 月 14 日至 5 月 17 日入住一間可看海景的豪華客房。所有房客均可免費享用早餐，水療館和游泳池每天早上 8 點至晚上 9 點開放。",
+   "退房時間為上午 11 點。如果您在那之後還需要寄放行李，我們的門僮會妥善保管。禮賓人員也可以協助安排計程車、晚餐，以及前往國家公園的一日遊。由於週五從機場出發的公路壅塞嚴重，建議您提早離開機場或搭乘火車。",
+   "如果您必須更改計畫，可在抵達前 48 小時內免費取消。超過時間，將收取一晚的費用。來自其他國家的旅客可能需要電源轉接頭，我們很樂意在櫃檯借給您一個。"
+  ],
+  "glosses": [
+   {
+    "word": "ocean",
+    "zh": "海洋"
+   },
+   {
+    "word": "highway",
+    "zh": "公路"
+   }
+  ],
+  "targets": [
+   "TO-0061",
+   "TO-0050",
+   "TO-0058",
+   "TO-0055",
+   "TO-0066",
+   "TO-0056",
+   "TO-0053",
+   "TO-0059",
+   "TO-0052",
+   "TO-0063"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "目的",
+    "stem": "What is the purpose of the e-mail?",
+    "options": [
+     "To confirm a reservation and give useful information",
+     "To ask a guest to pay a bill",
+     "To advertise a new hotel pool",
+     "To explain why a room is not ready"
+    ],
+    "answer": 0,
+    "explain": "信件一開頭就確認住房日期與房型，後面提供退房、交通與取消規定，故選 (A)。(B) 信中沒有要求付款。",
+    "evidence": "We are pleased to confirm your stay from May 14 to May 17 in a deluxe room with an ocean view."
+   },
+   {
+    "type": "細節",
+    "stem": "Who can help guests plan a trip to the national park?",
+    "options": [
+     "The doorman",
+     "The concierge",
+     "The driver",
+     "The pool staff"
+    ],
+    "answer": 1,
+    "explain": "第二段說禮賓人員可以協助安排一日遊，故選 (B)。(A) 門僮的工作是替客人保管行李，不負責安排行程。",
+    "evidence": "Our concierge can also help with taxis, dinner plans, and a one-day excursion to the national park."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"suggest\" in the e-mail is closest in meaning to ______.",
+    "options": [
+     "order",
+     "recommend",
+     "refuse",
+     "expect"
+    ],
+    "answer": 1,
+    "explain": "suggest that you leave early 是「建議」，與 recommend 意思最接近，故選 (B)。(C) refuse 是「拒絕」，與句意相反。",
+    "evidence": "Because of heavy congestion on the highway from the airport on Fridays, we suggest that you leave the airport early or take the train."
+   },
+   {
+    "type": "推論",
+    "stem": "What will probably happen if Ms. Tan cancels on May 13?",
+    "options": [
+     "She will get all her money back.",
+     "She will receive a free breakfast.",
+     "She will be asked to stay longer.",
+     "She will have to pay for one night."
+    ],
+    "answer": 3,
+    "explain": "免費取消限抵達前 48 小時，5 月 13 日已不足 48 小時，會被收一晚費用，故選 (D)。(A) 只有在 48 小時前取消才能全額退款。",
+    "evidence": "After that, one night's charge will apply."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "The hotel gives guests a ______ cup of coffee when they arrive.",
+    "options": [
+     "deluxe",
+     "complimentary",
+     "adjacent",
+     "crowded"
+    ],
+    "answer": 1,
+    "word": "TO-0050",
+    "explain": "飯店送給客人的咖啡，是免費招待的，故選 complimentary。deluxe（豪華的）、adjacent（鄰近的）、crowded（擁擠的）都不能說明咖啡由飯店贈送。"
+   },
+   {
+    "stem": "Heavy traffic ______ on the main road made us miss our flight.",
+    "options": [
+     "congestion",
+     "checkout",
+     "excursion",
+     "amenity"
+    ],
+    "answer": 0,
+    "word": "TO-0059",
+    "explain": "交通壅塞使人錯過班機，故選 congestion。checkout（退房）、excursion（短程旅行）、amenity（便利設施）都無法與 traffic 搭配。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R32",
+  "level": 8,
+  "day": 3,
+  "kind": "toeic",
+  "title": "Itinerary: Trip to Singapore",
+  "topic": "行程表・新加坡出差",
+  "paragraphs": [
+   "Business Trip [[Itinerary|TO-0049]]: Mr. Ken Liu, Singapore, June 9–11",
+   "Monday, June 9\n8:10 a.m. Flight leaves Taipei. The [[airfare|TO-0054]] was paid by the company.\n1:00 p.m. Hotel shuttle to the Harbor Hotel. Shuttle [[riders|TO-0064]] must show a booking number.\n7:00 p.m. Welcome dinner in the hotel [[ballroom|TO-0065]]. Please choose one [[entrée|TO-0057]]: fish, chicken, or vegetables.",
+   "Tuesday, June 10\n9:00 a.m.–5:00 p.m. Sales conference, Room 4\n6:00 p.m. Optional [[excursion|TO-0053]]: night boat tour (US$30, pay at the front desk).",
+   "Wednesday, June 11\n11:00 a.m. [[Checkout|TO-0055]]. Hotel [[amenities|TO-0060]] such as the pool and gym may be used until then.\n5:30 p.m. Flight leaves for Taipei.",
+   "Mr. Liu may extend the trip as a short weekend [[getaway|TO-0067]] at his own cost. If he wishes to do so, he should tell Ms. Cruz in the travel office by May 30."
+  ],
+  "zh": [
+   "出差行程表：Ken Liu 先生，新加坡，6 月 9 至 11 日",
+   "6 月 9 日星期一\n上午 8:10 班機從台北起飛。機票費用已由公司支付。\n下午 1:00 搭乘飯店接駁車前往 Harbor 飯店。搭乘接駁車的乘客須出示訂房編號。\n晚上 7:00 在飯店大宴會廳舉行歡迎晚宴。請選擇一道主菜：魚、雞肉或蔬菜。",
+   "6 月 10 日星期二\n上午 9:00 至下午 5:00 業務會議，4 號房\n晚上 6:00 自由參加的遊覽：夜間遊船（30 美元，請到櫃檯付款）。",
+   "6 月 11 日星期三\n上午 11:00 退房。在那之前可使用飯店的游泳池與健身房等設施。\n下午 5:30 班機飛回台北。",
+   "Liu 先生可以自費把行程延長，當成一趟短暫的週末小旅行。如果他想這麼做，應在 5 月 30 日前告訴旅遊部門的 Cruz 女士。"
+  ],
+  "glosses": [
+   {
+    "word": "shuttle",
+    "zh": "接駁車"
+   },
+   {
+    "word": "gym",
+    "zh": "健身房"
+   }
+  ],
+  "targets": [
+   "TO-0049",
+   "TO-0054",
+   "TO-0064",
+   "TO-0065",
+   "TO-0057",
+   "TO-0053",
+   "TO-0055",
+   "TO-0060",
+   "TO-0067"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "主旨",
+    "stem": "What is the document mainly about?",
+    "options": [
+     "A hotel advertisement",
+     "A change in flight times",
+     "A plan for a business trip",
+     "A report on a sales conference"
+    ],
+    "answer": 2,
+    "explain": "文件依日期列出班機、住宿、會議與活動，是 Liu 先生出差的行程計畫，故選 (C)。(D) 業務會議只是行程中的一項，並非文件重點。",
+    "evidence": "Business Trip Itinerary: Mr. Ken Liu, Singapore, June 9–11"
+   },
+   {
+    "type": "細節",
+    "stem": "Who paid for Mr. Liu's flight to Singapore?",
+    "options": [
+     "Mr. Liu",
+     "Ms. Cruz",
+     "The hotel",
+     "The company"
+    ],
+    "answer": 3,
+    "explain": "行程表第一天寫明機票費用已由公司支付，故選 (D)。(A) Liu 先生只需自付額外延長行程的費用。",
+    "evidence": "The airfare was paid by the company."
+   },
+   {
+    "type": "細節",
+    "stem": "What must Mr. Liu do to choose his dinner on Monday?",
+    "options": [
+     "Pick one main dish",
+     "Show a booking number",
+     "Pay at the front desk",
+     "Call Ms. Cruz"
+    ],
+    "answer": 0,
+    "explain": "行程表寫明週一的歡迎晚宴要選一道主菜，故選 (A)。(B) 出示訂房編號是搭乘接駁車的規定。",
+    "evidence": "Please choose one entrée: fish, chicken, or vegetables."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"extend\" in the last paragraph is closest in meaning to ______.",
+    "options": [
+     "make longer",
+     "make cheaper",
+     "make easier",
+     "make safer"
+    ],
+    "answer": 0,
+    "explain": "extend the trip 是把行程延長，與 make longer 意思最接近，故選 (A)。(B) 文中說延長的費用由本人負擔，並不是變便宜。",
+    "evidence": "Mr. Liu may extend the trip as a short weekend getaway at his own cost."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "The hotel has several ______, including a pool, a gym, and a free parking lot.",
+    "options": [
+     "riders",
+     "amenities",
+     "entrées",
+     "cancellations"
+    ],
+    "answer": 1,
+    "word": "TO-0060",
+    "explain": "泳池、健身房與停車場都是飯店提供的便利設施，故選 amenities。riders（乘客）、entrées（主菜）、cancellations（取消）都不能指這些設施。"
+   },
+   {
+    "stem": "Please keep your ______ with you so that you know the time and place of each event.",
+    "options": [
+     "itinerary",
+     "spa",
+     "doorman",
+     "airfare"
+    ],
+    "answer": 0,
+    "word": "TO-0049",
+    "explain": "要知道每場活動的時間地點，要帶著行程表，故選 itinerary。spa（水療館）、doorman（門衛）、airfare（機票費用）都不是用來查時間地點的東西。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R33",
+  "level": 8,
+  "day": 3,
+  "kind": "toeic",
+  "title": "Ad and Email: Lakeside Weekend",
+  "topic": "廣告與電子郵件・度假套裝行程（雙篇）",
+  "paragraphs": [
+   "--- Advertisement ---\nLakeside Resort Weekend [[Getaway|TO-0067]]\nOnly $240 per person for two nights (Friday to Sunday). Offer valid from September 1 to October 31.",
+   "Your package includes a [[deluxe|TO-0061]] room, a three-course dinner on Saturday with your choice of [[entrée|TO-0057]], and one 60-minute massage at our [[spa|TO-0058]]. A [[complimentary|TO-0050]] shuttle meets every train. Our [[concierge|TO-0056]] can plan a boat or hiking [[excursion|TO-0053]] for you.",
+   "Because of high [[occupancy|TO-0051]] on weekends, please book early. A [[cancellation|TO-0052]] made within three days of arrival will not be refunded.",
+   "--- E-mail ---\nTo: Lakeside Resort Reservations\nFrom: Marcus Grant\nDate: September 12\nSubject: Weekend package",
+   "Dear Sir or Madam,\nMy wife and I would like to book the weekend package for October 4 to 6. We will arrive by train at 4:00 p.m. on Friday. Could you tell me the total price? Also, can the massage be booked for Sunday morning? We would like to try the hiking trip on Saturday, too."
+  ],
+  "zh": [
+   "--- 廣告 ---\nLakeside 度假村週末小旅行\n兩晚（週五至週日）每人僅需 240 美元。優惠期間為 9 月 1 日至 10 月 31 日。",
+   "您的套裝行程包含一間豪華客房、週六的三道式晚餐（可自選主菜），以及在我們水療館的一次 60 分鐘按摩。免費接駁車會配合每班火車。我們的禮賓人員可以為您安排划船或健行的遊覽。",
+   "由於週末住房率很高，請及早訂房。抵達前三天內取消，恕不退費。",
+   "--- 電子郵件 ---\n收件者：Lakeside 度假村訂房組\n寄件者：Marcus Grant\n日期：9 月 12 日\n主旨：週末套裝行程",
+   "敬啟者：\n我和太太想預訂 10 月 4 日至 6 日的週末套裝行程。我們週五下午 4:00 搭火車抵達。可以告訴我總價是多少嗎？另外，按摩可以訂在週日早上嗎？我們週六也想體驗健行。"
+  ],
+  "glosses": [
+   {
+    "word": "massage",
+    "zh": "按摩"
+   },
+   {
+    "word": "hiking",
+    "zh": "健行"
+   },
+   {
+    "word": "refunded",
+    "zh": "退費"
+   }
+  ],
+  "targets": [
+   "TO-0067",
+   "TO-0061",
+   "TO-0057",
+   "TO-0058",
+   "TO-0050",
+   "TO-0056",
+   "TO-0053",
+   "TO-0051",
+   "TO-0052"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "目的",
+    "stem": "Why did Mr. Grant write to the resort?",
+    "options": [
+     "To complain about a bill",
+     "To cancel a reservation",
+     "To thank the resort for its service",
+     "To ask about booking a package"
+    ],
+    "answer": 3,
+    "explain": "Grant 想預訂週末套裝行程，並詢問價格與按摩時間，故選 (D)。(B) 他是要預訂，並未取消。",
+    "evidence": "My wife and I would like to book the weekend package for October 4 to 6."
+   },
+   {
+    "type": "細節",
+    "stem": "What is included in the package?",
+    "options": [
+     "A spa treatment",
+     "Free airfare",
+     "A trip to the airport",
+     "A late checkout"
+    ],
+    "answer": 0,
+    "explain": "廣告說套裝行程包含一次水療館的按摩，故選 (A)。(B) 廣告完全沒有提到機票。",
+    "evidence": "Your package includes a deluxe room, a three-course dinner on Saturday with your choice of entrée, and one 60-minute massage at our spa."
+   },
+   {
+    "type": "細節",
+    "stem": "How much will Mr. Grant and his wife pay for the package?",
+    "options": [
+     "$240",
+     "$480",
+     "$720",
+     "$960"
+    ],
+    "answer": 1,
+    "explain": "需合併兩份文件：廣告說每人 240 美元，Grant 說他和太太兩人要預訂，故 240 × 2 = 480 美元，選 (B)。(A) 240 美元只是一個人的價格。",
+    "evidence": "Only $240 per person for two nights (Friday to Sunday)."
+   },
+   {
+    "type": "推論",
+    "stem": "What can be inferred about the resort on weekends?",
+    "options": [
+     "It is closed.",
+     "It has no trains.",
+     "It is often full.",
+     "It offers no meals."
+    ],
+    "answer": 2,
+    "explain": "廣告因週末住房率高而提醒及早訂房，可推知週末常客滿，故選 (C)。(B) 廣告說免費接駁車會配合每班火車，並沒有說沒有火車。",
+    "evidence": "Because of high occupancy on weekends, please book early."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "The hotel was at full ______ during the holiday, so we could not find a room.",
+    "options": [
+     "occupancy",
+     "itinerary",
+     "airfare",
+     "getaway"
+    ],
+    "answer": 0,
+    "word": "TO-0051",
+    "explain": "假期期間沒有空房，表示住房率已滿，故選 occupancy。itinerary（行程表）、airfare（機票費用）、getaway（短期休閒旅行）都不能與 full 搭配。"
+   },
+   {
+    "stem": "Dinner comes with a choice of fish or chicken as the ______.",
+    "options": [
+     "checkout",
+     "adapter",
+     "entrée",
+     "concierge"
+    ],
+    "answer": 2,
+    "word": "TO-0057",
+    "explain": "晚餐可選魚或雞肉，指的是主菜，故選 entrée。checkout（退房）、adapter（轉接頭）、concierge（禮賓人員）都不是菜色。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R41",
+  "level": 8,
+  "day": 4,
+  "kind": "toeic",
+  "title": "Email: A Faulty Vacuum Cleaner",
+  "topic": "電子郵件・商品瑕疵客訴",
+  "paragraphs": [
+   "To: Customer Service, Bright Home Store\nFrom: Helen Park\nSubject: Problem with order 5521",
+   "Dear Sir or Madam,",
+   "I am writing about the [[cordless|TO-0089]] vacuum cleaner I bought from your online shop on March 3. It worked well for the first week, but now it stops after two minutes. The unit is clearly [[faulty|TO-0076]]. I called your [[hotline|TO-0079]] twice, but no one answered. This has been a real [[inconvenience|TO-0068]] because my family is visiting on Saturday.",
+   "I also believe I was [[overcharged|TO-0086]]. The product page said $89, but my card was charged $98. As a regular [[purchaser|TO-0075]] of your products, I hope you can correct this.",
+   "Please send me a new vacuum cleaner and [[expedite|TO-0091]] the delivery if possible. I would also like the $9 shipping fee to be [[waived|TO-0088]], since the error was not mine. The receipt is attached.",
+   "Sincerely,\nHelen Park"
+  ],
+  "zh": [
+   "收件人：明亮居家商店客服部\n寄件人：海倫・帕克\n主旨：訂單 5521 的問題",
+   "敬啟者：",
+   "我寫信是想談談 3 月 3 日我在貴店網路商店購買的無線吸塵器。它前一週運作良好，但現在開機兩分鐘就停了。這台機器顯然有瑕疵。我打了兩次貴公司的服務專線，卻沒有人接聽。這造成了很大的不便，因為我的家人星期六要來拜訪。",
+   "我也認為我被多收了錢。商品頁面標示 89 美元，但我的卡被扣了 98 美元。身為貴公司產品的常客，我希望你們能更正這件事。",
+   "請寄給我一台新的吸塵器，並且盡可能加快出貨。由於錯誤不在我，我也希望這 9 美元的運費能被免除。收據已附上。",
+   "敬上\n海倫・帕克"
+  ],
+  "glosses": [
+   {
+    "word": "vacuum",
+    "zh": "吸塵器"
+   },
+   {
+    "word": "cleaner",
+    "zh": "清潔器"
+   }
+  ],
+  "targets": [
+   "TO-0089",
+   "TO-0076",
+   "TO-0079",
+   "TO-0068",
+   "TO-0086",
+   "TO-0075",
+   "TO-0091",
+   "TO-0088"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "目的",
+    "stem": "What is the purpose of the e-mail?",
+    "options": [
+     "To ask for the store's opening hours",
+     "To report a problem and ask for a replacement",
+     "To order a second vacuum cleaner",
+     "To close an online account"
+    ],
+    "answer": 1,
+    "explain": "信中說吸塵器有瑕疵、被多收錢，並請對方寄新的一台，所以目的是回報問題並要求更換，故選 (B)。(C) 她要的是換新，不是再買第二台。",
+    "evidence": "Please send me a new vacuum cleaner and expedite the delivery if possible."
+   },
+   {
+    "type": "細節",
+    "stem": "How much was Ms. Park charged on her card?",
+    "options": [
+     "$89",
+     "$9",
+     "$98",
+     "$80"
+    ],
+    "answer": 2,
+    "explain": "信中寫商品頁面是 89 美元，但她的卡被扣了 98 美元，故選 (C)。(A) 89 美元是標示的價格；(B) 9 美元是運費。",
+    "evidence": "The product page said $89, but my card was charged $98."
+   },
+   {
+    "type": "推論",
+    "stem": "What can be inferred about Ms. Park?",
+    "options": [
+     "She has bought from the store before.",
+     "She lives alone.",
+     "She wants her money back.",
+     "She bought the cleaner in a physical shop."
+    ],
+    "answer": 0,
+    "explain": "她自稱 regular purchaser（常客），可推知以前買過該店商品，故選 (A)。(D) 她說是 online shop 購買，不是實體店。",
+    "evidence": "As a regular purchaser of your products, I hope you can correct this."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"waived\" in the e-mail is closest in meaning to ______.",
+    "options": [
+     "delayed",
+     "increased",
+     "checked",
+     "removed"
+    ],
+    "answer": 3,
+    "explain": "運費被 waived 即「免除」，與 removed 最接近，故選 (D)。(B) increased 剛好相反。",
+    "evidence": "I would also like the $9 shipping fee to be waived, since the error was not mine."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "We are sorry for any ______ this delay has caused you.",
+    "options": [
+     "invitation",
+     "inspection",
+     "inconvenience",
+     "instruction"
+    ],
+    "answer": 2,
+    "word": "TO-0068",
+    "explain": "向顧客為延誤道歉，應說造成的「不便」，故選 inconvenience。invitation（邀請）、inspection（檢查）、instruction（指示）都不通。"
+   },
+   {
+    "stem": "If you need help with your order, please call our ______ at any time.",
+    "options": [
+     "deadline",
+     "hotline",
+     "headline",
+     "guideline"
+    ],
+    "answer": 1,
+    "word": "TO-0079",
+    "explain": "需要協助時打的是「服務專線」，故選 hotline。deadline（截止期限）、headline（標題）、guideline（準則）都不能「打電話」。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R42",
+  "level": 8,
+  "day": 4,
+  "kind": "toeic",
+  "title": "Ad: Spring Sale Weekend",
+  "topic": "廣告・汽車展示間促銷",
+  "paragraphs": [
+   "Harbor Motors\nSpring Sale Weekend, April 12-13",
+   "Visit our [[showroom|TO-0073]] at 45 Lake Road this weekend for the biggest [[promotional|TO-0074]] event of the year. Harbor Motors has been a trusted [[dealership|TO-0084]] in the [[automotive|TO-0093]] business for thirty years.",
+   "The Lark [[sedan|TO-0095]] is now $17,900, down from $19,500. Our friendly [[salesperson|TO-0071]] team will help you [[customize|TO-0080]] your car with the seat color and wheel style you like. Every buyer also gets a free name [[sticker|TO-0083]] for the door.",
+   "Please note that the older Pine model will be [[discontinued|TO-0081]] after June, so this is your last chance to buy one. New customers can book an [[introductory|TO-0082]] service visit for only $20.",
+   "Bring this [[flyer|TO-0072]] to the front desk for a free cup of coffee. Open daily from 9 A.M. to 7 P.M."
+  ],
+  "zh": [
+   "港灣汽車\n春季特賣週末，4 月 12 至 13 日",
+   "本週末歡迎蒞臨位於湖濱路 45 號的展示間，參加今年最盛大的促銷活動。港灣汽車在汽車業中是值得信賴的經銷商，已有三十年歷史。",
+   "雲雀轎車現在售價 17,900 美元，原價為 19,500 美元。我們親切的銷售團隊會協助您依喜好選擇座椅顏色與輪圈款式，量身打造您的愛車。每位購車者還可獲贈一張車門用的姓名貼紙。",
+   "請注意，較舊的松木款將於 6 月之後停產，所以這是購買它的最後機會。新客戶只需 20 美元，就能預約新客優惠保養。",
+   "帶著這張傳單到櫃檯，可免費領一杯咖啡。每天上午 9 點至晚上 7 點營業。"
+  ],
+  "glosses": [
+   {
+    "word": "Lark",
+    "zh": "雲雀（車款名）"
+   }
+  ],
+  "targets": [
+   "TO-0073",
+   "TO-0074",
+   "TO-0084",
+   "TO-0093",
+   "TO-0095",
+   "TO-0071",
+   "TO-0080",
+   "TO-0083",
+   "TO-0081",
+   "TO-0082",
+   "TO-0072"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "主旨",
+    "stem": "What is the purpose of the advertisement?",
+    "options": [
+     "To promote a sale at a car dealer",
+     "To announce a new store location",
+     "To hire sales staff",
+     "To explain how to repair a car"
+    ],
+    "answer": 0,
+    "explain": "廣告宣傳春季特賣、降價與優惠，是汽車經銷商的促銷活動，故選 (A)。(B) 地址只是讓顧客前往，並非新店開幕。",
+    "evidence": "Visit our showroom at 45 Lake Road this weekend for the biggest promotional event of the year."
+   },
+   {
+    "type": "細節",
+    "stem": "What can new customers get for $20?",
+    "options": [
+     "A free cup of coffee",
+     "A name sticker",
+     "A new set of wheels",
+     "A first service visit"
+    ],
+    "answer": 3,
+    "explain": "原文說新客戶只要 20 美元就能預約新客優惠保養，故選 (D)。(A) 咖啡是帶傳單即可免費領取。",
+    "evidence": "New customers can book an introductory service visit for only $20."
+   },
+   {
+    "type": "推論",
+    "stem": "What is suggested about the Pine model?",
+    "options": [
+     "It will soon be hard to buy.",
+     "It costs less than $17,900.",
+     "It is the most popular model.",
+     "It will be sold only online."
+    ],
+    "answer": 0,
+    "explain": "Pine 在 6 月後停產，所以之後會很難買到，故選 (A)。(B) 文中沒有提到 Pine 的價格。",
+    "evidence": "Please note that the older Pine model will be discontinued after June, so this is your last chance to buy one."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"customize\" in the advertisement is closest in meaning to ______.",
+    "options": [
+     "repair",
+     "wash",
+     "change to suit one's wishes",
+     "sell at a lower price"
+    ],
+    "answer": 2,
+    "explain": "customize 是「依個人需求訂做」，與 change to suit one's wishes 相符，故選 (C)。(D) 降價是另一件事，文中降價指的是 down from。",
+    "evidence": "Our friendly salesperson team will help you customize your car with the seat color and wheel style you like."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "The shop will ______ its old phone line next month and offer a new model instead.",
+    "options": [
+     "discontinue",
+     "donate",
+     "discuss",
+     "display"
+    ],
+    "answer": 0,
+    "word": "TO-0081",
+    "explain": "舊款被新款取代，表示「停產／中止」，故選 discontinue。donate（捐贈）、discuss（討論）、display（展示）不符。"
+   },
+   {
+    "stem": "Ms. Kim visited the ______ to see the new cars and ask about their prices.",
+    "options": [
+     "newsletter",
+     "showroom",
+     "footwear",
+     "hotline"
+    ],
+    "answer": 1,
+    "word": "TO-0073",
+    "explain": "看新車、問價格的地方是「展示間」，故選 showroom。newsletter（電子報）、footwear（鞋類）、hotline（專線）都不是看車的場所。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R43",
+  "level": 8,
+  "day": 4,
+  "kind": "toeic",
+  "title": "Newsletter and E-mail: A Boot Rebate",
+  "topic": "電子報＋郵件・鞋店回饋金",
+  "paragraphs": [
+   "--- Newsletter ---\nStride Shoes Monthly Newsletter, May Edition",
+   "This month, our [[footwear|TO-0094]] line has a new hiking boot, the Ridge Walker. Buy a pair by May 31 and mail in the form to receive a $15 [[rebate|TO-0085]]. Unlike [[generic|TO-0078]] boots sold in discount stores, the Ridge Walker comes with a two-year warranty. All orders are [[refundable|TO-0087]] within 30 days if the boots are unworn. For $5 more, you can [[personalize|TO-0090]] your pair with your initials. Orders are sent by our delivery [[provider|TO-0069]], Swift Post, within three days. Thank you for reading this month's [[newsletter|TO-0070]].",
+   "--- E-mail ---\nTo: Stride Shoes\nFrom: Tom Alvarez\nSubject: My Ridge Walker order",
+   "Dear Stride Shoes,\nI ordered a pair of Ridge Walkers on May 10, with my initials added. The boots are very comfortable. However, I found Swift Post [[unreliable|TO-0096]]: the package arrived on May 19, not within three days. Also, I mailed my rebate form on May 20, but I have not heard anything yet. Could you please confirm that I will still receive the $15? Thank you.\nTom Alvarez"
+  ],
+  "zh": [
+   "--- 電子報 ---\n跨步鞋業每月電子報，5 月號",
+   "本月，我們的鞋類產品系列推出了一款新登山靴「山脊行者」。5 月 31 日前購買一雙並寄回表格，即可獲得 15 美元的退款回饋。不同於折扣商店販售的無品牌靴子，「山脊行者」附有兩年保固。所有訂單只要靴子未穿過，30 天內都可退款。只需多付 5 美元，您就能在靴子上刻印您的姓名縮寫。訂單由我們的配送業者迅郵於三天內寄出。感謝您閱讀本月電子報。",
+   "--- 電子郵件 ---\n收件人：跨步鞋業\n寄件人：湯姆・阿爾瓦雷斯\n主旨：我的山脊行者訂單",
+   "跨步鞋業您好：\n我在 5 月 10 日訂了一雙山脊行者，並加上了我的姓名縮寫。靴子非常舒適。不過，我覺得迅郵不可靠：包裹 5 月 19 日才到，而不是三天內。另外，我 5 月 20 日寄出了回饋表格，但至今沒有收到任何回覆。能否請您確認我仍會收到那 15 美元？謝謝。\n湯姆・阿爾瓦雷斯"
+  ],
+  "glosses": [
+   {
+    "word": "hiking",
+    "zh": "健行"
+   },
+   {
+    "word": "boots",
+    "zh": "靴子"
+   },
+   {
+    "word": "warranty",
+    "zh": "保固"
+   },
+   {
+    "word": "initials",
+    "zh": "姓名縮寫"
+   }
+  ],
+  "targets": [
+   "TO-0094",
+   "TO-0085",
+   "TO-0078",
+   "TO-0087",
+   "TO-0090",
+   "TO-0069",
+   "TO-0070",
+   "TO-0096"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "目的",
+    "stem": "Why did Mr. Alvarez write the e-mail?",
+    "options": [
+     "To return a pair of boots",
+     "To complain about the price of boots",
+     "To order a second pair of boots",
+     "To ask about his rebate and report a late delivery"
+    ],
+    "answer": 3,
+    "explain": "他提到包裹延遲，也詢問回饋金是否仍會收到，故選 (D)。(A) 他說靴子很舒適，沒有要退貨。",
+    "evidence": "Could you please confirm that I will still receive the $15?"
+   },
+   {
+    "type": "細節",
+    "stem": "What is stated about the Ridge Walker in the newsletter?",
+    "options": [
+     "It has a two-year warranty.",
+     "It is sold in discount stores.",
+     "It is available only in May.",
+     "It costs $15."
+    ],
+    "answer": 0,
+    "explain": "電子報說 Ridge Walker 附有兩年保固，故選 (A)。(B) 電子報是拿它和折扣店的無品牌靴相比，說它不是那種。",
+    "evidence": "Unlike generic boots sold in discount stores, the Ridge Walker comes with a two-year warranty."
+   },
+   {
+    "type": "推論",
+    "stem": "What is suggested about Swift Post?",
+    "options": [
+     "It charges $5 for each package.",
+     "It did not keep its delivery promise.",
+     "It is owned by Stride Shoes.",
+     "It refuses to take returned boots."
+    ],
+    "answer": 1,
+    "explain": "電子報說三天內寄出，但 Tom 的包裹過了九天才到，可知迅郵沒做到承諾，故選 (B)。(C) 文中只說它是配送業者，未說是鞋店所有。",
+    "evidence": "However, I found Swift Post unreliable: the package arrived on May 19, not within three days."
+   },
+   {
+    "type": "細節",
+    "stem": "What is indicated about Mr. Alvarez's order?",
+    "options": [
+     "It was sent before May 10.",
+     "It cost less than $15.",
+     "It included his initials.",
+     "It arrived within three days."
+    ],
+    "answer": 2,
+    "explain": "他說訂購時有加上姓名縮寫，這正是電子報中多付 5 美元的服務，故選 (C)。(D) 他的包裹 5 月 19 日才到，並非三天內。",
+    "evidence": "I ordered a pair of Ridge Walkers on May 10, with my initials added."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "This store sells shoes and other ______ for men and women.",
+    "options": [
+     "footwear",
+     "furniture",
+     "software",
+     "hardware"
+    ],
+    "answer": 0,
+    "word": "TO-0094",
+    "explain": "賣鞋子，空格應為「鞋類」，故選 footwear。furniture（家具）、software（軟體）、hardware（五金）都不是鞋類。"
+   },
+   {
+    "stem": "The shipping company was ______, so our packages often arrived late.",
+    "options": [
+     "introductory",
+     "promotional",
+     "unreliable",
+     "refundable"
+    ],
+    "answer": 2,
+    "word": "TO-0096",
+    "explain": "包裹常常遲到，表示該公司「不可靠」，故選 unreliable。其餘三個形容詞（入門的、促銷的、可退款的）都不能用來形容送貨公司的表現。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R51",
+  "level": 8,
+  "day": 5,
+  "kind": "toeic",
+  "title": "Email: A Payroll Mistake",
+  "topic": "電子郵件・薪資多付更正",
+  "paragraphs": [
+   "To: Ben Cruz\nFrom: Rita Gomez, Payroll Office\nSubject: Error in your February paycheck",
+   "Dear Mr. Cruz,",
+   "During a review of the February [[payroll|TO-0109]], we found that we [[overpaid|TO-0123]] you by $240. The mistake came from your [[overtime|TO-0098]] hours. Your six extra hours on February 8 were counted twice, so your [[paycheck|TO-0101]] was too high.",
+   "We know you may feel [[apprehensive|TO-0129]] about this message, so please be assured that you will not be [[penalized|TO-0124]] in any way. With your agreement, we will make a small [[debit|TO-0117]] of $80 from each of your next three paychecks. If you prefer to repay everything at once, the full amount is [[payable|TO-0111]] to the Finance Office by March 20.",
+   "In the same payment, we will [[reimburse|TO-0104]] you for the $35 train ticket you submitted last month. This [[reimbursement|TO-0120]] will appear on your pay stub as a separate line.",
+   "Please reply by Friday to tell us which option you choose.\n\nBest regards,\nRita Gomez"
+  ],
+  "zh": [
+   "收件人：班・克魯茲\n寄件人：麗塔・戈麥斯，薪資組\n主旨：您二月薪資的錯誤",
+   "克魯茲先生您好：",
+   "在檢查二月薪資名冊時，我們發現多付了您 240 美元。錯誤來自您的加班時數。您 2 月 8 日的六小時加班被重複計算，所以您的薪水金額過高。",
+   "我們知道您可能會對這封信感到不安，請放心，您不會受到任何處罰。經您同意後，我們會從您接下來的三次薪水中，各扣除 80 美元的小額款項。如果您希望一次還清，全額可在 3 月 20 日前付給財務處。",
+   "在同一筆款項中，我們也會補償您上個月提出的 35 美元火車票費用。這筆報銷款會在您的薪資明細上獨立列為一行。",
+   "請在週五前回覆，告訴我們您選擇哪一種方式。\n\n敬上\n麗塔・戈麥斯"
+  ],
+  "glosses": [
+   {
+    "word": "stub",
+    "zh": "明細聯"
+   }
+  ],
+  "targets": [
+   "TO-0109",
+   "TO-0123",
+   "TO-0098",
+   "TO-0101",
+   "TO-0129",
+   "TO-0124",
+   "TO-0117",
+   "TO-0111",
+   "TO-0104",
+   "TO-0120"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "目的",
+    "stem": "What is the purpose of the e-mail?",
+    "options": [
+     "To offer Mr. Cruz a new job",
+     "To explain a payment error and ways to fix it",
+     "To ask Mr. Cruz to work more hours",
+     "To announce a company holiday"
+    ],
+    "answer": 1,
+    "explain": "信中說明多付了 240 美元的原因，並提出兩種處理方式，故選 (B)。(C) 信裡說的是已經算過的加班，不是要他多加班。",
+    "evidence": "During a review of the February payroll, we found that we overpaid you by $240."
+   },
+   {
+    "type": "細節",
+    "stem": "How much will be taken from each of Mr. Cruz's next three paychecks?",
+    "options": [
+     "$35",
+     "$240",
+     "$80",
+     "$20"
+    ],
+    "answer": 2,
+    "explain": "信中說會從接下來三次薪水中各扣 80 美元，故選 (C)。(B) 240 美元是多付的總額；(A) 35 美元是火車票。",
+    "evidence": "With your agreement, we will make a small debit of $80 from each of your next three paychecks."
+   },
+   {
+    "type": "推論",
+    "stem": "What will Mr. Cruz most likely do next?",
+    "options": [
+     "Send back his pay stub",
+     "Reply to choose how to repay the money",
+     "Visit the Finance Office on March 20",
+     "Ask for more overtime"
+    ],
+    "answer": 1,
+    "explain": "信末請他在週五前回覆選擇哪一種方式，所以他接下來最可能回信選擇，故選 (B)。(C) 3 月 20 日只是一次還清的最後期限。",
+    "evidence": "Please reply by Friday to tell us which option you choose."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"apprehensive\" in the e-mail is closest in meaning to ______.",
+    "options": [
+     "angry",
+     "bored",
+     "proud",
+     "worried"
+    ],
+    "answer": 3,
+    "explain": "apprehensive 是「憂慮的」，與 worried 相近，故選 (D)。(A) angry 是生氣，語氣上與後面「請放心」不搭。",
+    "evidence": "We know you may feel apprehensive about this message, so please be assured that you will not be penalized in any way."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Employees who work ______ hours receive extra pay.",
+    "options": [
+     "overtime",
+     "downtown",
+     "overseas",
+     "outdoor"
+    ],
+    "answer": 0,
+    "word": "TO-0098",
+    "explain": "額外的工作時數會有加給，指「加班」，故選 overtime。downtown（市中心）、overseas（海外）、outdoor（戶外）都不能形容工作時數。"
+   },
+   {
+    "stem": "The company promised not to ______ workers who report their own mistakes.",
+    "options": [
+     "admire",
+     "penalize",
+     "recruit",
+     "reward"
+    ],
+    "answer": 1,
+    "word": "TO-0124",
+    "explain": "公司承諾不會「處罰」主動回報錯誤的員工，故選 penalize。reward（獎勵）語意相反；admire（欣賞）、recruit（招募）不符句意。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R52",
+  "level": 8,
+  "day": 5,
+  "kind": "toeic",
+  "title": "Memo: Summer Internship Program",
+  "topic": "備忘錄・暑期實習計畫",
+  "paragraphs": [
+   "MEMO\nTo: All staff\nFrom: Priya Nair, Human Resources\nDate: May 6\nSubject: Summer internship program",
+   "This summer, our company will welcome six [[intern|TO-0100]]s from local universities. The [[internship|TO-0102]] runs from June 17 to August 23, and each student will work in a different department.",
+   "On the first day, all interns will attend an [[induction|TO-0130]] session in Room 301 at 9 A.M. Staff members who will supervise an intern are asked to join the session. Please also review the dress code. Business [[attire|TO-0121]] is not required for interns, but clothing should be neat.",
+   "To make the program a success, each department should choose one mentor. A mentor does not need [[managerial|TO-0106]] experience, only patience and a willingness to share knowledge. Interested staff should contact the [[recruiter|TO-0107]] for this program, Mr. Oh, by May 20.",
+   "After their first month, interns can use our [[flextime|TO-0119]] schedule. They are also welcome to join the monthly [[wellness|TO-0131]] workshops on stress and exercise. Some outstanding interns may later be offered full-time jobs, even at our Tainan branch, which would require them to [[relocate|TO-0099]]."
+  ],
+  "zh": [
+   "備忘錄\n收件人：全體員工\n寄件人：普莉雅・奈爾，人力資源部\n日期：5 月 6 日\n主旨：暑期實習計畫",
+   "今年夏天，我們公司將迎接六名來自本地大學的實習生。實習期間為 6 月 17 日至 8 月 23 日，每位學生將在不同部門工作。",
+   "第一天，所有實習生將於上午 9 點在 301 室參加新進人員訓練。要負責帶領實習生的員工，也請一同參加。另請留意服裝規定。實習生不需要穿正式的商務服裝，但衣著應整潔。",
+   "為了讓這項計畫成功，每個部門應選出一位導師。導師不需要有管理經驗，只需要有耐心，並樂於分享知識。有興趣的員工請在 5 月 20 日前，聯絡負責這項計畫的招募人員吳先生。",
+   "滿一個月後，實習生可以採用我們的彈性工時。也歡迎他們參加每月舉辦、主題為壓力與運動的身心保健工作坊。部分表現傑出的實習生日後可能獲得全職工作機會，甚至是在我們台南分公司，那就需要他們搬遷過去。"
+  ],
+  "glosses": [
+   {
+    "word": "mentor",
+    "zh": "導師"
+   },
+   {
+    "word": "workshops",
+    "zh": "工作坊"
+   }
+  ],
+  "targets": [
+   "TO-0100",
+   "TO-0102",
+   "TO-0130",
+   "TO-0121",
+   "TO-0106",
+   "TO-0107",
+   "TO-0119",
+   "TO-0131",
+   "TO-0099"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "主旨",
+    "stem": "What is the memo mainly about?",
+    "options": [
+     "A change in working hours",
+     "A plan to host student interns and find mentors",
+     "A new dress code for all staff",
+     "The opening of a Tainan branch"
+    ],
+    "answer": 1,
+    "explain": "備忘錄介紹實習計畫，並請員工擔任導師，故選 (B)。(C) 服裝規定只針對實習生且只是順帶一提。",
+    "evidence": "This summer, our company will welcome six interns from local universities."
+   },
+   {
+    "type": "細節",
+    "stem": "What are staff who will supervise an intern asked to do?",
+    "options": [
+     "Wear business clothes",
+     "Join the induction session",
+     "Work from Tainan",
+     "Teach a workshop"
+    ],
+    "answer": 1,
+    "explain": "第三段請負責帶領實習生的員工參加新進人員訓練，故選 (B)。(A) 不需要正式服裝的是實習生。",
+    "evidence": "Staff members who will supervise an intern are asked to join the session."
+   },
+   {
+    "type": "推論",
+    "stem": "What is suggested about mentors?",
+    "options": [
+     "They must have worked as managers.",
+     "They will be paid extra.",
+     "They need patience more than management skills.",
+     "They will be chosen by the interns."
+    ],
+    "answer": 2,
+    "explain": "文中說導師不需要管理經驗，只需要耐心與分享知識的意願，故選 (C)。(A) 剛好相反。",
+    "evidence": "A mentor does not need managerial experience, only patience and a willingness to share knowledge."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"attire\" in the memo is closest in meaning to ______.",
+    "options": [
+     "schedule",
+     "clothing",
+     "manner",
+     "exercise"
+    ],
+    "answer": 1,
+    "explain": "attire 指「服裝」，故選 (B) clothing。後句 clothing should be neat 也可佐證。",
+    "evidence": "Business attire is not required for interns, but clothing should be neat."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "New employees must attend an ______ session on their first day to learn the company rules.",
+    "options": [
+     "induction",
+     "invention",
+     "imitation",
+     "invitation"
+    ],
+    "answer": 0,
+    "word": "TO-0130",
+    "explain": "新進人員第一天要學公司規定，是「新進人員訓練」，故選 induction。invention（發明）、imitation（模仿）、invitation（邀請）不符。"
+   },
+   {
+    "stem": "With the new ______ schedule, parents can start work at 8 or 10 in the morning.",
+    "options": [
+     "wellness",
+     "attire",
+     "flextime",
+     "internship"
+    ],
+    "answer": 2,
+    "word": "TO-0119",
+    "explain": "可以自由選擇 8 點或 10 點上班，是「彈性工時」，故選 flextime。wellness（身心保健）、attire（服裝）、internship（實習）都無法決定上班時間。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R53",
+  "level": 8,
+  "day": 5,
+  "kind": "toeic",
+  "title": "Job Ad and E-mail: Event Coordinator",
+  "topic": "求才廣告＋應徵信・活動企劃",
+  "paragraphs": [
+   "--- Job Advertisement ---\nGreenway Foundation: Event Coordinator",
+   "Greenway Foundation, a nonprofit group that protects local rivers, is looking for an Event Coordinator for our main office in Dayton. The ideal person has strong [[organizational|TO-0115]] skills and at least two years of [[managerial|TO-0106]] experience. The coordinator will plan community events and help us [[fundraise|TO-0114]] from local businesses.",
+   "Applicants must be willing to [[relocate|TO-0099]]. The foundation offers up to $3,000 for [[relocation|TO-0125]] costs. Send your application to Ms. Ito, our [[recruiter|TO-0107]], by June 30.",
+   "--- E-mail ---\nTo: Ms. Ito\nFrom: Marcus Lee\nSubject: Event Coordinator position",
+   "Dear Ms. Ito,\nI am writing to apply for the Event Coordinator position. For five years, I have worked as a [[freelance|TO-0116]] event planner. During the economic [[downturn|TO-0110]] of 2023, I helped a hospital raise $40,000 while spending less than planned, because I knew how to [[economize|TO-0112]] on food and decorations.\nI currently live in Tainan, but I can move to Dayton by August 1, so I may not need the full relocation payment. I hope we can arrange an interview next week.\nSincerely,\nMarcus Lee"
+  ],
+  "zh": [
+   "--- 徵才廣告 ---\n綠徑基金會：活動統籌",
+   "綠徑基金會是一個保護在地河川的非營利團體，正為我們位於戴頓的總部徵求一名活動統籌。理想的人選需具備優秀的組織能力，以及至少兩年的管理經驗。這位統籌將籌劃社區活動，並協助我們向當地企業募款。",
+   "應徵者必須願意搬遷。基金會提供最高 3,000 美元的搬遷費用。請在 6 月 30 日前將應徵資料寄給我們的招募人員伊藤女士。",
+   "--- 電子郵件 ---\n收件人：伊藤女士\n寄件人：馬庫斯・李\n主旨：活動統籌職缺",
+   "伊藤女士您好：\n我來信是想應徵活動統籌一職。五年來，我一直擔任自由接案的活動企劃。在 2023 年經濟低迷期間，我協助一家醫院募得 4 萬美元，花費還比預算少，因為我懂得如何在餐點與布置上節省開銷。\n我目前住在台南，但我能在 8 月 1 日前搬到戴頓，所以我可能不需要全額的搬遷費用。希望我們能在下週安排面談。\n敬上\n馬庫斯・李"
+  ],
+  "glosses": [
+   {
+    "word": "nonprofit",
+    "zh": "非營利的"
+   },
+   {
+    "word": "hospital",
+    "zh": "醫院"
+   },
+   {
+    "word": "decorations",
+    "zh": "裝飾"
+   }
+  ],
+  "targets": [
+   "TO-0115",
+   "TO-0106",
+   "TO-0114",
+   "TO-0099",
+   "TO-0125",
+   "TO-0107",
+   "TO-0116",
+   "TO-0110",
+   "TO-0112"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "目的",
+    "stem": "Why did Mr. Lee write to Ms. Ito?",
+    "options": [
+     "To ask for a refund",
+     "To offer to give a speech",
+     "To apply for a job",
+     "To invite her to an event"
+    ],
+    "answer": 2,
+    "explain": "他在信中明說是要應徵活動統籌職位，故選 (C)。(D) 他本身是活動企劃，但信不是邀請對方參加活動。",
+    "evidence": "I am writing to apply for the Event Coordinator position."
+   },
+   {
+    "type": "細節",
+    "stem": "What does the foundation offer to people who move to Dayton?",
+    "options": [
+     "A free apartment",
+     "A job for life",
+     "Free meals",
+     "Up to $3,000 for moving costs"
+    ],
+    "answer": 3,
+    "explain": "廣告說基金會提供最高 3,000 美元的搬遷費用，故選 (D)。(A) 文中沒有提到提供住處。",
+    "evidence": "The foundation offers up to $3,000 for relocation costs."
+   },
+   {
+    "type": "推論",
+    "stem": "What is suggested about Mr. Lee?",
+    "options": [
+     "He already works for Greenway Foundation.",
+     "He is willing to meet one condition in the advertisement.",
+     "He has no experience raising money.",
+     "He lives in Dayton."
+    ],
+    "answer": 1,
+    "explain": "廣告要求應徵者願意搬遷，而他說可搬到戴頓，符合這項條件，故選 (B)。(C) 他曾協助醫院募得 4 萬美元。(D) 他目前住在台南。",
+    "evidence": "I currently live in Tainan, but I can move to Dayton by August 1, so I may not need the full relocation payment."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"economize\" in the e-mail is closest in meaning to ______.",
+    "options": [
+     "save money",
+     "earn interest",
+     "share work",
+     "plan a trip"
+    ],
+    "answer": 0,
+    "explain": "economize on food and decorations 是在餐點與布置上「節省開銷」，故選 (A)。(B) earn interest 是賺利息，與花費無關。",
+    "evidence": "During the economic downturn of 2023, I helped a hospital raise $40,000 while spending less than planned, because I knew how to economize on food and decorations."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "The charity hopes to ______ enough money to build a new library.",
+    "options": [
+     "fundraise",
+     "relocate",
+     "penalize",
+     "reimburse"
+    ],
+    "answer": 0,
+    "word": "TO-0114",
+    "explain": "要為蓋圖書館籌錢，指「募款」，故選 fundraise。relocate（搬遷）、penalize（處罰）、reimburse（報銷）都不符。"
+   },
+   {
+    "stem": "Ms. Wong is a ______ photographer, so she chooses her own clients and hours.",
+    "options": [
+     "managerial",
+     "organizational",
+     "freelance",
+     "payable"
+    ],
+    "answer": 2,
+    "word": "TO-0116",
+    "explain": "自己選客戶與工作時間的攝影師是「自由接案的」，故選 freelance。managerial（管理的）、organizational（組織的）、payable（應付的）都不能形容這種工作型態。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R61",
+  "level": 8,
+  "day": 6,
+  "kind": "toeic",
+  "title": "Email: Hallway Renovation",
+  "topic": "電子郵件・公寓整修通知",
+  "paragraphs": [
+   "To: All renters, Maple Court\nFrom: Dan Wilson, Property Manager\nSubject: Hallway renovation",
+   "Dear residents,",
+   "Maple Court will begin a [[renovation|TO-0132]] of the first-floor hallway and lobby on June 3. We plan to [[renovate|TO-0133]] the floors, lights, and mailboxes. The work should take about four weeks. During this time, workers will [[demolish|TO-0148]] the old wall near the elevator, so you may hear loud noise between 9 A.M. and 5 P.M.",
+   "The building owner has also decided to [[remodel|TO-0137]] the laundry room and [[redecorate|TO-0145]] the lobby with new paint and plants. We will keep the front door open, but please keep the walkways clear.",
+   "A few first-floor apartments will be affected. Each [[renter|TO-0141]] living there must [[vacate|TO-0142]] the apartment for two nights, June 10 and 11, while the pipes are replaced. We will pay for a hotel room, and workers will leave the hallway in a state of [[cleanliness|TO-0151]] after each day's work.",
+   "If you have questions, please call my office.\n\nDan Wilson"
+  ],
+  "zh": [
+   "收件人：楓園公寓全體承租人\n寄件人：丹・威爾森，物業經理\n主旨：走廊整修",
+   "各位住戶您好：",
+   "楓園公寓將於 6 月 3 日開始整修一樓走廊與大廳。我們計畫翻新地板、燈具與信箱。工程預計約需四週。在這段期間，工人會拆除電梯旁的舊牆，因此上午 9 點至下午 5 點之間可能會聽到很大的噪音。",
+   "大樓業主也決定改建洗衣間，並用新油漆與植物重新布置大廳。我們會保持大門開啟，但請讓走道保持暢通。",
+   "部分一樓的住戶會受到影響。住在那裡的每位承租人必須在 6 月 10 日與 11 日兩晚搬離住處，期間會更換水管。我們會支付飯店住宿費，且工人在每天收工後都會讓走廊保持整潔。",
+   "如有疑問，請來電我的辦公室。\n\n丹・威爾森"
+  ],
+  "glosses": [
+   {
+    "word": "elevator",
+    "zh": "電梯"
+   },
+   {
+    "word": "laundry",
+    "zh": "洗衣"
+   },
+   {
+    "word": "pipes",
+    "zh": "水管"
+   }
+  ],
+  "targets": [
+   "TO-0132",
+   "TO-0133",
+   "TO-0148",
+   "TO-0137",
+   "TO-0145",
+   "TO-0141",
+   "TO-0142",
+   "TO-0151"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "目的",
+    "stem": "What is the purpose of the e-mail?",
+    "options": [
+     "To raise the rent",
+     "To announce building work and its effects",
+     "To ask residents to buy new mailboxes",
+     "To sell an apartment"
+    ],
+    "answer": 1,
+    "explain": "信中說明整修的時間、內容，以及對住戶的影響，故選 (B)。(A) 完全沒提到租金。",
+    "evidence": "Maple Court will begin a renovation of the first-floor hallway and lobby on June 3."
+   },
+   {
+    "type": "細節",
+    "stem": "How long will the work take?",
+    "options": [
+     "About two weeks",
+     "Two nights",
+     "Five days",
+     "About four weeks"
+    ],
+    "answer": 3,
+    "explain": "信中說工程約需四週，故選 (D)。(B) 兩晚是部分一樓住戶要搬離的時間，不是整個工程。",
+    "evidence": "The work should take about four weeks."
+   },
+   {
+    "type": "推論",
+    "stem": "Who will have to leave their apartments for two nights?",
+    "options": [
+     "Every resident of Maple Court",
+     "Only the building owner",
+     "Some first-floor residents",
+     "The workers"
+    ],
+    "answer": 2,
+    "explain": "信中說只有部分一樓住戶要在 6 月 10、11 日兩晚搬離，故選 (C)。(A) 信中說只有 a few first-floor apartments 受影響。",
+    "evidence": "A few first-floor apartments will be affected."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"vacate\" in the e-mail is closest in meaning to ______.",
+    "options": [
+     "clean",
+     "leave",
+     "paint",
+     "rent"
+    ],
+    "answer": 1,
+    "explain": "vacate the apartment 是「搬離」，與 leave 最接近，故選 (B)。(D) rent 是租用，方向相反。",
+    "evidence": "Each renter living there must vacate the apartment for two nights, June 10 and 11, while the pipes are replaced."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "The restaurant will close for a month for a complete ______ of its kitchen.",
+    "options": [
+     "renovation",
+     "invitation",
+     "reputation",
+     "registration"
+    ],
+    "answer": 0,
+    "word": "TO-0132",
+    "explain": "餐廳關門一個月是為了廚房的「整修」，故選 renovation。invitation（邀請）、reputation（名聲）、registration（登記）都不符。"
+   },
+   {
+    "stem": "The city plans to ______ the old bridge next year and build a new one.",
+    "options": [
+     "decorate",
+     "borrow",
+     "demolish",
+     "vacate"
+    ],
+    "answer": 2,
+    "word": "TO-0148",
+    "explain": "蓋新橋之前要「拆除」舊橋，故選 demolish。decorate（裝飾）、borrow（借）、vacate（搬離）都不適合用在橋上。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R62",
+  "level": 8,
+  "day": 6,
+  "kind": "toeic",
+  "title": "Notice: Building Safety Rules",
+  "topic": "公告・大樓安全守則",
+  "paragraphs": [
+   "NOTICE\nSunset Tower Management Office\nPosted: September 1",
+   "Following the fire drill last week, the management office would like to remind every [[occupant|TO-0144]] of our [[condominium|TO-0146]] about several safety rules.",
+   "First, a fire [[extinguisher|TO-0147]] is on every floor next to the elevator. Please do not move or borrow it. Second, cooking must never be left [[unattended|TO-0134]]. Last month, a pot left on a stove caused smoke in Unit 12B.",
+   "Third, the elevator has had a [[malfunction|TO-0135]] twice this summer. If it stops, press the alarm button and do not try to open the door. During a power [[outage|TO-0149]], the emergency lights will turn on automatically. In a drill, please walk in a single line so that the stairway does not become [[overcrowded|TO-0150]].",
+   "Each [[homeowner|TO-0143]] is asked to read this notice and sign the form at the front desk by September 15. Thank you for helping us keep Sunset Tower safe."
+  ],
+  "zh": [
+   "公告\n日落大樓管理室\n張貼日期：9 月 1 日",
+   "上週的消防演習之後，管理室想提醒本大廈的每位住戶幾項安全規定。",
+   "首先，每層樓電梯旁都設有滅火器。請勿移動或借用。第二，烹煮食物時絕不可無人看管。上個月，一個放在爐子上的鍋子在 12B 室造成冒煙。",
+   "第三，電梯今年夏天已經故障兩次。如果電梯停住，請按警鈴，不要試圖打開門。停電期間，緊急照明會自動亮起。演習時，請排成單列步行，以免樓梯間過於擁擠。",
+   "請每位屋主閱讀本公告，並於 9 月 15 日前到櫃檯在表格上簽名。感謝您協助我們維護日落大樓的安全。"
+  ],
+  "glosses": [
+   {
+    "word": "stove",
+    "zh": "爐子"
+   },
+   {
+    "word": "alarm",
+    "zh": "警報"
+   }
+  ],
+  "targets": [
+   "TO-0144",
+   "TO-0146",
+   "TO-0147",
+   "TO-0134",
+   "TO-0135",
+   "TO-0149",
+   "TO-0150",
+   "TO-0143"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "主旨",
+    "stem": "What is the purpose of the notice?",
+    "options": [
+     "To announce the date of a fire drill",
+     "To explain how to rent a unit",
+     "To remind residents of safety rules",
+     "To report that an elevator has been repaired"
+    ],
+    "answer": 2,
+    "explain": "公告整理了滅火器、烹飪、電梯與停電等安全規則，目的是提醒住戶，故選 (C)。(A) 演習已經在上週舉行過。",
+    "evidence": "Following the fire drill last week, the management office would like to remind every occupant of our condominium about several safety rules."
+   },
+   {
+    "type": "細節",
+    "stem": "Where can residents find a fire extinguisher?",
+    "options": [
+     "In the front desk drawer",
+     "Next to the elevator on each floor",
+     "In every apartment",
+     "On the roof"
+    ],
+    "answer": 1,
+    "explain": "公告說每層樓電梯旁都有滅火器，故選 (B)。",
+    "evidence": "First, a fire extinguisher is on every floor next to the elevator."
+   },
+   {
+    "type": "推論",
+    "stem": "What most likely happened in Unit 12B last month?",
+    "options": [
+     "A pot on a stove was left alone and made smoke.",
+     "The elevator stopped between floors.",
+     "A fire drill was held.",
+     "The power went out."
+    ],
+    "answer": 0,
+    "explain": "公告以 12B 室為例說明烹煮不可無人看管，所以是爐上的鍋子造成冒煙，故選 (A)。(B) 電梯故障是另一件事。",
+    "evidence": "Last month, a pot left on a stove caused smoke in Unit 12B."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"unattended\" in the notice is closest in meaning to ______.",
+    "options": [
+     "cooked slowly",
+     "left alone",
+     "kept warm",
+     "finished early"
+    ],
+    "answer": 1,
+    "explain": "cooking must never be left unattended 指烹煮時不可「無人看管」，與 left alone 相近，故選 (B)。",
+    "evidence": "Second, cooking must never be left unattended."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "The ______ of the building must pay a monthly fee for the shared garden.",
+    "options": [
+     "occupants",
+     "outages",
+     "extinguishers",
+     "dealerships"
+    ],
+    "answer": 0,
+    "word": "TO-0144",
+    "explain": "按月付費的是大樓裡的「住戶」，故選 occupants。outages（停電）、extinguishers（滅火器）、dealerships（經銷商）都不是會付費的對象。"
+   },
+   {
+    "stem": "A power ______ left the whole neighborhood in the dark for two hours.",
+    "options": [
+     "renovation",
+     "outage",
+     "induction",
+     "rebate"
+    ],
+    "answer": 1,
+    "word": "TO-0149",
+    "explain": "整個社區陷入黑暗兩小時是因為「停電」，故選 outage。renovation（整修）、induction（新人訓練）、rebate（退款）都不會讓社區變暗。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TO-R63",
+  "level": 8,
+  "day": 6,
+  "kind": "toeic",
+  "title": "Ad and E-mail: A House for Sale",
+  "topic": "廣告＋郵件・房屋出售",
+  "paragraphs": [
+   "--- Advertisement ---\nBright Key Realty: House for Sale",
+   "A three-bedroom house at 28 Elm Street, only ten minutes on foot from Eastside Medical Center. The [[homeowner|TO-0143]] has just finished a full [[remodel|TO-0137]] of the kitchen, which now has a large island, perfect for lovers of [[culinary|TO-0139]] arts. A popular [[diner|TO-0138]] is across the street, and the [[healthcare|TO-0140]] center is a short walk away. Price: $285,000. Contact Amy Chen, our [[realtor|TO-0136]], at 555-0148.",
+   "--- E-mail ---\nTo: Amy Chen\nFrom: Jenna Park\nSubject: House on Elm Street",
+   "Dear Ms. Chen,\nI am a [[renter|TO-0141]] who has lived in a small apartment for six years, and I am now looking for a home to buy. Your house looks perfect. May I visit it on Saturday at 10 A.M.? I would like to [[redecorate|TO-0145]] the bedrooms and perhaps [[demolish|TO-0148]] the wall between two small rooms. My budget is $270,000. Do you think the owner may be flexible?\nBest wishes,\nJenna Park"
+  ],
+  "zh": [
+   "--- 廣告 ---\n明鑰不動產：房屋出售",
+   "位於榆樹街 28 號的三房住宅，步行到東區醫療中心只要十分鐘。屋主剛完成廚房的全面改建，現在有一座大型中島，非常適合喜愛廚藝的人。對面就有一家人氣簡餐店，醫療保健中心也只要走一小段路。售價：285,000 美元。請聯絡我們的不動產經紀人陳艾咪，電話 555-0148。",
+   "--- 電子郵件 ---\n收件人：陳艾咪\n寄件人：珍娜・帕克\n主旨：榆樹街的房子",
+   "陳小姐您好：\n我是個租屋者，在一間小公寓住了六年，現在想買房子。您的房子看起來很理想。我可以在星期六上午 10 點去看屋嗎？我想重新裝潢臥室，也許還要拆掉兩間小房間之間的牆。我的預算是 270,000 美元。您覺得屋主有可能彈性處理嗎？\n祝好\n珍娜・帕克"
+  ],
+  "glosses": [
+   {
+    "word": "island",
+    "zh": "（廚房）中島"
+   },
+   {
+    "word": "bedrooms",
+    "zh": "臥室"
+   },
+   {
+    "word": "flexible",
+    "zh": "有彈性的"
+   }
+  ],
+  "targets": [
+   "TO-0143",
+   "TO-0137",
+   "TO-0139",
+   "TO-0138",
+   "TO-0140",
+   "TO-0136",
+   "TO-0141",
+   "TO-0145",
+   "TO-0148"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "目的",
+    "stem": "Why did Ms. Park write to Ms. Chen?",
+    "options": [
+     "To sell her apartment",
+     "To ask about visiting the house and the price",
+     "To complain about the kitchen",
+     "To hire a decorator"
+    ],
+    "answer": 1,
+    "explain": "她想週六看屋，並詢問屋主是否能在價格上讓步，故選 (B)。(A) 她是租屋者，沒有房子可賣。",
+    "evidence": "May I visit it on Saturday at 10 A.M.?"
+   },
+   {
+    "type": "細節",
+    "stem": "What has the homeowner recently done?",
+    "options": [
+     "Opened a diner",
+     "Painted the bedrooms",
+     "Rebuilt the kitchen",
+     "Moved to a new city"
+    ],
+    "answer": 2,
+    "explain": "廣告說屋主剛完成廚房的全面改建，故選 (C)。(B) 重新布置臥室是 Ms. Park 的打算。",
+    "evidence": "The homeowner has just finished a full remodel of the kitchen, which now has a large island, perfect for lovers of culinary arts."
+   },
+   {
+    "type": "推論",
+    "stem": "How much lower is Ms. Park's budget than the asking price?",
+    "options": [
+     "$5,000",
+     "$25,000",
+     "$270,000",
+     "$15,000"
+    ],
+    "answer": 3,
+    "explain": "廣告售價 285,000 美元，Ms. Park 的預算為 270,000 美元，差 15,000 美元，故選 (D)。這題需要兩份文件的資訊。",
+    "evidence": "My budget is $270,000."
+   },
+   {
+    "type": "推論",
+    "stem": "What is suggested about Ms. Park?",
+    "options": [
+     "She does not own a home now.",
+     "She works at the medical center.",
+     "She is a real estate agent.",
+     "She wants to rent the house."
+    ],
+    "answer": 0,
+    "explain": "她說自己是租屋者，現在想買房，可知她目前沒有自己的房子，故選 (A)。(D) 她要買，不是租。",
+    "evidence": "I am a renter who has lived in a small apartment for six years, and I am now looking for a home to buy."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Before putting the house on the market, the ______ painted every room.",
+    "options": [
+     "homeowner",
+     "realtor",
+     "diner",
+     "culinary"
+    ],
+    "answer": 0,
+    "word": "TO-0143",
+    "explain": "賣房前自己粉刷每個房間的是「屋主」，故選 homeowner。realtor（經紀人）通常不親自粉刷，diner（用餐者）、culinary（烹飪的，形容詞）都不符句意。"
+   },
+   {
+    "stem": "We plan to ______ the living room with new curtains and a new carpet.",
+    "options": [
+     "demolish",
+     "redecorate",
+     "vacate",
+     "penalize"
+    ],
+    "answer": 1,
+    "word": "TO-0145",
+    "explain": "加新窗簾與地毯是在「重新布置」客廳，故選 redecorate。demolish（拆除）、vacate（搬離）、penalize（處罰）都不符。"
+   }
+  ],
+  "status": "ok"
+ }
+]

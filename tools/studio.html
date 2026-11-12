@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>生圖工作台</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0d1b3e;--panel:#182f6b;--panel2:#1f3a80;--line:#2c4a96;--ink:#f3f6ff;--mute:#a9b8e3;--gold:#ffd23f;--ok:#2ecc71;--bad:#ff5a5f}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Noto Sans TC",system-ui,sans-serif;line-height:1.55}
+.wrap{max-width:1100px;margin:0 auto;padding:16px 16px 80px}
+h1{margin:4px 0 2px;font-size:26px;font-weight:900}
+.sub{color:var(--mute);margin:0 0 12px}
+button,a.btn{font:inherit;border:0;border-radius:12px;padding:9px 16px;font-weight:700;cursor:pointer;color:var(--ink);background:var(--panel2);text-decoration:none;display:inline-block}
+.gold{background:var(--gold)!important;color:#3a2a00!important}
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:8px;margin:12px 0}
+.step{background:var(--panel);border-radius:14px;padding:10px 12px;font-size:14px}
+.step b{display:block;color:var(--gold);font-size:15px}
+.bar{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0;display:flex;gap:10px;align-items:center;flex-wrap:wrap;border-bottom:1px solid var(--line)}
+.prog{flex:1;min-width:160px;height:12px;background:#0005;border-radius:999px;overflow:hidden}
+.prog i{display:block;height:100%;background:var(--ok);width:0;transition:width .3s}
+.style{background:var(--panel);border-radius:16px;padding:12px 14px;margin:12px 0}
+pre{white-space:pre-wrap;font:inherit;font-size:14px;background:#0004;border-radius:10px;padding:10px;margin:8px 0;color:#dfe6ff;max-height:none}
+h2{font-size:18px;margin:22px 0 8px;color:var(--gold)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:12px}
+.card{background:var(--panel);border-radius:16px;padding:12px;border:3px solid transparent;outline:none;display:flex;flex-direction:column;gap:8px}
+.card.active{border-color:var(--gold);box-shadow:0 0 0 4px #ffd23f33}
+.card.done .st{color:var(--ok)}
+.card .hd{display:flex;align-items:center;gap:8px}
+.card .hd .nm{font-weight:900;font-size:16px}
+.card .hd .note{color:var(--mute);font-size:13px}
+.card .hd .st{margin-left:auto;font-size:13px;color:var(--mute)}
+.card pre{font-size:13px;max-height:120px;overflow:auto}
+.row{display:flex;gap:6px;flex-wrap:wrap}
+.drop{border:2px dashed var(--line);border-radius:12px;min-height:150px;display:grid;place-items:center;text-align:center;color:var(--mute);font-size:14px;cursor:pointer;padding:8px;
+  background-color:#fff;background-image:linear-gradient(45deg,#ddd 25%,transparent 25%),linear-gradient(-45deg,#ddd 25%,transparent 25%),linear-gradient(45deg,transparent 75%,#ddd 75%),linear-gradient(-45deg,transparent 75%,#ddd 75%);
+  background-size:16px 16px;background-position:0 0,0 8px,8px -8px,-8px 0}
+.drop.empty{background:#0d1b3e55}
+.drop img{max-width:100%;max-height:220px;display:block}
+.card.active .drop.empty{border-color:var(--gold);color:var(--gold)}
+.dark{background:var(--bg)!important}
+.toast{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:#000c;padding:10px 18px;border-radius:12px;font-weight:700;opacity:0;transition:opacity .2s;pointer-events:none;z-index:9}
+.toast.show{opacity:1}
+.busy{opacity:.5;pointer-events:none}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🎨 生圖工作台｜單字開外掛</h1>
+  <p class="sub">複製提示詞 → 到 Gemini 生圖 → 回來貼上，圖片會自動存檔、去背，馬上看到結果。</p>
+  <div class="steps">
+    <div class="step"><b>① 開 Gemini</b>按上方「開啟 Gemini」，開一個新對話。</div>
+    <div class="step"><b>② 先貼共同風格</b>按「複製共同風格」貼給 Gemini，它回「了解」就好。</div>
+    <div class="step"><b>③ 一張一張畫</b>按各卡片的「複製提示詞」，貼到同一個 Gemini 對話。</div>
+    <div class="step"><b>④ 貼回這裡</b>在 Gemini 的圖上按右鍵「複製圖片」，回來<b style="display:inline;color:var(--ink)">點一下該卡片</b>，按 Ctrl+V。也可以把下載的圖拖進框裡。</div>
+    <div class="step"><b>⑤ 看效果</b>貼完按「更新遊戲預覽」，再按「看遊戲」。</div>
+  </div>
+  <div class="bar">
+    <a class="btn gold" href="https://gemini.google.com/app" target="_blank" rel="noopener">✨ 開啟 Gemini</a>
+    <button id="cpStyle">📋 複製共同風格</button>
+    <span id="cnt" style="font-weight:900">0 / 16</span>
+    <div class="prog"><i id="pg"></i></div>
+    <button id="build">🔄 更新遊戲預覽</button>
+    <a class="btn" href="/index.html" target="_blank">🎮 看遊戲</a>
+  </div>
+  <div class="style"><b>① 共同風格</b>（每次開新的 Gemini 對話都要先貼這段）<pre id="style"></pre></div>
+  <div id="list"></div>
+</div>
+<div class="toast" id="toast"></div>
+<script>
+const $=s=>document.querySelector(s);
+let DATA,ST={},active=null;
+const toast=(t,ms=1800)=>{const e=$("#toast");e.textContent=t;e.classList.add("show");clearTimeout(e._t);e._t=setTimeout(()=>e.classList.remove("show"),ms)};
+async function copy(t){try{await navigator.clipboard.writeText(t)}catch(e){const a=document.createElement("textarea");a.value=t;document.body.appendChild(a);a.select();document.execCommand("copy");a.remove()}toast("已複製，去 Gemini 貼上吧！")}
+function esc(s){return s.replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]))}
+async function load(){
+  DATA=await (await fetch("/api/prompts")).json();ST=await (await fetch("/api/status")).json();
+  $("#style").textContent=DATA.style;$("#cpStyle").onclick=()=>copy(DATA.style);
+  let h="",sec="";
+  for(const it of DATA.items){
+    if(it.section!==sec){if(sec)h+="</div>";sec=it.section;h+=`<h2>${esc(sec)}</h2><div class="grid">`}
+    h+=`<div class="card" tabindex="0" data-n="${it.name}">
+      <div class="hd"><span class="nm">${it.name}.png</span><span class="note">${esc(it.note||"")}</span><span class="st"></span></div>
+      <pre>${esc(it.prompt)}</pre>
+      <div class="row"><button class="gold cp">📋 複製提示詞</button><button class="pick">📁 選檔案</button><button class="bgt">切換底色</button></div>
+      <div class="drop empty"><span>點我選取這張，然後按 Ctrl+V 貼上圖片<br>或把圖片檔拖進來</span></div>
+      <input type="file" accept="image/*" hidden></div>`}
+  h+="</div>";$("#list").innerHTML=h;
+  document.querySelectorAll(".card").forEach(c=>{const n=c.dataset.n,it=DATA.items.find(i=>i.name===n);
+    c.addEventListener("click",()=>select(c));c.addEventListener("focus",()=>select(c));
+    c.querySelector(".cp").onclick=e=>{e.stopPropagation();select(c);copy(it.prompt)};
+    const inp=c.querySelector("input");c.querySelector(".pick").onclick=e=>{e.stopPropagation();inp.click()};
+    inp.onchange=()=>inp.files[0]&&upload(n,inp.files[0]);
+    c.querySelector(".bgt").onclick=e=>{e.stopPropagation();c.querySelector(".drop").classList.toggle("dark")};
+    const d=c.querySelector(".drop");
+    d.addEventListener("dragover",e=>{e.preventDefault();select(c)});
+    d.addEventListener("drop",e=>{e.preventDefault();const f=[...e.dataTransfer.files].find(f=>f.type.startsWith("image/"));if(f)upload(n,f);else toast("拖進來的不是圖片檔")});
+    if(ST[n])show(n,n.startsWith("gsat_")?`/img/gsat/parts/${n}.webp?t=${ST[n]}`:`/img/${n}.webp?t=${ST[n]}`)});
+  progress();select(document.querySelector(".card:not(.done)")||document.querySelector(".card"));
+}
+function select(c){if(!c)return;document.querySelectorAll(".card.active").forEach(x=>x.classList.remove("active"));c.classList.add("active");active=c}
+function show(n,src){const c=document.querySelector(`.card[data-n="${n}"]`);c.classList.add("done");
+  c.querySelector(".st").textContent="✅ 已完成";const d=c.querySelector(".drop");d.classList.remove("empty");d.innerHTML=`<img src="${src}" alt="">`}
+function progress(){const n=DATA.items.length,k=document.querySelectorAll(".card.done").length;$("#cnt").textContent=`${k} / ${n}`;$("#pg").style.width=k/n*100+"%"}
+async function upload(n,blob){const c=document.querySelector(`.card[data-n="${n}"]`);c.classList.add("busy");toast("處理中…",5000);
+  try{const r=await (await fetch("/api/upload?name="+n,{method:"POST",body:blob})).json();
+    if(!r.ok)throw new Error(r.err||"上傳失敗");show(n,"/"+r.out+"?t="+r.t);progress();
+    toast((n.startsWith("map")||n.startsWith("region_"))?"場景圖已存好！":"已存好並去背！看看邊緣乾不乾淨");
+    const next=[...document.querySelectorAll(".card")].find(x=>!x.classList.contains("done"));if(next){select(next)}
+  }catch(e){toast("❌ "+e.message,4000)}finally{c.classList.remove("busy")}}
+document.addEventListener("paste",e=>{const it=[...(e.clipboardData||{}).items||[]].find(i=>i.type.startsWith("image/"));
+  if(!it){toast("剪貼簿裡沒有圖片：請在 Gemini 的圖上按右鍵「複製圖片」");return}
+  if(!active){toast("先點一下要放這張圖的卡片");return}e.preventDefault();upload(active.dataset.n,it.getAsFile())});
+$("#build").onclick=async()=>{toast("更新中…");const r=await (await fetch("/api/build",{method:"POST"})).json();toast(r.ok?"遊戲已更新":"更新失敗",3000)};
+load();
+</script>
+</body>
+</html>

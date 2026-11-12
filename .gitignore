@@ -1,0 +1,7 @@
+img_raw/
+review/
+__pycache__/
+CLAUDE_原型說明.md
+.secrets/
+textbook/
+private/

@@ -1,0 +1,3134 @@
+[
+ {
+  "id": "L0-0001",
+  "zh": "下列的；接下來的",
+  "en": "Please answer the following questions before the end of class.",
+  "exzh": "請在下課前回答下列問題。",
+  "target": "following",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0002",
+  "zh": "二手的；習慣於的",
+  "en": "Ben bought a used bike from an older student.",
+  "exzh": "Ben 向一位學長買了一台二手腳踏車。",
+  "target": "used",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0003",
+  "zh": "因此",
+  "en": "Amy studied hard every night and thus passed the test.",
+  "exzh": "Amy 每晚都用功讀書，因此通過了考試。",
+  "target": "thus",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0004",
+  "zh": "特色；以…為特色",
+  "en": "The best feature of this phone is its great camera.",
+  "exzh": "這支手機最好的特色是它很棒的相機。",
+  "target": "feature",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0005",
+  "zh": "創立；建立",
+  "en": "Our school was founded by a group of teachers in 1950.",
+  "exzh": "我們學校是一群老師在 1950 年創立的。",
+  "target": "founded",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0006",
+  "zh": "包含；容納",
+  "en": "This box of cookies contains a lot of sugar.",
+  "exzh": "這盒餅乾含有很多糖。",
+  "target": "contains",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0007",
+  "zh": "材料；資料",
+  "en": "The teacher gave us some reading material for the summer.",
+  "exzh": "老師給了我們一些暑假的閱讀資料。",
+  "target": "material",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0008",
+  "zh": "化學物質；化學的",
+  "en": "Some soaps contain chemicals that can hurt your skin.",
+  "exzh": "有些肥皂含有會傷害皮膚的化學物質。",
+  "target": "chemicals",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0009",
+  "zh": "影響；效果",
+  "en": "Too much screen time has a bad effect on your eyes.",
+  "exzh": "看太久螢幕對你的眼睛有不好的影響。",
+  "target": "effect",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0010",
+  "zh": "鼓勵",
+  "en": "My parents always encourage me to try new things.",
+  "exzh": "我爸媽總是鼓勵我嘗試新事物。",
+  "target": "encourage",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0011",
+  "zh": "能力",
+  "en": "Lisa has the ability to speak three languages.",
+  "exzh": "Lisa 有說三種語言的能力。",
+  "target": "ability",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0012",
+  "zh": "腦",
+  "en": "Sleep helps your brain remember what you learned today.",
+  "exzh": "睡眠幫助你的大腦記住今天學到的東西。",
+  "target": "brain",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0013",
+  "zh": "作者",
+  "en": "The author of this book will visit our school next week.",
+  "exzh": "這本書的作者下週會來我們學校。",
+  "target": "author",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0014",
+  "zh": "到期的；預定的",
+  "en": "The English report is due next Friday.",
+  "exzh": "英文報告下週五要交。",
+  "target": "due",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0015",
+  "zh": "提到",
+  "en": "Did the teacher mention anything about the test tomorrow?",
+  "exzh": "老師有提到任何關於明天考試的事嗎？",
+  "target": "mention",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0016",
+  "zh": "聲稱；主張",
+  "en": "Ben claims that he never plays games during class.",
+  "exzh": "Ben 聲稱他上課從不玩遊戲。",
+  "target": "claims",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0017",
+  "zh": "功能；運作",
+  "en": "This new phone has many useful functions for students.",
+  "exzh": "這支新手機有許多對學生有用的功能。",
+  "target": "functions",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0018",
+  "zh": "影像；形象",
+  "en": "Amy took a clear image of the moon with her phone.",
+  "exzh": "Amy 用手機拍了一張清楚的月亮影像。",
+  "target": "image",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0019",
+  "zh": "提議；求婚",
+  "en": "Lisa proposed a trip to the beach this weekend.",
+  "exzh": "Lisa 提議這週末去海邊玩。",
+  "target": "proposed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0020",
+  "zh": "設法做到；管理",
+  "en": "Amy managed to finish her homework before dinner.",
+  "exzh": "Amy 設法在晚餐前寫完了功課。",
+  "target": "managed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0021",
+  "zh": "特定的；特別的",
+  "en": "Is there a particular reason you are late today?",
+  "exzh": "你今天遲到有什麼特別的原因嗎？",
+  "target": "particular",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0022",
+  "zh": "方法；手段",
+  "en": "The bus is the cheapest means of getting to school.",
+  "exzh": "公車是到學校最便宜的方式。",
+  "target": "means",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0023",
+  "zh": "疾病",
+  "en": "Washing your hands can stop the spread of disease.",
+  "exzh": "洗手可以阻止疾病的傳播。",
+  "target": "disease",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0024",
+  "zh": "解決；定居",
+  "en": "The two friends finally settled their problem by talking.",
+  "exzh": "兩個朋友終於透過談話解決了問題。",
+  "target": "settled",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0025",
+  "zh": "單元；單位",
+  "en": "We will have a test on Unit 3 tomorrow.",
+  "exzh": "我們明天要考第三單元。",
+  "target": "Unit",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0026",
+  "zh": "狀況；條件",
+  "en": "My grandfather's health condition is getting better this year.",
+  "exzh": "我爺爺今年的健康狀況越來越好。",
+  "target": "condition",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0027",
+  "zh": "來源",
+  "en": "Milk is a good source of energy for growing kids.",
+  "exzh": "牛奶是成長中孩子很好的能量來源。",
+  "target": "source",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0028",
+  "zh": "更進一步的；更遠",
+  "en": "If you have any further questions, please ask me after class.",
+  "exzh": "如果你有任何進一步的問題，請下課後問我。",
+  "target": "further",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0029",
+  "zh": "組織；機構",
+  "en": "Lisa works for an organization that helps poor children.",
+  "exzh": "Lisa 在一個幫助貧困兒童的組織工作。",
+  "target": "organization",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0030",
+  "zh": "有效的",
+  "en": "Taking short breaks is an effective way to study.",
+  "exzh": "短暫休息是一種有效的讀書方法。",
+  "target": "effective",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0031",
+  "zh": "降低",
+  "en": "The store lowered its prices during the summer sale.",
+  "exzh": "這家店在夏季特賣期間降低了價格。",
+  "target": "lowered",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0032",
+  "zh": "維持；保養",
+  "en": "It is important to maintain a healthy weight.",
+  "exzh": "維持健康的體重很重要。",
+  "target": "maintain",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0033",
+  "zh": "醫學的；醫療的",
+  "en": "My sister wants to go to medical school after high school.",
+  "exzh": "我姊姊高中畢業後想念醫學院。",
+  "target": "medical",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0034",
+  "zh": "擺姿勢；造成",
+  "en": "We posed for a photo in front of the school gate.",
+  "exzh": "我們在校門前擺姿勢拍照。",
+  "target": "posed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0035",
+  "zh": "增加；加法",
+  "en": "In addition to English, Amy is learning Japanese.",
+  "exzh": "除了英文以外，Amy 也在學日文。",
+  "target": "addition",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0036",
+  "zh": "環境的",
+  "en": "Too much trash causes serious environmental problems in cities.",
+  "exzh": "太多垃圾在城市中造成嚴重的環境問題。",
+  "target": "environmental",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0037",
+  "zh": "時尚；流行",
+  "en": "Lisa reads fashion magazines to learn about new styles.",
+  "exzh": "Lisa 看時尚雜誌來了解新的風格。",
+  "target": "fashion",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0038",
+  "zh": "自己；自我",
+  "en": "After a good rest, Ben felt like his old self again.",
+  "exzh": "好好休息之後，Ben 覺得自己又恢復原本的樣子了。",
+  "target": "self",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0039",
+  "zh": "遍及；自始至終",
+  "en": "It rained throughout the whole weekend, so we stayed home.",
+  "exzh": "整個週末都在下雨，所以我們待在家裡。",
+  "target": "throughout",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0040",
+  "zh": "強迫；力量",
+  "en": "My mom forced me to clean my room before going out.",
+  "exzh": "我媽媽強迫我出門前先打掃房間。",
+  "target": "forced",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0041",
+  "zh": "非常；高度地",
+  "en": "This restaurant is highly popular among high school students.",
+  "exzh": "這家餐廳在高中生之間非常受歡迎。",
+  "target": "highly",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0042",
+  "zh": "產業；工業",
+  "en": "Taiwan is famous for its strong computer industry.",
+  "exzh": "台灣以強大的電腦產業聞名。",
+  "target": "industry",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0043",
+  "zh": "品質",
+  "en": "These shoes are expensive, but their quality is very good.",
+  "exzh": "這雙鞋很貴，但品質非常好。",
+  "target": "quality",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0044",
+  "zh": "需要；要求",
+  "en": "All students are required to wear uniforms at school.",
+  "exzh": "所有學生在學校都必須穿制服。",
+  "target": "required",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0045",
+  "zh": "地區",
+  "en": "The northern region of Taiwan gets a lot of rain in winter.",
+  "exzh": "台灣北部地區冬天常下雨。",
+  "target": "region",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0046",
+  "zh": "挑戰",
+  "en": "Learning to swim was a big challenge for me.",
+  "exzh": "學游泳對我來說是一大挑戰。",
+  "target": "challenge",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0047",
+  "zh": "逃脫；逃離",
+  "en": "The little dog escaped from the yard this morning.",
+  "exzh": "那隻小狗今天早上從院子裡逃走了。",
+  "target": "escaped",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0048",
+  "zh": "網路；網絡",
+  "en": "The school's computer network is very slow today.",
+  "exzh": "學校的電腦網路今天很慢。",
+  "target": "network",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0049",
+  "zh": "移除；脫下",
+  "en": "Please remove your shoes before you enter the house.",
+  "exzh": "進屋前請脫鞋。",
+  "target": "remove",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0050",
+  "zh": "個人的；個人",
+  "en": "The teacher gives individual help to each student.",
+  "exzh": "老師給每位學生個別的幫助。",
+  "target": "individual",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0051",
+  "zh": "官方的；官員",
+  "en": "English is the official language of many countries.",
+  "exzh": "英文是許多國家的官方語言。",
+  "target": "official",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0052",
+  "zh": "最近的",
+  "en": "Amy showed me some recent photos of her new puppy.",
+  "exzh": "Amy 給我看了她新養的小狗最近的照片。",
+  "target": "recent",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0053",
+  "zh": "景色；看法",
+  "en": "The view from the top of the mountain was beautiful.",
+  "exzh": "從山頂看出去的景色很美。",
+  "target": "view",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0054",
+  "zh": "預先；進步；前進",
+  "en": "Please buy your movie tickets in advance.",
+  "exzh": "請事先買好你的電影票。",
+  "target": "advance",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0055",
+  "zh": "平衡",
+  "en": "It is hard to keep a balance between school and fun.",
+  "exzh": "在課業和玩樂之間保持平衡很難。",
+  "target": "balance",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0056",
+  "zh": "文化的",
+  "en": "Night markets are an important cultural part of Taiwan.",
+  "exzh": "夜市是台灣重要的文化一環。",
+  "target": "cultural",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0057",
+  "zh": "延誤；延期",
+  "en": "Our flight was delayed for two hours because of the storm.",
+  "exzh": "我們的班機因暴風雨延誤了兩個小時。",
+  "target": "delayed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0058",
+  "zh": "場地；田野；領域",
+  "en": "The students are playing soccer on the field.",
+  "exzh": "學生們正在操場上踢足球。",
+  "target": "field",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0059",
+  "zh": "代替；反而",
+  "en": "I didn't want coffee, so I ordered tea instead.",
+  "exzh": "我不想喝咖啡，所以改點了茶。",
+  "target": "instead",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0060",
+  "zh": "長度",
+  "en": "What is the length of this swimming pool?",
+  "exzh": "這座游泳池的長度是多少？",
+  "target": "length",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0061",
+  "zh": "強大的；有力的",
+  "en": "This new computer is fast and powerful.",
+  "exzh": "這台新電腦又快又強大。",
+  "target": "powerful",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0062",
+  "zh": "在…之內",
+  "en": "Please finish the test within thirty minutes.",
+  "exzh": "請在三十分鐘內完成考試。",
+  "target": "within",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0063",
+  "zh": "外表；出現",
+  "en": "You should not judge people only by their appearance.",
+  "exzh": "你不應該只憑外表評斷別人。",
+  "target": "appearance",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0064",
+  "zh": "複雜的",
+  "en": "This math problem is too complex for me to solve.",
+  "exzh": "這道數學題對我來說太複雜，解不出來。",
+  "target": "complex",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0065",
+  "zh": "數字；人物；想出",
+  "en": "Ben finally figured out the answer to the math question.",
+  "exzh": "Ben 終於想出這道數學題的答案。",
+  "target": "figured",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0066",
+  "zh": "損失；喪失；輸",
+  "en": "Loss of sleep can make you feel tired at school.",
+  "exzh": "睡眠不足會讓你在學校感到疲累。",
+  "target": "Loss",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0067",
+  "zh": "片語；措辭",
+  "en": "Our teacher asked us to learn ten new English phrases.",
+  "exzh": "老師要我們學十個新的英文片語。",
+  "target": "phrases",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0068",
+  "zh": "範圍；種類",
+  "en": "This store sells a wide range of school supplies.",
+  "exzh": "這家店賣各式各樣的文具用品。",
+  "target": "range",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0069",
+  "zh": "鋸子；鋸",
+  "en": "My dad used a saw to cut the wood.",
+  "exzh": "我爸爸用鋸子鋸木頭。",
+  "target": "saw",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0070",
+  "zh": "跑道；追蹤",
+  "en": "We ran around the school track five times today.",
+  "exzh": "我們今天繞學校跑道跑了五圈。",
+  "target": "track",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0071",
+  "zh": "畫作；繪畫",
+  "en": "There is a beautiful painting of the sea in our classroom.",
+  "exzh": "我們教室裡有一幅美麗的海景畫。",
+  "target": "painting",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0072",
+  "zh": "想知道；奇蹟",
+  "en": "I wonder why Amy didn't come to school today.",
+  "exzh": "我想知道 Amy 今天為什麼沒來上學。",
+  "target": "wonder",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0073",
+  "zh": "品牌",
+  "en": "What brand of running shoes do you like best?",
+  "exzh": "你最喜歡哪個牌子的跑鞋？",
+  "target": "brand",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0074",
+  "zh": "科技",
+  "en": "Modern technology makes it easy to talk with friends far away.",
+  "exzh": "現代科技讓我們很容易和遠方的朋友聊天。",
+  "target": "technology",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0075",
+  "zh": "供應；用品",
+  "en": "Don't forget to bring your school supplies on the first day.",
+  "exzh": "第一天別忘了帶你的文具用品。",
+  "target": "supplies",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0076",
+  "zh": "出生",
+  "en": "Please write your date of birth on this form.",
+  "exzh": "請在這張表格上寫下你的出生日期。",
+  "target": "birth",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0077",
+  "zh": "主要的；首領",
+  "en": "The chief reason I like this school is the teachers.",
+  "exzh": "我喜歡這所學校的主要原因是老師們。",
+  "target": "chief",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0078",
+  "zh": "衣服(總稱)",
+  "en": "Bring warm clothing because it will be cold in the mountains.",
+  "exzh": "帶保暖的衣物，因為山上會很冷。",
+  "target": "clothing",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0079",
+  "zh": "張貼；郵件；職位",
+  "en": "Lisa posted a photo of her cat online.",
+  "exzh": "Lisa 在網路上貼了一張她的貓的照片。",
+  "target": "posted",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0080",
+  "zh": "證明",
+  "en": "Ben worked hard to prove that he could win the race.",
+  "exzh": "Ben 努力證明他能贏得比賽。",
+  "target": "prove",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0081",
+  "zh": "壓力；強調",
+  "en": "Many students feel a lot of stress before exams.",
+  "exzh": "很多學生考試前感到很大的壓力。",
+  "target": "stress",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0082",
+  "zh": "廣告；商業的",
+  "en": "There are too many commercials on TV during the game.",
+  "exzh": "比賽期間電視上的廣告太多了。",
+  "target": "commercials",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0083",
+  "zh": "表情；表達",
+  "en": "From the expression on her face, I knew she was angry.",
+  "exzh": "從她臉上的表情，我知道她生氣了。",
+  "target": "expression",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0084",
+  "zh": "例子",
+  "en": "I like many sports, for instance, tennis and swimming.",
+  "exzh": "我喜歡很多運動，例如網球和游泳。",
+  "target": "instance",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0085",
+  "zh": "伴侶；配偶；同伴",
+  "en": "In spring, many birds look for a mate.",
+  "exzh": "春天時，許多鳥會尋找伴侶。",
+  "target": "mate",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0086",
+  "zh": "有關聯；產生共鳴",
+  "en": "Many teens can relate to the story in this movie.",
+  "exzh": "許多青少年都能對這部電影的故事產生共鳴。",
+  "target": "relate",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0087",
+  "zh": "光滑的；順利的",
+  "en": "The baby's skin is soft and smooth.",
+  "exzh": "寶寶的皮膚又軟又光滑。",
+  "target": "smooth",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0088",
+  "zh": "柔軟的；輕柔的",
+  "en": "This pillow is so soft that I fell asleep quickly.",
+  "exzh": "這個枕頭好軟，我很快就睡著了。",
+  "target": "soft",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0089",
+  "zh": "任務；工作",
+  "en": "Cleaning the classroom is a daily task for students.",
+  "exzh": "打掃教室是學生每天的任務。",
+  "target": "task",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0090",
+  "zh": "試驗；審判",
+  "en": "The company is doing a trial of the new medicine.",
+  "exzh": "這家公司正在進行新藥的試驗。",
+  "target": "trial",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0091",
+  "zh": "結束；下結論",
+  "en": "The teacher concluded the class with a short story.",
+  "exzh": "老師用一個小故事結束了這堂課。",
+  "target": "concluded",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0092",
+  "zh": "衝突",
+  "en": "The two sisters often have conflicts about using the bathroom.",
+  "exzh": "兩姊妹常為了使用浴室起衝突。",
+  "target": "conflicts",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0093",
+  "zh": "連結；關聯",
+  "en": "The internet connection at my home is very slow.",
+  "exzh": "我家的網路連線很慢。",
+  "target": "connection",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0094",
+  "zh": "烏鴉；(公雞)啼叫",
+  "en": "A black crow was sitting on the roof.",
+  "exzh": "一隻黑色的烏鴉停在屋頂上。",
+  "target": "crow",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0095",
+  "zh": "藥物；毒品",
+  "en": "This drug can help lower a high fever.",
+  "exzh": "這種藥可以幫助退高燒。",
+  "target": "drug",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0096",
+  "zh": "幫忙；恩惠",
+  "en": "Could you do me a favor and close the window?",
+  "exzh": "可以幫我個忙關一下窗戶嗎？",
+  "target": "favor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0097",
+  "zh": "巨大的",
+  "en": "There is a huge tree in front of our school.",
+  "exzh": "我們學校前面有一棵巨大的樹。",
+  "target": "huge",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0098",
+  "zh": "的確；確實",
+  "en": "The test was indeed harder than we expected.",
+  "exzh": "這次考試的確比我們預期的難。",
+  "target": "indeed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0099",
+  "zh": "發生",
+  "en": "The accident occurred near the school gate this morning.",
+  "exzh": "這起意外今天早上發生在校門附近。",
+  "target": "occurred",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0100",
+  "zh": "參加；參與",
+  "en": "Over fifty students participated in the English speech contest.",
+  "exzh": "超過五十位學生參加了英文演講比賽。",
+  "target": "participated",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0101",
+  "zh": "警察",
+  "en": "A policeman helped the lost child find her parents.",
+  "exzh": "一位警察幫助走失的孩子找到她的父母。",
+  "target": "policeman",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0102",
+  "zh": "政策；方針",
+  "en": "Our school has a strict policy about using phones in class.",
+  "exzh": "我們學校對上課使用手機有嚴格的規定。",
+  "target": "policy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0103",
+  "zh": "比較喜歡",
+  "en": "I prefer tea to coffee in the morning.",
+  "exzh": "早上我比較喜歡喝茶而不是咖啡。",
+  "target": "prefer",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0104",
+  "zh": "認為；看待；問候",
+  "en": "My classmates regard Amy as the best singer in our class.",
+  "exzh": "同學們認為 Amy 是我們班最會唱歌的人。",
+  "target": "regard",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0105",
+  "zh": "時間表；安排",
+  "en": "My schedule is very busy this week because of exams.",
+  "exzh": "因為考試，我這週的行程很忙。",
+  "target": "schedule",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0106",
+  "zh": "震驚；衝擊",
+  "en": "We were shocked to hear that the store had closed.",
+  "exzh": "聽到那家店關門了，我們很震驚。",
+  "target": "shocked",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0107",
+  "zh": "種類；分類",
+  "en": "What sort of music do you like to listen to?",
+  "exzh": "你喜歡聽哪種音樂？",
+  "target": "sort",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0108",
+  "zh": "標準；標準的",
+  "en": "The school has high standards for its students.",
+  "exzh": "這所學校對學生有很高的標準。",
+  "target": "standards",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0109",
+  "zh": "伸展；延伸",
+  "en": "Always stretch your legs before you go running.",
+  "exzh": "跑步前一定要伸展雙腿。",
+  "target": "stretch",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0110",
+  "zh": "典型的",
+  "en": "On a typical school day, I get up at six.",
+  "exzh": "在平常的上學日，我六點起床。",
+  "target": "typical",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0111",
+  "zh": "旋律",
+  "en": "This song has a sweet and simple melody.",
+  "exzh": "這首歌有甜美又簡單的旋律。",
+  "target": "melody",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0112",
+  "zh": "鋼；鋼鐵",
+  "en": "The bridge is made of steel and stone.",
+  "exzh": "這座橋是用鋼鐵和石頭建造的。",
+  "target": "steel",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0113",
+  "zh": "實際的",
+  "en": "The actual price was higher than the one online.",
+  "exzh": "實際價格比網路上的還要高。",
+  "target": "actual",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0114",
+  "zh": "方法；接近",
+  "en": "Ben tried a new approach to learning English words.",
+  "exzh": "Ben 嘗試了一種背英文單字的新方法。",
+  "target": "approach",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0115",
+  "zh": "鏈子；連鎖",
+  "en": "My mom gave me a gold chain as a gift.",
+  "exzh": "我媽媽送我一條金鍊子當禮物。",
+  "target": "chain",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0116",
+  "zh": "展示；陳列",
+  "en": "Our art projects are on display in the school hall.",
+  "exzh": "我們的美術作品正在學校禮堂展出。",
+  "target": "display",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0117",
+  "zh": "音樂的；音樂劇",
+  "en": "Lisa can play three different musical instruments very well.",
+  "exzh": "Lisa 能把三種不同的樂器演奏得很好。",
+  "target": "musical",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0118",
+  "zh": "起源；出身",
+  "en": "Do you know the origin of this old festival?",
+  "exzh": "你知道這個古老節日的起源嗎？",
+  "target": "origin",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0119",
+  "zh": "適合的",
+  "en": "This movie is not suitable for young children.",
+  "exzh": "這部電影不適合年幼的孩子。",
+  "target": "suitable",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0120",
+  "zh": "嘗試；企圖",
+  "en": "Ben passed his driving test on his first attempt.",
+  "exzh": "Ben 第一次嘗試就通過了駕照考試。",
+  "target": "attempt",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0121",
+  "zh": "布",
+  "en": "Mom used a wet cloth to clean the table.",
+  "exzh": "媽媽用濕布擦桌子。",
+  "target": "cloth",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0122",
+  "zh": "聯絡；接觸",
+  "en": "Please contact me if you need any help.",
+  "exzh": "如果你需要任何幫助，請跟我聯絡。",
+  "target": "contact",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0123",
+  "zh": "因素",
+  "en": "Sleep is an important factor in good health.",
+  "exzh": "睡眠是良好健康的重要因素。",
+  "target": "factor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0124",
+  "zh": "舞台；階段",
+  "en": "Lisa was nervous when she stood on the stage.",
+  "exzh": "Lisa 站在舞台上時很緊張。",
+  "target": "stage",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0125",
+  "zh": "黏貼；刺；棍子",
+  "en": "Please stick this note on the classroom door.",
+  "exzh": "請把這張便條貼在教室門上。",
+  "target": "stick",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0126",
+  "zh": "缺席；不在",
+  "en": "The teacher asked about my absence from class yesterday.",
+  "exzh": "老師問起我昨天缺課的事。",
+  "target": "absence",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0127",
+  "zh": "帳戶；說明",
+  "en": "I opened a bank account with my mom last week.",
+  "exzh": "我上週和媽媽一起開了一個銀行帳戶。",
+  "target": "account",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0128",
+  "zh": "飛機；航空器",
+  "en": "The aircraft landed safely at the Taipei airport.",
+  "exzh": "飛機安全降落在台北機場。",
+  "target": "aircraft",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0129",
+  "zh": "申請；應用",
+  "en": "My sister applied to three universities this year.",
+  "exzh": "我姊姊今年申請了三所大學。",
+  "target": "applied",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0130",
+  "zh": "參加；出席",
+  "en": "All students must attend the school meeting on Monday.",
+  "exzh": "所有學生都必須出席週一的全校集會。",
+  "target": "attend",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0131",
+  "zh": "危機",
+  "en": "The country is facing a serious water crisis this summer.",
+  "exzh": "這個國家今年夏天正面臨嚴重的缺水危機。",
+  "target": "crisis",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0132",
+  "zh": "循環；週期",
+  "en": "Rain is part of the water cycle in nature.",
+  "exzh": "雨是大自然水循環的一部分。",
+  "target": "cycle",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0133",
+  "zh": "細節",
+  "en": "Please read the details carefully before you sign up.",
+  "exzh": "報名前請仔細閱讀細節。",
+  "target": "details",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0134",
+  "zh": "不同意",
+  "en": "I disagree with you about which movie is better.",
+  "exzh": "關於哪部電影比較好，我不同意你的看法。",
+  "target": "disagree",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0135",
+  "zh": "結局；結尾",
+  "en": "Everyone cried at the sad ending of the movie.",
+  "exzh": "大家都因為電影悲傷的結局而哭了。",
+  "target": "ending",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0136",
+  "zh": "整個的",
+  "en": "Ben ate the entire pizza by himself.",
+  "exzh": "Ben 一個人吃掉了整個披薩。",
+  "target": "entire",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0137",
+  "zh": "平的；(輪胎)洩氣的",
+  "en": "My bike has a flat tire, so I walked to school.",
+  "exzh": "我的腳踏車爆胎了，所以我走路上學。",
+  "target": "flat",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0138",
+  "zh": "流動",
+  "en": "The river flows slowly through the small town.",
+  "exzh": "這條河緩緩流過小鎮。",
+  "target": "flows",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0139",
+  "zh": "向前；往外",
+  "en": "The dog ran back and forth in the yard.",
+  "exzh": "那隻狗在院子裡跑來跑去。",
+  "target": "forth",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0140",
+  "zh": "成長；增長",
+  "en": "Milk is good for the growth of children's bones.",
+  "exzh": "牛奶有益於兒童骨骼的成長。",
+  "target": "growth",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0141",
+  "zh": "身分",
+  "en": "You need to show a card to prove your identity.",
+  "exzh": "你需要出示證件來證明你的身分。",
+  "target": "identity",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0142",
+  "zh": "開明的；自由主義的",
+  "en": "My parents are liberal and let me choose my own classes.",
+  "exzh": "我爸媽很開明，讓我自己選課。",
+  "target": "liberal",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0143",
+  "zh": "婚姻",
+  "en": "My grandparents have had a happy marriage for fifty years.",
+  "exzh": "我的祖父母擁有五十年的幸福婚姻。",
+  "target": "marriage",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0144",
+  "zh": "媒體",
+  "en": "Teens spend a lot of time on social media.",
+  "exzh": "青少年花很多時間在社群媒體上。",
+  "target": "media",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0145",
+  "zh": "派對；政黨；一方",
+  "en": "We had a party for Amy after the final exam.",
+  "exzh": "期末考後我們為 Amy 辦了一場派對。",
+  "target": "party",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0146",
+  "zh": "山頂；高峰",
+  "en": "We reached the peak of the mountain before noon.",
+  "exzh": "我們在中午前抵達了山頂。",
+  "target": "peak",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0147",
+  "zh": "個性；人格",
+  "en": "Amy has a warm and friendly personality.",
+  "exzh": "Amy 有溫暖又友善的個性。",
+  "target": "personality",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0148",
+  "zh": "分開；分開的",
+  "en": "Please separate your trash before you throw it away.",
+  "exzh": "丟垃圾前請先分類。",
+  "target": "separate",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0149",
+  "zh": "簡單地；只是",
+  "en": "Just explain it simply so everyone can understand.",
+  "exzh": "簡單地解釋一下，讓大家都能懂。",
+  "target": "simply",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0150",
+  "zh": "掙扎；努力",
+  "en": "Many students struggle with math in high school.",
+  "exzh": "許多學生在高中時為數學苦戰。",
+  "target": "struggle",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0151",
+  "zh": "猜想；認為",
+  "en": "I suppose Ben is still sleeping at this time.",
+  "exzh": "我猜 Ben 這個時間還在睡覺。",
+  "target": "suppose",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0152",
+  "zh": "旅遊；參觀",
+  "en": "We took a tour of the old city by bus.",
+  "exzh": "我們搭巴士遊覽了舊城區。",
+  "target": "tour",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0153",
+  "zh": "除非",
+  "en": "You can't go out unless you finish your homework.",
+  "exzh": "除非你寫完功課，否則不能出去。",
+  "target": "unless",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0154",
+  "zh": "聲音；嗓音",
+  "en": "Lisa has a beautiful voice and loves to sing.",
+  "exzh": "Lisa 有美妙的嗓音，而且很愛唱歌。",
+  "target": "voice",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0155",
+  "zh": "每當；無論何時",
+  "en": "Whenever I feel sad, I call my best friend.",
+  "exzh": "每當我難過時，我就打電話給我最好的朋友。",
+  "target": "Whenever",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0156",
+  "zh": "港口",
+  "en": "Many ships stop at this busy port every day.",
+  "exzh": "每天都有許多船停靠在這個繁忙的港口。",
+  "target": "port",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0157",
+  "zh": "樓梯",
+  "en": "Ben fell down the stairs and hurt his leg.",
+  "exzh": "Ben 從樓梯上摔下來，傷了腿。",
+  "target": "stairs",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0158",
+  "zh": "器官；風琴",
+  "en": "The heart is one of the most important organs in the body.",
+  "exzh": "心臟是身體最重要的器官之一。",
+  "target": "organs",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0159",
+  "zh": "資料；數據",
+  "en": "We collected data about students' sleep habits.",
+  "exzh": "我們收集了有關學生睡眠習慣的資料。",
+  "target": "data",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0160",
+  "zh": "發現",
+  "en": "The discovery of the old ship was big news.",
+  "exzh": "發現那艘古老的船是個大新聞。",
+  "target": "discovery",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0161",
+  "zh": "操作；運轉；動手術",
+  "en": "Do you know how to operate this machine?",
+  "exzh": "你知道怎麼操作這台機器嗎？",
+  "target": "operate",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0162",
+  "zh": "敏感的",
+  "en": "My skin is very sensitive to the sun.",
+  "exzh": "我的皮膚對陽光很敏感。",
+  "target": "sensitive",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0163",
+  "zh": "可惜的事；羞恥",
+  "en": "It's a shame that you can't come to the party.",
+  "exzh": "你不能來參加派對真是可惜。",
+  "target": "shame",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0164",
+  "zh": "抵達",
+  "en": "The arrival of the train was delayed by ten minutes.",
+  "exzh": "火車抵達的時間延誤了十分鐘。",
+  "target": "arrival",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0165",
+  "zh": "戰役；奮鬥",
+  "en": "Losing weight can be a long battle for some people.",
+  "exzh": "對某些人來說，減重可能是一場長期抗戰。",
+  "target": "battle",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0166",
+  "zh": "十億",
+  "en": "There are about eight billion people in the world.",
+  "exzh": "世界上大約有八十億人。",
+  "target": "billion",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0167",
+  "zh": "一點；小片",
+  "en": "I am a bit tired after the long walk.",
+  "exzh": "走了很長一段路後，我有點累。",
+  "target": "bit",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0168",
+  "zh": "舞者",
+  "en": "Lisa wants to be a dancer when she grows up.",
+  "exzh": "Lisa 長大後想當舞者。",
+  "target": "dancer",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0169",
+  "zh": "導演；主任",
+  "en": "The director of this movie is from Taiwan.",
+  "exzh": "這部電影的導演來自台灣。",
+  "target": "director",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0170",
+  "zh": "員工",
+  "en": "This small company has about twenty employees.",
+  "exzh": "這間小公司大約有二十名員工。",
+  "target": "employees",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0171",
+  "zh": "理想的；理想",
+  "en": "Sunny weather is ideal for a picnic in the park.",
+  "exzh": "晴朗的天氣最適合在公園野餐。",
+  "target": "ideal",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0172",
+  "zh": "軍事的；軍隊",
+  "en": "My uncle served in the military for two years.",
+  "exzh": "我叔叔在軍中服役了兩年。",
+  "target": "military",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0173",
+  "zh": "按；壓；新聞界",
+  "en": "Press this button to turn on the machine.",
+  "exzh": "按下這個按鈕來啟動機器。",
+  "target": "Press",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0174",
+  "zh": "現實",
+  "en": "Ben's dream of becoming a singer became a reality.",
+  "exzh": "Ben 成為歌手的夢想成真了。",
+  "target": "reality",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0175",
+  "zh": "解決辦法；答案",
+  "en": "We need to find a solution to this problem quickly.",
+  "exzh": "我們需要盡快找到這個問題的解決辦法。",
+  "target": "solution",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0176",
+  "zh": "稅",
+  "en": "The price of the shoes includes tax.",
+  "exzh": "這雙鞋的價格已含稅。",
+  "target": "tax",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0177",
+  "zh": "財富",
+  "en": "Good health is more important than wealth.",
+  "exzh": "健康比財富更重要。",
+  "target": "wealth",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0178",
+  "zh": "葡萄酒",
+  "en": "Wine is a drink made from grapes.",
+  "exzh": "葡萄酒是用葡萄做成的飲料。",
+  "target": "Wine",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0179",
+  "zh": "幫助；援助",
+  "en": "The nurse gave first aid to the hurt student.",
+  "exzh": "護理師為受傷的學生做了急救。",
+  "target": "aid",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0180",
+  "zh": "無論如何；反正",
+  "en": "It was raining, but we went to the beach anyway.",
+  "exzh": "雖然在下雨，我們還是去了海邊。",
+  "target": "anyway",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0181",
+  "zh": "平均；一般的",
+  "en": "My average score in math is 85 this year.",
+  "exzh": "我今年數學的平均分數是 85 分。",
+  "target": "average",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0182",
+  "zh": "基礎；根據",
+  "en": "We have English tests on a weekly basis.",
+  "exzh": "我們每週都有英文考試。",
+  "target": "basis",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0183",
+  "zh": "信念；信仰",
+  "en": "She has a strong belief in her own ability.",
+  "exzh": "她非常相信自己的能力。",
+  "target": "belief",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0184",
+  "zh": "邊界；邊緣",
+  "en": "The town is near the border between the two countries.",
+  "exzh": "這個小鎮靠近兩國的邊界。",
+  "target": "border",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0185",
+  "zh": "傑出的；燦爛的",
+  "en": "What a brilliant idea! Let's try it now.",
+  "exzh": "真是個絕妙的點子！我們現在就試試看。",
+  "target": "brilliant",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0186",
+  "zh": "負擔",
+  "en": "Too much homework is a heavy burden for students.",
+  "exzh": "太多作業對學生來說是沉重的負擔。",
+  "target": "burden",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0187",
+  "zh": "首都；資本；大寫的",
+  "en": "Tokyo is the capital and largest city of Japan.",
+  "exzh": "東京是日本的首都，也是最大的城市。",
+  "target": "capital",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0188",
+  "zh": "細胞；手機",
+  "en": "The human body is made up of many cells.",
+  "exzh": "人體是由許多細胞組成的。",
+  "target": "cells",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0189",
+  "zh": "章節",
+  "en": "Please read Chapter 5 before our next class.",
+  "exzh": "下次上課前請先讀第五章。",
+  "target": "Chapter",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0190",
+  "zh": "煤",
+  "en": "In the past, many families used coal to cook.",
+  "exzh": "過去許多家庭用煤來煮飯。",
+  "target": "coal",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0191",
+  "zh": "結合",
+  "en": "This dish combines Taiwanese and Japanese tastes.",
+  "exzh": "這道菜結合了台灣和日本的風味。",
+  "target": "combines",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0192",
+  "zh": "考慮；體貼",
+  "en": "After careful consideration, Amy decided to join the dance club.",
+  "exzh": "經過仔細考慮，Amy 決定加入熱舞社。",
+  "target": "consideration",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0193",
+  "zh": "鄉間；農村",
+  "en": "My grandparents live in a quiet house in the countryside.",
+  "exzh": "我的祖父母住在鄉下一棟安靜的房子裡。",
+  "target": "countryside",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0194",
+  "zh": "債務；欠款",
+  "en": "Ben paid back his debt to his brother last week.",
+  "exzh": "Ben 上週還清了欠哥哥的錢。",
+  "target": "debt",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0195",
+  "zh": "深度",
+  "en": "The depth of this pool is about two meters.",
+  "exzh": "這座泳池的深度大約兩公尺。",
+  "target": "depth",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0196",
+  "zh": "鴿子",
+  "en": "A white dove is often a symbol of peace.",
+  "exzh": "白鴿常是和平的象徵。",
+  "target": "dove",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0197",
+  "zh": "東方的；東部的",
+  "en": "The eastern part of Taiwan has beautiful mountains and beaches.",
+  "exzh": "台灣東部有美麗的山和海灘。",
+  "target": "eastern",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0198",
+  "zh": "電的；電氣的",
+  "en": "Do not touch electrical wires with wet hands.",
+  "exzh": "不要用濕手碰電線。",
+  "target": "electrical",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0199",
+  "zh": "入口",
+  "en": "Let's meet at the main entrance of the train station.",
+  "exzh": "我們在火車站的主要入口碰面吧。",
+  "target": "entrance",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0200",
+  "zh": "短文；論文",
+  "en": "We have to write an essay about our summer vacation.",
+  "exzh": "我們得寫一篇關於暑假的短文。",
+  "target": "essay",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0201",
+  "zh": "檢查；仔細觀察",
+  "en": "The doctor examined my throat and said I had a cold.",
+  "exzh": "醫生檢查了我的喉嚨，說我感冒了。",
+  "target": "examined",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0202",
+  "zh": "專家；熟練的",
+  "en": "Lisa is an expert at making cakes.",
+  "exzh": "Lisa 是做蛋糕的專家。",
+  "target": "expert",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0203",
+  "zh": "命運",
+  "en": "Some people believe that fate brings friends together.",
+  "exzh": "有些人相信命運會讓朋友相聚。",
+  "target": "fate",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0204",
+  "zh": "公司；堅定的",
+  "en": "My uncle works for a large firm in Taipei.",
+  "exzh": "我叔叔在台北一家大公司上班。",
+  "target": "firm",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0205",
+  "zh": "園丁",
+  "en": "The gardener cuts the grass at our school every week.",
+  "exzh": "園丁每週都會修剪我們學校的草地。",
+  "target": "gardener",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0206",
+  "zh": "治理；統治",
+  "en": "A good leader should govern the country fairly.",
+  "exzh": "好的領導者應該公平地治理國家。",
+  "target": "govern",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0207",
+  "zh": "逐漸的",
+  "en": "There has been a gradual change in the weather this month.",
+  "exzh": "這個月天氣逐漸在改變。",
+  "target": "gradual",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0208",
+  "zh": "天堂",
+  "en": "My grandmother believes her cat is now in heaven.",
+  "exzh": "我奶奶相信她的貓現在在天堂。",
+  "target": "heaven",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0209",
+  "zh": "歷史的",
+  "en": "We visited many historical buildings on our class trip.",
+  "exzh": "我們在校外教學時參觀了許多歷史建築。",
+  "target": "historical",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0210",
+  "zh": "令人印象深刻的",
+  "en": "Amy's speech in English was very impressive.",
+  "exzh": "Amy 的英文演講令人印象深刻。",
+  "target": "impressive",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0211",
+  "zh": "介紹；引言",
+  "en": "Please give a short introduction about yourself to the class.",
+  "exzh": "請向全班簡短介紹你自己。",
+  "target": "introduction",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0212",
+  "zh": "看守人；管理員",
+  "en": "The keeper feeds the animals at the zoo every morning.",
+  "exzh": "管理員每天早上餵動物園的動物。",
+  "target": "keeper",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0213",
+  "zh": "小巷；車道",
+  "en": "My grandmother lives on a quiet lane near the market.",
+  "exzh": "我奶奶住在市場附近一條安靜的小巷裡。",
+  "target": "lane",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0214",
+  "zh": "領導力；領導",
+  "en": "Lisa showed great leadership as our class leader.",
+  "exzh": "Lisa 擔任班長時展現了優秀的領導力。",
+  "target": "leadership",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0215",
+  "zh": "裝載；負荷",
+  "en": "Ben helped his dad load the boxes into the car.",
+  "exzh": "Ben 幫爸爸把箱子裝上車。",
+  "target": "load",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0216",
+  "zh": "運氣",
+  "en": "Good luck on your English test tomorrow!",
+  "exzh": "祝你明天英文考試好運！",
+  "target": "luck",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0217",
+  "zh": "成熟的",
+  "en": "Amy is very mature for her age.",
+  "exzh": "以她的年紀來說，Amy 很成熟。",
+  "target": "mature",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0218",
+  "zh": "混合物",
+  "en": "The drink is a mixture of milk and tea.",
+  "exzh": "這杯飲料是牛奶和茶的混合。",
+  "target": "mixture",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0219",
+  "zh": "心情",
+  "en": "Ben is in a good mood because he won the game.",
+  "exzh": "Ben 心情很好，因為他贏了比賽。",
+  "target": "mood",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0220",
+  "zh": "附近的；在附近",
+  "en": "We had lunch at a nearby restaurant.",
+  "exzh": "我們在附近的一家餐廳吃午餐。",
+  "target": "nearby",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0221",
+  "zh": "北部的；北方的",
+  "en": "It is often rainy in northern Taiwan in winter.",
+  "exzh": "台灣北部冬天常下雨。",
+  "target": "northern",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0222",
+  "zh": "明顯的",
+  "en": "It was obvious that Lisa was tired after the race.",
+  "exzh": "很明顯 Lisa 賽跑後很累。",
+  "target": "obvious",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0223",
+  "zh": "線上的；在線上",
+  "en": "Many students take online classes during summer vacation.",
+  "exzh": "很多學生在暑假期間上線上課程。",
+  "target": "online",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0224",
+  "zh": "操作員；接線生",
+  "en": "The machine operator showed us how it works.",
+  "exzh": "機器操作員向我們示範它如何運作。",
+  "target": "operator",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0225",
+  "zh": "每",
+  "en": "This milk tea costs fifty dollars per cup.",
+  "exzh": "這款奶茶每杯五十元。",
+  "target": "per",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0226",
+  "zh": "詩人",
+  "en": "The poet wrote a beautiful poem about the moon.",
+  "exzh": "這位詩人寫了一首關於月亮的優美詩作。",
+  "target": "poet",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0227",
+  "zh": "可能性",
+  "en": "There is a possibility of rain this afternoon.",
+  "exzh": "今天下午有可能下雨。",
+  "target": "possibility",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0228",
+  "zh": "禱告；祈禱文",
+  "en": "Before dinner, the family says a short prayer.",
+  "exzh": "晚餐前，這家人會做簡短的禱告。",
+  "target": "prayer",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0229",
+  "zh": "驕傲；自豪",
+  "en": "My parents felt great pride when I won the prize.",
+  "exzh": "我得獎時，我爸媽感到非常自豪。",
+  "target": "pride",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0230",
+  "zh": "保護的",
+  "en": "Always wear protective glasses in science class.",
+  "exzh": "上自然課時一定要戴護目鏡。",
+  "target": "protective",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0231",
+  "zh": "迅速的",
+  "en": "The city has seen rapid growth in recent years.",
+  "exzh": "這座城市近幾年快速成長。",
+  "target": "rapid",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0232",
+  "zh": "關係；關聯",
+  "en": "Taiwan has good relations with many countries.",
+  "exzh": "台灣和許多國家關係良好。",
+  "target": "relations",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0233",
+  "zh": "關係；人際關係",
+  "en": "Amy has a close relationship with her older sister.",
+  "exzh": "Amy 和她姊姊關係很親密。",
+  "target": "relationship",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0234",
+  "zh": "宗教",
+  "en": "People of every religion are welcome at this school.",
+  "exzh": "這所學校歡迎各種宗教信仰的人。",
+  "target": "religion",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0235",
+  "zh": "回應；回覆",
+  "en": "Lisa didn't respond to my message last night.",
+  "exzh": "Lisa 昨晚沒有回我訊息。",
+  "target": "respond",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0236",
+  "zh": "皇家的",
+  "en": "Many people watched the royal wedding on TV.",
+  "exzh": "許多人在電視上觀看了皇室婚禮。",
+  "target": "royal",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0237",
+  "zh": "跑者",
+  "en": "Ben is the fastest runner in our class.",
+  "exzh": "Ben 是我們班跑得最快的人。",
+  "target": "runner",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0238",
+  "zh": "鹹的",
+  "en": "This soup is too salty for me to drink.",
+  "exzh": "這碗湯太鹹了，我喝不下。",
+  "target": "salty",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0239",
+  "zh": "性別；性",
+  "en": "Please write your name, age, and sex on this form.",
+  "exzh": "請在這張表格上寫下你的姓名、年齡和性別。",
+  "target": "sex",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0240",
+  "zh": "殼；貝殼",
+  "en": "We collected many shells on the beach.",
+  "exzh": "我們在海灘上撿了很多貝殼。",
+  "target": "shells",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0241",
+  "zh": "投籃；射擊；注射",
+  "en": "Ben made the winning shot at the end of the game.",
+  "exzh": "Ben 在比賽最後投進了致勝的一球。",
+  "target": "shot",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0242",
+  "zh": "熟練的",
+  "en": "My uncle is a skilled cook who makes great noodles.",
+  "exzh": "我叔叔是個很厲害的廚師，煮的麵很好吃。",
+  "target": "skilled",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0243",
+  "zh": "有點；稍微",
+  "en": "The test was somewhat harder than I expected.",
+  "exzh": "這次考試比我預期的稍微難一點。",
+  "target": "somewhat",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0244",
+  "zh": "黃豆；大豆",
+  "en": "This drink is made from soybeans and a little sugar.",
+  "exzh": "這種飲料是用黃豆和一點糖做的。",
+  "target": "soybeans",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0245",
+  "zh": "嚴格的",
+  "en": "Our math teacher is very strict about homework.",
+  "exzh": "我們的數學老師對作業非常嚴格。",
+  "target": "strict",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0246",
+  "zh": "表面",
+  "en": "The surface of the table is smooth.",
+  "exzh": "這張桌子的表面很光滑。",
+  "target": "surface",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0247",
+  "zh": "開關；轉換",
+  "en": "Please switch off the lights when you leave the room.",
+  "exzh": "離開房間時請把燈關掉。",
+  "target": "switch",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0248",
+  "zh": "目標；以…為目標",
+  "en": "My target is to read one English book every month.",
+  "exzh": "我的目標是每個月讀一本英文書。",
+  "target": "target",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0249",
+  "zh": "簡訊；文字",
+  "en": "I sent Amy a text to say I would be late.",
+  "exzh": "我傳了簡訊給 Amy 說我會晚到。",
+  "target": "text",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0250",
+  "zh": "面紙；(生物)組織",
+  "en": "Can I have a tissue? My nose is running.",
+  "exzh": "可以給我一張面紙嗎？我在流鼻水。",
+  "target": "tissue",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0251",
+  "zh": "重…；秤重",
+  "en": "How much does this box of books weigh?",
+  "exzh": "這箱書有多重？",
+  "target": "weigh",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0252",
+  "zh": "西方的；西部的",
+  "en": "Many Taiwanese teens enjoy western food like pizza.",
+  "exzh": "許多台灣青少年喜歡像披薩這樣的西式食物。",
+  "target": "western",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0253",
+  "zh": "無論什麼",
+  "en": "You can order whatever you like from the menu.",
+  "exzh": "你可以點菜單上任何你喜歡的東西。",
+  "target": "whatever",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0254",
+  "zh": "低語；耳語",
+  "en": "Lisa whispered a secret into my ear.",
+  "exzh": "Lisa 在我耳邊悄悄說了一個秘密。",
+  "target": "whispered",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0255",
+  "zh": "誰(受格)",
+  "en": "To whom should I give this letter?",
+  "exzh": "我應該把這封信交給誰？",
+  "target": "whom",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0256",
+  "zh": "寬度",
+  "en": "Please measure the width of the window.",
+  "exzh": "請量一下窗戶的寬度。",
+  "target": "width",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0257",
+  "zh": "願意的",
+  "en": "Ben is always willing to help his classmates.",
+  "exzh": "Ben 總是願意幫助同學。",
+  "target": "willing",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0258",
+  "zh": "木製的",
+  "en": "There is a wooden table in our kitchen.",
+  "exzh": "我們的廚房裡有一張木桌。",
+  "target": "wooden",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0259",
+  "zh": "值得的；價值",
+  "en": "The new museum in Taipei is really worth a visit.",
+  "exzh": "台北那間新博物館真的很值得一去。",
+  "target": "worth",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0260",
+  "zh": "承認；准許進入",
+  "en": "Ben finally admitted that he broke the window.",
+  "exzh": "Ben 終於承認是他打破了窗戶。",
+  "target": "admitted",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0261",
+  "zh": "事務；事件",
+  "en": "Students should pay attention to world affairs.",
+  "exzh": "學生應該關心國際事務。",
+  "target": "affairs",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0262",
+  "zh": "任何時候",
+  "en": "You can call me anytime if you need help.",
+  "exzh": "如果你需要幫忙，隨時可以打給我。",
+  "target": "anytime",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0263",
+  "zh": "猿",
+  "en": "Apes are smart animals that can use tools.",
+  "exzh": "猿是會使用工具的聰明動物。",
+  "target": "Apes",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0264",
+  "zh": "食慾；胃口",
+  "en": "I lost my appetite when I had a cold.",
+  "exzh": "我感冒時沒有胃口。",
+  "target": "appetite",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0265",
+  "zh": "箭；箭頭",
+  "en": "Follow the arrows to find the way to the gym.",
+  "exzh": "跟著箭頭走就能找到去體育館的路。",
+  "target": "arrows",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0266",
+  "zh": "文章；物品",
+  "en": "I read an interesting article about sleep in the newspaper.",
+  "exzh": "我在報紙上讀到一篇關於睡眠的有趣文章。",
+  "target": "article",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0267",
+  "zh": "條；棒；酒吧",
+  "en": "Amy ate a chocolate bar after school.",
+  "exzh": "Amy 放學後吃了一條巧克力棒。",
+  "target": "bar",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0268",
+  "zh": "乞求；懇求",
+  "en": "My little brother begged Mom to buy him a toy.",
+  "exzh": "我弟弟苦苦哀求媽媽買玩具給他。",
+  "target": "begged",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0269",
+  "zh": "彎曲；彎腰",
+  "en": "Bend your knees when you pick up heavy boxes.",
+  "exzh": "搬重箱子時要彎曲膝蓋。",
+  "target": "Bend",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0270",
+  "zh": "餅乾",
+  "en": "Grandma made biscuits for us to eat with tea.",
+  "exzh": "奶奶做了餅乾讓我們配茶吃。",
+  "target": "biscuits",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0271",
+  "zh": "簡短的；簡報",
+  "en": "The principal gave a brief speech at the meeting.",
+  "exzh": "校長在集會上做了簡短的致詞。",
+  "target": "brief",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0272",
+  "zh": "咖啡館",
+  "en": "Let's study together at the cafe near the station.",
+  "exzh": "我們一起去車站附近的咖啡館讀書吧。",
+  "target": "cafe",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0273",
+  "zh": "駱駝",
+  "en": "Camels can live in the desert without water for days.",
+  "exzh": "駱駝可以在沙漠中好幾天不喝水。",
+  "target": "Camels",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0274",
+  "zh": "經典的；經典作品",
+  "en": "This old movie is a classic that everyone should watch.",
+  "exzh": "這部老電影是每個人都該看的經典。",
+  "target": "classic",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0275",
+  "zh": "點擊；喀嚓聲",
+  "en": "Click this button to watch the video.",
+  "exzh": "點這個按鈕來看影片。",
+  "target": "Click",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0276",
+  "zh": "可可",
+  "en": "A cup of hot cocoa is perfect on a cold day.",
+  "exzh": "冷天裡來一杯熱可可再完美不過。",
+  "target": "cocoa",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0277",
+  "zh": "遞送；外送",
+  "en": "We ordered pizza for delivery last night.",
+  "exzh": "我們昨晚叫了披薩外送。",
+  "target": "delivery",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0278",
+  "zh": "否認；拒絕",
+  "en": "Ben denied eating the last piece of cake.",
+  "exzh": "Ben 否認吃了最後一塊蛋糕。",
+  "target": "denied",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0279",
+  "zh": "描述",
+  "en": "Write a short description of your best friend.",
+  "exzh": "寫一段簡短的文字描述你最好的朋友。",
+  "target": "description",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0280",
+  "zh": "對話",
+  "en": "We practiced the dialogue in pairs during English class.",
+  "exzh": "英文課時我們兩人一組練習對話。",
+  "target": "dialogue",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0281",
+  "zh": "除法；分配；部門",
+  "en": "Division is harder than addition for my little brother.",
+  "exzh": "對我弟弟來說，除法比加法難。",
+  "target": "Division",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0282",
+  "zh": "國內的；家庭的",
+  "en": "Domestic flights are cheaper than flights to other countries.",
+  "exzh": "國內航班比飛往其他國家的航班便宜。",
+  "target": "Domestic",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0283",
+  "zh": "圖畫；繪圖",
+  "en": "My little sister gave me a drawing of our family.",
+  "exzh": "我妹妹送我一張她畫的全家福。",
+  "target": "drawing",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0284",
+  "zh": "無聊的；鈍的",
+  "en": "The movie was so dull that I fell asleep.",
+  "exzh": "這部電影無聊到我睡著了。",
+  "target": "dull",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0285",
+  "zh": "版本；版次",
+  "en": "The new edition of this dictionary has more words.",
+  "exzh": "這本字典的新版收錄了更多單字。",
+  "target": "edition",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0286",
+  "zh": "雇主；老闆",
+  "en": "My employer lets me work only on weekends.",
+  "exzh": "我的老闆讓我只在週末上班。",
+  "target": "employer",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0287",
+  "zh": "確切的；精確的",
+  "en": "Do you know the exact time the movie starts?",
+  "exzh": "你知道電影確切幾點開始嗎？",
+  "target": "exact",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0288",
+  "zh": "存在",
+  "en": "Some people believe in the existence of ghosts.",
+  "exzh": "有些人相信鬼的存在。",
+  "target": "existence",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0289",
+  "zh": "費用；花費",
+  "en": "Food is the biggest expense for my family each month.",
+  "exzh": "食物是我家每個月最大的開銷。",
+  "target": "expense",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0290",
+  "zh": "眉毛",
+  "en": "Amy raised her eyebrows when she heard the surprising news.",
+  "exzh": "Amy 聽到這個驚人的消息時揚起了眉毛。",
+  "target": "eyebrows",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0291",
+  "zh": "失敗",
+  "en": "Failure is a part of learning, so don't give up.",
+  "exzh": "失敗是學習的一部分，所以不要放棄。",
+  "target": "Failure",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0292",
+  "zh": "傢伙；同伴",
+  "en": "Ben is a friendly fellow who gets along with everyone.",
+  "exzh": "Ben 是個友善的傢伙，跟每個人都處得來。",
+  "target": "fellow",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0293",
+  "zh": "消防員",
+  "en": "The fireman saved a cat from the burning house.",
+  "exzh": "消防員從失火的房子裡救出一隻貓。",
+  "target": "fireman",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0294",
+  "zh": "民間的；人們",
+  "en": "We learned a Taiwanese folk song in music class.",
+  "exzh": "我們在音樂課學了一首台灣民謠。",
+  "target": "folk",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0295",
+  "zh": "大蒜",
+  "en": "My mom always adds garlic to the fried noodles.",
+  "exzh": "我媽媽總是在炒麵裡加大蒜。",
+  "target": "garlic",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0296",
+  "zh": "長頸鹿",
+  "en": "The giraffe has a very long neck.",
+  "exzh": "長頸鹿有很長的脖子。",
+  "target": "giraffe",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0297",
+  "zh": "穀物；顆粒",
+  "en": "Rice is the main grain eaten in Taiwan.",
+  "exzh": "稻米是台灣人主要吃的穀物。",
+  "target": "grain",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0298",
+  "zh": "盛大的；宏偉的",
+  "en": "The school held a grand opening for the new library.",
+  "exzh": "學校為新圖書館舉辦了盛大的開幕典禮。",
+  "target": "grand",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0299",
+  "zh": "獨立",
+  "en": "Moving to college gave my sister a sense of independence.",
+  "exzh": "上大學搬出去住讓我姊姊有了獨立的感覺。",
+  "target": "independence",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0300",
+  "zh": "指示；說明",
+  "en": "Read the instructions carefully before you start the test.",
+  "exzh": "開始考試前請仔細閱讀說明。",
+  "target": "instructions",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0301",
+  "zh": "內部的",
+  "en": "The internal parts of the machine are very small.",
+  "exzh": "這台機器內部的零件非常小。",
+  "target": "internal",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0302",
+  "zh": "關節；共同的",
+  "en": "My grandfather has pain in his knee joints.",
+  "exzh": "我爺爺的膝關節會痛。",
+  "target": "joints",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0303",
+  "zh": "日誌；期刊",
+  "en": "I write in my journal every night before bed.",
+  "exzh": "我每晚睡前都會寫日誌。",
+  "target": "journal",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0304",
+  "zh": "正義；公平",
+  "en": "The people fought for justice and equal rights.",
+  "exzh": "人民為正義和平等的權利而奮鬥。",
+  "target": "justice",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0305",
+  "zh": "瓢蟲",
+  "en": "A little red ladybug landed on my hand.",
+  "exzh": "一隻紅色的小瓢蟲停在我的手上。",
+  "target": "ladybug",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0306",
+  "zh": "膝上；(跑道)一圈",
+  "en": "The cat is sleeping on my lap.",
+  "exzh": "貓正睡在我的大腿上。",
+  "target": "lap",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0307",
+  "zh": "合法的；法律的",
+  "en": "Is it legal to ride a bike on the sidewalk?",
+  "exzh": "在人行道上騎腳踏車合法嗎？",
+  "target": "legal",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0308",
+  "zh": "鏡片；鏡頭",
+  "en": "The camera lens is dirty, so the photos look bad.",
+  "exzh": "相機鏡頭髒了，所以照片看起來很糟。",
+  "target": "lens",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0309",
+  "zh": "聽眾；傾聽者",
+  "en": "Amy is a good listener, so friends tell her everything.",
+  "exzh": "Amy 很會傾聽，所以朋友什麼都跟她說。",
+  "target": "listener",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0310",
+  "zh": "肝臟",
+  "en": "Drinking too much is bad for your liver.",
+  "exzh": "飲酒過量對肝臟不好。",
+  "target": "liver",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0311",
+  "zh": "孤單的；單獨的",
+  "en": "A lone tree stands on top of the hill.",
+  "exzh": "山丘頂上孤零零地立著一棵樹。",
+  "target": "lone",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0312",
+  "zh": "會員資格",
+  "en": "Ben has a membership card for the bookstore.",
+  "exzh": "Ben 有那家書店的會員卡。",
+  "target": "membership",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0313",
+  "zh": "少數",
+  "en": "Only a minority of students walk to school.",
+  "exzh": "只有少數學生走路上學。",
+  "target": "minority",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0314",
+  "zh": "馬克杯",
+  "en": "Dad drinks coffee from his big blue mug.",
+  "exzh": "爸爸用他的藍色大馬克杯喝咖啡。",
+  "target": "mug",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0315",
+  "zh": "神經；勇氣",
+  "en": "It took a lot of nerve to sing in front of everyone.",
+  "exzh": "在大家面前唱歌需要很大的勇氣。",
+  "target": "nerve",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0316",
+  "zh": "密碼",
+  "en": "Never share your phone password with anyone, even friends.",
+  "exzh": "絕對不要把手機密碼告訴任何人，即使是朋友。",
+  "target": "password",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0317",
+  "zh": "詩(總稱)",
+  "en": "Lisa enjoys reading poetry in her free time.",
+  "exzh": "Lisa 空閒時喜歡讀詩。",
+  "target": "poetry",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0318",
+  "zh": "監獄",
+  "en": "The thief was sent to prison for two years.",
+  "exzh": "那個小偷被判入獄兩年。",
+  "target": "prison",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0319",
+  "zh": "囚犯",
+  "en": "The prisoners work in the garden every morning.",
+  "exzh": "囚犯們每天早上在菜園裡工作。",
+  "target": "prisoners",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0320",
+  "zh": "適當的；合適的",
+  "en": "Wear proper shoes when you go hiking.",
+  "exzh": "去健行時要穿合適的鞋子。",
+  "target": "proper",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0321",
+  "zh": "布丁",
+  "en": "After dinner, Mom made chocolate pudding for us.",
+  "exzh": "晚餐後，媽媽做了巧克力布丁給我們吃。",
+  "target": "pudding",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0322",
+  "zh": "學生；瞳孔",
+  "en": "The teacher has thirty pupils in her class.",
+  "exzh": "這位老師班上有三十名學生。",
+  "target": "pupils",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0323",
+  "zh": "數量",
+  "en": "The store sells rice in large quantities.",
+  "exzh": "這家店大量販售稻米。",
+  "target": "quantities",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0324",
+  "zh": "回覆；回答",
+  "en": "Amy didn't reply to my message until midnight.",
+  "exzh": "Amy 直到半夜才回我訊息。",
+  "target": "reply",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0325",
+  "zh": "財富",
+  "en": "The king had great riches but no real friends.",
+  "exzh": "國王擁有龐大的財富，卻沒有真正的朋友。",
+  "target": "riches",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0326",
+  "zh": "多岩石的",
+  "en": "We walked carefully along the rocky beach.",
+  "exzh": "我們小心地沿著多岩石的海灘走。",
+  "target": "rocky",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0327",
+  "zh": "公雞",
+  "en": "The rooster wakes up the whole farm every morning.",
+  "exzh": "公雞每天早上叫醒整座農場。",
+  "target": "rooster",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0328",
+  "zh": "女店員；女銷售員",
+  "en": "The saleswoman helped me find the right size of shoes.",
+  "exzh": "女店員幫我找到尺寸合適的鞋子。",
+  "target": "saleswoman",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0329",
+  "zh": "驚嚇；恐懼",
+  "en": "The loud thunder scared my little dog.",
+  "exzh": "巨大的雷聲嚇壞了我的小狗。",
+  "target": "scared",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0330",
+  "zh": "選擇；精選",
+  "en": "This shop has a wide selection of comic books.",
+  "exzh": "這家店有各式各樣的漫畫可供選擇。",
+  "target": "selection",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0331",
+  "zh": "滑倒；溜走",
+  "en": "Be careful not to slip on the wet floor.",
+  "exzh": "小心不要在濕地板上滑倒。",
+  "target": "slip",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0332",
+  "zh": "土壤",
+  "en": "Plants need good soil and water to grow.",
+  "exzh": "植物需要好的土壤和水才能生長。",
+  "target": "soil",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0333",
+  "zh": "南部的；南方的",
+  "en": "The weather in southern Taiwan is warm all year.",
+  "exzh": "台灣南部一年四季都很溫暖。",
+  "target": "southern",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0334",
+  "zh": "拼字",
+  "en": "We have a spelling test every Friday.",
+  "exzh": "我們每週五都有拼字測驗。",
+  "target": "spelling",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0335",
+  "zh": "生存",
+  "en": "Water is necessary for the survival of all living things.",
+  "exzh": "水是所有生物生存所必需的。",
+  "target": "survival",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0336",
+  "zh": "故事；傳說",
+  "en": "Grandma told us an old tale about a brave girl.",
+  "exzh": "奶奶跟我們說了一個勇敢女孩的古老故事。",
+  "target": "tale",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0337",
+  "zh": "十幾歲(13–19歲)",
+  "en": "Many young people in their teens love video games.",
+  "exzh": "許多十幾歲的年輕人熱愛電玩。",
+  "target": "teens",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0338",
+  "zh": "恐怖主義",
+  "en": "Many countries work together to fight terrorism.",
+  "exzh": "許多國家合作打擊恐怖主義。",
+  "target": "terrorism",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0339",
+  "zh": "恐怖分子(的)",
+  "en": "Airports check bags carefully to stop terrorist attacks.",
+  "exzh": "機場仔細檢查行李以阻止恐怖攻擊。",
+  "target": "terrorist",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0340",
+  "zh": "輪胎；使疲倦",
+  "en": "Dad changed the tire on our car this morning.",
+  "exzh": "爸爸今天早上換了我們車子的輪胎。",
+  "target": "tire",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0341",
+  "zh": "語氣；音調",
+  "en": "Don't talk to your mother in that tone.",
+  "exzh": "不要用那種語氣跟你媽媽說話。",
+  "target": "tone",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0342",
+  "zh": "難過的；生氣的；使心煩",
+  "en": "Amy was upset because she lost her phone.",
+  "exzh": "Amy 很難過，因為她弄丟了手機。",
+  "target": "upset",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0343",
+  "zh": "使用者",
+  "en": "This phone is easy for new users to learn.",
+  "exzh": "這支手機對新使用者來說很容易上手。",
+  "target": "users",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0344",
+  "zh": "無論哪裡",
+  "en": "My dog follows me wherever I go.",
+  "exzh": "無論我去哪裡，我的狗都跟著我。",
+  "target": "wherever",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0345",
+  "zh": "無論是誰",
+  "en": "Whoever finishes first can go home early.",
+  "exzh": "誰先完成就可以先回家。",
+  "target": "Whoever",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0346",
+  "zh": "電線；金屬線",
+  "en": "Don't touch that wire; it may be dangerous.",
+  "exzh": "不要碰那條電線，它可能很危險。",
+  "target": "wire",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0347",
+  "zh": "羊毛",
+  "en": "This warm sweater is made of wool.",
+  "exzh": "這件保暖的毛衣是羊毛做的。",
+  "target": "wool",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L0-0348",
+  "zh": "番薯；山藥",
+  "en": "Many stores in Taiwan sell hot baked yams in winter.",
+  "exzh": "台灣許多商店冬天會賣熱騰騰的烤地瓜。",
+  "target": "yams",
+  "status": "ok",
+  "note": ""
+ }
+]

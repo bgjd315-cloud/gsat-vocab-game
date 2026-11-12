@@ -1,0 +1,6514 @@
+[
+ {
+  "id": "G0-J01-1",
+  "b": 0,
+  "l": "J01",
+  "title": "現在簡單式與現在進行式",
+  "formula": "V(s/es)　／　am・is・are + V-ing",
+  "points": [
+   "現在簡單式表習慣、事實、真理或時刻表，常搭配 always, usually, every day, on Sundays。",
+   "現在進行式表「說話當下」或「這陣子」正在進行的動作，常搭配 now, at the moment, Look!, Listen!。",
+   "know, like, want, love, have（擁有）等狀態動詞通常不用進行式。",
+   "高中會延伸到過去進行式、現在完成進行式，以及 when / while 引導的時間副詞子句。"
+  ],
+  "examples": [
+   {
+    "en": "My brother plays basketball every Saturday.",
+    "zh": "我弟弟每週六都打籃球。",
+    "hl": [
+     "plays"
+    ]
+   },
+   {
+    "en": "Be quiet! The baby is sleeping now.",
+    "zh": "小聲點！寶寶現在正在睡覺。",
+    "hl": [
+     "is sleeping"
+    ]
+   },
+   {
+    "en": "Water boils at 100 degrees Celsius.",
+    "zh": "水在攝氏一百度沸騰。",
+    "hl": [
+     "boils"
+    ]
+   }
+  ],
+  "tip": "狀態動詞不用進行式：I am knowing the answer. → I know the answer.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Mia usually ______ to school by bike.",
+    "o": [
+     "ride",
+     "rides",
+     "is riding",
+     "riding"
+    ],
+    "a": 1,
+    "ex": "usually 表習慣，主詞 Mia 是第三人稱單數，動詞用 rides。"
+   },
+   {
+    "type": "mc",
+    "s": "Listen! Someone ______ the piano in the music room.",
+    "o": [
+     "plays",
+     "play",
+     "is playing",
+     "to play"
+    ],
+    "a": 2,
+    "ex": "Listen! 提示動作正在進行，用 is playing。"
+   },
+   {
+    "type": "mc",
+    "s": "I ______ the answer to this question.",
+    "o": [
+     "know",
+     "am knowing",
+     "knowing",
+     "knows"
+    ],
+    "a": 0,
+    "ex": "know 是狀態動詞，不用進行式；主詞 I 搭配 know。"
+   },
+   {
+    "type": "mc",
+    "s": "The sun ______ in the east and sets in the west.",
+    "o": [
+     "rise",
+     "is rising",
+     "rises",
+     "rising"
+    ],
+    "a": 2,
+    "ex": "自然現象屬於事實，用現在簡單式，主詞 The sun 為單數，用 rises。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "He is go to the library every day.",
+     "He going to the library every day.",
+     "He goes to the library every day.",
+     "He go to the library every day."
+    ],
+    "a": 2,
+    "ex": "every day 表習慣，主詞 He 要用 goes；is go 和 going 都沒有正確的動詞形式，go 少了 -es。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "I am wanting a new bike for my birthday.",
+     "I wants a new bike for my birthday.",
+     "I am want a new bike for my birthday.",
+     "I want a new bike for my birthday."
+    ],
+    "a": 3,
+    "ex": "want 是狀態動詞，不用進行式；主詞 I 時 want 不加 s。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G0-J02-1",
+  "b": 0,
+  "l": "J02",
+  "title": "過去式與現在完成式",
+  "formula": "V-ed（過去）　／　have・has + p.p.",
+  "points": [
+   "過去簡單式用於已結束的過去時間，常搭配 yesterday, last week, in 2020, two days ago。",
+   "現在完成式連結過去與現在：經驗（ever, never, before）、完成（already, yet, just）、持續（for, since）。",
+   "現在完成式不能和明確的過去時間（yesterday, last year, ago）連用。",
+   "高中會延伸到過去完成式 had + p.p. 與現在完成進行式 have been V-ing。"
+  ],
+  "examples": [
+   {
+    "en": "We visited the science museum last month.",
+    "zh": "我們上個月參觀了科學博物館。",
+    "hl": [
+     "visited"
+    ]
+   },
+   {
+    "en": "I have lived in this town for ten years.",
+    "zh": "我在這個鎮上住了十年。",
+    "hl": [
+     "have lived"
+    ]
+   },
+   {
+    "en": "Have you ever tried Taiwanese shaved ice?",
+    "zh": "你吃過台灣的剉冰嗎？",
+    "hl": [
+     "Have you ever tried"
+    ]
+   }
+  ],
+  "tip": "I have seen him yesterday. → I saw him yesterday.（有 yesterday 就用過去式）",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Ken ______ in Taipei since he was a baby.",
+    "o": [
+     "lives",
+     "lived",
+     "has lived",
+     "is living"
+    ],
+    "a": 2,
+    "ex": "since 引導「從過去到現在」的持續，主要子句用現在完成式 has lived。"
+   },
+   {
+    "type": "mc",
+    "s": "We ______ the movie yesterday, and it was great.",
+    "o": [
+     "have seen",
+     "saw",
+     "see",
+     "have saw"
+    ],
+    "a": 1,
+    "ex": "yesterday 是明確的過去時間，用過去式 saw。"
+   },
+   {
+    "type": "mc",
+    "s": "Tina hasn't finished her homework ______.",
+    "o": [
+     "yesterday",
+     "ago",
+     "yet",
+     "last night"
+    ],
+    "a": 2,
+    "ex": "現在完成式的否定句句尾常搭配 yet；其他選項是明確的過去時間。"
+   },
+   {
+    "type": "mc",
+    "s": "How long have you ______ this phone?",
+    "o": [
+     "have",
+     "had",
+     "having",
+     "has"
+    ],
+    "a": 1,
+    "ex": "have + p.p.，have 的過去分詞是 had。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "She has lost her key last night.",
+     "She has lose her key last night.",
+     "She lost her key last night.",
+     "She losing her key last night."
+    ],
+    "a": 2,
+    "ex": "last night 是明確的過去時間，要用過去式 lost，不能用現在完成式。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "I have known Amy since five years.",
+     "I have known Amy for five years.",
+     "I knew Amy for five years now.",
+     "I know Amy for five years."
+    ],
+    "a": 1,
+    "ex": "for + 一段時間，搭配現在完成式；since 後面要接起點時間，不是一段時間。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G0-J03-1",
+  "b": 0,
+  "l": "J03",
+  "title": "未來式 will 與 be going to",
+  "formula": "will + VR　／　am・is・are going to + VR",
+  "points": [
+   "will 表臨時決定、預測或承諾；be going to 表事先已有的計畫，或根據現在跡象判斷即將發生。",
+   "will 後面接原形動詞，所有主詞都用 will；be going to 的 be 要依主詞變化。",
+   "兩者後面的動詞都用原形，不能加 -s、-ing 或 to。",
+   "高中會延伸到「時間／條件副詞子句用現在式代替未來式」，如 When he arrives, I will call you."
+  ],
+  "examples": [
+   {
+    "en": "I am going to visit my grandparents this weekend.",
+    "zh": "我這個週末打算去探望祖父母。",
+    "hl": [
+     "am going to visit"
+    ]
+   },
+   {
+    "en": "The phone is ringing. I will answer it.",
+    "zh": "電話在響，我來接。",
+    "hl": [
+     "will answer"
+    ]
+   },
+   {
+    "en": "Look at the dark clouds. It is going to rain soon.",
+    "zh": "看那些烏雲，快要下雨了。",
+    "hl": [
+     "is going to rain"
+    ]
+   }
+  ],
+  "tip": "He will goes to school. → He will go to school.（will 後接原形）",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Dad says he ______ us to the zoo next Sunday.",
+    "o": [
+     "will takes",
+     "will take",
+     "is going to takes",
+     "taking"
+    ],
+    "a": 1,
+    "ex": "will 與 be going to 後面都接原形動詞；will takes 和 going to takes 都錯了。"
+   },
+   {
+    "type": "mc",
+    "s": "A: This bag is too heavy for me.　B: Don't worry. I ______ help you.",
+    "o": [
+     "will",
+     "am",
+     "are",
+     "is going"
+    ],
+    "a": 0,
+    "ex": "臨時決定幫忙用 will + 原形；其他選項無法與 help 組成正確的未來式。"
+   },
+   {
+    "type": "mc",
+    "s": "Are you ______ join the school trip next month?",
+    "o": [
+     "going to",
+     "go to",
+     "will to",
+     "going"
+    ],
+    "a": 0,
+    "ex": "Are you going to + VR 是計畫的問法；will 後面不加 to。"
+   },
+   {
+    "type": "mc",
+    "s": "According to the weather report, tomorrow ______ a sunny day.",
+    "o": [
+     "will is",
+     "going to be",
+     "will be",
+     "is going"
+    ],
+    "a": 2,
+    "ex": "will + be 表預測；going to be 缺少 be 動詞，is going 缺少 to be。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "She will to go to the party tonight.",
+     "She will goes to the party tonight.",
+     "She will go to the party tonight.",
+     "She will going to the party tonight."
+    ],
+    "a": 2,
+    "ex": "will 後面直接接原形動詞 go，不加 to，也不加 -es 或 -ing。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "We are going to has a picnic on Sunday.",
+     "We going to have a picnic on Sunday.",
+     "We will to have a picnic on Sunday.",
+     "We are going to have a picnic on Sunday."
+    ],
+    "a": 3,
+    "ex": "be going to 後接原形 have；going to 前面不能漏掉 be 動詞。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G0-J04-1",
+  "b": 0,
+  "l": "J04",
+  "title": "被動語態",
+  "formula": "be + p.p.（+ by + 動作者）",
+  "points": [
+   "主詞是動作的承受者時用被動語態；動作者不重要或不明時，by + 動作者可以省略。",
+   "be 動詞依時態變化：is made, was built, will be held, has been done, must be finished。",
+   "不及物動詞（happen, arrive, die, rise）不能用被動語態。",
+   "高中會延伸到 get + p.p.、過去分詞片語（Built in 1998, the bridge …）與 be said to V 等句型。"
+  ],
+  "examples": [
+   {
+    "en": "This bridge was built in 1998.",
+    "zh": "這座橋是在一九九八年蓋的。",
+    "hl": [
+     "was built"
+    ]
+   },
+   {
+    "en": "English is spoken in many countries.",
+    "zh": "許多國家說英語。",
+    "hl": [
+     "is spoken"
+    ]
+   },
+   {
+    "en": "The school festival will be held next month.",
+    "zh": "校慶將在下個月舉行。",
+    "hl": [
+     "will be held"
+    ]
+   }
+  ],
+  "tip": "The accident was happened last night. → The accident happened last night.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The windows ______ by the students every Friday.",
+    "o": [
+     "clean",
+     "are cleaned",
+     "cleaned are",
+     "are cleaning"
+    ],
+    "a": 1,
+    "ex": "窗戶是被清理的對象，用被動語態 are cleaned。"
+   },
+   {
+    "type": "mc",
+    "s": "The movie ______ by a famous Taiwanese director last year.",
+    "o": [
+     "directed",
+     "is directed",
+     "was directed",
+     "was direct"
+    ],
+    "a": 2,
+    "ex": "last year 表過去，被動語態用 was + 過去分詞 directed。"
+   },
+   {
+    "type": "mc",
+    "s": "A strange thing ______ to me on my way home.",
+    "o": [
+     "was happened",
+     "happened",
+     "has been happened",
+     "is happened"
+    ],
+    "a": 1,
+    "ex": "happen 是不及物動詞，不能用被動語態，用 happened。"
+   },
+   {
+    "type": "mc",
+    "s": "The homework must ______ before Monday.",
+    "o": [
+     "finish",
+     "finished",
+     "be finished",
+     "be finishing"
+    ],
+    "a": 2,
+    "ex": "助動詞 must 後接被動 be + p.p.，作業是「被完成」。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The cake was eat by my brother.",
+     "The cake was ate by my brother.",
+     "The cake was eaten by my brother.",
+     "The cake eaten my brother."
+    ],
+    "a": 2,
+    "ex": "被動語態要用 be + 過去分詞，eat 的過去分詞是 eaten。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The letter will be sent tomorrow.",
+     "The letter will sent tomorrow.",
+     "The letter will be send tomorrow.",
+     "The letter is will be sent tomorrow."
+    ],
+    "a": 0,
+    "ex": "will be + p.p. 是未來被動；其他選項缺 be、用錯分詞或多了 is。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G0-J05-1",
+  "b": 0,
+  "l": "J05",
+  "title": "比較級與最高級",
+  "formula": "比較級 + than　／　the + 最高級 (+ of / in)",
+  "points": [
+   "一音節字尾加 -er / -est（tall → taller → tallest）；子音 + y 改 -ier / -iest；兩音節以上多用 more / most。",
+   "不規則變化：good → better → best，bad → worse → worst，many / much → more → most。",
+   "比較級前可用 much, a lot, even, far 加強，不可用 very；最高級前要加 the，後面用 of + 複數 或 in + 範圍。",
+   "高中會延伸到 the + 比較級, the + 比較級，以及 twice as … as 等倍數比較。"
+  ],
+  "examples": [
+   {
+    "en": "This math test was harder than the last one.",
+    "zh": "這次數學考試比上一次難。",
+    "hl": [
+     "harder than"
+    ]
+   },
+   {
+    "en": "Of all my friends, Amy is the most helpful.",
+    "zh": "在我所有朋友中，艾咪最樂於助人。",
+    "hl": [
+     "the most helpful"
+    ]
+   },
+   {
+    "en": "My new phone is much lighter than my old one.",
+    "zh": "我的新手機比舊的輕多了。",
+    "hl": [
+     "much lighter than"
+    ]
+   }
+  ],
+  "tip": "He is more taller than me. → He is taller than me.（不可雙重比較）；very taller → much taller",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Taipei 101 is ______ than any other building in Taiwan.",
+    "o": [
+     "tall",
+     "more tall",
+     "taller",
+     "the tallest"
+    ],
+    "a": 2,
+    "ex": "後面有 than，用比較級 taller。"
+   },
+   {
+    "type": "mc",
+    "s": "Mina is the ______ student in our class.",
+    "o": [
+     "smarter",
+     "smartest",
+     "most smart",
+     "more smartest"
+    ],
+    "a": 1,
+    "ex": "the 加上最高級；smart 是一音節，最高級為 smartest。"
+   },
+   {
+    "type": "mc",
+    "s": "This restaurant is ______ more expensive than that one.",
+    "o": [
+     "very",
+     "so",
+     "too",
+     "much"
+    ],
+    "a": 3,
+    "ex": "加強比較級用 much，不可用 very, so, too。"
+   },
+   {
+    "type": "mc",
+    "s": "My cooking is getting ______. I made a perfect cake today.",
+    "o": [
+     "good",
+     "well",
+     "the best",
+     "better"
+    ],
+    "a": 3,
+    "ex": "get + 比較級表示「越來越…」，good 的比較級是 better。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "He is more taller than his father.",
+     "He is the taller than his father.",
+     "He is tall than his father.",
+     "He is taller than his father."
+    ],
+    "a": 3,
+    "ex": "than 前面用比較級 taller；more taller 是雙重比較，the 不能和 than 連用。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "This is the more interesting book I have ever read.",
+     "This is the most interesting book I have ever read.",
+     "This is most interesting book I have ever read.",
+     "This is the interestingest book I have ever read."
+    ],
+    "a": 1,
+    "ex": "表示「最…」用 the most + 多音節形容詞；interesting 不加 -est。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G0-J06-1",
+  "b": 0,
+  "l": "J06",
+  "title": "不定詞 to V 與動名詞 V-ing",
+  "formula": "enjoy・finish・mind + V-ing　／　want・hope・decide + to V",
+  "points": [
+   "只接動名詞的動詞：enjoy, finish, mind, avoid, practice, keep, give up, consider。",
+   "只接不定詞的動詞：want, hope, decide, plan, learn, promise, agree, refuse, would like。",
+   "like, love, start, begin 兩者都可以；介系詞後面一律用 V-ing（be good at, look forward to, thank you for）。",
+   "高中會延伸到 forget / remember / stop + to V 與 + V-ing 意思不同。"
+  ],
+  "examples": [
+   {
+    "en": "She enjoys reading comic books after school.",
+    "zh": "她喜歡在放學後看漫畫。",
+    "hl": [
+     "enjoys reading"
+    ]
+   },
+   {
+    "en": "We decided to take the early train.",
+    "zh": "我們決定搭早班火車。",
+    "hl": [
+     "decided to take"
+    ]
+   },
+   {
+    "en": "Thank you for helping me with my homework.",
+    "zh": "謝謝你幫我做功課。",
+    "hl": [
+     "for helping"
+    ]
+   }
+  ],
+  "tip": "I enjoy to swim. → I enjoy swimming.　I look forward to see you. → …to seeing you.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Would you mind ______ the door for me?",
+    "o": [
+     "open",
+     "to open",
+     "opening",
+     "opened"
+    ],
+    "a": 2,
+    "ex": "mind 後面接動名詞，用 opening。"
+   },
+   {
+    "type": "mc",
+    "s": "Jack hopes ______ a doctor in the future.",
+    "o": [
+     "becoming",
+     "to become",
+     "become",
+     "becomes"
+    ],
+    "a": 1,
+    "ex": "hope 後面接不定詞 to + VR。"
+   },
+   {
+    "type": "mc",
+    "s": "The students practiced ______ the song for two hours.",
+    "o": [
+     "singing",
+     "to sing",
+     "sing",
+     "sang"
+    ],
+    "a": 0,
+    "ex": "practice 後面接動名詞 singing。"
+   },
+   {
+    "type": "mc",
+    "s": "I'm looking forward to ______ you again soon.",
+    "o": [
+     "see",
+     "seeing",
+     "seen",
+     "to see"
+    ],
+    "a": 1,
+    "ex": "look forward to 的 to 是介系詞，後面接 V-ing。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "He refused to answer the question.",
+     "He refused answering the question.",
+     "He refused answer the question.",
+     "He refused answered the question."
+    ],
+    "a": 0,
+    "ex": "refuse 後面接不定詞 to V。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "She is good at to play tennis.",
+     "She is good at play tennis.",
+     "She is good at playing tennis.",
+     "She is good at played tennis."
+    ],
+    "a": 2,
+    "ex": "be good at 的 at 是介系詞，後面接 V-ing。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G0-J07-1",
+  "b": 0,
+  "l": "J07",
+  "title": "使役動詞 make / let / have",
+  "formula": "make・let・have + O + VR",
+  "points": [
+   "make 表「強迫、使」，let 表「讓、允許」，have 表「請、叫（某人做）」。",
+   "受詞後面接原形動詞，不加 to，也不加 -ing。",
+   "get + O + to V 的意思近似 have，但後面要加 to。",
+   "高中會延伸到被動 be made to V，以及 have / get + O + p.p.（have my hair cut）。"
+  ],
+  "examples": [
+   {
+    "en": "The teacher made us clean the classroom.",
+    "zh": "老師要我們打掃教室。",
+    "hl": [
+     "made us clean"
+    ]
+   },
+   {
+    "en": "My parents let me stay up late on weekends.",
+    "zh": "我父母週末讓我熬夜。",
+    "hl": [
+     "let me stay"
+    ]
+   },
+   {
+    "en": "I will have my brother fix my bike.",
+    "zh": "我會叫我哥哥修我的腳踏車。",
+    "hl": [
+     "have my brother fix"
+    ]
+   }
+  ],
+  "tip": "The story made me to cry. → The story made me cry.（make 的主動句不加 to）",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The sad movie made everyone ______.",
+    "o": [
+     "to cry",
+     "crying",
+     "cry",
+     "cried"
+    ],
+    "a": 2,
+    "ex": "make + O + VR，用原形 cry。"
+   },
+   {
+    "type": "mc",
+    "s": "Mom doesn't let my little sister ______ too much candy.",
+    "o": [
+     "eats",
+     "eat",
+     "to eat",
+     "eating"
+    ],
+    "a": 1,
+    "ex": "let + O + VR，所以用 eat。"
+   },
+   {
+    "type": "mc",
+    "s": "I'll have the waiter ______ you a menu.",
+    "o": [
+     "to bring",
+     "bringing",
+     "brings",
+     "bring"
+    ],
+    "a": 3,
+    "ex": "have + O + VR，用原形 bring。"
+   },
+   {
+    "type": "mc",
+    "s": "Please let me ______ you with the bags.",
+    "o": [
+     "help",
+     "to help",
+     "helping",
+     "helped"
+    ],
+    "a": 0,
+    "ex": "let + O + VR，用原形 help。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "My boss made him to work late.",
+     "My boss made him work late.",
+     "My boss made him working late.",
+     "My boss made him worked late."
+    ],
+    "a": 1,
+    "ex": "make + O + VR，work 前不加 to，也不用 -ing 或過去式。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The teacher let us to leave early.",
+     "The teacher let us leaving early.",
+     "The teacher let us left early.",
+     "The teacher let us leave early."
+    ],
+    "a": 3,
+    "ex": "let + O + VR，用原形 leave。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G0-J08-1",
+  "b": 0,
+  "l": "J08",
+  "title": "感官動詞與連綴動詞",
+  "formula": "see・hear・watch・feel + O + VR / V-ing　；　look・sound・smell + adj.",
+  "points": [
+   "感官動詞後接「受詞 + 原形動詞」表看到／聽到事情的全部經過；接 V-ing 表動作正在進行。",
+   "感官動詞後面的原形動詞不加 to。",
+   "look, sound, smell, taste, feel 當「看起來、聽起來…」時是連綴動詞，後面接形容詞，不接副詞。",
+   "高中會延伸到 see + O + p.p.（被動）以及被動語態 be seen to V。"
+  ],
+  "examples": [
+   {
+    "en": "I saw a boy cross the street by himself.",
+    "zh": "我看見一個男孩自己過馬路。",
+    "hl": [
+     "saw a boy cross"
+    ]
+   },
+   {
+    "en": "We heard someone singing in the next room.",
+    "zh": "我們聽到隔壁房間有人在唱歌。",
+    "hl": [
+     "heard someone singing"
+    ]
+   },
+   {
+    "en": "This soup smells delicious.",
+    "zh": "這碗湯聞起來很香。",
+    "hl": [
+     "smells delicious"
+    ]
+   }
+  ],
+  "tip": "I heard her to cry. → I heard her cry.　The soup smells well. → The soup smells good.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Tom watched the birds ______ in the sky.",
+    "o": [
+     "flew",
+     "to fly",
+     "fly",
+     "flies"
+    ],
+    "a": 2,
+    "ex": "watch + O + VR，用原形 fly。"
+   },
+   {
+    "type": "mc",
+    "s": "I felt something ______ up my arm, so I jumped.",
+    "o": [
+     "crawls",
+     "crawled",
+     "to crawl",
+     "crawling"
+    ],
+    "a": 3,
+    "ex": "感官動詞 + O + V-ing 表動作正在進行，用 crawling。"
+   },
+   {
+    "type": "mc",
+    "s": "The cake smells ______.",
+    "o": [
+     "sweetly",
+     "sweet",
+     "sweetness",
+     "sweeten"
+    ],
+    "a": 1,
+    "ex": "smell 是連綴動詞，後面接形容詞 sweet。"
+   },
+   {
+    "type": "mc",
+    "s": "We heard the old man ______ a story to the children.",
+    "o": [
+     "telling",
+     "told",
+     "tells",
+     "to tell"
+    ],
+    "a": 0,
+    "ex": "hear + O + V-ing，聽到他正在說故事。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "I saw her to enter the room.",
+     "I saw she enter the room.",
+     "I saw her entered the room.",
+     "I saw her enter the room."
+    ],
+    "a": 3,
+    "ex": "see + 受格 + 原形動詞；不加 to，受詞要用 her，也不用過去式。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The music sounds well.",
+     "The music sounds good.",
+     "The music sounds goodly.",
+     "The music sounds goodness."
+    ],
+    "a": 1,
+    "ex": "sound 是連綴動詞，後面接形容詞 good，不接副詞。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G0-J09-1",
+  "b": 0,
+  "l": "J09",
+  "title": "關係代名詞（限定用法）",
+  "formula": "N + who / which / that + V",
+  "points": [
+   "who 指人，which 指物，that 人與物都可以；關係代名詞引導的子句用來修飾前面的名詞。",
+   "關代當主詞時，後面直接接動詞，動詞單複數與先行詞一致；不可再重複放代名詞。",
+   "關代當受詞時可以省略（the book (that) I bought）。",
+   "高中會延伸到非限定用法（加逗號、不用 that）、whose、介系詞 + 關代，以及省略後變成分詞片語。"
+  ],
+  "examples": [
+   {
+    "en": "The girl who sits next to me is my cousin.",
+    "zh": "坐在我旁邊的女孩是我的表姊。",
+    "hl": [
+     "who sits"
+    ]
+   },
+   {
+    "en": "I like the shoes that you wore yesterday.",
+    "zh": "我喜歡你昨天穿的鞋子。",
+    "hl": [
+     "that you wore"
+    ]
+   },
+   {
+    "en": "This is the book which helped me a lot.",
+    "zh": "這是幫了我很多的那本書。",
+    "hl": [
+     "which helped"
+    ]
+   }
+  ],
+  "tip": "The man who he lives next door is a nurse. → The man who lives next door is a nurse.（who 已是主詞，不加 he）",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The boy ______ is standing there is my classmate.",
+    "o": [
+     "which",
+     "who",
+     "whom he",
+     "what"
+    ],
+    "a": 1,
+    "ex": "先行詞是人，關代當主詞，用 who。"
+   },
+   {
+    "type": "mc",
+    "s": "I lost the pen ______ my grandfather gave me.",
+    "o": [
+     "who",
+     "what",
+     "that",
+     "whose"
+    ],
+    "a": 2,
+    "ex": "先行詞是物，用 that（或 which）引導形容詞子句。"
+   },
+   {
+    "type": "mc",
+    "s": "The students ______ study hard usually get good grades.",
+    "o": [
+     "who",
+     "which",
+     "whose",
+     "what"
+    ],
+    "a": 0,
+    "ex": "先行詞是 students（人），主詞關代用 who。"
+   },
+   {
+    "type": "mc",
+    "s": "A dictionary is a book ______ tells you the meaning of words.",
+    "o": [
+     "who",
+     "that",
+     "what",
+     "it"
+    ],
+    "a": 1,
+    "ex": "先行詞是物，關代當主詞用 that；who 指人，it 不是關代。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The woman who teaches us English she is very kind.",
+     "The woman who teaches us English is very kind.",
+     "The woman which teaches us English is very kind.",
+     "The woman who teach us English is very kind."
+    ],
+    "a": 1,
+    "ex": "先行詞是人用 who；who 已是主詞，不重複 she，動詞 teaches 也要與單數 woman 一致。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "This is the cake who my mom made.",
+     "This is the cake what my mom made.",
+     "This is the cake that my mom made.",
+     "This is the cake it my mom made."
+    ],
+    "a": 2,
+    "ex": "先行詞是物，用 that 或 which；who 指人，what 不能修飾名詞，it 不是關代。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G0-J10-1",
+  "b": 0,
+  "l": "J10",
+  "title": "連接詞 because / although / so / but",
+  "formula": "because ... / although ... / so ... / so + adj + that ...",
+  "points": [
+   "because 表原因，so 表結果；兩者不能同時出現在同一句（Because ..., so ... 是錯的）。",
+   "although / though 表「雖然」，不能和 but 連用；中文「雖然…但是…」在英文只能擇一。",
+   "so + adj / adv + that 子句表「如此…以致於」；such + (a) + adj + 名詞 + that 子句。",
+   "高中會延伸到 so that 表目的、not only ... but also、whereas 與對等連接詞的用法。"
+  ],
+  "examples": [
+   {
+    "en": "We stayed home because it was raining heavily.",
+    "zh": "因為下大雨，所以我們待在家。",
+    "hl": [
+     "because it was raining"
+    ]
+   },
+   {
+    "en": "Although he was tired, he finished the report.",
+    "zh": "雖然他累了，他還是完成了報告。",
+    "hl": [
+     "Although he was tired"
+    ]
+   },
+   {
+    "en": "The soup was so hot that I couldn't drink it.",
+    "zh": "這碗湯太燙了，我沒辦法喝。",
+    "hl": [
+     "so hot that"
+    ]
+   }
+  ],
+  "tip": "Because it rained, so we stayed home. → 只留一個；Although he is young, but he is smart. → 刪掉 but",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "______ Ella studied hard, she failed the test.",
+    "o": [
+     "Because",
+     "So",
+     "Although",
+     "But"
+    ],
+    "a": 2,
+    "ex": "前後語意相反，用 Although 表「雖然」。"
+   },
+   {
+    "type": "mc",
+    "s": "I was ______ tired that I fell asleep on the bus.",
+    "o": [
+     "such",
+     "too",
+     "very",
+     "so"
+    ],
+    "a": 3,
+    "ex": "so + adj + that 表「如此…以致於」；such 後面要接名詞。"
+   },
+   {
+    "type": "mc",
+    "s": "We couldn't go hiking ______ the heavy rain.",
+    "o": [
+     "because",
+     "because of",
+     "so",
+     "although"
+    ],
+    "a": 1,
+    "ex": "後面是名詞片語 the heavy rain，要用 because of。"
+   },
+   {
+    "type": "mc",
+    "s": "It was ______ a good movie that we watched it twice.",
+    "o": [
+     "so",
+     "such",
+     "too",
+     "very"
+    ],
+    "a": 1,
+    "ex": "a good movie 是名詞片語，用 such a + adj + N + that。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Because he was sick, so he stayed in bed.",
+     "Because of he was sick, he stayed in bed.",
+     "Because he was sick, but he stayed in bed.",
+     "Because he was sick, he stayed in bed."
+    ],
+    "a": 3,
+    "ex": "Because 與 so 不能同時使用；because of 後面接名詞，不接子句；原因與結果不是轉折，不用 but。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Although the test was hard, but I passed it.",
+     "Although the test was hard, so I passed it.",
+     "Although the test hard, I passed it.",
+     "Although the test was hard, I passed it."
+    ],
+    "a": 3,
+    "ex": "Although 不與 but 或 so 連用；子句也需要 was。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G0-J11-1",
+  "b": 0,
+  "l": "J11",
+  "title": "附加問句",
+  "formula": "肯定句, 否定附加問句？　／　否定句, 肯定附加問句？",
+  "points": [
+   "前面是肯定句，附加問句用否定縮寫；前面是否定句，附加問句用肯定。",
+   "附加問句的助動詞依前句決定：be 動詞、助動詞照用，一般動詞依時態用 do / does / did；主詞要換成代名詞。",
+   "特殊形式：I am → aren't I?；Let's → shall we?；祈使句 → will you?；there is → isn't there?",
+   "高中的對話題與綜合測驗常用附加問句確認語氣，要熟悉各種助動詞。"
+  ],
+  "examples": [
+   {
+    "en": "You like pizza, don't you?",
+    "zh": "你喜歡披薩，對不對？",
+    "hl": [
+     "don't you"
+    ]
+   },
+   {
+    "en": "Your sister can't swim, can she?",
+    "zh": "你姊姊不會游泳，對嗎？",
+    "hl": [
+     "can she"
+    ]
+   },
+   {
+    "en": "Let's go to the park, shall we?",
+    "zh": "我們去公園好嗎？",
+    "hl": [
+     "shall we"
+    ]
+   }
+  ],
+  "tip": "She is smart, doesn't she? → She is smart, isn't she?（要依前面的動詞決定）",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Tom finished his homework, ______?",
+    "o": [
+     "did he",
+     "didn't he",
+     "doesn't he",
+     "wasn't he"
+    ],
+    "a": 1,
+    "ex": "前句是肯定的過去式，附加問句用否定 didn't he。"
+   },
+   {
+    "type": "mc",
+    "s": "You aren't busy now, ______?",
+    "o": [
+     "aren't you",
+     "are you",
+     "do you",
+     "don't you"
+    ],
+    "a": 1,
+    "ex": "前句是否定，附加問句用肯定；動詞是 be，所以用 are you。"
+   },
+   {
+    "type": "mc",
+    "s": "Open the window, ______?",
+    "o": [
+     "don't you",
+     "will you",
+     "are you",
+     "did you"
+    ],
+    "a": 1,
+    "ex": "祈使句的附加問句用 will you。"
+   },
+   {
+    "type": "mc",
+    "s": "I am your best friend, ______?",
+    "o": [
+     "am not I",
+     "amn't I",
+     "aren't I",
+     "isn't I"
+    ],
+    "a": 2,
+    "ex": "I am 的附加問句特殊，用 aren't I。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "She can swim, can she?",
+     "She can swim, can't she?",
+     "She can swim, doesn't she?",
+     "She can swim, isn't she?"
+    ],
+    "a": 1,
+    "ex": "前句是肯定，後面用否定；助動詞 can 要保留，用 can't she。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "They don't like math, don't they?",
+     "They don't like math, are they?",
+     "They don't like math, did they?",
+     "They don't like math, do they?"
+    ],
+    "a": 3,
+    "ex": "前句是否定現在式，附加問句用肯定 do they。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G0-J12-1",
+  "b": 0,
+  "l": "J12",
+  "title": "間接問句",
+  "formula": "wh- + S + V（不倒裝）",
+  "points": [
+   "問句放在另一個句子中，要改成直述句語序：wh- + 主詞 + 動詞，不再倒裝，也不加 do / does / did。",
+   "Where does he live? → I know where he lives.（動詞形式要隨主詞與時態調整）",
+   "yes / no 問句改成 if 或 whether 引導：Do you know if he is at home?",
+   "高中會延伸到 wh- 名詞子句當主詞、受詞、補語（What he said surprised me.）。"
+  ],
+  "examples": [
+   {
+    "en": "I don't know where she bought this bag.",
+    "zh": "我不知道她在哪裡買這個包包。",
+    "hl": [
+     "where she bought"
+    ]
+   },
+   {
+    "en": "Can you tell me what time the movie starts?",
+    "zh": "你可以告訴我電影幾點開始嗎？",
+    "hl": [
+     "what time the movie starts"
+    ]
+   },
+   {
+    "en": "Do you know if the library is open today?",
+    "zh": "你知道圖書館今天有沒有開嗎？",
+    "hl": [
+     "if the library is open"
+    ]
+   }
+  ],
+  "tip": "I don't know where is he. → I don't know where he is.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Could you tell me where ______?",
+    "o": [
+     "is the post office",
+     "the post office is",
+     "does the post office",
+     "the post office does"
+    ],
+    "a": 1,
+    "ex": "間接問句不倒裝，語序是 where + 主詞 + 動詞。"
+   },
+   {
+    "type": "mc",
+    "s": "I wonder what ______ for lunch.",
+    "o": [
+     "she wants",
+     "does she want",
+     "wants she",
+     "did she wants"
+    ],
+    "a": 0,
+    "ex": "間接問句用直述句語序，主詞 she 後接 wants，不加 does。"
+   },
+   {
+    "type": "mc",
+    "s": "I can't tell ______ it will rain tomorrow or not.",
+    "o": [
+     "whether",
+     "what",
+     "how",
+     "who"
+    ],
+    "a": 0,
+    "ex": "yes / no 的間接問句用 whether（或 if）；其他疑問詞語意不合。"
+   },
+   {
+    "type": "mc",
+    "s": "Do you remember how many students ______ in your class?",
+    "o": [
+     "are there",
+     "there are",
+     "do there",
+     "there do"
+    ],
+    "a": 1,
+    "ex": "間接問句不倒裝，用 there are，不用 are there。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "I don't know what is her name.",
+     "I don't know what her name is.",
+     "I don't know what does her name is.",
+     "I don't know what her name."
+    ],
+    "a": 1,
+    "ex": "間接問句的語序是 what + 主詞 + 動詞：what her name is。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Do you know when does the bus come?",
+     "Do you know when the bus does come?",
+     "Do you know when the bus comes?",
+     "Do you know when the bus coming?"
+    ],
+    "a": 2,
+    "ex": "間接問句中不能再加 does，動詞用 comes。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G0-J13-1",
+  "b": 0,
+  "l": "J13",
+  "title": "情緒形容詞 -ing 與 -ed",
+  "formula": "V-ing（令人…的）　／　V-ed（感到…的）",
+  "points": [
+   "-ing 形容詞說明事物的特性，表「令人感到…」：The movie is boring.",
+   "-ed 形容詞說明人的感受，表「感到…」：I am bored.",
+   "常見成對字：interesting / interested, boring / bored, exciting / excited, tiring / tired, surprising / surprised, confusing / confused。",
+   "高中會延伸到現在分詞與過去分詞的分詞片語（Excited by the news, she jumped for joy.）。"
+  ],
+  "examples": [
+   {
+    "en": "The movie was so boring that I almost fell asleep.",
+    "zh": "那部電影太無聊了，我差點睡著。",
+    "hl": [
+     "boring"
+    ]
+   },
+   {
+    "en": "I am interested in space travel.",
+    "zh": "我對太空旅行很有興趣。",
+    "hl": [
+     "interested in"
+    ]
+   },
+   {
+    "en": "The surprised students looked at the strange box.",
+    "zh": "驚訝的學生們看著那個奇怪的盒子。",
+    "hl": [
+     "surprised"
+    ]
+   }
+  ],
+  "tip": "I am boring. → I am bored.（I am boring 是「我這個人很無聊」）",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The roller coaster was really ______.",
+    "o": [
+     "excited",
+     "exciting",
+     "excite",
+     "excitement"
+    ],
+    "a": 1,
+    "ex": "主詞是事物，表「令人興奮的」，用 exciting。"
+   },
+   {
+    "type": "mc",
+    "s": "Lily felt ______ about the trip.",
+    "o": [
+     "excited",
+     "exciting",
+     "excite",
+     "to excite"
+    ],
+    "a": 0,
+    "ex": "主詞是人，表「感到興奮」，用 excited。"
+   },
+   {
+    "type": "mc",
+    "s": "The science show was ______, so all the kids watched it carefully.",
+    "o": [
+     "interested",
+     "interest",
+     "interests",
+     "interesting"
+    ],
+    "a": 3,
+    "ex": "節目讓人感興趣，用 interesting。"
+   },
+   {
+    "type": "mc",
+    "s": "I was ______ by the difficult math problem.",
+    "o": [
+     "confusing",
+     "confuse",
+     "confused",
+     "confusion"
+    ],
+    "a": 2,
+    "ex": "人感到困惑，用 confused。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "My father was tiring after work.",
+     "My father was tired after work.",
+     "My father was tire after work.",
+     "My father was tiredly after work."
+    ],
+    "a": 1,
+    "ex": "人感到疲倦，用 tired；tiring 表「使人疲累的」。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "This book is very interested.",
+     "I am very interesting in this book.",
+     "This book is very interesting.",
+     "This book is very interest."
+    ],
+    "a": 2,
+    "ex": "書是令人感興趣的，用 interesting；人才用 interested，且要說 be interested in。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G0-J14-1",
+  "b": 0,
+  "l": "J14",
+  "title": "可數與不可數名詞及數量詞",
+  "formula": "many / a few / few + 複數　；　much / a little / little + 不可數",
+  "points": [
+   "可數名詞有單複數；不可數名詞（water, milk, money, advice, homework, news, furniture）不加 -s，也不加 a / an，動詞用單數。",
+   "many, a few, few 接可數複數；much, a little, little 接不可數；a lot of 兩者皆可。",
+   "a few / a little 表「一些」；few / little 表「幾乎沒有」，語氣偏否定。",
+   "不可數名詞用 a piece of, a cup of, a bottle of 計算。高中會延伸到 the number of / a number of 等動詞一致問題。"
+  ],
+  "examples": [
+   {
+    "en": "There are a few chairs in the room.",
+    "zh": "房間裡有幾張椅子。",
+    "hl": [
+     "a few chairs"
+    ]
+   },
+   {
+    "en": "I don't have much time this afternoon.",
+    "zh": "我今天下午沒有很多時間。",
+    "hl": [
+     "much time"
+    ]
+   },
+   {
+    "en": "She gave me a piece of useful advice.",
+    "zh": "她給了我一個有用的建議。",
+    "hl": [
+     "a piece of useful advice"
+    ]
+   }
+  ],
+  "tip": "informations, advices, homeworks 都錯；a few water → a little water",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "How ______ money do you need for the trip?",
+    "o": [
+     "many",
+     "much",
+     "few",
+     "a few"
+    ],
+    "a": 1,
+    "ex": "money 是不可數名詞，問數量用 how much。"
+   },
+   {
+    "type": "mc",
+    "s": "There are ______ students in the library, so it is quiet.",
+    "o": [
+     "a little",
+     "little",
+     "few",
+     "much"
+    ],
+    "a": 2,
+    "ex": "students 是可數複數，few 表「幾乎沒有」，符合很安靜的語意。"
+   },
+   {
+    "type": "mc",
+    "s": "The teacher gave us a lot of ______ today.",
+    "o": [
+     "homeworks",
+     "homework",
+     "a homework",
+     "homeworks are"
+    ],
+    "a": 1,
+    "ex": "homework 是不可數名詞，不加 s，也不加 a。"
+   },
+   {
+    "type": "mc",
+    "s": "Could I have ______ milk in my tea, please?",
+    "o": [
+     "a few",
+     "many",
+     "a little",
+     "few"
+    ],
+    "a": 2,
+    "ex": "milk 不可數，「一點點」用 a little。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "She gave me many good advices.",
+     "She gave me a lot of good advice.",
+     "She gave me a good advices.",
+     "She gave me much good advices."
+    ],
+    "a": 1,
+    "ex": "advice 是不可數名詞，不加 s，可用 a lot of 修飾。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The news are very surprising.",
+     "There is a few water in the bottle.",
+     "I need a little help with this problem.",
+     "How many time do you have?"
+    ],
+    "a": 2,
+    "ex": "help 是不可數，a little help 正確；news 視為單數，water 用 a little，time 不可數要用 how much。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G0-J15-1",
+  "b": 0,
+  "l": "J15",
+  "title": "if 條件句（真實條件）",
+  "formula": "If + 現在式, S + will + VR",
+  "points": [
+   "表示未來有可能發生的事：if 子句用現在簡單式，不可用 will。",
+   "主要子句常用 will + VR，也可用 can, may 或祈使句。",
+   "unless = if ... not：You will be late unless you hurry up. = If you don't hurry up, ...",
+   "高中會延伸到與現在事實相反的假設語氣（If I were you, I would …）及 if 與 whether 的差別。"
+  ],
+  "examples": [
+   {
+    "en": "If it rains tomorrow, we will stay at home.",
+    "zh": "如果明天下雨，我們就待在家。",
+    "hl": [
+     "If it rains",
+     "will stay"
+    ]
+   },
+   {
+    "en": "If you study hard, you can pass the exam.",
+    "zh": "如果你用功讀書，就能通過考試。",
+    "hl": [
+     "If you study"
+    ]
+   },
+   {
+    "en": "You will be late unless you hurry up.",
+    "zh": "你如果不快點就會遲到。",
+    "hl": [
+     "unless you hurry up"
+    ]
+   }
+  ],
+  "tip": "If it will rain tomorrow, ... → If it rains tomorrow, ...；unless 已含否定，不再加 not",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "If the weather ______ good tomorrow, we will go camping.",
+    "o": [
+     "is",
+     "will be",
+     "would be",
+     "was"
+    ],
+    "a": 0,
+    "ex": "if 子句表未來，用現在式 is，不用 will be。"
+   },
+   {
+    "type": "mc",
+    "s": "If you ______ me your email, I will send you the photos.",
+    "o": [
+     "will tell",
+     "tell",
+     "told",
+     "telling"
+    ],
+    "a": 1,
+    "ex": "if 子句用現在簡單式 tell。"
+   },
+   {
+    "type": "mc",
+    "s": "You won't pass the test ______ you study harder.",
+    "o": [
+     "because",
+     "if",
+     "unless",
+     "so"
+    ],
+    "a": 2,
+    "ex": "unless 表「除非」，等於 if you don't study harder。"
+   },
+   {
+    "type": "mc",
+    "s": "If Sam ______ late again, the teacher will be angry.",
+    "o": [
+     "will come",
+     "comes",
+     "come",
+     "coming"
+    ],
+    "a": 1,
+    "ex": "if 子句用現在式，Sam 是第三人稱單數，用 comes。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "If I will have time, I will help you.",
+     "If I have time, I will help you.",
+     "If I have time, I help will you.",
+     "If I had time, I will help you."
+    ],
+    "a": 1,
+    "ex": "if 子句不用 will，主要子句用 will + VR；其餘選項時態或語序有誤。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "If it is sunny tomorrow, we going to the beach.",
+     "Unless you don't hurry, you will miss the bus.",
+     "If you will help me, I will be happy.",
+     "If you leave now, you will catch the bus."
+    ],
+    "a": 3,
+    "ex": "if 子句用現在式，主要句用 will；其他選項分別缺少助動詞、unless 後多了 not、if 子句用 will。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G0-J16-1",
+  "b": 0,
+  "l": "J16",
+  "title": "too ... to 與 enough to",
+  "formula": "too + adj + to V　／　adj + enough + to V",
+  "points": [
+   "too + adj + to V 表「太…而不能…」，本身已有否定意義，不再加 not。",
+   "adj / adv + enough + to V 表「夠…可以…」；enough 放在形容詞或副詞後面（old enough），修飾名詞時放前面（enough money）。",
+   "要說出做事的人時，用 for + 受詞：too heavy for me to carry。",
+   "高中會延伸到 so ... that / such ... that，以及 in order to / so as to 表目的。"
+  ],
+  "examples": [
+   {
+    "en": "The box is too heavy for me to carry.",
+    "zh": "這個箱子太重，我搬不動。",
+    "hl": [
+     "too heavy for me to carry"
+    ]
+   },
+   {
+    "en": "She is old enough to travel by herself.",
+    "zh": "她夠大了，可以自己旅行。",
+    "hl": [
+     "old enough to travel"
+    ]
+   },
+   {
+    "en": "It was too late to catch the last train.",
+    "zh": "太晚了，趕不上末班車。",
+    "hl": [
+     "too late to catch"
+    ]
+   }
+  ],
+  "tip": "He is too tired to not walk. → He is too tired to walk.；enough old → old enough",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The soup is ______ hot to drink right now.",
+    "o": [
+     "very",
+     "so",
+     "too",
+     "enough"
+    ],
+    "a": 2,
+    "ex": "too + adj + to V 表「太…而不能」；其他選項無法搭配 to drink。"
+   },
+   {
+    "type": "mc",
+    "s": "Mark is tall ______ to reach the top shelf.",
+    "o": [
+     "enough",
+     "too",
+     "so",
+     "very"
+    ],
+    "a": 0,
+    "ex": "adj + enough + to V 表「夠…可以」，enough 放在形容詞 tall 後面。"
+   },
+   {
+    "type": "mc",
+    "s": "The question was too difficult ______ answer.",
+    "o": [
+     "me to",
+     "for me to",
+     "for I to",
+     "I to"
+    ],
+    "a": 1,
+    "ex": "too + adj + for + 受格 + to V；受格是 me，且前面要有 for。"
+   },
+   {
+    "type": "mc",
+    "s": "We don't have ______ money to buy a new car.",
+    "o": [
+     "so",
+     "too",
+     "as",
+     "enough"
+    ],
+    "a": 3,
+    "ex": "enough + 名詞 + to V 表「足夠的…可以…」。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "He is too young to not drive a car.",
+     "He is too young for drive a car.",
+     "He is too young to drive a car.",
+     "He is young too to drive a car."
+    ],
+    "a": 2,
+    "ex": "too ... to V 本身已含否定，不加 not，to 後直接接原形動詞，too 放在形容詞前。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The room is enough big to hold fifty people.",
+     "The room is big enough to hold fifty people.",
+     "The room is big enough holding fifty people.",
+     "The room is big enough hold fifty people."
+    ],
+    "a": 1,
+    "ex": "enough 放在形容詞後面，後接 to + 原形動詞。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G1-L01-1",
+  "b": 1,
+  "l": "L01",
+  "title": "that 引導的名詞子句",
+  "formula": "S + V + that + S + V",
+  "points": [
+   "that 引導名詞子句，在句中當 think、know、find、realize 等動詞的受詞。",
+   "形容詞（glad, sure, afraid, worried）後面也可接 that 子句，說明情緒或判斷的內容。",
+   "that 本身沒有意義，也不是子句的成分；that 之後必須是完整的「主詞＋動詞」。",
+   "作受詞時 that 常可省略，但保留會讓句子結構更清楚。"
+  ],
+  "examples": [
+   {
+    "en": "My teacher says that we should read more English stories.",
+    "zh": "我的老師說我們應該多讀英文故事。",
+    "hl": [
+     "that we should read more English stories"
+    ]
+   },
+   {
+    "en": "I am glad that you can join our school trip.",
+    "zh": "你能參加我們的校外教學，我很高興。",
+    "hl": [
+     "that you can join our school trip"
+    ]
+   },
+   {
+    "en": "We soon found that the lake was too cold for swimming.",
+    "zh": "我們很快發現湖水冷得不能游泳。",
+    "hl": [
+     "that the lake was too cold for swimming"
+    ]
+   }
+  ],
+  "tip": "that 之後要接完整子句；若子句缺少主詞或受詞才用 what。✗ I know that he wants. ✓ I know that he wants it. / I know what he wants.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Mia was surprised ______ her brother had cooked dinner for the whole family.",
+    "o": [
+     "what",
+     "which",
+     "where",
+     "that"
+    ],
+    "a": 3,
+    "ex": "surprised 後接完整子句說明驚訝的內容，用 that 引導；what、which、where 都不適合連接這個完整子句。"
+   },
+   {
+    "type": "mc",
+    "s": "The doctor told us ______ we should drink more water in hot weather.",
+    "o": [
+     "what",
+     "it",
+     "that",
+     "which"
+    ],
+    "a": 2,
+    "ex": "told us 後面要接完整的名詞子句，用 that 引導；子句內 drink 已有受詞 water，不能用 what。"
+   },
+   {
+    "type": "mc",
+    "s": "I believe ______ honesty is the best policy in any friendship.",
+    "o": [
+     "that",
+     "what",
+     "how",
+     "of"
+    ],
+    "a": 0,
+    "ex": "believe 後接 that 名詞子句；honesty is the best policy 是完整句，不需要 what 或 how。"
+   },
+   {
+    "type": "mc",
+    "s": "It is clear ______ the team needs more time to practice before the contest.",
+    "o": [
+     "what",
+     "that",
+     "which",
+     "this"
+    ],
+    "a": 1,
+    "ex": "形容詞 clear 後面的內容是完整子句，用 that 引導。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "She hopes what her son will pass the exam.",
+     "He said that he was too tired to join us.",
+     "I am sure that to win the game.",
+     "It is true what he can sing well."
+    ],
+    "a": 1,
+    "ex": "B 的 that 後面接完整子句。A 不能用 what；C 的 that 後面不能接不定詞；D 應該用 that 而不是 what。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "I'm afraid of that I will be late.",
+     "I'm afraid that will I be late.",
+     "I'm afraid what I will be late.",
+     "I'm afraid that I will be late."
+    ],
+    "a": 3,
+    "ex": "名詞子句不倒裝，且 afraid 後直接接 that，不加 of；what 也不能引導完整子句。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G1-L02-1",
+  "b": 1,
+  "l": "L02",
+  "title": "虛主詞 It 與不定詞片語",
+  "formula": "It + be + adj + (for/of + O) + to V",
+  "points": [
+   "當主詞是一長串的不定詞片語時，常用虛主詞 it 放句首，真正的主詞 to V 放句尾。",
+   "for + 受詞 表示動作的執行者，放在形容詞與 to V 之間。",
+   "形容詞若描述人的個性或品行（kind, nice, rude, polite, careless），要用 of，而不是 for。",
+   "描述事情難易、重要、必要（easy, hard, necessary, important）的形容詞，則搭配 for。"
+  ],
+  "examples": [
+   {
+    "en": "It is important for students to get enough sleep.",
+    "zh": "學生獲得足夠的睡眠很重要。",
+    "hl": [
+     "It is important for students to get"
+    ]
+   },
+   {
+    "en": "It was kind of the stranger to show us the way.",
+    "zh": "那位陌生人好心地為我們指路。",
+    "hl": [
+     "It was kind of the stranger to show"
+    ]
+   },
+   {
+    "en": "It is not easy to learn a new language in a month.",
+    "zh": "一個月內學會一種新語言並不容易。",
+    "hl": [
+     "It is not easy to learn"
+    ]
+   }
+  ],
+  "tip": "形容詞描述人的品格用 of，描述事情用 for。✗ It is kind for you to help. ✓ It is kind of you to help.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "It is not easy ______ a good habit in just one week.",
+    "o": [
+     "to build",
+     "building",
+     "build",
+     "built"
+    ],
+    "a": 0,
+    "ex": "It is + adj + to V，真主詞用不定詞 to build。"
+   },
+   {
+    "type": "mc",
+    "s": "It is necessary ______ all students to wear helmets when riding bikes.",
+    "o": [
+     "of",
+     "to",
+     "for",
+     "with"
+    ],
+    "a": 2,
+    "ex": "necessary 描述事情的必要性，動作執行者前用 for。"
+   },
+   {
+    "type": "mc",
+    "s": "It was very polite ______ Tom to give his seat to the old lady.",
+    "o": [
+     "for",
+     "of",
+     "to",
+     "with"
+    ],
+    "a": 1,
+    "ex": "polite 是描述人品行的形容詞，故用 of Tom。"
+   },
+   {
+    "type": "mc",
+    "s": "______ is difficult for me to wake up before six o'clock.",
+    "o": [
+     "This",
+     "That",
+     "It",
+     "There"
+    ],
+    "a": 2,
+    "ex": "空格要放虛主詞 it，真主詞是後面的 to wake up。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "It is hard for me understand this poem.",
+     "Is hard for me to understand this poem.",
+     "It is hard for me to understand this poem.",
+     "It is hard of me to understand this poem."
+    ],
+    "a": 2,
+    "ex": "A 缺少 to；B 缺少虛主詞 It；D 的 hard 描述事情難易，應用 for 而非 of。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "It is nice for you bring me lunch.",
+     "It is nice of you bring me lunch.",
+     "It is nice you of to bring me lunch.",
+     "It is nice of you to bring me lunch."
+    ],
+    "a": 3,
+    "ex": "稱讚人的形容詞（nice、kind）用 It is + adj. + of + 人 + to V；to 不可省略，for 也不能用在這裡。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G1-L03-1",
+  "b": 1,
+  "l": "L03",
+  "title": "間接問句",
+  "formula": "S + V + wh-word + S + V",
+  "points": [
+   "把疑問句放進另一個句子中，就成為間接問句，在句中當名詞子句（常作受詞）。",
+   "間接問句要用「疑問詞＋主詞＋動詞」的肯定句語序，不倒裝，也不再加 do/does/did。",
+   "沒有疑問詞的 Yes/No 問句，要改用 if 或 whether 引導。",
+   "原本的 did 拿掉後，動詞要還原成過去式：What did he say? → I know what he said."
+  ],
+  "examples": [
+   {
+    "en": "Do you know where the school library is?",
+    "zh": "你知道學校圖書館在哪裡嗎？",
+    "hl": [
+     "where the school library is"
+    ]
+   },
+   {
+    "en": "I can't remember what time the movie starts.",
+    "zh": "我不記得電影幾點開始。",
+    "hl": [
+     "what time the movie starts"
+    ]
+   },
+   {
+    "en": "Please tell me whether you will come to the party.",
+    "zh": "請告訴我你是否會來派對。",
+    "hl": [
+     "whether you will come"
+    ]
+   }
+  ],
+  "tip": "✗ I don't know where is the post office. ✓ I don't know where the post office is. 也別加助動詞：✗ Do you know what did he say? ✓ Do you know what he said?",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Can you tell me ______ the nearest bookstore is?",
+    "o": [
+     "where",
+     "where is",
+     "is where",
+     "where does"
+    ],
+    "a": 0,
+    "ex": "間接問句語序為「疑問詞＋主詞＋動詞」，所以是 where the nearest bookstore is。"
+   },
+   {
+    "type": "mc",
+    "s": "Nobody knows why ______ the meeting yesterday.",
+    "o": [
+     "did Tina miss",
+     "Tina missed",
+     "does Tina miss",
+     "Tina miss"
+    ],
+    "a": 1,
+    "ex": "間接問句不加助動詞 did，動詞改回過去式 missed。"
+   },
+   {
+    "type": "mc",
+    "s": "Do you know ______ the museum opens on Mondays?",
+    "o": [
+     "what",
+     "which",
+     "whether",
+     "where"
+    ],
+    "a": 2,
+    "ex": "原問句是 Yes/No 問句，應用 whether 引導，意思是「是否」。"
+   },
+   {
+    "type": "mc",
+    "s": "Let me ask him how many books ______ to the library.",
+    "o": [
+     "he returned",
+     "did he return",
+     "has he returned",
+     "does he return"
+    ],
+    "a": 0,
+    "ex": "how many books 之後接主詞＋動詞，用過去式 he returned，不倒裝。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "I wonder how much does this jacket cost.",
+     "Tell me what do you want for lunch.",
+     "She asked me where I had bought the bag.",
+     "Do you know who is that girl?"
+    ],
+    "a": 2,
+    "ex": "C 語序正確。A、B、D 都把疑問句的倒裝或助動詞帶進了名詞子句。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Could you tell me when does the train leave?",
+     "Could you tell me when the train leaves?",
+     "Could you tell me when did the train leave?",
+     "Could you tell me when leaves the train?"
+    ],
+    "a": 1,
+    "ex": "間接問句要把 the train leaves 放在 when 之後，不倒裝、不用 does/did。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G1-L04-1",
+  "b": 1,
+  "l": "L04",
+  "title": "關係代名詞與形容詞子句",
+  "formula": "N + who/which/that + V；N, who/which + V",
+  "points": [
+   "關係代名詞引導形容詞子句修飾前面的名詞（先行詞）：人用 who/that，物用 which/that，所有格用 whose。",
+   "限定用法（不加逗號）用來指出是哪一個人或物，沒有它句意就不完整。",
+   "非限定用法（加逗號）只是補充說明，不可用 that，受格關代也不可省略。",
+   "關代在子句中已代替了名詞，不可再重複主詞或受詞。"
+  ],
+  "examples": [
+   {
+    "en": "The boy who sits next to me is good at math.",
+    "zh": "坐在我旁邊的那個男孩數學很好。",
+    "hl": [
+     "who sits next to me"
+    ]
+   },
+   {
+    "en": "The book that I borrowed from the library is very funny.",
+    "zh": "我從圖書館借來的那本書很好笑。",
+    "hl": [
+     "that I borrowed from the library"
+    ]
+   },
+   {
+    "en": "My grandmother, who lives in Tainan, makes delicious rice cakes.",
+    "zh": "我住在台南的外婆會做美味的年糕。",
+    "hl": [
+     "who lives in Tainan"
+    ]
+   }
+  ],
+  "tip": "非限定用法不能用 that：✗ My bike, that is red, is new. ✓ My bike, which is red, is new. 也不要重複代名詞：✗ the man who he lives next door.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The girl ______ won the singing contest is my cousin.",
+    "o": [
+     "which",
+     "who",
+     "whom",
+     "what"
+    ],
+    "a": 1,
+    "ex": "先行詞是人且在子句中作主詞，用 who。"
+   },
+   {
+    "type": "mc",
+    "s": "I lost the umbrella ______ my aunt gave me last week.",
+    "o": [
+     "who",
+     "what",
+     "that",
+     "whose"
+    ],
+    "a": 2,
+    "ex": "先行詞是物，關代作 gave 的受詞，用 that。"
+   },
+   {
+    "type": "mc",
+    "s": "Mr. Lin, ______ teaches us history, is very funny.",
+    "o": [
+     "who",
+     "that",
+     "which",
+     "what"
+    ],
+    "a": 0,
+    "ex": "有逗號的非限定用法不能用 that；先行詞是人，用 who。"
+   },
+   {
+    "type": "mc",
+    "s": "I have a friend ______ father is a famous chef.",
+    "o": [
+     "who",
+     "that",
+     "whom",
+     "whose"
+    ],
+    "a": 3,
+    "ex": "空格後的 father 是「朋友的爸爸」，需要所有格 whose。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The man who he sits there is my uncle.",
+     "The pen which I bought it is blue.",
+     "The movie that we watched yesterday was great.",
+     "The student whose he lost the bag is crying."
+    ],
+    "a": 2,
+    "ex": "C 正確。A、B、D 在關代之後又重複了代名詞，重複了子句中的主詞或受詞。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "My dog, that is only two years old, loves swimming.",
+     "My dog, what is only two years old, loves swimming.",
+     "My dog which, is only two years old, loves swimming.",
+     "My dog, which is only two years old, loves swimming."
+    ],
+    "a": 3,
+    "ex": "補充說明用有逗號的 which；that 與 what 都不能用在非限定用法，逗號位置也要在 which 之前。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G1-L05-1",
+  "b": 1,
+  "l": "L05",
+  "title": "使役動詞 have / make",
+  "formula": "have/make + O + V（原形）",
+  "points": [
+   "使役動詞表示「使、讓某人做某事」，受詞後面接原形動詞，不加 to。",
+   "have 的語氣平和，常表示請求或安排某人去做事。",
+   "make 帶有強迫或「使產生某種結果」的意味。",
+   "make 變成被動語態時，to 要補回來：We were made to clean the room."
+  ],
+  "examples": [
+   {
+    "en": "The teacher had us line up outside the classroom.",
+    "zh": "老師請我們在教室外排隊。",
+    "hl": [
+     "had us line up"
+    ]
+   },
+   {
+    "en": "My little brother always makes me laugh.",
+    "zh": "我的弟弟總是讓我發笑。",
+    "hl": [
+     "makes me laugh"
+    ]
+   },
+   {
+    "en": "Mom made Ken clean his room before dinner.",
+    "zh": "媽媽要肯在晚餐前打掃房間。",
+    "hl": [
+     "made Ken clean"
+    ]
+   }
+  ],
+  "tip": "✗ The teacher made us to clean the room. ✓ The teacher made us clean the room. 但被動時要補 to：We were made to clean the room.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Our English teacher had us ______ a short speech every Friday.",
+    "o": [
+     "to give",
+     "giving",
+     "give",
+     "gave"
+    ],
+    "a": 2,
+    "ex": "have + O + 原形動詞，空格要填 give。"
+   },
+   {
+    "type": "mc",
+    "s": "The sad movie made several students ______ in the theater.",
+    "o": [
+     "to cry",
+     "cry",
+     "cried",
+     "cries"
+    ],
+    "a": 1,
+    "ex": "make + O + 原形動詞，不加 to。"
+   },
+   {
+    "type": "mc",
+    "s": "Dad made me ______ the dishes after I broke the cup.",
+    "o": [
+     "wash",
+     "to wash",
+     "washed",
+     "washing"
+    ],
+    "a": 0,
+    "ex": "make me 之後接原形動詞 wash。"
+   },
+   {
+    "type": "mc",
+    "s": "Please have the waiter ______ some more water to our table.",
+    "o": [
+     "bringing",
+     "to bring",
+     "brought",
+     "bring"
+    ],
+    "a": 3,
+    "ex": "have + O + 原形，waiter 與 bring 是主動關係。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "My mom made me to finish my homework.",
+     "My mom made me finishing my homework.",
+     "My mom made me finish my homework.",
+     "My mom made me finished my homework."
+    ],
+    "a": 2,
+    "ex": "made me 之後接原形動詞 finish；A 多了 to，B 用了 V-ing，D 用了過去式。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The coach had the players to run ten laps.",
+     "The coach had the players run ten laps.",
+     "The coach had the players ran ten laps.",
+     "The coach had the players runs ten laps."
+    ],
+    "a": 1,
+    "ex": "have + O + 原形，不加 to，也不加動詞變化。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G1-L06-1",
+  "b": 1,
+  "l": "L06",
+  "title": "強調句型 It is ... that",
+  "formula": "It is/was + 被強調部分 + that + ...",
+  "points": [
+   "強調句可強調主詞、受詞或時間、地點等副詞，被強調的部分夾在 It is/was 與 that 之間。",
+   "that 之後的部分是原句去掉被強調成分後的剩餘，時態要與原句一致。",
+   "強調人時 that 可換成 who；強調時間、地點副詞時仍用 that。",
+   "判斷方法：把 It is ... that 拿掉後，剩下的句子仍然完整，就是強調句。"
+  ],
+  "examples": [
+   {
+    "en": "It was Amy that broke the window yesterday.",
+    "zh": "昨天打破窗戶的是艾咪。",
+    "hl": [
+     "It was Amy that broke"
+    ]
+   },
+   {
+    "en": "It is in the library that I do my homework every day.",
+    "zh": "我每天是在圖書館寫作業的。",
+    "hl": [
+     "It is in the library that"
+    ]
+   },
+   {
+    "en": "It was last Sunday that we went hiking.",
+    "zh": "我們是上週日去健行的。",
+    "hl": [
+     "It was last Sunday that"
+    ]
+   }
+  ],
+  "tip": "強調句的 be 動詞時態要配合原句：✗ It is Tom that broke the vase last week. ✓ It was Tom that broke the vase last week. 也不可用 what 取代 that。",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "It was my brother ______ borrowed my bike without asking.",
+    "o": [
+     "what",
+     "whom",
+     "that",
+     "whose"
+    ],
+    "a": 2,
+    "ex": "強調句型 It was ... that，強調的是主詞 my brother。"
+   },
+   {
+    "type": "mc",
+    "s": "It is in the morning ______ I feel most energetic.",
+    "o": [
+     "that",
+     "what",
+     "who",
+     "whose"
+    ],
+    "a": 0,
+    "ex": "強調時間副詞 in the morning，用 that 連接。"
+   },
+   {
+    "type": "mc",
+    "s": "______ was at the school gate that we met our new teacher.",
+    "o": [
+     "There",
+     "It",
+     "This",
+     "That"
+    ],
+    "a": 1,
+    "ex": "強調句的句首要用 It。"
+   },
+   {
+    "type": "mc",
+    "s": "It ______ Lisa that won the first prize in last year's contest.",
+    "o": [
+     "was",
+     "is",
+     "were",
+     "being"
+    ],
+    "a": 0,
+    "ex": "原句時間是 last year，所以 be 動詞要用過去式 was。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "It was the red hat what I wanted to buy.",
+     "It was the red hat that I wanted to buy.",
+     "It the red hat was that I wanted to buy.",
+     "Was it the red hat that wanted I to buy."
+    ],
+    "a": 1,
+    "ex": "B 正確。A 用了 what；C 與 D 的語序混亂。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "It is yesterday that we cleaned the classroom.",
+     "It was yesterday we that cleaned the classroom.",
+     "It was yesterday that we cleaned the classroom.",
+     "It was yesterday that cleaned we the classroom."
+    ],
+    "a": 2,
+    "ex": "C 正確。A 的 is 與 yesterday 時態不符；B 的 we 放在 that 前面，語序錯誤；D 的 cleaned we 語序錯誤。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G1-L07-1",
+  "b": 1,
+  "l": "L07",
+  "title": "使役動詞 have + O + p.p.",
+  "formula": "have + O + p.p.",
+  "points": [
+   "表示「請人做某事」或「讓某事被完成」，受詞與動詞之間是被動關係，所以用過去分詞。",
+   "常見用法：have my hair cut、have the car repaired、have a tooth pulled。",
+   "也可表示遭遇不好的事：have my wallet stolen。",
+   "若受詞是主動去做動作的人，則用 have + O + 原形：have Tom fix my bike。"
+  ],
+  "examples": [
+   {
+    "en": "I had my bike repaired at the shop near school.",
+    "zh": "我請學校附近的店把腳踏車修好了。",
+    "hl": [
+     "had my bike repaired"
+    ]
+   },
+   {
+    "en": "Ella will have her photo taken for the school ID card.",
+    "zh": "艾拉會去拍學生證用的照片。",
+    "hl": [
+     "have her photo taken"
+    ]
+   },
+   {
+    "en": "Tom had his phone stolen on the crowded bus.",
+    "zh": "湯姆在擁擠的公車上被偷了手機。",
+    "hl": [
+     "had his phone stolen"
+    ]
+   }
+  ],
+  "tip": "受詞與動詞是被動關係才用 p.p.：have my bike repaired；是主動關係用原形：have Tom repair my bike。✗ I had my hair cut by myself（自己剪時不用此句型）。",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "I'm going to have my broken watch ______ tomorrow.",
+    "o": [
+     "fix",
+     "fixing",
+     "to fix",
+     "fixed"
+    ],
+    "a": 3,
+    "ex": "watch 是被修理的對象，用被動意義的過去分詞 fixed。"
+   },
+   {
+    "type": "mc",
+    "s": "Rita had her hair ______ at a new salon last weekend.",
+    "o": [
+     "dye",
+     "dyeing",
+     "dyed",
+     "to dye"
+    ],
+    "a": 2,
+    "ex": "hair 被染，是被動關係，用 p.p. dyed。"
+   },
+   {
+    "type": "mc",
+    "s": "We had the classroom ______ by the cleaners during the winter break.",
+    "o": [
+     "painted",
+     "paint",
+     "painting",
+     "to paint"
+    ],
+    "a": 0,
+    "ex": "classroom 是被油漆的對象，要用 painted。"
+   },
+   {
+    "type": "mc",
+    "s": "Mr. Chen had his car ______ while he was shopping in the mall.",
+    "o": [
+     "stealing",
+     "stolen",
+     "steal",
+     "stole"
+    ],
+    "a": 1,
+    "ex": "car 被偷，用 p.p. stolen；stole 是過去式，不可用在這個位置。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "I had my essay check by my teacher.",
+     "I had my essay checked by my teacher.",
+     "I had my essay checking by my teacher.",
+     "I had my essay to check by my teacher."
+    ],
+    "a": 1,
+    "ex": "essay 與 check 是被動關係，需用過去分詞 checked。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "She had her picture take at the park.",
+     "She had her picture taking at the park.",
+     "She had her picture to take at the park.",
+     "She had her picture taken at the park."
+    ],
+    "a": 3,
+    "ex": "have + O + p.p.，picture 是被拍的對象，用 taken。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G1-L08-1",
+  "b": 1,
+  "l": "L08",
+  "title": "愈…愈…（比較級句型）",
+  "formula": "The + 比較級 + S + V, the + 比較級 + S + V",
+  "points": [
+   "表示「愈…就愈…」，兩個比較級的前面各有一個 the。",
+   "前後兩個子句各有主詞與動詞，且前一個是條件或原因，後一個是結果。",
+   "形容詞或副詞的比較級依規則變化：hard → harder，多音節用 more。",
+   "口語中可以簡化，如 The sooner, the better.（愈快愈好）"
+  ],
+  "examples": [
+   {
+    "en": "The more you practice, the better you play.",
+    "zh": "你練習得愈多，就彈得愈好。",
+    "hl": [
+     "The more you practice, the better you play"
+    ]
+   },
+   {
+    "en": "The earlier we leave, the less traffic we will meet.",
+    "zh": "我們愈早出發，就會遇到愈少車潮。",
+    "hl": [
+     "The earlier we leave, the less traffic we will meet"
+    ]
+   },
+   {
+    "en": "The longer I waited, the more nervous I felt.",
+    "zh": "我等得愈久，就愈緊張。",
+    "hl": [
+     "The longer I waited, the more nervous I felt"
+    ]
+   }
+  ],
+  "tip": "✗ The more you read, more you learn. ✓ The more you read, the more you learn.（兩個 the 都不能少）；也不能用原級：✗ The hard you work, the better results you get.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The ______ you study, the better grades you will get.",
+    "o": [
+     "hard",
+     "harder",
+     "hardest",
+     "more hard"
+    ],
+    "a": 1,
+    "ex": "此句型要用比較級 harder，並且前面有 the。"
+   },
+   {
+    "type": "mc",
+    "s": "The more water you drink, ______ you will feel.",
+    "o": [
+     "the healthy",
+     "healthier",
+     "the healthier",
+     "more healthy"
+    ],
+    "a": 2,
+    "ex": "後半句也要有 the + 比較級，所以是 the healthier。"
+   },
+   {
+    "type": "mc",
+    "s": "The faster he ran, ______ his heart beat.",
+    "o": [
+     "the faster",
+     "faster",
+     "the fast",
+     "fastest"
+    ],
+    "a": 0,
+    "ex": "後半句要是 the + 比較級，不可省略 the。"
+   },
+   {
+    "type": "mc",
+    "s": "______ you practice the piano, the more smoothly you will play.",
+    "o": [
+     "Often",
+     "The most often",
+     "The often",
+     "The more often"
+    ],
+    "a": 3,
+    "ex": "前半句也要用 the + 比較級，所以是 The more often。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The more you eat, more you gain.",
+     "The more you eat, the more you gain.",
+     "More you eat, the more you gain.",
+     "The more you eat, the most you gain."
+    ],
+    "a": 1,
+    "ex": "兩個比較級前都要有 the，且不能用最高級 most。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The higher we climbed, the cold the air became.",
+     "The high we climbed, the colder the air became.",
+     "The higher we climbed, colder the air became.",
+     "The higher we climbed, the colder the air became."
+    ],
+    "a": 3,
+    "ex": "前後都要用 the + 比較級；A 的 cold 是原級，B 的 high 是原級，C 缺少 the。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G1-L09-1",
+  "b": 1,
+  "l": "L09",
+  "title": "分詞構句（表連續或附帶動作）",
+  "formula": "S + V, V-ing / p.p. ...",
+  "points": [
+   "分詞構句是把連接詞與重複的主詞省略後，改用分詞表示的句型；兩個動作的主詞必須相同。",
+   "放在句尾時，常表示接續發生的動作、結果，或附帶的情況。",
+   "主詞與分詞是主動關係用 V-ing；是被動或感受情緒的關係用 p.p.（amazed, bored）。",
+   "分詞前面不用 and，也不重複主詞。"
+  ],
+  "examples": [
+   {
+    "en": "Tim slipped on the wet floor, hurting his back.",
+    "zh": "提姆在濕地板上滑倒，傷到了背。",
+    "hl": [
+     "hurting his back"
+    ]
+   },
+   {
+    "en": "The boy sat alone in the corner, scared by the loud noise.",
+    "zh": "那男孩獨自坐在角落，被巨大的聲響嚇到了。",
+    "hl": [
+     "scared by the loud noise"
+    ]
+   },
+   {
+    "en": "Lily opened the window, letting fresh air into the room.",
+    "zh": "莉莉打開窗戶，讓新鮮空氣進到房間。",
+    "hl": [
+     "letting fresh air into the room"
+    ]
+   }
+  ],
+  "tip": "✗ He fell, and breaking his leg. ✓ He fell, breaking his leg. 感到…的情緒用 p.p.：surprised, excited, bored。",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The little girl dropped her ice cream, ______ loudly.",
+    "o": [
+     "cry",
+     "cried",
+     "crying",
+     "to cry"
+    ],
+    "a": 2,
+    "ex": "女孩與 cry 是主動關係，且接續發生，用 crying。"
+   },
+   {
+    "type": "mc",
+    "s": "Jack stood on the bridge, ______ by the beautiful sunset.",
+    "o": [
+     "amazing",
+     "amazed",
+     "amaze",
+     "to amaze"
+    ],
+    "a": 1,
+    "ex": "Jack 是被夕陽「驚艷」的人，用 p.p. amazed。"
+   },
+   {
+    "type": "mc",
+    "s": "The bus broke down on the highway, ______ us late for the concert.",
+    "o": [
+     "making",
+     "made",
+     "to make",
+     "make"
+    ],
+    "a": 0,
+    "ex": "前面整件事造成結果，用 V-ing 表示結果，making us late。"
+   },
+   {
+    "type": "mc",
+    "s": "Mary closed the book, ______ proud of herself.",
+    "o": [
+     "feel",
+     "felt",
+     "to feel",
+     "feeling"
+    ],
+    "a": 3,
+    "ex": "主詞相同、動作同時發生，用 V-ing feeling；不可再用 feel 或 felt 與前句連接。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "He opened the door, and walking into the room.",
+     "He opened the door, walking into the room.",
+     "He opened the door, walked into the room.",
+     "He opened the door, to walk into the room."
+    ],
+    "a": 1,
+    "ex": "分詞構句直接用 V-ing，不加 and；C 與 D 的動詞形式皆不符。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Tom sat on the sofa, boring by the long movie.",
+     "Tom sat on the sofa, bore by the long movie.",
+     "Tom sat on the sofa, bored by the long movie.",
+     "Tom sat on the sofa, being bore by the long movie."
+    ],
+    "a": 2,
+    "ex": "Tom 是感到無聊的人，用 p.p. bored，而不是 boring。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G2-L01-1",
+  "b": 2,
+  "l": "L01",
+  "title": "感官動詞＋受詞＋補語",
+  "formula": "S + see/hear/feel/watch/notice + O + VR/V-ing/p.p.",
+  "points": [
+   "感官動詞（see、watch、hear、feel、notice 等）後面可接「受詞＋補語」，描述感官感受到的畫面或聲音。",
+   "補語用原形動詞（VR）：強調看到或聽到動作的完整過程，從頭到尾。",
+   "補語用 V-ing：強調動作正在進行，只看到或聽到其中一部分。",
+   "補語用 p.p.：受詞是動作的承受者，表示「被……」。"
+  ],
+  "examples": [
+   {
+    "en": "I heard my neighbor sing in the hallway this morning.",
+    "zh": "我今天早上聽到鄰居在走廊上唱歌。",
+    "hl": [
+     "heard my neighbor sing"
+    ]
+   },
+   {
+    "en": "We watched the workers painting the school gate.",
+    "zh": "我們看著工人們正在粉刷學校大門。",
+    "hl": [
+     "watched the workers painting"
+    ]
+   },
+   {
+    "en": "Jack felt his shoulder touched by someone in the crowd.",
+    "zh": "傑克感覺到肩膀被人群中的某人碰了一下。",
+    "hl": [
+     "felt his shoulder touched"
+    ]
+   }
+  ],
+  "tip": "感官動詞後的原形動詞前不加 to（主動語態）。錯：I saw him to enter the room. 對：I saw him enter the room.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Last night I heard someone ______ outside my window.",
+    "o": [
+     "to sing",
+     "sung",
+     "sang",
+     "sing"
+    ],
+    "a": 3,
+    "ex": "hear 後接受詞再接原形動詞，不可加 to；sung 是過去分詞，語意為被唱，不合；sang 是過去式，不能直接放在受詞後。"
+   },
+   {
+    "type": "mc",
+    "s": "Mia felt her phone ______ in her pocket, so she took it out.",
+    "o": [
+     "to vibrate",
+     "vibrated",
+     "vibrating",
+     "be vibrating"
+    ],
+    "a": 2,
+    "ex": "phone 與 vibrate 為主動關係，用 V-ing 或原形；feel 後不可接 to V，也不可用過去式或 be V-ing。"
+   },
+   {
+    "type": "mc",
+    "s": "Tom heard his name ______ from the back of the room.",
+    "o": [
+     "called",
+     "calling",
+     "call",
+     "to call"
+    ],
+    "a": 0,
+    "ex": "名字是「被叫」，受詞與動詞為被動關係，應用過去分詞 called。"
+   },
+   {
+    "type": "mc",
+    "s": "We watched the sun ______ slowly behind the mountains.",
+    "o": [
+     "to set",
+     "set",
+     "sets",
+     "was setting"
+    ],
+    "a": 1,
+    "ex": "watch 後接受詞與原形動詞（或 V-ing），不可用 to set、第三人稱單數 sets 或帶 be 動詞的 was setting。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Lisa heard her mother calling her from the kitchen.",
+     "Lisa heard her mother to call her from the kitchen.",
+     "Lisa heard her name call from the kitchen.",
+     "Lisa heard her mother called her from the kitchen."
+    ],
+    "a": 0,
+    "ex": "感官動詞後用 V-ing 或原形動詞。to call 與 called 都不合；her name 與 call 是被動關係，需用 called。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "I heard my name calling by someone in the hall.",
+     "I heard my name called by someone in the hall.",
+     "I heard my name to call by someone in the hall.",
+     "I heard my name to be call by someone in the hall."
+    ],
+    "a": 1,
+    "ex": "名字是「被叫」，受詞 my name 與補語是被動關係，用過去分詞 called；感官動詞後不接 to V。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G2-L02-1",
+  "b": 2,
+  "l": "L02",
+  "title": "關係副詞 where／when",
+  "formula": "…N(,) + where/when + S + V…",
+  "points": [
+   "先行詞是地點（place、city、café 等）時，用 where 引導形容詞子句；先行詞是時間（day、year、night 等）時，用 when。",
+   "where／when 本身已含有介系詞的意思（in which、at which、on which），所以後面接完整的子句（有主詞和動詞）。",
+   "前面加逗號是「非限定用法」，只補充說明先行詞；專有名詞（如地名、年份）常用這種用法。",
+   "非限定用法的 where／when 不可改成 that。"
+  ],
+  "examples": [
+   {
+    "en": "The park where we play badminton is near my home.",
+    "zh": "我們打羽毛球的那座公園離我家很近。",
+    "hl": [
+     "where we play"
+    ]
+   },
+   {
+    "en": "I will never forget the summer when I learned to swim.",
+    "zh": "我永遠不會忘記我學會游泳的那個夏天。",
+    "hl": [
+     "when I learned"
+    ]
+   },
+   {
+    "en": "We visited Kaohsiung, where my aunt runs a small shop.",
+    "zh": "我們去了高雄，我阿姨在那裡經營一間小店。",
+    "hl": [
+     "where my aunt runs"
+    ]
+   }
+  ],
+  "tip": "where／when 後面要接完整子句，不再缺主詞或受詞。錯：the place where I like. 對：the place where I often study.（或 the place which I like）",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "This is the café ______ my friends and I often study after school.",
+    "o": [
+     "where",
+     "which",
+     "when",
+     "what"
+    ],
+    "a": 0,
+    "ex": "先行詞 café 是地點，後面子句完整，所以用關係副詞 where。"
+   },
+   {
+    "type": "mc",
+    "s": "I will never forget the day ______ I won the speech contest.",
+    "o": [
+     "where",
+     "what",
+     "when",
+     "who"
+    ],
+    "a": 2,
+    "ex": "先行詞 day 是時間，後面子句完整，用 when。"
+   },
+   {
+    "type": "mc",
+    "s": "We visited Tainan, ______ the street food is famous all over the country.",
+    "o": [
+     "that",
+     "which",
+     "what",
+     "where"
+    ],
+    "a": 3,
+    "ex": "Tainan 是地點，前有逗號為非限定用法，需用 where；that 不可用於非限定子句。"
+   },
+   {
+    "type": "mc",
+    "s": "Saturday is the day ______ most students can finally sleep late.",
+    "o": [
+     "where",
+     "when",
+     "what",
+     "how"
+    ],
+    "a": 1,
+    "ex": "Saturday 是時間，用 when 引導形容詞子句，where 用於地點。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The library when I do my homework closes at nine.",
+     "The library where I do my homework closes at nine.",
+     "The library that I do my homework closes at nine.",
+     "The library in where I do my homework closes at nine."
+    ],
+    "a": 1,
+    "ex": "library 是地點，用 where；when 用於時間，that 在此缺少介系詞，in where 則重複使用。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "I still remember the night where the whole city lost power.",
+     "I still remember the night which the whole city lost power.",
+     "I still remember the night what the whole city lost power.",
+     "I still remember the night when the whole city lost power."
+    ],
+    "a": 3,
+    "ex": "night 是時間，且後面子句完整，只能用 when；where 用於地點，which 後缺少成分，what 不能修飾先行詞。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G2-L03-1",
+  "b": 2,
+  "l": "L03",
+  "title": "過去完成式",
+  "formula": "had + p.p.",
+  "points": [
+   "表示「在過去某個時間點之前，就已經發生或完成」的動作，比過去式更早。",
+   "常和過去式一起使用：先發生的用 had + p.p.，後發生的用過去式。",
+   "常見連接詞或片語：before、after、by the time、when、until。",
+   "否定為 had not (hadn't) + p.p.；疑問句把 Had 放到句首。"
+  ],
+  "examples": [
+   {
+    "en": "When Ella reached the gym, the class had already begun.",
+    "zh": "艾拉到體育館時，課已經開始了。",
+    "hl": [
+     "had already begun"
+    ]
+   },
+   {
+    "en": "I had never ridden a horse before I visited the farm.",
+    "zh": "在參觀農場之前，我從沒騎過馬。",
+    "hl": [
+     "had never ridden"
+    ]
+   },
+   {
+    "en": "He told me that he had lost his keys on the bus.",
+    "zh": "他告訴我他的鑰匙掉在公車上了。",
+    "hl": [
+     "had lost"
+    ]
+   }
+  ],
+  "tip": "「過去的過去」才用過去完成式。had 後面一定接過去分詞。錯：I had finish it. 對：I had finished it.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "When we arrived at the station, the train ______ already left.",
+    "o": [
+     "has",
+     "had",
+     "have",
+     "was"
+    ],
+    "a": 1,
+    "ex": "到站是過去時間，火車在那之前就已離開，所以用過去完成式 had left。"
+   },
+   {
+    "type": "mc",
+    "s": "Lena realized she ______ her wallet at home only after she reached the store.",
+    "o": [
+     "had left",
+     "leaves",
+     "has left",
+     "leave"
+    ],
+    "a": 0,
+    "ex": "發現是過去，忘記帶是更早發生，用 had left；has left 是現在完成式，不合過去情境。"
+   },
+   {
+    "type": "mc",
+    "s": "I ______ never seen snow until I traveled to Japan last winter.",
+    "o": [
+     "have",
+     "was",
+     "had",
+     "would"
+    ],
+    "a": 2,
+    "ex": "until 所指的過去時間點之前的經驗，用 had never seen。"
+   },
+   {
+    "type": "mc",
+    "s": "After the students ______ the classroom, the teacher locked the door.",
+    "o": [
+     "leave",
+     "have left",
+     "are leaving",
+     "had left"
+    ],
+    "a": 3,
+    "ex": "鎖門是過去的動作，學生離開在此之前，用 had left。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "She had finished her homework before her mother came home.",
+     "She has finished her homework before her mother came home.",
+     "She had finishing her homework before her mother came home.",
+     "She had finish her homework before her mother came home."
+    ],
+    "a": 0,
+    "ex": "had 後須接過去分詞 finished；has finished 為現在完成式，與 came home 的過去時間不合。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "By the time I got to the cinema, the movie has started.",
+     "By the time I got to the cinema, the movie have started.",
+     "By the time I got to the cinema, the movie had started.",
+     "By the time I got to the cinema, the movie will start."
+    ],
+    "a": 2,
+    "ex": "by the time 搭配過去式時，另一子句用過去完成式 had started；has、have 或 will 都和過去時態不合。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G2-L04-1",
+  "b": 2,
+  "l": "L04",
+  "title": "分詞片語修飾名詞",
+  "formula": "N(,) + V-ing/p.p. …",
+  "points": [
+   "分詞片語可放在名詞後面，用來補充說明這個名詞，相當於省略關係代名詞的形容詞子句。",
+   "名詞與動作是主動關係，用現在分詞（V-ing）；是被動關係，用過去分詞（p.p.）。",
+   "例：The girl who is sitting by the window → The girl sitting by the window。",
+   "分詞片語前面加逗號，則是補充說明（非限定），常見於人名或特定事物之後。"
+  ],
+  "examples": [
+   {
+    "en": "The boy reading under the tree is my classmate.",
+    "zh": "在樹下看書的男孩是我的同學。",
+    "hl": [
+     "reading under the tree"
+    ]
+   },
+   {
+    "en": "The cake made by my sister was delicious.",
+    "zh": "我姐姐做的蛋糕很好吃。",
+    "hl": [
+     "made by my sister"
+    ]
+   },
+   {
+    "en": "Ms. Wang, standing near the door, smiled at us.",
+    "zh": "王老師站在門邊對我們微笑。",
+    "hl": [
+     "standing near the door"
+    ]
+   }
+  ],
+  "tip": "分詞前不要再加動詞。錯：The man wore a cap is my uncle. 對：The man wearing a cap is my uncle.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The girl ______ by the window is my cousin.",
+    "o": [
+     "sit",
+     "sitting",
+     "sat",
+     "to sit"
+    ],
+    "a": 1,
+    "ex": "girl 與 sit 是主動關係，用現在分詞 sitting 修飾名詞，不可直接用原形或過去式。"
+   },
+   {
+    "type": "mc",
+    "s": "The cookies ______ by my grandmother taste wonderful.",
+    "o": [
+     "baking",
+     "bake",
+     "baked",
+     "to baking"
+    ],
+    "a": 2,
+    "ex": "cookies 是被烤的，被動關係，用過去分詞 baked。"
+   },
+   {
+    "type": "mc",
+    "s": "Mr. Lin, ______ English at our school, will retire next month.",
+    "o": [
+     "teaching",
+     "teaches",
+     "taught",
+     "to teach"
+    ],
+    "a": 0,
+    "ex": "Mr. Lin 是教書的人，主動關係，用 teaching；teaches 會使句子出現兩個動詞而缺連接詞。"
+   },
+   {
+    "type": "mc",
+    "s": "The window ______ by the strong wind last night has been fixed.",
+    "o": [
+     "broke",
+     "breaking",
+     "to break",
+     "broken"
+    ],
+    "a": 3,
+    "ex": "window 是被風吹壞的，被動關係，用過去分詞 broken。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The man wearing a red cap is waiting at the gate.",
+     "The man worn a red cap is waiting at the gate.",
+     "The man wore a red cap is waiting at the gate.",
+     "The man wear a red cap is waiting at the gate."
+    ],
+    "a": 0,
+    "ex": "man 與 wear 是主動關係，用 wearing 修飾；worn、wore、wear 都不能這樣放在名詞後。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The photos taking during our trip are on my laptop.",
+     "The photos take during our trip are on my laptop.",
+     "The photos taken during our trip are on my laptop.",
+     "The photos took during our trip are on my laptop."
+    ],
+    "a": 2,
+    "ex": "照片是被拍的，用過去分詞 taken；taking、take、took 都不合。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G2-L05-1",
+  "b": 2,
+  "l": "L05",
+  "title": "強調句型 All／What … is (to) VR",
+  "formula": "All (that)/What + S + want/need/have to/can/should + do is + (to) VR",
+  "points": [
+   "表示「想要（需要、必須、應該）做的就是……」，用來強調 is／was 後面的重點。",
+   "All (that) 或 What 引導的名詞子句當主詞，視為單數，所以動詞用 is 或 was。",
+   "is／was 後面接 to VR，to 可以省略，所以也常見直接接原形動詞。",
+   "常用於建議、指示或說明做法。"
+  ],
+  "examples": [
+   {
+    "en": "All you need to do is check the schedule.",
+    "zh": "你只需要確認一下時間表。",
+    "hl": [
+     "All you need to do is check"
+    ]
+   },
+   {
+    "en": "What I want to do this weekend is to visit my grandparents.",
+    "zh": "我這個週末想做的事是去探望祖父母。",
+    "hl": [
+     "What I want to do this weekend is to visit"
+    ]
+   },
+   {
+    "en": "What he had to do was apologize to his teammates.",
+    "zh": "他必須做的事是向隊友道歉。",
+    "hl": [
+     "What he had to do was apologize"
+    ]
+   }
+  ],
+  "tip": "主詞子句視為單數，動詞用 is／was；is 後面不接動名詞。錯：What you should do are to rest. 對：What you should do is (to) rest.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "All you have to do ______ to press this button.",
+    "o": [
+     "are",
+     "is",
+     "were",
+     "do"
+    ],
+    "a": 1,
+    "ex": "All you have to do 是單數子句當主詞，動詞用 is。"
+   },
+   {
+    "type": "mc",
+    "s": "What I want to do now ______ take a long nap.",
+    "o": [
+     "is",
+     "are",
+     "be",
+     "being"
+    ],
+    "a": 0,
+    "ex": "What 子句當主詞視為單數，動詞用 is，後面接原形動詞 take。"
+   },
+   {
+    "type": "mc",
+    "s": "What you should do is ______ more water every day.",
+    "o": [
+     "drank",
+     "drinks",
+     "drunk",
+     "drink"
+    ],
+    "a": 3,
+    "ex": "is 後面接 (to) VR，此處省略 to，用原形 drink。"
+   },
+   {
+    "type": "mc",
+    "s": "______ you need to do is to check your answers again.",
+    "o": [
+     "That",
+     "How",
+     "What",
+     "Which"
+    ],
+    "a": 2,
+    "ex": "What you need to do 是名詞子句，意思為「你需要做的事」，其他選項不能這樣使用。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "All you can do are wait for the test results.",
+     "All you can do is wait for the test results.",
+     "All you can do wait for the test results.",
+     "All you can do is waits for the test results."
+    ],
+    "a": 1,
+    "ex": "主詞子句為單數，需有 is；is 之後接 (to) VR，不是 are 或第三人稱的 waits。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "What we should do first are to clean the classroom.",
+     "What should we do first is to clean the classroom.",
+     "What we should do first is cleaned the classroom.",
+     "What we should do first is to clean the classroom."
+    ],
+    "a": 3,
+    "ex": "What 子句保持直述句語序，動詞用 is，後接 to VR；其他選項動詞或語序有誤。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G2-L06-1",
+  "b": 2,
+  "l": "L06",
+  "title": "with 的附加狀況",
+  "formula": "with + O + V-ing/p.p./adj./prep.",
+  "points": [
+   "「with + 受詞 + 補語」用來補充說明同時發生的狀態或附帶情況，意思是「……著」。",
+   "受詞與補語是主動關係，用 V-ing；是被動關係，用 p.p.。",
+   "補語也可以是形容詞或介系詞片語，例如 with the door open、with a book in his hand。",
+   "此結構是附加說明，不會讓句子多出一個動詞。"
+  ],
+  "examples": [
+   {
+    "en": "Ben listened to the teacher with his arms crossed.",
+    "zh": "班雙臂交叉聽老師說話。",
+    "hl": [
+     "with his arms crossed"
+    ]
+   },
+   {
+    "en": "The little girl ran to me with tears rolling down her face.",
+    "zh": "小女孩淚水滑落臉龐，跑向我。",
+    "hl": [
+     "with tears rolling"
+    ]
+   },
+   {
+    "en": "Don't speak with your mouth full of food.",
+    "zh": "不要滿嘴食物地說話。",
+    "hl": [
+     "with your mouth full"
+    ]
+   }
+  ],
+  "tip": "with 後的受詞與補語的關係要判斷清楚：主動用 V-ing、被動用 p.p.。錯：with the light turning on（燈被開著）。對：with the light turned on.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "She sat on the sofa with her eyes ______ on the screen.",
+    "o": [
+     "fixed",
+     "fix",
+     "fixing",
+     "to fix"
+    ],
+    "a": 0,
+    "ex": "eyes 是被固定在螢幕上，被動關係，用過去分詞 fixed。"
+   },
+   {
+    "type": "mc",
+    "s": "Don't speak with your mouth ______ of food.",
+    "o": [
+     "fill",
+     "filling",
+     "full",
+     "filled"
+    ],
+    "a": 2,
+    "ex": "with + 受詞 + 形容詞，mouth full of food 表示嘴裡塞滿食物；filled of 並不通。"
+   },
+   {
+    "type": "mc",
+    "s": "The baby slept with the light ______ on.",
+    "o": [
+     "turn",
+     "turned",
+     "turning",
+     "to turn"
+    ],
+    "a": 1,
+    "ex": "燈是被打開的，被動關係，用過去分詞 turned。"
+   },
+   {
+    "type": "mc",
+    "s": "He stood in the rain with water ______ down his face.",
+    "o": [
+     "run",
+     "ran",
+     "to run",
+     "running"
+    ],
+    "a": 3,
+    "ex": "water 與 run 是主動關係，用現在分詞 running。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "He listened to music with his eyes closed.",
+     "He listened to music with his eyes closing.",
+     "He listened to music with his eyes close.",
+     "He listened to music with his eyes to close."
+    ],
+    "a": 0,
+    "ex": "眼睛是被閉上的，用 closed；其他補語形式與句意不合。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The dog ran toward me with its tail wagged.",
+     "The dog ran toward me with its tail wagging.",
+     "The dog ran toward me with its tail wag.",
+     "The dog ran toward me with its tail to wag."
+    ],
+    "a": 1,
+    "ex": "尾巴會自己搖，主動關係，用 wagging；wagged、wag、to wag 都不正確。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G2-L07-1",
+  "b": 2,
+  "l": "L07",
+  "title": "keep／leave／find ＋ 受詞 ＋ 補語",
+  "formula": "S + keep/leave/find + O + V-ing/p.p./adj./prep.",
+  "points": [
+   "keep、leave、find 後面可接「受詞 + 補語」，表示讓受詞維持某種狀態，或發現受詞處於某種狀態。",
+   "補語可用 V-ing（主動、進行）、p.p.（被動）、形容詞或介系詞片語。",
+   "keep + O + V-ing：讓……一直做某事；leave + O + p.p./adj.：讓……處於某狀態；find + O + 補語：發現……是（在）某種情形。",
+   "這些動詞後面通常不接 to VR。"
+  ],
+  "examples": [
+   {
+    "en": "The noise kept the baby crying all night.",
+    "zh": "噪音讓寶寶整晚哭個不停。",
+    "hl": [
+     "kept the baby crying"
+    ]
+   },
+   {
+    "en": "Please leave the window open for some fresh air.",
+    "zh": "請讓窗戶開著，透透新鮮空氣。",
+    "hl": [
+     "leave the window open"
+    ]
+   },
+   {
+    "en": "I found my notebook hidden under the sofa.",
+    "zh": "我發現我的筆記本藏在沙發下面。",
+    "hl": [
+     "found my notebook hidden"
+    ]
+   }
+  ],
+  "tip": "補語不能用 to VR，也要依主被動選 V-ing 或 p.p.。錯：I found my bag stealing. 對：I found my bag stolen.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Sorry to keep you ______ so long.",
+    "o": [
+     "wait",
+     "waiting",
+     "waited",
+     "to wait"
+    ],
+    "a": 1,
+    "ex": "keep + 受詞 + V-ing，表示讓某人一直等著。"
+   },
+   {
+    "type": "mc",
+    "s": "Please don't leave the door ______ when you go out.",
+    "o": [
+     "opening",
+     "to open",
+     "open",
+     "opens"
+    ],
+    "a": 2,
+    "ex": "leave + 受詞 + 形容詞，表示讓門保持開著的狀態。"
+   },
+   {
+    "type": "mc",
+    "s": "I found my sister ______ on the sofa with a book on her face.",
+    "o": [
+     "sleeping",
+     "sleep",
+     "slept",
+     "to sleep"
+    ],
+    "a": 0,
+    "ex": "find + 受詞 + V-ing，表示發現她正在睡覺，姐姐與睡覺是主動關係。"
+   },
+   {
+    "type": "mc",
+    "s": "Lily found her bike ______ when she came out of the library.",
+    "o": [
+     "steal",
+     "stealing",
+     "to steal",
+     "stolen"
+    ],
+    "a": 3,
+    "ex": "腳踏車是被偷走的，被動關係，用過去分詞 stolen。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The loud noise kept me to stay awake all night.",
+     "The loud noise kept awake me all night.",
+     "The loud noise kept me awake all night.",
+     "The loud noise kept me stay awake all night."
+    ],
+    "a": 2,
+    "ex": "keep + 受詞 + 形容詞 awake，受詞要放在補語前，且不可加 to 或另接原形動詞。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "We found the museum crowd with visitors.",
+     "We found the museum crowded with visitors.",
+     "We found the museum to crowded with visitors.",
+     "We found the museum crowds with visitors."
+    ],
+    "a": 1,
+    "ex": "find + 受詞 + p.p./adj.，crowded 表示擠滿人的狀態；其他選項詞性或形式不對。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G2-L08-1",
+  "b": 2,
+  "l": "L08",
+  "title": "分詞構句",
+  "formula": "(Conj.) V-ing/p.p. …, S + V …",
+  "points": [
+   "兩個子句主詞相同時，可把從屬子句簡化成分詞片語，放在主要子句前面。",
+   "做法：省略連接詞與主詞，主動語態用 V-ing，被動語態用 p.p.，否定則在分詞前加 not。",
+   "分詞的意義主詞必須和主要子句的主詞相同，否則會形成錯誤的「懸垂分詞」。",
+   "為了避免語意不清，可保留連接詞，例如 After eating、While waiting。"
+  ],
+  "examples": [
+   {
+    "en": "Hearing the bell, the students ran to the classroom.",
+    "zh": "聽到鐘聲，學生們跑向教室。",
+    "hl": [
+     "Hearing the bell"
+    ]
+   },
+   {
+    "en": "Not wanting to wake the baby, she walked quietly.",
+    "zh": "她不想吵醒寶寶，所以安靜地走路。",
+    "hl": [
+     "Not wanting to wake the baby"
+    ]
+   },
+   {
+    "en": "Surprised by the news, Jenny dropped her pen.",
+    "zh": "聽到消息很驚訝，珍妮掉了筆。",
+    "hl": [
+     "Surprised by the news"
+    ]
+   }
+  ],
+  "tip": "分詞的動作者要與主要子句主詞一致。錯：Walking home, my phone rang.（電話不會走路）對：Walking home, I heard my phone ring.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "______ for the bus, Ken kept looking at his phone.",
+    "o": [
+     "Waiting",
+     "Wait",
+     "Waited",
+     "To waiting"
+    ],
+    "a": 0,
+    "ex": "Ken 是等車的人，主動關係，用 Waiting；其他形式不能作分詞構句。"
+   },
+   {
+    "type": "mc",
+    "s": "______ by the loud noise, the baby began to cry.",
+    "o": [
+     "Frighten",
+     "Frightening",
+     "Frightened",
+     "To frighten"
+    ],
+    "a": 2,
+    "ex": "寶寶是被嚇到，被動關係，用過去分詞 Frightened。"
+   },
+   {
+    "type": "mc",
+    "s": "______ what to say, Mia stayed silent.",
+    "o": [
+     "Know not",
+     "Not knowing",
+     "Not known",
+     "Knowing not"
+    ],
+    "a": 1,
+    "ex": "分詞構句的否定把 not 放在分詞前，且 Mia 是主動關係，用 Not knowing。"
+   },
+   {
+    "type": "mc",
+    "s": "______ in a small village, Tom had never seen a skyscraper.",
+    "o": [
+     "Bear",
+     "Bearing",
+     "Being bore",
+     "Born"
+    ],
+    "a": 3,
+    "ex": "Tom 是被生下來的，被動關係，用過去分詞 Born。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Walking home, I met my English teacher.",
+     "Walked home, I met my English teacher.",
+     "Walk home, I met my English teacher.",
+     "Walking home, my phone rang loudly."
+    ],
+    "a": 0,
+    "ex": "主詞 I 與 walking 是主動關係；其他選項的分詞形式錯誤，或主詞不是走路的人。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Not wanted to be late, she ran to the bus stop.",
+     "Not wanting to be late, she ran to the bus stop.",
+     "Not want to be late, she ran to the bus stop.",
+     "Don't wanting to be late, she ran to the bus stop."
+    ],
+    "a": 1,
+    "ex": "分詞構句的否定是 Not + V-ing；其他選項動詞形式不合文法。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G2-L09-1",
+  "b": 2,
+  "l": "L09",
+  "title": "It is said that 句型",
+  "formula": "It is said/believed/reported/… that + S + V …",
+  "points": [
+   "用虛主詞 it，表示「據說／據信／據報導……」，說的是大家的看法或客觀資訊。",
+   "that 子句是真正的主詞內容，常放在句尾。",
+   "常見動詞有 say、believe、report、think、expect、show 等，用被動語態。",
+   "常出現在新聞和說明文中，語氣較客觀、正式。"
+  ],
+  "examples": [
+   {
+    "en": "It is said that laughing is good for your health.",
+    "zh": "據說笑對健康有益。",
+    "hl": [
+     "It is said that"
+    ]
+   },
+   {
+    "en": "It is reported that the new library will open in May.",
+    "zh": "據報導新圖書館將於五月啟用。",
+    "hl": [
+     "It is reported that"
+    ]
+   },
+   {
+    "en": "It has been shown that sleep helps us remember things.",
+    "zh": "研究顯示睡眠有助於我們記住事情。",
+    "hl": [
+     "It has been shown that"
+    ]
+   }
+  ],
+  "tip": "動詞要用被動語態。錯：It says that tea is healthy. 對：It is said that tea is healthy.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "It ______ that sleeping eight hours helps students learn better.",
+    "o": [
+     "is said",
+     "says",
+     "said",
+     "is saying"
+    ],
+    "a": 0,
+    "ex": "it 是虛主詞，說法是「被說」，用被動 is said。"
+   },
+   {
+    "type": "mc",
+    "s": "It is ______ that the new bridge will open next spring.",
+    "o": [
+     "report",
+     "reported",
+     "reporting",
+     "reports"
+    ],
+    "a": 1,
+    "ex": "is 後面接過去分詞，用被動語態 reported。"
+   },
+   {
+    "type": "mc",
+    "s": "______ is believed that carrots are good for your eyes.",
+    "o": [
+     "This",
+     "That",
+     "It",
+     "There"
+    ],
+    "a": 2,
+    "ex": "虛主詞用 It，後接 that 子句，其他選項不能這樣使用。"
+   },
+   {
+    "type": "mc",
+    "s": "It has been ______ that regular exercise improves memory.",
+    "o": [
+     "show",
+     "showing",
+     "shows",
+     "shown"
+    ],
+    "a": 3,
+    "ex": "has been 後面接過去分詞，用被動語態 shown。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "It is believed that cats can sense danger.",
+     "It believes that cats can sense danger.",
+     "It is believed cats that can sense danger.",
+     "There is believed that cats can sense danger."
+    ],
+    "a": 0,
+    "ex": "句型為 It is believed that + 子句；其他選項誤用主動語態、語序或 There。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "It reports that the festival attracted ten thousand visitors.",
+     "It is reported that the festival attracted ten thousand visitors.",
+     "It is reported the festival that attracted ten thousand visitors.",
+     "It is reporting that the festival attracted ten thousand visitors."
+    ],
+    "a": 1,
+    "ex": "虛主詞 It 搭配被動 is reported，再接 that 子句；其他選項主被動或語序有誤。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G3-L01-1",
+  "b": 3,
+  "l": "L01",
+  "title": "虛受詞 it（find/consider it + 形容詞 + to V）",
+  "formula": "S + find/consider/think/make + it + adj. + to V / that 子句",
+  "points": [
+   "當受詞是很長的不定詞片語或子句時，先用虛受詞 it 放在動詞後面，真正的內容移到句尾。",
+   "常見動詞有 find、consider、think、make、feel，後面接形容詞或名詞作受詞補語。",
+   "it 只是形式上的受詞，本身沒有意義，真正的受詞是句尾的 to V 或 that 子句。",
+   "若受詞補語是名詞，句型為 make/consider it a rule/pity + to V。"
+  ],
+  "examples": [
+   {
+    "en": "Most students find it hard to wake up early on Monday mornings.",
+    "zh": "多數學生覺得星期一早上很難早起。",
+    "hl": [
+     "find it hard to wake up"
+    ]
+   },
+   {
+    "en": "The coach made it a rule to run two kilometers before practice.",
+    "zh": "教練規定練習前要先跑兩公里。",
+    "hl": [
+     "made it a rule to run"
+    ]
+   },
+   {
+    "en": "I consider it important that everyone keeps the classroom clean.",
+    "zh": "我認為每個人都保持教室整潔很重要。",
+    "hl": [
+     "consider it important that"
+    ]
+   }
+  ],
+  "tip": "不能省略 it。錯：I find hard to learn math. → 對：I find it hard to learn math.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "My brother finds ______ difficult to get up before seven o'clock.",
+    "o": [
+     "that",
+     "it",
+     "this is",
+     "him"
+    ],
+    "a": 1,
+    "ex": "動詞 find 後面要用虛受詞 it，真正的受詞是後面的 to get up。其他選項不能充當形式受詞。"
+   },
+   {
+    "type": "mc",
+    "s": "The teacher thinks ______ necessary for us to review the lesson every day.",
+    "o": [
+     "that",
+     "what",
+     "it",
+     "which"
+    ],
+    "a": 2,
+    "ex": "think + it + adj. + for sb to V，it 是虛受詞，故選 it。"
+   },
+   {
+    "type": "mc",
+    "s": "Jim finds it a pleasure ______ the elderly in his community.",
+    "o": [
+     "to help",
+     "help",
+     "helped",
+     "to helps"
+    ],
+    "a": 0,
+    "ex": "真正的受詞是句尾的不定詞片語，用 to + 原形動詞，所以選 to help。"
+   },
+   {
+    "type": "mc",
+    "s": "The new rule makes ______ impossible for students to enter the building after nine.",
+    "o": [
+     "that",
+     "them",
+     "this",
+     "it"
+    ],
+    "a": 3,
+    "ex": "make + it + adj. + (for sb) to V，用 it 作虛受詞。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "I find exciting to meet people from other countries.",
+     "I find it exciting to meet people from other countries.",
+     "I find it exciting meeting to people from other countries.",
+     "I find that exciting to meet people from other countries."
+    ],
+    "a": 1,
+    "ex": "find 後面必須有虛受詞 it，其餘選項分別漏掉 it、語序錯誤或誤用 that。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Our teacher considers a good habit to take notes in class.",
+     "Our teacher considers it a good habit taking notes to in class.",
+     "Our teacher considers it a good habit to take notes in class.",
+     "Our teacher considers it to be a good habit take notes in class."
+    ],
+    "a": 2,
+    "ex": "consider it + 名詞 + to V 是正確結構，其餘選項漏掉 it 或 to V 的形式有誤。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G3-L02-1",
+  "b": 3,
+  "l": "L02",
+  "title": "not...until...（直到...才...）",
+  "formula": "S + (助動詞) + not + V + until + 時間／子句",
+  "points": [
+   "not...until... 表示「直到某時才做某事」，主句用否定，until 後面接時間點或子句。",
+   "until 子句若表示未來，用現在式代替未來式，例如 until she comes back。",
+   "主句為肯定句時，until 表示動作持續到某時為止，例如 wait until。",
+   "中文常說「到...才」，但英文要用否定的 not 搭配 until。"
+  ],
+  "examples": [
+   {
+    "en": "The shop does not open until ten o'clock on weekends.",
+    "zh": "這家店週末要到十點才開門。",
+    "hl": [
+     "does not open until"
+    ]
+   },
+   {
+    "en": "Lisa didn't realize she had lost her keys until she got home.",
+    "zh": "莉莎到家才發現鑰匙不見了。",
+    "hl": [
+     "didn't realize",
+     "until she got home"
+    ]
+   },
+   {
+    "en": "We won't start dinner until my father comes back.",
+    "zh": "我們要等爸爸回來才開始吃晚餐。",
+    "hl": [
+     "won't start dinner until",
+     "comes back"
+    ]
+   }
+  ],
+  "tip": "until 子句不可用 will。錯：Don't leave until the rain will stop. → 對：Don't leave until the rain stops.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The library doesn't close ______ nine o'clock in the evening.",
+    "o": [
+     "during",
+     "for",
+     "until",
+     "since"
+    ],
+    "a": 2,
+    "ex": "not...until... 表「直到⋯才⋯」：圖書館直到晚上九點才關門；during、for、since 都不能接這個時間點表達此意。"
+   },
+   {
+    "type": "mc",
+    "s": "I won't go to sleep until I ______ my homework.",
+    "o": [
+     "finish",
+     "will finish",
+     "finished",
+     "am finishing"
+    ],
+    "a": 0,
+    "ex": "until 子句表示未來時，要用現在式代替未來式，故選 finish。"
+   },
+   {
+    "type": "mc",
+    "s": "The children didn't stop playing ______ their mother called them.",
+    "o": [
+     "when",
+     "until",
+     "while",
+     "as soon"
+    ],
+    "a": 1,
+    "ex": "「直到...才停止」用 didn't...until。"
+   },
+   {
+    "type": "mc",
+    "s": "We ______ leave the park until the rain stopped.",
+    "o": [
+     "did",
+     "would",
+     "were",
+     "didn't"
+    ],
+    "a": 3,
+    "ex": "句意是「直到雨停才離開」，主句需用否定 didn't，與 until 搭配。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "She did not leave the classroom until everyone finished the test.",
+     "She did not leave the classroom until everyone will finish the test.",
+     "She left not the classroom until everyone finished the test.",
+     "She did leave the classroom until everyone finished the test."
+    ],
+    "a": 0,
+    "ex": "until 子句不用 will；否定要用 did not；肯定句加 until 語意不符句意。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Don't open the gift until your birthday will come.",
+     "Don't open the gift until your birthday comes.",
+     "Don't open the gift until come your birthday.",
+     "Open not the gift until your birthday comes."
+    ],
+    "a": 1,
+    "ex": "until 子句用現在式表未來、語序為主詞加動詞；其餘選項有 will、倒裝或否定位置的錯誤。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G3-L03-1",
+  "b": 3,
+  "l": "L03",
+  "title": "not only...but also...（不但...而且...）",
+  "formula": "not only A but also B",
+  "points": [
+   "not only A but also B 連接兩個對等的成分，意思是「不但 A 而且 B」，A 與 B 詞性或結構要相同。",
+   "連接兩個主詞時，動詞與靠近的主詞（B）一致。",
+   "not only 置於句首時，前半句要倒裝，例如 Not only does she sing, but she also dances.",
+   "also 有時可省略，but 不能省略。"
+  ],
+  "examples": [
+   {
+    "en": "The park is not only clean but also quiet.",
+    "zh": "這座公園不但乾淨而且安靜。",
+    "hl": [
+     "not only clean but also quiet"
+    ]
+   },
+   {
+    "en": "Not only the students but also the teacher was excited about the trip.",
+    "zh": "不只學生，連老師也對這次旅行感到興奮。",
+    "hl": [
+     "Not only the students but also the teacher was"
+    ]
+   },
+   {
+    "en": "He not only plays the piano but also writes his own songs.",
+    "zh": "他不但會彈鋼琴，還自己寫歌。",
+    "hl": [
+     "not only plays the piano but also writes"
+    ]
+   }
+  ],
+  "tip": "兩邊的結構要平行。錯：She is not only smart but also works hard. → 對：She is not only smart but also hardworking.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Tom is not only good at math ______ good at music.",
+    "o": [
+     "and also",
+     "but also",
+     "but only",
+     "also but"
+    ],
+    "a": 1,
+    "ex": "固定搭配是 not only...but also...。"
+   },
+   {
+    "type": "mc",
+    "s": "Not only the players but also the coach ______ happy about the result.",
+    "o": [
+     "was",
+     "were",
+     "are",
+     "been"
+    ],
+    "a": 0,
+    "ex": "動詞與靠近的主詞 the coach 一致，過去式單數用 was。"
+   },
+   {
+    "type": "mc",
+    "s": "The restaurant is famous not only for its food ______ for its friendly staff.",
+    "o": [
+     "and also",
+     "also",
+     "as well",
+     "but also"
+    ],
+    "a": 3,
+    "ex": "not only A but also B 為固定搭配，其餘選項無法連接兩個對等成分。"
+   },
+   {
+    "type": "mc",
+    "s": "Not only ______ the guitar, but she also sings very well.",
+    "o": [
+     "she plays",
+     "she does play",
+     "does she play",
+     "plays she"
+    ],
+    "a": 2,
+    "ex": "not only 置於句首時，前半句要倒裝，用 does she play。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "My sister not only cooks well but also cleans the house every day.",
+     "My sister not only cooks well but also clean the house every day.",
+     "My sister not only cooks well but also cleaning the house every day.",
+     "My sister not only is cooks well but also cleans the house every day."
+    ],
+    "a": 0,
+    "ex": "兩個動詞都要用相同的第三人稱單數形，並保持結構平行；其他選項有動詞形式錯誤。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "This book is not only interesting and also useful for learning English.",
+     "This book is not only interesting but also usefully for learning English.",
+     "This book is not only interesting but also useful for learning English.",
+     "This book is interesting not only but also useful for learning English."
+    ],
+    "a": 2,
+    "ex": "not only 要直接放在對等成分前，並與 but also 搭配，且詞性要平行；其他選項把 but 誤寫成 and，或把形容詞寫成副詞，或把 not only 放錯位置。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G3-L04-1",
+  "b": 3,
+  "l": "L04",
+  "title": "被動不定詞表「據說／被認為」（be said/believed to V）",
+  "formula": "S + be said/thought/believed/known to + V（to have p.p.）",
+  "points": [
+   "「It is said that...」可改成「S + be said to V」，把子句主詞移到句首，更簡潔。",
+   "常見動詞有 say、think、believe、know、report、consider。",
+   "不定詞表示與主要動詞同一時間或之後，用 to V；若表示更早發生的事，用 to have + p.p.。",
+   "這個句型常用於說明傳說、研究結果或一般人的看法。"
+  ],
+  "examples": [
+   {
+    "en": "The old temple is believed to be over five hundred years old.",
+    "zh": "這座古廟據信有五百多年歷史。",
+    "hl": [
+     "is believed to be"
+    ]
+   },
+   {
+    "en": "The singer is said to have lost her phone on the train.",
+    "zh": "據說那位歌手把手機掉在火車上。",
+    "hl": [
+     "is said to have lost"
+    ]
+   },
+   {
+    "en": "Dolphins are known to be very smart animals.",
+    "zh": "眾所周知海豚是很聰明的動物。",
+    "hl": [
+     "are known to be"
+    ]
+   }
+  ],
+  "tip": "若動作發生在更早，必須用完成式不定詞。錯：He is said to win the prize last year. → 對：He is said to have won the prize last year.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "This old bridge is believed ______ by farmers many years ago.",
+    "o": [
+     "to build",
+     "building",
+     "to be building",
+     "to have been built"
+    ],
+    "a": 3,
+    "ex": "橋是被建造的，且發生在過去，所以用被動完成式不定詞 to have been built。"
+   },
+   {
+    "type": "mc",
+    "s": "The rock star is said ______ very wealthy.",
+    "o": [
+     "to be",
+     "being",
+     "to being",
+     "be"
+    ],
+    "a": 0,
+    "ex": "be said to V 表示「據說」，to 後接原形動詞。"
+   },
+   {
+    "type": "mc",
+    "s": "This kind of tea is thought ______ people stay healthy.",
+    "o": [
+     "helping",
+     "help",
+     "to help",
+     "to helping"
+    ],
+    "a": 2,
+    "ex": "be thought to V，to 後接原形動詞。"
+   },
+   {
+    "type": "mc",
+    "s": "The boy is reported ______ the lost wallet before the police arrived.",
+    "o": [
+     "to find",
+     "to have found",
+     "finding",
+     "to have been find"
+    ],
+    "a": 1,
+    "ex": "發現錢包在警察抵達之前，是較早的動作，用 to have found。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The village is believed to have been founded in the 1800s.",
+     "The village is believed to found in the 1800s.",
+     "The village is believed to have found in the 1800s.",
+     "The village believes to have been founded in the 1800s."
+    ],
+    "a": 0,
+    "ex": "村莊是被建立的，且是過去的事，用 to have been founded；其他選項被動或完成式有誤。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Cats say to be able to see in the dark.",
+     "Cats are said being able to see in the dark.",
+     "Cats are said to be able to see in the dark.",
+     "Cats are said that be able to see in the dark."
+    ],
+    "a": 2,
+    "ex": "be said to V 後面直接接不定詞，不能加 that 或使用動名詞，主詞 cats 也要用被動。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G3-L05-1",
+  "b": 3,
+  "l": "L05",
+  "title": "感官動詞的被動（be seen/heard + V-ing）",
+  "formula": "S + be + seen/heard/watched/noticed + V-ing（主動：see + O + V/V-ing）",
+  "points": [
+   "感官動詞 see、hear、watch、notice 等主動時，後面可接「受詞 + 原形動詞或 V-ing」。",
+   "改成被動後，原形動詞前要加 to，V-ing 則保持不變：S + be seen to V / V-ing。",
+   "接 V-ing 表示動作正在進行；接原形（被動時 to V）表示看見整個動作的過程。",
+   "被動語態中 by 後面的行為者常省略，句子重點放在被看到或聽到的事。"
+  ],
+  "examples": [
+   {
+    "en": "The boy was seen climbing over the school fence.",
+    "zh": "有人看到那個男孩正在翻越學校的圍牆。",
+    "hl": [
+     "was seen climbing"
+    ]
+   },
+   {
+    "en": "The singer was heard practicing in the music room late at night.",
+    "zh": "有人聽到那位歌手深夜在音樂教室練習。",
+    "hl": [
+     "was heard practicing"
+    ]
+   },
+   {
+    "en": "A stranger was noticed standing outside the gate for an hour.",
+    "zh": "有人注意到一個陌生人在大門外站了一個小時。",
+    "hl": [
+     "was noticed standing"
+    ]
+   }
+  ],
+  "tip": "主動時省略 to，被動時要加回 to。錯：He was seen leave the room. → 對：He was seen to leave the room. / He was seen leaving the room.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The thief was seen ______ out of the window.",
+    "o": [
+     "jumping",
+     "jump",
+     "jumped",
+     "to jumping"
+    ],
+    "a": 0,
+    "ex": "感官動詞被動後接 V-ing 表示正在進行，jump 要用 jumping。"
+   },
+   {
+    "type": "mc",
+    "s": "The young man was heard ______ loudly in the next room.",
+    "o": [
+     "laugh",
+     "laughed",
+     "laughing",
+     "to laughing"
+    ],
+    "a": 2,
+    "ex": "was heard + V-ing，表示聽到某人正在大笑。"
+   },
+   {
+    "type": "mc",
+    "s": "The little girl was seen ______ across the street by herself.",
+    "o": [
+     "cross",
+     "to cross",
+     "crossed",
+     "crosses"
+    ],
+    "a": 1,
+    "ex": "感官動詞被動後若接原形動詞，要加 to，故用 to cross。"
+   },
+   {
+    "type": "mc",
+    "s": "The students were noticed ______ notes during the exam.",
+    "o": [
+     "pass",
+     "passed",
+     "to passing",
+     "passing"
+    ],
+    "a": 3,
+    "ex": "被動語態後接 V-ing，表示被發現正在做某事。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The cat was seen sleep on the sofa.",
+     "The cat was seen sleeping on the sofa.",
+     "The cat saw sleeping on the sofa.",
+     "The cat was seeing sleeping on the sofa."
+    ],
+    "a": 1,
+    "ex": "被動語態要用 was seen，其後接 V-ing；其他選項把被動誤寫為主動或進行式，或漏掉 to。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Some boys heard singing in the hallway.",
+     "Some boys were heard to singing in the hallway.",
+     "Some boys were heard singing in the hallway.",
+     "Some boys were hearing sing in the hallway."
+    ],
+    "a": 2,
+    "ex": "正確結構為 be heard + V-ing；其他選項缺少 be 動詞，或 to 後誤接 V-ing，或形式混亂。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G3-L06-1",
+  "b": 3,
+  "l": "L06",
+  "title": "強調句型 It is not until...that...",
+  "formula": "It is/was not until + 時間／子句 + that + S + V",
+  "points": [
+   "此句型用來強調「直到某時才...」，把 not until 的部分放在 it is/was 後面。",
+   "that 後面接一個完整的子句，動詞用肯定形式，不再使用否定。",
+   "時態依事件而定，過去的事用 It was not until...that...。",
+   "可從 not...until... 改寫：She didn't leave until noon. → It was not until noon that she left."
+  ],
+  "examples": [
+   {
+    "en": "It was not until midnight that the fans left the stadium.",
+    "zh": "直到半夜球迷才離開體育場。",
+    "hl": [
+     "It was not until midnight that"
+    ]
+   },
+   {
+    "en": "It is not until we lose something that we know its value.",
+    "zh": "直到失去某樣東西，我們才知道它的價值。",
+    "hl": [
+     "It is not until we lose something that"
+    ]
+   },
+   {
+    "en": "It was not until last week that I learned how to swim.",
+    "zh": "直到上週我才學會游泳。",
+    "hl": [
+     "It was not until last week that"
+    ]
+   }
+  ],
+  "tip": "that 後面的動詞用肯定式，不再用否定。錯：It was not until ten that she didn't come. → 對：It was not until ten that she came.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "It was not until she opened the box ______ she saw the gift.",
+    "o": [
+     "when",
+     "that",
+     "which",
+     "then"
+    ],
+    "a": 1,
+    "ex": "強調句型 It was not until...that...，空格填 that。"
+   },
+   {
+    "type": "mc",
+    "s": "It was not until the sun set ______ the farmers went home.",
+    "o": [
+     "that",
+     "so",
+     "and",
+     "because"
+    ],
+    "a": 0,
+    "ex": "結構為 It was not until + 子句 + that + 子句。"
+   },
+   {
+    "type": "mc",
+    "s": "It was not until midnight that the storm ______.",
+    "o": [
+     "didn't stop",
+     "did stop not",
+     "stopped",
+     "has stopped not"
+    ],
+    "a": 2,
+    "ex": "that 後面的子句動詞用肯定式，故選 stopped，不能再加 not。"
+   },
+   {
+    "type": "mc",
+    "s": "______ was not until 1990 that the school built a swimming pool.",
+    "o": [
+     "That",
+     "What",
+     "There",
+     "It"
+    ],
+    "a": 3,
+    "ex": "強調句型的開頭為虛主詞 It。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "It was not until yesterday that I heard the news.",
+     "It was not until yesterday that I didn't hear the news.",
+     "It not was until yesterday that I heard the news.",
+     "It was until yesterday not that I heard the news."
+    ],
+    "a": 0,
+    "ex": "正確語序為 It was not until...that...，其他選項多出否定或語序錯誤。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "It not is until we get sick that we value our health.",
+     "It is not until we get sick that we value our health.",
+     "It is not until we get sick we that value our health.",
+     "It is not until we get sick that we won't value our health."
+    ],
+    "a": 1,
+    "ex": "that 要放在時間子句後、主要子句前；其他選項語序或否定使用有誤。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G3-L07-1",
+  "b": 3,
+  "l": "L07",
+  "title": "同位語子句（the fact that + S + V）",
+  "formula": "the fact / news / idea / belief / hope + that + S + V",
+  "points": [
+   "某些抽象名詞（fact、news、idea、belief、hope、rumor）後面可接 that 子句，用來說明該名詞的內容。",
+   "that 子句是完整句子，that 在子句中不作主詞或受詞，也不能用 what 或 which 取代。",
+   "這與關係代名詞 that 不同：關係子句缺主詞或受詞，同位語子句則完整。",
+   "常見用法：Despite the fact that...、The news that...、The idea that..."
+  ],
+  "examples": [
+   {
+    "en": "The fact that she speaks four languages surprised her classmates.",
+    "zh": "她會說四種語言的事實讓同學們很驚訝。",
+    "hl": [
+     "The fact that she speaks four languages"
+    ]
+   },
+   {
+    "en": "We were happy to hear the news that our school team had won.",
+    "zh": "聽到我們學校隊伍贏了的消息，我們很高興。",
+    "hl": [
+     "the news that our school team had won"
+    ]
+   },
+   {
+    "en": "Many people share the belief that hard work leads to success.",
+    "zh": "很多人認同努力工作會帶來成功的信念。",
+    "hl": [
+     "the belief that hard work leads to success"
+    ]
+   }
+  ],
+  "tip": "同位語子句不能用 what 或 which 代替 that。錯：The fact what he lied upset us. → 對：The fact that he lied upset us.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The fact ______ he was late again made the teacher angry.",
+    "o": [
+     "what",
+     "which",
+     "that",
+     "who"
+    ],
+    "a": 2,
+    "ex": "fact 後面的同位語子句用 that 引導，說明事實內容。"
+   },
+   {
+    "type": "mc",
+    "s": "I was glad to hear the news ______ my cousin had passed the exam.",
+    "o": [
+     "that",
+     "what",
+     "which",
+     "where"
+    ],
+    "a": 0,
+    "ex": "news 後接同位語子句，that 引導完整句子。"
+   },
+   {
+    "type": "mc",
+    "s": "Do you agree with the idea ______ students should wear uniforms?",
+    "o": [
+     "whether",
+     "that",
+     "what",
+     "when"
+    ],
+    "a": 1,
+    "ex": "idea 的內容是一個完整句子，用 that 引導同位語子句。"
+   },
+   {
+    "type": "mc",
+    "s": "______ the fact that it was raining, we still went hiking.",
+    "o": [
+     "Although",
+     "Because",
+     "However",
+     "Despite"
+    ],
+    "a": 3,
+    "ex": "後面接名詞片語 the fact that...，需用介系詞 Despite。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The fact that he forgot my birthday made me sad.",
+     "The fact what he forgot my birthday made me sad.",
+     "The fact he forgot that my birthday made me sad.",
+     "The fact that forgot my birthday made me sad."
+    ],
+    "a": 0,
+    "ex": "同位語 that 子句需完整含主詞與動詞；其他選項用錯連接詞或缺少主詞。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "There is no proof what the story is true.",
+     "There is no proof that is the story true.",
+     "There is no proof that the story is true.",
+     "There is no proof the story that is true."
+    ],
+    "a": 2,
+    "ex": "proof 後面接 that + 完整子句；其他選項用錯關係詞、倒裝或 that 位置錯誤。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G3-L08-1",
+  "b": 3,
+  "l": "L08",
+  "title": "數量詞 + of + 關係代名詞",
+  "formula": "名詞, some/many/most/all/both/one of + whom/which + V",
+  "points": [
+   "非限定關係子句可用「數量詞 + of + whom/which」補充說明先行詞的一部分。",
+   "指人時用 whom，指物時用 which，前面常出現 some、many、most、all、both、neither、one、two 等。",
+   "關係代名詞前有 of，因此指人要用受格 whom，不用 who。",
+   "動詞的單複數由前面的數量詞決定，例如 both of which are；one of which is。"
+  ],
+  "examples": [
+   {
+    "en": "Our school has fifty clubs, some of which meet on weekends.",
+    "zh": "我們學校有五十個社團，其中一些在週末聚會。",
+    "hl": [
+     "some of which meet"
+    ]
+   },
+   {
+    "en": "She invited ten classmates, most of whom brought small gifts.",
+    "zh": "她邀請了十位同學，其中大多數人帶了小禮物。",
+    "hl": [
+     "most of whom brought"
+    ]
+   },
+   {
+    "en": "My uncle has two cars, one of which is electric.",
+    "zh": "我叔叔有兩輛車，其中一輛是電動車。",
+    "hl": [
+     "one of which is"
+    ]
+   }
+  ],
+  "tip": "指人用 whom，不能用 who 或 which。錯：He has three sisters, two of who are doctors. → 對：two of whom are doctors.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The class has thirty students, most of ______ live near the school.",
+    "o": [
+     "whom",
+     "who",
+     "them",
+     "which"
+    ],
+    "a": 0,
+    "ex": "先行詞是人，介系詞 of 後面要用受格關係代名詞 whom。"
+   },
+   {
+    "type": "mc",
+    "s": "The store sells many kinds of bread, some of ______ are made without sugar.",
+    "o": [
+     "them",
+     "whom",
+     "which",
+     "what"
+    ],
+    "a": 2,
+    "ex": "先行詞是物，用 some of which 引導非限定關係子句，them 無法連接兩個子句。"
+   },
+   {
+    "type": "mc",
+    "s": "I have two brothers, both of ______ study abroad.",
+    "o": [
+     "who",
+     "whom",
+     "they",
+     "which"
+    ],
+    "a": 1,
+    "ex": "先行詞是人，用 both of whom。"
+   },
+   {
+    "type": "mc",
+    "s": "The museum has hundreds of paintings, ______ are over a century old.",
+    "o": [
+     "many of them",
+     "many of whom",
+     "many which of",
+     "many of which"
+    ],
+    "a": 3,
+    "ex": "先行詞是物，用 many of which；them 無法連接子句，whom 用於人。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "She read five books last month, two of which were about space.",
+     "She read five books last month, two of them were about space.",
+     "She read five books last month, two of whom were about space.",
+     "She read five books last month, two of what were about space."
+    ],
+    "a": 0,
+    "ex": "指物且需連接兩個子句，用 two of which；其他選項用 them 無連接詞、whom 用於人、what 用法錯誤。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The tourists, many of who were students, enjoyed the trip.",
+     "The tourists, many of whom were students, enjoyed the trip.",
+     "The tourists, many of which were students, enjoyed the trip.",
+     "The tourists, many of them were students, enjoyed the trip."
+    ],
+    "a": 1,
+    "ex": "先行詞是人，of 後面要用 whom；其他選項誤用 who、which 或 them。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G3-L09-1",
+  "b": 3,
+  "l": "L09",
+  "title": "否定副詞置於句首的倒裝",
+  "formula": "Never / Seldom / Rarely / Hardly / Little + 助動詞 + S + V",
+  "points": [
+   "將 never、seldom、rarely、hardly、little 等否定副詞放在句首以強調時，句子要倒裝。",
+   "倒裝規則：助動詞或 be 動詞放到主詞前；一般動詞則借用 do/does/did，動詞改為原形。",
+   "完成式或已有助動詞的句子，直接把助動詞移到主詞之前，例如 Never have I seen...。",
+   "這是較正式的強調用法，常見於演講、寫作與大考閱讀。"
+  ],
+  "examples": [
+   {
+    "en": "Never have I seen such a beautiful sunset.",
+    "zh": "我從未見過這麼美的日落。",
+    "hl": [
+     "Never have I seen"
+    ]
+   },
+   {
+    "en": "Rarely does my brother eat breakfast at home.",
+    "zh": "我哥哥很少在家吃早餐。",
+    "hl": [
+     "Rarely does my brother eat"
+    ]
+   },
+   {
+    "en": "Seldom was the library so quiet during exam week.",
+    "zh": "考試週時圖書館很少這麼安靜。",
+    "hl": [
+     "Seldom was the library"
+    ]
+   }
+  ],
+  "tip": "倒裝後一般動詞要用原形。錯：Rarely does he goes out. → 對：Rarely does he go out.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Never ______ so many people in the night market.",
+    "o": [
+     "I have seen",
+     "have I seen",
+     "I saw",
+     "did I saw"
+    ],
+    "a": 1,
+    "ex": "否定副詞 never 置於句首，後面要倒裝，完成式把 have 放在主詞前。"
+   },
+   {
+    "type": "mc",
+    "s": "Seldom ______ to school late because he lives nearby.",
+    "o": [
+     "does he come",
+     "he comes",
+     "does he comes",
+     "he does come"
+    ],
+    "a": 0,
+    "ex": "一般動詞倒裝需借用 does，動詞用原形 come。"
+   },
+   {
+    "type": "mc",
+    "s": "Little ______ that the surprise party was for her.",
+    "o": [
+     "she knew",
+     "she did know",
+     "knew she",
+     "did she know"
+    ],
+    "a": 3,
+    "ex": "little 置於句首表強調，後面用助動詞倒裝 did she know。"
+   },
+   {
+    "type": "mc",
+    "s": "Rarely ______ such a polite student in this school.",
+    "o": [
+     "we find",
+     "we do find",
+     "do we find",
+     "do we finding"
+    ],
+    "a": 2,
+    "ex": "rarely 置句首須倒裝，助動詞 do 在主詞前，動詞為原形 find。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Hardly had we arrived when it began to rain.",
+     "Hardly we had arrived when it began to rain.",
+     "Hardly had arrived we when it began to rain.",
+     "Hardly did we arrived when it began to rain."
+    ],
+    "a": 0,
+    "ex": "hardly 置句首須倒裝，過去完成式把 had 放在主詞前；其他選項語序或動詞形式錯誤。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Never my parents did argue in front of us.",
+     "Never did my parents argued in front of us.",
+     "Never did my parents argue in front of us.",
+     "Never argued my parents in front of us."
+    ],
+    "a": 2,
+    "ex": "never 置句首：did + 主詞 + 原形動詞；其他選項未倒裝、動詞形式錯誤，或一般動詞直接倒裝。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G4-L01-1",
+  "b": 4,
+  "l": "L01",
+  "title": "要求、建議類動詞後的 that 子句",
+  "formula": "S + suggest / insist / demand / recommend + that + S + (should) + V原形",
+  "points": [
+   "表示「建議、要求、堅持、命令」的動詞（suggest, recommend, insist, demand, require, order, propose）後接 that 子句時，子句動詞用「(should) + 原形動詞」。",
+   "子句主詞即使是第三人稱單數，動詞也不加 -s；即使主要動詞是過去式，子句動詞仍用原形。",
+   "否定時用 (should) not + V原形，不需借助 do。",
+   "注意：insist 若表示「堅稱某事為事實」，則依事實的時態，不用原形。"
+  ],
+  "examples": [
+   {
+    "en": "Our teacher suggested that we review Lesson 3 before the quiz.",
+    "zh": "老師建議我們在小考前複習第三課。",
+    "hl": [
+     "suggested that we review"
+    ]
+   },
+   {
+    "en": "The doctor insists that my brother get more sleep every night.",
+    "zh": "醫生堅持我弟弟每晚要多睡一點。",
+    "hl": [
+     "insists that my brother get"
+    ]
+   },
+   {
+    "en": "The rules require that every student wear a name tag.",
+    "zh": "規定要求每位學生都要戴名牌。",
+    "hl": [
+     "require that every student wear"
+    ]
+   }
+  ],
+  "tip": "that 子句的動詞不隨主詞或時態變化。錯：The coach demanded that he runs faster. 對：The coach demanded that he (should) run faster.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The manager suggested that Emily ______ the report again before sending it.",
+    "o": [
+     "checks",
+     "check",
+     "checked",
+     "is checking"
+    ],
+    "a": 1,
+    "ex": "suggest 後的 that 子句用 (should) + 原形動詞，故用 check，主詞 Emily 雖為單數也不加 -s。"
+   },
+   {
+    "type": "mc",
+    "s": "My parents insisted that I ______ home before ten o'clock last night.",
+    "o": [
+     "am",
+     "was being",
+     "be",
+     "being"
+    ],
+    "a": 2,
+    "ex": "insist 表示「堅持要求」時，that 子句用原形動詞，be 為正確形式。"
+   },
+   {
+    "type": "mc",
+    "s": "The school requires that all visitors ______ in at the front desk.",
+    "o": [
+     "signs",
+     "signed",
+     "sign",
+     "to sign"
+    ],
+    "a": 2,
+    "ex": "require 後的 that 子句用 (should) + 原形，故選 sign。"
+   },
+   {
+    "type": "mc",
+    "s": "The doctor advised that Grandpa ______ any heavy food at night.",
+    "o": [
+     "doesn't eat",
+     "not eat",
+     "didn't eat",
+     "not eats"
+    ],
+    "a": 1,
+    "ex": "advise 後的 that 子句用 (should) + 原形，否定為 not + 原形，故選 not eat。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The guide recommended that we bring warm clothes to the mountain.",
+     "The guide recommended that we brought warm clothes to the mountain.",
+     "The guide recommended that we to bring warm clothes to the mountain.",
+     "The guide recommended that we bringing warm clothes to the mountain."
+    ],
+    "a": 0,
+    "ex": "recommend 後的 that 子句動詞用原形 bring；其他選項分別誤用過去式、to V 與 V-ing。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Mom demanded that my sister cleans her room right away.",
+     "Mom demanded that my sister cleaned her room right away.",
+     "Mom demanded that my sister clean her room right away.",
+     "Mom demanded that my sister should to clean her room right away."
+    ],
+    "a": 2,
+    "ex": "demand 後的 that 子句用原形動詞 clean；其他選項分別誤加 -s、誤用過去式，或 should 後誤接 to。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G4-L02-1",
+  "b": 4,
+  "l": "L02",
+  "title": "與現在事實相反的假設語氣",
+  "formula": "If + S + 過去式 (be 用 were), S + would / could / might + V原形",
+  "points": [
+   "假設與現在事實相反的情況時，if 子句用過去式，主要子句用 would / could / might + 原形動詞。",
+   "if 子句中的 be 動詞不論主詞是什麼，正式用法都用 were，例如 If I were you。",
+   "主要子句的 would 表示「就會」，could 表示「就能」，might 表示「也許會」。",
+   "這類句子表示現在並非如此，只是想像或提出假想。"
+  ],
+  "examples": [
+   {
+    "en": "If I had a bike, I would ride to school every day.",
+    "zh": "如果我有一輛腳踏車，我每天都會騎去學校。",
+    "hl": [
+     "had a bike",
+     "would ride"
+    ]
+   },
+   {
+    "en": "If Tom were taller, he could join the basketball team.",
+    "zh": "如果湯姆再高一點，他就能加入籃球隊。",
+    "hl": [
+     "were taller",
+     "could join"
+    ]
+   },
+   {
+    "en": "What would you do if you won a free trip to Japan?",
+    "zh": "如果你贏得一趟免費的日本旅行，你會怎麼做？",
+    "hl": [
+     "would you do",
+     "won a free trip"
+    ]
+   }
+  ],
+  "tip": "if 子句與主要子句不要同時用 would。錯：If I would have time, I would help you. 對：If I had time, I would help you.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "If I ______ the answer, I would tell you right now.",
+    "o": [
+     "know",
+     "will know",
+     "knew",
+     "had known"
+    ],
+    "a": 2,
+    "ex": "與現在事實相反，if 子句用過去式，故選 knew。"
+   },
+   {
+    "type": "mc",
+    "s": "If Lisa ______ here now, she would help us carry these boxes.",
+    "o": [
+     "is",
+     "will be",
+     "were",
+     "has been"
+    ],
+    "a": 2,
+    "ex": "主要子句用 would help，表示與現在事實相反（Lisa 現在不在），if 子句用 were。"
+   },
+   {
+    "type": "mc",
+    "s": "If it ______ outside today, we would play baseball after school.",
+    "o": [
+     "doesn't rain",
+     "didn't rain",
+     "won't rain",
+     "hadn't rained"
+    ],
+    "a": 1,
+    "ex": "與現在事實相反的假設，if 子句用過去式，故選 didn't rain。"
+   },
+   {
+    "type": "mc",
+    "s": "If I ______ you, I would talk to the teacher about the problem.",
+    "o": [
+     "am",
+     "will be",
+     "would be",
+     "were"
+    ],
+    "a": 3,
+    "ex": "If I were you 是常見的假設用法，be 動詞用 were。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "If we have more time, we could visit the science museum.",
+     "If we had more time, we could visit the science museum.",
+     "If we would have more time, we could visit the science museum.",
+     "If we had more time, we can visit the science museum."
+    ],
+    "a": 1,
+    "ex": "與現在事實相反，if 子句用過去式 had，主要子句用 could。其他選項時態或助動詞錯誤。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "If Ben was good at math, he will not ask me for help.",
+     "If Ben is good at math, he would not ask me for help.",
+     "If Ben were good at math, he would not ask me for help.",
+     "If Ben would be good at math, he would not ask me for help."
+    ],
+    "a": 2,
+    "ex": "正確句用 were 搭配 would not + 原形。其他選項混用時態，或在 if 子句中使用 would。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G4-L03-1",
+  "b": 4,
+  "l": "L03",
+  "title": "It is + 形容詞 + that 子句（原形動詞）",
+  "formula": "It is + important / necessary / urgent / essential + that + S + (should) + V原形",
+  "points": [
+   "表示「重要、必要、緊急」等評價的形容詞後接 that 子句時，子句動詞用 (should) + 原形。",
+   "常見形容詞：important, necessary, essential, crucial, vital, urgent, imperative。",
+   "主要子句可用 It is 或 It was，但 that 子句動詞仍不隨時態變化。",
+   "否定時用 (should) not + V原形。"
+  ],
+  "examples": [
+   {
+    "en": "It is essential that every student arrive on time for the exam.",
+    "zh": "每位學生準時到考場是非常重要的。",
+    "hl": [
+     "essential that every student arrive"
+    ]
+   },
+   {
+    "en": "It was necessary that the team practice every morning.",
+    "zh": "球隊當時有必要每天早上練習。",
+    "hl": [
+     "necessary that the team practice"
+    ]
+   },
+   {
+    "en": "It is important that you not forget your passport.",
+    "zh": "你不要忘記帶護照是很重要的。",
+    "hl": [
+     "important that you not forget"
+    ]
+   }
+  ],
+  "tip": "形容詞後面的 that 子句不是陳述事實，所以不加 -s 或過去式。錯：It is vital that she goes now. 對：It is vital that she (should) go now.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "It is important that every member ______ the safety rules.",
+    "o": [
+     "follows",
+     "followed",
+     "follow",
+     "is following"
+    ],
+    "a": 2,
+    "ex": "important 後的 that 子句用 (should) + 原形，故選 follow。"
+   },
+   {
+    "type": "mc",
+    "s": "It was necessary that the doctor ______ the patient immediately.",
+    "o": [
+     "sees",
+     "see",
+     "saw",
+     "seeing"
+    ],
+    "a": 1,
+    "ex": "necessary 後的 that 子句用原形動詞，雖然主要子句是過去式也不變。"
+   },
+   {
+    "type": "mc",
+    "s": "It is urgent that the boys ______ out of the building right now.",
+    "o": [
+     "got",
+     "get",
+     "gets",
+     "are getting"
+    ],
+    "a": 1,
+    "ex": "urgent 後的 that 子句用 (should) + 原形，故選 get。"
+   },
+   {
+    "type": "mc",
+    "s": "It is vital that Mia ______ late for her job interview tomorrow.",
+    "o": [
+     "isn't",
+     "won't be",
+     "wasn't",
+     "not be"
+    ],
+    "a": 3,
+    "ex": "否定形式為 (should) not + 原形，故選 not be。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "It is crucial that he take his medicine on time.",
+     "It is crucial that he takes his medicine on time.",
+     "It is crucial that he took his medicine on time.",
+     "It is crucial that he taking his medicine on time."
+    ],
+    "a": 0,
+    "ex": "crucial 後的 that 子句動詞用原形 take，不加 -s；其他選項為 -s、過去式與 V-ing。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "It was essential that we left before the storm came.",
+     "It was essential that we leaving before the storm came.",
+     "It was essential that we leave before the storm came.",
+     "It was essential that we to leave before the storm came."
+    ],
+    "a": 2,
+    "ex": "essential 後的 that 子句用原形 leave，不隨主要子句的過去式變化。其他選項形式錯誤。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G4-L04-1",
+  "b": 4,
+  "l": "L04",
+  "title": "seem / appear + to V（to have p.p.）",
+  "formula": "S + seem / appear + to + V原形　／　S + seem / appear + to have + p.p.",
+  "points": [
+   "seem 與 appear 後接不定詞表示「似乎」，to + 原形表示與現在同時的狀態。",
+   "to have + p.p. 表示「似乎已經…」，所指的事發生在更早的時間。",
+   "He seems to know 可改寫為 It seems that he knows；兩者意思相同。",
+   "seem 是連綴動詞，通常不用進行式，也不能用被動。"
+  ],
+  "examples": [
+   {
+    "en": "My little sister seems to enjoy her new school.",
+    "zh": "我妹妹似乎很喜歡她的新學校。",
+    "hl": [
+     "seems to enjoy"
+    ]
+   },
+   {
+    "en": "The streets are wet, so it appears to have rained last night.",
+    "zh": "街道是濕的，所以昨晚似乎下過雨。",
+    "hl": [
+     "appears to have rained"
+    ]
+   },
+   {
+    "en": "Our neighbors seem to have moved away already.",
+    "zh": "我們的鄰居似乎已經搬走了。",
+    "hl": [
+     "seem to have moved"
+    ]
+   }
+  ],
+  "tip": "to have p.p. 表示動作比 seem 更早發生。要說「似乎已經感冒了」要用 seems to have caught a cold，而非 seems to catch。",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The little boy seems ______ his way in the crowded market.",
+    "o": [
+     "to has lost",
+     "losing",
+     "to have lost",
+     "lost"
+    ],
+    "a": 2,
+    "ex": "表示「似乎已經迷路」，動作發生在 seems 之前，用 to have + p.p.，故選 to have lost。"
+   },
+   {
+    "type": "mc",
+    "s": "Everyone in the room seems ______ interested in the new teacher's story.",
+    "o": [
+     "to been",
+     "being",
+     "to be",
+     "be"
+    ],
+    "a": 2,
+    "ex": "seem 後接 to + 原形，故選 to be。"
+   },
+   {
+    "type": "mc",
+    "s": "The ground is covered with leaves, so it appears ______ very hard last night.",
+    "o": [
+     "to blow",
+     "to have blown",
+     "blowing",
+     "to be blown"
+    ],
+    "a": 1,
+    "ex": "昨晚的事發生在說話之前，用 to have + p.p.，故選 to have blown。"
+   },
+   {
+    "type": "mc",
+    "s": "The streets are empty. Everyone seems ______ for the holiday already.",
+    "o": [
+     "to leave",
+     "leaving",
+     "has left",
+     "to have left"
+    ],
+    "a": 3,
+    "ex": "「似乎已經離開了」用 to have + p.p.；seem 後不能直接接完成式動詞 has left。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Dad seems to has forgotten the keys at home.",
+     "Dad seems forgot the keys at home.",
+     "Dad seems to have forgotten the keys at home.",
+     "Dad seems forgetting the keys at home."
+    ],
+    "a": 2,
+    "ex": "seem 後接 to have + p.p. 表示過去已發生的事，故正確。其他選項動詞形式錯誤。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The test appears to being easy for most students.",
+     "The test appears to be easy for most students.",
+     "The test appears be easy for most students.",
+     "The test appears easily for most students."
+    ],
+    "a": 1,
+    "ex": "appear 後用 to + 原形 be。其他選項誤用 to being、缺少 to，或誤用副詞 easily。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G4-L05-1",
+  "b": 4,
+  "l": "L05",
+  "title": "與過去事實相反的假設語氣",
+  "formula": "If + S + had + p.p., S + would / could / might + have + p.p.",
+  "points": [
+   "假設與過去事實相反的情況時，if 子句用過去完成式 had + p.p.。",
+   "主要子句用 would / could / might + have + p.p.，表示「當時就會、就能…」。",
+   "這類句子常用來表達後悔、遺憾或慶幸。",
+   "if 子句和主要子句都不用過去簡單式或 will。"
+  ],
+  "examples": [
+   {
+    "en": "If I had studied harder, I would have passed the test.",
+    "zh": "如果我當時更用功，我就通過考試了。",
+    "hl": [
+     "had studied",
+     "would have passed"
+    ]
+   },
+   {
+    "en": "If the bus had come earlier, we could have caught the train.",
+    "zh": "如果公車早點來，我們就趕得上火車了。",
+    "hl": [
+     "had come",
+     "could have caught"
+    ]
+   },
+   {
+    "en": "She might have won the game if she had practiced more.",
+    "zh": "如果她多練習，她也許就贏得比賽了。",
+    "hl": [
+     "might have won",
+     "had practiced"
+    ]
+   }
+  ],
+  "tip": "與過去事實相反要用 had p.p.，不能用 would have。錯：If I would have known, I would have told you. 對：If I had known, I would have told you.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "If I ______ the alarm, I would not have been late for school.",
+    "o": [
+     "had heard",
+     "heard",
+     "would hear",
+     "have heard"
+    ],
+    "a": 0,
+    "ex": "與過去事實相反，if 子句用 had + p.p.，故選 had heard。"
+   },
+   {
+    "type": "mc",
+    "s": "If Anna had asked me, I ______ her with the homework.",
+    "o": [
+     "would help",
+     "helped",
+     "would have helped",
+     "had helped"
+    ],
+    "a": 2,
+    "ex": "主要子句用 would have + p.p. 表示對過去的假設，故選 would have helped。"
+   },
+   {
+    "type": "mc",
+    "s": "We ______ to the zoo yesterday if it had not rained.",
+    "o": [
+     "would go",
+     "would have gone",
+     "went",
+     "had gone"
+    ],
+    "a": 1,
+    "ex": "if 子句為 had not rained，主要子句用 would have + p.p.，故選 would have gone。"
+   },
+   {
+    "type": "mc",
+    "s": "If the driver ______ more carefully, the accident might not have happened.",
+    "o": [
+     "drove",
+     "drives",
+     "would drive",
+     "had driven"
+    ],
+    "a": 3,
+    "ex": "與過去事實相反，if 子句用 had + p.p.，故選 had driven。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "If he had saved enough money, he could have bought the camera.",
+     "If he saved enough money, he could have bought the camera.",
+     "If he would have saved enough money, he could have bought the camera.",
+     "If he had saved enough money, he could buy the camera yesterday."
+    ],
+    "a": 0,
+    "ex": "過去假設為 had + p.p. 搭配 could have + p.p.。其他選項時態或助動詞不符。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "If you told me the truth, I would have forgiven you.",
+     "If you had told me the truth, I would have forgiven you.",
+     "If you had told me the truth, I would forgive you yesterday.",
+     "If you would have told me the truth, I would have forgiven you."
+    ],
+    "a": 1,
+    "ex": "if 子句用 had told，主要子句用 would have forgiven。其他選項在時態或 would have 位置上有誤。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G4-L06-1",
+  "b": 4,
+  "l": "L06",
+  "title": "Not until 置於句首的倒裝",
+  "formula": "Not until + 子句／時間詞, + 助動詞／be + S + V…",
+  "points": [
+   "not until 引導的子句或時間詞放在句首時，主要子句要倒裝，意思是「直到…才…」。",
+   "倒裝方式：be 動詞或助動詞移到主詞前，一般動詞則借助 do / does / did。",
+   "not until 子句本身不倒裝，只有後面的主要子句倒裝。",
+   "未倒裝的寫法為 S + not + V + until...，例如 I did not leave until he came。"
+  ],
+  "examples": [
+   {
+    "en": "Not until the bell rang did the students leave the classroom.",
+    "zh": "直到鈴響，學生才離開教室。",
+    "hl": [
+     "Not until the bell rang",
+     "did the students leave"
+    ]
+   },
+   {
+    "en": "Not until last year did my uncle learn how to swim.",
+    "zh": "直到去年我叔叔才學會游泳。",
+    "hl": [
+     "Not until last year",
+     "did my uncle learn"
+    ]
+   },
+   {
+    "en": "Not until we got home were we able to eat dinner.",
+    "zh": "直到到家我們才吃得到晚餐。",
+    "hl": [
+     "Not until we got home",
+     "were we able"
+    ]
+   }
+  ],
+  "tip": "倒裝的是主要子句，not until 子句不倒裝。錯：Not until I came home I called her. 對：Not until I came home did I call her.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Not until the movie ended ______ the lights come on.",
+    "o": [
+     "do",
+     "did",
+     "does",
+     "was"
+    ],
+    "a": 1,
+    "ex": "主要子句是過去式，一般動詞 come 前借助 did 倒裝，故選 did。"
+   },
+   {
+    "type": "mc",
+    "s": "Not until midnight ______ the little boy fall asleep.",
+    "o": [
+     "was",
+     "has",
+     "had",
+     "did"
+    ],
+    "a": 3,
+    "ex": "倒裝句中一般動詞 fall 需借助助動詞，過去時態用 did。"
+   },
+   {
+    "type": "mc",
+    "s": "Not until you finish your homework ______ allowed to play games.",
+    "o": [
+     "are you",
+     "you are",
+     "do you",
+     "will you"
+    ],
+    "a": 0,
+    "ex": "主要子句倒裝，be 動詞 are 放在主詞 you 前，故選 are you。"
+   },
+   {
+    "type": "mc",
+    "s": "Not until she arrived at the station ______ that she had left her bag at home.",
+    "o": [
+     "she realized",
+     "she did realize",
+     "realized she",
+     "did she realize"
+    ],
+    "a": 3,
+    "ex": "主要子句倒裝，助動詞 did 放在主詞前，故為 did she realize。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Not until the rain stopped we went outside.",
+     "Not until the rain stopped did we went outside.",
+     "Not until the rain stopped did we go outside.",
+     "Not until did the rain stop we went outside."
+    ],
+    "a": 2,
+    "ex": "主要子句要倒裝為 did we go；其他選項沒有倒裝、助動詞後仍用過去式，或把 not until 子句誤倒裝。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Not until he apologized she was willing to talk to him.",
+     "Not until he apologized was willing she to talk to him.",
+     "Not until he apologized was she willing to talk to him.",
+     "Not until he apologized, willing was she to talk to him."
+    ],
+    "a": 2,
+    "ex": "主要子句 be 動詞 was 放主詞前，為 was she willing；其他選項未倒裝或倒裝位置錯誤。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G4-L07-1",
+  "b": 4,
+  "l": "L07",
+  "title": "If it were not for... / If it had not been for...",
+  "formula": "If it were not for + N, S + would + V　／　If it had not been for + N, S + would have + p.p.",
+  "points": [
+   "If it were not for + 名詞 表示「若非有…（現在）」，主要子句用 would / could + 原形。",
+   "If it had not been for + 名詞 表示「若當時沒有…」，主要子句用 would have + p.p.。",
+   "可用 Without + 名詞 或 But for + 名詞 改寫，意思相近。",
+   "常用來表達感謝、慶幸，說明某人或某物的重要。"
+  ],
+  "examples": [
+   {
+    "en": "If it were not for the Internet, we would not find information so quickly.",
+    "zh": "如果沒有網路，我們不會這麼快找到資料。",
+    "hl": [
+     "If it were not for",
+     "would not find"
+    ]
+   },
+   {
+    "en": "If it had not been for your advice, I would have made a big mistake.",
+    "zh": "如果沒有你的建議，我就會犯下大錯。",
+    "hl": [
+     "If it had not been for",
+     "would have made"
+    ]
+   },
+   {
+    "en": "Without my alarm clock, I would be late for school every day.",
+    "zh": "如果沒有鬧鐘，我每天都會遲到。",
+    "hl": [
+     "Without my alarm clock",
+     "would be late"
+    ]
+   }
+  ],
+  "tip": "If it were not for 後面接名詞，不接完整子句。錯：If it were not for he helped me... 對：If it were not for his help, ...",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "If it ______ for the nurse's quick action, the patient would be in danger now.",
+    "o": [
+     "were not",
+     "is not",
+     "had not been",
+     "will not be"
+    ],
+    "a": 0,
+    "ex": "現在的假設用 If it were not for，故選 were not。"
+   },
+   {
+    "type": "mc",
+    "s": "If it ______ for your help last week, I would have failed the project.",
+    "o": [
+     "were not",
+     "was not",
+     "had not been",
+     "would not be"
+    ],
+    "a": 2,
+    "ex": "表示過去事實相反，用 If it had not been for，故選 had not been。"
+   },
+   {
+    "type": "mc",
+    "s": "If it were not for the sun, all plants ______ to grow.",
+    "o": [
+     "fail",
+     "would fail",
+     "failed",
+     "had failed"
+    ],
+    "a": 1,
+    "ex": "If it were not for 為現在假設，主要子句用 would + 原形，故選 would fail。"
+   },
+   {
+    "type": "mc",
+    "s": "If it had not been for the map, we ______ lost in the forest.",
+    "o": [
+     "would get",
+     "had gotten",
+     "get",
+     "would have gotten"
+    ],
+    "a": 3,
+    "ex": "If it had not been for 後主要子句用 would have + p.p.，故選 would have gotten。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "If it were not for music, my life would be dull.",
+     "If it is not for music, my life would be dull.",
+     "If it were not for music, my life will be dull.",
+     "If it were not for music is my life, it would be dull."
+    ],
+    "a": 0,
+    "ex": "If it were not for + 名詞，主要子句用 would + 原形。其他選項時態、助動詞或句構錯誤。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "If it had not been for her kindness, I would feel lonely then.",
+     "If it had not been for her kindness, I would have felt lonely.",
+     "If it were not for her kindness, I would have felt lonely.",
+     "If it had not been her kindness, I would have felt lonely."
+    ],
+    "a": 1,
+    "ex": "過去假設為 had not been for 搭配 would have + p.p.。其他選項時態不符或漏了 for。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G4-L08-1",
+  "b": 4,
+  "l": "L08",
+  "title": "Only + 副詞片語／子句 置於句首的倒裝",
+  "formula": "Only + 副詞（片語／子句）+ 助動詞／be + S + V…",
+  "points": [
+   "only 加上副詞、介系詞片語或子句放在句首時，後面的主要子句要倒裝，以加強語氣。",
+   "倒裝方式：be 動詞或助動詞移到主詞前，一般動詞則借助 do / does / did。",
+   "常見形式：Only then, Only by + V-ing, Only when..., Only after..., Only in this way。",
+   "only 修飾主詞時不倒裝，例如 Only Tom knows the answer。"
+  ],
+  "examples": [
+   {
+    "en": "Only by working together can we finish this project on time.",
+    "zh": "只有一起努力，我們才能準時完成這個專案。",
+    "hl": [
+     "Only by working together",
+     "can we finish"
+    ]
+   },
+   {
+    "en": "Only after the test did Amy feel relaxed.",
+    "zh": "直到考試結束後，艾咪才覺得放鬆。",
+    "hl": [
+     "Only after the test",
+     "did Amy feel"
+    ]
+   },
+   {
+    "en": "Only when you ask politely will the clerk help you.",
+    "zh": "只有在你客氣詢問時，店員才會幫你。",
+    "hl": [
+     "Only when you ask politely",
+     "will the clerk help"
+    ]
+   }
+  ],
+  "tip": "倒裝的是主要子句，只有 only + 副詞成分在句首才倒裝。錯：Only then I understood. 對：Only then did I understand.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Only in this way ______ solve the problem.",
+    "o": [
+     "we can",
+     "do we",
+     "can we",
+     "are we"
+    ],
+    "a": 2,
+    "ex": "only + 副詞片語在句首，後面倒裝，助動詞 can 放主詞 we 前，故選 can we。"
+   },
+   {
+    "type": "mc",
+    "s": "Only after dinner last night ______ my brother finish his homework.",
+    "o": [
+     "does",
+     "did",
+     "was",
+     "had"
+    ],
+    "a": 1,
+    "ex": "Only + 時間副詞置句首要倒裝；last night 是過去，句中動詞 finish 為原形，故用助動詞 did。"
+   },
+   {
+    "type": "mc",
+    "s": "Only when the teacher came in ______ quiet.",
+    "o": [
+     "did the students become",
+     "the students became",
+     "the students did become",
+     "became the students"
+    ],
+    "a": 0,
+    "ex": "only when 子句在句首，主要子句倒裝，故為 did the students become。"
+   },
+   {
+    "type": "mc",
+    "s": "Only by reading every day ______ improve your English.",
+    "o": [
+     "you can",
+     "can you",
+     "do you",
+     "you do"
+    ],
+    "a": 1,
+    "ex": "only by + V-ing 在句首，後面倒裝為 can you + 原形。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Only then I realized the mistake.",
+     "Only then did I realized the mistake.",
+     "Only then did I realize the mistake.",
+     "Only then realized I the mistake."
+    ],
+    "a": 2,
+    "ex": "only then 在句首，後面用 did + 主詞 + 原形，故為 did I realize。其他選項未倒裝，或助動詞後誤用過去式。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Only when it is quiet I can study well.",
+     "Only when it is quiet can study I well.",
+     "Only when is it quiet can I study well.",
+     "Only when it is quiet can I study well."
+    ],
+    "a": 3,
+    "ex": "only when 子句本身不倒裝，主要子句才倒裝為 can I study。其他選項未倒裝，或誤倒裝子句。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G4-L09-1",
+  "b": 4,
+  "l": "L09",
+  "title": "must have p.p.（對過去的肯定推測）",
+  "formula": "S + must have + p.p.",
+  "points": [
+   "must have + p.p. 表示對過去事實的肯定推測，意思是「一定已經…、想必當時…」。",
+   "推測的把握很高，通常根據眼前的證據或線索。",
+   "否定推測用 can't have + p.p.，表示「不可能已經…」。",
+   "與 should have + p.p.（早該做而沒做）意思不同，要依句意區分。"
+  ],
+  "examples": [
+   {
+    "en": "The floor is wet, so it must have rained last night.",
+    "zh": "地板是濕的，所以昨晚一定下過雨。",
+    "hl": [
+     "must have rained"
+    ]
+   },
+   {
+    "en": "Kevin looks exhausted. He must have stayed up late.",
+    "zh": "凱文看起來很累，他一定熬夜了。",
+    "hl": [
+     "must have stayed"
+    ]
+   },
+   {
+    "en": "The cake is gone. My brother must have eaten it.",
+    "zh": "蛋糕不見了，一定是我弟弟吃掉了。",
+    "hl": [
+     "must have eaten"
+    ]
+   }
+  ],
+  "tip": "must have p.p. 是推測，不是責備。「早該做卻沒做」要用 should have p.p.；「不可能已經」用 can't have p.p.，不用 mustn't have。",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The lights are off, so everyone ______ home already.",
+    "o": [
+     "must have gone",
+     "must go",
+     "must be gone to",
+     "should go"
+    ],
+    "a": 0,
+    "ex": "根據線索推測過去已經發生的事，用 must have + p.p.，故選 must have gone。"
+   },
+   {
+    "type": "mc",
+    "s": "Jenny didn't answer the phone. She ______ asleep.",
+    "o": [
+     "must fall",
+     "must have fallen",
+     "must be fallen",
+     "must have fall"
+    ],
+    "a": 1,
+    "ex": "對過去事實的肯定推測用 must have + p.p.；fall 的過去分詞為 fallen。"
+   },
+   {
+    "type": "mc",
+    "s": "The window is broken. Someone ______ it with a ball.",
+    "o": [
+     "must hit",
+     "must be hit",
+     "must have hit",
+     "had hit"
+    ],
+    "a": 2,
+    "ex": "對過去事實的推測，用 must have + p.p.，故選 must have hit。"
+   },
+   {
+    "type": "mc",
+    "s": "Tom got full marks on the test. He ______ hard.",
+    "o": [
+     "must study",
+     "should study",
+     "must be studied",
+     "must have studied"
+    ],
+    "a": 3,
+    "ex": "根據他得到滿分的事實推測，用 must have + p.p.，故選 must have studied。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The road is blocked, so there must have been an accident.",
+     "The road is blocked, so there must have an accident.",
+     "The road is blocked, so there must be had an accident.",
+     "The road is blocked, so there must been an accident."
+    ],
+    "a": 0,
+    "ex": "推測過去有事故用 must have been；其他選項漏掉 been 或助動詞形式錯誤。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "She must has left her wallet on the bus.",
+     "She must have left her wallet on the bus.",
+     "She must have leave her wallet on the bus.",
+     "She must have leaving her wallet on the bus."
+    ],
+    "a": 1,
+    "ex": "must 後要接 have，再接過去分詞 left。其他選項誤用 has、原形或 V-ing。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G5-L01-1",
+  "b": 5,
+  "l": "L01",
+  "title": "複合關係代名詞 whatever / whoever",
+  "formula": "whatever / whoever / whichever + (S) + V ...",
+  "points": [
+   "whatever = anything that，whoever = anyone who，whichever = 任何一個（在選定範圍內），本身同時含有先行詞和關係代名詞，所以前面不再放名詞。",
+   "這類字引導的名詞子句可以當主詞、受詞或介系詞的受詞，整個子句視為單數，後面動詞要配合。",
+   "whatever 子句裡若缺主詞或受詞，要由 whatever 本身補上，不能再多放 that 或 it。"
+  ],
+  "examples": [
+   {
+    "en": "Whatever you decide to do after school will be fine with me.",
+    "zh": "放學後你決定做什麼，我都沒意見。",
+    "hl": [
+     "Whatever you decide"
+    ]
+   },
+   {
+    "en": "The teacher gives extra points to whoever answers the question first.",
+    "zh": "老師會給最先回答問題的人加分。",
+    "hl": [
+     "whoever answers"
+    ]
+   },
+   {
+    "en": "You can borrow whichever book looks interesting to you.",
+    "zh": "你可以借任何一本你覺得有趣的書。",
+    "hl": [
+     "whichever book looks"
+    ]
+   }
+  ],
+  "tip": "whatever 已含先行詞，不可寫成 Anything whatever ... 或 whatever that ...。誤：Whatever that he says is true. → 正：Whatever he says is true.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "______ wants to join the hiking club should sign up before Friday.",
+    "o": [
+     "Whoever",
+     "Whomever that",
+     "Whatever",
+     "Whatever one"
+    ],
+    "a": 0,
+    "ex": "空格後缺主詞，指人且作 wants 的主詞，用 Whoever。Whatever 指事物，不合。"
+   },
+   {
+    "type": "mc",
+    "s": "The cafeteria lets us eat ______ we like, as long as we finish it.",
+    "o": [
+     "what that",
+     "whatever",
+     "whoever",
+     "anything what"
+    ],
+    "a": 1,
+    "ex": "eat 的受詞為「任何我們喜歡的東西」，用 whatever 即可，不能再加 what that 或 anything what。"
+   },
+   {
+    "type": "mc",
+    "s": "You may take ______ seat is empty; no one has reserved any of them.",
+    "o": [
+     "whichever",
+     "whoever",
+     "whatever it",
+     "which it"
+    ],
+    "a": 0,
+    "ex": "後接名詞 seat，表示「任何一個」，用 whichever + 名詞；whoever 指人，不能修飾 seat。"
+   },
+   {
+    "type": "mc",
+    "s": "Our class will give a small gift to ______ gets the highest score in the contest.",
+    "o": [
+     "whomever",
+     "whatever",
+     "whoever",
+     "who ever"
+    ],
+    "a": 2,
+    "ex": "gets 前缺主詞，雖然前面有介系詞 to，仍由子句內的角色決定，主詞用 whoever，而非 whomever。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Whatever that my sister cooks tastes delicious.",
+     "Whatever my sister cooks tastes delicious.",
+     "Anything whatever my sister cooks tastes delicious.",
+     "Whatever my sister cooks taste delicious."
+    ],
+    "a": 1,
+    "ex": "whatever 已含先行詞與關代，不可再加 that，也不可前面再放 anything；整個子句為單數，動詞用 tastes。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Whoever are late for class must tell the teacher why.",
+     "Whoever is late for class must to tell the teacher why.",
+     "Whoever is late for class must tell the teacher why.",
+     "Whomever is late for class must tell the teacher why."
+    ],
+    "a": 2,
+    "ex": "Whoever 子句視為單數，用 is；must 後接原形動詞，不加 to；late 前缺主詞，應用 whoever 而非 whomever。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G5-L02-1",
+  "b": 5,
+  "l": "L02",
+  "title": "for fear that 以免、唯恐",
+  "formula": "S + V + for fear that + S + would / should / might + V原形",
+  "points": [
+   "for fear that 意思是「以免、唯恐」，表示做某件事是因為擔心另一件壞事發生，語氣較正式。",
+   "that 子句要用 would、should 或 might 加原形動詞，不用 will 或 can；that 有時可省略。",
+   "for fear that 本身已有否定意味，子句中不可再加 not，如 for fear that he would not be late 是錯的。",
+   "相近用法：lest + S + (should) + V原形 意思相同；so that ... not ... 也能表示「以免」，但 so that 子句要用 won't / wouldn't 等否定形式。"
+  ],
+  "examples": [
+   {
+    "en": "I whispered for fear that I should wake my roommate.",
+    "zh": "我輕聲說話，以免吵醒室友。",
+    "hl": [
+     "for fear that I should wake"
+    ]
+   },
+   {
+    "en": "She kept her phone on silent for fear that it would ring during the test.",
+    "zh": "她把手機調成靜音，唯恐考試時響起來。",
+    "hl": [
+     "for fear that it would ring"
+    ]
+   },
+   {
+    "en": "The boys walked slowly for fear that the ice might break.",
+    "zh": "男孩們慢慢走，生怕冰面破裂。",
+    "hl": [
+     "for fear that the ice might break"
+    ]
+   }
+  ],
+  "tip": "for fear that 後不可再加 not，也不用 will。誤：Run for fear that you will not miss the bus. → 正：Run for fear that you might miss the bus.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "He locked the bike for fear that someone ______ it.",
+    "o": [
+     "will steal",
+     "would steal",
+     "not steal",
+     "steals"
+    ],
+    "a": 1,
+    "ex": "for fear that 後接 would / should / might + 原形，would steal 正確；will 與單純現在式 steals 不合。"
+   },
+   {
+    "type": "mc",
+    "s": "We stayed quiet for fear that the baby ______ up.",
+    "o": [
+     "wake",
+     "might wake",
+     "didn't wake",
+     "woke not"
+    ],
+    "a": 1,
+    "ex": "for fear that 子句用 might + 原形，might wake 正確；其他選項沒有助動詞，或多出否定。"
+   },
+   {
+    "type": "mc",
+    "s": "She took notes carefully for fear that she ______ the homework.",
+    "o": [
+     "would forget",
+     "would not forget",
+     "will forget",
+     "forgot not"
+    ],
+    "a": 0,
+    "ex": "for fear that 本身含否定意味，用 would forget，不再加 not，也不用 will。"
+   },
+   {
+    "type": "mc",
+    "s": "Mike didn't tell the news to Amy ______ she should be worried.",
+    "o": [
+     "for fear that",
+     "for the fear",
+     "in fear of",
+     "because of fear"
+    ],
+    "a": 0,
+    "ex": "後面接完整子句 she should be worried，連接詞用 for fear that；in fear of 後面要接名詞或動名詞。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "I left early for fear that I would miss the train.",
+     "I left early for fear that I will miss the train.",
+     "I left early for fear that I would not miss the train.",
+     "I left early for fear that I missing the train."
+    ],
+    "a": 0,
+    "ex": "for fear that 後接 would + 原形；will 不合，加 not 會變成相反的意思，missing 不是完整動詞形式。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "She spoke softly for fear that the teacher can hear her.",
+     "She spoke softly for fear that the teacher hears her.",
+     "She spoke softly for fear that the teacher might hear her.",
+     "She spoke softly for fear the teacher to hear her."
+    ],
+    "a": 2,
+    "ex": "for fear that 之後要用 would / should / might + 原形，might hear 正確；can hear、hears 與 to hear 都不合。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G5-L03-1",
+  "b": 5,
+  "l": "L03",
+  "title": "倍數比較句型",
+  "formula": "倍數 + the + 名詞(size/length/amount...) + of + N；倍數 + as + adj + as",
+  "points": [
+   "表示「是…的幾倍」可用「倍數 + the + 名詞 + of …」，如 twice the size of、three times the length of。",
+   "也可用「倍數 + as + 原級形容詞 + as」，如 twice as large as，兩種說法意思相近。",
+   "兩倍用 twice（或 two times），三倍以上用 three times, four times；「一半」用 half the ... of。",
+   "the 後面要接 size、height、price、number 等表示「量」的名詞，不能直接接形容詞。"
+  ],
+  "examples": [
+   {
+    "en": "This room is twice the size of my old one.",
+    "zh": "這個房間是我舊房間的兩倍大。",
+    "hl": [
+     "twice the size of"
+    ]
+   },
+   {
+    "en": "The new bridge is three times as long as the old one.",
+    "zh": "新橋是舊橋的三倍長。",
+    "hl": [
+     "three times as long as"
+    ]
+   },
+   {
+    "en": "The ticket costs half the price of a movie ticket.",
+    "zh": "這張票的價格是電影票的一半。",
+    "hl": [
+     "half the price of"
+    ]
+   }
+  ],
+  "tip": "倍數放在 the 或 as 的前面，且 the 後要接名詞。誤：It is twice the large of mine. → 正：It is twice the size of mine.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "The school library is three times ______ the classroom.",
+    "o": [
+     "the size of",
+     "larger of",
+     "as the size",
+     "big as"
+    ],
+    "a": 0,
+    "ex": "倍數 + the + 名詞 + of，three times the size of 正確；其他選項結構錯誤。"
+   },
+   {
+    "type": "mc",
+    "s": "My backpack is only half ______ my brother's, so it is much lighter.",
+    "o": [
+     "the weight of",
+     "weight of",
+     "as the weight",
+     "heavy as"
+    ],
+    "a": 0,
+    "ex": "half the weight of 表「是…重量的一半」，the 不可省略。"
+   },
+   {
+    "type": "mc",
+    "s": "This lake is twice as ______ as that pond.",
+    "o": [
+     "deeper",
+     "deepest",
+     "deep",
+     "depth"
+    ],
+    "a": 2,
+    "ex": "as ... as 之間用形容詞或副詞原級，用 deep。"
+   },
+   {
+    "type": "mc",
+    "s": "Tom's phone cost four times ______ mine.",
+    "o": [
+     "the more",
+     "as much as",
+     "the much",
+     "much than"
+    ],
+    "a": 1,
+    "ex": "four times as much as 表「是…的四倍價錢」；as much as 用來比較金額，其他選項結構錯誤。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The tower is two times the height than that tree.",
+     "The tower is two times height of that tree.",
+     "The tower is two times higher the height of that tree.",
+     "The tower is two times the height of that tree."
+    ],
+    "a": 3,
+    "ex": "正確結構為倍數 + the + height + of；其餘選項多了 than、漏 the，或重複使用比較級。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Our new gym is five times as large as the old one.",
+     "Our new gym is five times as larger as the old one.",
+     "Our new gym is as five times large as the old one.",
+     "Our new gym is five times so large as the old one."
+    ],
+    "a": 0,
+    "ex": "倍數放在第一個 as 之前，as 之間用原級；larger 是比較級，as five times 位置顛倒，so 不可取代 as。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G5-L04-1",
+  "b": 5,
+  "l": "L04",
+  "title": "複合形容詞",
+  "formula": "名詞/形容詞/副詞 + 現在分詞或過去分詞；數字 + 單數名詞",
+  "points": [
+   "複合形容詞是用連字號把兩個以上的字連成一個形容詞，放在名詞前面修飾，例如 a good-looking boy、a well-known singer。",
+   "常見組合有：副詞 + p.p.（well-known）、名詞 + V-ing（time-saving）、形容詞 + 名詞-ed（kind-hearted）。",
+   "「數字 + 單數名詞」也能構成複合形容詞，如 a ten-minute walk，名詞要用單數，不加 s。"
+  ],
+  "examples": [
+   {
+    "en": "My uncle bought a brand-new bike for me.",
+    "zh": "我叔叔買了一輛全新的腳踏車給我。",
+    "hl": [
+     "brand-new"
+    ]
+   },
+   {
+    "en": "We took a five-minute break between the two classes.",
+    "zh": "兩堂課之間我們休息了五分鐘。",
+    "hl": [
+     "five-minute"
+    ]
+   },
+   {
+    "en": "She is a hard-working student who never gives up.",
+    "zh": "她是個用功的學生，從不放棄。",
+    "hl": [
+     "hard-working"
+    ]
+   }
+  ],
+  "tip": "數字構成的複合形容詞，名詞不可加 s。誤：a three-days trip → 正：a three-day trip。",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "We stayed at a ______ hotel near the beach.",
+    "o": [
+     "five-star",
+     "five-stars",
+     "five stars",
+     "fives-star"
+    ],
+    "a": 0,
+    "ex": "數字 + 單數名詞作形容詞，連字號相連，star 不加 s。"
+   },
+   {
+    "type": "mc",
+    "s": "Mr. Lin is a ______ teacher, so every student likes him.",
+    "o": [
+     "kindly heart",
+     "kind hearted",
+     "kind-hearted",
+     "kinded-heart"
+    ],
+    "a": 2,
+    "ex": "形容詞 + 名詞-ed 構成複合形容詞 kind-hearted，意思為「好心腸的」，要用連字號。"
+   },
+   {
+    "type": "mc",
+    "s": "It took us a ______ ride to get to the museum.",
+    "o": [
+     "two-hours",
+     "two hours",
+     "hours-two",
+     "two-hour"
+    ],
+    "a": 3,
+    "ex": "two-hour ride 是常見的複合形容詞，hour 用單數。"
+   },
+   {
+    "type": "mc",
+    "s": "The park is full of ______ flowers in spring.",
+    "o": [
+     "sweet-smell",
+     "sweet-smelling",
+     "sweetly-smell",
+     "smell-sweet"
+    ],
+    "a": 1,
+    "ex": "花會散發香味，表主動，用現在分詞 smelling，構成 sweet-smelling。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "He is a well-knowing writer in our town.",
+     "He is a well-known writer in our town.",
+     "He is a known-well writer in our town.",
+     "He is a well-known-ly writer in our town."
+    ],
+    "a": 1,
+    "ex": "「著名的」用 well-known（副詞 + 過去分詞），其他組合不是正確的英文複合形容詞。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "She gave me a three-pages letter.",
+     "She gave me a three pages letter.",
+     "She gave me a pages-three letter.",
+     "She gave me a three-page letter."
+    ],
+    "a": 3,
+    "ex": "數字 + 單數名詞構成複合形容詞，且要加連字號，page 不加 s。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G5-L05-1",
+  "b": 5,
+  "l": "L05",
+  "title": "as if 引導的假設語氣",
+  "formula": "as if + S + 過去式 / were（與現在事實相反）；as if + S + had + p.p.（與過去事實相反）",
+  "points": [
+   "as if（= as though）表示「彷彿、好像」，子句內容與事實不符時，用假設語氣。",
+   "與現在事實相反：as if + S + 過去式，be 動詞一律用 were，如 as if he were a king。",
+   "與過去事實相反：as if + S + had + p.p.，如 as if she had seen a ghost。",
+   "若所說的內容可能是真的，也可以用直說法，如 It looks as if it is going to rain。"
+  ],
+  "examples": [
+   {
+    "en": "He talks as if he were the boss of the club.",
+    "zh": "他說話的樣子彷彿他是社團的老闆。",
+    "hl": [
+     "as if he were"
+    ]
+   },
+   {
+    "en": "She smiled as if nothing had happened.",
+    "zh": "她笑得好像什麼事都沒發生過。",
+    "hl": [
+     "as if nothing had happened"
+    ]
+   },
+   {
+    "en": "The little boy ate as though he had not eaten for days.",
+    "zh": "那個小男孩吃東西的樣子，彷彿好幾天沒吃飯了。",
+    "hl": [
+     "as though he had not eaten"
+    ]
+   }
+  ],
+  "tip": "as if 表示與現在事實相反時，be 動詞用 were，不用 is。誤：He acts as if he is a child.（他其實不是小孩）→ 正：He acts as if he were a child.",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Tina acts as if she ______ everything about the new teacher, but she has never met him.",
+    "o": [
+     "know",
+     "knew",
+     "has known",
+     "knows"
+    ],
+    "a": 1,
+    "ex": "與現在事實相反，as if 後用過去式 knew。"
+   },
+   {
+    "type": "mc",
+    "s": "The kids looked at me as if they ______ the answer, but they didn't.",
+    "o": [
+     "know",
+     "knew",
+     "have known",
+     "will know"
+    ],
+    "a": 1,
+    "ex": "but they didn't 說明與當時事實相反，as if 子句用過去式 knew 表示「彷彿知道」。"
+   },
+   {
+    "type": "mc",
+    "s": "He looks at me as if I ______ a stranger, though we have been friends for years.",
+    "o": [
+     "am",
+     "was being",
+     "have been",
+     "were"
+    ],
+    "a": 3,
+    "ex": "與現在事實相反，as if 子句中的 be 動詞用 were。"
+   },
+   {
+    "type": "mc",
+    "s": "The room was a mess, as if a storm ______ through it last night.",
+    "o": [
+     "passes",
+     "will pass",
+     "passing",
+     "had passed"
+    ],
+    "a": 3,
+    "ex": "表示與過去事實相反，用 had + p.p.；had passed 正確。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "She treats me as if I am being her little sister.",
+     "She treats me as if I being her little sister.",
+     "She treats me as if I were her little sister.",
+     "She treats me as if I be her little sister."
+    ],
+    "a": 2,
+    "ex": "與現在事實相反（我不是她妹妹），as if 子句的 be 動詞用 were。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "He spoke as if he has seen the movie, but he hadn't.",
+     "He spoke as if he had seen the movie, but he hadn't.",
+     "He spoke as if he will see the movie, but he hadn't.",
+     "He spoke as if he sees the movie, but he hadn't."
+    ],
+    "a": 1,
+    "ex": "說話者其實沒看過，與過去事實相反，as if 後用 had seen。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "G5-L06-1",
+  "b": 5,
+  "l": "L06",
+  "title": "省略 if 的倒裝假設句（過去式）",
+  "formula": "Had + S + p.p., S + would/could/might + have + p.p.",
+  "points": [
+   "與過去事實相反的假設句 If + S + had + p.p., S + would have + p.p. 可以省略 if，把 had 移到句首，成為 Had + S + p.p.。",
+   "倒裝只適用於 had、were、should 開頭的假設句，語氣較正式，常用在書面英文。",
+   "否定時 not 放在主詞後，如 Had he not left early, ...，不可寫成 Hadn't he left ...。",
+   "主要子句仍維持 would / could / might + have + p.p.。"
+  ],
+  "examples": [
+   {
+    "en": "Had I studied harder, I would have passed the test.",
+    "zh": "如果我當時更用功讀書，就會通過那次考試。",
+    "hl": [
+     "Had I studied"
+    ]
+   },
+   {
+    "en": "Had we left earlier, we could have caught the train.",
+    "zh": "如果我們早點出發，就趕得上那班火車了。",
+    "hl": [
+     "Had we left"
+    ]
+   },
+   {
+    "en": "Had she not helped us, we might have lost our way.",
+    "zh": "如果她當時沒幫我們，我們可能會迷路。",
+    "hl": [
+     "Had she not helped"
+    ]
+   }
+  ],
+  "tip": "倒裝後不可再保留 if，否定時也不用縮寫。誤：If had I known, ... / Hadn't I known, ... → 正：Had I known, ...",
+  "qs": [
+   {
+    "type": "mc",
+    "s": "______ the bus been on time, we wouldn't have been late for school.",
+    "o": [
+     "Have",
+     "If had",
+     "Had",
+     "Having"
+    ],
+    "a": 2,
+    "ex": "省略 if 的過去假設倒裝，把 had 移到句首，Had the bus been ...。"
+   },
+   {
+    "type": "mc",
+    "s": "Had Peter ______ the invitation, he would have come to the party.",
+    "o": [
+     "receive",
+     "receiving",
+     "to receive",
+     "received"
+    ],
+    "a": 3,
+    "ex": "Had + S + p.p. 的結構，空格需過去分詞 received。"
+   },
+   {
+    "type": "mc",
+    "s": "______ I known about the rain, I would have brought an umbrella.",
+    "o": [
+     "Did",
+     "Had",
+     "Were",
+     "Should"
+    ],
+    "a": 1,
+    "ex": "後面是 would have brought，表示與過去事實相反，倒裝開頭用 Had。"
+   },
+   {
+    "type": "mc",
+    "s": "Had they not fixed the road, the trip ______ much more difficult.",
+    "o": [
+     "will be",
+     "would be",
+     "had been",
+     "would have been"
+    ],
+    "a": 3,
+    "ex": "與過去事實相反，主要子句用 would have + p.p.，would have been 正確。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Had I known his number, I would have called him.",
+     "If had I known his number, I would have called him.",
+     "Did I know his number, I would have called him.",
+     "Have I known his number, I would have called him."
+    ],
+    "a": 0,
+    "ex": "省略 if 時，倒裝為 Had + S + p.p.，且不可保留 if。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Hadn't the teacher helped me, I would have failed.",
+     "Had the teacher not helped me, I would have failed.",
+     "Had not the teacher helped, I will fail.",
+     "Had the teacher not help me, I would have failed."
+    ],
+    "a": 1,
+    "ex": "否定句要寫成 Had + S + not + p.p.，不用 Hadn't 倒裝；動詞也要用過去分詞 helped，主要子句用 would have failed。"
+   }
+  ],
+  "status": "ok"
+ }
+]

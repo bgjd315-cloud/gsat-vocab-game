@@ -1,0 +1,8018 @@
+[
+ {
+  "id": "L3-0001",
+  "en": "All the passengers are now aboard, so the plane can take off.",
+  "zh": "所有乘客都已登機，飛機可以起飛了。",
+  "target": "aboard",
+  "status": "ok",
+  "note": "含其他3級字：passengers"
+ },
+ {
+  "id": "L3-0002",
+  "en": "Your answer is acceptable, but it could be a little clearer.",
+  "zh": "你的答案可以接受，但還可以再清楚一點。",
+  "target": "acceptable",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0003",
+  "en": "The weather report was accurate; it really rained all afternoon.",
+  "zh": "天氣預報很準確，整個下午真的都在下雨。",
+  "target": "accurate",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0004",
+  "en": "After the long basketball game, my legs began to ache.",
+  "zh": "打完一場漫長的籃球賽後，我的腿開始痠痛。",
+  "target": "ache",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0005",
+  "en": "Amy studied hard every day and finally achieved her goal.",
+  "zh": "艾咪每天用功讀書，終於達成了她的目標。",
+  "target": "achieved",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0006",
+  "en": "You need to pay an additional fifty dollars for a bigger drink.",
+  "zh": "換大杯飲料需要額外多付五十元。",
+  "target": "additional",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0007",
+  "en": "Many students admire the coach for his hard work and kindness.",
+  "zh": "許多學生欽佩這位教練的努力與親切。",
+  "target": "admire",
+  "status": "ok",
+  "note": "含其他3級字：coach"
+ },
+ {
+  "id": "L3-0008",
+  "en": "This advanced math class is only for students who love numbers.",
+  "zh": "這門高級數學課只開給熱愛數字的學生。",
+  "target": "advanced",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0009",
+  "en": "Being tall is a big advantage when you play basketball.",
+  "zh": "打籃球時，個子高是一大優勢。",
+  "target": "advantage",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0010",
+  "en": "Our trip to the mountains was a real adventure for the whole family.",
+  "zh": "這趟山上之旅對我們全家來說是一場真正的冒險。",
+  "target": "adventure",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0011",
+  "en": "We saw an advertisement for the new phone on the bus.",
+  "zh": "我們在公車上看到那支新手機的廣告。",
+  "target": "advertisement",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0012",
+  "en": "The doctor advised me to drink more water and sleep earlier.",
+  "zh": "醫生建議我多喝水、早點睡。",
+  "target": "advised",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0013",
+  "en": "Before choosing a college, Tom talked with his school adviser.",
+  "zh": "選大學之前，湯姆先和學校的輔導顧問談過。",
+  "target": "adviser",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0014",
+  "en": "We cannot afford a new car, so we still take the bus.",
+  "zh": "我們買不起新車，所以還是搭公車。",
+  "target": "afford",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0015",
+  "en": "We had dinner together and went to a movie afterward.",
+  "zh": "我們一起吃了晚餐，之後去看電影。",
+  "target": "afterward",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0016",
+  "en": "Agriculture is still very important in the south of Taiwan.",
+  "zh": "農業在台灣南部仍然非常重要。",
+  "target": "Agriculture",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0017",
+  "en": "The airline gave every passenger a free meal on the flight.",
+  "zh": "這家航空公司在飛機上提供每位乘客免費餐點。",
+  "target": "airline",
+  "status": "ok",
+  "note": "含其他3級字：passenger"
+ },
+ {
+  "id": "L3-0018",
+  "en": "There is a small noodle shop at the end of this alley.",
+  "zh": "這條小巷的盡頭有一家小麵店。",
+  "target": "alley",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0019",
+  "en": "Grandma likes to put almonds in her cookies and cakes.",
+  "zh": "奶奶喜歡在餅乾和蛋糕裡加杏仁。",
+  "target": "almonds",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0020",
+  "en": "Young children often learn the alphabet by singing a song.",
+  "zh": "小孩子常常藉由唱歌來學習字母表。",
+  "target": "alphabet",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0021",
+  "en": "The little boy's piano playing amazed everyone in the room.",
+  "zh": "這個小男孩的鋼琴演奏讓在場每個人都大感驚訝。",
+  "target": "amazed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0022",
+  "en": "The ambassador came to our school to talk about his country.",
+  "zh": "這位大使來我們學校介紹他的國家。",
+  "target": "ambassador",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0023",
+  "en": "Her ambition is to become a doctor and help sick children.",
+  "zh": "她的抱負是成為醫生，幫助生病的孩子。",
+  "target": "ambition",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0024",
+  "en": "When the old man fell down, someone called an ambulance right away.",
+  "zh": "老先生跌倒時，有人立刻叫了救護車。",
+  "target": "ambulance",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0025",
+  "en": "The kind nurse was like an angel to the sick children.",
+  "zh": "那位親切的護士對生病的孩子們來說就像天使一樣。",
+  "target": "angel",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0026",
+  "en": "The principal announced that school would close because of the storm.",
+  "zh": "校長宣布學校將因暴風雨而停課。",
+  "target": "announced",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0027",
+  "en": "Ben felt anxious before his first speech in front of the class.",
+  "zh": "班在全班面前第一次演講前感到很焦慮。",
+  "target": "anxious",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0028",
+  "en": "It was raining hard, but we went to the beach anyhow.",
+  "zh": "雨下得很大，但我們無論如何還是去了海邊。",
+  "target": "anyhow",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0029",
+  "en": "The two schools are only a few blocks apart.",
+  "zh": "這兩所學校只相隔幾個街區。",
+  "target": "apart",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0030",
+  "en": "Tom apologized to his sister for breaking her new pencil box.",
+  "zh": "湯姆因為弄壞妹妹的新鉛筆盒而向她道歉。",
+  "target": "apologized",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0031",
+  "en": "The city appealed to people to use less water this summer.",
+  "zh": "市政府呼籲民眾今年夏天節約用水。",
+  "target": "appealed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0032",
+  "en": "My parents finally approved my plan to study abroad.",
+  "zh": "我爸媽終於批准了我出國讀書的計畫。",
+  "target": "approved",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0033",
+  "en": "Dad always wears an apron when he cooks in the kitchen.",
+  "zh": "爸爸在廚房做菜時總是穿著圍裙。",
+  "target": "apron",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0034",
+  "en": "The guards at the bank are armed to keep everyone safe.",
+  "zh": "銀行的警衛都配有武器，以保護大家的安全。",
+  "target": "armed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0035",
+  "en": "The police arrested the man who stole bikes near our school.",
+  "zh": "警察逮捕了那個在我們學校附近偷腳踏車的男子。",
+  "target": "arrested",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0036",
+  "en": "After the campfire, only gray ash was left on the ground.",
+  "zh": "營火結束後，地上只剩下灰色的灰燼。",
+  "target": "ash",
+  "status": "ok",
+  "note": "超出1–2級：campfire"
+ },
+ {
+  "id": "L3-0037",
+  "en": "Please put your phones aside and listen to the teacher.",
+  "zh": "請把手機放到一旁，專心聽老師說話。",
+  "target": "aside",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0038",
+  "en": "Older students assist the new students in finding their classrooms.",
+  "zh": "學長姊協助新生找到他們的教室。",
+  "target": "assist",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0039",
+  "en": "The doctor's assistant asked me to wait for a few minutes.",
+  "zh": "醫生的助理請我稍等幾分鐘。",
+  "target": "assistant",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0040",
+  "en": "Tom assumed the store was open, but it was closed on Monday.",
+  "zh": "湯姆以為那家店有營業，沒想到它星期一公休。",
+  "target": "assumed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0041",
+  "en": "The young athlete trains for three hours every morning.",
+  "zh": "這位年輕運動員每天早上訓練三小時。",
+  "target": "athlete",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0042",
+  "en": "A positive attitude can help you get through hard times.",
+  "zh": "積極的態度能幫助你度過難關。",
+  "target": "attitude",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0043",
+  "en": "The bright flowers attract many bees and butterflies in spring.",
+  "zh": "鮮豔的花朵在春天吸引許多蜜蜂和蝴蝶。",
+  "target": "attract",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0044",
+  "en": "The new park is attractive to families with young children.",
+  "zh": "這座新公園對有小孩的家庭很有吸引力。",
+  "target": "attractive",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0045",
+  "en": "The audience clapped loudly at the end of the school play.",
+  "zh": "學校話劇演出結束時，觀眾熱烈鼓掌。",
+  "target": "audience",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0046",
+  "en": "The automatic doors open when you walk toward them.",
+  "zh": "你朝自動門走過去時，門就會打開。",
+  "target": "automatic",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0047",
+  "en": "The automobile changed the way people travel from place to place.",
+  "zh": "汽車改變了人們往來各地的方式。",
+  "target": "automobile",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0048",
+  "en": "There are many tall trees along the avenue near our school.",
+  "zh": "我們學校附近的大道兩旁有許多高大的樹。",
+  "target": "avenue",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0049",
+  "en": "The baby was still awake at midnight, so Mom was very tired.",
+  "zh": "寶寶到半夜還醒著，所以媽媽非常累。",
+  "target": "awake",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0050",
+  "en": "The sound of birds awakened Amy early on Sunday morning.",
+  "zh": "星期天一大早，鳥叫聲喚醒了艾咪。",
+  "target": "awakened",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0051",
+  "en": "Lisa won an award for her drawing at the school art show.",
+  "zh": "麗莎的畫作在學校美展中得獎。",
+  "target": "award",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0052",
+  "en": "Are you aware that the bus times changed this week?",
+  "zh": "你有注意到這星期公車時刻改了嗎？",
+  "target": "aware",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0053",
+  "en": "The food at that restaurant was awful, so we never went back.",
+  "zh": "那家餐廳的食物很糟糕，所以我們再也沒去過。",
+  "target": "awful",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0054",
+  "en": "There was an awkward silence after Tom told his bad joke.",
+  "zh": "湯姆講了一個難笑的笑話後，現場一陣尷尬的沉默。",
+  "target": "awkward",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0055",
+  "en": "The photo has a beautiful mountain in the background.",
+  "zh": "這張照片的背景是一座美麗的山。",
+  "target": "background",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0056",
+  "en": "For breakfast, Dad made eggs and bacon for the whole family.",
+  "zh": "早餐時，爸爸替全家人做了蛋和培根。",
+  "target": "bacon",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0057",
+  "en": "Wash your hands before meals to get rid of bacteria.",
+  "zh": "飯前要洗手，才能去除細菌。",
+  "target": "bacteria",
+  "status": "ok",
+  "note": "含其他3級字：rid"
+ },
+ {
+  "id": "L3-0058",
+  "en": "Jack hurt his leg badly when he fell off his bike.",
+  "zh": "傑克從腳踏車上摔下來，腿傷得很嚴重。",
+  "target": "badly",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0059",
+  "en": "Please do not leave your baggage alone at the airport.",
+  "zh": "在機場請不要把行李丟著不管。",
+  "target": "baggage",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0060",
+  "en": "Grandpa used small worms as bait when we went fishing.",
+  "zh": "我們去釣魚時，爺爺用小蟲當魚餌。",
+  "target": "bait",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0061",
+  "en": "Pandas spend most of the day eating bamboo in the forest.",
+  "zh": "熊貓一天中大部分時間都在森林裡吃竹子。",
+  "target": "bamboo",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0062",
+  "en": "The door shut with a loud bang in the strong wind.",
+  "zh": "門在強風中砰的一聲關上了。",
+  "target": "bang",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0063",
+  "en": "Amy's father is a banker who works in downtown Taipei.",
+  "zh": "艾咪的爸爸是在台北市中心工作的銀行家。",
+  "target": "banker",
+  "status": "ok",
+  "note": "含其他3級字：downtown"
+ },
+ {
+  "id": "L3-0064",
+  "en": "The children ran on the beach in their bare feet.",
+  "zh": "孩子們光著腳在海灘上奔跑。",
+  "target": "bare",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0065",
+  "en": "Leo was so tired that he could barely keep his eyes open.",
+  "zh": "李歐累到幾乎睜不開眼睛。",
+  "target": "barely",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0066",
+  "en": "The farmer keeps his cows in a big red barn.",
+  "zh": "農夫把牛養在一座紅色的大穀倉裡。",
+  "target": "barn",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0067",
+  "en": "Grandpa collects rainwater in a large barrel to water his garden.",
+  "zh": "爺爺用一個大桶子收集雨水來澆花園。",
+  "target": "barrel",
+  "status": "ok",
+  "note": "超出1–2級：rainwater"
+ },
+ {
+  "id": "L3-0068",
+  "en": "We keep old boxes and bikes in the basement of our house.",
+  "zh": "我們把舊箱子和腳踏車放在家裡的地下室。",
+  "target": "basement",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0069",
+  "en": "Many boats sail in the bay on sunny weekends.",
+  "zh": "晴朗的週末有許多船在海灣裡航行。",
+  "target": "bay",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0070",
+  "en": "Sara made a necklace out of tiny red and blue beads.",
+  "zh": "莎拉用紅色和藍色的小珠子做了一條項鍊。",
+  "target": "beads",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0071",
+  "en": "A beam of light came through the small window.",
+  "zh": "一道光束從小窗戶照了進來。",
+  "target": "beam",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0072",
+  "en": "In the story, a kind girl makes friends with a scary beast.",
+  "zh": "在故事裡，一個善良的女孩和一隻可怕的野獸成了朋友。",
+  "target": "beast",
+  "status": "ok",
+  "note": "含其他3級字：scary"
+ },
+ {
+  "id": "L3-0073",
+  "en": "The boy found a black beetle under a rock in the garden.",
+  "zh": "男孩在花園的石頭底下發現一隻黑色甲蟲。",
+  "target": "beetle",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0074",
+  "en": "The cat is sleeping beneath the table in the kitchen.",
+  "zh": "貓正睡在廚房的桌子底下。",
+  "target": "beneath",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0075",
+  "en": "Regular exercise has many benefits for both body and mind.",
+  "zh": "規律運動對身心都有許多好處。",
+  "target": "benefits",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0076",
+  "en": "We picked fresh berries on the farm and ate them right away.",
+  "zh": "我們在農場摘了新鮮的莓果，馬上就吃掉了。",
+  "target": "berries",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0077",
+  "en": "Besides English, Kevin can also speak Japanese and a little French.",
+  "zh": "除了英文，凱文還會說日文和一點法文。",
+  "target": "Besides",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0078",
+  "en": "Ben bet that our team would win the game the next day.",
+  "zh": "班打賭我們隊隔天會贏球。",
+  "target": "bet",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0079",
+  "en": "The farmer used rope to bind the sticks together.",
+  "zh": "農夫用繩子把木棍綁在一起。",
+  "target": "bind",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0080",
+  "en": "This medicine tastes bitter, so drink some water after it.",
+  "zh": "這藥很苦，吃完後喝點水吧。",
+  "target": "bitter",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0081",
+  "en": "Mia's finger began to bleed after she cut it on paper.",
+  "zh": "米亞的手指被紙割到後開始流血。",
+  "target": "bleed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0082",
+  "en": "Grandma prays every day and asks God to bless our family.",
+  "zh": "奶奶每天禱告，祈求上天保佑我們全家。",
+  "target": "bless",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0083",
+  "en": "Tom fell on the playground and got a bloody knee.",
+  "zh": "湯姆在操場上跌倒，膝蓋流血了。",
+  "target": "bloody",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0084",
+  "en": "Mom wore a white blouse and a black skirt to work.",
+  "zh": "媽媽穿著白色女用上衣和黑色裙子去上班。",
+  "target": "blouse",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0085",
+  "en": "It was bold of Amy to sing alone in front of the whole school.",
+  "zh": "艾咪敢在全校面前獨唱，真是大膽。",
+  "target": "bold",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0086",
+  "en": "Workers found an old bomb from the war near the river.",
+  "zh": "工人在河邊發現一顆戰爭時期留下的舊炸彈。",
+  "target": "bomb",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0087",
+  "en": "Dad built a tall bookcase for all of my comic books.",
+  "zh": "爸爸為我所有的漫畫書做了一個高高的書櫃。",
+  "target": "bookcase",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0088",
+  "en": "On rainy days, the children wear rain boots to school.",
+  "zh": "下雨天，孩子們穿雨靴上學。",
+  "target": "boots",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0089",
+  "en": "The long speech bored the students, and some fell asleep.",
+  "zh": "冗長的演講讓學生覺得很無聊，有些人睡著了。",
+  "target": "bored",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0090",
+  "en": "We went bowling with our cousins last Saturday night.",
+  "zh": "上週六晚上我們和表兄弟姊妹去打保齡球。",
+  "target": "bowling",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0091",
+  "en": "The driver hit the brakes when a dog ran into the street.",
+  "zh": "一隻狗衝到街上時，司機猛踩煞車。",
+  "target": "brakes",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0092",
+  "en": "The old door has a heavy brass handle that feels cold.",
+  "zh": "那扇舊門有一個沉重的黃銅把手，摸起來冰冰的。",
+  "target": "brass",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0093",
+  "en": "The fireman received a prize for his bravery in saving a child.",
+  "zh": "這位消防員因勇敢救出一名孩童而獲獎。",
+  "target": "bravery",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0094",
+  "en": "Chicken breast is a popular food for people who exercise a lot.",
+  "zh": "雞胸肉是許多常運動的人喜愛的食物。",
+  "target": "breast",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0095",
+  "en": "Take a deep breath and try to stay calm before the test.",
+  "zh": "考試前深吸一口氣，試著保持冷靜。",
+  "target": "breath",
+  "status": "ok",
+  "note": "超出1–2級：calm"
+ },
+ {
+  "id": "L3-0096",
+  "en": "It is hard to breathe at the top of a high mountain.",
+  "zh": "在高山頂上很難呼吸。",
+  "target": "breathe",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0097",
+  "en": "A cool breeze came from the sea on the hot afternoon.",
+  "zh": "炎熱的下午，一陣涼爽的微風從海上吹來。",
+  "target": "breeze",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0098",
+  "en": "The old school building is made of red bricks.",
+  "zh": "那棟舊校舍是用紅磚蓋的。",
+  "target": "bricks",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0099",
+  "en": "The bride wore a long white dress at the wedding.",
+  "zh": "新娘在婚禮上穿著一件白色長禮服。",
+  "target": "bride",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0100",
+  "en": "The basketball game will be broadcast on TV tonight at eight.",
+  "zh": "那場籃球賽今晚八點會在電視上轉播。",
+  "target": "broadcast",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0101",
+  "en": "On Sundays, we often get up late and have brunch together.",
+  "zh": "星期天我們常常晚起，然後一起吃早午餐。",
+  "target": "brunch",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0102",
+  "en": "The children laughed as they blew bubbles in the park.",
+  "zh": "孩子們在公園裡吹泡泡，笑得很開心。",
+  "target": "bubbles",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0103",
+  "en": "Please fill the bucket with water so we can wash the car.",
+  "zh": "請把水桶裝滿水，我們好洗車。",
+  "target": "bucket",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0104",
+  "en": "In spring, small green buds appear on the trees.",
+  "zh": "春天時，樹上冒出小小的綠芽。",
+  "target": "buds",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0105",
+  "en": "Our class has a small budget for the year-end party.",
+  "zh": "我們班的期末派對預算不多。",
+  "target": "budget",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0106",
+  "en": "In the past, farmers in Taiwan used water buffaloes in the rice fields.",
+  "zh": "以前台灣的農夫會在稻田裡使用水牛耕作。",
+  "target": "buffaloes",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0107",
+  "en": "The hotel buffet has many kinds of food, from noodles to cake.",
+  "zh": "飯店的自助餐有各式各樣的食物，從麵到蛋糕都有。",
+  "target": "buffet",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0108",
+  "en": "The light bulb in the bathroom is broken, so it's very dark.",
+  "zh": "浴室的燈泡壞了，所以裡面很暗。",
+  "target": "bulb",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0109",
+  "en": "The farmer told us to stay away from the angry bull.",
+  "zh": "農夫叫我們離那頭生氣的公牛遠一點。",
+  "target": "bull",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0110",
+  "en": "This fast train is called a bullet train because of its shape.",
+  "zh": "這種高速列車因外形像子彈，所以被稱為子彈列車。",
+  "target": "bullet",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0111",
+  "en": "Be careful not to bump your head on the low door.",
+  "zh": "小心別讓頭撞到矮門。",
+  "target": "bump",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0112",
+  "en": "Amy bought a bunch of bananas at the market this morning.",
+  "zh": "艾咪今天早上在市場買了一串香蕉。",
+  "target": "bunch",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0113",
+  "en": "Grandma tied the old newspapers into a neat bundle.",
+  "zh": "奶奶把舊報紙整齊地綁成一捆。",
+  "target": "bundle",
+  "status": "ok",
+  "note": "含其他3級字：neat"
+ },
+ {
+  "id": "L3-0114",
+  "en": "The dog buried its bone under the tree in the yard.",
+  "zh": "那隻狗把骨頭埋在院子的樹下。",
+  "target": "buried",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0115",
+  "en": "A small bird is hiding in the bush outside the window.",
+  "zh": "一隻小鳥躲在窗外的灌木叢裡。",
+  "target": "bush",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0116",
+  "en": "We could hear the buzz of bees around the flowers.",
+  "zh": "我們聽得到花朵周圍蜜蜂的嗡嗡聲。",
+  "target": "buzz",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0117",
+  "en": "We stayed in a small wooden cabin in the mountains.",
+  "zh": "我們住在山上的一間小木屋裡。",
+  "target": "cabin",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0118",
+  "en": "You need this cable to send the photos from your phone to the computer.",
+  "zh": "你需要用這條傳輸線把照片從手機傳到電腦。",
+  "target": "cable",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0119",
+  "en": "Students eat lunch together in the school cafeteria at noon.",
+  "zh": "學生們中午一起在學校的自助餐廳吃午餐。",
+  "target": "cafeteria",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0120",
+  "en": "Our school campus has a big field and many tall trees.",
+  "zh": "我們的校園有一座大操場和許多高大的樹。",
+  "target": "campus",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0121",
+  "en": "We walked along the river at the bottom of the deep canyon.",
+  "zh": "我們沿著深邃峽谷底部的河流行走。",
+  "target": "canyon",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0122",
+  "en": "Linda is capable of finishing the project by herself.",
+  "zh": "琳達有能力獨自完成這個專題。",
+  "target": "capable",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0123",
+  "en": "The captain of our soccer team is the fastest runner in school.",
+  "zh": "我們足球隊的隊長是全校跑最快的人。",
+  "target": "captain",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0124",
+  "en": "The photo captured the beautiful moment when the sun went down.",
+  "zh": "這張照片捕捉到夕陽西下的美麗瞬間。",
+  "target": "captured",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0125",
+  "en": "Jenny wants to have a career in music after college.",
+  "zh": "珍妮大學畢業後想從事音樂方面的職業。",
+  "target": "career",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0126",
+  "en": "The carpenter made a strong wooden table for our kitchen.",
+  "zh": "木匠為我們的廚房做了一張堅固的木桌。",
+  "target": "carpenter",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0127",
+  "en": "Please take off your shoes before you walk on the carpet.",
+  "zh": "走上地毯前請先脫鞋。",
+  "target": "carpet",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0128",
+  "en": "The princess rode in a beautiful carriage pulled by four white horses.",
+  "zh": "公主坐在一輛由四匹白馬拉的美麗馬車裡。",
+  "target": "carriage",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0129",
+  "en": "Mom pushed the shopping cart while I picked out the fruit.",
+  "zh": "媽媽推著購物車，我負責挑水果。",
+  "target": "cart",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0130",
+  "en": "The old man cast his net into the river early in the morning.",
+  "zh": "老人一大早就把漁網撒進河裡。",
+  "target": "cast",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0131",
+  "en": "You can wear casual clothes to the class party on Friday.",
+  "zh": "星期五的班級派對可以穿便服。",
+  "target": "casual",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0132",
+  "en": "The farmer has fifty cattle on his large farm.",
+  "zh": "農夫的大農場裡養了五十頭牛。",
+  "target": "cattle",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0133",
+  "en": "Bats sleep in the dark cave during the day.",
+  "zh": "蝙蝠白天在黑暗的洞穴裡睡覺。",
+  "target": "cave",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0134",
+  "en": "Our school became the basketball champion of the city this year.",
+  "zh": "我們學校今年拿下全市籃球賽冠軍。",
+  "target": "champion",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0135",
+  "en": "The old town has a special charm that visitors love.",
+  "zh": "這座老城鎮有一種遊客喜愛的特殊魅力。",
+  "target": "charm",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0136",
+  "en": "Amy and her friends like to chat after school.",
+  "zh": "艾咪和朋友們喜歡在放學後聊天。",
+  "target": "chat",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0137",
+  "en": "Grandma gently kissed the baby on the cheek.",
+  "zh": "奶奶輕輕地親了寶寶的臉頰。",
+  "target": "cheek",
+  "status": "ok",
+  "note": "超出1–2級：gently"
+ },
+ {
+  "id": "L3-0138",
+  "en": "Our cheerful neighbor always says hello with a big smile.",
+  "zh": "我們開朗的鄰居總是笑容滿面地打招呼。",
+  "target": "cheerful",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0139",
+  "en": "This chocolate cake has a red cherry on top of it.",
+  "zh": "這個巧克力蛋糕上面有一顆紅櫻桃。",
+  "target": "cherry",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0140",
+  "en": "Tom felt a pain in his chest after running too fast.",
+  "zh": "湯姆跑太快之後覺得胸口痛。",
+  "target": "chest",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0141",
+  "en": "A cold wind sent a chill through the students waiting outside.",
+  "zh": "一陣冷風讓在外面等候的學生感到一陣寒意。",
+  "target": "chill",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0142",
+  "en": "It's chilly this morning, so take a jacket with you.",
+  "zh": "今天早上有點冷，帶件外套吧。",
+  "target": "chilly",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0143",
+  "en": "Smoke is coming out of the chimney of the old house.",
+  "zh": "煙從那棟老房子的煙囪冒出來。",
+  "target": "chimney",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0144",
+  "en": "He rested his chin on his hand and thought for a while.",
+  "zh": "他用手托著下巴，想了一會兒。",
+  "target": "chin",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0145",
+  "en": "We ate potato chips and watched a movie at home.",
+  "zh": "我們在家邊吃洋芋片邊看電影。",
+  "target": "chips",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0146",
+  "en": "Dad chopped the onions for the soup while Mom washed the rice.",
+  "zh": "爸爸切碎洋蔥準備煮湯，媽媽則在洗米。",
+  "target": "chopped",
+  "status": "ok",
+  "note": "含其他3級字：onions"
+ },
+ {
+  "id": "L3-0147",
+  "en": "Smoking cigarettes is bad for your health and the people around you.",
+  "zh": "抽菸對你和你身邊的人的健康都有害。",
+  "target": "cigarettes",
+  "status": "ok",
+  "note": "超出1–2級：health"
+ },
+ {
+  "id": "L3-0148",
+  "en": "Let's meet in front of the cinema at seven tonight.",
+  "zh": "我們今晚七點在電影院前面碰面吧。",
+  "target": "cinema",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0149",
+  "en": "At the circus, we saw elephants and a man walking on a rope.",
+  "zh": "在馬戲團裡，我們看到了大象，還有一個人在走鋼索。",
+  "target": "circus",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0150",
+  "en": "Every citizen should follow the law and help keep the city clean.",
+  "zh": "每位市民都應該守法，並幫忙維持城市整潔。",
+  "target": "citizen",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0151",
+  "en": "The old army airport is now used for civil flights.",
+  "zh": "這座舊軍用機場現在改作民航班機使用。",
+  "target": "civil",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0152",
+  "en": "The students made small cups out of clay in art class.",
+  "zh": "學生們在美術課上用黏土做小杯子。",
+  "target": "clay",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0153",
+  "en": "The cleaner comes to our office every night after we leave.",
+  "zh": "清潔工每天晚上在我們下班後來辦公室打掃。",
+  "target": "cleaner",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0154",
+  "en": "The lawyer met with a new client at ten this morning.",
+  "zh": "律師今天早上十點和一位新客戶見面。",
+  "target": "client",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0155",
+  "en": "Mom took me to the clinic because I had a bad cold.",
+  "zh": "媽媽帶我去診所，因為我得了重感冒。",
+  "target": "clinic",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0156",
+  "en": "She used a paper clip to hold the pages together.",
+  "zh": "她用一枚迴紋針把這幾頁夾在一起。",
+  "target": "clip",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0157",
+  "en": "Amy hung her new dress in the closet in her bedroom.",
+  "zh": "艾咪把新洋裝掛在臥室的衣櫥裡。",
+  "target": "closet",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0158",
+  "en": "The parents work hard to feed and clothe their four children.",
+  "zh": "這對父母努力工作，讓四個孩子吃得飽、穿得暖。",
+  "target": "clothe",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0159",
+  "en": "The clown made the children laugh with his big red nose.",
+  "zh": "小丑用他的紅色大鼻子逗得孩子們哈哈大笑。",
+  "target": "clown",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0160",
+  "en": "If you can't guess the answer, I'll give you a clue.",
+  "zh": "如果你猜不出答案，我會給你一個線索。",
+  "target": "clue",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0161",
+  "en": "Our coach makes us run around the field before every practice.",
+  "zh": "我們的教練要我們每次練習前先繞操場跑步。",
+  "target": "coach",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0162",
+  "en": "The cock on Grandpa's farm wakes us up early every morning.",
+  "zh": "爺爺農場上的公雞每天一大早就把我們叫醒。",
+  "target": "cock",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0163",
+  "en": "The adults drank cocktails at the wedding, while the kids had juice.",
+  "zh": "大人們在婚禮上喝雞尾酒，小孩子則喝果汁。",
+  "target": "cocktails",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0164",
+  "en": "On the beach in summer, we drank fresh coconut water.",
+  "zh": "夏天在海灘上，我們喝了新鮮的椰子水。",
+  "target": "coconut",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0165",
+  "en": "Please fix the collar of your shirt before we take the photo.",
+  "zh": "拍照前請把你襯衫的衣領整理好。",
+  "target": "collar",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0166",
+  "en": "Ben has a large collection of old coins from many countries.",
+  "zh": "班收藏了大量來自許多國家的舊硬幣。",
+  "target": "collection",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0167",
+  "en": "A large colony of ants lives under the old tree.",
+  "zh": "一大群螞蟻住在那棵老樹底下。",
+  "target": "colony",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0168",
+  "en": "The children painted colorful pictures of flowers on the wall.",
+  "zh": "孩子們在牆上畫了色彩繽紛的花朵。",
+  "target": "colorful",
+  "status": "ok",
+  "note": "超出1–2級：painted"
+ },
+ {
+  "id": "L3-0169",
+  "en": "Dad reads the sports column in the newspaper every morning.",
+  "zh": "爸爸每天早上都看報紙的體育專欄。",
+  "target": "column",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0170",
+  "en": "Mom held the crying baby in her arms to comfort him.",
+  "zh": "媽媽把哭泣的寶寶抱在懷裡安慰他。",
+  "target": "comfort",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0171",
+  "en": "Put a comma between the two parts of this sentence.",
+  "zh": "在這個句子的兩個部分之間加一個逗號。",
+  "target": "comma",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0172",
+  "en": "The school committee decided to plant more trees around the field.",
+  "zh": "學校委員會決定在操場周圍多種一些樹。",
+  "target": "committee",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0173",
+  "en": "It is hard to communicate with someone who never listens.",
+  "zh": "和一個從來不聽別人說話的人溝通很困難。",
+  "target": "communicate",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0174",
+  "en": "In comparison with last year, this summer is much hotter.",
+  "zh": "和去年相比，今年夏天熱多了。",
+  "target": "comparison",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0175",
+  "en": "Twenty runners will compete in the race on Saturday.",
+  "zh": "有二十位跑者會在星期六的賽跑中一較高下。",
+  "target": "compete",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0176",
+  "en": "Tom always complains about the food in the school cafeteria.",
+  "zh": "湯姆總是抱怨學校自助餐廳的食物。",
+  "target": "complains",
+  "status": "ok",
+  "note": "含其他3級字：cafeteria"
+ },
+ {
+  "id": "L3-0177",
+  "en": "The restaurant got many complaints about its slow service.",
+  "zh": "這家餐廳接到很多關於上菜太慢的抱怨。",
+  "target": "complaints",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0178",
+  "en": "We bought tickets for the rock concert next Saturday.",
+  "zh": "我們買了下週六搖滾音樂會的票。",
+  "target": "concert",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0179",
+  "en": "At the end of your report, write a short conclusion.",
+  "zh": "在報告的最後寫一段簡短的結論。",
+  "target": "conclusion",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0180",
+  "en": "The little girl dropped her ice cream cone on the ground.",
+  "zh": "小女孩把她的甜筒冰淇淋掉在地上了。",
+  "target": "cone",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0181",
+  "en": "Please call the hotel to confirm our room for Friday night.",
+  "zh": "請打電話給飯店確認我們週五晚上的房間。",
+  "target": "confirm",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0182",
+  "en": "The new math rules confused many students in our class.",
+  "zh": "新的數學規則讓我們班很多學生感到困惑。",
+  "target": "confused",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0183",
+  "en": "This bridge connects the island to the main city.",
+  "zh": "這座橋把小島和主要城市連接起來。",
+  "target": "connects",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0184",
+  "en": "The boy fell off his bike but was still conscious.",
+  "zh": "男孩從腳踏車上摔下來，但仍然有意識。",
+  "target": "conscious",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0185",
+  "en": "Learning to play the piano well takes a considerable amount of time.",
+  "zh": "要把鋼琴彈好需要相當多的時間。",
+  "target": "considerable",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0186",
+  "en": "The constant noise from the street made it hard to sleep.",
+  "zh": "街上持續不斷的噪音讓人難以入睡。",
+  "target": "constant",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0187",
+  "en": "Asia is the largest continent in the whole world.",
+  "zh": "亞洲是全世界最大的洲。",
+  "target": "continent",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0188",
+  "en": "Ken lost the game controller, so we couldn't play together.",
+  "zh": "肯弄丟了遊戲控制器，所以我們沒辦法一起玩。",
+  "target": "controller",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0189",
+  "en": "Mom cooks rice in a rice cooker every evening.",
+  "zh": "媽媽每天晚上用電鍋煮飯。",
+  "target": "cooker",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0190",
+  "en": "Fixing the old car would be too costly, so we bought a new one.",
+  "zh": "修理那輛舊車太昂貴了，所以我們買了一輛新車。",
+  "target": "costly",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0191",
+  "en": "This T-shirt is made of soft cotton and feels nice.",
+  "zh": "這件T恤是用柔軟的棉做的，穿起來很舒服。",
+  "target": "cotton",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0192",
+  "en": "Ben has a bad cough, so he stayed home from school.",
+  "zh": "班咳嗽得很厲害，所以請假在家沒去上學。",
+  "target": "cough",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0193",
+  "en": "In English, \"apple\" is countable, but \"water\" is not.",
+  "zh": "在英文中，「apple」是可數的，但「water」不是。",
+  "target": "countable",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0194",
+  "en": "Our county has many beautiful beaches and farms.",
+  "zh": "我們縣有許多美麗的海灘和農場。",
+  "target": "county",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0195",
+  "en": "We saw a small crab hiding under a rock on the beach.",
+  "zh": "我們看到一隻小螃蟹躲在海灘的石頭底下。",
+  "target": "crab",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0196",
+  "en": "The mother gently rocked the baby in the cradle.",
+  "zh": "媽媽輕輕搖著搖籃裡的寶寶。",
+  "target": "cradle",
+  "status": "ok",
+  "note": "超出1–2級：gently"
+ },
+ {
+  "id": "L3-0197",
+  "en": "A tall crane is lifting heavy things at the new building.",
+  "zh": "一台高大的起重機正在新大樓工地吊起重物。",
+  "target": "crane",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0198",
+  "en": "Nobody was hurt when the two cars crashed on the bridge.",
+  "zh": "兩輛車在橋上相撞時，沒有人受傷。",
+  "target": "crashed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0199",
+  "en": "The baby can crawl across the room but cannot walk yet.",
+  "zh": "寶寶會爬過整個房間，但還不會走路。",
+  "target": "crawl",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0200",
+  "en": "Amy is very creative and always has new ideas for our project.",
+  "zh": "艾咪很有創意，總是為我們的專題提出新點子。",
+  "target": "creative",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0201",
+  "en": "The creator of this cartoon spent five years drawing it.",
+  "zh": "這部卡通的創作者花了五年時間畫它。",
+  "target": "creator",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0202",
+  "en": "Many strange creatures live at the bottom of the sea.",
+  "zh": "許多奇特的生物住在海底。",
+  "target": "creatures",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0203",
+  "en": "Our team won, but most of the credit goes to Ben.",
+  "zh": "我們隊贏了，但大部分的功勞要歸給班。",
+  "target": "credit",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0204",
+  "en": "The ship's crew worked day and night during the storm.",
+  "zh": "船上的全體船員在暴風雨中日夜工作。",
+  "target": "crew",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0205",
+  "en": "At night, we could hear crickets singing in the grass.",
+  "zh": "晚上我們可以聽到草叢裡蟋蟀的叫聲。",
+  "target": "crickets",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0206",
+  "en": "The police finally caught the criminal who stole money from the store.",
+  "zh": "警方終於抓到偷了店裡錢的罪犯。",
+  "target": "criminal",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0207",
+  "en": "Grandma's fried chicken is crispy on the outside and soft inside.",
+  "zh": "奶奶做的炸雞外皮酥脆、裡面軟嫩。",
+  "target": "crispy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0208",
+  "en": "Rice is the main crop in this part of Taiwan.",
+  "zh": "稻米是台灣這個地區的主要農作物。",
+  "target": "crop",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0209",
+  "en": "The king wore a gold crown on his head.",
+  "zh": "國王頭上戴著一頂金色的王冠。",
+  "target": "crown",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0210",
+  "en": "It is cruel to leave a dog alone in a hot car.",
+  "zh": "把狗獨自留在炎熱的車裡是很殘忍的。",
+  "target": "cruel",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0211",
+  "en": "Please put the clean bowls back in the cupboard.",
+  "zh": "請把乾淨的碗放回櫥櫃裡。",
+  "target": "cupboard",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0212",
+  "en": "Milk, cheese, and butter are all dairy products.",
+  "zh": "牛奶、起司和奶油都是乳製品。",
+  "target": "dairy",
+  "status": "ok",
+  "note": "含其他3級字：products"
+ },
+ {
+  "id": "L3-0213",
+  "en": "The new dam stores water for the city during the dry season.",
+  "zh": "這座新水壩在乾季時為城市儲水。",
+  "target": "dam",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0214",
+  "en": "Nobody dared to swim in the cold river in winter.",
+  "zh": "冬天沒有人敢在冰冷的河裡游泳。",
+  "target": "dared",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0215",
+  "en": "\"Come here, darling,\" Mom said to the crying little girl.",
+  "zh": "「過來，親愛的。」媽媽對哭泣的小女孩說。",
+  "target": "darling",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0216",
+  "en": "Tom made a dash for the bus when he saw it coming.",
+  "zh": "湯姆看到公車來了，就衝過去追。",
+  "target": "dash",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0217",
+  "en": "The library has a database of all its books and magazines.",
+  "zh": "圖書館有一個收錄所有書籍和雜誌的資料庫。",
+  "target": "database",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0218",
+  "en": "Farmers often start working at dawn, before the sun gets hot.",
+  "zh": "農夫常在黎明時分、太陽還不熱之前就開始工作。",
+  "target": "dawn",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0219",
+  "en": "Dad bought his new car from a dealer near our home.",
+  "zh": "爸爸向我們家附近的一家經銷商買了新車。",
+  "target": "dealer",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0220",
+  "en": "Our town has changed a lot over the past decade.",
+  "zh": "我們的小鎮在過去十年間改變很多。",
+  "target": "decade",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0221",
+  "en": "We stood on the deck of the ship and watched the sea.",
+  "zh": "我們站在船的甲板上看海。",
+  "target": "deck",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0222",
+  "en": "The students decorated the classroom with balloons for the party.",
+  "zh": "學生們用氣球裝飾教室，準備開派對。",
+  "target": "decorated",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0223",
+  "en": "The number of students in this village has decreased every year.",
+  "zh": "這個村莊的學生人數每年都在減少。",
+  "target": "decreased",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0224",
+  "en": "Helping the old lady cross the street was a good deed.",
+  "zh": "幫助老太太過馬路是一件善行。",
+  "target": "deed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0225",
+  "en": "Reading many books can deepen your understanding of the world.",
+  "zh": "多讀書能加深你對世界的了解。",
+  "target": "deepen",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0226",
+  "en": "Look up the definition of this word in your dictionary.",
+  "zh": "在你的字典裡查這個字的定義。",
+  "target": "definition",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0227",
+  "en": "In a democracy, people can choose their leaders by voting.",
+  "zh": "在民主制度下，人民可以透過投票選出領導人。",
+  "target": "democracy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0228",
+  "en": "Our class made a democratic choice by letting everyone vote.",
+  "zh": "我們班讓每個人投票，做出了民主的決定。",
+  "target": "democratic",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0229",
+  "en": "You need to pay a small deposit when you borrow a bike here.",
+  "zh": "在這裡借腳踏車需要先付一小筆押金。",
+  "target": "deposit",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0230",
+  "en": "Lily dreams of becoming a designer who makes beautiful clothes.",
+  "zh": "莉莉夢想成為一位製作漂亮衣服的設計師。",
+  "target": "designer",
+  "status": "ok",
+  "note": "含其他3級字：lily"
+ },
+ {
+  "id": "L3-0231",
+  "en": "Living near a good school is desirable for many families.",
+  "zh": "住在好學校附近是許多家庭所嚮往的。",
+  "target": "desirable",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0232",
+  "en": "Ken has a strong desire to travel around the world.",
+  "zh": "肯非常渴望能環遊世界。",
+  "target": "desire",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0233",
+  "en": "After dinner, we had ice cream for dessert.",
+  "zh": "晚餐後，我們吃冰淇淋當甜點。",
+  "target": "dessert",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0234",
+  "en": "The strong storm destroyed many houses near the beach.",
+  "zh": "強烈的暴風雨摧毀了海邊的許多房子。",
+  "target": "destroyed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0235",
+  "en": "The machine can detect smoke and make a loud sound.",
+  "zh": "這台機器能偵測到煙霧並發出很大的聲響。",
+  "target": "detect",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0236",
+  "en": "The test results will determine which class you will join.",
+  "zh": "測驗結果將決定你會進入哪一班。",
+  "target": "determine",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0237",
+  "en": "In the story, the devil tries to trick a poor farmer.",
+  "zh": "在故事裡，魔鬼想要欺騙一個貧窮的農夫。",
+  "target": "devil",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0238",
+  "en": "The light in the room was too dim for reading.",
+  "zh": "房間裡的光線太昏暗，不適合看書。",
+  "target": "dim",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0239",
+  "en": "A dime is worth ten cents in the United States.",
+  "zh": "在美國，一角硬幣價值十分錢。",
+  "target": "dime",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0240",
+  "en": "We dined at a nice restaurant for Grandpa's eightieth birthday.",
+  "zh": "我們在一家不錯的餐廳用餐，慶祝爺爺八十歲生日。",
+  "target": "dined",
+  "status": "ok",
+  "note": "超出1–2級：eightieth"
+ },
+ {
+  "id": "L3-0241",
+  "en": "The museum has a huge model of a dinosaur.",
+  "zh": "博物館裡有一個巨大的恐龍模型。",
+  "target": "dinosaur",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0242",
+  "en": "Grandpa likes to dip his bread in hot milk.",
+  "zh": "爺爺喜歡把麵包沾熱牛奶吃。",
+  "target": "dip",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0243",
+  "en": "After playing soccer, Tom's shoes were covered in dirt.",
+  "zh": "踢完足球後，湯姆的鞋子沾滿了泥土。",
+  "target": "dirt",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0244",
+  "en": "Students can get a discount at this bookstore with their ID cards.",
+  "zh": "學生持學生證在這家書店可以享有折扣。",
+  "target": "discount",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0245",
+  "en": "It is dishonest to copy a classmate's answers on a test.",
+  "zh": "考試時抄同學的答案是不誠實的。",
+  "target": "dishonest",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0246",
+  "en": "The old computer game came on a small disk.",
+  "zh": "那款老電腦遊戲是裝在一張小磁碟片裡。",
+  "target": "disk",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0247",
+  "en": "Many children dislike vegetables, but my brother loves them.",
+  "zh": "很多小孩不喜歡蔬菜，但我弟弟很喜歡。",
+  "target": "dislike",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0248",
+  "en": "Heavy rain filled the ditch beside the road with water.",
+  "zh": "大雨使路邊的水溝積滿了水。",
+  "target": "ditch",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0249",
+  "en": "It is dangerous to dive into water that is not deep.",
+  "zh": "跳進不深的水裡是很危險的。",
+  "target": "dive",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0250",
+  "en": "The hot weather made Grandma feel dizzy, so she sat down.",
+  "zh": "炎熱的天氣讓奶奶覺得頭暈，所以她坐了下來。",
+  "target": "dizzy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0251",
+  "en": "The boat will arrive at the dock in ten minutes.",
+  "zh": "船十分鐘後會抵達碼頭。",
+  "target": "dock",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0252",
+  "en": "We watched a dolphin jump out of the sea near the boat.",
+  "zh": "我們看到一隻海豚在船附近躍出海面。",
+  "target": "dolphin",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0253",
+  "en": "The farmer's donkey carried heavy bags up the hill every morning.",
+  "zh": "農夫的驢子每天早上把沉重的袋子運上山。",
+  "target": "donkey",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0254",
+  "en": "Take one dose of this medicine after each meal, the doctor said.",
+  "zh": "醫生說，每餐飯後服用一劑這種藥。",
+  "target": "dose",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0255",
+  "en": "Mom looked doubtful when I said I had finished my homework.",
+  "zh": "我說我寫完功課了，媽媽看起來一臉懷疑。",
+  "target": "doubtful",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0256",
+  "en": "Amy bought a sweet doughnut and a cup of milk for breakfast.",
+  "zh": "艾美早餐買了一個甜甜圈和一杯牛奶。",
+  "target": "doughnut",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0257",
+  "en": "We took the bus downtown to see a movie on Saturday.",
+  "zh": "我們星期六搭公車到市中心看電影。",
+  "target": "downtown",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0258",
+  "en": "The bag was so heavy that Tom had to drag it along the floor.",
+  "zh": "袋子太重了，湯姆只好在地上拖著走。",
+  "target": "drag",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0259",
+  "en": "A dragonfly flew over the pond and landed on a leaf.",
+  "zh": "一隻蜻蜓飛過池塘，停在一片葉子上。",
+  "target": "dragonfly",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0260",
+  "en": "After the heavy rain, the water slowly drained from the streets.",
+  "zh": "大雨過後，街上的積水慢慢排掉了。",
+  "target": "drained",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0261",
+  "en": "There was a dramatic change in the weather, from sunny to stormy.",
+  "zh": "天氣有了劇烈的變化，從晴天轉為暴風雨。",
+  "target": "dramatic",
+  "status": "ok",
+  "note": "含其他3級字：stormy"
+ },
+ {
+  "id": "L3-0262",
+  "en": "Water kept dripping from the old roof all night long.",
+  "zh": "水整晚不停地從老舊的屋頂滴下來。",
+  "target": "dripping",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0263",
+  "en": "Never swim alone in the river, or you might drown.",
+  "zh": "千萬不要獨自在河裡游泳，否則可能會溺水。",
+  "target": "drown",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0264",
+  "en": "Dad went to the drugstore to buy some medicine for my cold.",
+  "zh": "爸爸去藥房幫我買感冒藥。",
+  "target": "drugstore",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0265",
+  "en": "People who are drunk should never drive a car.",
+  "zh": "喝醉的人絕對不該開車。",
+  "target": "drunk",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0266",
+  "en": "Don't be afraid to ask questions; no question is dumb.",
+  "zh": "別害怕發問，沒有任何問題是愚蠢的。",
+  "target": "dumb",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0267",
+  "en": "Please don't dump your trash on the beach.",
+  "zh": "請不要把垃圾倒在海灘上。",
+  "target": "dump",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0268",
+  "en": "Grandma makes delicious dumplings for the whole family every winter.",
+  "zh": "奶奶每年冬天都會為全家人包美味的水餃。",
+  "target": "dumplings",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0269",
+  "en": "The old books on the shelf were covered with dust.",
+  "zh": "書架上的舊書布滿了灰塵。",
+  "target": "dust",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0270",
+  "en": "The students were eager to start their summer vacation.",
+  "zh": "學生們渴望開始放暑假。",
+  "target": "eager",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0271",
+  "en": "We shouted in the cave and heard our echo come back.",
+  "zh": "我們在山洞裡大喊，聽到了自己的回音。",
+  "target": "echo",
+  "status": "ok",
+  "note": "含其他3級字：cave"
+ },
+ {
+  "id": "L3-0272",
+  "en": "Please edit your report and fix the spelling mistakes before Friday.",
+  "zh": "請在星期五前編修你的報告，改正拼字錯誤。",
+  "target": "edit",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0273",
+  "en": "The editor of the school newspaper chose my story for the front page.",
+  "zh": "校刊的編輯選了我的故事登在頭版。",
+  "target": "editor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0274",
+  "en": "Parents and teachers work together to educate children.",
+  "zh": "父母和老師共同合作教育孩子。",
+  "target": "educate",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0275",
+  "en": "This TV program is both fun and educational for young kids.",
+  "zh": "這個電視節目對小孩來說既有趣又有教育意義。",
+  "target": "educational",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0276",
+  "en": "Amy is very efficient; she finishes her homework in half an hour.",
+  "zh": "艾美很有效率，她半小時就寫完功課了。",
+  "target": "efficient",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0277",
+  "en": "Tom fell off his bike and hurt his left elbow.",
+  "zh": "湯姆從腳踏車上摔下來，傷到了左手肘。",
+  "target": "elbow",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0278",
+  "en": "The boy gave his seat on the bus to an elderly woman.",
+  "zh": "那個男孩在公車上把座位讓給一位年長的婦人。",
+  "target": "elderly",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0279",
+  "en": "Our class will elect a new class leader next week.",
+  "zh": "我們班下週要選出新的班長。",
+  "target": "elect",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0280",
+  "en": "The school held an election to choose the student president.",
+  "zh": "學校舉辦選舉來選出學生會會長。",
+  "target": "election",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0281",
+  "en": "Please turn off the lights when you leave to save electricity.",
+  "zh": "離開時請關燈，以節約用電。",
+  "target": "electricity",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0282",
+  "en": "The electronic dictionary on my phone helps me learn new words.",
+  "zh": "我手機上的電子辭典幫助我學習新單字。",
+  "target": "electronic",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0283",
+  "en": "Hard work is an important element of success.",
+  "zh": "努力是成功的重要因素。",
+  "target": "element",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0284",
+  "en": "We took the elevator to the tenth floor of the building.",
+  "zh": "我們搭電梯到大樓的十樓。",
+  "target": "elevator",
+  "status": "ok",
+  "note": "超出1–2級：tenth"
+ },
+ {
+  "id": "L3-0285",
+  "en": "In an emergency, call 119 for help right away.",
+  "zh": "遇到緊急情況時，立刻撥打119求救。",
+  "target": "emergency",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0286",
+  "en": "Mom became very emotional when I gave her a birthday card.",
+  "zh": "我送媽媽生日卡片時，她的情緒變得很激動。",
+  "target": "emotional",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0287",
+  "en": "The emperor ruled the country for more than forty years.",
+  "zh": "那位皇帝統治這個國家四十多年。",
+  "target": "emperor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0288",
+  "en": "The new bridge enables people to cross the river quickly.",
+  "zh": "這座新橋讓人們能快速過河。",
+  "target": "enables",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0289",
+  "en": "The children were so energetic that they played soccer all afternoon.",
+  "zh": "孩子們精力充沛，踢了一整個下午的足球。",
+  "target": "energetic",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0290",
+  "en": "Students who engage in sports often stay healthy and happy.",
+  "zh": "參與運動的學生通常能保持健康快樂。",
+  "target": "engage",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0291",
+  "en": "We had an enjoyable day at the beach with our cousins.",
+  "zh": "我們和表兄弟姊妹在海邊度過了愉快的一天。",
+  "target": "enjoyable",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0292",
+  "en": "Entry to the museum is free for students on Sundays.",
+  "zh": "星期日學生可免費入場參觀博物館。",
+  "target": "Entry",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0293",
+  "en": "Many classmates envy Tom because he can speak three languages.",
+  "zh": "許多同學很羨慕湯姆，因為他會說三種語言。",
+  "target": "envy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0294",
+  "en": "Please erase the board before the next class begins.",
+  "zh": "請在下一堂課開始前把黑板擦乾淨。",
+  "target": "erase",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0295",
+  "en": "The school gave Amy a prize for her excellence in math.",
+  "zh": "學校頒獎給艾美，表揚她在數學上的卓越表現。",
+  "target": "excellence",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0296",
+  "en": "Tom and I exchanged phone numbers after the first day of school.",
+  "zh": "開學第一天後，湯姆和我交換了電話號碼。",
+  "target": "exchanged",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0297",
+  "en": "Our class visited an art exhibition at the city museum.",
+  "zh": "我們班去市立博物館參觀了一場藝術展覽。",
+  "target": "exhibition",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0298",
+  "en": "Her parents have high expectations for her school grades.",
+  "zh": "她的父母對她的學業成績期望很高。",
+  "target": "expectations",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0299",
+  "en": "In science class, we did an experiment with water and salt.",
+  "zh": "在自然課上，我們用水和鹽做了一個實驗。",
+  "target": "experiment",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0300",
+  "en": "The balloon exploded with a loud noise when Tom sat on it.",
+  "zh": "湯姆坐到氣球上，氣球砰的一聲爆炸了。",
+  "target": "exploded",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0301",
+  "en": "On the weekend, we explored the mountains near our town.",
+  "zh": "週末時，我們去探索了小鎮附近的山區。",
+  "target": "explored",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0302",
+  "en": "Taiwan exports a lot of fruit to other countries every year.",
+  "zh": "台灣每年出口大量水果到其他國家。",
+  "target": "exports",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0303",
+  "en": "Her expressive eyes showed how happy she was to see us.",
+  "zh": "她那富有表情的雙眼流露出見到我們有多開心。",
+  "target": "expressive",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0304",
+  "en": "Some people cannot stand the extreme heat of summer in Taipei.",
+  "zh": "有些人受不了台北夏天的極端高溫。",
+  "target": "extreme",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0305",
+  "en": "The colors of my old T-shirt have faded in the sun.",
+  "zh": "我那件舊T恤的顏色被太陽曬到褪色了。",
+  "target": "faded",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0306",
+  "en": "We heard a faint sound of music from the house next door.",
+  "zh": "我們聽到隔壁傳來微弱的音樂聲。",
+  "target": "faint",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0307",
+  "en": "The test was fairly easy, so most students finished early.",
+  "zh": "這次考試相當簡單，所以大部分學生都提早寫完。",
+  "target": "fairly",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0308",
+  "en": "My little sister loves stories about a fairy with magic wings.",
+  "zh": "我妹妹很喜歡長著魔法翅膀的仙子的故事。",
+  "target": "fairy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0309",
+  "en": "The coach has faith in his players, even after a bad game.",
+  "zh": "即使比賽表現不佳，教練仍對他的球員深具信心。",
+  "target": "faith",
+  "status": "ok",
+  "note": "含其他3級字：coach"
+ },
+ {
+  "id": "L3-0310",
+  "en": "Don't believe that news; the photo in it is fake.",
+  "zh": "別相信那則新聞，裡面的照片是假的。",
+  "target": "fake",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0311",
+  "en": "Her voice sounds familiar, but I can't remember her name.",
+  "zh": "她的聲音聽起來很熟悉，但我想不起她的名字。",
+  "target": "familiar",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0312",
+  "en": "We ate dinner at a fancy restaurant for Grandpa's birthday.",
+  "zh": "我們在一家高級餐廳吃晚餐，慶祝爺爺的生日。",
+  "target": "fancy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0313",
+  "en": "The bus fare from school to my home is fifteen dollars.",
+  "zh": "從學校到我家的公車車資是十五元。",
+  "target": "fare",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0314",
+  "en": "My house is farther from school than Amy's house.",
+  "zh": "我家離學校比艾美家更遠。",
+  "target": "farther",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0315",
+  "en": "Short hair is very fashionable among girls this year.",
+  "zh": "今年短髮在女生之間非常時髦。",
+  "target": "fashionable",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0316",
+  "en": "Please turn off the faucet after you wash your hands.",
+  "zh": "洗完手後請關掉水龍頭。",
+  "target": "faucet",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0317",
+  "en": "The little boy was fearful of the big dog next door.",
+  "zh": "那個小男孩很害怕隔壁的大狗。",
+  "target": "fearful",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0318",
+  "en": "A soft white feather fell from the bird as it flew away.",
+  "zh": "那隻鳥飛走時，掉下一根柔軟的白色羽毛。",
+  "target": "feather",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0319",
+  "en": "The dog jumped over the fence and ran into the street.",
+  "zh": "那隻狗跳過籬笆，跑到街上。",
+  "target": "fence",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0320",
+  "en": "Grandma is a true fighter; she never gives up when she is sick.",
+  "zh": "奶奶是真正的鬥士，生病時從不放棄。",
+  "target": "fighter",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0321",
+  "en": "Many families watched the colorful fireworks over the river last night.",
+  "zh": "昨晚許多家庭在河邊觀賞繽紛的煙火。",
+  "target": "fireworks",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0322",
+  "en": "The baby held my finger tightly in her small fist.",
+  "zh": "小寶寶用她的小拳頭緊緊握住我的手指。",
+  "target": "fist",
+  "status": "ok",
+  "note": "含其他3級字：tightly"
+ },
+ {
+  "id": "L3-0323",
+  "en": "Be careful; the flame of the candle is very hot.",
+  "zh": "小心，蠟燭的火焰很燙。",
+  "target": "flame",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0324",
+  "en": "A flash of light filled the sky during the storm.",
+  "zh": "暴風雨中，一道閃光照亮了天空。",
+  "target": "flash",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0325",
+  "en": "When the power went out, we used a flashlight to find candles.",
+  "zh": "停電時，我們用手電筒找蠟燭。",
+  "target": "flashlight",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0326",
+  "en": "Which ice cream flavor do you like best, chocolate or strawberry?",
+  "zh": "你最喜歡哪種口味的冰淇淋，巧克力還是草莓？",
+  "target": "flavor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0327",
+  "en": "The flesh of this mango is sweet and soft.",
+  "zh": "這顆芒果的果肉又甜又軟。",
+  "target": "flesh",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0328",
+  "en": "Leaves were floating on the water in the pond.",
+  "zh": "樹葉漂浮在池塘的水面上。",
+  "target": "floating",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0329",
+  "en": "A flock of birds flew south before winter came.",
+  "zh": "冬天來臨前，一群鳥往南飛去。",
+  "target": "flock",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0330",
+  "en": "Heavy rain caused a flood in the lower part of the town.",
+  "zh": "大雨在鎮上地勢較低的地區造成了洪水。",
+  "target": "flood",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0331",
+  "en": "To make bread, you need flour, water, and a little salt.",
+  "zh": "要做麵包，你需要麵粉、水和一點鹽。",
+  "target": "flour",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0332",
+  "en": "Amy plays the flute in the school band.",
+  "zh": "艾美在學校樂隊吹長笛。",
+  "target": "flute",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0333",
+  "en": "It was so foggy this morning that we couldn't see the mountains.",
+  "zh": "今天早上霧很濃，我們看不到山。",
+  "target": "foggy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0334",
+  "en": "Please fold your clothes and put them in the closet.",
+  "zh": "請把你的衣服摺好，放進衣櫃裡。",
+  "target": "fold",
+  "status": "ok",
+  "note": "含其他3級字：closet"
+ },
+ {
+  "id": "L3-0335",
+  "en": "The singer has more than a million followers online.",
+  "zh": "那位歌手在網路上有超過一百萬名追隨者。",
+  "target": "followers",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0336",
+  "en": "My grandfather is very fond of growing vegetables in his garden.",
+  "zh": "我爺爺很喜歡在他的菜園裡種菜。",
+  "target": "fond",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0337",
+  "en": "We promised that we would be best friends forever.",
+  "zh": "我們約定要永遠當最好的朋友。",
+  "target": "forever",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0338",
+  "en": "The man made a fortune from his small noodle shop.",
+  "zh": "那個男人靠著他的小麵店累積了一大筆財富。",
+  "target": "fortune",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0339",
+  "en": "Children played in the water from the fountain in the park.",
+  "zh": "孩子們在公園的噴泉旁玩水。",
+  "target": "fountain",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0340",
+  "en": "To be frank, I didn't enjoy the movie at all.",
+  "zh": "坦白說，我一點也不喜歡那部電影。",
+  "target": "frank",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0341",
+  "en": "Water will freeze if the temperature drops below zero.",
+  "zh": "如果溫度降到零度以下，水就會結冰。",
+  "target": "freeze",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0342",
+  "en": "Please put the fish in the freezer when we get home.",
+  "zh": "我們回到家後，請把魚放進冷凍庫。",
+  "target": "freezer",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0343",
+  "en": "Tom is a frequent visitor to the library near his home.",
+  "zh": "湯姆常去他家附近的圖書館。",
+  "target": "frequent",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0344",
+  "en": "The loud thunder gave my little brother a fright.",
+  "zh": "響亮的雷聲把我弟弟嚇了一跳。",
+  "target": "fright",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0345",
+  "en": "Please speak softly so you don't frighten the baby.",
+  "zh": "請小聲說話，以免嚇到寶寶。",
+  "target": "frighten",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0346",
+  "en": "Cars need fuel to run, just as people need food.",
+  "zh": "汽車需要燃料才能行駛，就像人需要食物一樣。",
+  "target": "fuel",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0347",
+  "en": "Our class sold cookies to raise funds for a school trip.",
+  "zh": "我們班賣餅乾，為校外教學募集資金。",
+  "target": "funds",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0348",
+  "en": "The cat's soft white fur keeps it warm in winter.",
+  "zh": "那隻貓柔軟的白色毛皮讓牠在冬天保持溫暖。",
+  "target": "fur",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0349",
+  "en": "Dad bought a gallon of milk at the supermarket.",
+  "zh": "爸爸在超市買了一加侖的牛奶。",
+  "target": "gallon",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0350",
+  "en": "Grandpa told me never to gamble with my money.",
+  "zh": "爺爺告訴我絕對不要拿錢去賭博。",
+  "target": "gamble",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0351",
+  "en": "A gang of kids played basketball in the park after school.",
+  "zh": "放學後，一夥孩子在公園裡打籃球。",
+  "target": "gang",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0352",
+  "en": "There is a small gap between the door and the floor.",
+  "zh": "門和地板之間有一個小縫隙。",
+  "target": "gap",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0353",
+  "en": "Dad parks his car in the garage every night.",
+  "zh": "爸爸每天晚上都把車停在車庫裡。",
+  "target": "garage",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0354",
+  "en": "We stopped to buy gasoline before driving up the mountain.",
+  "zh": "開車上山前，我們先停下來加汽油。",
+  "target": "gasoline",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0355",
+  "en": "In geography class, we learned about the rivers of Taiwan.",
+  "zh": "在地理課上，我們學習了台灣的河流。",
+  "target": "geography",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0356",
+  "en": "Tom made a friendly gesture by waving his hand at us.",
+  "zh": "湯姆向我們揮手，做出友善的手勢。",
+  "target": "gesture",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0357",
+  "en": "Amy took a quick glance at her watch and ran to class.",
+  "zh": "艾美很快地瞥了一眼手錶，就跑去上課了。",
+  "target": "glance",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0358",
+  "en": "Global warming is a problem for every country in the world.",
+  "zh": "全球暖化是世界上每個國家都面臨的問題。",
+  "target": "Global",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0359",
+  "en": "The team won the game and returned home in glory.",
+  "zh": "球隊贏得比賽，光榮地回到家鄉。",
+  "target": "glory",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0360",
+  "en": "The lights of the city glowed softly in the dark night.",
+  "zh": "城市的燈火在黑夜裡散發柔和的光芒。",
+  "target": "glowed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0361",
+  "en": "My uncle plays golf with his friends every Sunday morning.",
+  "zh": "我叔叔每個星期天早上都和朋友打高爾夫球。",
+  "target": "golf",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0362",
+  "en": "It is not nice to spread gossip about your classmates.",
+  "zh": "散播同學的八卦是不好的行為。",
+  "target": "gossip",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0363",
+  "en": "The governor of the state gave a speech to the students.",
+  "zh": "那位州長對學生們發表了演講。",
+  "target": "governor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0364",
+  "en": "Tom grabbed his bag and ran to catch the bus.",
+  "zh": "湯姆抓起書包，跑去趕公車。",
+  "target": "grabbed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0365",
+  "en": "My sister will graduate from high school next June.",
+  "zh": "我姊姊明年六月就要高中畢業了。",
+  "target": "graduate",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0366",
+  "en": "Amy grasped the rope tightly and climbed up the wall.",
+  "zh": "艾美緊緊抓住繩子，爬上了牆。",
+  "target": "grasped",
+  "status": "ok",
+  "note": "含其他3級字：tightly"
+ },
+ {
+  "id": "L3-0367",
+  "en": "A green grasshopper jumped from the grass onto my shoe.",
+  "zh": "一隻綠色的蚱蜢從草地跳到我的鞋子上。",
+  "target": "grasshopper",
+  "status": "ok",
+  "note": "含其他3級字：onto"
+ },
+ {
+  "id": "L3-0368",
+  "en": "We had a picnic on a grassy hill near the lake.",
+  "zh": "我們在湖邊一座長滿草的小山丘上野餐。",
+  "target": "grassy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0369",
+  "en": "The greedy boy ate all the cookies and left none for his sister.",
+  "zh": "那個貪心的男孩把餅乾全吃光了，一片也沒留給妹妹。",
+  "target": "greedy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0370",
+  "en": "Grandpa grows tomatoes in a greenhouse, even in winter.",
+  "zh": "爺爺在溫室裡種番茄，即使冬天也一樣。",
+  "target": "greenhouse",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0371",
+  "en": "Tom had a big grin on his face after winning the race.",
+  "zh": "湯姆贏得賽跑後，咧著嘴笑得很開心。",
+  "target": "grin",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0372",
+  "en": "Mom goes to the grocery store every Saturday morning.",
+  "zh": "媽媽每個星期六早上都會去雜貨店。",
+  "target": "grocery",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0373",
+  "en": "With her teacher's guidance, Amy improved her English a lot.",
+  "zh": "在老師的指導下，艾美的英文進步很多。",
+  "target": "guidance",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0374",
+  "en": "Students may not chew gum in the classroom.",
+  "zh": "學生不可以在教室裡嚼口香糖。",
+  "target": "gum",
+  "status": "ok",
+  "note": "超出1–2級：chew"
+ },
+ {
+  "id": "L3-0375",
+  "en": "The hairdresser cut my hair short for the summer.",
+  "zh": "美髮師為了夏天把我的頭髮剪短了。",
+  "target": "hairdresser",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0376",
+  "en": "Please don't run in the hallway between classes.",
+  "zh": "下課時請不要在走廊上奔跑。",
+  "target": "hallway",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0377",
+  "en": "Dad used a hammer to hang a picture on the wall.",
+  "zh": "爸爸用鐵鎚把一幅畫掛到牆上。",
+  "target": "hammer",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0378",
+  "en": "Only a handful of students stayed after class to help clean.",
+  "zh": "只有少數幾個學生下課後留下來幫忙打掃。",
+  "target": "handful",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0379",
+  "en": "Grandpa always carries a handkerchief in his pocket.",
+  "zh": "爺爺口袋裡總是帶著一條手帕。",
+  "target": "handkerchief",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0380",
+  "en": "A small umbrella is handy to keep in your school bag.",
+  "zh": "書包裡放一把小雨傘很方便。",
+  "target": "handy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0381",
+  "en": "Please hang your coat on a hanger in the closet.",
+  "zh": "請把你的外套掛在衣櫃的衣架上。",
+  "target": "hanger",
+  "status": "ok",
+  "note": "含其他3級字：closet"
+ },
+ {
+  "id": "L3-0382",
+  "en": "Many fishing boats return to the harbor in the evening.",
+  "zh": "許多漁船傍晚會回到港口。",
+  "target": "harbor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0383",
+  "en": "Too much sugar can do harm to your teeth.",
+  "zh": "吃太多糖會傷害你的牙齒。",
+  "target": "harm",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0384",
+  "en": "Staying up late every night is harmful to your health.",
+  "zh": "每晚熬夜對你的健康有害。",
+  "target": "harmful",
+  "status": "ok",
+  "note": "超出1–2級：health"
+ },
+ {
+  "id": "L3-0385",
+  "en": "Farmers are busy with the rice harvest in the fall.",
+  "zh": "農夫們在秋天忙著收割稻米。",
+  "target": "harvest",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0386",
+  "en": "Don't make a hasty decision; think about it carefully first.",
+  "zh": "別草率做決定，先仔細想清楚。",
+  "target": "hasty",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0387",
+  "en": "Three baby birds hatched from their eggs this morning.",
+  "zh": "今天早上，三隻小鳥從蛋裡孵出來了。",
+  "target": "hatched",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0388",
+  "en": "It was hateful of them to laugh at the new student.",
+  "zh": "他們嘲笑新同學，真是可恨。",
+  "target": "hateful",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0389",
+  "en": "The farmer gave the horses some hay to eat.",
+  "zh": "農夫給那些馬一些乾草吃。",
+  "target": "hay",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0390",
+  "en": "The headline of today's newspaper is about the typhoon.",
+  "zh": "今天報紙的頭條是關於颱風的消息。",
+  "target": "headline",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0391",
+  "en": "The company's headquarters is in a tall building in Taipei.",
+  "zh": "那家公司的總部位於台北一棟高樓裡。",
+  "target": "headquarters",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0392",
+  "en": "The cut on my finger healed in about a week.",
+  "zh": "我手指上的傷口大約一週就癒合了。",
+  "target": "healed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0393",
+  "en": "There was a heap of dirty clothes on Tom's bed.",
+  "zh": "湯姆的床上有一堆髒衣服。",
+  "target": "heap",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0394",
+  "en": "It was so cold that we turned on the heater all night.",
+  "zh": "天氣太冷了，我們整晚都開著暖氣機。",
+  "target": "heater",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0395",
+  "en": "My new shoes hurt the back of my heel.",
+  "zh": "我的新鞋磨得我的腳跟好痛。",
+  "target": "heel",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0396",
+  "en": "Waiting in the hot sun for two hours felt like hell.",
+  "zh": "在大太陽下等了兩個小時，感覺像在地獄一樣。",
+  "target": "hell",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0397",
+  "en": "Always wear a helmet when you ride a motorcycle.",
+  "zh": "騎機車時一定要戴安全帽。",
+  "target": "helmet",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0398",
+  "en": "If you have any questions, don't hesitate to ask me.",
+  "zh": "如果你有任何問題，別猶豫，儘管問我。",
+  "target": "hesitate",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0399",
+  "en": "I can't guess the answer; can you give me a hint?",
+  "zh": "我猜不出答案，你可以給我一點提示嗎？",
+  "target": "hint",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0400",
+  "en": "The restaurant plans to hire two more waiters for the summer.",
+  "zh": "那家餐廳打算在夏天多僱用兩名服務生。",
+  "target": "hire",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0401",
+  "en": "The historian told us many stories about old Taipei.",
+  "zh": "那位歷史學家告訴我們許多老台北的故事。",
+  "target": "historian",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0402",
+  "en": "We visited a historic temple that is three hundred years old.",
+  "zh": "我們參觀了一座具有三百年歷史的古廟。",
+  "target": "historic",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0403",
+  "en": "Amy keeps her pens in a small holder on her desk.",
+  "zh": "艾美把筆放在書桌上的一個小筆筒裡。",
+  "target": "holder",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0404",
+  "en": "The old tree is hollow inside, and a bird lives there.",
+  "zh": "那棵老樹裡面是空心的，有一隻鳥住在裡面。",
+  "target": "hollow",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0405",
+  "en": "For many people, this mountain is a holy place.",
+  "zh": "對許多人來說，這座山是神聖的地方。",
+  "target": "holy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0406",
+  "en": "During her first week at camp, Amy felt very homesick.",
+  "zh": "參加營隊的第一週，艾美非常想家。",
+  "target": "homesick",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0407",
+  "en": "Every summer, Dad takes us back to his hometown in the south.",
+  "zh": "每年夏天，爸爸都會帶我們回他南部的家鄉。",
+  "target": "hometown",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0408",
+  "en": "The teacher praised Tom for his honesty when he returned the lost wallet.",
+  "zh": "湯姆歸還了遺失的錢包，老師稱讚他的誠實。",
+  "target": "honesty",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0409",
+  "en": "It is a great honor to play for our school team.",
+  "zh": "能為校隊出賽是莫大的榮譽。",
+  "target": "honor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0410",
+  "en": "The doctor is hopeful that Grandma will get better soon.",
+  "zh": "醫生抱持希望，認為奶奶很快就會好轉。",
+  "target": "hopeful",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0411",
+  "en": "A goat has two short horns on its head.",
+  "zh": "山羊頭上長著兩隻短短的角。",
+  "target": "horns",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0412",
+  "en": "The weather was horrible, so we stayed home all weekend.",
+  "zh": "天氣糟透了，所以我們整個週末都待在家。",
+  "target": "horrible",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0413",
+  "en": "My brother loves horror movies, but they scare me.",
+  "zh": "我哥哥很愛看恐怖片，但我看了會害怕。",
+  "target": "horror",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0414",
+  "en": "The train to Taichung leaves hourly from this station.",
+  "zh": "往台中的火車每小時從這個車站發車一班。",
+  "target": "hourly",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0415",
+  "en": "The housekeeper cleans the house and cooks dinner for the family.",
+  "zh": "那位管家負責打掃房子，並為這家人煮晚餐。",
+  "target": "housekeeper",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0416",
+  "en": "Grandma gave me a big hug when I arrived.",
+  "zh": "我到的時候，奶奶給了我一個大大的擁抱。",
+  "target": "hug",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0417",
+  "en": "Amy likes to hum her favorite songs while she cooks.",
+  "zh": "艾美喜歡一邊煮飯一邊哼她最愛的歌。",
+  "target": "hum",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0418",
+  "en": "Summer in Taiwan is very hot and humid.",
+  "zh": "台灣的夏天非常炎熱潮濕。",
+  "target": "humid",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0419",
+  "en": "Our math teacher has a great sense of humor.",
+  "zh": "我們的數學老師很有幽默感。",
+  "target": "humor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0420",
+  "en": "Everyone laughed at Tom's humorous story about his dog.",
+  "zh": "大家聽了湯姆那個關於他家狗狗的幽默故事都笑了。",
+  "target": "humorous",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0421",
+  "en": "After playing ball all day, the boys were weak from hunger.",
+  "zh": "打了一整天的球後，男孩們餓得全身無力。",
+  "target": "hunger",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0422",
+  "en": "We stayed in a small wooden hut on the mountain.",
+  "zh": "我們住在山上一間小木屋裡。",
+  "target": "hut",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0423",
+  "en": "Drive slowly; the roads are icy after the snow.",
+  "zh": "開慢一點，下雪後路面都結冰了。",
+  "target": "icy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0424",
+  "en": "Children have a wonderful imagination and love to tell stories.",
+  "zh": "孩子們擁有很棒的想像力，也喜歡說故事。",
+  "target": "imagination",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0425",
+  "en": "Thanks for your immediate reply to my message.",
+  "zh": "謝謝你立即回覆我的訊息。",
+  "target": "immediate",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0426",
+  "en": "Taiwan imports most of its oil from other countries.",
+  "zh": "台灣大部分的石油都是從其他國家進口的。",
+  "target": "imports",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0427",
+  "en": "Amy's beautiful singing impressed everyone at the party.",
+  "zh": "艾美優美的歌聲讓派對上的每個人都印象深刻。",
+  "target": "impressed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0428",
+  "en": "On rainy days, we play indoor games in the classroom.",
+  "zh": "下雨天時，我們在教室裡玩室內遊戲。",
+  "target": "indoor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0429",
+  "en": "It is raining hard, so let's stay indoors today.",
+  "zh": "雨下得很大，我們今天就待在室內吧。",
+  "target": "indoors",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0430",
+  "en": "There are many factories in this industrial area.",
+  "zh": "這個工業區裡有很多工廠。",
+  "target": "industrial",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0431",
+  "en": "This cheap phone is inferior to the one I had before.",
+  "zh": "這支便宜的手機比我以前那支還差。",
+  "target": "inferior",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0432",
+  "en": "Please inform your teacher if you will be absent tomorrow.",
+  "zh": "如果你明天會缺席，請通知你的老師。",
+  "target": "inform",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0433",
+  "en": "You can find more information about the trip on the school website.",
+  "zh": "你可以在學校網站上找到更多關於這次旅行的資訊。",
+  "target": "information",
+  "status": "ok",
+  "note": "超出1–2級：website"
+ },
+ {
+  "id": "L3-0434",
+  "en": "Tom missed the basketball game because of a knee injury.",
+  "zh": "湯姆因為膝蓋受傷而錯過了籃球比賽。",
+  "target": "injury",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0435",
+  "en": "We spent the night at a small inn by the sea.",
+  "zh": "我們在海邊的一家小旅館過夜。",
+  "target": "inn",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0436",
+  "en": "The inner part of the fruit is soft and sweet.",
+  "zh": "這種水果的內部又軟又甜。",
+  "target": "inner",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0437",
+  "en": "Tom was innocent; he did not break the window.",
+  "zh": "湯姆是無辜的，窗戶不是他打破的。",
+  "target": "innocent",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0438",
+  "en": "The teacher inspected our desks to make sure they were clean.",
+  "zh": "老師檢查了我們的書桌，確認桌面都很乾淨。",
+  "target": "inspected",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0439",
+  "en": "A health inspector checked the kitchen of the restaurant.",
+  "zh": "一名衛生檢查員檢查了那家餐廳的廚房。",
+  "target": "inspector",
+  "status": "ok",
+  "note": "超出1–2級：health"
+ },
+ {
+  "id": "L3-0440",
+  "en": "Dolphins are intelligent animals that can learn many tricks.",
+  "zh": "海豚是聰明的動物，可以學會許多把戲。",
+  "target": "intelligent",
+  "status": "ok",
+  "note": "含其他3級字：dolphins"
+ },
+ {
+  "id": "L3-0441",
+  "en": "Please don't interrupt me while I am talking on the phone.",
+  "zh": "我在講電話時，請不要打斷我。",
+  "target": "interrupt",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0442",
+  "en": "Who invented the telephone more than a hundred years ago?",
+  "zh": "一百多年前是誰發明了電話？",
+  "target": "invented",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0443",
+  "en": "The young inventor made a robot that can clean the floor.",
+  "zh": "那位年輕的發明家做了一台會掃地的機器人。",
+  "target": "inventor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0444",
+  "en": "The police are investigating why the fire started.",
+  "zh": "警方正在調查火災發生的原因。",
+  "target": "investigating",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0445",
+  "en": "Amy sent me an invitation to her birthday party.",
+  "zh": "艾美寄給我一張她生日派對的邀請函。",
+  "target": "invitation",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0446",
+  "en": "It is against the law to buy or sell ivory.",
+  "zh": "買賣象牙是違法的。",
+  "target": "ivory",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0447",
+  "en": "The man was sent to jail for stealing a car.",
+  "zh": "那個男人因為偷車而被關進監獄。",
+  "target": "jail",
+  "status": "ok",
+  "note": "含其他3級字：stealing"
+ },
+ {
+  "id": "L3-0448",
+  "en": "Mom keeps cookies in a glass jar on the kitchen shelf.",
+  "zh": "媽媽把餅乾放在廚房架子上的一個玻璃罐裡。",
+  "target": "jar",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0449",
+  "en": "Tom's jaw hurt after he ate a lot of hard candy.",
+  "zh": "湯姆吃了很多硬糖之後，下巴很痛。",
+  "target": "jaw",
+  "status": "ok",
+  "note": "超出1–2級：candy"
+ },
+ {
+  "id": "L3-0450",
+  "en": "My father likes to listen to jazz while he drives.",
+  "zh": "我爸爸開車時喜歡聽爵士樂。",
+  "target": "jazz",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0451",
+  "en": "Amy felt jealous when her best friend sat with another girl.",
+  "zh": "艾美的好朋友和另一個女生坐在一起時，她感到很忌妒。",
+  "target": "jealous",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0452",
+  "en": "We rode in a jeep along the rocky mountain road.",
+  "zh": "我們搭著吉普車，沿著崎嶇的山路前進。",
+  "target": "jeep",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0453",
+  "en": "My little sister likes to eat jelly after dinner.",
+  "zh": "我妹妹喜歡在晚餐後吃果凍。",
+  "target": "jelly",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0454",
+  "en": "A jet flew high above the clouds on its way to Japan.",
+  "zh": "一架噴射機在雲層上方高高飛過，正飛往日本。",
+  "target": "jet",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0455",
+  "en": "The old box was full of gold coins and shining jewels.",
+  "zh": "那個舊盒子裡裝滿了金幣和閃閃發亮的寶石。",
+  "target": "jewels",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0456",
+  "en": "Mom keeps her jewelry in a small box in her bedroom.",
+  "zh": "媽媽把她的珠寶放在臥室的一個小盒子裡。",
+  "target": "jewelry",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0457",
+  "en": "The train journey to the east coast took about three hours.",
+  "zh": "搭火車到東海岸的旅程大約花了三個小時。",
+  "target": "journey",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0458",
+  "en": "Everyone sang joyful songs at the New Year party.",
+  "zh": "大家在新年派對上唱著歡樂的歌曲。",
+  "target": "joyful",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0459",
+  "en": "These oranges from Grandpa's farm are sweet and juicy.",
+  "zh": "這些來自爺爺農場的柳橙又甜又多汁。",
+  "target": "juicy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0460",
+  "en": "Many kinds of monkeys and birds live in the jungle.",
+  "zh": "許多種類的猴子和鳥類住在叢林裡。",
+  "target": "jungle",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0461",
+  "en": "My brother is in junior high school, and I'm in senior high.",
+  "zh": "我弟弟讀國中，我讀高中。",
+  "target": "junior",
+  "status": "ok",
+  "note": "含其他3級字：senior"
+ },
+ {
+  "id": "L3-0462",
+  "en": "The garage is full of old junk that nobody uses.",
+  "zh": "車庫裡堆滿了沒人要用的廢物。",
+  "target": "junk",
+  "status": "ok",
+  "note": "含其他3級字：garage"
+ },
+ {
+  "id": "L3-0463",
+  "en": "A baby kangaroo lives in its mother's pocket for months.",
+  "zh": "小袋鼠會在媽媽的育兒袋裡住好幾個月。",
+  "target": "kangaroo",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0464",
+  "en": "Some keys on my computer keyboard don't work anymore.",
+  "zh": "我電腦鍵盤上有些按鍵已經壞了。",
+  "target": "keyboard",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0465",
+  "en": "Drinking enough water is good for your kidneys.",
+  "zh": "喝足夠的水對腎臟有益。",
+  "target": "kidneys",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0466",
+  "en": "Tom runs five kilometers around the park every morning.",
+  "zh": "湯姆每天早上繞著公園跑五公里。",
+  "target": "kilometers",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0467",
+  "en": "My little sister goes to kindergarten near our home.",
+  "zh": "我妹妹在我們家附近讀幼稚園。",
+  "target": "kindergarten",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0468",
+  "en": "The king ruled a small kingdom by the sea.",
+  "zh": "那位國王統治著海邊的一個小王國。",
+  "target": "kingdom",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0469",
+  "en": "Every classroom has a first aid kit in case someone gets hurt.",
+  "zh": "每間教室都有一個急救箱，以防有人受傷。",
+  "target": "kit",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0470",
+  "en": "In the story, a brave knight saved the village from a dragon.",
+  "zh": "故事裡，一位勇敢的騎士從惡龍手中拯救了村莊。",
+  "target": "knight",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0471",
+  "en": "Grandma knitted a warm sweater for me last winter.",
+  "zh": "奶奶去年冬天為我織了一件溫暖的毛衣。",
+  "target": "knitted",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0472",
+  "en": "Tom tied the two ropes together with a strong knot.",
+  "zh": "湯姆用一個牢固的結把兩條繩子綁在一起。",
+  "target": "knot",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0473",
+  "en": "Koalas sleep for most of the day in trees.",
+  "zh": "無尾熊一天大部分時間都在樹上睡覺。",
+  "target": "Koalas",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0474",
+  "en": "Read the label on the bottle before you take the medicine.",
+  "zh": "服藥前，請先看清楚瓶子上的標籤。",
+  "target": "label",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0475",
+  "en": "My sister's white dress has beautiful lace at the bottom.",
+  "zh": "我姊姊的白色洋裝下襬有漂亮的蕾絲。",
+  "target": "lace",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0476",
+  "en": "Dad climbed a ladder to clean the top of the windows.",
+  "zh": "爸爸爬上梯子去清理窗戶的上方。",
+  "target": "ladder",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0477",
+  "en": "Have you watched any good movies or TV shows lately?",
+  "zh": "你最近有看什麼好看的電影或電視節目嗎？",
+  "target": "lately",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0478",
+  "en": "The classroom was filled with laughter after the teacher's joke.",
+  "zh": "老師說完笑話後，教室裡充滿了笑聲。",
+  "target": "laughter",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0479",
+  "en": "On Sundays, I help my mom do the laundry.",
+  "zh": "每到星期天，我都會幫媽媽洗衣服。",
+  "target": "laundry",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0480",
+  "en": "Dad cuts the grass on our front lawn every two weeks.",
+  "zh": "爸爸每兩週修剪一次我們前院草坪上的草。",
+  "target": "lawn",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0481",
+  "en": "Water is leaking from the pipe under the kitchen sink.",
+  "zh": "水從廚房水槽下方的水管漏出來。",
+  "target": "leaking",
+  "status": "ok",
+  "note": "含其他3級字：sink"
+ },
+ {
+  "id": "L3-0482",
+  "en": "The cat made a high leap onto the table.",
+  "zh": "那隻貓高高一跳，跳上了桌子。",
+  "target": "leap",
+  "status": "ok",
+  "note": "含其他3級字：onto"
+ },
+ {
+  "id": "L3-0483",
+  "en": "Online learning became popular when students had to study at home.",
+  "zh": "學生必須在家讀書時，線上學習變得很普遍。",
+  "target": "learning",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0484",
+  "en": "Dad bought a brown leather bag for work.",
+  "zh": "爸爸買了一個上班用的棕色皮革包。",
+  "target": "leather",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0485",
+  "en": "In her leisure time, Amy enjoys reading and drawing.",
+  "zh": "艾美在閒暇時間喜歡閱讀和畫畫。",
+  "target": "leisure",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0486",
+  "en": "On hot days, a cold glass of lemonade tastes wonderful.",
+  "zh": "炎熱的日子裡，喝一杯冰涼的檸檬水感覺棒極了。",
+  "target": "lemonade",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0487",
+  "en": "The leopard has yellow fur with black spots.",
+  "zh": "豹有著帶黑色斑點的黃色毛皮。",
+  "target": "leopard",
+  "status": "ok",
+  "note": "含其他3級字：fur"
+ },
+ {
+  "id": "L3-0488",
+  "en": "Mom put some fresh lettuce and tomatoes in the sandwich.",
+  "zh": "媽媽在三明治裡放了一些新鮮的萵苣和番茄。",
+  "target": "lettuce",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0489",
+  "en": "Every person should have the liberty to say what they think.",
+  "zh": "每個人都應該享有說出自己想法的自由。",
+  "target": "liberty",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0490",
+  "en": "The little dog licked my face when I came home.",
+  "zh": "我回到家時，小狗舔了舔我的臉。",
+  "target": "licked",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0491",
+  "en": "Grandpa says a true friend can last a lifetime.",
+  "zh": "爺爺說，真正的友誼可以維持一輩子。",
+  "target": "lifetime",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0492",
+  "en": "The lighthouse helps ships find their way at night.",
+  "zh": "燈塔在夜裡幫助船隻找到方向。",
+  "target": "lighthouse",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0493",
+  "en": "We saw lightning in the sky and then heard thunder.",
+  "zh": "我們看到天空中的閃電，接著聽到雷聲。",
+  "target": "lightning",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0494",
+  "en": "Mom bought some white lilies from the flower shop.",
+  "zh": "媽媽從花店買了一些白色的百合。",
+  "target": "lilies",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0495",
+  "en": "After the long run, all my limbs felt tired and heavy.",
+  "zh": "長跑完後，我的四肢都覺得又累又沉重。",
+  "target": "limbs",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0496",
+  "en": "Please don't litter; put your trash in the trash can.",
+  "zh": "請不要亂丟垃圾，把垃圾丟進垃圾桶裡。",
+  "target": "litter",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0497",
+  "en": "Amy is a lively girl who loves to sing and dance.",
+  "zh": "艾美是個活潑的女孩，喜歡唱歌跳舞。",
+  "target": "lively",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0498",
+  "en": "Mom bought a loaf of bread at the bakery.",
+  "zh": "媽媽在麵包店買了一條麵包。",
+  "target": "loaf",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0499",
+  "en": "Let's meet in the hotel lobby at nine o'clock.",
+  "zh": "我們九點在飯店大廳碰面吧。",
+  "target": "lobby",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0500",
+  "en": "Can you locate Taiwan on this world map?",
+  "zh": "你能在這張世界地圖上找出台灣的位置嗎？",
+  "target": "locate",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0501",
+  "en": "The new library is in a great location near the train station.",
+  "zh": "新的圖書館位置很好，就在火車站附近。",
+  "target": "location",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0502",
+  "en": "Don't forget to lock the door when you leave the house.",
+  "zh": "離開家時別忘了鎖門。",
+  "target": "lock",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0503",
+  "en": "Our science teacher asked us to keep a log of the weather every day.",
+  "zh": "我們的自然老師要我們每天記錄天氣日誌。",
+  "target": "log",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0504",
+  "en": "The little boy smiled happily when the nurse gave him a lollipop.",
+  "zh": "護士給小男孩一支棒棒糖時，他開心地笑了。",
+  "target": "lollipop",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0505",
+  "en": "These pants are too loose, so I need a smaller size.",
+  "zh": "這條褲子太鬆了，所以我需要小一號的。",
+  "target": "loose",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0506",
+  "en": "In the old story, the lord lived in a big castle on the hill.",
+  "zh": "在那個古老的故事裡，那位君主住在山丘上的一座大城堡裡。",
+  "target": "lord",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0507",
+  "en": "Don't call yourself a loser just because you failed one test.",
+  "zh": "別只因為一次考試沒考好，就說自己是失敗者。",
+  "target": "loser",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0508",
+  "en": "Grandpa is a music lover who listens to old songs every morning.",
+  "zh": "爺爺是個音樂愛好者，每天早上都聽老歌。",
+  "target": "lover",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0509",
+  "en": "We put all our luggage in the car before driving to the airport.",
+  "zh": "開車去機場之前，我們把所有行李放進車裡。",
+  "target": "luggage",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0510",
+  "en": "Smoking can hurt your lungs and make it hard to breathe.",
+  "zh": "抽菸會傷害你的肺，讓你呼吸困難。",
+  "target": "lungs",
+  "status": "ok",
+  "note": "含其他3級字：breathe"
+ },
+ {
+  "id": "L3-0511",
+  "en": "The night market looked magical with all its bright lights.",
+  "zh": "夜市在滿滿的明亮燈光下，看起來好神奇。",
+  "target": "magical",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0512",
+  "en": "The magician pulled a white rabbit out of his hat.",
+  "zh": "魔術師從他的帽子裡拉出一隻白兔。",
+  "target": "magician",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0513",
+  "en": "Mom used a magnet to hold the photo on the refrigerator door.",
+  "zh": "媽媽用磁鐵把照片固定在冰箱門上。",
+  "target": "magnet",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0514",
+  "en": "The rich family had a maid who cleaned the house every day.",
+  "zh": "那戶有錢人家有一位女僕每天打掃房子。",
+  "target": "maid",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0515",
+  "en": "The majority of students in our class walk to school.",
+  "zh": "我們班大多數的學生走路上學。",
+  "target": "majority",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0516",
+  "en": "Amy and her friends went shopping at the new mall on Sunday.",
+  "zh": "艾咪和她的朋友星期天去新開的購物中心逛街。",
+  "target": "mall",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0517",
+  "en": "Clean water is one of the most important needs of mankind.",
+  "zh": "乾淨的水是人類最重要的需求之一。",
+  "target": "mankind",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0518",
+  "en": "The floor of the old hotel was made of white marble.",
+  "zh": "那家老飯店的地板是用白色大理石做的。",
+  "target": "marble",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0519",
+  "en": "The students marched around the playground on Sports Day.",
+  "zh": "運動會那天，學生們繞著操場行進。",
+  "target": "marched",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0520",
+  "en": "Please write your name on the box with a black marker.",
+  "zh": "請用黑色麥克筆在盒子上寫下你的名字。",
+  "target": "marker",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0521",
+  "en": "We had a marvelous time at the beach last summer.",
+  "zh": "去年夏天，我們在海邊度過了一段非常美好的時光。",
+  "target": "marvelous",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0522",
+  "en": "Tom is good at solving difficult mathematical problems in class.",
+  "zh": "湯姆很擅長在課堂上解困難的數學問題。",
+  "target": "mathematical",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0523",
+  "en": "The mayor visited our school and talked about the new library.",
+  "zh": "市長來我們學校參觀，並談到新的圖書館。",
+  "target": "mayor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0524",
+  "en": "Cows were eating grass in the green meadow near the farm.",
+  "zh": "牛群在農場附近的綠色草地上吃草。",
+  "target": "meadow",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0525",
+  "en": "Helping old people at the park was a meaningful experience for us.",
+  "zh": "在公園幫助老人家，對我們來說是很有意義的經驗。",
+  "target": "meaningful",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0526",
+  "en": "Dad cooked dinner; meanwhile, the kids set the table.",
+  "zh": "爸爸煮晚餐；同時，孩子們把餐桌擺好。",
+  "target": "meanwhile",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0527",
+  "en": "She won a gold medal in the swimming race.",
+  "zh": "她在游泳比賽中贏得一面金牌。",
+  "target": "medal",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0528",
+  "en": "The internet is a popular medium for learning new things.",
+  "zh": "網路是學習新事物的熱門媒介。",
+  "target": "medium",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0529",
+  "en": "On hot days, a cold slice of melon tastes wonderful.",
+  "zh": "天氣熱的時候，一片冰涼的甜瓜吃起來美味極了。",
+  "target": "melon",
+  "status": "ok",
+  "note": "含其他3級字：slice"
+ },
+ {
+  "id": "L3-0530",
+  "en": "The ice cream began to melt in the hot sun.",
+  "zh": "冰淇淋在炎熱的太陽下開始融化。",
+  "target": "melt",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0531",
+  "en": "Grandma helped me mend the hole in my old shirt.",
+  "zh": "奶奶幫我補好舊襯衫上的破洞。",
+  "target": "mend",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0532",
+  "en": "Getting enough sleep is good for both your body and mental health.",
+  "zh": "充足的睡眠對你的身體和心理健康都有好處。",
+  "target": "mental",
+  "status": "ok",
+  "note": "超出1–2級：health"
+ },
+ {
+  "id": "L3-0533",
+  "en": "Everyone sang merry songs at the Christmas party.",
+  "zh": "大家在聖誕派對上唱著歡樂的歌。",
+  "target": "merry",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0534",
+  "en": "His bedroom was a mess, with clothes all over the floor.",
+  "zh": "他的房間一團亂，衣服丟得滿地都是。",
+  "target": "mess",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0535",
+  "en": "The singer held the microphone close and began to sing.",
+  "zh": "歌手把麥克風拿近，開始唱歌。",
+  "target": "microphone",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0536",
+  "en": "Please heat the milk in the microwave for one minute.",
+  "zh": "請把牛奶放進微波爐加熱一分鐘。",
+  "target": "microwave",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0537",
+  "en": "The mighty king ruled the land for fifty years.",
+  "zh": "那位強大的國王統治這片土地長達五十年。",
+  "target": "mighty",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0538",
+  "en": "In math class, we learned that ten minus four is six.",
+  "zh": "在數學課上，我們學到十減四等於六。",
+  "target": "minus",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0539",
+  "en": "It was a miracle that our weak team won the final game.",
+  "zh": "我們這支弱隊竟然贏得最後一場比賽，真是個奇蹟。",
+  "target": "miracle",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0540",
+  "en": "The bad cold made his whole week a misery.",
+  "zh": "那場重感冒讓他整個星期都很痛苦。",
+  "target": "misery",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0541",
+  "en": "The news reported that the country tested a new missile.",
+  "zh": "新聞報導那個國家試射了一枚新飛彈。",
+  "target": "missile",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0542",
+  "en": "One page of my notebook is missing, and I can't find it.",
+  "zh": "我的筆記本少了一頁，怎麼找都找不到。",
+  "target": "missing",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0543",
+  "en": "Our mission today is to clean every classroom before the party.",
+  "zh": "我們今天的任務是在派對前把每間教室打掃乾淨。",
+  "target": "mission",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0544",
+  "en": "A thin mist covered the mountains early in the morning.",
+  "zh": "清晨時，一層薄霧籠罩著群山。",
+  "target": "mist",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0545",
+  "en": "Fans mobbed the singer as soon as she left the hotel.",
+  "zh": "那位歌手一走出飯店，就被粉絲團團圍住。",
+  "target": "mobbed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0546",
+  "en": "A mobile library brings books to children in small villages.",
+  "zh": "行動圖書館把書帶給小村莊的孩子們。",
+  "target": "mobile",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0547",
+  "en": "The chocolate cake was soft and moist inside.",
+  "zh": "這個巧克力蛋糕裡面又軟又濕潤。",
+  "target": "moist",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0548",
+  "en": "The air in Taipei has a lot of moisture in summer.",
+  "zh": "台北夏天的空氣中有很多濕氣。",
+  "target": "moisture",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0549",
+  "en": "The monk lives quietly in a temple on the mountain.",
+  "zh": "那位僧侶安靜地住在山上的一座寺廟裡。",
+  "target": "monk",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0550",
+  "en": "My little brother is afraid of the monster in the cartoon.",
+  "zh": "我弟弟很怕卡通裡的那隻怪物。",
+  "target": "monster",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0551",
+  "en": "We have a monthly class meeting on the first Friday.",
+  "zh": "我們每個月的第一個星期五都會開一次班會。",
+  "target": "monthly",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0552",
+  "en": "The moral of the story is that we should always tell the truth.",
+  "zh": "這個故事的寓意是我們應該永遠說實話。",
+  "target": "moral",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0553",
+  "en": "A mosquito bit me on the arm while I was sleeping.",
+  "zh": "我睡覺時，一隻蚊子叮了我的手臂。",
+  "target": "mosquito",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0554",
+  "en": "Our school lunch is mostly rice, vegetables, and a little meat.",
+  "zh": "我們學校的午餐大多是米飯、蔬菜，還有一點肉。",
+  "target": "mostly",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0555",
+  "en": "We stayed at a small motel by the highway for one night.",
+  "zh": "我們在公路旁一家小汽車旅館住了一晚。",
+  "target": "motel",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0556",
+  "en": "A moth flew around the light in the kitchen all night.",
+  "zh": "一隻蛾整晚繞著廚房的燈飛。",
+  "target": "moth",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0557",
+  "en": "The toy boat has a small motor, so it can move by itself.",
+  "zh": "這艘玩具船有個小馬達，所以可以自己移動。",
+  "target": "motor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0558",
+  "en": "If you multiply three by four, you get twelve.",
+  "zh": "如果你把三乘以四，就會得到十二。",
+  "target": "multiply",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0559",
+  "en": "Amy doesn't like movies about murder because they scare her.",
+  "zh": "艾咪不喜歡關於謀殺的電影，因為那些電影會讓她害怕。",
+  "target": "murder",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0560",
+  "en": "Swimming every day helps you build strong arm and leg muscles.",
+  "zh": "每天游泳有助於鍛鍊強壯的手臂和腿部肌肉。",
+  "target": "muscles",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0561",
+  "en": "Mom added fresh mushrooms to the soup for dinner.",
+  "zh": "媽媽在晚餐的湯裡加了新鮮的蘑菇。",
+  "target": "mushrooms",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0562",
+  "en": "How the cat got onto the roof is still a mystery.",
+  "zh": "那隻貓是怎麼爬上屋頂的，至今仍是個謎。",
+  "target": "mystery",
+  "status": "ok",
+  "note": "含其他3級字：onto"
+ },
+ {
+  "id": "L3-0563",
+  "en": "The baby ran around the house naked after his bath.",
+  "zh": "寶寶洗完澡後，光著身子在家裡跑來跑去。",
+  "target": "naked",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0564",
+  "en": "Grandpa likes to take a short nap after lunch.",
+  "zh": "爺爺喜歡在午餐後小睡一下。",
+  "target": "nap",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0565",
+  "en": "Please use a napkin to clean your mouth after eating.",
+  "zh": "吃完東西後，請用餐巾擦嘴。",
+  "target": "napkin",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0566",
+  "en": "Our new English teacher is a native speaker from Canada.",
+  "zh": "我們新的英文老師是來自加拿大、以英語為母語的人。",
+  "target": "native",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0567",
+  "en": "His uncle joined the navy and works on a big ship.",
+  "zh": "他的叔叔加入了海軍，在一艘大船上工作。",
+  "target": "navy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0568",
+  "en": "Her desk is always neat, with every book in its place.",
+  "zh": "她的書桌總是很整潔，每本書都放在該放的地方。",
+  "target": "neat",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0569",
+  "en": "Water is a necessity for all living things.",
+  "zh": "水是所有生物的必需品。",
+  "target": "necessity",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0570",
+  "en": "Dad wears a blue necktie to work every Monday.",
+  "zh": "爸爸每週一都打藍色領帶去上班。",
+  "target": "necktie",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0571",
+  "en": "There are many good restaurants in our neighborhood.",
+  "zh": "我們家附近有很多不錯的餐廳。",
+  "target": "neighborhood",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0572",
+  "en": "Two birds built a nest in the tree outside my window.",
+  "zh": "兩隻鳥在我窗外的樹上築了一個巢。",
+  "target": "nest",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0573",
+  "en": "His friends gave him the nickname Rabbit because he runs so fast.",
+  "zh": "因為他跑得很快，朋友們幫他取了「兔子」這個綽號。",
+  "target": "nickname",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0574",
+  "en": "It is normal to feel nervous before a big test.",
+  "zh": "大考前感到緊張是很正常的。",
+  "target": "normal",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0575",
+  "en": "The novelist spent three years writing her first book.",
+  "zh": "那位小說家花了三年寫她的第一本書。",
+  "target": "novelist",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0576",
+  "en": "The nun took care of sick children at the church hospital.",
+  "zh": "那位修女在教會醫院照顧生病的孩子。",
+  "target": "nun",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0577",
+  "en": "We had a picnic under a tall oak tree in the park.",
+  "zh": "我們在公園裡一棵高大的橡樹下野餐。",
+  "target": "oak",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0578",
+  "en": "The class observed how the plants grew over two weeks.",
+  "zh": "全班觀察了那些植物在兩週內的生長情形。",
+  "target": "observed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0579",
+  "en": "Grandma only cooks this dish on special occasions like New Year.",
+  "zh": "奶奶只有在過年這類特別的場合，才會煮這道菜。",
+  "target": "occasions",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0580",
+  "en": "It was odd that the noisy classroom was suddenly so quiet.",
+  "zh": "吵鬧的教室突然變得那麼安靜，真奇怪。",
+  "target": "odd",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0581",
+  "en": "You can omit the sugar if you want a healthier drink.",
+  "zh": "如果你想要更健康的飲料，可以省略不加糖。",
+  "target": "omit",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0582",
+  "en": "The school's ongoing project is to plant more trees on campus.",
+  "zh": "學校正在進行的計畫是在校園裡種更多樹。",
+  "target": "ongoing",
+  "status": "ok",
+  "note": "含其他3級字：campus"
+ },
+ {
+  "id": "L3-0583",
+  "en": "Cutting onions always makes Dad's eyes water in the kitchen.",
+  "zh": "在廚房切洋蔥，總是讓爸爸眼淚直流。",
+  "target": "onions",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0584",
+  "en": "The cat jumped onto the table and ate my fish.",
+  "zh": "貓跳到桌上，吃掉了我的魚。",
+  "target": "onto",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0585",
+  "en": "After the operation, Grandpa had to stay in the hospital for a week.",
+  "zh": "手術後，爺爺必須住院一個星期。",
+  "target": "operation",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0586",
+  "en": "The trip to Japan was a great opportunity to practice speaking Japanese.",
+  "zh": "這趟日本之旅是練習說日語的好機會。",
+  "target": "opportunity",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0587",
+  "en": "The bank is on the opposite side of the street.",
+  "zh": "銀行在街道的對面。",
+  "target": "opposite",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0588",
+  "en": "Even after losing the game, the coach stayed optimistic about next season.",
+  "zh": "即使輸了比賽，教練對下一季仍然保持樂觀。",
+  "target": "optimistic",
+  "status": "ok",
+  "note": "超出1–2級：losing"
+ },
+ {
+  "id": "L3-0589",
+  "en": "We have an oral English test next Tuesday.",
+  "zh": "我們下星期二有一場英文口說測驗。",
+  "target": "oral",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0590",
+  "en": "Mom buys organic vegetables because they are grown without chemicals.",
+  "zh": "媽媽買有機蔬菜，因為它們是不用化學物質種植的。",
+  "target": "organic",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0591",
+  "en": "Amy helped organize the class party at the end of the term.",
+  "zh": "艾咪在學期末幫忙籌辦班級派對。",
+  "target": "organize",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0592",
+  "en": "The movie is good, but the original book is even better.",
+  "zh": "這部電影很好看，但原著小說更精彩。",
+  "target": "original",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0593",
+  "en": "Basketball is the most popular outdoor sport at our school.",
+  "zh": "籃球是我們學校最受歡迎的戶外運動。",
+  "target": "outdoor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0594",
+  "en": "When the weather is nice, we like to eat outdoors.",
+  "zh": "天氣好的時候，我們喜歡在戶外吃飯。",
+  "target": "outdoors",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0595",
+  "en": "The outer part of the bread is hard, but the inside is soft.",
+  "zh": "這個麵包外層很硬，但裡面很軟。",
+  "target": "outer",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0596",
+  "en": "Before writing the report, make an outline of your main ideas.",
+  "zh": "寫報告之前，先把你的主要想法列成大綱。",
+  "target": "outline",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0597",
+  "en": "Dad baked a chicken in the oven for Sunday dinner.",
+  "zh": "爸爸用烤箱烤了一隻雞當星期天的晚餐。",
+  "target": "oven",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0598",
+  "en": "Her older brother is studying overseas in England this year.",
+  "zh": "她哥哥今年在海外的英國念書。",
+  "target": "overseas",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0599",
+  "en": "Tom still owes his sister one hundred dollars for the movie ticket.",
+  "zh": "湯姆還欠他姊姊一百元的電影票錢。",
+  "target": "owes",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0600",
+  "en": "The owl sleeps during the day and hunts at night.",
+  "zh": "貓頭鷹白天睡覺，晚上出來獵食。",
+  "target": "owl",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0601",
+  "en": "The ownership of the bookstore passed from father to son.",
+  "zh": "這家書店的所有權由父親傳給了兒子。",
+  "target": "ownership",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0602",
+  "en": "In the past, farmers used an ox to help work in the fields.",
+  "zh": "過去，農夫用公牛幫忙在田裡工作。",
+  "target": "ox",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0603",
+  "en": "Keep a pad and pen by the phone to write down messages.",
+  "zh": "在電話旁放一本便條本和一支筆，好記下留言。",
+  "target": "pad",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0604",
+  "en": "The painter spent hours drawing the mountains by the lake.",
+  "zh": "那位畫家花了好幾個小時畫湖邊的山。",
+  "target": "painter",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0605",
+  "en": "Tom and his old pal went fishing together last weekend.",
+  "zh": "湯姆和他的老朋友上週末一起去釣魚。",
+  "target": "pal",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0606",
+  "en": "The king and queen lived in a beautiful palace.",
+  "zh": "國王和王后住在一座美麗的宮殿裡。",
+  "target": "palace",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0607",
+  "en": "She held the small bird gently in the palm of her hand.",
+  "zh": "她把那隻小鳥輕輕捧在手掌心裡。",
+  "target": "palm",
+  "status": "ok",
+  "note": "超出1–2級：gently"
+ },
+ {
+  "id": "L3-0608",
+  "en": "We ate pancakes with honey for breakfast this morning.",
+  "zh": "我們今天早餐吃了淋上蜂蜜的鬆餅。",
+  "target": "pancakes",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0609",
+  "en": "Don't panic if you forget a word during your speech.",
+  "zh": "如果你演講時忘了某個字，別慌張。",
+  "target": "panic",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0610",
+  "en": "Thousands of people watched the parade on New Year's Day.",
+  "zh": "元旦那天，數千人觀看了遊行。",
+  "target": "parade",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0611",
+  "en": "With its blue sea and white sand, the island is a paradise.",
+  "zh": "那座島有藍色的海和白色的沙灘，簡直是天堂。",
+  "target": "paradise",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0612",
+  "en": "The mailman brought a parcel from Grandma this morning.",
+  "zh": "郵差今天早上送來一個奶奶寄來的包裹。",
+  "target": "parcel",
+  "status": "ok",
+  "note": "超出1–2級：mailman"
+ },
+ {
+  "id": "L3-0613",
+  "en": "Our parrot can say hello to everyone who comes in.",
+  "zh": "我們家的鸚鵡會跟每個進門的人說哈囉。",
+  "target": "parrot",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0614",
+  "en": "Read the passage carefully and answer the questions below.",
+  "zh": "仔細閱讀這段文章，並回答下列問題。",
+  "target": "passage",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0615",
+  "en": "All passengers must wear seat belts on this bus.",
+  "zh": "所有乘客在這輛巴士上都必須繫安全帶。",
+  "target": "passengers",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0616",
+  "en": "Amy has a passion for dancing and practices every day.",
+  "zh": "艾咪對跳舞充滿熱情，每天都練習。",
+  "target": "passion",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0617",
+  "en": "Don't forget to bring your passport when you travel abroad.",
+  "zh": "出國旅行時別忘了帶護照。",
+  "target": "passport",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0618",
+  "en": "The coach patted Tom on the back after the great game.",
+  "zh": "精彩的比賽結束後，教練拍了拍湯姆的背。",
+  "target": "patted",
+  "status": "ok",
+  "note": "含其他3級字：coach"
+ },
+ {
+  "id": "L3-0619",
+  "en": "Teaching young children takes a lot of patience.",
+  "zh": "教導小孩子需要很大的耐心。",
+  "target": "patience",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0620",
+  "en": "The speaker paused for a moment to drink some water.",
+  "zh": "演講者暫停了一下，喝點水。",
+  "target": "paused",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0621",
+  "en": "The workers paved the road near our school last month.",
+  "zh": "工人上個月把我們學校附近的路鋪好了。",
+  "target": "paved",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0622",
+  "en": "My little sister always pushes the peas to the side of her plate.",
+  "zh": "我妹妹總是把豌豆推到盤子的一邊。",
+  "target": "peas",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0623",
+  "en": "Some people get very sick if they eat peanuts.",
+  "zh": "有些人吃了花生會非常不舒服。",
+  "target": "peanuts",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0624",
+  "en": "Grandma gave Mom a necklace with a beautiful white pearl.",
+  "zh": "奶奶送給媽媽一條鑲著美麗白色珍珠的項鍊。",
+  "target": "pearl",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0625",
+  "en": "Please peel the apples before you cut them into pieces.",
+  "zh": "把蘋果切塊之前，請先削皮。",
+  "target": "peel",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0626",
+  "en": "Penguins cannot fly, but they are very good swimmers.",
+  "zh": "企鵝不會飛，但牠們很會游泳。",
+  "target": "Penguins",
+  "status": "ok",
+  "note": "超出1–2級：swimmers"
+ },
+ {
+  "id": "L3-0627",
+  "en": "The candy cost only one penny when Grandpa was young.",
+  "zh": "爺爺小時候，那種糖果只要一分錢。",
+  "target": "penny",
+  "status": "ok",
+  "note": "超出1–2級：candy"
+ },
+ {
+  "id": "L3-0628",
+  "en": "Add a little salt and pepper to the soup.",
+  "zh": "在湯裡加一點鹽和胡椒。",
+  "target": "pepper",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0629",
+  "en": "Our class will perform a short play at the school festival.",
+  "zh": "我們班將在學校的慶祝活動上表演一齣短劇。",
+  "target": "perform",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0630",
+  "en": "Everyone clapped loudly after her wonderful piano performance last night.",
+  "zh": "昨晚她精彩的鋼琴演出結束後，大家都熱烈鼓掌。",
+  "target": "performance",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0631",
+  "en": "You need your parents' permission to join the school trip.",
+  "zh": "你需要父母的許可才能參加校外教學。",
+  "target": "permission",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0632",
+  "en": "Phones are not permitted in the classroom during tests.",
+  "zh": "考試期間，教室裡不准使用手機。",
+  "target": "permitted",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0633",
+  "en": "Amy finally persuaded her parents to let her keep the puppy.",
+  "zh": "艾咪終於說服了她父母，讓她養那隻小狗。",
+  "target": "persuaded",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0634",
+  "en": "The photographer took pictures of all the students on graduation day.",
+  "zh": "攝影師在畢業那天幫所有學生拍照。",
+  "target": "photographer",
+  "status": "ok",
+  "note": "超出1–2級：graduation"
+ },
+ {
+  "id": "L3-0635",
+  "en": "Children were feeding the pigeons in the park.",
+  "zh": "孩子們在公園裡餵鴿子。",
+  "target": "pigeons",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0636",
+  "en": "There is a pile of dirty clothes on the bedroom floor.",
+  "zh": "臥室地板上有一堆髒衣服。",
+  "target": "pile",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0637",
+  "en": "The doctor told him to take one pill after each meal.",
+  "zh": "醫生要他每餐飯後吃一顆藥丸。",
+  "target": "pill",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0638",
+  "en": "The pilot flew the plane safely through the storm.",
+  "zh": "飛行員駕駛飛機安全地穿越暴風雨。",
+  "target": "pilot",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0639",
+  "en": "The air smells fresh in the pine forest.",
+  "zh": "松樹林裡的空氣聞起來很清新。",
+  "target": "pine",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0640",
+  "en": "Pineapple cake is a popular gift from Taiwan.",
+  "zh": "鳳梨酥是很受歡迎的台灣伴手禮。",
+  "target": "Pineapple",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0641",
+  "en": "Dad bought a pint of milk at the store on his way home.",
+  "zh": "爸爸回家途中在商店買了一品脫的牛奶。",
+  "target": "pint",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0642",
+  "en": "The children dug a pit in the sand at the beach.",
+  "zh": "孩子們在海灘的沙子裡挖了一個坑。",
+  "target": "pit",
+  "status": "ok",
+  "note": "超出1–2級：dug"
+ },
+ {
+  "id": "L3-0643",
+  "en": "The music teacher played a note so we could find the right pitch.",
+  "zh": "音樂老師彈了一個音，好讓我們找到正確的音高。",
+  "target": "pitch",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0644",
+  "en": "We felt pity for the lost little dog in the rain.",
+  "zh": "我們很同情那隻在雨中迷路的小狗。",
+  "target": "pity",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0645",
+  "en": "Bring your own cup instead of using plastic ones.",
+  "zh": "自己帶杯子，不要使用塑膠杯。",
+  "target": "plastic",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0646",
+  "en": "The playful puppy kept running after its own tail.",
+  "zh": "那隻愛玩的小狗一直追著自己的尾巴跑。",
+  "target": "playful",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0647",
+  "en": "Don't worry, we have plenty of time before the train leaves.",
+  "zh": "別擔心，火車開之前我們還有很多時間。",
+  "target": "plenty",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0648",
+  "en": "Remember to plug in your phone before you go to bed.",
+  "zh": "睡覺前記得把手機插上電。",
+  "target": "plug",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0649",
+  "en": "The flag is flying at the top of a tall pole.",
+  "zh": "旗子在一根高高的竿子頂端飄揚。",
+  "target": "pole",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0650",
+  "en": "Grandpa likes to read the political news in the paper every morning.",
+  "zh": "爺爺每天早上喜歡讀報紙上的政治新聞。",
+  "target": "political",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0651",
+  "en": "The politician promised to build a new park in our town.",
+  "zh": "那位政治人物承諾要在我們鎮上蓋一座新公園。",
+  "target": "politician",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0652",
+  "en": "Dad and Grandpa often talk about politics at dinner.",
+  "zh": "爸爸和爺爺常在晚餐時聊政治。",
+  "target": "politics",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0653",
+  "en": "A poll showed that most students want a longer lunch break.",
+  "zh": "一項民調顯示，大多數學生希望午休時間長一點。",
+  "target": "poll",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0654",
+  "en": "Throwing trash into the river will pollute the water.",
+  "zh": "把垃圾丟進河裡會污染河水。",
+  "target": "pollute",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0655",
+  "en": "Air pollution in the city is worse in winter.",
+  "zh": "城市的空氣污染在冬天比較嚴重。",
+  "target": "pollution",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0656",
+  "en": "Be careful with that porcelain bowl; it breaks easily.",
+  "zh": "小心那個瓷碗，它很容易破。",
+  "target": "porcelain",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0657",
+  "en": "The restaurant serves large portions, so we shared one meal.",
+  "zh": "那家餐廳份量很大，所以我們合吃一份餐。",
+  "target": "portions",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0658",
+  "en": "A portrait of the school's first principal hangs in the hall.",
+  "zh": "學校第一任校長的肖像掛在大廳裡。",
+  "target": "portrait",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0659",
+  "en": "Amy has a poster of her favorite singer on her bedroom wall.",
+  "zh": "艾咪房間的牆上貼著她最喜歡的歌手的海報。",
+  "target": "poster",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0660",
+  "en": "The baseball game was postponed because of the heavy rain.",
+  "zh": "棒球比賽因為大雨而延期了。",
+  "target": "postponed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0661",
+  "en": "In art class, we made pottery and painted it ourselves.",
+  "zh": "美術課上，我們做了陶器，還自己幫它上色。",
+  "target": "pottery",
+  "status": "ok",
+  "note": "超出1–2級：painted"
+ },
+ {
+  "id": "L3-0662",
+  "en": "Mom poured hot tea into everyone's cups after dinner.",
+  "zh": "晚餐後，媽媽把熱茶倒進每個人的杯子裡。",
+  "target": "poured",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0663",
+  "en": "Many families in the world still live in poverty.",
+  "zh": "世界上仍有許多家庭生活在貧窮中。",
+  "target": "poverty",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0664",
+  "en": "Mix the milk powder with warm water for the baby.",
+  "zh": "把奶粉和溫水混合，泡給寶寶喝。",
+  "target": "powder",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0665",
+  "en": "Learning to cook is a practical skill for everyone.",
+  "zh": "學會做飯是每個人都用得到的實用技能。",
+  "target": "practical",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0666",
+  "en": "These old family photos are very precious to my grandmother.",
+  "zh": "這些老家庭照片對我奶奶來說非常珍貴。",
+  "target": "precious",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0667",
+  "en": "After weeks of preparation, the students were ready for the show.",
+  "zh": "經過幾週的準備，學生們已經可以上台演出了。",
+  "target": "preparation",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0668",
+  "en": "Your presence at the meeting is important, so please come on time.",
+  "zh": "你出席這場會議很重要，所以請準時到。",
+  "target": "presence",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0669",
+  "en": "The boy pretended to be asleep when his mom came in.",
+  "zh": "媽媽進來時，那個男孩假裝睡著了。",
+  "target": "pretended",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0670",
+  "en": "Washing your hands often can help prevent colds and the flu.",
+  "zh": "常洗手有助於預防感冒和流感。",
+  "target": "prevent",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0671",
+  "en": "The new phone is much faster than the previous one.",
+  "zh": "新手機比之前那支快多了。",
+  "target": "previous",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0672",
+  "en": "It is probable that it will rain this afternoon, so take an umbrella.",
+  "zh": "今天下午很可能會下雨，所以帶把傘吧。",
+  "target": "probable",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0673",
+  "en": "Learning a new language is a slow process that takes time.",
+  "zh": "學習一種新語言是一個需要時間的緩慢過程。",
+  "target": "process",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0674",
+  "en": "This farm is the biggest producer of rice in the area.",
+  "zh": "這座農場是這個地區最大的稻米生產者。",
+  "target": "producer",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0675",
+  "en": "This store sells many products made in Taiwan.",
+  "zh": "這家店販售許多台灣製造的產品。",
+  "target": "products",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0676",
+  "en": "Her father is a professor who teaches history at a university.",
+  "zh": "她父親是在大學教歷史的教授。",
+  "target": "professor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0677",
+  "en": "The class made a small profit by selling cookies at the fair.",
+  "zh": "全班在園遊會上賣餅乾，賺了一點利潤。",
+  "target": "profit",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0678",
+  "en": "The school holds events to promote healthy eating among students.",
+  "zh": "學校舉辦活動，在學生之間推廣健康飲食。",
+  "target": "promote",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0679",
+  "en": "Can you tell me how to pronounce this word?",
+  "zh": "你可以告訴我這個字怎麼發音嗎？",
+  "target": "pronounce",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0680",
+  "en": "Do you have any proof that you finished your homework?",
+  "zh": "你有任何證據證明你寫完功課了嗎？",
+  "target": "proof",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0681",
+  "en": "Please don't touch the bikes; they are school property.",
+  "zh": "請不要碰那些腳踏車，它們是學校的財產。",
+  "target": "property",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0682",
+  "en": "Wear sunglasses for protection from the strong summer sun.",
+  "zh": "戴上太陽眼鏡，保護眼睛不受夏天強烈陽光傷害。",
+  "target": "protection",
+  "status": "ok",
+  "note": "超出1–2級：sunglasses"
+ },
+ {
+  "id": "L3-0683",
+  "en": "We had lunch at a small pub during our trip to England.",
+  "zh": "我們去英國旅行時，在一家小酒吧吃了午餐。",
+  "target": "pub",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0684",
+  "en": "Tom used a pump to fill the basketball with air.",
+  "zh": "湯姆用打氣筒幫籃球打氣。",
+  "target": "pump",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0685",
+  "en": "He punched the air with joy when his team scored.",
+  "zh": "他的隊伍得分時，他高興得朝空中揮拳。",
+  "target": "punched",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0686",
+  "en": "The children laughed at the funny puppet show.",
+  "zh": "孩子們看著好笑的木偶戲哈哈大笑。",
+  "target": "puppet",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0687",
+  "en": "The water from this mountain spring is very pure.",
+  "zh": "這座山泉的水非常純淨。",
+  "target": "pure",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0688",
+  "en": "She took some money out of her purse to pay for lunch.",
+  "zh": "她從錢包裡拿出一些錢付午餐費。",
+  "target": "purse",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0689",
+  "en": "There was a queer smell coming from the old box.",
+  "zh": "那個舊箱子散發出一股古怪的味道。",
+  "target": "queer",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0690",
+  "en": "Dad quit smoking last year for his health.",
+  "zh": "爸爸為了健康，去年戒菸了。",
+  "target": "quit",
+  "status": "ok",
+  "note": "超出1–2級：health"
+ },
+ {
+  "id": "L3-0691",
+  "en": "Our teacher likes to quote famous people in her lessons.",
+  "zh": "我們老師上課時喜歡引用名人說過的話。",
+  "target": "quote",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0692",
+  "en": "The teacher told us that racial jokes can hurt people's feelings.",
+  "zh": "老師告訴我們，種族笑話會傷害別人的感情。",
+  "target": "racial",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0693",
+  "en": "He cleaned the dirty window with an old rag.",
+  "zh": "他用一塊舊破布擦髒窗戶。",
+  "target": "rag",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0694",
+  "en": "Our school ranks first in the city for basketball.",
+  "zh": "我們學校的籃球在全市排名第一。",
+  "target": "ranks",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0695",
+  "en": "The birth rate in Taiwan has been falling for years.",
+  "zh": "台灣的出生率多年來一直在下降。",
+  "target": "rate",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0696",
+  "en": "Don't eat raw chicken because it can make you sick.",
+  "zh": "不要吃生雞肉，因為它會讓你生病。",
+  "target": "raw",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0697",
+  "en": "The first rays of sunlight came through the window.",
+  "zh": "第一道陽光從窗戶照了進來。",
+  "target": "rays",
+  "status": "ok",
+  "note": "超出1–2級：sunlight"
+ },
+ {
+  "id": "L3-0698",
+  "en": "Dad uses a razor every morning to keep his face smooth.",
+  "zh": "爸爸每天早上用刮鬍刀讓臉保持光滑。",
+  "target": "razor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0699",
+  "en": "How did your mom react when she saw your test score?",
+  "zh": "你媽媽看到你的考試成績時，有什麼反應？",
+  "target": "react",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0700",
+  "en": "Her first reaction to the news was a big smile.",
+  "zh": "她聽到這個消息的第一個反應是露出大大的笑容。",
+  "target": "reaction",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0701",
+  "en": "The price of the shoes was reasonable, so I bought them.",
+  "zh": "那雙鞋的價格很合理，所以我買了。",
+  "target": "reasonable",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0702",
+  "en": "Please keep your receipt in case you want to return the shirt.",
+  "zh": "請保留收據，以防你想退還這件襯衫。",
+  "target": "receipt",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0703",
+  "en": "The receiver of the letter will get it in three days.",
+  "zh": "收信人三天內就會收到這封信。",
+  "target": "receiver",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0704",
+  "en": "I didn't recognize Amy at first because of her new haircut.",
+  "zh": "因為艾咪剪了新髮型，我一開始沒認出她。",
+  "target": "recognize",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0705",
+  "en": "Tom used a small recorder to record the speech contest.",
+  "zh": "湯姆用一台小錄音機錄下演講比賽。",
+  "target": "recorder",
+  "status": "ok",
+  "note": "超出1–2級：contest"
+ },
+ {
+  "id": "L3-0706",
+  "en": "A door is usually shaped like a rectangle.",
+  "zh": "門通常是長方形的。",
+  "target": "rectangle",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0707",
+  "en": "Turning off lights can reduce the amount of electricity we use.",
+  "zh": "隨手關燈可以減少我們的用電量。",
+  "target": "reduce",
+  "status": "ok",
+  "note": "含其他3級字：electricity"
+ },
+ {
+  "id": "L3-0708",
+  "en": "Our school team won the regional basketball contest last week.",
+  "zh": "我們校隊上週贏得區域籃球比賽。",
+  "target": "regional",
+  "status": "ok",
+  "note": "超出1–2級：contest"
+ },
+ {
+  "id": "L3-0709",
+  "en": "Tom regrets not studying harder for the final exam.",
+  "zh": "湯姆後悔期末考前沒有更用功讀書。",
+  "target": "regrets",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0710",
+  "en": "Listening to soft music helps me relax after a long day.",
+  "zh": "忙了一整天後，聽輕柔的音樂能幫助我放鬆。",
+  "target": "relax",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0711",
+  "en": "The children released the small turtle back into the sea.",
+  "zh": "孩子們把那隻小海龜放回大海。",
+  "target": "released",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0712",
+  "en": "Amy is a reliable friend who always keeps her promises.",
+  "zh": "艾咪是個可靠的朋友，總是信守承諾。",
+  "target": "reliable",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0713",
+  "en": "It was a great relief to find my lost phone.",
+  "zh": "找到弄丟的手機，讓我大大鬆了一口氣。",
+  "target": "relief",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0714",
+  "en": "Many religious people visit the temple during the holidays.",
+  "zh": "很多有宗教信仰的人會在假期時到那間廟參拜。",
+  "target": "religious",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0715",
+  "en": "Many students rely on their phones to check the bus time.",
+  "zh": "許多學生依賴手機查公車時間。",
+  "target": "rely",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0716",
+  "en": "Please remain in your seats until the bell rings.",
+  "zh": "鐘響之前，請留在你們的座位上。",
+  "target": "remain",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0717",
+  "en": "Please remind me to call Grandma when we get home tonight.",
+  "zh": "今晚我們到家時，請提醒我打電話給奶奶。",
+  "target": "remind",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0718",
+  "en": "Grandpa lives in a remote village high in the mountains.",
+  "zh": "爺爺住在高山上一個偏僻的村莊。",
+  "target": "remote",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0719",
+  "en": "We need to replace the broken window in the classroom.",
+  "zh": "我們需要更換教室裡破掉的窗戶。",
+  "target": "replace",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0720",
+  "en": "Tom will represent our class in the speech contest.",
+  "zh": "湯姆將代表我們班參加演講比賽。",
+  "target": "represent",
+  "status": "ok",
+  "note": "超出1–2級：contest"
+ },
+ {
+  "id": "L3-0721",
+  "en": "Each class chose one representative to join the student meeting.",
+  "zh": "每個班級選出一位代表參加學生會議。",
+  "target": "representative",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0722",
+  "en": "France became a republic more than two hundred years ago.",
+  "zh": "法國在兩百多年前成為共和國。",
+  "target": "republic",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0723",
+  "en": "The teacher agreed to our request for less homework.",
+  "zh": "老師同意了我們減少作業的請求。",
+  "target": "request",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0724",
+  "en": "We reserved a table for six at the restaurant.",
+  "zh": "我們在餐廳預訂了一張六人桌。",
+  "target": "reserved",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0725",
+  "en": "It is hard to resist a piece of chocolate cake.",
+  "zh": "一塊巧克力蛋糕實在讓人很難抗拒。",
+  "target": "resist",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0726",
+  "en": "Water is an important resource, so don't waste it.",
+  "zh": "水是重要的資源，所以不要浪費。",
+  "target": "resource",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0727",
+  "en": "Tom sent Amy a message, but he got no response.",
+  "zh": "湯姆傳了訊息給艾咪，但沒有得到回應。",
+  "target": "response",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0728",
+  "en": "Taking care of the family dog is my responsibility.",
+  "zh": "照顧家裡的狗是我的責任。",
+  "target": "responsibility",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0729",
+  "en": "Some parents restrict how much time their kids spend on phones.",
+  "zh": "有些父母會限制孩子使用手機的時間。",
+  "target": "restrict",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0730",
+  "en": "Amy finally revealed the secret she had kept for weeks.",
+  "zh": "艾咪終於揭露了她守了好幾個星期的秘密。",
+  "target": "revealed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0731",
+  "en": "She tied a red ribbon around the birthday present.",
+  "zh": "她在生日禮物上綁了一條紅色緞帶。",
+  "target": "ribbon",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0732",
+  "en": "We need to get rid of these old toys we never use.",
+  "zh": "我們得把這些從來不玩的舊玩具處理掉。",
+  "target": "rid",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0733",
+  "en": "These bananas are not ripe yet; they are still green.",
+  "zh": "這些香蕉還沒成熟，它們還是綠色的。",
+  "target": "ripe",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0734",
+  "en": "Swimming alone in the sea is a big risk.",
+  "zh": "獨自在海裡游泳是很大的風險。",
+  "target": "risk",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0735",
+  "en": "We heard the lion roar loudly at the zoo.",
+  "zh": "我們在動物園聽到獅子大聲吼叫。",
+  "target": "roar",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0736",
+  "en": "We roasted sweet potatoes over the fire at the camp.",
+  "zh": "我們在營地用火烤地瓜。",
+  "target": "roasted",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0737",
+  "en": "Two men tried to rob the store, but the police caught them.",
+  "zh": "兩名男子企圖搶劫那家店，但被警察抓到了。",
+  "target": "rob",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0738",
+  "en": "There was a robbery at the store near our school last night.",
+  "zh": "昨晚我們學校附近的商店發生了一起搶案。",
+  "target": "robbery",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0739",
+  "en": "After his bath, Grandpa put on a warm robe.",
+  "zh": "洗完澡後，爺爺穿上一件保暖的長袍。",
+  "target": "robe",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0740",
+  "en": "The rocket flew into space with a loud noise.",
+  "zh": "火箭發出巨大的聲響飛向太空。",
+  "target": "rocket",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0741",
+  "en": "The old town looks romantic at night with its soft lights.",
+  "zh": "夜晚在柔和的燈光下，這座古鎮看起來很浪漫。",
+  "target": "romantic",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0742",
+  "en": "The apples will rot if you leave them in the sun.",
+  "zh": "如果把蘋果放在太陽下，它們會腐爛。",
+  "target": "rot",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0743",
+  "en": "This egg smells bad; it must be rotten.",
+  "zh": "這顆蛋聞起來很臭，一定是腐壞了。",
+  "target": "rotten",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0744",
+  "en": "The old wooden table feels rough, so be careful of your hands.",
+  "zh": "那張舊木桌摸起來很粗糙，所以小心你的手。",
+  "target": "rough",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0745",
+  "en": "It takes roughly twenty minutes to walk to school.",
+  "zh": "走路去學校大約要二十分鐘。",
+  "target": "roughly",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0746",
+  "en": "Brushing my teeth before bed is part of my daily routine.",
+  "zh": "睡前刷牙是我每天例行公事的一部分。",
+  "target": "routine",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0747",
+  "en": "The cat likes to sleep on the soft rug by the sofa.",
+  "zh": "貓喜歡睡在沙發旁柔軟的小地毯上。",
+  "target": "rug",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0748",
+  "en": "Don't believe every rumor you hear on the internet.",
+  "zh": "不要相信你在網路上聽到的每一個謠言。",
+  "target": "rumor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0749",
+  "en": "Tom rushed to the bus stop because he got up late.",
+  "zh": "湯姆因為起晚了，急忙衝到公車站。",
+  "target": "rushed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0750",
+  "en": "The old bike was left in the rain and covered with rust.",
+  "zh": "那台舊腳踏車被放在雨中，長滿了鏽。",
+  "target": "rust",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0751",
+  "en": "The farmer carried a heavy sack of rice on his back.",
+  "zh": "農夫背著一大袋沉重的米。",
+  "target": "sack",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0752",
+  "en": "Please turn down the music for your little brother's sake.",
+  "zh": "為了你弟弟著想，請把音樂關小聲一點。",
+  "target": "sake",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0753",
+  "en": "Her first job paid a small salary, but she enjoyed it.",
+  "zh": "她的第一份工作薪水不高，但她很喜歡。",
+  "target": "salary",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0754",
+  "en": "The test results were satisfactory, so the teacher let us go home early.",
+  "zh": "考試結果令人滿意，所以老師讓我們提早回家。",
+  "target": "satisfactory",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0755",
+  "en": "Grandma makes a sweet sauce for the chicken every New Year.",
+  "zh": "每年過年，奶奶都會為雞肉做一種甜甜的醬汁。",
+  "target": "sauce",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0756",
+  "en": "Please put the teacup on the saucer so it won't wet the table.",
+  "zh": "請把茶杯放在茶碟上，才不會把桌子弄濕。",
+  "target": "saucer",
+  "status": "ok",
+  "note": "超出1–2級：teacup"
+ },
+ {
+  "id": "L3-0757",
+  "en": "At the night market, Tom bought a hot sausage for his little sister.",
+  "zh": "在夜市，湯姆買了一根熱騰騰的香腸給他妹妹。",
+  "target": "sausage",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0758",
+  "en": "Amy used all her savings to buy a new bike for school.",
+  "zh": "艾咪用她所有的存款買了一輛上學用的新腳踏車。",
+  "target": "savings",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0759",
+  "en": "The school sports day this year was on a much larger scale.",
+  "zh": "今年學校運動會的規模大了許多。",
+  "target": "scale",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0760",
+  "en": "Water becomes scarce in the south when it doesn't rain for months.",
+  "zh": "好幾個月不下雨時，南部的水就變得稀少。",
+  "target": "scarce",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0761",
+  "en": "It was very cold, so Dad wore a thick scarf around his neck.",
+  "zh": "天氣很冷，所以爸爸在脖子上圍了一條厚圍巾。",
+  "target": "scarf",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0762",
+  "en": "The movie was so scary that my brother hid behind the sofa.",
+  "zh": "這部電影太可怕了，我弟弟躲到沙發後面。",
+  "target": "scary",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0763",
+  "en": "The wind blew the papers off the desk and scattered them across the floor.",
+  "zh": "風把紙從桌上吹落，散布在地板各處。",
+  "target": "scattered",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0764",
+  "en": "The old scholar has spent forty years studying Chinese history.",
+  "zh": "這位老學者花了四十年研究中國歷史。",
+  "target": "scholar",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0765",
+  "en": "She won a scholarship because her grades were the best in her class.",
+  "zh": "她因為成績是全班最好的而獲得獎學金。",
+  "target": "scholarship",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0766",
+  "en": "Doctors look for scientific reasons why some people get sick more easily.",
+  "zh": "醫生尋找某些人比較容易生病的科學原因。",
+  "target": "scientific",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0767",
+  "en": "When she grows up, Lily wants to be a scientist who studies stars.",
+  "zh": "莉莉長大後想當一位研究星星的科學家。",
+  "target": "scientist",
+  "status": "ok",
+  "note": "含其他3級字：lily"
+ },
+ {
+  "id": "L3-0768",
+  "en": "Can I borrow your scissors to cut this paper in half?",
+  "zh": "我可以借你的剪刀把這張紙剪成兩半嗎？",
+  "target": "scissors",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0769",
+  "en": "Ben joined the scouts and learned how to build a fire outdoors.",
+  "zh": "班加入了童子軍，學會如何在戶外生火。",
+  "target": "scouts",
+  "status": "ok",
+  "note": "含其他3級字：outdoors"
+ },
+ {
+  "id": "L3-0770",
+  "en": "The girls screamed when they saw a big spider on the wall.",
+  "zh": "女孩們看到牆上有一隻大蜘蛛時尖叫起來。",
+  "target": "screamed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0771",
+  "en": "Dad used a small screw to fix the broken leg of the chair.",
+  "zh": "爸爸用一顆小螺絲修好了椅子斷掉的腳。",
+  "target": "screw",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0772",
+  "en": "After dinner, we had to scrub the dirty pots until they were clean.",
+  "zh": "晚餐後，我們得把髒鍋子擦洗到乾淨為止。",
+  "target": "scrub",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0773",
+  "en": "We watched a seal swim and play with a ball at the zoo.",
+  "zh": "我們在動物園看一隻海豹游泳並玩球。",
+  "target": "seal",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0774",
+  "en": "For security, students must show their cards before entering the school.",
+  "zh": "為了安全，學生進入校園前必須出示學生證。",
+  "target": "security",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0775",
+  "en": "The new semester starts next Monday, and I'm excited to see my friends.",
+  "zh": "新學期下週一開始，我很期待見到我的朋友們。",
+  "target": "semester",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0776",
+  "en": "The senior students are busy studying for the big exam in January.",
+  "zh": "高年級的學生正忙著準備一月的大考。",
+  "target": "senior",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0777",
+  "en": "It is sensible to bring an umbrella when the sky looks dark.",
+  "zh": "天色看起來很暗時，帶把傘是明智的。",
+  "target": "sensible",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0778",
+  "en": "After a long separation, the two old friends finally met again.",
+  "zh": "分離了很久之後，這兩位老朋友終於再次見面。",
+  "target": "separation",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0779",
+  "en": "The health class teaches students about sexual health and body safety.",
+  "zh": "健康課教導學生性健康與身體安全的知識。",
+  "target": "sexual",
+  "status": "ok",
+  "note": "超出1–2級：health, health"
+ },
+ {
+  "id": "L3-0780",
+  "en": "Some ads use sexy models to sell clothes to young people.",
+  "zh": "有些廣告用性感的模特兒向年輕人推銷衣服。",
+  "target": "sexy",
+  "status": "ok",
+  "note": "含其他3級字：ads"
+ },
+ {
+  "id": "L3-0781",
+  "en": "In the late afternoon, our shadows on the ground became very long.",
+  "zh": "傍晚時，我們在地上的影子變得很長。",
+  "target": "shadows",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0782",
+  "en": "Young children should only swim in the shallow part of the pool.",
+  "zh": "小孩子應該只在泳池較淺的區域游泳。",
+  "target": "shallow",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0783",
+  "en": "This shampoo smells like flowers and makes my hair soft.",
+  "zh": "這瓶洗髮精聞起來有花香，讓我的頭髮很柔順。",
+  "target": "shampoo",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0784",
+  "en": "The shepherd watched his sheep on the hill all day long.",
+  "zh": "牧羊人整天在山坡上看顧他的羊。",
+  "target": "shepherd",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0785",
+  "en": "Grandpa gave me a shiny new coin for good luck.",
+  "zh": "爺爺給我一枚閃亮的新硬幣，祝我好運。",
+  "target": "shiny",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0786",
+  "en": "The coach decided to shorten practice because of the heavy rain.",
+  "zh": "因為下大雨，教練決定縮短練習時間。",
+  "target": "shorten",
+  "status": "ok",
+  "note": "含其他3級字：coach"
+ },
+ {
+  "id": "L3-0787",
+  "en": "The train will arrive shortly, so please stand behind the yellow line.",
+  "zh": "火車不久就會到站，請站在黃線後面。",
+  "target": "shortly",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0788",
+  "en": "The kids used a small shovel to dig a hole in the sand.",
+  "zh": "孩子們用一把小鏟子在沙子裡挖洞。",
+  "target": "shovel",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0789",
+  "en": "We ordered fried rice with shrimp at the restaurant last night.",
+  "zh": "我們昨晚在餐廳點了蝦仁炒飯。",
+  "target": "shrimp",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0790",
+  "en": "My favorite T-shirt shrank after I washed it in hot water.",
+  "zh": "我最喜歡的T恤用熱水洗過後縮水了。",
+  "target": "shrank",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0791",
+  "en": "Mom gave a long sigh when she saw my messy room.",
+  "zh": "媽媽看到我凌亂的房間時，長長地嘆了一口氣。",
+  "target": "sigh",
+  "status": "ok",
+  "note": "超出1–2級：messy"
+ },
+ {
+  "id": "L3-0792",
+  "en": "There is no phone signal in the mountains, so we couldn't call home.",
+  "zh": "山裡沒有手機訊號，所以我們無法打電話回家。",
+  "target": "signal",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0793",
+  "en": "Exercising every day can make a significant difference to your health.",
+  "zh": "每天運動可以為你的健康帶來顯著的改變。",
+  "target": "significant",
+  "status": "ok",
+  "note": "超出1–2級：health"
+ },
+ {
+  "id": "L3-0794",
+  "en": "This dress is made of silk, so it feels smooth and soft.",
+  "zh": "這件洋裝是絲做的，所以摸起來光滑柔軟。",
+  "target": "silk",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0795",
+  "en": "People often notice the similarity between Tom and his father.",
+  "zh": "人們常注意到湯姆和他爸爸之間的相似處。",
+  "target": "similarity",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0796",
+  "en": "In the old story, the man believed that lying was a sin.",
+  "zh": "在那個古老的故事裡，那個人相信說謊是一種罪。",
+  "target": "sin",
+  "status": "ok",
+  "note": "超出1–2級：lying"
+ },
+ {
+  "id": "L3-0797",
+  "en": "Please accept my sincere thanks for helping me with my homework.",
+  "zh": "請接受我真誠的謝意，謝謝你幫我做功課。",
+  "target": "sincere",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0798",
+  "en": "After dinner, Dad washed all the dishes in the kitchen sink.",
+  "zh": "晚餐後，爸爸在廚房的水槽裡洗完所有碗盤。",
+  "target": "sink",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0799",
+  "en": "Grandpa took a sip of hot tea and smiled at us.",
+  "zh": "爺爺啜飲了一口熱茶，對我們微笑。",
+  "target": "sip",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0800",
+  "en": "If you are in a dangerous situation, call the police right away.",
+  "zh": "如果你身處危險的情況，要立刻報警。",
+  "target": "situation",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0801",
+  "en": "Ben learned to skate when he was only five years old.",
+  "zh": "班五歲時就學會了溜冰。",
+  "target": "skate",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0802",
+  "en": "We went to Japan last winter to ski in the snowy mountains.",
+  "zh": "我們去年冬天去日本，在雪山上滑雪。",
+  "target": "ski",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0803",
+  "en": "The skillful cook made dumplings very quickly with his hands.",
+  "zh": "那位熟練的廚師用雙手很快地包好了水餃。",
+  "target": "skillful",
+  "status": "ok",
+  "note": "含其他3級字：dumplings"
+ },
+ {
+  "id": "L3-0804",
+  "en": "The boy is so skinny that his pants keep falling down.",
+  "zh": "那個男孩瘦到褲子一直往下掉。",
+  "target": "skinny",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0805",
+  "en": "Don't skip breakfast, or you will feel hungry during class.",
+  "zh": "別省略早餐，否則上課時你會肚子餓。",
+  "target": "skip",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0806",
+  "en": "In the past, many slaves had to work on farms without pay.",
+  "zh": "在過去，許多奴隸必須在農場工作，卻領不到工資。",
+  "target": "slaves",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0807",
+  "en": "It's hot today, so I'm wearing a shirt with short sleeves.",
+  "zh": "今天很熱，所以我穿了一件短袖襯衫。",
+  "target": "sleeves",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0808",
+  "en": "The dancer is tall and slender, with long arms and legs.",
+  "zh": "那位舞者高挑苗條，手腳修長。",
+  "target": "slender",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0809",
+  "en": "Would you like another slice of cake with your tea?",
+  "zh": "你想再來一片蛋糕配茶嗎？",
+  "target": "slice",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0810",
+  "en": "Be careful! The floor is slippery after the rain.",
+  "zh": "小心！下過雨後地板很滑。",
+  "target": "slippery",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0811",
+  "en": "We pushed our bikes up the long slope to the top of the hill.",
+  "zh": "我們把腳踏車推上長長的斜坡，到達山頂。",
+  "target": "slope",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0812",
+  "en": "The dry branch snapped when Tom stepped on it.",
+  "zh": "湯姆一踩，那根乾樹枝就啪地一聲折斷了。",
+  "target": "snapped",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0813",
+  "en": "Ice is water in solid form, so you can hold it in your hand.",
+  "zh": "冰是固體狀態的水，所以你可以把它拿在手上。",
+  "target": "solid",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0814",
+  "en": "Someday I hope to travel around the world with my best friend.",
+  "zh": "我希望將來有一天能和我最好的朋友環遊世界。",
+  "target": "Someday",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0815",
+  "en": "Somehow the cat got into the locked room, and nobody knows how.",
+  "zh": "不知怎麼地，貓跑進了上鎖的房間，沒有人知道是怎麼回事。",
+  "target": "Somehow",
+  "status": "ok",
+  "note": "含其他3級字：locked"
+ },
+ {
+  "id": "L3-0816",
+  "en": "Let's meet for lunch sometime next week when we are both free.",
+  "zh": "下週找個我們都有空的時間，一起吃午餐吧。",
+  "target": "sometime",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0817",
+  "en": "The whole family felt deep sorrow when their old dog died.",
+  "zh": "他們家的老狗死去時，全家人都感到深深的悲傷。",
+  "target": "sorrow",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0818",
+  "en": "For dinner, Mom cooked spaghetti with tomato sauce and cheese.",
+  "zh": "晚餐媽媽煮了加番茄醬汁和起司的義大利麵。",
+  "target": "spaghetti",
+  "status": "ok",
+  "note": "含其他3級字：sauce"
+ },
+ {
+  "id": "L3-0819",
+  "en": "Can you give me a specific time to meet, like three o'clock?",
+  "zh": "你能給我一個具體的見面時間嗎？例如三點。",
+  "target": "specific",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0820",
+  "en": "Indian food often uses many spices, so it smells very strong.",
+  "zh": "印度菜常使用許多香料，所以味道聞起來很濃。",
+  "target": "spices",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0821",
+  "en": "Be careful not to spill your milk on the new carpet.",
+  "zh": "小心別把牛奶灑在新地毯上。",
+  "target": "spill",
+  "status": "ok",
+  "note": "含其他3級字：carpet"
+ },
+ {
+  "id": "L3-0822",
+  "en": "The little girl likes to spin around until she feels dizzy.",
+  "zh": "那個小女孩喜歡一直轉圈，直到頭暈為止。",
+  "target": "spin",
+  "status": "ok",
+  "note": "含其他3級字：dizzy"
+ },
+ {
+  "id": "L3-0823",
+  "en": "Eat your spinach, because green vegetables help keep you healthy.",
+  "zh": "把你的菠菜吃掉，因為綠色蔬菜能幫助你保持健康。",
+  "target": "spinach",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0824",
+  "en": "Please don't spit on the ground; it's dirty and rude.",
+  "zh": "請不要在地上吐口水，那既髒又沒禮貌。",
+  "target": "spit",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0825",
+  "en": "He broke his sister's toy out of spite because she laughed at him.",
+  "zh": "他出於惡意弄壞了妹妹的玩具，因為她嘲笑了他。",
+  "target": "spite",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0826",
+  "en": "The kids splashed water on each other in the swimming pool.",
+  "zh": "孩子們在游泳池裡互相潑水。",
+  "target": "splashed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0827",
+  "en": "Grandparents sometimes spoil their grandchildren by giving them too much candy.",
+  "zh": "祖父母有時會給孫子太多糖果，把他們寵壞。",
+  "target": "spoil",
+  "status": "ok",
+  "note": "超出1–2級：grandchildren, candy"
+ },
+ {
+  "id": "L3-0828",
+  "en": "Dad sprays water on the plants every morning before work.",
+  "zh": "爸爸每天早上上班前都會在植物上噴水。",
+  "target": "sprays",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0829",
+  "en": "In the movie, the spy secretly took photos of the enemy's plans.",
+  "zh": "在電影裡，那個間諜偷偷拍下了敵人的計畫。",
+  "target": "spy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0830",
+  "en": "Mom squeezed some oranges to make fresh juice for breakfast.",
+  "zh": "媽媽擠了幾顆柳橙，做新鮮果汁當早餐。",
+  "target": "squeezed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0831",
+  "en": "A squirrel ran up the tree with a nut in its mouth.",
+  "zh": "一隻松鼠嘴裡叼著堅果，跑上了樹。",
+  "target": "squirrel",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0832",
+  "en": "After a week in the hospital, Grandpa's health is now stable.",
+  "zh": "在醫院待了一週後，爺爺的健康狀況現在很穩定。",
+  "target": "stable",
+  "status": "ok",
+  "note": "超出1–2級：health"
+ },
+ {
+  "id": "L3-0833",
+  "en": "Thousands of fans filled the stadium to watch the baseball game.",
+  "zh": "數千名球迷擠滿了體育場觀看棒球比賽。",
+  "target": "stadium",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0834",
+  "en": "The hotel staff were very friendly and helped us carry our bags.",
+  "zh": "飯店的員工非常友善，還幫我們提行李。",
+  "target": "staff",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0835",
+  "en": "This bread is stale because we left it out for three days.",
+  "zh": "這麵包不新鮮了，因為我們把它放在外面三天。",
+  "target": "stale",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0836",
+  "en": "It is not polite to stare at people on the bus.",
+  "zh": "在公車上盯著別人看是不禮貌的。",
+  "target": "stare",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0837",
+  "en": "Many animals starve in winter when they cannot find food.",
+  "zh": "許多動物在冬天找不到食物時會挨餓。",
+  "target": "starve",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0838",
+  "en": "There is a large statue of a famous writer in the park.",
+  "zh": "公園裡有一座知名作家的大雕像。",
+  "target": "statue",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0839",
+  "en": "Please keep your hands steady when you take the photo.",
+  "zh": "拍照時請讓你的手保持穩定。",
+  "target": "steady",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0840",
+  "en": "Someone stole my bike while I was in the library.",
+  "zh": "我在圖書館時，有人偷了我的腳踏車。",
+  "target": "stole",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0841",
+  "en": "Steam rose from the hot soup as Grandma brought it to the table.",
+  "zh": "奶奶把熱湯端上桌時，湯冒出了蒸氣。",
+  "target": "Steam",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0842",
+  "en": "The road up the mountain was so steep that we had to walk slowly.",
+  "zh": "上山的路太陡峭了，我們只好慢慢走。",
+  "target": "steep",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0843",
+  "en": "My fingers were sticky after I ate the honey cake.",
+  "zh": "我吃完蜂蜜蛋糕後，手指黏黏的。",
+  "target": "sticky",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0844",
+  "en": "After sitting at the desk all day, my neck felt stiff.",
+  "zh": "在書桌前坐了一整天後，我的脖子覺得很僵硬。",
+  "target": "stiff",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0845",
+  "en": "A bee stung Amy on the arm, and it hurt a lot.",
+  "zh": "一隻蜜蜂螫了艾咪的手臂，非常痛。",
+  "target": "stung",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0846",
+  "en": "Stir the soup slowly so it doesn't burn at the bottom.",
+  "zh": "慢慢攪拌湯，鍋底才不會燒焦。",
+  "target": "Stir",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0847",
+  "en": "Grandma used a needle to stitch the hole in my sock.",
+  "zh": "奶奶用針把我襪子上的破洞縫好。",
+  "target": "stitch",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0848",
+  "en": "I ate too much fried chicken, and now my stomach hurts.",
+  "zh": "我吃了太多炸雞，現在胃好痛。",
+  "target": "stomach",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0849",
+  "en": "Tom stood on a stool to reach the top shelf.",
+  "zh": "湯姆站在凳子上，才搆得到最上層的架子。",
+  "target": "stool",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0850",
+  "en": "The flight was canceled because of the stormy weather.",
+  "zh": "因為暴風雨的天氣，班機被取消了。",
+  "target": "stormy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0851",
+  "en": "Don't touch the stove; it is still very hot.",
+  "zh": "別碰爐子，它還很燙。",
+  "target": "stove",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0852",
+  "en": "Our team needs a new strategy to win the next basketball game.",
+  "zh": "我們隊需要一個新策略來贏得下一場籃球賽。",
+  "target": "strategy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0853",
+  "en": "Can I have a straw for my bubble tea, please?",
+  "zh": "可以給我一根喝珍珠奶茶的吸管嗎？",
+  "target": "straw",
+  "status": "ok",
+  "note": "含其他3級字：bubble"
+ },
+ {
+  "id": "L3-0854",
+  "en": "Lifting heavy boxes takes a lot of strength.",
+  "zh": "搬重箱子需要很大的力氣。",
+  "target": "strength",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0855",
+  "en": "Cut the paper into long strips and glue them together.",
+  "zh": "把紙剪成長條，再把它們黏在一起。",
+  "target": "strips",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0856",
+  "en": "The teacher explained the structure of the human body in science class.",
+  "zh": "老師在自然課上講解人體的結構。",
+  "target": "structure",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0857",
+  "en": "My little brother is so stubborn that he never says sorry first.",
+  "zh": "我弟弟非常固執，從來不會先道歉。",
+  "target": "stubborn",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0858",
+  "en": "The singer recorded her new song in a small studio.",
+  "zh": "那位歌手在一間小錄音室錄製她的新歌。",
+  "target": "studio",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0859",
+  "en": "Please put your stuff in the box before you leave the room.",
+  "zh": "離開房間前，請把你的東西放進箱子裡。",
+  "target": "stuff",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0860",
+  "en": "Water is the most important substance for all living things.",
+  "zh": "水是所有生物最重要的物質。",
+  "target": "substance",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0861",
+  "en": "If you subtract three from ten, you get seven.",
+  "zh": "如果十減去三，就得到七。",
+  "target": "subtract",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0862",
+  "en": "They moved to a quiet suburb outside of Taipei last year.",
+  "zh": "他們去年搬到台北外圍一個安靜的郊區。",
+  "target": "suburb",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0863",
+  "en": "The little boy sucked the juice through a long straw.",
+  "zh": "那個小男孩用長吸管吸果汁。",
+  "target": "sucked",
+  "status": "ok",
+  "note": "含其他3級字：straw"
+ },
+ {
+  "id": "L3-0864",
+  "en": "Many people suffer from colds when the weather suddenly changes.",
+  "zh": "天氣突然變化時，很多人會受感冒所苦。",
+  "target": "suffer",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0865",
+  "en": "We don't have sufficient time to finish the project today.",
+  "zh": "我們今天沒有足夠的時間完成這個專題。",
+  "target": "sufficient",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0866",
+  "en": "If a friend talks about suicide, tell a teacher or adult right away.",
+  "zh": "如果有朋友談到自殺，要立刻告訴老師或大人。",
+  "target": "suicide",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0867",
+  "en": "The sum of five and seven is twelve.",
+  "zh": "五加七的總和是十二。",
+  "target": "sum",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0868",
+  "en": "Please write a short summary of the story in your own words.",
+  "zh": "請用你自己的話為這個故事寫一篇簡短的摘要。",
+  "target": "summary",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0869",
+  "en": "After climbing for five hours, we finally reached the summit of the mountain.",
+  "zh": "爬了五個小時後，我們終於抵達山頂。",
+  "target": "summit",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0870",
+  "en": "This new phone is superior to the old one in many ways.",
+  "zh": "這支新手機在許多方面都比舊的好。",
+  "target": "superior",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0871",
+  "en": "Tall mountains surround the small village on all sides.",
+  "zh": "高山從四面八方包圍著這座小村莊。",
+  "target": "surround",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0872",
+  "en": "The school did a survey to find out students' favorite lunches.",
+  "zh": "學校做了一項調查，了解學生最喜歡的午餐。",
+  "target": "survey",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0873",
+  "en": "The only survivor of the boat accident was a young fisherman.",
+  "zh": "這場船難唯一的倖存者是一位年輕的漁夫。",
+  "target": "survivor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0874",
+  "en": "I suspect that my brother ate the last piece of cake.",
+  "zh": "我懷疑是我弟弟吃了最後一塊蛋糕。",
+  "target": "suspect",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0875",
+  "en": "The teacher had a suspicion that some students copied each other's homework.",
+  "zh": "老師懷疑有些學生互相抄作業。",
+  "target": "suspicion",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0876",
+  "en": "A white swan swam slowly across the quiet lake.",
+  "zh": "一隻白天鵝慢慢地游過平靜的湖面。",
+  "target": "swan",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0877",
+  "en": "Ben swore that he did not break the window.",
+  "zh": "班發誓他沒有打破窗戶。",
+  "target": "swore",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0878",
+  "en": "After the basketball game, Tom's shirt was wet with sweat.",
+  "zh": "籃球比賽結束後，湯姆的上衣被汗水浸濕了。",
+  "target": "sweat",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0879",
+  "en": "Her foot began to swell after she hurt it during the race.",
+  "zh": "她在賽跑中受傷後，腳開始腫起來。",
+  "target": "swell",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0880",
+  "en": "The swift runner passed everyone and won the race easily.",
+  "zh": "那位跑得飛快的選手超越所有人，輕鬆贏得比賽。",
+  "target": "swift",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0881",
+  "en": "In the old story, the king gave the young hero a magic sword.",
+  "zh": "在那個古老的故事裡，國王給了年輕的英雄一把魔法劍。",
+  "target": "sword",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0882",
+  "en": "The doctor told me to take one tablet after each meal.",
+  "zh": "醫生要我每餐飯後吃一顆藥片。",
+  "target": "tablet",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0883",
+  "en": "Look at the price tag before you buy the jacket.",
+  "zh": "買外套之前，先看一下價格標籤。",
+  "target": "tag",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0884",
+  "en": "The tailor made the pants shorter so they would fit me.",
+  "zh": "裁縫師把褲子改短，好讓它合我的身。",
+  "target": "tailor",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0885",
+  "en": "Lisa has a real talent for music and plays the piano beautifully.",
+  "zh": "麗莎很有音樂天分，鋼琴彈得很優美。",
+  "target": "talent",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0886",
+  "en": "Our new classmate is very talkative and makes friends easily.",
+  "zh": "我們的新同學很愛說話，很容易交到朋友。",
+  "target": "talkative",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0887",
+  "en": "The deer in the park are so tame that they eat from your hand.",
+  "zh": "公園裡的鹿非常溫馴，會直接從你手上吃東西。",
+  "target": "tame",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0888",
+  "en": "Grandma gave each of us a sweet tangerine after lunch.",
+  "zh": "午餐後，奶奶給我們每人一顆甜甜的橘子。",
+  "target": "tangerine",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0889",
+  "en": "We keep three small goldfish in a glass tank in the living room.",
+  "zh": "我們在客廳的玻璃缸裡養了三隻小金魚。",
+  "target": "tank",
+  "status": "ok",
+  "note": "超出1–2級：goldfish"
+ },
+ {
+  "id": "L3-0890",
+  "en": "Someone tapped me on the shoulder during the movie.",
+  "zh": "看電影時，有人輕拍了我的肩膀。",
+  "target": "tapped",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0891",
+  "en": "The beef noodles at this small shop are cheap and tasty.",
+  "zh": "這家小店的牛肉麵又便宜又美味。",
+  "target": "tasty",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0892",
+  "en": "Please don't tease your sister about her new haircut.",
+  "zh": "請不要取笑你妹妹的新髮型。",
+  "target": "tease",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0893",
+  "en": "The game stopped for ten minutes because of a technical problem.",
+  "zh": "比賽因為技術問題暫停了十分鐘。",
+  "target": "technical",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0894",
+  "en": "The coach showed us a new technique for kicking the ball.",
+  "zh": "教練教我們一種新的踢球技巧。",
+  "target": "technique",
+  "status": "ok",
+  "note": "含其他3級字：coach"
+ },
+ {
+  "id": "L3-0895",
+  "en": "Many teenage students spend too much time on their phones.",
+  "zh": "許多青少年學生花太多時間在手機上。",
+  "target": "teenage",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0896",
+  "en": "Dad has a bad temper when he is tired and hungry.",
+  "zh": "爸爸又累又餓的時候脾氣很差。",
+  "target": "temper",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0897",
+  "en": "Amy found a temporary job at a coffee shop for the summer.",
+  "zh": "艾咪找到一份在咖啡店的暑期臨時工作。",
+  "target": "temporary",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0898",
+  "en": "Teenagers tend to stay up late and sleep in on weekends.",
+  "zh": "青少年週末往往會熬夜和睡懶覺。",
+  "target": "tend",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0899",
+  "en": "Mom spoke in a tender voice to the crying baby.",
+  "zh": "媽媽用溫柔的聲音對哭泣的寶寶說話。",
+  "target": "tender",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0900",
+  "en": "We put up a tent by the river and camped there for the night.",
+  "zh": "我們在河邊搭起帳篷，在那裡露營過夜。",
+  "target": "tent",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0901",
+  "en": "You did a terrific job on your science report!",
+  "zh": "你的自然科報告做得太棒了！",
+  "target": "terrific",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0902",
+  "en": "The dog barks at anyone who walks into its territory.",
+  "zh": "那隻狗會對走進牠地盤的任何人吠叫。",
+  "target": "territory",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0903",
+  "en": "We are thankful to our teachers for all their help this year.",
+  "zh": "我們很感謝老師們今年給我們的所有幫助。",
+  "target": "thankful",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0904",
+  "en": "The scientist has a new theory about why dinosaurs died out.",
+  "zh": "那位科學家對恐龍為何滅絕提出了一個新理論。",
+  "target": "theory",
+  "status": "ok",
+  "note": "含其他3級字：scientist, dinosaurs"
+ },
+ {
+  "id": "L3-0905",
+  "en": "Lost in the desert, the man almost died of thirst.",
+  "zh": "迷失在沙漠中，那個人差點渴死。",
+  "target": "thirst",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0906",
+  "en": "Grandma needs her glasses to put the thread through the needle.",
+  "zh": "奶奶需要戴眼鏡才能把線穿過針。",
+  "target": "thread",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0907",
+  "en": "Heavy rain is a big threat to the farmers' crops this year.",
+  "zh": "今年的大雨對農民的作物是一大威脅。",
+  "target": "threat",
+  "status": "ok",
+  "note": "含其他3級字：crops"
+ },
+ {
+  "id": "L3-0908",
+  "en": "The older boy threatened to tell the teacher if we didn't stop.",
+  "zh": "那個大男孩威脅說，如果我們不停下來，他就要告訴老師。",
+  "target": "threatened",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0909",
+  "en": "Amy hurt her thumb when she closed the door on it.",
+  "zh": "艾咪關門時夾傷了大拇指。",
+  "target": "thumb",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0910",
+  "en": "At low tide, we can walk on the beach and find small crabs.",
+  "zh": "退潮時，我們可以在海灘上散步，找小螃蟹。",
+  "target": "tide",
+  "status": "ok",
+  "note": "含其他3級字：crabs"
+ },
+ {
+  "id": "L3-0911",
+  "en": "These shoes are too tight, so my feet hurt when I walk.",
+  "zh": "這雙鞋太緊了，所以我走路時腳會痛。",
+  "target": "tight",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0912",
+  "en": "Please tighten your seat belt before the car starts moving.",
+  "zh": "車子開動前，請繫緊你的安全帶。",
+  "target": "tighten",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0913",
+  "en": "The old house was built with timber from the nearby forest.",
+  "zh": "這棟老房子是用附近森林的木材建造的。",
+  "target": "timber",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0914",
+  "en": "Tobacco is bad for your health, so you should never start smoking.",
+  "zh": "菸草對健康有害，所以你千萬不要開始抽菸。",
+  "target": "Tobacco",
+  "status": "ok",
+  "note": "超出1–2級：health"
+ },
+ {
+  "id": "L3-0915",
+  "en": "The big truck can carry more than ten tons of rice.",
+  "zh": "這輛大卡車可以載超過十噸的米。",
+  "target": "tons",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0916",
+  "en": "Tom tossed the ball to his dog, and it ran to catch it.",
+  "zh": "湯姆把球拋給他的狗，狗就跑去接。",
+  "target": "tossed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0917",
+  "en": "The math test was so tough that only a few students passed.",
+  "zh": "這次數學考試很難，只有少數學生及格。",
+  "target": "tough",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0918",
+  "en": "Tourism brings a lot of money to small towns near the sea.",
+  "zh": "觀光業為海邊的小鎮帶來大量收入。",
+  "target": "Tourism",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0919",
+  "en": "Many tourists visit the night markets in Taipei every year.",
+  "zh": "每年都有許多觀光客造訪台北的夜市。",
+  "target": "tourists",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0920",
+  "en": "Our car broke down, so a truck had to tow it away.",
+  "zh": "我們的車拋錨了，只好請一輛卡車把它拖走。",
+  "target": "tow",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0921",
+  "en": "From the top of the tower, we could see the whole city.",
+  "zh": "從塔頂上，我們可以看到整座城市。",
+  "target": "tower",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0922",
+  "en": "The thief left no trace, so the police could not find him.",
+  "zh": "小偷沒有留下任何痕跡，所以警察找不到他。",
+  "target": "trace",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0923",
+  "en": "The trader bought tea in Taiwan and sold it in Europe.",
+  "zh": "那位商人在台灣買茶，然後拿到歐洲賣。",
+  "target": "trader",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0924",
+  "en": "We followed a narrow trail up the hill to see the sunset.",
+  "zh": "我們沿著一條狹窄的小徑上山看夕陽。",
+  "target": "trail",
+  "status": "ok",
+  "note": "超出1–2級：sunset"
+ },
+ {
+  "id": "L3-0925",
+  "en": "Trains are a cheap and fast way to transport people between cities.",
+  "zh": "火車是在城市之間運送旅客既便宜又快速的方式。",
+  "target": "transport",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0926",
+  "en": "The traveler asked us how to get to the train station.",
+  "zh": "那位旅行者問我們怎麼去火車站。",
+  "target": "traveler",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0927",
+  "en": "The waiter carried four cups of coffee on a small tray.",
+  "zh": "服務生用一個小托盤端著四杯咖啡。",
+  "target": "tray",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0928",
+  "en": "Wearing big, loose T-shirts is a popular trend among students now.",
+  "zh": "穿寬大的T恤是現在學生之間流行的趨勢。",
+  "target": "trend",
+  "status": "ok",
+  "note": "含其他3級字：loose"
+ },
+ {
+  "id": "L3-0929",
+  "en": "The tribe has lived in these mountains for hundreds of years.",
+  "zh": "這個部落已經在這些山裡住了好幾百年。",
+  "target": "tribe",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0930",
+  "en": "The last question on the test was tricky, and many students got it wrong.",
+  "zh": "考卷上最後一題很棘手，很多學生都答錯了。",
+  "target": "tricky",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0931",
+  "en": "A troop of monkeys came down from the hill looking for food.",
+  "zh": "一群猴子從山上下來找食物。",
+  "target": "troop",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0932",
+  "en": "Taiwan grows many tropical fruits, like mangoes and bananas.",
+  "zh": "台灣種植許多熱帶水果，像是芒果和香蕉。",
+  "target": "tropical",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0933",
+  "en": "Jack plays the trumpet in the school band.",
+  "zh": "傑克在學校樂隊裡吹小號。",
+  "target": "trumpet",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0934",
+  "en": "Dad put our bags in the trunk of the car.",
+  "zh": "爸爸把我們的包包放進汽車的後車廂。",
+  "target": "trunk",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0935",
+  "en": "Please be truthful and tell me what really happened.",
+  "zh": "請誠實地告訴我到底發生了什麼事。",
+  "target": "truthful",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0936",
+  "en": "The little boy played with his toy boat in the tub.",
+  "zh": "小男孩在浴缸裡玩他的玩具船。",
+  "target": "tub",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0937",
+  "en": "The puppy tugged at my shoe because it wanted to play.",
+  "zh": "小狗用力拉扯我的鞋子，因為牠想玩。",
+  "target": "tugged",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0938",
+  "en": "Amy sang a happy tune as she walked to school.",
+  "zh": "艾咪走路上學時，唱著一首輕快的曲子。",
+  "target": "tune",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0939",
+  "en": "The train went through a long tunnel under the mountain.",
+  "zh": "火車穿過山底下一條長長的隧道。",
+  "target": "tunnel",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0940",
+  "en": "Tom's parents hired a math tutor to help him before the exam.",
+  "zh": "湯姆的爸媽在考試前請了一位數學家教來幫他。",
+  "target": "tutor",
+  "status": "ok",
+  "note": "含其他3級字：hired"
+ },
+ {
+  "id": "L3-0941",
+  "en": "Amy and her twin sister look so alike that people often mix them up.",
+  "zh": "艾咪和她的雙胞胎妹妹長得好像，大家常把她們搞混。",
+  "target": "twin",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0942",
+  "en": "Twist the cap to the left to open the bottle.",
+  "zh": "把瓶蓋往左扭轉就能打開瓶子。",
+  "target": "Twist",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0943",
+  "en": "The underlying reason for his bad grades was a lack of sleep.",
+  "zh": "他成績差的根本原因是睡眠不足。",
+  "target": "underlying",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0944",
+  "en": "Remember to pack enough clean underwear for the five-day trip.",
+  "zh": "記得為五天的旅行帶足夠的乾淨內衣褲。",
+  "target": "underwear",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0945",
+  "en": "The workers joined a union to ask for better pay.",
+  "zh": "工人們加入工會，爭取更好的待遇。",
+  "target": "union",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0946",
+  "en": "Her singing style is unique, and nobody else sounds like her.",
+  "zh": "她的唱歌風格很獨特，沒有人聽起來像她。",
+  "target": "unique",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0947",
+  "en": "The whole school united to help the family after the fire.",
+  "zh": "火災過後，全校團結起來幫助那個家庭。",
+  "target": "united",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0948",
+  "en": "Our team won because of its unity and hard work.",
+  "zh": "我們隊能獲勝，靠的是團結和努力。",
+  "target": "unity",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0949",
+  "en": "More and more people are moving from the countryside to urban areas.",
+  "zh": "越來越多人從鄉下搬到都市地區。",
+  "target": "urban",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0950",
+  "en": "Is this seat vacant, or is someone sitting here?",
+  "zh": "這個座位是空的嗎？還是有人坐？",
+  "target": "vacant",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0951",
+  "en": "The whole team rode to the game in a big white van.",
+  "zh": "全隊搭一輛白色大廂型車去比賽。",
+  "target": "van",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0952",
+  "en": "The sun vanished behind the dark clouds, and it began to rain.",
+  "zh": "太陽消失在烏雲後面，接著開始下雨了。",
+  "target": "vanished",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0953",
+  "en": "The night market offers a wide variety of snacks and drinks.",
+  "zh": "夜市提供各式各樣的小吃和飲料。",
+  "target": "variety",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0954",
+  "en": "Students can join various clubs, such as music, art, and sports.",
+  "zh": "學生可以參加各種社團，例如音樂、美術和運動社團。",
+  "target": "various",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0955",
+  "en": "Prices of fruit vary from season to season.",
+  "zh": "水果的價格隨季節而變化。",
+  "target": "vary",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0956",
+  "en": "Mom put the fresh flowers in a glass vase on the table.",
+  "zh": "媽媽把鮮花插在桌上的玻璃花瓶裡。",
+  "target": "vase",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0957",
+  "en": "No vehicles are allowed on this street during the night market.",
+  "zh": "夜市期間，這條街禁止車輛進入。",
+  "target": "vehicles",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0958",
+  "en": "We had to learn the first verse of the poem by heart.",
+  "zh": "我們必須背熟這首詩的第一段詩句。",
+  "target": "verse",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0959",
+  "en": "It's a little cold, so wear a vest over your shirt.",
+  "zh": "天氣有點冷，在襯衫外面加件背心吧。",
+  "target": "vest",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0960",
+  "en": "The victims of the flood needed food, water, and a safe place to sleep.",
+  "zh": "這場水災的受害者需要食物、水和安全的睡覺地方。",
+  "target": "victims",
+  "status": "ok",
+  "note": "含其他3級字：flood"
+ },
+ {
+  "id": "L3-0961",
+  "en": "Parents should not let young children watch movies full of violence.",
+  "zh": "父母不應該讓年幼的孩子看充滿暴力的電影。",
+  "target": "violence",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0962",
+  "en": "Some video games are too violent for young children to play.",
+  "zh": "有些電玩遊戲太暴力了，不適合小孩子玩。",
+  "target": "violent",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0963",
+  "en": "She painted her bedroom walls a soft violet color.",
+  "zh": "她把臥室的牆漆成柔和的紫羅蘭色。",
+  "target": "violet",
+  "status": "ok",
+  "note": "超出1–2級：painted"
+ },
+ {
+  "id": "L3-0964",
+  "en": "On a clear night, many stars are visible in the sky.",
+  "zh": "在晴朗的夜晚，天空中可以看見許多星星。",
+  "target": "visible",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0965",
+  "en": "Reading in bad light for hours can hurt your vision.",
+  "zh": "在光線不好的地方長時間閱讀會傷害你的視力。",
+  "target": "vision",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0966",
+  "en": "Oranges are full of vitamin C, which helps you stay healthy.",
+  "zh": "柳橙富含維他命C，能幫助你保持健康。",
+  "target": "vitamin",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0967",
+  "en": "Amy still has a vivid memory of her first day at school.",
+  "zh": "艾咪對她上學的第一天仍然記憶鮮明。",
+  "target": "vivid",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0968",
+  "en": "Reading English books every day can help you build your vocabulary.",
+  "zh": "每天閱讀英文書能幫助你增加字彙量。",
+  "target": "vocabulary",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0969",
+  "en": "The girls play volleyball on the beach every Saturday afternoon.",
+  "zh": "女孩們每個星期六下午都在海灘打排球。",
+  "target": "volleyball",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0970",
+  "en": "Please turn down the volume of the TV; the baby is sleeping.",
+  "zh": "請把電視的音量調小，寶寶正在睡覺。",
+  "target": "volume",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0971",
+  "en": "When we chose our class leader, every voter wrote one name on paper.",
+  "zh": "我們選班長時，每位投票者都在紙上寫下一個名字。",
+  "target": "voter",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0972",
+  "en": "Amy's part-time job pays a low wage, but she enjoys it.",
+  "zh": "艾咪打工的工資很低，但她很喜歡這份工作。",
+  "target": "wage",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0973",
+  "en": "The horse pulled a wagon full of fruit to the market.",
+  "zh": "那匹馬拉著一輛裝滿水果的貨車到市場去。",
+  "target": "wagon",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0974",
+  "en": "We wandered around the old streets and looked at the small shops.",
+  "zh": "我們在老街上四處漫步，逛著一間間小店。",
+  "target": "wandered",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0975",
+  "en": "We sat near the fire and enjoyed its warmth on the cold night.",
+  "zh": "在寒冷的夜晚，我們坐在火堆旁，享受它的溫暖。",
+  "target": "warmth",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0976",
+  "en": "The teacher warned us not to swim in the river after heavy rain.",
+  "zh": "老師警告我們大雨過後不要在河裡游泳。",
+  "target": "warned",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0977",
+  "en": "We walked for two hours to see the tall waterfall in the mountains.",
+  "zh": "我們走了兩個小時，去看山裡那座高高的瀑布。",
+  "target": "waterfall",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0978",
+  "en": "The candle is made of wax, so keep it away from heat.",
+  "zh": "這根蠟燭是用蠟做的，所以要讓它遠離高溫。",
+  "target": "wax",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0979",
+  "en": "Too little sleep can weaken your body and make you sick.",
+  "zh": "睡眠太少會削弱你的身體，讓你生病。",
+  "target": "weaken",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0980",
+  "en": "The wealthy man gave a lot of money to help poor children.",
+  "zh": "那位富有的男子捐了很多錢幫助貧窮的孩子。",
+  "target": "wealthy",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0981",
+  "en": "In the museum, we saw old weapons used by soldiers long ago.",
+  "zh": "在博物館裡，我們看到很久以前士兵用過的古老武器。",
+  "target": "weapons",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0982",
+  "en": "The women in the village weave baskets from long grass.",
+  "zh": "村子裡的婦女用長草編織籃子。",
+  "target": "weave",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0983",
+  "en": "A spider spent the night making a web in the corner of the window.",
+  "zh": "一隻蜘蛛花了一整夜在窗戶角落結網。",
+  "target": "web",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0984",
+  "en": "The couple will wed next spring in a small church.",
+  "zh": "這對情侶將在明年春天於一間小教堂結婚。",
+  "target": "wed",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0985",
+  "en": "On Sunday, we helped Grandpa pull the weeds in his garden.",
+  "zh": "星期天，我們幫爺爺拔他菜園裡的雜草。",
+  "target": "weeds",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0986",
+  "en": "Our class has a weekly spelling test on Friday mornings.",
+  "zh": "我們班每週五早上都有一次拼字小考。",
+  "target": "weekly",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0987",
+  "en": "The girl began to weep when she lost her little dog.",
+  "zh": "那個女孩弄丟了她的小狗，開始哭泣。",
+  "target": "weep",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0988",
+  "en": "Bread and noodles are both made from wheat.",
+  "zh": "麵包和麵條都是用小麥做的。",
+  "target": "wheat",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0989",
+  "en": "The rider used a whip to make the horse run faster.",
+  "zh": "騎士用鞭子讓馬跑得更快。",
+  "target": "whip",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0990",
+  "en": "The coach blew his whistle, and the players stopped running.",
+  "zh": "教練吹了哨子，球員們就停止奔跑。",
+  "target": "whistle",
+  "status": "ok",
+  "note": "含其他3級字：coach"
+ },
+ {
+  "id": "L3-0991",
+  "en": "In the story, the wicked witch put the princess to sleep.",
+  "zh": "在故事裡，邪惡的巫婆讓公主陷入沉睡。",
+  "target": "wicked",
+  "status": "ok",
+  "note": "超出1–2級：witch"
+ },
+ {
+  "id": "L3-0992",
+  "en": "The city will widen the narrow road so more cars can pass.",
+  "zh": "市政府將拓寬這條窄路，讓更多車子能通過。",
+  "target": "widen",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0993",
+  "en": "Please wipe the table with a wet cloth after dinner.",
+  "zh": "晚餐後請用濕布擦拭桌子。",
+  "target": "wipe",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0994",
+  "en": "Grandpa's wisdom comes from many years of hard life experience.",
+  "zh": "爺爺的智慧來自多年艱辛的人生經驗。",
+  "target": "wisdom",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0995",
+  "en": "We wrapped Mom's birthday present in colorful paper.",
+  "zh": "我們用彩色的紙包裝媽媽的生日禮物。",
+  "target": "wrapped",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0996",
+  "en": "Ben wears a watch on his left wrist.",
+  "zh": "班把手錶戴在左手腕上。",
+  "target": "wrist",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0997",
+  "en": "Our school's yearly sports day is always held in November.",
+  "zh": "我們學校每年一度的運動會總是在十一月舉行。",
+  "target": "yearly",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0998",
+  "en": "Mom yelled at us to come inside because dinner was ready.",
+  "zh": "媽媽大喊叫我們進屋，因為晚餐準備好了。",
+  "target": "yelled",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-0999",
+  "en": "Some people only eat the egg white and leave the yolk.",
+  "zh": "有些人只吃蛋白，把蛋黃留下來。",
+  "target": "yolk",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-1000",
+  "en": "The old man enjoys telling stories to the youngsters in the park.",
+  "zh": "那位老先生喜歡對公園裡的年輕人講故事。",
+  "target": "youngsters",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-1001",
+  "en": "The zipper on my jacket is broken, so I can't close it.",
+  "zh": "我外套上的拉鍊壞了，所以我拉不起來。",
+  "target": "zipper",
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "L3-1002",
+  "en": "This area near the school is a no-smoking zone.",
+  "zh": "學校附近的這個區域是禁菸區。",
+  "target": "zone",
+  "status": "ok",
+  "note": ""
+ }
+]

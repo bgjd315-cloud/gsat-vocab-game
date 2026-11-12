@@ -1,0 +1,11442 @@
+[
+ {
+  "word": "elite",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0346",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "findings",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1219",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "epic",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0363",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "footage",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0416",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "earnings",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1220",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "hilarious",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1221",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "ratings",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1222",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "regulatory",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1223",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "proceedings",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1224",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "tier",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1225",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "protocol",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1226",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "breach",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0133",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "haven",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0472",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "iconic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1227",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "reportedly",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0849",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "adjacent",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "L10",
+  "gsat": 0,
+  "id": "L7-0013",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "linear",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0589",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "jurisdiction",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1228",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "seemingly",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1229",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "governance",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1230",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "allegations",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1231",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "hub",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1232",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "matrix",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1233",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "nationwide",
+  "pos": "adj./adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0660",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "testament",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1060",
+  "day": 1,
+  "hday": 1
+ },
+ {
+  "word": "median",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1234",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "static",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0985",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "creepy",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1235",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "nonetheless",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1236",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "thermal",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1063",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "hype",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1237",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "algorithm",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1238",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "axis",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0080",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "void",
+  "pos": "n./adj./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1177",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "interim",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0541",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "magnitude",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0613",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "parameters",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1239",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "feat",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0391",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "offset",
+  "pos": "v./n./adj.",
+  "gept_note": "",
+  "awl": "L8",
+  "gsat": 0,
+  "id": "L7-0689",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "deceased",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1240",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "integral",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "L9",
+  "gsat": 0,
+  "id": "L7-0537",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "maritime",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1241",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "spike",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0969",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "binary",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1242",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "sanctions",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1243",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "secular",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1244",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "specifications",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1245",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "aggregate",
+  "pos": "adj./n./v.",
+  "gept_note": "",
+  "awl": "L6",
+  "gsat": 0,
+  "id": "L7-0026",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "anatomy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1246",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "composite",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0212",
+  "day": 2,
+  "hday": 2
+ },
+ {
+  "word": "optimal",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1247",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "scam",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1248",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "simulation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0942",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "terrain",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1056",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "conjunction",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1249",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "sanctuary",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0893",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "tenure",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1250",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "demographic",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1251",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "showcase",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1252",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "velocity",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1164",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "aerial",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0020",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "albeit",
+  "pos": "conj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1253",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "humanitarian",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0499",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "advocacy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1254",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "aftermath",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0024",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "arguably",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1255",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "pharmaceutical",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0740",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "stern",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0990",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "embedded",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1256",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "leverage",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1257",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "metric",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0632",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "proximity",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0793",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "tribunal",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1122",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "problematic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1258",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "renaissance",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0842",
+  "day": 3,
+  "hday": 3
+ },
+ {
+  "word": "repeal",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1259",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "saga",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1260",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "fringe",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0422",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "logistics",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1261",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "mindset",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1262",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "taxpayer",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1045",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "arbitrary",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "L8",
+  "gsat": 0,
+  "id": "L7-0060",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "autonomous",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0077",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "censorship",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1263",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "genesis",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1264",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "levy",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "L10",
+  "gsat": 0,
+  "id": "L7-0581",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "niche",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1265",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "proposition",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0787",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "therapeutic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1266",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "atmospheric",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1267",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "synthesis",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1020",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "critique",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1268",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "differential",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1269",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "gateway",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1270",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "imagery",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1271",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "startup",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1272",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "wholly",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1273",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "compression",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1274",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "decree",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0281",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "guru",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1275",
+  "day": 4,
+  "hday": 4
+ },
+ {
+  "word": "marketplace",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1276",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "methodology",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1277",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "slate",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0948",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "obesity",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1279",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "respiratory",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1280",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "retention",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0862",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "predominantly",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0769",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "righteous",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1281",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "vicinity",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1171",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "amendment",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1282",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "apparatus",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0054",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "bliss",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1283",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "buffer",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0148",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "foremost",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0418",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "metabolism",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1284",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "parody",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1285",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "phantom",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1286",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "prevalent",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0775",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "traction",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1287",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "turnover",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1133",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "variant",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1288",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "fortress",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1289",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "incumbent",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0513",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "maternal",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1290",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "dub",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0328",
+  "day": 5,
+  "hday": 5
+ },
+ {
+  "word": "memoir",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1291",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "pathway",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1292",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "registry",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1293",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "activate",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0010",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "behold",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1294",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "billionaire",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1295",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "catalyst",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1296",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "dementia",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1297",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "horrific",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1298",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "spatial",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0966",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "forensic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1300",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "credentials",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1301",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "seizure",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1302",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "storyline",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1303",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "systemic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1304",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "inflammation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1305",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "pact",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0708",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "paramount",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1306",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "paranoid",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1307",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "proxy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1308",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "quantitative",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0803",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "termination",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1053",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "artifacts",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1309",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "empathy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1310",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "enact",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0353",
+  "day": 6,
+  "hday": 6
+ },
+ {
+  "word": "ensemble",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1311",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "onset",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1312",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "persecution",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1313",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "volatile",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1178",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "apocalypse",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1314",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "consolidation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1315",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "linguistic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1316",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "recurring",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1317",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "template",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1318",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "akin",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1319",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "baseline",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1320",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "chronicle",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1321",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "creed",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1322",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "dietary",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1323",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "hustle",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1324",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "vulnerability",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1325",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "wrath",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1326",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "allegiance",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1327",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "contingent",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0234",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "entirety",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1328",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "exodus",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1329",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "fallout",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1330",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "invasive",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1331",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "persona",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1332",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "stigma",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1333",
+  "day": 7,
+  "hday": 7
+ },
+ {
+  "word": "communal",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0209",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "consortium",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0224",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "efficacy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1334",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "impaired",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1335",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "pandemic",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1336",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "procurement",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1337",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "sensory",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1338",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "terminology",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1054",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "turnout",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1339",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "vengeance",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1340",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "activism",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1341",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "advent",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0017",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "focal",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1342",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "inaugural",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1343",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "malicious",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1344",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "partition",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0720",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "proprietary",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1345",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "protagonist",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1346",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "sane",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0895",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "susceptible",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1011",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "verge",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1168",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "vibrant",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1347",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "absorption",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1348",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "backlash",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1349",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "collateral",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1350",
+  "day": 8,
+  "hday": 8
+ },
+ {
+  "word": "crossover",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1351",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "demise",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0288",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "dire",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1352",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "dominion",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1353",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "novelty",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0681",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "peripheral",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1354",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "prevalence",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1355",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "saturated",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1356",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "tangible",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1357",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "derivative",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1358",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "inception",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1359",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "manifesto",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0617",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "negligence",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1360",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "nexus",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1361",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "numerical",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0683",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "obsolete",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1362",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "resonance",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0855",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "satire",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1363",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "standpoint",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0979",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "terminate",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "L8",
+  "gsat": 0,
+  "id": "L7-1052",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "withstand",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1201",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "deficiency",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0283",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "deport",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1364",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "electorate",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0342",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "erosion",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0369",
+  "day": 9,
+  "hday": 9
+ },
+ {
+  "word": "plausible",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0751",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "precipitation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1365",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "quarantine",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1366",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "query",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0812",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "rift",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1367",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "standardized",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1368",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "supremacy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1369",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "amnesty",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0045",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "crooked",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0260",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "distorted",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1370",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "legitimacy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1371",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "periodic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "L1",
+  "gsat": 1,
+  "id": "L7-0733",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "refrain",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0831",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "rite",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0873",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "temporal",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1372",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "ambient",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1373",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "conceptual",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1374",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "demolition",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1375",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "empirical",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "L7",
+  "gsat": 1,
+  "id": "L7-0352",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "feud",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1376",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "mantle",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1377",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "nostalgia",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1378",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "restructuring",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1379",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "sabotage",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1380",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "sanctioned",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1381",
+  "day": 10,
+  "hday": 10
+ },
+ {
+  "word": "sarcasm",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1382",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "tally",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1031",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "vile",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1383",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "affinity",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1384",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "famine",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0389",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "homage",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1385",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "infringement",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1386",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "onwards",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1387",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "paradigm",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1388",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "perpetual",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0736",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "physiology",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0743",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "plateau",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0750",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "proliferation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1389",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "remembrance",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1390",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "stint",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1391",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "trajectory",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1392",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "underrated",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1393",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "utmost",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1160",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "benchmark",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1394",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "bloc",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0112",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "caste",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1395",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "cerebral",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1396",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "cinematic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1397",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "degradation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1398",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "equilibrium",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0367",
+  "day": 11,
+  "hday": 11
+ },
+ {
+  "word": "nominal",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0676",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "pertain",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1399",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "prolific",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1400",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "sarcastic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1401",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "sinister",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0943",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "authoritarian",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1402",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "avail",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0078",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "commence",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "L9",
+  "gsat": 0,
+  "id": "L7-0206",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "compatibility",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1403",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "duplicate",
+  "pos": "v./n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0329",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "exposition",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0379",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "humility",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1404",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "impeachment",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1405",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "marital",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1406",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "multitude",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0654",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "regulators",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1407",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "societal",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1408",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "surreal",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1409",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "uphold",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1410",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "backdrop",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1411",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "constituent",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0228",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "emblem",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1412",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "influx",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1413",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "liaison",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1414",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "mosaic",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1415",
+  "day": 12,
+  "hday": 12
+ },
+ {
+  "word": "resilience",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1416",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "adhere",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0012",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "blockade",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0113",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "flux",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1417",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "hassle",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1418",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "intercept",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1419",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "parameter",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "L4",
+  "gsat": 0,
+  "id": "L7-0715",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "secrecy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0905",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "connectivity",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1420",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "craving",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1421",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "discrete",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "L5",
+  "gsat": 0,
+  "id": "L7-0303",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "eminent",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1422",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "encryption",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1423",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "repetitive",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1424",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "savvy",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1425",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "stakeholder",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1426",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "curator",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1427",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "detrimental",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1428",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "distortion",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1429",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "garner",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1430",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "impairment",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1431",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "intricate",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0543",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "lore",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1432",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "meltdown",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1433",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "obstruction",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1434",
+  "day": 13,
+  "hday": 13
+ },
+ {
+  "word": "odyssey",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1435",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "plaintiff",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1436",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "rampant",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1437",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "replicate",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1438",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "retaliation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1439",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "safeguard",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0889",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "turbulence",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1440",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "academia",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1441",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "accreditation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1442",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "admittedly",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1443",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "aforementioned",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1444",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "clarification",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1445",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "covert",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1446",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "dealings",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1447",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "deferred",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1448",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "empowerment",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1449",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "ensuing",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1450",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "flair",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1451",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "lax",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1452",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "menace",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0629",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "mitigate",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1453",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "optimum",
+  "pos": "adj.",
+  "gept_note": "= optimal",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0695",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "physiological",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0742",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "prominence",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1454",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "runaway",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1455",
+  "day": 14,
+  "hday": 14
+ },
+ {
+  "word": "hoax",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1456",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "maneuver",
+  "pos": "v./n.",
+  "gept_note": "= manoeuvre (British English)",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0616",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "quirky",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1457",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "rationale",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1458",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "residue",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1459",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "tandem",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1460",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "vanguard",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1461",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "vulgar",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1181",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "watershed",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1462",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "alleviate",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0036",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "anarchy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1463",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "aura",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1464",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "bilingual",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1465",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "dependency",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1466",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "dysfunction",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1467",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "fauna",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1468",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "fidelity",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0397",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "footprint",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1469",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "forefront",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1470",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "jeopardy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1471",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "mediocre",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1472",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "overrated",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1473",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "stricken",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1474",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "truce",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1127",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "tyranny",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1135",
+  "day": 15,
+  "hday": 15
+ },
+ {
+  "word": "wellbeing",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1475",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "accessibility",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1476",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "benign",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1477",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "empower",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1478",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "fabricated",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1479",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "perennial",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0732",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "remnants",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1480",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "repression",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0851",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "trustworthy",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1481",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "ancestry",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1482",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "augmented",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1483",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "avid",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1484",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "bland",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0108",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "correlated",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1485",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "decency",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1486",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "dispersed",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1487",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "havoc",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1489",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "knowingly",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1490",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "mantra",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1491",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "nuisance",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0682",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "obligated",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1492",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "pivot",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1493",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "resilient",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1494",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "toxins",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1495",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "embark",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0348",
+  "day": 16,
+  "hday": 16
+ },
+ {
+  "word": "astronomical",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1496",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "coincide",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "L9",
+  "gsat": 0,
+  "id": "L7-0200",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "commemorate",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0205",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "concurrent",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1497",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "expectancy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1498",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "grassroots",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1499",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "hereditary",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1500",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "hue",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1501",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "lapse",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1502",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "myriad",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1503",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "noteworthy",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1504",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "pragmatic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1505",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "revoke",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1506",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "simulated",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1507",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "tariff",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1036",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "blockbuster",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1508",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "charismatic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1509",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "confiscate",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1510",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "crossroads",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1511",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "hysterical",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0502",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "notwithstanding",
+  "pos": "prep./adv.",
+  "gept_note": "",
+  "awl": "L10",
+  "gsat": 0,
+  "id": "L7-0680",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "placebo",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1512",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "retrospective",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0866",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "terrestrial",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1057",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "aggravated",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1513",
+  "day": 17,
+  "hday": 17
+ },
+ {
+  "word": "anomaly",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1514",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "biodiversity",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1515",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "cascade",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1516",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "centralized",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1517",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "consolidate",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0223",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "crave",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1518",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "denounce",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1519",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "diluted",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1520",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "elusive",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1521",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "existential",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1522",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "fluctuations",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1523",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "grumpy",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1524",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "guise",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1525",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "immersion",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1526",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "intrinsic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "L10",
+  "gsat": 0,
+  "id": "L7-0544",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "irresistible",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0550",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "relegate",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1527",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "taboo",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1024",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "turbulent",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1132",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "unleash",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1528",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "appalling",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0053",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "convergence",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1529",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "discriminatory",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1530",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "forcibly",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1531",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "globalization",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1532",
+  "day": 18,
+  "hday": 18
+ },
+ {
+  "word": "groundbreaking",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1533",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "implicate",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1534",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "lineage",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1535",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "onward",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1536",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "plight",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0752",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "smear",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1537",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "suffice",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1538",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "astounding",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1539",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "blatant",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1540",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "boon",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1541",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "candid",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1542",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "entrust",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1543",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "fatalities",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1544",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "festivities",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1545",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "glitch",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1546",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "heed",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0480",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "mayhem",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1547",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "nostalgic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1548",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "pinnacle",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1549",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "qualitative",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "L9",
+  "gsat": 0,
+  "id": "L7-0801",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "sham",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1550",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "variance",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1551",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "workload",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1552",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "contingency",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1553",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "curate",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1554",
+  "day": 19,
+  "hday": 19
+ },
+ {
+  "word": "duly",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1555",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "frenzy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1556",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "inadvertently",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1557",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "invincible",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1558",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "precursor",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1559",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "proponents",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1560",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "provocative",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0791",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "rubble",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1561",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "simulate",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "L7",
+  "gsat": 0,
+  "id": "L7-0941",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "viability",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1562",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "ancestral",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1563",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "apocalyptic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1564",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "appraisal",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0056",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "bleak",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0110",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "bogus",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1565",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "deterioration",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0294",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "horrendous",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1566",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "mundane",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1567",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "poised",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0757",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "repertoire",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0847",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "sanction",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1568",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "stringent",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1569",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "upbringing",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1156",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "bigotry",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1570",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "compliant",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1571",
+  "day": 20,
+  "hday": 20
+ },
+ {
+  "word": "continuum",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1572",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "denote",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1573",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "devoid",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1574",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "disparity",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1575",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "facade",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1576",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "haze",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1577",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "livelihood",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1578",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "misguided",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1579",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "paranoia",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1580",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "persecute",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1581",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "psyche",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1582",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "ubiquitous",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1583",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "visionary",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1584",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "agile",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1585",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "artifact",
+  "pos": "n.",
+  "gept_note": "=artefact",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0065",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "austerity",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1586",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "constrained",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1587",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "dormant",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1588",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "emulate",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1589",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "encompass",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1590",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "endowed",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1591",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "eviction",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1592",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "immersed",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1593",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "proactive",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1594",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "prudent",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1595",
+  "day": 21,
+  "hday": 21
+ },
+ {
+  "word": "reputable",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1596",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "substantive",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1597",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "authoritative",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "L1",
+  "gsat": 0,
+  "id": "L7-0076",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "chronological",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1598",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "cohort",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1599",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "culprit",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1600",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "daunting",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1601",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "deviation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1602",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "diffusion",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1603",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "entrepreneurial",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1604",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "etiquette",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1605",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "extravagant",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0384",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "heartfelt",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1606",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "localized",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1607",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "motif",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1608",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "newcomer",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1609",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "ominous",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1610",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "strife",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1611",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "traverse",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1115",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "anonymity",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1612",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "brilliance",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1613",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "cornerstone",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1614",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "evade",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1615",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "futile",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1616",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "grievances",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1617",
+  "day": 22,
+  "hday": 22
+ },
+ {
+  "word": "inhibition",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0524",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "intermittent",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0542",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "negligible",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0663",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "pervasive",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1618",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "predatory",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1619",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "punitive",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1620",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "repercussions",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1621",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "stamina",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1622",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "utopia",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1623",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "confer",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1624",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "divergent",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1625",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "exemplary",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1626",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "expansive",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1627",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "incremental",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1628",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "obnoxious",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1629",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "retribution",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1630",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "tainted",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1631",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "variability",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1632",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "affluent",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1633",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "anguish",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1634",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "arid",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1635",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "colossal",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1636",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "decidedly",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1637",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "delusion",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1638",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "eclectic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1639",
+  "day": 23,
+  "hday": 23
+ },
+ {
+  "word": "ecstatic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0335",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "endemic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1640",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "entail",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1641",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "hallmark",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1642",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "immaculate",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1643",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "improvised",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1644",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "lifespan",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1645",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "opaque",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0692",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "rustic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1646",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "subdued",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1647",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "transient",
+  "pos": "adj./n.",
+  "gept_note": "= transitory",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1113",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "wretched",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1209",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "anecdote",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1648",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "archaic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1649",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "baffled",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1650",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "censor",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1651",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "cosmopolitan",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0247",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "equitable",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1652",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "hefty",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1653",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "pertinent",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0739",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "satirical",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1654",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "sparse",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1655",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "temperament",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1050",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "tyrant",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1136",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "agitated",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1657",
+  "day": 24,
+  "hday": 24
+ },
+ {
+  "word": "conjecture",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1658",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "conspicuous",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0225",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "craze",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1659",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "degrading",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1660",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "escalate",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0372",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "exceedingly",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0374",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "frontline",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1661",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "ignite",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0504",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "impoverished",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1662",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "ingenious",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0520",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "ostensibly",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1663",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "outspoken",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1664",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "phony",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1665",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "pinpoint",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1666",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "prowess",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1667",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "revert",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1668",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "vie",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1669",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "adherence",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1670",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "benevolent",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1671",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "borderline",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1672",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "capitalize",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1673",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "charisma",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1674",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "cognition",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1675",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "coveted",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1676",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "devout",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1677",
+  "day": 25,
+  "hday": 25
+ },
+ {
+  "word": "disproportionate",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1678",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "divisive",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1679",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "embody",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1680",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "ensue",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1681",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "erratic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1682",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "folly",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1683",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "foreseeable",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1684",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "hindsight",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1685",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "inhibit",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "L6",
+  "gsat": 0,
+  "id": "L7-0522",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "loom",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0601",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "ludicrous",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1686",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "malice",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1687",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "marginalized",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1688",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "nemesis",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1689",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "revered",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1690",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "slander",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1691",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "sleek",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1692",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "socioeconomic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1693",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "undeniable",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1694",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "vigilant",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1695",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "adept",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1696",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "deficient",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0284",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "deterrent",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1697",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "disdain",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1698",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "eerie",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1699",
+  "day": 26,
+  "hday": 26
+ },
+ {
+  "word": "exponential",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1700",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "farce",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1701",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "grudge",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1702",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "hectic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1703",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "holistic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1704",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "intrusive",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1705",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "invoke",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1706",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "negligent",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1707",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "optimize",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1708",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "pathogens",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1709",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "precedence",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1710",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "pristine",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1711",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "uncanny",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1712",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "ethos",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1713",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "oblivion",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1714",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "receptive",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1715",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "relish",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0839",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "reversible",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1716",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "simplistic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1717",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "treacherous",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1116",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "untold",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1718",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "uplifting",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1719",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "abnormality",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1720",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "bolster",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0119",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "cohesive",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1721",
+  "day": 27,
+  "hday": 27
+ },
+ {
+  "word": "contentious",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1722",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "degraded",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1723",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "dismantle",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1724",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "embodiment",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1725",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "entrenched",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1726",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "irregularities",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1727",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "labyrinth",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1728",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "oblivious",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1729",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "overt",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0703",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "resurgence",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1730",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "smug",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1731",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "stagnant",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1732",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "valiant",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1161",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "commend",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1733",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "conclusive",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1734",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "disperse",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0308",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "fiasco",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1735",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "meddling",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1736",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "periphery",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1737",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "polarized",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1738",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "prelude",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1739",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "remnant",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0841",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "senate",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0913",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "blog",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1740",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "buddy",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1741",
+  "day": 28,
+  "hday": 28
+ },
+ {
+  "word": "dean",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1742",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "lyrics",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1743",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "federation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "L6",
+  "gsat": 0,
+  "id": "L7-0392",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "alpha",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1744",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "naval",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1745",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "arc",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0061",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "backup",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1746",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "hood",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0494",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "beta",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1747",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "ram",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1748",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "grid",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1749",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "parliamentary",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0717",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "vintage",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1174",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "tattoo",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1040",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "valve",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1162",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "delta",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1750",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "electoral",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0341",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "ace",
+  "pos": "n./adj./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0007",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "artwork",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1751",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "belly",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1752",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "fig",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1753",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "ore",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0696",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "setup",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1754",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "duo",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1755",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "optical",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0694",
+  "day": 29,
+  "hday": 29
+ },
+ {
+  "word": "quantum",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0804",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "reed",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1756",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "demon",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1757",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "hull",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0498",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "streak",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0995",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "comeback",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0203",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "hack",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0462",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "bust",
+  "pos": "n./v./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0152",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "finale",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1758",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "Arctic",
+  "pos": "adj./n.",
+  "gept_note": "= arctic",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0062",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "vampire",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1759",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "mercury",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0630",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "platinum",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1760",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "voltage",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1180",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "den",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1761",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "drone",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1762",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "holdings",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1763",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "silicon",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0938",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "vinyl",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1175",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "cylinder",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0271",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "vector",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1764",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "acoustic",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0008",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "ruby",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0880",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "sequel",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1765",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "wade",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1182",
+  "day": 30,
+  "hday": 30
+ },
+ {
+  "word": "amber",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1766",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "autism",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1767",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "clan",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0187",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "configuration",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0220",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "rankings",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1768",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "sprint",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0974",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "tab",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1769",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "depot",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1770",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "plasma",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1771",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "vegan",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1772",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "grove",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0453",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "trio",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1123",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "vibe",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1773",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "zombie",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1774",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "sonic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1775",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "soundtrack",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0965",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "runway",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1776",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "subsidiary",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "L6",
+  "gsat": 0,
+  "id": "L7-1004",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "catalog",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1777",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "plaza",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1778",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "shaft",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0923",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "vault",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1779",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "alumni",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1780",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "module",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1781",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "mosque",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0645",
+  "day": 31,
+  "hday": 31
+ },
+ {
+  "word": "moss",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0646",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "rogue",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1782",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "clutch",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0195",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "node",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1783",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "billboard",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1784",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "forehead",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1785",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "gem",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1786",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "marsh",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0621",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "psychiatric",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0795",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "granite",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1787",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "handbook",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0466",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "hardy",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0471",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "judiciary",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0560",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "lime",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0587",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "rig",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0869",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "stunt",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0999",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "uranium",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1158",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "bracket",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0131",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "cardiac",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1788",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "gel",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0431",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "teammate",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1046",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "ramp",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1789",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "sage",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1790",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "toddler",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1085",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "bibliography",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0101",
+  "day": 32,
+  "hday": 32
+ },
+ {
+  "word": "congregation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1791",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "electron",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0343",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "enzyme",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0362",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "geological",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1792",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "membrane",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1793",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "metallic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0631",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "dioxide",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1794",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "insulin",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1795",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "roommate",
+  "pos": "n.",
+  "gept_note": "= room-mate",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0876",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "altar",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1796",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "atlas",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1797",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "filthy",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1798",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "font",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1799",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "tutorial",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1800",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "vent",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1166",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "axe",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1801",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "hearings",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1803",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "raven",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1804",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "receptor",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1805",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "cosmic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0246",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "daisy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1806",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "fixture",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0403",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "lightweight",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0586",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "notch",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1807",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "queue",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1808",
+  "day": 33,
+  "hday": 33
+ },
+ {
+  "word": "tractor",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1098",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "analytics",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1809",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "antenna",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0049",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "drainage",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0323",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "floral",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1810",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "mold",
+  "pos": "n./v.",
+  "gept_note": "= mould (British English)",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0642",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "prop",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0783",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "dice",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1811",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "foil",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0414",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "geology",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0433",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "iris",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1812",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "neural",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1813",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "nitrogen",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0675",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "rover",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1814",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "statutory",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0987",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "stellar",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1815",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "teachings",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1816",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "twitch",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1817",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "ark",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1818",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "enlist",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1819",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "glucose",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1820",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "halo",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1821",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "limestone",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1822",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "mesh",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1823",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "mortar",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0644",
+  "day": 34,
+  "hday": 34
+ },
+ {
+  "word": "veterinary",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1824",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "auxiliary",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1825",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "beacon",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1826",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "bounty",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1827",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "clergy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1828",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "coma",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1829",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "falcon",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1830",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "groove",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0451",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "offline",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1831",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "palette",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1832",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "serum",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1833",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "aerospace",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0021",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "analog",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1834",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "arcade",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1835",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "aurora",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1836",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "bacterial",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1837",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "coil",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0199",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "lava",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0574",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "null",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1839",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "retro",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1840",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "shrine",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0932",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "apparel",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1841",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "hydraulic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1842",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "inflammatory",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1843",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "pixel",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1844",
+  "day": 35,
+  "hday": 35
+ },
+ {
+  "word": "verb",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1845",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "accredited",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1846",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "apex",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1847",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "boulder",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1848",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "calf",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0157",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "convoy",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0239",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "cork",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0241",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "cubic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0267",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "infrared",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1849",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "neuron",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1850",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "observatory",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1851",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "pod",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1852",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "prophecy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1853",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "slack",
+  "pos": "adj./v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0947",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "slick",
+  "pos": "n./v./adj/adv",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0951",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "theorem",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1854",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "tract",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1097",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "vista",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1855",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "vogue",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1176",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "cinnamon",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1856",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "crisp",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1857",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "crust",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0266",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "dissertation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1858",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "flora",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1859",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "genome",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1860",
+  "day": 36,
+  "hday": 36
+ },
+ {
+  "word": "gravel",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1861",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "highland",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1862",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "millennium",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1863",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "oracle",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1864",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "prairie",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0765",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "prank",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1865",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "quartz",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0810",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "residency",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1866",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "trench",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1120",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "trousers",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1867",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "aide",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0031",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "avatar",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1868",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "broadband",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1869",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "constituency",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0227",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "eldest",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1870",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "forestry",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1871",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "irrigation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0552",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "midway",
+  "pos": "adv./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1872",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "plaque",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1873",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "shin",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1874",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "takeover",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1030",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "titan",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1875",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "willow",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1876",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "archaeological",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1877",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "cardiovascular",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1878",
+  "day": 37,
+  "hday": 37
+ },
+ {
+  "word": "chic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1879",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "courier",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0252",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "ignition",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1880",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "obese",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1881",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "perimeter",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1882",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "pulp",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1883",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "reel",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0829",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "theatrical",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1062",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "airborne",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1884",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "dent",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1885",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "gala",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1886",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "insulation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1887",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "mole",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1888",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "rant",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1889",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "replica",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1890",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "yeast",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1212",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "blockchain",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1891",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "chartered",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1892",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "creditors",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1893",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "hare",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1894",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "maternity",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1895",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "nerd",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1896",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "optimization",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1897",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "oxide",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0704",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "anthropology",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1898",
+  "day": 38,
+  "hday": 38
+ },
+ {
+  "word": "artery",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0064",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "blackberry",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1899",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "caliber",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1900",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "crest",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1901",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "duel",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1902",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "elf",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1903",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "fuzzy",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1904",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "gothic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1905",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "graffiti",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1906",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "hamlet",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1907",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "helm",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1908",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "malaria",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0615",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "maze",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1909",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "monastery",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1910",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "mutations",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1911",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "optic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1912",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "panther",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1913",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "woodland",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1203",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "zinc",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1217",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "baton",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1914",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "brew",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0136",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "compartment",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0210",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "cove",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1915",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "dummy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1916",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "expo",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1917",
+  "day": 39,
+  "hday": 39
+ },
+ {
+  "word": "flank",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0404",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "flare",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0406",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "kitten",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1918",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "lever",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0580",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "mileage",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0633",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "municipalities",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1919",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "mutant",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1920",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "neon",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0665",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "polymer",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1921",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "pup",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1922",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "scarlet",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1923",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "smack",
+  "pos": "v./n./adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0953",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "atop",
+  "pos": "prep.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1924",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "cache",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1925",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "flick",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0407",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "gag",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1926",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "laurel",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1927",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "lyric",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0609",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "podium",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1928",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "safari",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0888",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "soy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1929",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "tar",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1034",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "turbine",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1131",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "warp",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1930",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "alpine",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1931",
+  "day": 40,
+  "hday": 40
+ },
+ {
+  "word": "aquatic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1932",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "bandwidth",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1933",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "bipolar",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1934",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "bladder",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1935",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "caravan",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1936",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "compressed",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1937",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "furnace",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0429",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "gale",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1938",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "gluten",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1939",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "mascot",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1940",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "metabolic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1941",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "pavilion",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1942",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "perks",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1943",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "savannah",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1944",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "shutdown",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1945",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "wedge",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1191",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "alloy",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0038",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "arthritis",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1946",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "beaver",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1947",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "crank",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1948",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "dispatch",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1949",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "geek",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1950",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "hymn",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0501",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "lookout",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1951",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "moose",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1952",
+  "day": 41,
+  "hday": 41
+ },
+ {
+  "word": "noun",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1953",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "rotary",
+  "pos": "adj.",
+  "gept_note": "= rotatory",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0877",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "simulator",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1954",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "symposium",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1015",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "binge",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1955",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "calculus",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1956",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "cellar",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0170",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "cockpit",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0197",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "colon",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1957",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "crimson",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1958",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "emerald",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1959",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "gymnastics",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1960",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "mare",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0618",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "mystic",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1961",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "ordinance",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1962",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "quarry",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1963",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "sap",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1964",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "ventilation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1965",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "yarn",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1211",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "buff",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1966",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "fluffy",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1967",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "lumber",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0604",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "nanny",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0658",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "poppy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1968",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "abdominal",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1969",
+  "day": 42,
+  "hday": 42
+ },
+ {
+  "word": "blackout",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1970",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "bluff",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1971",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "charcoal",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0175",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "cheesy",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1972",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "citrus",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1973",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "clad",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1974",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "condolences",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1975",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "duct",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1976",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "electromagnetic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1977",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "kernel",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0563",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "larva",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1978",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "potassium",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1979",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "swipe",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1980",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "tuberculosis",
+  "pos": "n.",
+  "gept_note": "= TB",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1129",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "circa",
+  "pos": "prep.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1981",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "citation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1982",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "cloak",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1983",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "combustion",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1984",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "crescent",
+  "pos": "n./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1985",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "deportation",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1986",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "dungeon",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1987",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "fiery",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1988",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "goofy",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1989",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "hog",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1990",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "inauguration",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1991",
+  "day": 43,
+  "hday": 43
+ },
+ {
+  "word": "mummy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1992",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "rhino",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-1993",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "sandstone",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1994",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "venom",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1995",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "abdomen",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0002",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "Antarctic",
+  "pos": "adj./n.",
+  "gept_note": "= antarctic",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0048",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "antibodies",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1996",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "asteroid",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1997",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "chemotherapy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1998",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "concussion",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1999",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "consulate",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2000",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "flop",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0410",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "graveyard",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2001",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "lithium",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2002",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "planetary",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2003",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "processor",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2004",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "schizophrenia",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2005",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "spree",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2006",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "faux",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2007",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "giveaway",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2008",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "mash",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0623",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "meteor",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2009",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "ministerial",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0638",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "onboard",
+  "pos": "adj./adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2010",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "pun",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2011",
+  "day": 44,
+  "hday": 44
+ },
+ {
+  "word": "sewage",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2012",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "titanium",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2013",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "algae",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-2014",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "asbestos",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2015",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "bearings",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2016",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "boutique",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2017",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "hazel",
+  "pos": "adj./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2018",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "inscription",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2019",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "methane",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2020",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "nausea",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-2021",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "neurological",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2022",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "pastoral",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2023",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "quartet",
+  "pos": "n.",
+  "gept_note": "= quartette",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0809",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "robotic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2024",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "screenplay",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2025",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "seismic",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2026",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "sideways",
+  "pos": "adv./adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-0936",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "stash",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2027",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "unicorn",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2028",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "welding",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2029",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "asphalt",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 1,
+  "id": "L7-2030",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "blizzard",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0111",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "brawl",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2031",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "celestial",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2032",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "fungus",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2033",
+  "day": 45,
+  "hday": 45
+ },
+ {
+  "word": "locality",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2034",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "lurk",
+  "pos": "v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2035",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "marrow",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2036",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "numb",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2037",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "pawn",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2038",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "pediatric",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2039",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "plaster",
+  "pos": "n./v.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0749",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "recess",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2040",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "runoff",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2041",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "spooky",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2042",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "stealth",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2043",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "syntax",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1019",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "tad",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2044",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "tertiary",
+  "pos": "adj.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-1059",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "thyroid",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2045",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "adrenaline",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2046",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "ashore",
+  "pos": "adv.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2047",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "canopy",
+  "pos": "n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-2048",
+  "day": 46,
+  "hday": 46
+ },
+ {
+  "word": "chuckle",
+  "pos": "v./n.",
+  "gept_note": "",
+  "awl": "",
+  "gsat": 0,
+  "id": "L7-0184",
+  "day": 46,
+  "hday": 46
+ }
+]

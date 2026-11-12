@@ -1,0 +1,4069 @@
+[
+ {
+  "word": "following",
+  "pos": "adj./prep./n.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115
+  ],
+  "count": 68,
+  "id": "L0-0001",
+  "day": 1
+ },
+ {
+  "word": "used",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115
+  ],
+  "count": 50,
+  "id": "L0-0002",
+  "day": 1
+ },
+ {
+  "word": "thus",
+  "pos": "adv.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115
+  ],
+  "count": 25,
+  "id": "L0-0003",
+  "day": 1
+ },
+ {
+  "word": "feature",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115
+  ],
+  "count": 20,
+  "id": "L0-0004",
+  "day": 1
+ },
+ {
+  "word": "found",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   115
+  ],
+  "count": 28,
+  "id": "L0-0005",
+  "day": 1
+ },
+ {
+  "word": "contain",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114
+  ],
+  "count": 18,
+  "id": "L0-0006",
+  "day": 1
+ },
+ {
+  "word": "material",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108,
+   109,
+   111,
+   112,
+   113,
+   114,
+   115
+  ],
+  "count": 17,
+  "id": "L0-0007",
+  "day": 1
+ },
+ {
+  "word": "chemical",
+  "pos": "adj./n.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   109,
+   110,
+   111,
+   113,
+   115
+  ],
+  "count": 14,
+  "id": "L0-0008",
+  "day": 1
+ },
+ {
+  "word": "effect",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   114
+  ],
+  "count": 12,
+  "id": "L0-0009",
+  "day": 1
+ },
+ {
+  "word": "encourage(ment)",
+  "pos": "v./(n.)",
+  "ceec": 2,
+  "years": [
+   107,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114
+  ],
+  "count": 12,
+  "id": "L0-0010",
+  "day": 1
+ },
+ {
+  "word": "ability",
+  "pos": "n.",
+  "ceec": 1,
+  "years": [
+   107,
+   109,
+   110,
+   111,
+   112,
+   114,
+   115
+  ],
+  "count": 10,
+  "id": "L0-0011",
+  "day": 1
+ },
+ {
+  "word": "brain",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   111,
+   112,
+   114,
+   115
+  ],
+  "count": 17,
+  "id": "L0-0012",
+  "day": 1
+ },
+ {
+  "word": "author",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   109,
+   111,
+   113,
+   114
+  ],
+  "count": 14,
+  "id": "L0-0013",
+  "day": 1
+ },
+ {
+  "word": "due",
+  "pos": "adj./adv./n.",
+  "ceec": 2,
+  "years": [
+   108,
+   109,
+   111,
+   112,
+   113,
+   114
+  ],
+  "count": 13,
+  "id": "L0-0014",
+  "day": 1
+ },
+ {
+  "word": "mention",
+  "pos": "v./n.",
+  "ceec": 2,
+  "years": [
+   108,
+   109,
+   110,
+   112,
+   113,
+   114
+  ],
+  "count": 11,
+  "id": "L0-0015",
+  "day": 1
+ },
+ {
+  "word": "claim",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   109,
+   111,
+   112,
+   113,
+   114
+  ],
+  "count": 10,
+  "id": "L0-0016",
+  "day": 1
+ },
+ {
+  "word": "function",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   110,
+   111,
+   114,
+   115
+  ],
+  "count": 9,
+  "id": "L0-0017",
+  "day": 1
+ },
+ {
+  "word": "image",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108,
+   109,
+   110,
+   111,
+   113,
+   114
+  ],
+  "count": 8,
+  "id": "L0-0018",
+  "day": 1
+ },
+ {
+  "word": "propose",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   108,
+   109,
+   110,
+   112,
+   113,
+   114
+  ],
+  "count": 8,
+  "id": "L0-0019",
+  "day": 1
+ },
+ {
+  "word": "manage(ment)",
+  "pos": "v./(n.)",
+  "ceec": 2,
+  "years": [
+   107,
+   109,
+   110,
+   111,
+   113,
+   114
+  ],
+  "count": 6,
+  "id": "L0-0020",
+  "day": 1
+ },
+ {
+  "word": "particular",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   109,
+   111,
+   114,
+   115
+  ],
+  "count": 6,
+  "id": "L0-0021",
+  "day": 2
+ },
+ {
+  "word": "means",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   110,
+   111,
+   112,
+   115
+  ],
+  "count": 15,
+  "id": "L0-0022",
+  "day": 2
+ },
+ {
+  "word": "disease",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   109,
+   111,
+   112
+  ],
+  "count": 14,
+  "id": "L0-0023",
+  "day": 2
+ },
+ {
+  "word": "settle(ment)",
+  "pos": "v./(n.)",
+  "ceec": 2,
+  "years": [
+   111,
+   112,
+   113,
+   114,
+   115
+  ],
+  "count": 10,
+  "id": "L0-0024",
+  "day": 2
+ },
+ {
+  "word": "unit",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   109,
+   110,
+   113,
+   114
+  ],
+  "count": 10,
+  "id": "L0-0025",
+  "day": 2
+ },
+ {
+  "word": "condition",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   109,
+   112,
+   114,
+   115
+  ],
+  "count": 9,
+  "id": "L0-0026",
+  "day": 2
+ },
+ {
+  "word": "source",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   110,
+   112,
+   113,
+   114
+  ],
+  "count": 9,
+  "id": "L0-0027",
+  "day": 2
+ },
+ {
+  "word": "further",
+  "pos": "adv./adj./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   109,
+   112,
+   114,
+   115
+  ],
+  "count": 8,
+  "id": "L0-0028",
+  "day": 2
+ },
+ {
+  "word": "organization",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   110,
+   111,
+   112,
+   114
+  ],
+  "count": 8,
+  "id": "L0-0029",
+  "day": 2
+ },
+ {
+  "word": "effective",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   107,
+   110,
+   112,
+   113,
+   115
+  ],
+  "count": 7,
+  "id": "L0-0030",
+  "day": 2
+ },
+ {
+  "word": "lower",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   109,
+   111,
+   112,
+   114,
+   115
+  ],
+  "count": 7,
+  "id": "L0-0031",
+  "day": 2
+ },
+ {
+  "word": "maintain",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   108,
+   110,
+   112,
+   113,
+   114
+  ],
+  "count": 7,
+  "id": "L0-0032",
+  "day": 2
+ },
+ {
+  "word": "medical",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   108,
+   110,
+   111,
+   112,
+   113
+  ],
+  "count": 7,
+  "id": "L0-0033",
+  "day": 2
+ },
+ {
+  "word": "pose",
+  "pos": "v./n.",
+  "ceec": 2,
+  "years": [
+   108,
+   109,
+   110,
+   112,
+   113
+  ],
+  "count": 7,
+  "id": "L0-0034",
+  "day": 2
+ },
+ {
+  "word": "addition",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   109,
+   110,
+   114
+  ],
+  "count": 6,
+  "id": "L0-0035",
+  "day": 2
+ },
+ {
+  "word": "environmental",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   107,
+   109,
+   110,
+   112,
+   113
+  ],
+  "count": 6,
+  "id": "L0-0036",
+  "day": 2
+ },
+ {
+  "word": "fashion",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   108,
+   110,
+   113,
+   114,
+   115
+  ],
+  "count": 6,
+  "id": "L0-0037",
+  "day": 2
+ },
+ {
+  "word": "self",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   109,
+   110,
+   111,
+   114,
+   115
+  ],
+  "count": 6,
+  "id": "L0-0038",
+  "day": 2
+ },
+ {
+  "word": "throughout",
+  "pos": "prep./adv.",
+  "ceec": 2,
+  "years": [
+   108,
+   110,
+   112,
+   113,
+   115
+  ],
+  "count": 6,
+  "id": "L0-0039",
+  "day": 2
+ },
+ {
+  "word": "force",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   109,
+   112,
+   115
+  ],
+  "count": 5,
+  "id": "L0-0040",
+  "day": 2
+ },
+ {
+  "word": "highly",
+  "pos": "adv.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   110,
+   112,
+   113
+  ],
+  "count": 5,
+  "id": "L0-0041",
+  "day": 3
+ },
+ {
+  "word": "industry",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   109,
+   111,
+   113,
+   114
+  ],
+  "count": 13,
+  "id": "L0-0042",
+  "day": 3
+ },
+ {
+  "word": "quality",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   109,
+   112,
+   113,
+   114
+  ],
+  "count": 11,
+  "id": "L0-0043",
+  "day": 3
+ },
+ {
+  "word": "require(ment)",
+  "pos": "v./(n.)",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   109,
+   110
+  ],
+  "count": 11,
+  "id": "L0-0044",
+  "day": 3
+ },
+ {
+  "word": "region",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   110,
+   111,
+   113
+  ],
+  "count": 8,
+  "id": "L0-0045",
+  "day": 3
+ },
+ {
+  "word": "challenge",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   109,
+   110,
+   113,
+   115
+  ],
+  "count": 7,
+  "id": "L0-0046",
+  "day": 3
+ },
+ {
+  "word": "escape",
+  "pos": "v./n.",
+  "ceec": 2,
+  "years": [
+   108,
+   111,
+   114,
+   115
+  ],
+  "count": 7,
+  "id": "L0-0047",
+  "day": 3
+ },
+ {
+  "word": "network",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   112,
+   113,
+   114,
+   115
+  ],
+  "count": 7,
+  "id": "L0-0048",
+  "day": 3
+ },
+ {
+  "word": "remove",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   107,
+   109,
+   111,
+   112
+  ],
+  "count": 7,
+  "id": "L0-0049",
+  "day": 3
+ },
+ {
+  "word": "individual",
+  "pos": "adj./n.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   112,
+   115
+  ],
+  "count": 6,
+  "id": "L0-0050",
+  "day": 3
+ },
+ {
+  "word": "official",
+  "pos": "adj./n.",
+  "ceec": 2,
+  "years": [
+   109,
+   110,
+   112,
+   115
+  ],
+  "count": 6,
+  "id": "L0-0051",
+  "day": 3
+ },
+ {
+  "word": "recent",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   108,
+   111,
+   112,
+   115
+  ],
+  "count": 6,
+  "id": "L0-0052",
+  "day": 3
+ },
+ {
+  "word": "view",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   108,
+   109,
+   110,
+   114
+  ],
+  "count": 6,
+  "id": "L0-0053",
+  "day": 3
+ },
+ {
+  "word": "advance",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   110,
+   111,
+   113,
+   115
+  ],
+  "count": 5,
+  "id": "L0-0054",
+  "day": 3
+ },
+ {
+  "word": "balance",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   109,
+   110,
+   114,
+   115
+  ],
+  "count": 5,
+  "id": "L0-0055",
+  "day": 3
+ },
+ {
+  "word": "cultural",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   108,
+   110,
+   112,
+   115
+  ],
+  "count": 5,
+  "id": "L0-0056",
+  "day": 3
+ },
+ {
+  "word": "delay",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   109,
+   110,
+   114,
+   115
+  ],
+  "count": 5,
+  "id": "L0-0057",
+  "day": 3
+ },
+ {
+  "word": "field",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108,
+   112,
+   113,
+   114
+  ],
+  "count": 5,
+  "id": "L0-0058",
+  "day": 3
+ },
+ {
+  "word": "instead",
+  "pos": "adv.",
+  "ceec": 2,
+  "years": [
+   108,
+   111,
+   113,
+   114
+  ],
+  "count": 5,
+  "id": "L0-0059",
+  "day": 3
+ },
+ {
+  "word": "length",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108,
+   111,
+   114,
+   115
+  ],
+  "count": 5,
+  "id": "L0-0060",
+  "day": 3
+ },
+ {
+  "word": "powerful",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   107,
+   110,
+   113,
+   114
+  ],
+  "count": 5,
+  "id": "L0-0061",
+  "day": 4
+ },
+ {
+  "word": "within",
+  "pos": "prep./adv.",
+  "ceec": 2,
+  "years": [
+   107,
+   110,
+   112,
+   113
+  ],
+  "count": 5,
+  "id": "L0-0062",
+  "day": 4
+ },
+ {
+  "word": "appearance",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108,
+   111,
+   113,
+   115
+  ],
+  "count": 4,
+  "id": "L0-0063",
+  "day": 4
+ },
+ {
+  "word": "complex",
+  "pos": "adj./n.",
+  "ceec": 2,
+  "years": [
+   109,
+   110,
+   113,
+   114
+  ],
+  "count": 4,
+  "id": "L0-0064",
+  "day": 4
+ },
+ {
+  "word": "figure",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   108,
+   110,
+   112,
+   113
+  ],
+  "count": 4,
+  "id": "L0-0065",
+  "day": 4
+ },
+ {
+  "word": "loss",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   109,
+   113
+  ],
+  "count": 4,
+  "id": "L0-0066",
+  "day": 4
+ },
+ {
+  "word": "phrase",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   108,
+   112,
+   114,
+   115
+  ],
+  "count": 4,
+  "id": "L0-0067",
+  "day": 4
+ },
+ {
+  "word": "range",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   108,
+   109,
+   110,
+   115
+  ],
+  "count": 4,
+  "id": "L0-0068",
+  "day": 4
+ },
+ {
+  "word": "saw",
+  "pos": "v./n.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   110,
+   114
+  ],
+  "count": 4,
+  "id": "L0-0069",
+  "day": 4
+ },
+ {
+  "word": "track",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   109,
+   110,
+   114
+  ],
+  "count": 13,
+  "id": "L0-0070",
+  "day": 4
+ },
+ {
+  "word": "painting",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   109,
+   113,
+   115
+  ],
+  "count": 10,
+  "id": "L0-0071",
+  "day": 4
+ },
+ {
+  "word": "wonder",
+  "pos": "v./n.",
+  "ceec": 2,
+  "years": [
+   113,
+   114,
+   115
+  ],
+  "count": 9,
+  "id": "L0-0072",
+  "day": 4
+ },
+ {
+  "word": "brand",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108,
+   112,
+   114
+  ],
+  "count": 7,
+  "id": "L0-0073",
+  "day": 4
+ },
+ {
+  "word": "technology",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   111,
+   113
+  ],
+  "count": 7,
+  "id": "L0-0074",
+  "day": 4
+ },
+ {
+  "word": "supply",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   110,
+   113
+  ],
+  "count": 6,
+  "id": "L0-0075",
+  "day": 4
+ },
+ {
+  "word": "birth",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108,
+   110,
+   112
+  ],
+  "count": 5,
+  "id": "L0-0076",
+  "day": 4
+ },
+ {
+  "word": "chief",
+  "pos": "adj./n.",
+  "ceec": 2,
+  "years": [
+   108,
+   110,
+   113
+  ],
+  "count": 5,
+  "id": "L0-0077",
+  "day": 4
+ },
+ {
+  "word": "clothing",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   109,
+   111,
+   113
+  ],
+  "count": 5,
+  "id": "L0-0078",
+  "day": 4
+ },
+ {
+  "word": "post",
+  "pos": "n./v./adv.",
+  "ceec": 2,
+  "years": [
+   108,
+   109,
+   112
+  ],
+  "count": 5,
+  "id": "L0-0079",
+  "day": 4
+ },
+ {
+  "word": "prove",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   110,
+   111,
+   113
+  ],
+  "count": 5,
+  "id": "L0-0080",
+  "day": 4
+ },
+ {
+  "word": "stress",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   110,
+   111,
+   115
+  ],
+  "count": 5,
+  "id": "L0-0081",
+  "day": 5
+ },
+ {
+  "word": "commercial",
+  "pos": "adj./n.",
+  "ceec": 2,
+  "years": [
+   108,
+   111,
+   115
+  ],
+  "count": 4,
+  "id": "L0-0082",
+  "day": 5
+ },
+ {
+  "word": "expression",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108,
+   111,
+   115
+  ],
+  "count": 4,
+  "id": "L0-0083",
+  "day": 5
+ },
+ {
+  "word": "instance",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   111
+  ],
+  "count": 4,
+  "id": "L0-0084",
+  "day": 5
+ },
+ {
+  "word": "mate",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   109,
+   114,
+   115
+  ],
+  "count": 4,
+  "id": "L0-0085",
+  "day": 5
+ },
+ {
+  "word": "relate",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   115
+  ],
+  "count": 4,
+  "id": "L0-0086",
+  "day": 5
+ },
+ {
+  "word": "smooth",
+  "pos": "adj./v.",
+  "ceec": 2,
+  "years": [
+   108,
+   109,
+   113
+  ],
+  "count": 4,
+  "id": "L0-0087",
+  "day": 5
+ },
+ {
+  "word": "soft",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   109,
+   110,
+   113
+  ],
+  "count": 4,
+  "id": "L0-0088",
+  "day": 5
+ },
+ {
+  "word": "task",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   109,
+   113
+  ],
+  "count": 4,
+  "id": "L0-0089",
+  "day": 5
+ },
+ {
+  "word": "trial",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   109,
+   110,
+   111
+  ],
+  "count": 4,
+  "id": "L0-0090",
+  "day": 5
+ },
+ {
+  "word": "conclude",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   109,
+   111,
+   114
+  ],
+  "count": 3,
+  "id": "L0-0091",
+  "day": 5
+ },
+ {
+  "word": "conflict",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   111,
+   113,
+   114
+  ],
+  "count": 3,
+  "id": "L0-0092",
+  "day": 5
+ },
+ {
+  "word": "connection",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   109,
+   113
+  ],
+  "count": 3,
+  "id": "L0-0093",
+  "day": 5
+ },
+ {
+  "word": "crow",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   113,
+   115
+  ],
+  "count": 3,
+  "id": "L0-0094",
+  "day": 5
+ },
+ {
+  "word": "drug",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   110,
+   111,
+   112
+  ],
+  "count": 3,
+  "id": "L0-0095",
+  "day": 5
+ },
+ {
+  "word": "favor",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   108,
+   111,
+   115
+  ],
+  "count": 3,
+  "id": "L0-0096",
+  "day": 5
+ },
+ {
+  "word": "huge",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   109,
+   113,
+   114
+  ],
+  "count": 3,
+  "id": "L0-0097",
+  "day": 5
+ },
+ {
+  "word": "indeed",
+  "pos": "adv.",
+  "ceec": 2,
+  "years": [
+   107,
+   111,
+   115
+  ],
+  "count": 3,
+  "id": "L0-0098",
+  "day": 5
+ },
+ {
+  "word": "occur",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   107,
+   109,
+   114
+  ],
+  "count": 3,
+  "id": "L0-0099",
+  "day": 5
+ },
+ {
+  "word": "participate",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   108,
+   111,
+   113
+  ],
+  "count": 3,
+  "id": "L0-0100",
+  "day": 5
+ },
+ {
+  "word": "policeman/cop",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108,
+   113,
+   114
+  ],
+  "count": 3,
+  "id": "L0-0101",
+  "day": 6
+ },
+ {
+  "word": "policy",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   110,
+   112,
+   114
+  ],
+  "count": 3,
+  "id": "L0-0102",
+  "day": 6
+ },
+ {
+  "word": "prefer",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   107,
+   108,
+   112
+  ],
+  "count": 3,
+  "id": "L0-0103",
+  "day": 6
+ },
+ {
+  "word": "regard",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   109,
+   110,
+   111
+  ],
+  "count": 3,
+  "id": "L0-0104",
+  "day": 6
+ },
+ {
+  "word": "schedule",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   110,
+   114,
+   115
+  ],
+  "count": 3,
+  "id": "L0-0105",
+  "day": 6
+ },
+ {
+  "word": "shock",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   110,
+   111,
+   113
+  ],
+  "count": 3,
+  "id": "L0-0106",
+  "day": 6
+ },
+ {
+  "word": "sort",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   111,
+   113
+  ],
+  "count": 3,
+  "id": "L0-0107",
+  "day": 6
+ },
+ {
+  "word": "standard",
+  "pos": "adj./n.",
+  "ceec": 2,
+  "years": [
+   111,
+   113,
+   115
+  ],
+  "count": 3,
+  "id": "L0-0108",
+  "day": 6
+ },
+ {
+  "word": "stretch",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   110,
+   111,
+   115
+  ],
+  "count": 3,
+  "id": "L0-0109",
+  "day": 6
+ },
+ {
+  "word": "typical",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   107,
+   111,
+   114
+  ],
+  "count": 3,
+  "id": "L0-0110",
+  "day": 6
+ },
+ {
+  "word": "melody",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   108
+  ],
+  "count": 6,
+  "id": "L0-0111",
+  "day": 6
+ },
+ {
+  "word": "steel",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   109,
+   115
+  ],
+  "count": 6,
+  "id": "L0-0112",
+  "day": 6
+ },
+ {
+  "word": "actual",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   111,
+   112
+  ],
+  "count": 4,
+  "id": "L0-0113",
+  "day": 6
+ },
+ {
+  "word": "approach",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   113,
+   114
+  ],
+  "count": 4,
+  "id": "L0-0114",
+  "day": 6
+ },
+ {
+  "word": "chain",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   114
+  ],
+  "count": 4,
+  "id": "L0-0115",
+  "day": 6
+ },
+ {
+  "word": "display",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   110,
+   114
+  ],
+  "count": 4,
+  "id": "L0-0116",
+  "day": 6
+ },
+ {
+  "word": "musical",
+  "pos": "adj./n.",
+  "ceec": 2,
+  "years": [
+   110,
+   112
+  ],
+  "count": 4,
+  "id": "L0-0117",
+  "day": 6
+ },
+ {
+  "word": "origin",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   108
+  ],
+  "count": 4,
+  "id": "L0-0118",
+  "day": 6
+ },
+ {
+  "word": "suitable",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   113,
+   114
+  ],
+  "count": 4,
+  "id": "L0-0119",
+  "day": 6
+ },
+ {
+  "word": "attempt",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   109,
+   115
+  ],
+  "count": 3,
+  "id": "L0-0120",
+  "day": 6
+ },
+ {
+  "word": "cloth",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   109,
+   111
+  ],
+  "count": 3,
+  "id": "L0-0121",
+  "day": 7
+ },
+ {
+  "word": "contact",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   108
+  ],
+  "count": 3,
+  "id": "L0-0122",
+  "day": 7
+ },
+ {
+  "word": "factor",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108,
+   115
+  ],
+  "count": 3,
+  "id": "L0-0123",
+  "day": 7
+ },
+ {
+  "word": "stage",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   111,
+   113
+  ],
+  "count": 3,
+  "id": "L0-0124",
+  "day": 7
+ },
+ {
+  "word": "stick",
+  "pos": "v./n.",
+  "ceec": 2,
+  "years": [
+   112,
+   113
+  ],
+  "count": 3,
+  "id": "L0-0125",
+  "day": 7
+ },
+ {
+  "word": "absence",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   112,
+   115
+  ],
+  "count": 2,
+  "id": "L0-0126",
+  "day": 7
+ },
+ {
+  "word": "account",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   108
+  ],
+  "count": 2,
+  "id": "L0-0127",
+  "day": 7
+ },
+ {
+  "word": "aircraft",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   110,
+   111
+  ],
+  "count": 2,
+  "id": "L0-0128",
+  "day": 7
+ },
+ {
+  "word": "apply",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   109,
+   114
+  ],
+  "count": 2,
+  "id": "L0-0129",
+  "day": 7
+ },
+ {
+  "word": "attend",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   107,
+   113
+  ],
+  "count": 2,
+  "id": "L0-0130",
+  "day": 7
+ },
+ {
+  "word": "crisis",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   109
+  ],
+  "count": 2,
+  "id": "L0-0131",
+  "day": 7
+ },
+ {
+  "word": "cycle",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   113
+  ],
+  "count": 2,
+  "id": "L0-0132",
+  "day": 7
+ },
+ {
+  "word": "detail",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   109,
+   111
+  ],
+  "count": 2,
+  "id": "L0-0133",
+  "day": 7
+ },
+ {
+  "word": "disagree(ment)",
+  "pos": "v./(n.)",
+  "ceec": 2,
+  "years": [
+   108,
+   114
+  ],
+  "count": 2,
+  "id": "L0-0134",
+  "day": 7
+ },
+ {
+  "word": "ending",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108,
+   113
+  ],
+  "count": 2,
+  "id": "L0-0135",
+  "day": 7
+ },
+ {
+  "word": "entire",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   107,
+   108
+  ],
+  "count": 2,
+  "id": "L0-0136",
+  "day": 7
+ },
+ {
+  "word": "flat",
+  "pos": "adj./adv./n.",
+  "ceec": 2,
+  "years": [
+   109,
+   112
+  ],
+  "count": 2,
+  "id": "L0-0137",
+  "day": 7
+ },
+ {
+  "word": "flow",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   114,
+   115
+  ],
+  "count": 2,
+  "id": "L0-0138",
+  "day": 7
+ },
+ {
+  "word": "forth",
+  "pos": "adv.",
+  "ceec": 2,
+  "years": [
+   113,
+   114
+  ],
+  "count": 2,
+  "id": "L0-0139",
+  "day": 7
+ },
+ {
+  "word": "growth",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   111,
+   112
+  ],
+  "count": 2,
+  "id": "L0-0140",
+  "day": 7
+ },
+ {
+  "word": "identity",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108,
+   110
+  ],
+  "count": 2,
+  "id": "L0-0141",
+  "day": 8
+ },
+ {
+  "word": "liberal",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   107,
+   108
+  ],
+  "count": 2,
+  "id": "L0-0142",
+  "day": 8
+ },
+ {
+  "word": "marriage",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107,
+   108
+  ],
+  "count": 2,
+  "id": "L0-0143",
+  "day": 8
+ },
+ {
+  "word": "media",
+  "pos": "n.",
+  "ceec": 1,
+  "years": [
+   112,
+   115
+  ],
+  "count": 2,
+  "id": "L0-0144",
+  "day": 8
+ },
+ {
+  "word": "party",
+  "pos": "n./v.",
+  "ceec": 1,
+  "years": [
+   108,
+   110
+  ],
+  "count": 2,
+  "id": "L0-0145",
+  "day": 8
+ },
+ {
+  "word": "peak",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   115
+  ],
+  "count": 2,
+  "id": "L0-0146",
+  "day": 8
+ },
+ {
+  "word": "personality",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108,
+   114
+  ],
+  "count": 2,
+  "id": "L0-0147",
+  "day": 8
+ },
+ {
+  "word": "separate",
+  "pos": "adj./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   109
+  ],
+  "count": 2,
+  "id": "L0-0148",
+  "day": 8
+ },
+ {
+  "word": "simply",
+  "pos": "adv.",
+  "ceec": 2,
+  "years": [
+   107,
+   110
+  ],
+  "count": 2,
+  "id": "L0-0149",
+  "day": 8
+ },
+ {
+  "word": "struggle",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   112,
+   115
+  ],
+  "count": 2,
+  "id": "L0-0150",
+  "day": 8
+ },
+ {
+  "word": "suppose",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   112,
+   114
+  ],
+  "count": 2,
+  "id": "L0-0151",
+  "day": 8
+ },
+ {
+  "word": "tour",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107,
+   113
+  ],
+  "count": 2,
+  "id": "L0-0152",
+  "day": 8
+ },
+ {
+  "word": "unless",
+  "pos": "conj.",
+  "ceec": 2,
+  "years": [
+   112,
+   113
+  ],
+  "count": 2,
+  "id": "L0-0153",
+  "day": 8
+ },
+ {
+  "word": "voice",
+  "pos": "n.",
+  "ceec": 1,
+  "years": [
+   107,
+   114
+  ],
+  "count": 2,
+  "id": "L0-0154",
+  "day": 8
+ },
+ {
+  "word": "whenever",
+  "pos": "conj./adv.",
+  "ceec": 2,
+  "years": [
+   108,
+   114
+  ],
+  "count": 2,
+  "id": "L0-0155",
+  "day": 8
+ },
+ {
+  "word": "port",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   109
+  ],
+  "count": 7,
+  "id": "L0-0156",
+  "day": 8
+ },
+ {
+  "word": "stair",
+  "pos": "n.",
+  "ceec": 1,
+  "years": [
+   115
+  ],
+  "count": 5,
+  "id": "L0-0157",
+  "day": 8
+ },
+ {
+  "word": "organ",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   111
+  ],
+  "count": 4,
+  "id": "L0-0158",
+  "day": 8
+ },
+ {
+  "word": "data",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   113
+  ],
+  "count": 3,
+  "id": "L0-0159",
+  "day": 8
+ },
+ {
+  "word": "discovery",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   115
+  ],
+  "count": 3,
+  "id": "L0-0160",
+  "day": 8
+ },
+ {
+  "word": "operate",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   114
+  ],
+  "count": 3,
+  "id": "L0-0161",
+  "day": 9
+ },
+ {
+  "word": "sensitive",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   114
+  ],
+  "count": 3,
+  "id": "L0-0162",
+  "day": 9
+ },
+ {
+  "word": "shame",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   108
+  ],
+  "count": 3,
+  "id": "L0-0163",
+  "day": 9
+ },
+ {
+  "word": "arrival",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   112
+  ],
+  "count": 2,
+  "id": "L0-0164",
+  "day": 9
+ },
+ {
+  "word": "battle",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   109
+  ],
+  "count": 2,
+  "id": "L0-0165",
+  "day": 9
+ },
+ {
+  "word": "billion",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   111
+  ],
+  "count": 2,
+  "id": "L0-0166",
+  "day": 9
+ },
+ {
+  "word": "bit",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108
+  ],
+  "count": 2,
+  "id": "L0-0167",
+  "day": 9
+ },
+ {
+  "word": "dancer",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   112
+  ],
+  "count": 2,
+  "id": "L0-0168",
+  "day": 9
+ },
+ {
+  "word": "director",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   114
+  ],
+  "count": 2,
+  "id": "L0-0169",
+  "day": 9
+ },
+ {
+  "word": "employee",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107
+  ],
+  "count": 2,
+  "id": "L0-0170",
+  "day": 9
+ },
+ {
+  "word": "ideal",
+  "pos": "adj./n.",
+  "ceec": 2,
+  "years": [
+   115
+  ],
+  "count": 2,
+  "id": "L0-0171",
+  "day": 9
+ },
+ {
+  "word": "military",
+  "pos": "adj./n.",
+  "ceec": 2,
+  "years": [
+   113
+  ],
+  "count": 2,
+  "id": "L0-0172",
+  "day": 9
+ },
+ {
+  "word": "press",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   109
+  ],
+  "count": 2,
+  "id": "L0-0173",
+  "day": 9
+ },
+ {
+  "word": "reality",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107
+  ],
+  "count": 2,
+  "id": "L0-0174",
+  "day": 9
+ },
+ {
+  "word": "solution",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107
+  ],
+  "count": 2,
+  "id": "L0-0175",
+  "day": 9
+ },
+ {
+  "word": "tax",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   110
+  ],
+  "count": 2,
+  "id": "L0-0176",
+  "day": 9
+ },
+ {
+  "word": "wealth",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   112
+  ],
+  "count": 2,
+  "id": "L0-0177",
+  "day": 9
+ },
+ {
+  "word": "wine",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   114
+  ],
+  "count": 2,
+  "id": "L0-0178",
+  "day": 9
+ },
+ {
+  "word": "aid",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   115
+  ],
+  "count": 1,
+  "id": "L0-0179",
+  "day": 9
+ },
+ {
+  "word": "anyway",
+  "pos": "adv.",
+  "ceec": 2,
+  "years": [
+   110
+  ],
+  "count": 1,
+  "id": "L0-0180",
+  "day": 9
+ },
+ {
+  "word": "average",
+  "pos": "adj./n./v.",
+  "ceec": 2,
+  "years": [
+   112
+  ],
+  "count": 1,
+  "id": "L0-0181",
+  "day": 10
+ },
+ {
+  "word": "basis",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   112
+  ],
+  "count": 1,
+  "id": "L0-0182",
+  "day": 10
+ },
+ {
+  "word": "belief",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107
+  ],
+  "count": 1,
+  "id": "L0-0183",
+  "day": 10
+ },
+ {
+  "word": "border",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   114
+  ],
+  "count": 1,
+  "id": "L0-0184",
+  "day": 10
+ },
+ {
+  "word": "brilliant",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   108
+  ],
+  "count": 1,
+  "id": "L0-0185",
+  "day": 10
+ },
+ {
+  "word": "burden",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   112
+  ],
+  "count": 1,
+  "id": "L0-0186",
+  "day": 10
+ },
+ {
+  "word": "capital",
+  "pos": "n./adj.",
+  "ceec": 2,
+  "years": [
+   111
+  ],
+  "count": 1,
+  "id": "L0-0187",
+  "day": 10
+ },
+ {
+  "word": "cell",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   111
+  ],
+  "count": 1,
+  "id": "L0-0188",
+  "day": 10
+ },
+ {
+  "word": "chapter",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   115
+  ],
+  "count": 1,
+  "id": "L0-0189",
+  "day": 10
+ },
+ {
+  "word": "coal",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   111
+  ],
+  "count": 1,
+  "id": "L0-0190",
+  "day": 10
+ },
+ {
+  "word": "combine",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   109
+  ],
+  "count": 1,
+  "id": "L0-0191",
+  "day": 10
+ },
+ {
+  "word": "consideration",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108
+  ],
+  "count": 1,
+  "id": "L0-0192",
+  "day": 10
+ },
+ {
+  "word": "countryside",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   113
+  ],
+  "count": 1,
+  "id": "L0-0193",
+  "day": 10
+ },
+ {
+  "word": "debt",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   112
+  ],
+  "count": 1,
+  "id": "L0-0194",
+  "day": 10
+ },
+ {
+  "word": "depth",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   114
+  ],
+  "count": 1,
+  "id": "L0-0195",
+  "day": 10
+ },
+ {
+  "word": "dove",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   111
+  ],
+  "count": 1,
+  "id": "L0-0196",
+  "day": 10
+ },
+ {
+  "word": "eastern",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   115
+  ],
+  "count": 1,
+  "id": "L0-0197",
+  "day": 10
+ },
+ {
+  "word": "electrical",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   113
+  ],
+  "count": 1,
+  "id": "L0-0198",
+  "day": 10
+ },
+ {
+  "word": "entrance",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   111
+  ],
+  "count": 1,
+  "id": "L0-0199",
+  "day": 10
+ },
+ {
+  "word": "essay",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   114
+  ],
+  "count": 1,
+  "id": "L0-0200",
+  "day": 10
+ },
+ {
+  "word": "examine",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   113
+  ],
+  "count": 1,
+  "id": "L0-0201",
+  "day": 11
+ },
+ {
+  "word": "expert",
+  "pos": "n./adj.",
+  "ceec": 2,
+  "years": [
+   108
+  ],
+  "count": 1,
+  "id": "L0-0202",
+  "day": 11
+ },
+ {
+  "word": "fate",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   110
+  ],
+  "count": 1,
+  "id": "L0-0203",
+  "day": 11
+ },
+ {
+  "word": "firm",
+  "pos": "n./adj./v./adv.",
+  "ceec": 2,
+  "years": [
+   112
+  ],
+  "count": 1,
+  "id": "L0-0204",
+  "day": 11
+ },
+ {
+  "word": "gardener",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108
+  ],
+  "count": 1,
+  "id": "L0-0205",
+  "day": 11
+ },
+ {
+  "word": "govern",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   113
+  ],
+  "count": 1,
+  "id": "L0-0206",
+  "day": 11
+ },
+ {
+  "word": "gradual",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   115
+  ],
+  "count": 1,
+  "id": "L0-0207",
+  "day": 11
+ },
+ {
+  "word": "heaven",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   112
+  ],
+  "count": 1,
+  "id": "L0-0208",
+  "day": 11
+ },
+ {
+  "word": "historical",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   108
+  ],
+  "count": 1,
+  "id": "L0-0209",
+  "day": 11
+ },
+ {
+  "word": "impressive",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   111
+  ],
+  "count": 1,
+  "id": "L0-0210",
+  "day": 11
+ },
+ {
+  "word": "introduction",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   111
+  ],
+  "count": 1,
+  "id": "L0-0211",
+  "day": 11
+ },
+ {
+  "word": "keeper",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   114
+  ],
+  "count": 1,
+  "id": "L0-0212",
+  "day": 11
+ },
+ {
+  "word": "lane",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   112
+  ],
+  "count": 1,
+  "id": "L0-0213",
+  "day": 11
+ },
+ {
+  "word": "leadership",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   110
+  ],
+  "count": 1,
+  "id": "L0-0214",
+  "day": 11
+ },
+ {
+  "word": "load",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   115
+  ],
+  "count": 1,
+  "id": "L0-0215",
+  "day": 11
+ },
+ {
+  "word": "luck",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   110
+  ],
+  "count": 1,
+  "id": "L0-0216",
+  "day": 11
+ },
+ {
+  "word": "mature",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   107
+  ],
+  "count": 1,
+  "id": "L0-0217",
+  "day": 11
+ },
+ {
+  "word": "mixture",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108
+  ],
+  "count": 1,
+  "id": "L0-0218",
+  "day": 11
+ },
+ {
+  "word": "mood",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   113
+  ],
+  "count": 1,
+  "id": "L0-0219",
+  "day": 11
+ },
+ {
+  "word": "nearby",
+  "pos": "adj./adv.",
+  "ceec": 2,
+  "years": [
+   107
+  ],
+  "count": 1,
+  "id": "L0-0220",
+  "day": 11
+ },
+ {
+  "word": "northern",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   111
+  ],
+  "count": 1,
+  "id": "L0-0221",
+  "day": 12
+ },
+ {
+  "word": "obvious",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   108
+  ],
+  "count": 1,
+  "id": "L0-0222",
+  "day": 12
+ },
+ {
+  "word": "online",
+  "pos": "adj.",
+  "ceec": 1,
+  "years": [
+   111
+  ],
+  "count": 1,
+  "id": "L0-0223",
+  "day": 12
+ },
+ {
+  "word": "operator",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   110
+  ],
+  "count": 1,
+  "id": "L0-0224",
+  "day": 12
+ },
+ {
+  "word": "per",
+  "pos": "prep.",
+  "ceec": 2,
+  "years": [
+   114
+  ],
+  "count": 1,
+  "id": "L0-0225",
+  "day": 12
+ },
+ {
+  "word": "poet",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   109
+  ],
+  "count": 1,
+  "id": "L0-0226",
+  "day": 12
+ },
+ {
+  "word": "possibility",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   115
+  ],
+  "count": 1,
+  "id": "L0-0227",
+  "day": 12
+ },
+ {
+  "word": "prayer",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   114
+  ],
+  "count": 1,
+  "id": "L0-0228",
+  "day": 12
+ },
+ {
+  "word": "pride",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   108
+  ],
+  "count": 1,
+  "id": "L0-0229",
+  "day": 12
+ },
+ {
+  "word": "protective",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   111
+  ],
+  "count": 1,
+  "id": "L0-0230",
+  "day": 12
+ },
+ {
+  "word": "rapid",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   112
+  ],
+  "count": 1,
+  "id": "L0-0231",
+  "day": 12
+ },
+ {
+  "word": "relation",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   107
+  ],
+  "count": 1,
+  "id": "L0-0232",
+  "day": 12
+ },
+ {
+  "word": "relationship",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   109
+  ],
+  "count": 1,
+  "id": "L0-0233",
+  "day": 12
+ },
+ {
+  "word": "religion",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   112
+  ],
+  "count": 1,
+  "id": "L0-0234",
+  "day": 12
+ },
+ {
+  "word": "respond",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   107
+  ],
+  "count": 1,
+  "id": "L0-0235",
+  "day": 12
+ },
+ {
+  "word": "royal",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   114
+  ],
+  "count": 1,
+  "id": "L0-0236",
+  "day": 12
+ },
+ {
+  "word": "runner",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   113
+  ],
+  "count": 1,
+  "id": "L0-0237",
+  "day": 12
+ },
+ {
+  "word": "salty",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   107
+  ],
+  "count": 1,
+  "id": "L0-0238",
+  "day": 12
+ },
+ {
+  "word": "sex",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   115
+  ],
+  "count": 1,
+  "id": "L0-0239",
+  "day": 12
+ },
+ {
+  "word": "shell",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   111
+  ],
+  "count": 1,
+  "id": "L0-0240",
+  "day": 12
+ },
+ {
+  "word": "shot",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   111
+  ],
+  "count": 1,
+  "id": "L0-0241",
+  "day": 13
+ },
+ {
+  "word": "skilled",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   115
+  ],
+  "count": 1,
+  "id": "L0-0242",
+  "day": 13
+ },
+ {
+  "word": "somewhat",
+  "pos": "adv.",
+  "ceec": 2,
+  "years": [
+   109
+  ],
+  "count": 1,
+  "id": "L0-0243",
+  "day": 13
+ },
+ {
+  "word": "soybean",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   110
+  ],
+  "count": 1,
+  "id": "L0-0244",
+  "day": 13
+ },
+ {
+  "word": "strict",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   112
+  ],
+  "count": 1,
+  "id": "L0-0245",
+  "day": 13
+ },
+ {
+  "word": "surface",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   108
+  ],
+  "count": 1,
+  "id": "L0-0246",
+  "day": 13
+ },
+ {
+  "word": "switch",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   114
+  ],
+  "count": 1,
+  "id": "L0-0247",
+  "day": 13
+ },
+ {
+  "word": "target",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   109
+  ],
+  "count": 1,
+  "id": "L0-0248",
+  "day": 13
+ },
+ {
+  "word": "text",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   114
+  ],
+  "count": 1,
+  "id": "L0-0249",
+  "day": 13
+ },
+ {
+  "word": "tissue",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   108
+  ],
+  "count": 1,
+  "id": "L0-0250",
+  "day": 13
+ },
+ {
+  "word": "weigh",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [
+   114
+  ],
+  "count": 1,
+  "id": "L0-0251",
+  "day": 13
+ },
+ {
+  "word": "western",
+  "pos": "adj./n.",
+  "ceec": 2,
+  "years": [
+   111
+  ],
+  "count": 1,
+  "id": "L0-0252",
+  "day": 13
+ },
+ {
+  "word": "whatever",
+  "pos": "adj./pron.",
+  "ceec": 2,
+  "years": [
+   112
+  ],
+  "count": 1,
+  "id": "L0-0253",
+  "day": 13
+ },
+ {
+  "word": "whisper",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [
+   107
+  ],
+  "count": 1,
+  "id": "L0-0254",
+  "day": 13
+ },
+ {
+  "word": "whom",
+  "pos": "pron.",
+  "ceec": 2,
+  "years": [
+   108
+  ],
+  "count": 1,
+  "id": "L0-0255",
+  "day": 13
+ },
+ {
+  "word": "width",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [
+   114
+  ],
+  "count": 1,
+  "id": "L0-0256",
+  "day": 13
+ },
+ {
+  "word": "willing",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   107
+  ],
+  "count": 1,
+  "id": "L0-0257",
+  "day": 13
+ },
+ {
+  "word": "wooden",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [
+   115
+  ],
+  "count": 1,
+  "id": "L0-0258",
+  "day": 13
+ },
+ {
+  "word": "worth",
+  "pos": "adj./n.",
+  "ceec": 2,
+  "years": [
+   109
+  ],
+  "count": 1,
+  "id": "L0-0259",
+  "day": 13
+ },
+ {
+  "word": "admit",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0260",
+  "day": 13
+ },
+ {
+  "word": "affair",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0261",
+  "day": 14
+ },
+ {
+  "word": "anytime",
+  "pos": "adv.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0262",
+  "day": 14
+ },
+ {
+  "word": "ape",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0263",
+  "day": 14
+ },
+ {
+  "word": "appetite",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0264",
+  "day": 14
+ },
+ {
+  "word": "arrow",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0265",
+  "day": 14
+ },
+ {
+  "word": "article",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0266",
+  "day": 14
+ },
+ {
+  "word": "bar",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0267",
+  "day": 14
+ },
+ {
+  "word": "beg",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0268",
+  "day": 14
+ },
+ {
+  "word": "bend",
+  "pos": "v./n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0269",
+  "day": 14
+ },
+ {
+  "word": "biscuit",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0270",
+  "day": 14
+ },
+ {
+  "word": "brief",
+  "pos": "adj./n./v.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0271",
+  "day": 14
+ },
+ {
+  "word": "cafe",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0272",
+  "day": 14
+ },
+ {
+  "word": "camel",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0273",
+  "day": 14
+ },
+ {
+  "word": "classic",
+  "pos": "adj./n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0274",
+  "day": 14
+ },
+ {
+  "word": "click",
+  "pos": "v./n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0275",
+  "day": 14
+ },
+ {
+  "word": "cocoa",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0276",
+  "day": 14
+ },
+ {
+  "word": "delivery",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0277",
+  "day": 14
+ },
+ {
+  "word": "deny",
+  "pos": "v.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0278",
+  "day": 14
+ },
+ {
+  "word": "description",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0279",
+  "day": 14
+ },
+ {
+  "word": "dialogue",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0280",
+  "day": 14
+ },
+ {
+  "word": "division",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0281",
+  "day": 15
+ },
+ {
+  "word": "domestic",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0282",
+  "day": 15
+ },
+ {
+  "word": "drawing",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0283",
+  "day": 15
+ },
+ {
+  "word": "dull",
+  "pos": "adj./v.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0284",
+  "day": 15
+ },
+ {
+  "word": "edition",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0285",
+  "day": 15
+ },
+ {
+  "word": "employer",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0286",
+  "day": 15
+ },
+ {
+  "word": "exact",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0287",
+  "day": 15
+ },
+ {
+  "word": "existence",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0288",
+  "day": 15
+ },
+ {
+  "word": "expense",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0289",
+  "day": 15
+ },
+ {
+  "word": "eyebrow/brow",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0290",
+  "day": 15
+ },
+ {
+  "word": "failure",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0291",
+  "day": 15
+ },
+ {
+  "word": "fellow",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0292",
+  "day": 15
+ },
+ {
+  "word": "fireman/firewoman",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0293",
+  "day": 15
+ },
+ {
+  "word": "folk",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0294",
+  "day": 15
+ },
+ {
+  "word": "garlic",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0295",
+  "day": 15
+ },
+ {
+  "word": "giraffe",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0296",
+  "day": 15
+ },
+ {
+  "word": "grain",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0297",
+  "day": 15
+ },
+ {
+  "word": "grand",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0298",
+  "day": 15
+ },
+ {
+  "word": "independence",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0299",
+  "day": 15
+ },
+ {
+  "word": "instruction",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0300",
+  "day": 15
+ },
+ {
+  "word": "internal",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0301",
+  "day": 16
+ },
+ {
+  "word": "joint",
+  "pos": "adj./n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0302",
+  "day": 16
+ },
+ {
+  "word": "journal",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0303",
+  "day": 16
+ },
+ {
+  "word": "justice",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0304",
+  "day": 16
+ },
+ {
+  "word": "ladybug",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0305",
+  "day": 16
+ },
+ {
+  "word": "lap",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0306",
+  "day": 16
+ },
+ {
+  "word": "legal",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0307",
+  "day": 16
+ },
+ {
+  "word": "lens",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0308",
+  "day": 16
+ },
+ {
+  "word": "listener",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0309",
+  "day": 16
+ },
+ {
+  "word": "liver",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0310",
+  "day": 16
+ },
+ {
+  "word": "lone",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0311",
+  "day": 16
+ },
+ {
+  "word": "membership",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0312",
+  "day": 16
+ },
+ {
+  "word": "minority",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0313",
+  "day": 16
+ },
+ {
+  "word": "mug",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0314",
+  "day": 16
+ },
+ {
+  "word": "nerve",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0315",
+  "day": 16
+ },
+ {
+  "word": "password",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0316",
+  "day": 16
+ },
+ {
+  "word": "poetry",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0317",
+  "day": 16
+ },
+ {
+  "word": "prison",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0318",
+  "day": 16
+ },
+ {
+  "word": "prisoner",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0319",
+  "day": 16
+ },
+ {
+  "word": "proper",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0320",
+  "day": 16
+ },
+ {
+  "word": "pudding",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0321",
+  "day": 17
+ },
+ {
+  "word": "pupil",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0322",
+  "day": 17
+ },
+ {
+  "word": "quantity",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0323",
+  "day": 17
+ },
+ {
+  "word": "reply",
+  "pos": "n./v.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0324",
+  "day": 17
+ },
+ {
+  "word": "riches",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0325",
+  "day": 17
+ },
+ {
+  "word": "rocky",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0326",
+  "day": 17
+ },
+ {
+  "word": "rooster",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0327",
+  "day": 17
+ },
+ {
+  "word": "saleswoman",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0328",
+  "day": 17
+ },
+ {
+  "word": "scare",
+  "pos": "v./n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0329",
+  "day": 17
+ },
+ {
+  "word": "selection",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0330",
+  "day": 17
+ },
+ {
+  "word": "slip",
+  "pos": "v./n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0331",
+  "day": 17
+ },
+ {
+  "word": "soil",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0332",
+  "day": 17
+ },
+ {
+  "word": "southern",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0333",
+  "day": 17
+ },
+ {
+  "word": "spelling",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0334",
+  "day": 17
+ },
+ {
+  "word": "survival",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0335",
+  "day": 17
+ },
+ {
+  "word": "tale",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0336",
+  "day": 17
+ },
+ {
+  "word": "teens",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0337",
+  "day": 17
+ },
+ {
+  "word": "terrorism",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0338",
+  "day": 17
+ },
+ {
+  "word": "terrorist",
+  "pos": "adj.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0339",
+  "day": 17
+ },
+ {
+  "word": "tire",
+  "pos": "v./n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0340",
+  "day": 17
+ },
+ {
+  "word": "tone",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0341",
+  "day": 18
+ },
+ {
+  "word": "upset",
+  "pos": "adj./v./n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0342",
+  "day": 18
+ },
+ {
+  "word": "user",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0343",
+  "day": 18
+ },
+ {
+  "word": "wherever",
+  "pos": "adv./conj.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0344",
+  "day": 18
+ },
+ {
+  "word": "whoever",
+  "pos": "pron.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0345",
+  "day": 18
+ },
+ {
+  "word": "wire",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0346",
+  "day": 18
+ },
+ {
+  "word": "wool",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0347",
+  "day": 18
+ },
+ {
+  "word": "yam",
+  "pos": "n.",
+  "ceec": 2,
+  "years": [],
+  "count": 0,
+  "id": "L0-0348",
+  "day": 18
+ }
+]

@@ -1,0 +1,1508 @@
+[
+{
+"id": "T-0001",
+"word": "perfect",
+"pos": "adj.",
+"first": "B1L01"
+},
+{
+"id": "T-0002",
+"word": "accidentally",
+"pos": "adv.",
+"first": "B1L01"
+},
+{
+"id": "T-0003",
+"word": "embarrassed",
+"pos": "adj.",
+"first": "B1L01"
+},
+{
+"id": "T-0004",
+"word": "depressed",
+"pos": "adj.",
+"first": "B1L01"
+},
+{
+"id": "T-0005",
+"word": "realize",
+"pos": "vt.",
+"first": "B1L01"
+},
+{
+"id": "T-0006",
+"word": "traditional",
+"pos": "adj.",
+"first": "B1L01"
+},
+{
+"id": "T-0007",
+"word": "fortunately",
+"pos": "adv.",
+"first": "B1L01"
+},
+{
+"id": "T-0008",
+"word": "satisfying",
+"pos": "adj.",
+"first": "B1L02"
+},
+{
+"id": "T-0009",
+"word": "introduce",
+"pos": "vt.",
+"first": "B1L02"
+},
+{
+"id": "T-0010",
+"word": "message",
+"pos": "n.",
+"first": "B1L02"
+},
+{
+"id": "T-0011",
+"word": "focus",
+"pos": "vi. vt.",
+"first": "B1L02"
+},
+{
+"id": "T-0012",
+"word": "ignore",
+"pos": "vt.",
+"first": "B1L02"
+},
+{
+"id": "T-0013",
+"word": "attention",
+"pos": "n.",
+"first": "B1L02"
+},
+{
+"id": "T-0014",
+"word": "disappointed",
+"pos": "adj.",
+"first": "B1L02"
+},
+{
+"id": "T-0015",
+"word": "personally",
+"pos": "adv.",
+"first": "B1L02"
+},
+{
+"id": "T-0016",
+"word": "amazing",
+"pos": "adj.",
+"first": "B1L03"
+},
+{
+"id": "T-0017",
+"word": "therefore",
+"pos": "adv.",
+"first": "B1L03"
+},
+{
+"id": "T-0018",
+"word": "avoid",
+"pos": "vt.",
+"first": "B1L03"
+},
+{
+"id": "T-0019",
+"word": "distance",
+"pos": "n.",
+"first": "B1L03"
+},
+{
+"id": "T-0020",
+"word": "flight",
+"pos": "n.",
+"first": "B1L03"
+},
+{
+"id": "T-0021",
+"word": "survive",
+"pos": "vi. vt.",
+"first": "B1L03"
+},
+{
+"id": "T-0022",
+"word": "item",
+"pos": "n.",
+"first": "B1L04"
+},
+{
+"id": "T-0023",
+"word": "infected",
+"pos": "adj.",
+"first": "B1L04"
+},
+{
+"id": "T-0024",
+"word": "create",
+"pos": "vt.",
+"first": "B1L04"
+},
+{
+"id": "T-0025",
+"word": "complete",
+"pos": "adj.",
+"first": "B1L04"
+},
+{
+"id": "T-0026",
+"word": "eagerly",
+"pos": "adv.",
+"first": "B1L05"
+},
+{
+"id": "T-0027",
+"word": "crowded",
+"pos": "adj.",
+"first": "B1L05"
+},
+{
+"id": "T-0028",
+"word": "obviously",
+"pos": "adv.",
+"first": "B1L05"
+},
+{
+"id": "T-0029",
+"word": "recycling",
+"pos": "n.",
+"first": "B1L05"
+},
+{
+"id": "T-0030",
+"word": "environment",
+"pos": "n. sing.",
+"first": "B1L05"
+},
+{
+"id": "T-0031",
+"word": "properly",
+"pos": "adv.",
+"first": "B1L05"
+},
+{
+"id": "T-0032",
+"word": "freedom",
+"pos": "n.",
+"first": "B1L06"
+},
+{
+"id": "T-0033",
+"word": "firmly",
+"pos": "adv.",
+"first": "B1L06"
+},
+{
+"id": "T-0034",
+"word": "ancient",
+"pos": "adj.",
+"first": "B1L06"
+},
+{
+"id": "T-0035",
+"word": "unfair",
+"pos": "adj.",
+"first": "B1L06"
+},
+{
+"id": "T-0036",
+"word": "treatment",
+"pos": "n.",
+"first": "B1L06"
+},
+{
+"id": "T-0037",
+"word": "instrument",
+"pos": "n.",
+"first": "B1L07"
+},
+{
+"id": "T-0038",
+"word": "receive",
+"pos": "vt.",
+"first": "B1L07"
+},
+{
+"id": "T-0039",
+"word": "similarly",
+"pos": "adv.",
+"first": "B1L08"
+},
+{
+"id": "T-0040",
+"word": "aim",
+"pos": "vt.",
+"first": "B1L08"
+},
+{
+"id": "T-0041",
+"word": "offer",
+"pos": "n.",
+"first": "B1L08"
+},
+{
+"id": "T-0042",
+"word": "customer",
+"pos": "n.",
+"first": "B1L08"
+},
+{
+"id": "T-0043",
+"word": "eventually",
+"pos": "adv.",
+"first": "B1L08"
+},
+{
+"id": "T-0044",
+"word": "trap",
+"pos": "n.",
+"first": "B1L08"
+},
+{
+"id": "T-0045",
+"word": "clever",
+"pos": "adj.",
+"first": "B1L08"
+},
+{
+"id": "T-0046",
+"word": "detailed",
+"pos": "adj.",
+"first": "B1L09"
+},
+{
+"id": "T-0047",
+"word": "express",
+"pos": "vt.",
+"first": "B1L09"
+},
+{
+"id": "T-0048",
+"word": "opinion",
+"pos": "n.",
+"first": "B1L09"
+},
+{
+"id": "T-0049",
+"word": "effort",
+"pos": "n.",
+"first": "B1L09"
+},
+{
+"id": "T-0050",
+"word": "custom",
+"pos": "n.",
+"first": "B1R01"
+},
+{
+"id": "T-0051",
+"word": "culture",
+"pos": "n.",
+"first": "B1R01"
+},
+{
+"id": "T-0052",
+"word": "valuable",
+"pos": "adj.",
+"first": "B1R01"
+},
+{
+"id": "T-0053",
+"word": "disappear",
+"pos": "vi.",
+"first": "B1R01"
+},
+{
+"id": "T-0054",
+"word": "daily",
+"pos": "adj.",
+"first": "B1R01"
+},
+{
+"id": "T-0055",
+"word": "include",
+"pos": "vt.",
+"first": "B1R01"
+},
+{
+"id": "T-0056",
+"word": "difference",
+"pos": "n.",
+"first": "B1R01"
+},
+{
+"id": "T-0057",
+"word": "positive",
+"pos": "adj.",
+"first": "B1R02"
+},
+{
+"id": "T-0058",
+"word": "improve",
+"pos": "vt.",
+"first": "B1R02"
+},
+{
+"id": "T-0059",
+"word": "actually",
+"pos": "adv.",
+"first": "B1R02"
+},
+{
+"id": "T-0060",
+"word": "goal",
+"pos": "n.",
+"first": "B1R02"
+},
+{
+"id": "T-0061",
+"word": "ordinary",
+"pos": "adj.",
+"first": "B1R02"
+},
+{
+"id": "T-0062",
+"word": "activity",
+"pos": "n.",
+"first": "B1R02"
+},
+{
+"id": "T-0063",
+"word": "damage",
+"pos": "n.",
+"first": "B1R03"
+},
+{
+"id": "T-0064",
+"word": "record",
+"pos": "vt.",
+"first": "B1R03"
+},
+{
+"id": "T-0065",
+"word": "success",
+"pos": "n.",
+"first": "B2L01"
+},
+{
+"id": "T-0066",
+"word": "pain",
+"pos": "n.",
+"first": "B2L01"
+},
+{
+"id": "T-0067",
+"word": "immediately",
+"pos": "adv.",
+"first": "B2L01"
+},
+{
+"id": "T-0068",
+"word": "courage",
+"pos": "n.",
+"first": "B2L01"
+},
+{
+"id": "T-0069",
+"word": "support",
+"pos": "n.",
+"first": "B2L01"
+},
+{
+"id": "T-0070",
+"word": "respect",
+"pos": "n.",
+"first": "B2L01"
+},
+{
+"id": "T-0071",
+"word": "pressure",
+"pos": "n.",
+"first": "B2L02"
+},
+{
+"id": "T-0072",
+"word": "normally",
+"pos": "adv.",
+"first": "B2L02"
+},
+{
+"id": "T-0073",
+"word": "accurately",
+"pos": "adv.",
+"first": "B2L02"
+},
+{
+"id": "T-0074",
+"word": "blame",
+"pos": "vt.",
+"first": "B2L02"
+},
+{
+"id": "T-0075",
+"word": "affect",
+"pos": "vt.",
+"first": "B2L02"
+},
+{
+"id": "T-0076",
+"word": "indicate",
+"pos": "vt.",
+"first": "B2L02"
+},
+{
+"id": "T-0077",
+"word": "provide",
+"pos": "vt.",
+"first": "B2L02"
+},
+{
+"id": "T-0078",
+"word": "pleasant",
+"pos": "adj.",
+"first": "B2L02"
+},
+{
+"id": "T-0079",
+"word": "desperately",
+"pos": "adv.",
+"first": "B2L03"
+},
+{
+"id": "T-0080",
+"word": "reluctantly",
+"pos": "adv.",
+"first": "B2L03"
+},
+{
+"id": "T-0081",
+"word": "describe",
+"pos": "vt.",
+"first": "B2L03"
+},
+{
+"id": "T-0082",
+"word": "explain",
+"pos": "vt. vi.",
+"first": "B2L03"
+},
+{
+"id": "T-0083",
+"word": "hardly",
+"pos": "adv.",
+"first": "B2L03"
+},
+{
+"id": "T-0084",
+"word": "female",
+"pos": "adj.",
+"first": "B2L04"
+},
+{
+"id": "T-0085",
+"word": "continue",
+"pos": "vt.",
+"first": "B2L04"
+},
+{
+"id": "T-0086",
+"word": "education",
+"pos": "n.",
+"first": "B2L04"
+},
+{
+"id": "T-0087",
+"word": "principal",
+"pos": "n.",
+"first": "B2L04"
+},
+{
+"id": "T-0088",
+"word": "equal",
+"pos": "adj.",
+"first": "B2L04"
+},
+{
+"id": "T-0089",
+"word": "control",
+"pos": "vt.",
+"first": "B2L04"
+},
+{
+"id": "T-0090",
+"word": "recover",
+"pos": "vi.",
+"first": "B2L04"
+},
+{
+"id": "T-0091",
+"word": "sign",
+"pos": "vt.",
+"first": "B2L04"
+},
+{
+"id": "T-0092",
+"word": "consistently",
+"pos": "adv.",
+"first": "B2L05"
+},
+{
+"id": "T-0093",
+"word": "deliver",
+"pos": "vt.",
+"first": "B2L05"
+},
+{
+"id": "T-0094",
+"word": "rude",
+"pos": "adj.",
+"first": "B2L06"
+},
+{
+"id": "T-0095",
+"word": "purposely",
+"pos": "adv.",
+"first": "B2L06"
+},
+{
+"id": "T-0096",
+"word": "genuinely",
+"pos": "adv.",
+"first": "B2L06"
+},
+{
+"id": "T-0097",
+"word": "gradually",
+"pos": "adv.",
+"first": "B2L06"
+},
+{
+"id": "T-0098",
+"word": "absolutely",
+"pos": "adv.",
+"first": "B2L06"
+},
+{
+"id": "T-0099",
+"word": "seek",
+"pos": "vt.",
+"first": "B2L07"
+},
+{
+"id": "T-0100",
+"word": "increasingly",
+"pos": "adv.",
+"first": "B2L07"
+},
+{
+"id": "T-0101",
+"word": "broad",
+"pos": "adj.",
+"first": "B2L07"
+},
+{
+"id": "T-0102",
+"word": "discuss",
+"pos": "vt.",
+"first": "B2L07"
+},
+{
+"id": "T-0103",
+"word": "method",
+"pos": "n.",
+"first": "B2L07"
+},
+{
+"id": "T-0104",
+"word": "expect",
+"pos": "vt.",
+"first": "B2L08"
+},
+{
+"id": "T-0105",
+"word": "curious",
+"pos": "adj.",
+"first": "B2L08"
+},
+{
+"id": "T-0106",
+"word": "event",
+"pos": "n.",
+"first": "B2L08"
+},
+{
+"id": "T-0107",
+"word": "elder",
+"pos": "n.",
+"first": "B2L08"
+},
+{
+"id": "T-0108",
+"word": "arrange",
+"pos": "vt. vi.",
+"first": "B2L08"
+},
+{
+"id": "T-0109",
+"word": "spirit",
+"pos": "n. sing.",
+"first": "B2L08"
+},
+{
+"id": "T-0110",
+"word": "general",
+"pos": "adj.",
+"first": "B2L09"
+},
+{
+"id": "T-0111",
+"word": "chase",
+"pos": "vt. vi.",
+"first": "B2L09"
+},
+{
+"id": "T-0112",
+"word": "digitally",
+"pos": "adv.",
+"first": "B2L09"
+},
+{
+"id": "T-0113",
+"word": "constantly",
+"pos": "adv.",
+"first": "B2L09"
+},
+{
+"id": "T-0114",
+"word": "existing",
+"pos": "adj.",
+"first": "B2L09"
+},
+{
+"id": "T-0115",
+"word": "typically",
+"pos": "adv.",
+"first": "B2R01"
+},
+{
+"id": "T-0116",
+"word": "spread",
+"pos": "vi.",
+"first": "B2R01"
+},
+{
+"id": "T-0117",
+"word": "host",
+"pos": "n.",
+"first": "B2R01"
+},
+{
+"id": "T-0118",
+"word": "exquisite",
+"pos": "adj.",
+"first": "B2R01"
+},
+{
+"id": "T-0119",
+"word": "starving",
+"pos": "adj.",
+"first": "B2R01"
+},
+{
+"id": "T-0120",
+"word": "energy",
+"pos": "n.",
+"first": "B2R01"
+},
+{
+"id": "T-0121",
+"word": "restricted",
+"pos": "adj.",
+"first": "B2R01"
+},
+{
+"id": "T-0122",
+"word": "gain",
+"pos": "vt.",
+"first": "B2R02"
+},
+{
+"id": "T-0123",
+"word": "system",
+"pos": "n.",
+"first": "B2R02"
+},
+{
+"id": "T-0124",
+"word": "abbreviation",
+"pos": "n.",
+"first": "B2R02"
+},
+{
+"id": "T-0125",
+"word": "blank",
+"pos": "adj.",
+"first": "B2R02"
+},
+{
+"id": "T-0126",
+"word": "guide",
+"pos": "n.",
+"first": "B2R02"
+},
+{
+"id": "T-0127",
+"word": "review",
+"pos": "vt.",
+"first": "B2R02"
+},
+{
+"id": "T-0128",
+"word": "powdered",
+"pos": "adj.",
+"first": "B2R03"
+},
+{
+"id": "T-0129",
+"word": "liquid",
+"pos": "adj.",
+"first": "B2R03"
+},
+{
+"id": "T-0130",
+"word": "regularly",
+"pos": "adv.",
+"first": "B2R03"
+},
+{
+"id": "T-0131",
+"word": "gather",
+"pos": "vi.",
+"first": "B2R03"
+},
+{
+"id": "T-0132",
+"word": "limit",
+"pos": "vt.",
+"first": "B2R03"
+},
+{
+"id": "T-0133",
+"word": "employ",
+"pos": "vt.",
+"first": "B3L01"
+},
+{
+"id": "T-0134",
+"word": "illness",
+"pos": "n.",
+"first": "B3L01"
+},
+{
+"id": "T-0135",
+"word": "tremendously",
+"pos": "adv.",
+"first": "B3L01"
+},
+{
+"id": "T-0136",
+"word": "frail",
+"pos": "adj.",
+"first": "B3L01"
+},
+{
+"id": "T-0137",
+"word": "refuse",
+"pos": "vi. vt.",
+"first": "B3L01"
+},
+{
+"id": "T-0138",
+"word": "promise",
+"pos": "vt.",
+"first": "B3L02"
+},
+{
+"id": "T-0139",
+"word": "collaborate",
+"pos": "vi.",
+"first": "B3L02"
+},
+{
+"id": "T-0140",
+"word": "slightly",
+"pos": "adv.",
+"first": "B3L02"
+},
+{
+"id": "T-0141",
+"word": "universe",
+"pos": "n. sing.",
+"first": "B3L03"
+},
+{
+"id": "T-0142",
+"word": "generous",
+"pos": "adj.",
+"first": "B3L03"
+},
+{
+"id": "T-0143",
+"word": "punish",
+"pos": "vt.",
+"first": "B3L03"
+},
+{
+"id": "T-0144",
+"word": "banish",
+"pos": "vt.",
+"first": "B3L03"
+},
+{
+"id": "T-0145",
+"word": "rustle",
+"pos": "vi.",
+"first": "B3L05"
+},
+{
+"id": "T-0146",
+"word": "previously",
+"pos": "adv.",
+"first": "B3L05"
+},
+{
+"id": "T-0147",
+"word": "breathtaking",
+"pos": "adj.",
+"first": "B3L05"
+},
+{
+"id": "T-0148",
+"word": "stunning",
+"pos": "adj.",
+"first": "B3L05"
+},
+{
+"id": "T-0149",
+"word": "bruised",
+"pos": "adj.",
+"first": "B3L06"
+},
+{
+"id": "T-0150",
+"word": "intimately",
+"pos": "adv.",
+"first": "B3L06"
+},
+{
+"id": "T-0151",
+"word": "skillfully",
+"pos": "adv.",
+"first": "B3L06"
+},
+{
+"id": "T-0152",
+"word": "path",
+"pos": "n.",
+"first": "B3L06"
+},
+{
+"id": "T-0153",
+"word": "smoothness",
+"pos": "n.",
+"first": "B3L06"
+},
+{
+"id": "T-0154",
+"word": "initially",
+"pos": "adv.",
+"first": "B3L07"
+},
+{
+"id": "T-0155",
+"word": "automatically",
+"pos": "adv.",
+"first": "B3L07"
+},
+{
+"id": "T-0156",
+"word": "illegally",
+"pos": "adv.",
+"first": "B3L08"
+},
+{
+"id": "T-0157",
+"word": "mercilessly",
+"pos": "adv.",
+"first": "B3L08"
+},
+{
+"id": "T-0158",
+"word": "strike",
+"pos": "vt.",
+"first": "B3L08"
+},
+{
+"id": "T-0159",
+"word": "exhaustion",
+"pos": "n.",
+"first": "B3L08"
+},
+{
+"id": "T-0160",
+"word": "pilgrimage",
+"pos": "n.",
+"first": "B3L09"
+},
+{
+"id": "T-0161",
+"word": "throng",
+"pos": "n.",
+"first": "B3L09"
+},
+{
+"id": "T-0162",
+"word": "pierce",
+"pos": "vt. vi.",
+"first": "B3L09"
+},
+{
+"id": "T-0163",
+"word": "enthusiastically",
+"pos": "adv.",
+"first": "B3L09"
+},
+{
+"id": "T-0164",
+"word": "designate",
+"pos": "vt.",
+"first": "B3L09"
+},
+{
+"id": "T-0165",
+"word": "coral reef",
+"pos": "n.",
+"first": "B3R01"
+},
+{
+"id": "T-0166",
+"word": "flex",
+"pos": "vt.",
+"first": "B3R01"
+},
+{
+"id": "T-0167",
+"word": "relatively",
+"pos": "adv.",
+"first": "B3R01"
+},
+{
+"id": "T-0168",
+"word": "temperature",
+"pos": "n.",
+"first": "B3R01"
+},
+{
+"id": "T-0169",
+"word": "protect",
+"pos": "vt.",
+"first": "B3R01"
+},
+{
+"id": "T-0170",
+"word": "colony collapse disorder",
+"pos": "n.",
+"first": "B3R02"
+},
+{
+"id": "T-0171",
+"word": "pesticide",
+"pos": "n.",
+"first": "B3R02"
+},
+{
+"id": "T-0172",
+"word": "pollinate",
+"pos": "vt.",
+"first": "B3R02"
+},
+{
+"id": "T-0173",
+"word": "affordable",
+"pos": "adj.",
+"first": "B3R03"
+},
+{
+"id": "T-0174",
+"word": "devastating",
+"pos": "adj.",
+"first": "B3R03"
+},
+{
+"id": "T-0175",
+"word": "responsible",
+"pos": "adj.",
+"first": "B3R03"
+},
+{
+"id": "T-0176",
+"word": "sustainably",
+"pos": "adv.",
+"first": "B3R03"
+},
+{
+"id": "T-0177",
+"word": "debate",
+"pos": "vt. vi.",
+"first": "B4L01"
+},
+{
+"id": "T-0178",
+"word": "insist",
+"pos": "vt. vi.",
+"first": "B4L01"
+},
+{
+"id": "T-0179",
+"word": "arched",
+"pos": "adj.",
+"first": "B4L02"
+},
+{
+"id": "T-0180",
+"word": "project",
+"pos": "vt.",
+"first": "B4L02"
+},
+{
+"id": "T-0181",
+"word": "income",
+"pos": "n.",
+"first": "B4L02"
+},
+{
+"id": "T-0182",
+"word": "progress",
+"pos": "n.",
+"first": "B4L03"
+},
+{
+"id": "T-0183",
+"word": "development",
+"pos": "n.",
+"first": "B4L03"
+},
+{
+"id": "T-0184",
+"word": "treasure",
+"pos": "n.",
+"first": "B4L03"
+},
+{
+"id": "T-0185",
+"word": "situated",
+"pos": "adj.",
+"first": "B4L03"
+},
+{
+"id": "T-0186",
+"word": "adventurous",
+"pos": "adj.",
+"first": "B4L04"
+},
+{
+"id": "T-0187",
+"word": "private",
+"pos": "adj.",
+"first": "B4L04"
+},
+{
+"id": "T-0188",
+"word": "sample",
+"pos": "vt.",
+"first": "B4L04"
+},
+{
+"id": "T-0189",
+"word": "burst",
+"pos": "vi.",
+"first": "B4L05"
+},
+{
+"id": "T-0190",
+"word": "isolated",
+"pos": "adj.",
+"first": "B4L05"
+},
+{
+"id": "T-0191",
+"word": "selfless",
+"pos": "adj.",
+"first": "B4L05"
+},
+{
+"id": "T-0192",
+"word": "merely",
+"pos": "adv.",
+"first": "B4L06"
+},
+{
+"id": "T-0193",
+"word": "swiftly",
+"pos": "adv.",
+"first": "B4L06"
+},
+{
+"id": "T-0194",
+"word": "retrace",
+"pos": "vt.",
+"first": "B4L06"
+},
+{
+"id": "T-0195",
+"word": "handle",
+"pos": "vt.",
+"first": "B4L06"
+},
+{
+"id": "T-0196",
+"word": "flawless",
+"pos": "adj.",
+"first": "B4L06"
+},
+{
+"id": "T-0197",
+"word": "population",
+"pos": "n.",
+"first": "B4L07"
+},
+{
+"id": "T-0198",
+"word": "additionally",
+"pos": "adv.",
+"first": "B4L07"
+},
+{
+"id": "T-0199",
+"word": "narrow",
+"pos": "adj.",
+"first": "B4L08"
+},
+{
+"id": "T-0200",
+"word": "dramatically",
+"pos": "adv.",
+"first": "B4L08"
+},
+{
+"id": "T-0201",
+"word": "thoughtless",
+"pos": "adj.",
+"first": "B4L08"
+},
+{
+"id": "T-0202",
+"word": "rent",
+"pos": "vt. vi.",
+"first": "B4L08"
+},
+{
+"id": "T-0203",
+"word": "negative",
+"pos": "adj.",
+"first": "B4L08"
+},
+{
+"id": "T-0204",
+"word": "widowed",
+"pos": "adj.",
+"first": "B4L09"
+},
+{
+"id": "T-0205",
+"word": "instinctively",
+"pos": "adv.",
+"first": "B4L09"
+},
+{
+"id": "T-0206",
+"word": "victory",
+"pos": "n.",
+"first": "B4L09"
+},
+{
+"id": "T-0207",
+"word": "definitely",
+"pos": "adv.",
+"first": "B4L09"
+},
+{
+"id": "T-0208",
+"word": "primary",
+"pos": "adj.",
+"first": "B4R01"
+},
+{
+"id": "T-0209",
+"word": "vegetation",
+"pos": "n.",
+"first": "B4R01"
+},
+{
+"id": "T-0210",
+"word": "household name",
+"pos": "n.",
+"first": "B4R01"
+},
+{
+"id": "T-0211",
+"word": "specialized",
+"pos": "adj.",
+"first": "B4R01"
+},
+{
+"id": "T-0212",
+"word": "talented",
+"pos": "adj.",
+"first": "B4R01"
+},
+{
+"id": "T-0213",
+"word": "manipulation",
+"pos": "n.",
+"first": "B4R02"
+},
+{
+"id": "T-0214",
+"word": "advertiser",
+"pos": "n.",
+"first": "B4R02"
+},
+{
+"id": "T-0215",
+"word": "tracker blocker",
+"pos": "n.",
+"first": "B4R02"
+},
+{
+"id": "T-0216",
+"word": "ultimately",
+"pos": "adv.",
+"first": "B4R02"
+},
+{
+"id": "T-0217",
+"word": "addicted",
+"pos": "adj.",
+"first": "B4R03"
+},
+{
+"id": "T-0218",
+"word": "carbohydrate",
+"pos": "n.",
+"first": "B4R03"
+},
+{
+"id": "T-0219",
+"word": "hydrated",
+"pos": "adj.",
+"first": "B4R03"
+},
+{
+"id": "T-0220",
+"word": "complicated",
+"pos": "adj.",
+"first": "B5L01"
+},
+{
+"id": "T-0221",
+"word": "plain",
+"pos": "adj.",
+"first": "B5L01"
+},
+{
+"id": "T-0222",
+"word": "penetrating",
+"pos": "adj.",
+"first": "B5L01"
+},
+{
+"id": "T-0223",
+"word": "indecision",
+"pos": "n.",
+"first": "B5L01"
+},
+{
+"id": "T-0224",
+"word": "compelling",
+"pos": "adj.",
+"first": "B5L01"
+},
+{
+"id": "T-0225",
+"word": "unconventional",
+"pos": "adj.",
+"first": "B5L01"
+},
+{
+"id": "T-0226",
+"word": "define",
+"pos": "vt.",
+"first": "B5L02"
+},
+{
+"id": "T-0227",
+"word": "misleading",
+"pos": "adj.",
+"first": "B5L02"
+},
+{
+"id": "T-0228",
+"word": "flawed",
+"pos": "adj.",
+"first": "B5L02"
+},
+{
+"id": "T-0229",
+"word": "validity",
+"pos": "n.",
+"first": "B5L02"
+},
+{
+"id": "T-0230",
+"word": "verify",
+"pos": "vt.",
+"first": "B5L02"
+},
+{
+"id": "T-0231",
+"word": "sailor",
+"pos": "n.",
+"first": "B5L03"
+},
+{
+"id": "T-0232",
+"word": "considerably",
+"pos": "adv.",
+"first": "B5L03"
+},
+{
+"id": "T-0233",
+"word": "densely",
+"pos": "adv.",
+"first": "B5L03"
+},
+{
+"id": "T-0234",
+"word": "valley",
+"pos": "n.",
+"first": "B5L03"
+},
+{
+"id": "T-0235",
+"word": "stream",
+"pos": "n.",
+"first": "B5L03"
+},
+{
+"id": "T-0236",
+"word": "stark",
+"pos": "adj.",
+"first": "B5L03"
+},
+{
+"id": "T-0237",
+"word": "bustling",
+"pos": "adj.",
+"first": "B5L03"
+},
+{
+"id": "T-0238",
+"word": "unethical",
+"pos": "adj.",
+"first": "B5L04"
+},
+{
+"id": "T-0239",
+"word": "concern",
+"pos": "n.",
+"first": "B5L04"
+},
+{
+"id": "T-0240",
+"word": "genetically",
+"pos": "adv.",
+"first": "B5L04"
+},
+{
+"id": "T-0241",
+"word": "latter",
+"pos": "n.",
+"first": "B5L04"
+},
+{
+"id": "T-0242",
+"word": "suit",
+"pos": "vt.",
+"first": "B5L04"
+},
+{
+"id": "T-0243",
+"word": "tranquil",
+"pos": "adj.",
+"first": "B5L05"
+},
+{
+"id": "T-0244",
+"word": "literally",
+"pos": "adv.",
+"first": "B5L05"
+},
+{
+"id": "T-0245",
+"word": "elevation",
+"pos": "n.",
+"first": "B5L05"
+},
+{
+"id": "T-0246",
+"word": "incidence",
+"pos": "n.",
+"first": "B5L05"
+},
+{
+"id": "T-0247",
+"word": "sweep",
+"pos": "vi.",
+"first": "B5L05"
+},
+{
+"id": "T-0248",
+"word": "segregation",
+"pos": "n.",
+"first": "B5L06"
+},
+{
+"id": "T-0249",
+"word": "mobility",
+"pos": "n.",
+"first": "B5L06"
+},
+{
+"id": "T-0250",
+"word": "eloquence",
+"pos": "n.",
+"first": "B5L06"
+},
+{
+"id": "T-0251",
+"word": "rhetorical",
+"pos": "adj.",
+"first": "B5L06"
+}
+]

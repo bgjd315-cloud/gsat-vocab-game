@@ -1,0 +1,5152 @@
+[
+ {
+  "id": "TR-115",
+  "y": 115,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "現在越來越多高中英文老師已經增加在課堂上使用英文的百分比。",
+    "ref": "Nowadays, more and more high school English teachers have increased the percentage of English used in their classes.",
+    "alt": [
+     "These days, a growing number of high school English teachers have raised the percentage of English they speak in the classroom."
+    ],
+    "keys": [
+     {
+      "zh": "越來越多",
+      "en": "more and more"
+     },
+     {
+      "zh": "高中英文老師",
+      "en": "high school English teachers"
+     },
+     {
+      "zh": "增加",
+      "en": "increased"
+     },
+     {
+      "zh": "百分比",
+      "en": "the percentage of"
+     },
+     {
+      "zh": "在課堂上使用",
+      "en": "used in their classes"
+     }
+    ],
+    "frame": "Nowadays, more and more ___ ___ English ___ have ___ the ___ of English ___ in their ___.",
+    "points": [
+     {
+      "t": "「已經增加」用現在完成式 have increased",
+      "w": 1
+     },
+     {
+      "t": "「越來越多」more and more + 複數名詞，動詞用複數 have",
+      "w": 1
+     },
+     {
+      "t": "「在課堂上使用英文的百分比」the percentage of English used in class（過去分詞修飾 English）",
+      "w": 1.5
+     },
+     {
+      "t": "常見錯誤：不要寫成 more and more teacher 或 has increased",
+      "w": 0.5
+     }
+    ],
+    "tip": "主詞很長但核心是 teachers；「使用英文的百分比」英文要反過來寫成 the percentage of English used…。",
+    "gram": [
+     "G0-J02-1",
+     "G2-L04-1"
+    ]
+   },
+   {
+    "zh": "他們將學生依英語能力分成不同組別，進行多樣的聽、說活動。",
+    "ref": "They divide students into different groups based on their English ability and conduct a variety of listening and speaking activities.",
+    "alt": [
+     "They group students according to their English proficiency and have them do various listening and speaking activities."
+    ],
+    "keys": [
+     {
+      "zh": "分成",
+      "en": "divide students into"
+     },
+     {
+      "zh": "依",
+      "en": "based on"
+     },
+     {
+      "zh": "英語能力",
+      "en": "English ability"
+     },
+     {
+      "zh": "進行",
+      "en": "conduct"
+     },
+     {
+      "zh": "多樣的",
+      "en": "a variety of"
+     },
+     {
+      "zh": "聽、說活動",
+      "en": "listening and speaking activities"
+     }
+    ],
+    "frame": "They ___ students into ___ ___ based on their ___ ___ and ___ a ___ of ___ and ___ activities.",
+    "points": [
+     {
+      "t": "「將 A 分成 B」divide A into B",
+      "w": 1.5
+     },
+     {
+      "t": "「依…」based on / according to + 名詞",
+      "w": 1
+     },
+     {
+      "t": "「進行多樣的活動」conduct / carry out a variety of activities，活動用複數",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：兩個動詞 divide…and conduct 時態一致，不要寫 divide…and conducting",
+      "w": 0.5
+     }
+    ],
+    "tip": "主詞 They（老師）做兩件事：分組、進行活動，用 and 連接兩個現在式動詞。",
+    "gram": [
+     "G0-J01-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-114",
+  "y": 114,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "人類的想像和創意是科技進步最大的驅動力。",
+    "ref": "Human imagination and creativity are the greatest driving forces behind technological progress.",
+    "alt": [
+     "Humans' imagination and creativity are the biggest driving forces of technological advancement."
+    ],
+    "keys": [
+     {
+      "zh": "想像和創意",
+      "en": "imagination and creativity"
+     },
+     {
+      "zh": "最大的",
+      "en": "the greatest"
+     },
+     {
+      "zh": "驅動力",
+      "en": "driving forces"
+     },
+     {
+      "zh": "科技進步",
+      "en": "technological progress"
+     }
+    ],
+    "frame": "Human ___ and ___ are the ___ ___ forces behind ___ ___.",
+    "points": [
+     {
+      "t": "兩個名詞用 and 連接當主詞，動詞用複數 are",
+      "w": 1.5
+     },
+     {
+      "t": "「最大的」用最高級 the greatest / the biggest",
+      "w": 1
+     },
+     {
+      "t": "「科技進步的驅動力」driving forces behind / of technological progress",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：修飾 progress 要用形容詞 technological，不要寫成 technologic progress；主詞是兩樣東西，不要寫 is",
+      "w": 0.5
+     }
+    ],
+    "tip": "句型就是「A and B are the 最高級 + 名詞」，注意主詞有兩個，動詞要用複數。",
+    "gram": [
+     "G0-J05-1"
+    ]
+   },
+   {
+    "zh": "過去在科幻電影中出現的神奇物件，現在正逐一成真。",
+    "ref": "The amazing objects that appeared in science fiction movies in the past are now coming true one by one.",
+    "alt": [
+     "Magical things that once appeared in science fiction films are now becoming reality one after another."
+    ],
+    "keys": [
+     {
+      "zh": "神奇物件",
+      "en": "amazing objects"
+     },
+     {
+      "zh": "出現",
+      "en": "appeared"
+     },
+     {
+      "zh": "科幻電影",
+      "en": "science fiction movies"
+     },
+     {
+      "zh": "成真",
+      "en": "coming true"
+     },
+     {
+      "zh": "逐一",
+      "en": "one by one"
+     }
+    ],
+    "frame": "The ___ ___ that ___ in ___ ___ movies in the past are now ___ ___ one by ___.",
+    "points": [
+     {
+      "t": "「過去在科幻電影中出現的」用關係子句 that appeared…，子句內用過去式",
+      "w": 1.5
+     },
+     {
+      "t": "主詞 objects 複數，主要動詞用 are now coming true（現在進行式）",
+      "w": 1
+     },
+     {
+      "t": "「成真」come true（不能用被動）；「逐一」one by one",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 are now being come true 或 appeared 漏掉主要動詞",
+      "w": 0.5
+     }
+    ],
+    "tip": "先找主詞「神奇物件」與主要動詞「正成真」，再把「過去在科幻電影中出現的」改成 that 子句放在名詞後。",
+    "gram": [
+     "G1-L04-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-113",
+  "y": 113,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "每逢選舉季節，總會看到政治人物造訪各地著名廟宇。",
+    "ref": "During every election season, politicians can always be seen visiting famous temples all over the country.",
+    "alt": [
+     "Whenever it is election season, we always see politicians visiting well-known temples everywhere."
+    ],
+    "keys": [
+     {
+      "zh": "選舉季節",
+      "en": "election season"
+     },
+     {
+      "zh": "總會看到",
+      "en": "can always be seen visiting"
+     },
+     {
+      "zh": "政治人物",
+      "en": "politicians"
+     },
+     {
+      "zh": "著名廟宇",
+      "en": "famous temples"
+     },
+     {
+      "zh": "各地",
+      "en": "all over the country"
+     }
+    ],
+    "frame": "During every ___ ___, ___ can always be ___ ___ing ___ ___ all over the ___.",
+    "points": [
+     {
+      "t": "「看到某人正在做」see + 受詞 + V-ing；改被動是 be seen + V-ing",
+      "w": 1.5
+     },
+     {
+      "t": "「每逢」During every… / Whenever…",
+      "w": 1
+     },
+     {
+      "t": "「各地著名廟宇」famous temples all over the country / in various places",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 there will see politicians…（there 不能當 see 的主詞）",
+      "w": 0.5
+     }
+    ],
+    "tip": "中文沒寫主詞「誰看到」，可補上 we，或直接用被動 politicians can be seen visiting…。",
+    "gram": [
+     "G3-L05-1",
+     "G0-J08-1"
+    ]
+   },
+   {
+    "zh": "除了祈求好的選舉結果，他們也希望展現對在地文化與習俗的尊重。",
+    "ref": "Besides praying for good election results, they also hope to show their respect for local culture and customs.",
+    "alt": [
+     "In addition to praying for favorable election outcomes, they also want to demonstrate respect for local culture and traditions."
+    ],
+    "keys": [
+     {
+      "zh": "除了",
+      "en": "Besides"
+     },
+     {
+      "zh": "祈求",
+      "en": "praying for"
+     },
+     {
+      "zh": "選舉結果",
+      "en": "election results"
+     },
+     {
+      "zh": "展現",
+      "en": "show"
+     },
+     {
+      "zh": "對…的尊重",
+      "en": "respect for"
+     },
+     {
+      "zh": "在地文化與習俗",
+      "en": "local culture and customs"
+     }
+    ],
+    "frame": "Besides ___ing for good ___ ___, they also ___ to ___ their ___ for ___ ___ and ___.",
+    "points": [
+     {
+      "t": "Besides / In addition to 後面接動名詞 praying",
+      "w": 1
+     },
+     {
+      "t": "「祈求」pray for（for 不可漏）",
+      "w": 1
+     },
+     {
+      "t": "「希望展現」hope to show；「對…的尊重」respect for",
+      "w": 1.5
+     },
+     {
+      "t": "常見錯誤：「除了…也」不用 Except；不要寫 hope showing",
+      "w": 0.5
+     }
+    ],
+    "tip": "主句是「他們也希望展現尊重」，「除了祈求…」用 Besides + V-ing 放句首。",
+    "gram": [
+     "G0-J06-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-112",
+  "y": 112,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "歷史一再證明，戰爭會造成極為可怕的災難。",
+    "ref": "History has proven again and again that war can cause extremely terrible disasters.",
+    "alt": [
+     "History has repeatedly shown that wars can bring about terrible catastrophes."
+    ],
+    "keys": [
+     {
+      "zh": "歷史",
+      "en": "History"
+     },
+     {
+      "zh": "一再",
+      "en": "again and again"
+     },
+     {
+      "zh": "證明",
+      "en": "proven"
+     },
+     {
+      "zh": "造成",
+      "en": "cause"
+     },
+     {
+      "zh": "可怕的災難",
+      "en": "terrible disasters"
+     }
+    ],
+    "frame": "History has ___ again and ___ that ___ can ___ extremely ___ ___.",
+    "points": [
+     {
+      "t": "「一再證明」用現在完成式 has proven / has shown",
+      "w": 1
+     },
+     {
+      "t": "證明的內容用 that 名詞子句：that war can cause…",
+      "w": 1.5
+     },
+     {
+      "t": "「一再」again and again / repeatedly / time and again",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：history、war 泛指時不加 the；proven 不要拼成 proove",
+      "w": 0.5
+     }
+    ],
+    "tip": "結構是「歷史證明 + that 子句」，先寫主句再把證明的內容放進 that 子句。",
+    "gram": [
+     "G1-L01-1",
+     "G0-J02-1"
+    ]
+   },
+   {
+    "zh": "避免衝突、確保世界和平應該是所有人類追求的目標。",
+    "ref": "Avoiding conflicts and ensuring world peace should be the goal that all human beings pursue.",
+    "alt": [
+     "To avoid conflicts and maintain world peace should be the goal pursued by all mankind."
+    ],
+    "keys": [
+     {
+      "zh": "避免衝突",
+      "en": "Avoiding conflicts"
+     },
+     {
+      "zh": "確保",
+      "en": "ensuring"
+     },
+     {
+      "zh": "世界和平",
+      "en": "world peace"
+     },
+     {
+      "zh": "人類",
+      "en": "human beings"
+     },
+     {
+      "zh": "追求",
+      "en": "pursue"
+     }
+    ],
+    "frame": "___ing ___ and ___ing world ___ should be the ___ that all ___ ___ ___.",
+    "points": [
+     {
+      "t": "兩個動名詞當主詞：Avoiding…and ensuring…，形式一致",
+      "w": 1.5
+     },
+     {
+      "t": "「所有人類追求的目標」the goal that all human beings pursue / the goal pursued by…",
+      "w": 1
+     },
+     {
+      "t": "「確保世界和平」ensure / maintain world peace",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：avoid 後面接名詞或 V-ing，不要寫成 avoid to fight",
+      "w": 0.5
+     }
+    ],
+    "tip": "中文主詞是兩件事，英文用兩個動名詞並列；「人類追求的目標」改成關係子句放在 goal 後面。",
+    "gram": [
+     "G0-J06-1",
+     "G1-L04-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-111",
+  "y": 111,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "飼養寵物並非一項短暫的人生體驗，而是一個對動物的終生承諾。",
+    "ref": "Keeping a pet is not a short-term life experience but a lifelong commitment to an animal.",
+    "alt": [
+     "Raising a pet is not a temporary experience in life; rather, it is a lifelong commitment to animals."
+    ],
+    "keys": [
+     {
+      "zh": "飼養寵物",
+      "en": "Keeping a pet"
+     },
+     {
+      "zh": "短暫的",
+      "en": "short-term"
+     },
+     {
+      "zh": "人生體驗",
+      "en": "life experience"
+     },
+     {
+      "zh": "終生承諾",
+      "en": "lifelong commitment"
+     },
+     {
+      "zh": "對動物的",
+      "en": "to an animal"
+     }
+    ],
+    "frame": "___ing a pet is not a ___ ___ ___ but a ___ ___ to an ___.",
+    "points": [
+     {
+      "t": "主詞用動名詞 Keeping / Raising a pet，動詞單數 is",
+      "w": 1
+     },
+     {
+      "t": "「並非 A 而是 B」not A but B，A、B 都是名詞片語",
+      "w": 1.5
+     },
+     {
+      "t": "「對…的承諾」commitment to…，介系詞用 to",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 a lifetime promise for animals 或漏掉冠詞 a",
+      "w": 0.5
+     }
+    ],
+    "tip": "抓住「並非…而是…」= not A but B，兩邊都放名詞片語，結構就出來了。",
+    "gram": [
+     "G0-J06-1"
+    ]
+   },
+   {
+    "zh": "在享受寵物所帶來的歡樂時，我們不該忽略要善盡照顧他們的責任。",
+    "ref": "While enjoying the happiness our pets bring us, we should not neglect our responsibility to take good care of them.",
+    "alt": [
+     "When we enjoy the joy that pets bring, we should not ignore our duty to take good care of them."
+    ],
+    "keys": [
+     {
+      "zh": "在…時",
+      "en": "While enjoying"
+     },
+     {
+      "zh": "寵物所帶來的歡樂",
+      "en": "the happiness our pets bring us"
+     },
+     {
+      "zh": "忽略",
+      "en": "neglect"
+     },
+     {
+      "zh": "責任",
+      "en": "responsibility to"
+     },
+     {
+      "zh": "善盡照顧",
+      "en": "take good care of"
+     }
+    ],
+    "frame": "While ___ing the ___ our pets ___ us, we should not ___ our ___ to take ___ ___ of them.",
+    "points": [
+     {
+      "t": "「在享受…時」While enjoying… / When we enjoy…",
+      "w": 1
+     },
+     {
+      "t": "「寵物所帶來的歡樂」用省略關代的形容詞子句 the happiness (that) our pets bring us",
+      "w": 1
+     },
+     {
+      "t": "「善盡照顧的責任」responsibility to take good care of them",
+      "w": 1.5
+     },
+     {
+      "t": "常見錯誤：不要寫成 take care them（漏 of）或 neglect to our responsibility",
+      "w": 0.5
+     }
+    ],
+    "tip": "主句是「我們不該忽略責任」，前面「在享受…時」用 While + V-ing 簡化，責任的內容用 to V 補充。",
+    "gram": [
+     "G1-L09-1",
+     "G1-L04-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-110",
+  "y": 110,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "根據新聞報導，每年全球有超過百萬人在道路事故中喪失性命。",
+    "ref": "According to news reports, more than one million people around the world lose their lives in road accidents every year.",
+    "alt": [
+     "News reports show that over a million people worldwide are killed in traffic accidents each year."
+    ],
+    "keys": [
+     {
+      "zh": "根據新聞報導",
+      "en": "According to news reports"
+     },
+     {
+      "zh": "超過百萬人",
+      "en": "more than one million people"
+     },
+     {
+      "zh": "全球",
+      "en": "around the world"
+     },
+     {
+      "zh": "喪失性命",
+      "en": "lose their lives"
+     },
+     {
+      "zh": "道路事故",
+      "en": "road accidents"
+     }
+    ],
+    "frame": "According to ___ ___, more than one ___ people ___ the world ___ their ___ in ___ ___ every year.",
+    "points": [
+     {
+      "t": "「每年」為經常性事實，用現在簡單式 lose",
+      "w": 1
+     },
+     {
+      "t": "數字後的 million 不加 s：one million people",
+      "w": 1
+     },
+     {
+      "t": "「喪失性命」lose their lives（lives 複數），或 are killed",
+      "w": 1.5
+     },
+     {
+      "t": "常見錯誤：不要寫成 According to the news report said…（According to 與 said 重複）",
+      "w": 0.5
+     }
+    ],
+    "tip": "「根據…」直接用 According to 放句首；主詞是「超過百萬人」，地點「全球」放在人後面。",
+    "gram": [
+     "G0-J01-1"
+    ]
+   },
+   {
+    "zh": "因此，交通法規必須嚴格執行，以確保所有用路人的安全。",
+    "ref": "Therefore, traffic laws must be strictly enforced to ensure the safety of all road users.",
+    "alt": [
+     "Thus, traffic regulations must be strictly carried out in order to guarantee the safety of everyone on the road."
+    ],
+    "keys": [
+     {
+      "zh": "因此",
+      "en": "Therefore"
+     },
+     {
+      "zh": "交通法規",
+      "en": "traffic laws"
+     },
+     {
+      "zh": "嚴格執行",
+      "en": "strictly enforced"
+     },
+     {
+      "zh": "確保",
+      "en": "ensure"
+     },
+     {
+      "zh": "用路人",
+      "en": "road users"
+     }
+    ],
+    "frame": "Therefore, traffic ___ must be ___ ___ to ___ the ___ of all ___ ___.",
+    "points": [
+     {
+      "t": "法規「被執行」用被動 must be enforced / carried out",
+      "w": 1.5
+     },
+     {
+      "t": "「以確保」to ensure / in order to ensure",
+      "w": 1
+     },
+     {
+      "t": "「所有用路人的安全」the safety of all road users",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：Therefore 是副詞，前面若接上一句要用句號或分號，不能只用逗號",
+      "w": 0.5
+     }
+    ],
+    "tip": "法規不會自己執行，所以用被動 must be enforced；後半目的用 to V。",
+    "gram": [
+     "G0-J04-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-109",
+  "y": 109,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "我們有時會違背自己的意願去做某些事情，就只為了要取悅朋友。",
+    "ref": "Sometimes we do certain things against our will just to please our friends.",
+    "alt": [
+     "We sometimes do things against our own wishes simply in order to please our friends."
+    ],
+    "keys": [
+     {
+      "zh": "有時",
+      "en": "Sometimes"
+     },
+     {
+      "zh": "某些事情",
+      "en": "certain things"
+     },
+     {
+      "zh": "違背自己的意願",
+      "en": "against our will"
+     },
+     {
+      "zh": "只為了",
+      "en": "just to"
+     },
+     {
+      "zh": "取悅",
+      "en": "please"
+     }
+    ],
+    "frame": "Sometimes we ___ ___ things ___ our ___ just to ___ our ___.",
+    "points": [
+     {
+      "t": "「違背自己的意願」against our will / against our wishes",
+      "w": 1.5
+     },
+     {
+      "t": "「只為了」just to / simply in order to + 原形動詞",
+      "w": 1
+     },
+     {
+      "t": "一般事實用現在簡單式 do",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：「取悅」用動詞 please，不要寫成名詞 pleasure our friends",
+      "w": 0.5
+     }
+    ],
+    "tip": "主要結構是「我們做事情」，「違背意願」用介系詞片語 against…，「為了取悅」用 to V 表目的。",
+    "gram": [
+     "G0-J06-1"
+    ]
+   },
+   {
+    "zh": "其實，在面對同儕壓力的時候，我們應該學習堅持自己的原則。",
+    "ref": "In fact, when facing peer pressure, we should learn to stick to our own principles.",
+    "alt": [
+     "Actually, when we face peer pressure, we should learn to hold on to our principles."
+    ],
+    "keys": [
+     {
+      "zh": "其實",
+      "en": "In fact"
+     },
+     {
+      "zh": "面對",
+      "en": "facing"
+     },
+     {
+      "zh": "同儕壓力",
+      "en": "peer pressure"
+     },
+     {
+      "zh": "學習",
+      "en": "learn to"
+     },
+     {
+      "zh": "堅持",
+      "en": "stick to"
+     },
+     {
+      "zh": "原則",
+      "en": "principles"
+     }
+    ],
+    "frame": "In fact, when ___ing ___ ___, we should ___ to ___ to our own ___.",
+    "points": [
+     {
+      "t": "「在面對…時」when facing… 或 when we face…",
+      "w": 1
+     },
+     {
+      "t": "「同儕壓力」peer pressure，不可數，不加冠詞",
+      "w": 1
+     },
+     {
+      "t": "「學習堅持」learn to + stick to / hold on to（兩個 to 都要）",
+      "w": 1.5
+     },
+     {
+      "t": "常見錯誤：principle（原則）不要拼成 principal（校長）",
+      "w": 0.5
+     }
+    ],
+    "tip": "主句是「我們應該學習堅持原則」，「面對同儕壓力時」可用 when + V-ing 的簡化子句。",
+    "gram": [
+     "G1-L09-1",
+     "G0-J06-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-108",
+  "y": 108,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "自2007年營運以來，高鐵（the High Speed Rail）已成為臺灣最便利、最快速的交通工具之一。",
+    "ref": "Since it began operating in 2007, the High Speed Rail has become one of the most convenient and fastest means of transportation in Taiwan.",
+    "alt": [
+     "Since it started operation in 2007, the High Speed Rail has become one of the fastest and most convenient ways to travel in Taiwan."
+    ],
+    "keys": [
+     {
+      "zh": "自…以來",
+      "en": "Since"
+     },
+     {
+      "zh": "營運",
+      "en": "began operating"
+     },
+     {
+      "zh": "已成為",
+      "en": "has become"
+     },
+     {
+      "zh": "最便利、最快速的",
+      "en": "most convenient and fastest"
+     },
+     {
+      "zh": "交通工具",
+      "en": "means of transportation"
+     }
+    ],
+    "frame": "Since it ___ ___ in 2007, the High Speed Rail has ___ one of the most ___ and ___ ___ of ___ in Taiwan.",
+    "points": [
+     {
+      "t": "since 子句用過去式 began，主要子句用現在完成式 has become",
+      "w": 1.5
+     },
+     {
+      "t": "one of the + 最高級 + 複數名詞（means 單複同形）",
+      "w": 1
+     },
+     {
+      "t": "最高級寫法：most convenient、fastest（不寫 most fast）",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 Since 2007 it operated…the HSR became…（時態錯）",
+      "w": 0.5
+     }
+    ],
+    "tip": "「自…以來」是現在完成式的訊號；since 後面放過去的起點，可以是時間或過去式子句。",
+    "gram": [
+     "G0-J02-1",
+     "G0-J05-1"
+    ]
+   },
+   {
+    "zh": "對於強調職場效率的人而言，高鐵當然是商務旅行的首選。",
+    "ref": "For those who emphasize efficiency in the workplace, the High Speed Rail is certainly the first choice for business trips.",
+    "alt": [
+     "For people who stress workplace efficiency, the High Speed Rail is of course the top choice for business travel."
+    ],
+    "keys": [
+     {
+      "zh": "對於…而言",
+      "en": "For those who"
+     },
+     {
+      "zh": "強調",
+      "en": "emphasize"
+     },
+     {
+      "zh": "職場效率",
+      "en": "efficiency in the workplace"
+     },
+     {
+      "zh": "當然",
+      "en": "certainly"
+     },
+     {
+      "zh": "首選",
+      "en": "the first choice"
+     },
+     {
+      "zh": "商務旅行",
+      "en": "business trips"
+     }
+    ],
+    "frame": "For ___ who ___ ___ in the ___, the High Speed Rail is ___ the ___ ___ for ___ ___.",
+    "points": [
+     {
+      "t": "「強調…的人」用 those / people who + 動詞（emphasize 不加 on）",
+      "w": 1.5
+     },
+     {
+      "t": "「…的首選」the first / top choice for…",
+      "w": 1
+     },
+     {
+      "t": "「商務旅行」business trips / business travel",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 For people who emphasize on efficiency 或 people who are emphasize",
+      "w": 0.5
+     }
+    ],
+    "tip": "「對於…的人而言」放句首用 For those who…，主要子句很簡單：高鐵是首選。",
+    "gram": [
+     "G1-L04-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-107",
+  "y": 107,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "近年來，有越來越多超級颱風，通常造成嚴重災害。",
+    "ref": "In recent years, there have been more and more super typhoons, which often cause serious disasters.",
+    "alt": [
+     "In recent years, super typhoons have become more and more frequent, often causing severe disasters."
+    ],
+    "keys": [
+     {
+      "zh": "近年來",
+      "en": "In recent years"
+     },
+     {
+      "zh": "有越來越多",
+      "en": "there have been more and more"
+     },
+     {
+      "zh": "超級颱風",
+      "en": "super typhoons"
+     },
+     {
+      "zh": "造成",
+      "en": "cause"
+     },
+     {
+      "zh": "嚴重災害",
+      "en": "serious disasters"
+     }
+    ],
+    "frame": "In recent years, there have ___ more and more ___ ___, which often ___ ___ ___.",
+    "points": [
+     {
+      "t": "「近年來…有」用現在完成式 there have been",
+      "w": 1.5
+     },
+     {
+      "t": "「越來越多」more and more + 複數名詞 typhoons",
+      "w": 1
+     },
+     {
+      "t": "後半用 , which often cause / often causing 修飾颱風，動詞配複數 cause",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 There have many… 或 There are having…",
+      "w": 0.5
+     }
+    ],
+    "tip": "中文「有」對應 there be，再配合「近年來」換成 there have been；後半句用關係子句補充颱風造成的結果。",
+    "gram": [
+     "G0-J02-1",
+     "G1-L04-1"
+    ]
+   },
+   {
+    "zh": "颱風來襲時，我們應準備足夠的食物，並待在室內，若有必要，應迅速移動至安全的地方。",
+    "ref": "When a typhoon is approaching, we should store enough food, stay indoors, and, if necessary, quickly move to a safe place.",
+    "alt": [
+     "When a typhoon hits, we should prepare enough food and stay indoors. If necessary, we should move quickly to a safe place."
+    ],
+    "keys": [
+     {
+      "zh": "足夠的食物",
+      "en": "enough food"
+     },
+     {
+      "zh": "待在室內",
+      "en": "stay indoors"
+     },
+     {
+      "zh": "若有必要",
+      "en": "If necessary"
+     },
+     {
+      "zh": "安全的地方",
+      "en": "a safe place"
+     }
+    ],
+    "frame": "When a typhoon is ___, we should ___ enough ___, ___ ___, and, if ___, quickly ___ to a ___ ___.",
+    "points": [
+     {
+      "t": "「颱風來襲時」When a typhoon is approaching / hits，時間子句用現在式或現在進行式",
+      "w": 1
+     },
+     {
+      "t": "should 後面的動詞都用原形：prepare、stay、move",
+      "w": 1
+     },
+     {
+      "t": "「待在室內」stay indoors（副詞，不加 in）；「若有必要」if necessary",
+      "w": 1
+     },
+     {
+      "t": "「安全的地方」a safe place，冠詞不可漏",
+      "w": 0.5
+     },
+     {
+      "t": "常見錯誤：句子很長時不要一路用逗號接，該斷句就斷句",
+      "w": 0.5
+     }
+    ],
+    "tip": "這題動作很多，先列出「準備食物、待在室內、移到安全處」三件事，用 and 或拆成兩句，保持動詞都是原形。",
+    "gram": [
+     "G0-J10-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-106",
+  "y": 106,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "玉山（Jade Mountain）在冬天常常覆蓋著厚厚的積雪，使整個山頂閃耀如玉。",
+    "ref": "In winter, Jade Mountain is often covered with thick snow, which makes the whole mountaintop shine like jade.",
+    "alt": [
+     "Jade Mountain is often covered with heavy snow in winter, making its entire peak shine like jade."
+    ],
+    "keys": [
+     {
+      "zh": "覆蓋著",
+      "en": "covered with"
+     },
+     {
+      "zh": "厚厚的積雪",
+      "en": "thick snow"
+     },
+     {
+      "zh": "使",
+      "en": "makes"
+     },
+     {
+      "zh": "整個山頂",
+      "en": "the whole mountaintop"
+     },
+     {
+      "zh": "閃耀如玉",
+      "en": "shine like jade"
+     }
+    ],
+    "frame": "In winter, Jade Mountain is often ___ with ___ ___, which ___ the whole ___ ___ like ___.",
+    "points": [
+     {
+      "t": "「覆蓋著」用被動 is covered with，常常 often 放在 be 動詞後",
+      "w": 1
+     },
+     {
+      "t": "「使…閃耀」make + 受詞 + 原形動詞 shine",
+      "w": 1.5
+     },
+     {
+      "t": "用 , which 或分詞 making 承接前一整件事，避免逗號直接連兩句",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：snow 不可數，不寫 thick snows；不要寫成 makes…shining / to shine",
+      "w": 0.5
+     }
+    ],
+    "tip": "前半是被動「被雪覆蓋」，後半「使…」承接整件事，用非限定 which 或分詞構句 making 連起來。",
+    "gram": [
+     "G0-J04-1",
+     "G0-J07-1"
+    ]
+   },
+   {
+    "zh": "征服玉山一直是國內外登山者最困難的挑戰之一。",
+    "ref": "Conquering Jade Mountain has always been one of the most difficult challenges for climbers both at home and abroad.",
+    "alt": [
+     "To conquer Jade Mountain has long been one of the toughest challenges for domestic and foreign mountain climbers."
+    ],
+    "keys": [
+     {
+      "zh": "征服",
+      "en": "Conquering"
+     },
+     {
+      "zh": "一直是",
+      "en": "has always been"
+     },
+     {
+      "zh": "最困難的挑戰之一",
+      "en": "one of the most difficult challenges"
+     },
+     {
+      "zh": "國內外",
+      "en": "both at home and abroad"
+     },
+     {
+      "zh": "登山者",
+      "en": "climbers"
+     }
+    ],
+    "frame": "___ing Jade Mountain has always been one of the ___ ___ ___ for ___ both at ___ and ___.",
+    "points": [
+     {
+      "t": "主詞用動名詞 Conquering，動詞單數 has",
+      "w": 1
+     },
+     {
+      "t": "「一直是」用現在完成式 has always been",
+      "w": 1
+     },
+     {
+      "t": "one of the + 最高級 + 複數名詞：one of the most difficult challenges",
+      "w": 1.5
+     },
+     {
+      "t": "常見錯誤：不要寫成 one of the most difficult challenge（要複數）",
+      "w": 0.5
+     }
+    ],
+    "tip": "「…之一」就是 one of the + 最高級 + 複數名詞；「國內外」可寫 both at home and abroad 或 domestic and foreign。",
+    "gram": [
+     "G0-J05-1",
+     "G0-J06-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-105",
+  "y": 105,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "相較於他們父母的世代，現今年輕人享受較多的自由和繁榮。",
+    "ref": "Compared with their parents' generation, young people today enjoy more freedom and prosperity.",
+    "alt": [
+     "Compared to their parents' generation, today's young people enjoy greater freedom and prosperity."
+    ],
+    "keys": [
+     {
+      "zh": "相較於",
+      "en": "Compared with"
+     },
+     {
+      "zh": "他們父母的世代",
+      "en": "their parents' generation"
+     },
+     {
+      "zh": "現今年輕人",
+      "en": "young people today"
+     },
+     {
+      "zh": "自由和繁榮",
+      "en": "freedom and prosperity"
+     }
+    ],
+    "frame": "Compared with their ___ ___, young people ___ ___ more ___ and ___.",
+    "points": [
+     {
+      "t": "「相較於」用分詞片語 Compared with / to 放句首",
+      "w": 1
+     },
+     {
+      "t": "「父母的世代」parents' generation，撇號放在 s 後面",
+      "w": 1
+     },
+     {
+      "t": "主詞 young people 複數，動詞 enjoy 不加 s",
+      "w": 1
+     },
+     {
+      "t": "freedom、prosperity 都不可數，用 more，不加 s",
+      "w": 0.5
+     },
+     {
+      "t": "常見錯誤：不要寫成 Compare with…（缺 -ed，主詞不是發出比較的人）",
+      "w": 0.5
+     }
+    ],
+    "tip": "先寫主要子句「現今年輕人享受較多自由和繁榮」，再把「相較於…」放句首用 Compared with。",
+    "gram": [
+     "G1-L09-1",
+     "G0-J05-1"
+    ]
+   },
+   {
+    "zh": "但是在這個快速改變的世界中，他們必須學習如何有效地因應新的挑戰。",
+    "ref": "However, in this rapidly changing world, they must learn how to deal with new challenges effectively.",
+    "alt": [
+     "But in this fast-changing world, they have to learn how to cope with new challenges effectively."
+    ],
+    "keys": [
+     {
+      "zh": "快速改變的世界",
+      "en": "rapidly changing world"
+     },
+     {
+      "zh": "如何",
+      "en": "how to"
+     },
+     {
+      "zh": "因應",
+      "en": "deal with"
+     },
+     {
+      "zh": "有效地",
+      "en": "effectively"
+     },
+     {
+      "zh": "新的挑戰",
+      "en": "new challenges"
+     }
+    ],
+    "frame": "However, in this ___ ___ world, they must ___ how to ___ ___ new ___ ___.",
+    "points": [
+     {
+      "t": "「快速改變的世界」用現在分詞當形容詞：this rapidly changing world",
+      "w": 1
+     },
+     {
+      "t": "「學習如何…」learn how to V",
+      "w": 1
+     },
+     {
+      "t": "「因應挑戰」deal with / cope with / face challenges，with 不可漏",
+      "w": 1.5
+     },
+     {
+      "t": "常見錯誤：副詞 effectively 修飾動詞，不要寫成 effective",
+      "w": 0.5
+     }
+    ],
+    "tip": "主要動詞是「必須學習」，受詞是 how to V；地點片語「在這個快速改變的世界中」可放句首。",
+    "gram": [
+     "G2-L04-1",
+     "G1-L03-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-104",
+  "y": 104,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "一個成功的企業不應該把獲利當作最主要的目標。",
+    "ref": "A successful business should not regard making profits as its most important goal.",
+    "alt": [
+     "A successful company should not treat profit as its main goal.",
+     "A successful enterprise should not take profit-making as its primary goal."
+    ],
+    "keys": [
+     {
+      "zh": "成功的",
+      "en": "successful"
+     },
+     {
+      "zh": "企業",
+      "en": "business"
+     },
+     {
+      "zh": "把…當作",
+      "en": "regard making profits as"
+     },
+     {
+      "zh": "最主要的目標",
+      "en": "most important goal"
+     }
+    ],
+    "frame": "A ___ ___ should not ___ ___ ___ as its ___ ___ goal.",
+    "points": [
+     {
+      "t": "「把 A 當作 B」regard / see / treat A as B",
+      "w": 1.5
+     },
+     {
+      "t": "「獲利」making profits 或 profit，介系詞 as 後面接名詞",
+      "w": 1
+     },
+     {
+      "t": "「最主要的目標」its most important / main goal，所有格 its 不可寫成 it's",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：should 後接原形 regard，不要寫 should not regards",
+      "w": 0.5
+     }
+    ],
+    "tip": "中文「把…當作…」直接對應 regard A as B；主詞企業是單數，代名詞用 its。",
+    "gram": [
+     "G0-J05-1"
+    ]
+   },
+   {
+    "zh": "它應該負起社會責任，以增進大眾的福祉。",
+    "ref": "It should take on social responsibility to promote the well-being of the public.",
+    "alt": [
+     "It should fulfill its social responsibilities in order to improve the welfare of the public."
+    ],
+    "keys": [
+     {
+      "zh": "負起",
+      "en": "take on"
+     },
+     {
+      "zh": "社會責任",
+      "en": "social responsibility"
+     },
+     {
+      "zh": "增進",
+      "en": "promote"
+     },
+     {
+      "zh": "大眾的福祉",
+      "en": "the well-being of the public"
+     }
+    ],
+    "frame": "It should ___ ___ social ___ to ___ the ___ of the ___.",
+    "points": [
+     {
+      "t": "「負起責任」take on / fulfill / bear (social) responsibility",
+      "w": 1.5
+     },
+     {
+      "t": "「以增進」用 to V / in order to V 表目的",
+      "w": 1
+     },
+     {
+      "t": "「大眾的福祉」the well-being / welfare of the public",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 take responsible（responsible 是形容詞）",
+      "w": 0.5
+     }
+    ],
+    "tip": "主詞 It 指上一句的企業；後半「以增進…」是目的，用不定詞接在後面。",
+    "gram": [
+     "G0-J06-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-103",
+  "y": 103,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "有些年輕人辭掉都市裡的高薪工作，返回家鄉種植有機蔬菜。",
+    "ref": "Some young people quit their high-paying jobs in the city and return to their hometowns to grow organic vegetables.",
+    "alt": [
+     "Some young people have quit their well-paid jobs in cities and gone back to their hometowns to grow organic vegetables."
+    ],
+    "keys": [
+     {
+      "zh": "辭掉",
+      "en": "quit"
+     },
+     {
+      "zh": "高薪工作",
+      "en": "high-paying jobs"
+     },
+     {
+      "zh": "返回家鄉",
+      "en": "return to their hometowns"
+     },
+     {
+      "zh": "種植有機蔬菜",
+      "en": "grow organic vegetables"
+     }
+    ],
+    "frame": "Some young people ___ their ___ ___ in the city and ___ to their ___ to ___ ___ ___.",
+    "points": [
+     {
+      "t": "兩個動作「辭掉」「返回」用 and 連接，時態一致（quit…and return / have quit…and gone back）",
+      "w": 1.5
+     },
+     {
+      "t": "「高薪工作」high-paying / well-paid jobs",
+      "w": 1
+     },
+     {
+      "t": "「種植有機蔬菜」用 to V 表目的：to grow organic vegetables",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 return back（return 已含 back），quit 的三態都是 quit",
+      "w": 0.5
+     }
+    ],
+    "tip": "一個主詞配兩個動詞，用 and 串起來；「回家鄉種菜」的「種菜」是回去的目的，用不定詞。",
+    "gram": [
+     "G0-J06-1"
+    ]
+   },
+   {
+    "zh": "藉由決心與努力，很多人成功了，不但獲利更多，還過著更健康的生活。",
+    "ref": "With determination and hard work, many of them have succeeded; they not only earn more money but also lead healthier lives.",
+    "alt": [
+     "Through determination and hard work, many of them have become successful. Not only do they make more profits, but they also lead a healthier life."
+    ],
+    "keys": [
+     {
+      "zh": "藉由決心與努力",
+      "en": "With determination and hard work"
+     },
+     {
+      "zh": "成功了",
+      "en": "have succeeded"
+     },
+     {
+      "zh": "不但…還",
+      "en": "not only"
+     },
+     {
+      "zh": "獲利更多",
+      "en": "earn more money"
+     },
+     {
+      "zh": "過著更健康的生活",
+      "en": "lead healthier lives"
+     }
+    ],
+    "frame": "With ___ and ___ ___, many of them have ___; they not only ___ more ___ but also ___ ___ lives.",
+    "points": [
+     {
+      "t": "「藉由決心與努力」With / Through determination and hard work",
+      "w": 1
+     },
+     {
+      "t": "「成功了」用 have succeeded 或 have become successful，不要寫 have successed",
+      "w": 1
+     },
+     {
+      "t": "not only A but also B 兩邊詞性對稱（earn… / lead…）",
+      "w": 1.5
+     },
+     {
+      "t": "常見錯誤：Not only 放句首要倒裝 Not only do they…",
+      "w": 0.5
+     }
+    ],
+    "tip": "先寫「很多人成功了」，再用 not only…but also 補充成功的兩個結果；句子太長可以用分號或句號拆開。",
+    "gram": [
+     "G3-L03-1",
+     "G0-J02-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-102",
+  "y": 102,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "都會地區的高房價對社會產生了嚴重的影響。",
+    "ref": "High housing prices in urban areas have had a serious impact on society.",
+    "alt": [
+     "The high cost of housing in metropolitan areas has had a serious effect on society."
+    ],
+    "keys": [
+     {
+      "zh": "高房價",
+      "en": "High housing prices"
+     },
+     {
+      "zh": "都會地區",
+      "en": "urban areas"
+     },
+     {
+      "zh": "產生…影響",
+      "en": "have had a serious impact on"
+     },
+     {
+      "zh": "社會",
+      "en": "society"
+     }
+    ],
+    "frame": "High ___ ___ in ___ areas have had a ___ ___ on ___.",
+    "points": [
+     {
+      "t": "「對…產生影響」have an impact / effect on，介系詞用 on",
+      "w": 1.5
+     },
+     {
+      "t": "用現在完成式 have had 表示影響持續到現在",
+      "w": 1
+     },
+     {
+      "t": "主詞 prices 複數配 have；若用 the high cost 則配 has",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：society 泛指社會時不加 the，也不要寫成 influence to society",
+      "w": 0.5
+     }
+    ],
+    "tip": "中文「都會地區的高房價」英文要倒過來：先寫 high housing prices，再接 in urban areas。",
+    "gram": [
+     "G0-J02-1"
+    ]
+   },
+   {
+    "zh": "政府正推出新的政策，以滿足人們的住房需求。",
+    "ref": "The government is introducing new policies to meet people's housing needs.",
+    "alt": [
+     "The government is launching new policies in order to satisfy people's need for housing."
+    ],
+    "keys": [
+     {
+      "zh": "推出",
+      "en": "introducing"
+     },
+     {
+      "zh": "政策",
+      "en": "policies"
+     },
+     {
+      "zh": "以",
+      "en": "to meet"
+     },
+     {
+      "zh": "住房需求",
+      "en": "housing needs"
+     }
+    ],
+    "frame": "The government is ___ing new ___ to ___ people's ___ ___.",
+    "points": [
+     {
+      "t": "「正推出」用現在進行式 is introducing / is launching",
+      "w": 1
+     },
+     {
+      "t": "「以…」表示目的，用不定詞 to V 或 in order to V",
+      "w": 1
+     },
+     {
+      "t": "「滿足需求」用 meet / satisfy needs，不用 full / finish",
+      "w": 1.5
+     },
+     {
+      "t": "常見錯誤：government 是單數，用 is 不是 are；people's 的撇號放在 s 前",
+      "w": 0.5
+     }
+    ],
+    "tip": "主要動詞是「推出」，後半句「以滿足…」是目的，用 to V 接在後面。",
+    "gram": [
+     "G0-J01-1",
+     "G0-J06-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-101",
+  "y": 101,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "近年來，許多臺灣製作的影片已經受到國際的重視。",
+    "ref": "In recent years, many films made in Taiwan have received international attention.",
+    "alt": [
+     "In recent years, many Taiwanese-made films have attracted international attention.",
+     "Many films produced in Taiwan have gained worldwide attention in recent years."
+    ],
+    "keys": [
+     {
+      "zh": "近年來",
+      "en": "In recent years"
+     },
+     {
+      "zh": "臺灣製作的",
+      "en": "made in Taiwan"
+     },
+     {
+      "zh": "受到",
+      "en": "have received"
+     },
+     {
+      "zh": "國際的重視",
+      "en": "international attention"
+     }
+    ],
+    "frame": "In recent years, many ___ ___ in Taiwan have ___ ___ ___.",
+    "points": [
+     {
+      "t": "「近年來」In recent years 搭配現在完成式 have received",
+      "w": 1.5
+     },
+     {
+      "t": "「臺灣製作的影片」用過去分詞片語放在名詞後：films made in Taiwan",
+      "w": 1
+     },
+     {
+      "t": "「受到國際重視」receive / attract international attention",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 films which made in Taiwan（少了 were）",
+      "w": 0.5
+     }
+    ],
+    "tip": "看到「近年來」先想到現在完成式；「臺灣製作的」是被動意義，用過去分詞 made 修飾 films。",
+    "gram": [
+     "G0-J02-1",
+     "G2-L04-1"
+    ]
+   },
+   {
+    "zh": "拍攝這些電影的地點也成為熱門的觀光景點。",
+    "ref": "The places where these films were shot have also become popular tourist attractions.",
+    "alt": [
+     "The locations where these movies were filmed have also become popular tourist spots."
+    ],
+    "keys": [
+     {
+      "zh": "地點",
+      "en": "The places where"
+     },
+     {
+      "zh": "拍攝",
+      "en": "shot"
+     },
+     {
+      "zh": "也成為",
+      "en": "have also become"
+     },
+     {
+      "zh": "熱門的",
+      "en": "popular"
+     },
+     {
+      "zh": "觀光景點",
+      "en": "tourist attractions"
+     }
+    ],
+    "frame": "The ___ where these ___ were ___ have also ___ ___ tourist ___.",
+    "points": [
+     {
+      "t": "「拍攝這些電影的地點」用關係副詞 where：the places where these films were shot",
+      "w": 1.5
+     },
+     {
+      "t": "電影是「被拍攝」，用被動 were shot / were filmed",
+      "w": 1
+     },
+     {
+      "t": "主詞 places 複數，用 have become；景點也要複數 attractions",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 The places which these films were shot（which 後面少介系詞 in）",
+      "w": 0.5
+     }
+    ],
+    "tip": "先找真正主詞「地點」，再把「拍攝這些電影的」改成 where 子句放在後面；主詞很長時要記得動詞與 places 一致。",
+    "gram": [
+     "G2-L02-1",
+     "G0-J02-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-100",
+  "y": 100,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "臺灣的夜市早已被認為足以代表我們的在地文化。",
+    "ref": "Taiwan's night markets have long been considered representative of our local culture.",
+    "alt": [
+     "The night markets in Taiwan have long been regarded as a good representation of our local culture."
+    ],
+    "keys": [
+     {
+      "zh": "夜市",
+      "en": "night markets"
+     },
+     {
+      "zh": "早已",
+      "en": "have long been"
+     },
+     {
+      "zh": "被認為",
+      "en": "considered"
+     },
+     {
+      "zh": "足以代表",
+      "en": "representative of"
+     },
+     {
+      "zh": "在地文化",
+      "en": "local culture"
+     }
+    ],
+    "frame": "Taiwan's ___ ___ have long been ___ ___ of our ___ ___.",
+    "points": [
+     {
+      "t": "「早已被認為」用現在完成式被動 have long been considered",
+      "w": 2
+     },
+     {
+      "t": "「足以代表」be considered (to be) representative of / be regarded as a representation of",
+      "w": 1
+     },
+     {
+      "t": "夜市複數 night markets，動詞用 have",
+      "w": 0.5
+     },
+     {
+      "t": "常見錯誤：不要寫成 have long considered（少了 been 就變主動）",
+      "w": 0.5
+     }
+    ],
+    "tip": "中文有「被」字，又有「早已」，結構就是現在完成式被動 have been p.p.，副詞 long 放在 have 和 been 中間。",
+    "gram": [
+     "G0-J04-1",
+     "G0-J02-1"
+    ]
+   },
+   {
+    "zh": "每年它們都吸引了成千上萬來自不同國家的觀光客。",
+    "ref": "Every year, they attract thousands of tourists from different countries.",
+    "alt": [
+     "They attract thousands of tourists from various countries every year.",
+     "Each year, thousands of tourists from different countries are attracted to them."
+    ],
+    "keys": [
+     {
+      "zh": "每年",
+      "en": "Every year"
+     },
+     {
+      "zh": "吸引",
+      "en": "attract"
+     },
+     {
+      "zh": "成千上萬",
+      "en": "thousands of"
+     },
+     {
+      "zh": "觀光客",
+      "en": "tourists"
+     },
+     {
+      "zh": "來自不同國家",
+      "en": "from different countries"
+     }
+    ],
+    "frame": "Every year, they ___ ___ of ___ from ___ ___.",
+    "points": [
+     {
+      "t": "「每年」表示經常發生的事，用現在簡單式 attract；主詞 they 複數，不加 s",
+      "w": 1.5
+     },
+     {
+      "t": "「成千上萬」thousands of + 複數名詞",
+      "w": 1
+     },
+     {
+      "t": "「來自不同國家的」放在名詞後面 tourists from different countries，countries 複數",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 thousand of tourists 或 thousands tourists",
+      "w": 0.5
+     }
+    ],
+    "tip": "中文的修飾語「來自不同國家的」在名詞前，英文要搬到名詞後面當介系詞片語。",
+    "gram": [
+     "G0-J01-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-99",
+  "y": 99,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "在過去，腳踏車主要是作為一種交通工具。",
+    "ref": "In the past, bicycles were mainly used as a means of transportation.",
+    "alt": [
+     "In the past, the bicycle mainly served as a means of transportation."
+    ],
+    "keys": [
+     {
+      "zh": "在過去",
+      "en": "In the past"
+     },
+     {
+      "zh": "主要",
+      "en": "mainly"
+     },
+     {
+      "zh": "作為",
+      "en": "used as"
+     },
+     {
+      "zh": "交通工具",
+      "en": "a means of transportation"
+     }
+    ],
+    "frame": "In the past, ___ were ___ used as a ___ of ___.",
+    "points": [
+     {
+      "t": "「在過去」配過去式 were，不用現在式",
+      "w": 1
+     },
+     {
+      "t": "「作為…之用」用被動 be used as",
+      "w": 1.5
+     },
+     {
+      "t": "「交通工具」a means of transportation（means 單複同形）",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 bicycles were mainly a transportation tool 或 used to a transportation",
+      "w": 0.5
+     }
+    ],
+    "tip": "腳踏車是「被用來」當交通工具，所以用被動語態 were used as；時間點在過去，動詞用過去式。",
+    "gram": [
+     "G0-J04-1",
+     "G0-J02-1"
+    ]
+   },
+   {
+    "zh": "然而，騎腳踏車現在已經成為一種熱門的休閒活動。",
+    "ref": "However, riding bicycles has now become a popular leisure activity.",
+    "alt": [
+     "However, cycling has now become a popular recreational activity."
+    ],
+    "keys": [
+     {
+      "zh": "然而",
+      "en": "However"
+     },
+     {
+      "zh": "騎腳踏車",
+      "en": "riding bicycles"
+     },
+     {
+      "zh": "已經成為",
+      "en": "has now become"
+     },
+     {
+      "zh": "熱門的",
+      "en": "popular"
+     },
+     {
+      "zh": "休閒活動",
+      "en": "leisure activity"
+     }
+    ],
+    "frame": "However, ___ing ___ has now ___ a ___ ___ activity.",
+    "points": [
+     {
+      "t": "主詞是動名詞 riding bicycles，視為單數，用 has",
+      "w": 1.5
+     },
+     {
+      "t": "「已經成為」用現在完成式 has become",
+      "w": 1
+     },
+     {
+      "t": "「休閒活動」a leisure activity，冠詞 a 不可漏",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：However 後面要加逗號，不要寫成 Ride bicycles has become…",
+      "w": 0.5
+     }
+    ],
+    "tip": "和上一句對比，時間從過去變成現在，動詞換成現在完成式；主詞「騎腳踏車」用動名詞。",
+    "gram": [
+     "G0-J02-1",
+     "G0-J06-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-98",
+  "y": 98,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "大部分學生不習慣自己解決問題，他們總是期待老師提供標準答案。",
+    "ref": "Most students are not used to solving problems on their own; they always expect their teachers to provide standard answers.",
+    "alt": [
+     "Most students are not accustomed to solving problems by themselves. They always expect their teachers to give them standard answers."
+    ],
+    "keys": [
+     {
+      "zh": "不習慣",
+      "en": "not used to solving"
+     },
+     {
+      "zh": "自己",
+      "en": "on their own"
+     },
+     {
+      "zh": "期待老師",
+      "en": "expect their teachers to"
+     },
+     {
+      "zh": "提供",
+      "en": "provide"
+     },
+     {
+      "zh": "標準答案",
+      "en": "standard answers"
+     }
+    ],
+    "frame": "Most students are not ___ to ___ing ___ on their own; they always ___ their teachers to ___ ___ ___.",
+    "points": [
+     {
+      "t": "be used to + V-ing（to 是介系詞）：are not used to solving",
+      "w": 1.5
+     },
+     {
+      "t": "expect + 受詞 + to V：expect their teachers to provide",
+      "w": 1
+     },
+     {
+      "t": "兩個完整句子用分號、句號或 and 連接，不可只用逗號",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 are not used to solve，也不要和 used to V（過去習慣）混淆",
+      "w": 0.5
+     }
+    ],
+    "tip": "這句有兩個主詞動詞，先拆成兩句再處理；「習慣於做」記得是 be used to + V-ing。",
+    "gram": [
+     "G0-J06-1"
+    ]
+   },
+   {
+    "zh": "除了用功讀書獲取知識外，學生也應該培養獨立思考的能力。",
+    "ref": "In addition to studying hard to gain knowledge, students should also develop the ability to think independently.",
+    "alt": [
+     "Besides studying hard to acquire knowledge, students should also cultivate the ability to think independently.",
+     "Apart from studying hard to gain knowledge, students should also develop the ability to think on their own."
+    ],
+    "keys": [
+     {
+      "zh": "除了…外",
+      "en": "In addition to"
+     },
+     {
+      "zh": "獲取知識",
+      "en": "gain knowledge"
+     },
+     {
+      "zh": "培養",
+      "en": "develop"
+     },
+     {
+      "zh": "獨立思考的能力",
+      "en": "the ability to think independently"
+     }
+    ],
+    "frame": "In addition to ___ing hard to ___ ___, students should also ___ the ___ to ___ ___.",
+    "points": [
+     {
+      "t": "In addition to / Besides 後面接動名詞 studying",
+      "w": 1.5
+     },
+     {
+      "t": "「獲取知識」gain knowledge，knowledge 不可數不加 s",
+      "w": 0.5
+     },
+     {
+      "t": "「培養…能力」develop / cultivate the ability to V",
+      "w": 1
+     },
+     {
+      "t": "「獨立思考」think independently（副詞修飾動詞）",
+      "w": 0.5
+     },
+     {
+      "t": "常見錯誤：「除了…也」不要用 Except，except 是「除…之外都不」",
+      "w": 0.5
+     }
+    ],
+    "tip": "主要子句是「學生也應該培養能力」，「除了用功讀書」放句首當介系詞片語，介系詞後接 V-ing。",
+    "gram": [
+     "G0-J06-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TR-97",
+  "y": 97,
+  "kind": "past",
+  "items": [
+   {
+    "zh": "聽音樂是一個你可以終生享受的嗜好。",
+    "ref": "Listening to music is a hobby that you can enjoy all your life.",
+    "alt": [
+     "Listening to music is a hobby which you can enjoy for the rest of your life.",
+     "Listening to music is a lifelong hobby that you can enjoy."
+    ],
+    "keys": [
+     {
+      "zh": "聽音樂",
+      "en": "Listening to music"
+     },
+     {
+      "zh": "嗜好",
+      "en": "a hobby"
+     },
+     {
+      "zh": "享受",
+      "en": "enjoy"
+     },
+     {
+      "zh": "終生",
+      "en": "all your life"
+     }
+    ],
+    "frame": "___ing to ___ is a ___ that you can ___ ___ your life.",
+    "points": [
+     {
+      "t": "主詞用動名詞 Listening to music，動詞用單數 is",
+      "w": 1.5
+     },
+     {
+      "t": "「你可以終生享受的」用形容詞子句 that you can enjoy 放在 hobby 後面",
+      "w": 1
+     },
+     {
+      "t": "「終生」寫成 all your life 或 for the rest of your life",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要漏掉 to（listen to music），也不要寫成 Listen music is…",
+      "w": 0.5
+     }
+    ],
+    "tip": "先抓主要結構「A 是 B」，A 用動名詞當主詞，B 的修飾語「你可以終生享受的」改成關係子句放在名詞後。",
+    "gram": [
+     "G0-J06-1",
+     "G1-L04-1"
+    ]
+   },
+   {
+    "zh": "但能彈奏樂器可以為你帶來更多的喜悅。",
+    "ref": "But being able to play a musical instrument can bring you even more joy.",
+    "alt": [
+     "However, being able to play a musical instrument can bring more joy to you."
+    ],
+    "keys": [
+     {
+      "zh": "能",
+      "en": "being able to"
+     },
+     {
+      "zh": "彈奏樂器",
+      "en": "play a musical instrument"
+     },
+     {
+      "zh": "帶來",
+      "en": "bring you"
+     },
+     {
+      "zh": "更多的喜悅",
+      "en": "more joy"
+     }
+    ],
+    "frame": "But being ___ to ___ a ___ ___ can ___ you even more ___.",
+    "points": [
+     {
+      "t": "主詞「能彈奏樂器」用動名詞 being able to play，動詞用助動詞 can + 原形",
+      "w": 1.5
+     },
+     {
+      "t": "bring + 人 + 物，或 bring + 物 + to + 人",
+      "w": 1
+     },
+     {
+      "t": "joy 不可數，「更多的喜悅」寫 more joy，不加 s",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 Can play an instrument can…（主詞不能用助動詞開頭）",
+      "w": 0.5
+     }
+    ],
+    "tip": "中文主詞「能彈奏樂器」是一件事，英文要轉成動名詞片語 being able to play…。",
+    "gram": [
+     "G0-J06-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TP-01",
+  "kind": "pat",
+  "title": "現在完成式：近年來／自從",
+  "gram": [
+   "G0-J02-1"
+  ],
+  "items": [
+   {
+    "zh": "近年來，越來越多高中生選擇每天騎腳踏車上學。",
+    "ref": "In recent years, more and more high school students have chosen to ride bicycles to school every day.",
+    "alt": [
+     "Over the past few years, an increasing number of high school students have chosen to go to school by bike every day."
+    ],
+    "keys": [
+     {
+      "zh": "近年來",
+      "en": "in recent years"
+     },
+     {
+      "zh": "越來越多",
+      "en": "more and more"
+     },
+     {
+      "zh": "高中生",
+      "en": "high school students"
+     },
+     {
+      "zh": "選擇",
+      "en": "have chosen to"
+     },
+     {
+      "zh": "騎腳踏車上學",
+      "en": "ride bicycles to school"
+     }
+    ],
+    "frame": "In recent years, more and more ___ have + p.p. ___ to school.",
+    "points": [
+     {
+      "t": "「近年來」in recent years 搭配現在完成式 have chosen",
+      "w": 1.5
+     },
+     {
+      "t": "「越來越多高中生」more and more high school students，名詞用複數",
+      "w": 1
+     },
+     {
+      "t": "choose to + 原形動詞：have chosen to ride",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 ride bicycle（可數名詞要加 a 或用複數）",
+      "w": 0.5
+     }
+    ],
+    "tip": "看到「近年來」就鎖定現在完成式，主詞是「越來越多學生」，動詞是「選擇」。",
+    "gram": [
+     "G0-J02-1"
+    ]
+   },
+   {
+    "zh": "自從搬到台北之後，他已經習慣搭捷運上班了。",
+    "ref": "Since he moved to Taipei, he has gotten used to taking the MRT to work.",
+    "alt": [
+     "He has become used to taking the MRT to work since he moved to Taipei."
+    ],
+    "keys": [
+     {
+      "zh": "自從",
+      "en": "since"
+     },
+     {
+      "zh": "習慣",
+      "en": "gotten used to"
+     },
+     {
+      "zh": "搭捷運",
+      "en": "taking the MRT"
+     },
+     {
+      "zh": "上班",
+      "en": "to work"
+     }
+    ],
+    "frame": "Since he + 過去式 ___, he has + p.p. ___ + V-ing ___.",
+    "points": [
+     {
+      "t": "since 子句用過去式 moved，主要子句用現在完成式 has gotten",
+      "w": 1.5
+     },
+     {
+      "t": "「習慣於」get/be used to + V-ing：used to taking",
+      "w": 1.5
+     },
+     {
+      "t": "常見錯誤：不要寫成 used to take（那是「過去常常」）",
+      "w": 1
+     }
+    ],
+    "tip": "「自從」引導的時間點用過去式，「已經習慣」是持續到現在的狀態，用現在完成式。",
+    "gram": [
+     "G0-J02-1"
+    ]
+   },
+   {
+    "zh": "自從智慧型手機普及以來，人們閱讀紙本書的時間已大幅減少。",
+    "ref": "Since smartphones became popular, the time people spend reading paper books has decreased greatly.",
+    "alt": [
+     "People have spent much less time reading printed books since smartphones became common."
+    ],
+    "keys": [
+     {
+      "zh": "普及",
+      "en": "became popular"
+     },
+     {
+      "zh": "紙本書",
+      "en": "paper books"
+     },
+     {
+      "zh": "大幅減少",
+      "en": "decreased greatly"
+     },
+     {
+      "zh": "閱讀…的時間",
+      "en": "the time people spend reading"
+     }
+    ],
+    "frame": "Since ___ became ___, the time people spend ___ has + p.p. ___.",
+    "points": [
+     {
+      "t": "since + 過去式 became popular，主要子句 has decreased",
+      "w": 1.5
+     },
+     {
+      "t": "主詞是 the time（單數），動詞用 has 不用 have",
+      "w": 1
+     },
+     {
+      "t": "spend + 時間 + V-ing：the time people spend reading",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：「減少」decrease 是不及物動詞，不要寫成 has been decreased",
+      "w": 0.5
+     }
+    ],
+    "tip": "主詞抓「時間」，再用 people spend reading 修飾它，句子就不會亂。",
+    "gram": [
+     "G0-J02-1"
+    ]
+   },
+   {
+    "zh": "過去十年來，台灣夏季的平均氣溫已經上升了將近一度。",
+    "ref": "Over the past decade, the average summer temperature in Taiwan has risen by nearly one degree.",
+    "alt": [
+     "In the past ten years, Taiwan's average summer temperature has gone up by almost one degree."
+    ],
+    "keys": [
+     {
+      "zh": "過去十年來",
+      "en": "over the past decade"
+     },
+     {
+      "zh": "平均氣溫",
+      "en": "average summer temperature"
+     },
+     {
+      "zh": "上升",
+      "en": "has risen"
+     },
+     {
+      "zh": "將近",
+      "en": "nearly"
+     }
+    ],
+    "frame": "Over the past ___, the ___ temperature in Taiwan has + p.p. by ___.",
+    "points": [
+     {
+      "t": "「過去十年來」over the past decade / in the past ten years，搭配現在完成式",
+      "w": 1.5
+     },
+     {
+      "t": "rise 的三態 rise-rose-risen：has risen",
+      "w": 1
+     },
+     {
+      "t": "「上升了一度」用介系詞 by：risen by nearly one degree",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 has raised 或 is risen（raise 是及物動詞）",
+      "w": 0.5
+     }
+    ],
+    "tip": "主詞是「平均氣溫」，動詞是「上升」；增減的幅度用 by 表示。",
+    "gram": [
+     "G0-J02-1"
+    ]
+   },
+   {
+    "zh": "自從疫情爆發以來，許多傳統市場已經開始提供線上訂購服務，以吸引年輕顧客。",
+    "ref": "Since the pandemic broke out, many traditional markets have begun to offer online ordering services to attract young customers.",
+    "alt": [
+     "Many traditional markets have started providing online ordering services since the outbreak of the pandemic in order to attract younger customers."
+    ],
+    "keys": [
+     {
+      "zh": "疫情爆發",
+      "en": "the pandemic broke out"
+     },
+     {
+      "zh": "傳統市場",
+      "en": "traditional markets"
+     },
+     {
+      "zh": "線上訂購服務",
+      "en": "online ordering services"
+     },
+     {
+      "zh": "吸引",
+      "en": "attract"
+     }
+    ],
+    "frame": "Since the ___ broke out, many ___ have begun to ___ to attract ___.",
+    "points": [
+     {
+      "t": "since + 過去式 broke out，主要子句 have begun to offer",
+      "w": 1.5
+     },
+     {
+      "t": "「以吸引」用不定詞表目的 to attract（或 in order to attract）",
+      "w": 1
+     },
+     {
+      "t": "traditional markets、online ordering services 名詞複數正確",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：break out 是不及物，不要寫成 was broken out",
+      "w": 0.5
+     }
+    ],
+    "tip": "先寫「自從…以來」的時間子句，再寫主要句「市場已開始提供服務」，最後用 to V 補上目的。",
+    "gram": [
+     "G0-J02-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TP-02",
+  "kind": "pat",
+  "title": "被動語態",
+  "gram": [
+   "G0-J04-1"
+  ],
+  "items": [
+   {
+    "zh": "這座古老的寺廟建於一百多年前，至今仍保存得很好。",
+    "ref": "This old temple was built more than a hundred years ago and is still well preserved today.",
+    "alt": [
+     "This ancient temple, which was built over a century ago, is still in good condition today."
+    ],
+    "keys": [
+     {
+      "zh": "古老的寺廟",
+      "en": "old temple"
+     },
+     {
+      "zh": "建於",
+      "en": "was built"
+     },
+     {
+      "zh": "一百多年前",
+      "en": "more than a hundred years ago"
+     },
+     {
+      "zh": "保存得很好",
+      "en": "well preserved"
+     }
+    ],
+    "frame": "This ___ was + p.p. ___ ago and is still ___ + p.p. today.",
+    "points": [
+     {
+      "t": "「建於」用過去式被動 was built",
+      "w": 1.5
+     },
+     {
+      "t": "「至今仍保存得很好」用現在式被動 is still well preserved",
+      "w": 1
+     },
+     {
+      "t": "「一百多年前」more than a hundred years ago",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 This temple built…（少了 be 動詞）",
+      "w": 0.5
+     }
+    ],
+    "tip": "寺廟不會自己蓋自己，「建」和「保存」都要用被動；注意兩個時態不同。",
+    "gram": [
+     "G0-J04-1"
+    ]
+   },
+   {
+    "zh": "在段考期間，學生不被允許在教室裡使用手機。",
+    "ref": "During exams, students are not allowed to use cell phones in the classroom.",
+    "alt": [
+     "Students are not permitted to use their cell phones in the classroom during exams."
+    ],
+    "keys": [
+     {
+      "zh": "期間",
+      "en": "during"
+     },
+     {
+      "zh": "不被允許",
+      "en": "are not allowed to"
+     },
+     {
+      "zh": "使用手機",
+      "en": "use cell phones"
+     },
+     {
+      "zh": "教室裡",
+      "en": "in the classroom"
+     }
+    ],
+    "frame": "During ___, students are not + p.p. to ___ in the ___.",
+    "points": [
+     {
+      "t": "「不被允許」be not allowed to + 原形動詞",
+      "w": 2
+     },
+     {
+      "t": "「在…期間」during + 名詞：during exams",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 students are not allow to（allow 要用過去分詞）",
+      "w": 1
+     }
+    ],
+    "tip": "中文已經寫出「被」，直接套 be + p.p.；allow 後面接 to V。",
+    "gram": [
+     "G0-J04-1"
+    ]
+   },
+   {
+    "zh": "每年都有大量的塑膠垃圾被丟進海洋，對海洋生物造成嚴重的傷害。",
+    "ref": "Every year, a large amount of plastic waste is thrown into the ocean, causing serious harm to marine life.",
+    "alt": [
+     "A great deal of plastic garbage is dumped into the sea every year, which does serious harm to marine life."
+    ],
+    "keys": [
+     {
+      "zh": "大量的",
+      "en": "a large amount of"
+     },
+     {
+      "zh": "塑膠垃圾",
+      "en": "plastic waste"
+     },
+     {
+      "zh": "被丟進",
+      "en": "is thrown into"
+     },
+     {
+      "zh": "海洋生物",
+      "en": "marine life"
+     },
+     {
+      "zh": "造成嚴重的傷害",
+      "en": "causing serious harm to"
+     }
+    ],
+    "frame": "Every year, a large amount of ___ is + p.p. into ___, causing ___ to ___.",
+    "points": [
+     {
+      "t": "waste 不可數，用 a large amount of，動詞用單數 is",
+      "w": 1
+     },
+     {
+      "t": "「被丟進」現在式被動 is thrown into",
+      "w": 1.5
+     },
+     {
+      "t": "後半句用分詞 causing… 或 which does… 表結果",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 a lot of plastic wastes are…（waste 不加 s）",
+      "w": 0.5
+     }
+    ],
+    "tip": "主詞是垃圾，所以用被動；「造成傷害」接在逗號後用分詞，避免兩個動詞直接相連。",
+    "gram": [
+     "G0-J04-1"
+    ]
+   },
+   {
+    "zh": "這項新的交通規定預計將從明年一月起開始實施。",
+    "ref": "The new traffic regulation is expected to be put into effect starting next January.",
+    "alt": [
+     "The new traffic rule is expected to be carried out from next January."
+    ],
+    "keys": [
+     {
+      "zh": "交通規定",
+      "en": "traffic regulation"
+     },
+     {
+      "zh": "預計",
+      "en": "is expected to"
+     },
+     {
+      "zh": "實施",
+      "en": "be put into effect"
+     },
+     {
+      "zh": "從明年一月起",
+      "en": "starting next January"
+     }
+    ],
+    "frame": "The new ___ is expected to be + p.p. ___ starting ___.",
+    "points": [
+     {
+      "t": "「預計」be expected to + V",
+      "w": 1
+     },
+     {
+      "t": "「被實施」不定詞的被動 to be put into effect / to be carried out",
+      "w": 1.5
+     },
+     {
+      "t": "「實施」的搭配詞：put into effect / carry out",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：next January 前不加 in 或 the",
+      "w": 0.5
+     }
+    ],
+    "tip": "規定是「被」實施的，所以 expected 後面要接 to be + p.p.，形成雙重被動。",
+    "gram": [
+     "G0-J04-1"
+    ]
+   },
+   {
+    "zh": "據報導，這座城市的空氣污染已被有效減少，市民的健康也因此受益。",
+    "ref": "It is reported that air pollution in this city has been effectively reduced, and its residents' health has benefited as a result.",
+    "alt": [
+     "Air pollution in this city is reported to have been reduced effectively, which has benefited the health of its citizens."
+    ],
+    "keys": [
+     {
+      "zh": "據報導",
+      "en": "it is reported that"
+     },
+     {
+      "zh": "空氣污染",
+      "en": "air pollution"
+     },
+     {
+      "zh": "已被有效減少",
+      "en": "has been effectively reduced"
+     },
+     {
+      "zh": "受益",
+      "en": "benefited"
+     },
+     {
+      "zh": "因此",
+      "en": "as a result"
+     }
+    ],
+    "frame": "It is reported that ___ has been + adv. + p.p., and ___ has + p.p. as a result.",
+    "points": [
+     {
+      "t": "「據報導」It is reported that…",
+      "w": 1
+     },
+     {
+      "t": "現在完成式被動 has been effectively reduced",
+      "w": 1.5
+     },
+     {
+      "t": "benefit 作不及物動詞用主動 has benefited（不要寫 has been benefited）",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：air pollution 不可數，不加 s、動詞用單數",
+      "w": 0.5
+     }
+    ],
+    "tip": "先處理「據報導」的句型，再把污染當主詞寫被動，後半句的「受益」反而用主動。",
+    "gram": [
+     "G0-J04-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TP-03",
+  "kind": "pat",
+  "title": "比較級與最高級",
+  "gram": [
+   "G0-J05-1"
+  ],
+  "items": [
+   {
+    "zh": "對許多學生來說，搭公車上學比騎機車更安全。",
+    "ref": "For many students, taking the bus to school is safer than riding a scooter.",
+    "alt": [
+     "Many students find it safer to take the bus to school than to ride a scooter."
+    ],
+    "keys": [
+     {
+      "zh": "對…來說",
+      "en": "for many students"
+     },
+     {
+      "zh": "搭公車",
+      "en": "taking the bus"
+     },
+     {
+      "zh": "更安全",
+      "en": "safer than"
+     },
+     {
+      "zh": "騎機車",
+      "en": "riding a scooter"
+     }
+    ],
+    "frame": "For many students, V-ing ___ is ___-er than V-ing ___.",
+    "points": [
+     {
+      "t": "動名詞當主詞 taking the bus，動詞用單數 is",
+      "w": 1
+     },
+     {
+      "t": "比較級 safer than（不要寫 more safer）",
+      "w": 1.5
+     },
+     {
+      "t": "比較的兩邊要對等：taking… than riding…",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：「機車」是 scooter / motorcycle，不要寫 motorbicycle",
+      "w": 0.5
+     }
+    ],
+    "tip": "比較句要先確認比的是哪兩件事，兩邊用同樣的詞性（動名詞對動名詞）。",
+    "gram": [
+     "G0-J05-1"
+    ]
+   },
+   {
+    "zh": "這次颱風帶來的雨量是過去二十年來最多的一次。",
+    "ref": "The rainfall brought by this typhoon was the heaviest in the past twenty years.",
+    "alt": [
+     "This typhoon brought more rain than any other typhoon in the past twenty years."
+    ],
+    "keys": [
+     {
+      "zh": "颱風",
+      "en": "typhoon"
+     },
+     {
+      "zh": "雨量",
+      "en": "rainfall"
+     },
+     {
+      "zh": "最多",
+      "en": "the heaviest"
+     },
+     {
+      "zh": "過去二十年來",
+      "en": "in the past twenty years"
+     },
+     {
+      "zh": "帶來的",
+      "en": "brought by"
+     }
+    ],
+    "frame": "The ___ brought by this ___ was the ___-est in the past ___.",
+    "points": [
+     {
+      "t": "最高級 the heaviest，前面要有 the",
+      "w": 1.5
+     },
+     {
+      "t": "rainfall 用 heavy 形容，不用 much / many",
+      "w": 1
+     },
+     {
+      "t": "過去分詞 brought by this typhoon 修飾 rainfall",
+      "w": 1
+     },
+     {
+      "t": "也可用「比較級 + than any other + 單數名詞」表最高級",
+      "w": 0.5
+     }
+    ],
+    "tip": "主詞抓「雨量」，用 brought by… 補充來源；形容雨量多要用 heavy。",
+    "gram": [
+     "G0-J05-1"
+    ]
+   },
+   {
+    "zh": "阿里山的日出是台灣最美的景色之一，每年吸引無數遊客前往觀賞。",
+    "ref": "The sunrise at Alishan is one of the most beautiful sights in Taiwan, and every year it attracts countless visitors who come to see it.",
+    "alt": [
+     "Watching the sunrise on Alishan is one of the most amazing experiences in Taiwan, drawing numerous tourists there every year."
+    ],
+    "keys": [
+     {
+      "zh": "日出",
+      "en": "sunrise"
+     },
+     {
+      "zh": "最美的景色之一",
+      "en": "one of the most beautiful sights"
+     },
+     {
+      "zh": "吸引",
+      "en": "attracts"
+     },
+     {
+      "zh": "無數",
+      "en": "countless"
+     },
+     {
+      "zh": "遊客",
+      "en": "visitors"
+     }
+    ],
+    "frame": "The ___ at Alishan is one of the most ___ + 複數名詞 in Taiwan, and every year it ___.",
+    "points": [
+     {
+      "t": "one of the + 最高級 + 複數名詞：one of the most beautiful sights",
+      "w": 2
+     },
+     {
+      "t": "主詞 the sunrise 單數，動詞用 is / attracts",
+      "w": 1
+     },
+     {
+      "t": "「前往觀賞」用 who come to see it 或分詞補充",
+      "w": 0.5
+     },
+     {
+      "t": "常見錯誤：不要寫成 one of the most beautiful sight（少了 s）",
+      "w": 0.5
+     }
+    ],
+    "tip": "「之一」一定是 one of the + 最高級 + 複數名詞；後半句另起一個子句講吸引遊客。",
+    "gram": [
+     "G0-J05-1"
+    ]
+   },
+   {
+    "zh": "現在青少年花在網路上的時間是十年前的兩倍。",
+    "ref": "Teenagers today spend twice as much time online as they did ten years ago.",
+    "alt": [
+     "The time teenagers spend on the Internet now is twice as long as it was ten years ago."
+    ],
+    "keys": [
+     {
+      "zh": "青少年",
+      "en": "teenagers"
+     },
+     {
+      "zh": "兩倍",
+      "en": "twice as much time"
+     },
+     {
+      "zh": "網路上",
+      "en": "online"
+     },
+     {
+      "zh": "十年前",
+      "en": "ten years ago"
+     }
+    ],
+    "frame": "Teenagers today spend twice as much ___ as they did ___.",
+    "points": [
+     {
+      "t": "倍數句型：倍數 + as much + 名詞 + as",
+      "w": 2
+     },
+     {
+      "t": "比較的後半用 as they did ten years ago，時態用過去式",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：time 不可數，用 much 不用 many",
+      "w": 1
+     }
+    ],
+    "tip": "倍數放在 as…as 前面；比的是「現在花的時間」和「十年前花的時間」，後面用 did 代替 spent。",
+    "gram": [
+     "G0-J05-1"
+    ]
+   },
+   {
+    "zh": "沒有什麼比在忙碌的一週後和家人一起吃頓簡單的晚餐更令人放鬆的了。",
+    "ref": "Nothing is more relaxing than having a simple dinner with my family after a busy week.",
+    "alt": [
+     "Having a simple dinner with my family after a busy week is the most relaxing thing of all."
+    ],
+    "keys": [
+     {
+      "zh": "沒有什麼比…更",
+      "en": "nothing is more"
+     },
+     {
+      "zh": "令人放鬆的",
+      "en": "relaxing"
+     },
+     {
+      "zh": "吃頓簡單的晚餐",
+      "en": "having a simple dinner"
+     },
+     {
+      "zh": "忙碌的一週",
+      "en": "a busy week"
+     }
+    ],
+    "frame": "Nothing is more ___ than V-ing ___ after ___.",
+    "points": [
+     {
+      "t": "用「Nothing is + 比較級 + than」表達最高級",
+      "w": 2
+     },
+     {
+      "t": "事物「令人放鬆」用 relaxing，不用 relaxed",
+      "w": 1
+     },
+     {
+      "t": "than 後接動名詞 having…",
+      "w": 0.5
+     },
+     {
+      "t": "常見錯誤：不要寫成 There is nothing more relax than…",
+      "w": 0.5
+     }
+    ],
+    "tip": "「沒有什麼比…更…」直接套 Nothing is + 比較級 + than；情緒形容詞注意 -ing／-ed。",
+    "gram": [
+     "G0-J05-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TP-04",
+  "kind": "pat",
+  "title": "動名詞、不定詞當主詞與虛主詞 It",
+  "gram": [
+   "G0-J06-1",
+   "G1-L02-1"
+  ],
+  "items": [
+   {
+    "zh": "每天早上吃一頓健康的早餐對學生的身體很重要。",
+    "ref": "Eating a healthy breakfast every morning is important for students' health.",
+    "alt": [
+     "It is important for students' health to eat a nutritious breakfast every morning."
+    ],
+    "keys": [
+     {
+      "zh": "健康的早餐",
+      "en": "a healthy breakfast"
+     },
+     {
+      "zh": "每天早上",
+      "en": "every morning"
+     },
+     {
+      "zh": "很重要",
+      "en": "is important"
+     },
+     {
+      "zh": "學生的身體",
+      "en": "students' health"
+     }
+    ],
+    "frame": "V-ing ___ every morning is ___ for ___.",
+    "points": [
+     {
+      "t": "動名詞當主詞 Eating…，動詞用單數 is",
+      "w": 2
+     },
+     {
+      "t": "「對…很重要」be important for / to",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要直接寫 Eat breakfast every morning is…（動詞不能當主詞）",
+      "w": 1
+     }
+    ],
+    "tip": "中文主詞是一件事「吃早餐」，英文要改成動名詞或用 It is… to V。",
+    "gram": [
+     "G0-J06-1"
+    ]
+   },
+   {
+    "zh": "對許多外國遊客來說，在夜市品嚐台灣小吃是一種難忘的經驗。",
+    "ref": "For many foreign tourists, tasting Taiwanese snacks at night markets is an unforgettable experience.",
+    "alt": [
+     "It is an unforgettable experience for many foreign visitors to taste Taiwanese street food at night markets."
+    ],
+    "keys": [
+     {
+      "zh": "外國遊客",
+      "en": "foreign tourists"
+     },
+     {
+      "zh": "品嚐",
+      "en": "tasting"
+     },
+     {
+      "zh": "台灣小吃",
+      "en": "Taiwanese snacks"
+     },
+     {
+      "zh": "夜市",
+      "en": "night markets"
+     },
+     {
+      "zh": "難忘的經驗",
+      "en": "an unforgettable experience"
+     }
+    ],
+    "frame": "For many ___, V-ing ___ at ___ is an ___ experience.",
+    "points": [
+     {
+      "t": "動名詞主詞 tasting Taiwanese snacks…，動詞用 is",
+      "w": 1.5
+     },
+     {
+      "t": "「一種難忘的經驗」可數，用 an unforgettable experience",
+      "w": 1
+     },
+     {
+      "t": "「在夜市」用介系詞 at night markets",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 Taste Taiwanese snacks is…",
+      "w": 0.5
+     }
+    ],
+    "tip": "「品嚐小吃」是主詞，改成動名詞；也可用 It is… for 人 to V 改寫。",
+    "gram": [
+     "G0-J06-1",
+     "G1-L02-1"
+    ]
+   },
+   {
+    "zh": "要在短時間內學會一種新的語言並不容易，需要很大的耐心。",
+    "ref": "It is not easy to learn a new language in a short time; it takes a lot of patience.",
+    "alt": [
+     "Learning a new language within a short period of time is not easy, and it requires great patience."
+    ],
+    "keys": [
+     {
+      "zh": "在短時間內",
+      "en": "in a short time"
+     },
+     {
+      "zh": "並不容易",
+      "en": "it is not easy to"
+     },
+     {
+      "zh": "新的語言",
+      "en": "a new language"
+     },
+     {
+      "zh": "需要很大的耐心",
+      "en": "it takes a lot of patience"
+     }
+    ],
+    "frame": "It is not ___ to V ___ in ___; it takes ___.",
+    "points": [
+     {
+      "t": "虛主詞 It is not easy to + 原形動詞",
+      "w": 2
+     },
+     {
+      "t": "「需要耐心」it takes a lot of patience / it requires great patience",
+      "w": 1
+     },
+     {
+      "t": "兩個句子之間用分號或 and 連接",
+      "w": 0.5
+     },
+     {
+      "t": "常見錯誤：不要寫成 It is not easy learn…（漏了 to）",
+      "w": 0.5
+     }
+    ],
+    "tip": "主詞太長時先用 It 頂替，把真正的主詞 to learn… 放到後面。",
+    "gram": [
+     "G1-L02-1"
+    ]
+   },
+   {
+    "zh": "隨手關燈、少用冷氣是我們每個人都能做到的節能方法。",
+    "ref": "Turning off the lights when we leave a room and using less air conditioning are energy-saving methods that each of us can practice.",
+    "alt": [
+     "Switching off the lights when leaving a room and using the air conditioner less are ways of saving energy that everyone can follow."
+    ],
+    "keys": [
+     {
+      "zh": "隨手關燈",
+      "en": "turning off the lights when we leave a room"
+     },
+     {
+      "zh": "少用冷氣",
+      "en": "using less air conditioning"
+     },
+     {
+      "zh": "節能方法",
+      "en": "energy-saving methods"
+     },
+     {
+      "zh": "每個人",
+      "en": "each of us"
+     }
+    ],
+    "frame": "V-ing ___ and V-ing ___ are ___ methods that ___ can ___.",
+    "points": [
+     {
+      "t": "兩個動名詞當主詞，用 and 連接，動詞用複數 are",
+      "w": 1.5
+     },
+     {
+      "t": "「隨手關燈」要譯出「離開房間時」：when we leave a room",
+      "w": 1
+     },
+     {
+      "t": "「節能方法」energy-saving methods / ways of saving energy",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 close the light（「關燈」用 turn off）",
+      "w": 0.5
+     }
+    ],
+    "tip": "主詞是兩件事，英文用兩個動名詞並列，動詞自然變成複數。",
+    "gram": [
+     "G0-J06-1"
+    ]
+   },
+   {
+    "zh": "研究顯示，每天花太多時間滑手機可能會影響青少年的睡眠品質。",
+    "ref": "Studies show that spending too much time on smartphones every day may affect the quality of teenagers' sleep.",
+    "alt": [
+     "Research shows that it may harm teenagers' sleep quality to spend too much time on their phones every day."
+    ],
+    "keys": [
+     {
+      "zh": "研究顯示",
+      "en": "studies show that"
+     },
+     {
+      "zh": "花太多時間",
+      "en": "spending too much time"
+     },
+     {
+      "zh": "滑手機",
+      "en": "on smartphones"
+     },
+     {
+      "zh": "影響",
+      "en": "affect"
+     },
+     {
+      "zh": "睡眠品質",
+      "en": "the quality of teenagers' sleep"
+     }
+    ],
+    "frame": "Studies show that V-ing too much ___ every day may ___ the quality of ___.",
+    "points": [
+     {
+      "t": "that 子句裡用動名詞主詞 spending…，動詞 may affect",
+      "w": 1.5
+     },
+     {
+      "t": "spend + 時間 + on + 名詞：spending too much time on smartphones",
+      "w": 1
+     },
+     {
+      "t": "「影響」動詞用 affect（effect 是名詞）",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 Studies show spend too much time…",
+      "w": 0.5
+     }
+    ],
+    "tip": "先寫「研究顯示 that」，子句的主詞是「花時間滑手機」這件事，改成動名詞。",
+    "gram": [
+     "G0-J06-1",
+     "G1-L02-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TP-05",
+  "kind": "pat",
+  "title": "關係代名詞與關係副詞",
+  "gram": [
+   "G1-L04-1",
+   "G2-L02-1"
+  ],
+  "items": [
+   {
+    "zh": "我永遠不會忘記那位在我生病時照顧我的護理師。",
+    "ref": "I will never forget the nurse who took care of me when I was sick.",
+    "alt": [
+     "I'll never forget the nurse that looked after me while I was ill."
+    ],
+    "keys": [
+     {
+      "zh": "永遠不會忘記",
+      "en": "will never forget"
+     },
+     {
+      "zh": "護理師",
+      "en": "nurse"
+     },
+     {
+      "zh": "照顧",
+      "en": "took care of"
+     },
+     {
+      "zh": "生病",
+      "en": "sick"
+     }
+    ],
+    "frame": "I will never forget the ___ who ___ when I ___.",
+    "points": [
+     {
+      "t": "關係代名詞 who 修飾人 the nurse",
+      "w": 2
+     },
+     {
+      "t": "「照顧」take care of / look after，時態用過去式",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 the nurse who she took care of me（關代後不再重複主詞）",
+      "w": 1
+     }
+    ],
+    "tip": "中文「…的護理師」前面一長串修飾語，英文要搬到名詞後面，用 who 帶出來。",
+    "gram": [
+     "G1-L04-1"
+    ]
+   },
+   {
+    "zh": "台南是一座可以找到許多古蹟和傳統美食的城市。",
+    "ref": "Tainan is a city where you can find many historic sites and traditional dishes.",
+    "alt": [
+     "Tainan is a city in which visitors can find lots of historic sites and traditional food."
+    ],
+    "keys": [
+     {
+      "zh": "古蹟",
+      "en": "historic sites"
+     },
+     {
+      "zh": "傳統美食",
+      "en": "traditional dishes"
+     },
+     {
+      "zh": "可以找到",
+      "en": "can find"
+     },
+     {
+      "zh": "城市",
+      "en": "city"
+     }
+    ],
+    "frame": "Tainan is a city where ___ can ___.",
+    "points": [
+     {
+      "t": "關係副詞 where 修飾地點 a city（= in which）",
+      "w": 2
+     },
+     {
+      "t": "「古蹟」historic sites，用複數",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 a city which you can find…（which 後缺介系詞）",
+      "w": 1
+     }
+    ],
+    "tip": "先寫「台南是一座城市」，再用 where 把「可以找到…」接在 city 後面。",
+    "gram": [
+     "G2-L02-1"
+    ]
+   },
+   {
+    "zh": "圖書館是學生可以安靜讀書、準備考試的好地方。",
+    "ref": "The library is a good place where students can study quietly and prepare for exams.",
+    "alt": [
+     "The library is a good place in which students can study in peace and get ready for their exams."
+    ],
+    "keys": [
+     {
+      "zh": "安靜讀書",
+      "en": "study quietly"
+     },
+     {
+      "zh": "準備考試",
+      "en": "prepare for exams"
+     },
+     {
+      "zh": "好地方",
+      "en": "a good place"
+     }
+    ],
+    "frame": "The library is a good place where students can ___ and ___.",
+    "points": [
+     {
+      "t": "關係副詞 where 修飾 place",
+      "w": 1.5
+     },
+     {
+      "t": "「準備考試」prepare for exams（要有 for）",
+      "w": 1
+     },
+     {
+      "t": "兩個動作用 and 連接，都接在 can 後用原形",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 study quiet（修飾動詞要用副詞）",
+      "w": 0.5
+     }
+    ],
+    "tip": "「…的地方」英文先說 a place，再用 where 子句說明在那裡做什麼。",
+    "gram": [
+     "G2-L02-1"
+    ]
+   },
+   {
+    "zh": "我仍然記得我們全班第一次一起去露營的那個夏天，那是我最快樂的回憶。",
+    "ref": "I still remember the summer when our whole class went camping together for the first time; it is my happiest memory.",
+    "alt": [
+     "I still remember the summer in which our class first went camping together, which remains my happiest memory."
+    ],
+    "keys": [
+     {
+      "zh": "全班",
+      "en": "our whole class"
+     },
+     {
+      "zh": "去露營",
+      "en": "went camping"
+     },
+     {
+      "zh": "第一次",
+      "en": "for the first time"
+     },
+     {
+      "zh": "最快樂的回憶",
+      "en": "my happiest memory"
+     }
+    ],
+    "frame": "I still remember the ___ when ___ went ___ for the first time; it is ___.",
+    "points": [
+     {
+      "t": "關係副詞 when 修飾時間 the summer",
+      "w": 1.5
+     },
+     {
+      "t": "「去露營」go camping，時態用過去式 went camping",
+      "w": 1
+     },
+     {
+      "t": "後半句另起一句或用分號，不要直接用逗號接兩個句子",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 went to camping",
+      "w": 0.5
+     }
+    ],
+    "tip": "中文「…的那個夏天」用 the summer when…；後面的評論另外成句。",
+    "gram": [
+     "G2-L02-1"
+    ]
+   },
+   {
+    "zh": "那些每天花好幾個小時玩線上遊戲的學生，往往很難專心上課。",
+    "ref": "Students who spend several hours playing online games every day often find it hard to concentrate in class.",
+    "alt": [
+     "Those students who play online games for hours each day usually have difficulty focusing in class."
+    ],
+    "keys": [
+     {
+      "zh": "好幾個小時",
+      "en": "several hours"
+     },
+     {
+      "zh": "線上遊戲",
+      "en": "online games"
+     },
+     {
+      "zh": "很難",
+      "en": "find it hard to"
+     },
+     {
+      "zh": "專心",
+      "en": "concentrate"
+     },
+     {
+      "zh": "上課",
+      "en": "in class"
+     }
+    ],
+    "frame": "Students who spend ___ V-ing ___ often find it ___ to ___.",
+    "points": [
+     {
+      "t": "主詞 students 後用 who 子句修飾，主要動詞 find 用複數",
+      "w": 1.5
+     },
+     {
+      "t": "spend + 時間 + V-ing：spend several hours playing",
+      "w": 1
+     },
+     {
+      "t": "「很難專心上課」find it hard to concentrate in class",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 Students who spend… they often…（主詞重複）",
+      "w": 0.5
+     }
+    ],
+    "tip": "主詞很長：「學生 + who 子句」，寫完修飾語後別忘了主要動詞。",
+    "gram": [
+     "G1-L04-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TP-06",
+  "kind": "pat",
+  "title": "名詞子句與間接問句",
+  "gram": [
+   "G1-L01-1",
+   "G1-L03-1"
+  ],
+  "items": [
+   {
+    "zh": "很多人不知道塑膠垃圾需要數百年才能完全分解。",
+    "ref": "Many people do not know that plastic waste takes hundreds of years to break down completely.",
+    "alt": [
+     "Many people are unaware that it takes hundreds of years for plastic garbage to break down completely."
+    ],
+    "keys": [
+     {
+      "zh": "不知道",
+      "en": "do not know that"
+     },
+     {
+      "zh": "數百年",
+      "en": "hundreds of years"
+     },
+     {
+      "zh": "分解",
+      "en": "break down"
+     },
+     {
+      "zh": "完全",
+      "en": "completely"
+     }
+    ],
+    "frame": "Many people do not know that ___ takes ___ to ___.",
+    "points": [
+     {
+      "t": "that 引導名詞子句當 know 的受詞",
+      "w": 1.5
+     },
+     {
+      "t": "「需要多少時間才能…」take + 時間 + to V",
+      "w": 1.5
+     },
+     {
+      "t": "常見錯誤：不要寫成 hundred of years（「數百」用 hundreds of）",
+      "w": 1
+     }
+    ],
+    "tip": "「不知道」後面整件事是一個子句，用 that 帶出來。",
+    "gram": [
+     "G1-L01-1"
+    ]
+   },
+   {
+    "zh": "老師問我們是否已經準備好參加下週的英文演講比賽。",
+    "ref": "The teacher asked us whether we were ready for next week's English speech contest.",
+    "alt": [
+     "Our teacher asked if we were prepared to take part in the English speech contest next week."
+    ],
+    "keys": [
+     {
+      "zh": "是否",
+      "en": "whether"
+     },
+     {
+      "zh": "準備好",
+      "en": "ready for"
+     },
+     {
+      "zh": "演講比賽",
+      "en": "speech contest"
+     },
+     {
+      "zh": "下週的",
+      "en": "next week's"
+     }
+    ],
+    "frame": "The teacher asked us whether we ___ ready for ___.",
+    "points": [
+     {
+      "t": "「是否」用 whether / if 引導間接問句",
+      "w": 1.5
+     },
+     {
+      "t": "間接問句用直述句語序 we were，不要寫 were we",
+      "w": 1.5
+     },
+     {
+      "t": "主要動詞 asked 是過去式，子句時態配合用 were",
+      "w": 1
+     }
+    ],
+    "tip": "問句變成句子的一部分時，要改回「主詞 + 動詞」的順序。",
+    "gram": [
+     "G1-L03-1"
+    ]
+   },
+   {
+    "zh": "沒有人確切知道這座海邊的燈塔是在什麼時候建造的。",
+    "ref": "No one knows exactly when the lighthouse by the sea was built.",
+    "alt": [
+     "Nobody is sure when this lighthouse by the sea was built."
+    ],
+    "keys": [
+     {
+      "zh": "沒有人",
+      "en": "no one"
+     },
+     {
+      "zh": "確切",
+      "en": "exactly"
+     },
+     {
+      "zh": "燈塔",
+      "en": "lighthouse"
+     },
+     {
+      "zh": "海邊的",
+      "en": "by the sea"
+     }
+    ],
+    "frame": "No one knows exactly when the ___ was + p.p.",
+    "points": [
+     {
+      "t": "間接問句語序 when the lighthouse was built",
+      "w": 1.5
+     },
+     {
+      "t": "no one 當主詞，動詞用單數 knows",
+      "w": 1
+     },
+     {
+      "t": "燈塔是「被」建造的，用被動 was built",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 when was the lighthouse built",
+      "w": 0.5
+     }
+    ],
+    "tip": "疑問詞 when 後面接直述句；別忘了「建造」要用被動。",
+    "gram": [
+     "G1-L03-1"
+    ]
+   },
+   {
+    "zh": "科學家發現，充足的睡眠能幫助學生記住更多所學的內容。",
+    "ref": "Scientists have found that getting enough sleep can help students remember more of what they have learned.",
+    "alt": [
+     "Scientists have discovered that sufficient sleep helps students remember more of what they learn."
+    ],
+    "keys": [
+     {
+      "zh": "科學家發現",
+      "en": "scientists have found that"
+     },
+     {
+      "zh": "充足的睡眠",
+      "en": "getting enough sleep"
+     },
+     {
+      "zh": "記住",
+      "en": "remember"
+     },
+     {
+      "zh": "所學的內容",
+      "en": "what they have learned"
+     }
+    ],
+    "frame": "Scientists have found that ___ can help ___ remember more of what ___.",
+    "points": [
+     {
+      "t": "that 名詞子句當 found 的受詞",
+      "w": 1
+     },
+     {
+      "t": "「所學的內容」用 what 引導的名詞子句 what they have learned",
+      "w": 1.5
+     },
+     {
+      "t": "help + 受詞 + 原形動詞：help students remember",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 the things what they learned（what 不可接在名詞後）",
+      "w": 0.5
+     }
+    ],
+    "tip": "「所學的東西」= the things that…，英文可用一個 what 解決。",
+    "gram": [
+     "G1-L01-1",
+     "G1-L03-1"
+    ]
+   },
+   {
+    "zh": "你如何利用空閒時間，往往決定了你未來會成為什麼樣的人。",
+    "ref": "How you use your free time often determines what kind of person you will become in the future.",
+    "alt": [
+     "The way you spend your free time often decides what sort of person you will become."
+    ],
+    "keys": [
+     {
+      "zh": "如何利用",
+      "en": "how you use"
+     },
+     {
+      "zh": "空閒時間",
+      "en": "free time"
+     },
+     {
+      "zh": "決定",
+      "en": "determines"
+     },
+     {
+      "zh": "什麼樣的人",
+      "en": "what kind of person"
+     }
+    ],
+    "frame": "How you ___ often determines what kind of ___ you will ___.",
+    "points": [
+     {
+      "t": "名詞子句 How you use your free time 當主詞",
+      "w": 1.5
+     },
+     {
+      "t": "名詞子句當主詞視為單數，動詞用 determines",
+      "w": 1
+     },
+     {
+      "t": "受詞也是間接問句 what kind of person you will become（直述句語序）",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 what kind of person will you become",
+      "w": 0.5
+     }
+    ],
+    "tip": "這句的主詞和受詞都是子句；兩個都用「疑問詞 + 主詞 + 動詞」。",
+    "gram": [
+     "G1-L01-1",
+     "G1-L03-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TP-07",
+  "kind": "pat",
+  "title": "分詞構句",
+  "gram": [
+   "G1-L09-1",
+   "G2-L08-1"
+  ],
+  "items": [
+   {
+    "zh": "看到窗外的大雨，我決定整個下午待在家裡讀書。",
+    "ref": "Seeing the heavy rain outside the window, I decided to stay at home and study all afternoon.",
+    "alt": [
+     "When I saw the heavy rain outside, I decided to stay home and study for the whole afternoon."
+    ],
+    "keys": [
+     {
+      "zh": "大雨",
+      "en": "heavy rain"
+     },
+     {
+      "zh": "窗外",
+      "en": "outside the window"
+     },
+     {
+      "zh": "待在家裡",
+      "en": "stay at home"
+     },
+     {
+      "zh": "整個下午",
+      "en": "all afternoon"
+     }
+    ],
+    "frame": "V-ing the ___ outside the window, I decided to ___.",
+    "points": [
+     {
+      "t": "主動的分詞構句 Seeing…，主詞和主要子句相同（I）",
+      "w": 2
+     },
+     {
+      "t": "decide to + 原形動詞",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：「大雨」用 heavy rain，不要寫 big rain",
+      "w": 1
+     }
+    ],
+    "tip": "兩個動作的主詞都是「我」，前面的「看到」可以省略主詞改成 V-ing。",
+    "gram": [
+     "G1-L09-1",
+     "G2-L08-1"
+    ]
+   },
+   {
+    "zh": "由於不知道該怎麼回家，那位迷路的小男孩站在街角哭了起來。",
+    "ref": "Not knowing how to get home, the lost little boy stood at the street corner and began to cry.",
+    "alt": [
+     "Because he didn't know how to go home, the little boy who had lost his way stood on the street corner and started crying."
+    ],
+    "keys": [
+     {
+      "zh": "不知道",
+      "en": "not knowing"
+     },
+     {
+      "zh": "怎麼回家",
+      "en": "how to get home"
+     },
+     {
+      "zh": "迷路的",
+      "en": "lost"
+     },
+     {
+      "zh": "街角",
+      "en": "street corner"
+     },
+     {
+      "zh": "哭了起來",
+      "en": "began to cry"
+     }
+    ],
+    "frame": "Not V-ing how to ___, the ___ boy stood at ___ and began to ___.",
+    "points": [
+     {
+      "t": "否定分詞構句：not 放在分詞前 Not knowing",
+      "w": 1.5
+     },
+     {
+      "t": "「怎麼回家」疑問詞 + to V：how to get home",
+      "w": 1
+     },
+     {
+      "t": "「哭了起來」began to cry / started crying",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：get home 的 home 是副詞，不要寫 get to home",
+      "w": 0.5
+     }
+    ],
+    "tip": "「由於不知道」表原因，可改成分詞構句；否定的 not 一定放在分詞前面。",
+    "gram": [
+     "G2-L08-1"
+    ]
+   },
+   {
+    "zh": "深受這部電影感動，許多觀眾離開電影院時都流下了眼淚。",
+    "ref": "Deeply moved by the movie, many viewers had tears in their eyes when they left the theater.",
+    "alt": [
+     "Because they were deeply touched by the film, many people in the audience were in tears as they left the cinema."
+    ],
+    "keys": [
+     {
+      "zh": "深受…感動",
+      "en": "deeply moved"
+     },
+     {
+      "zh": "觀眾",
+      "en": "viewers"
+     },
+     {
+      "zh": "流下了眼淚",
+      "en": "had tears in their eyes"
+     },
+     {
+      "zh": "電影院",
+      "en": "theater"
+     }
+    ],
+    "frame": "Deeply + p.p. by ___, many ___ had ___ when they ___.",
+    "points": [
+     {
+      "t": "被動分詞構句用過去分詞開頭 Deeply moved by…",
+      "w": 2
+     },
+     {
+      "t": "分詞構句的主詞要和主要子句相同（觀眾被感動）",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 Deeply moving by the movie",
+      "w": 1
+     }
+    ],
+    "tip": "觀眾是「被」感動，所以用過去分詞 moved 開頭。",
+    "gram": [
+     "G2-L08-1"
+    ]
+   },
+   {
+    "zh": "這位年輕的農夫利用網路銷售自己種的水果，成功地提高了收入。",
+    "ref": "Using the Internet to sell the fruit he grows, the young farmer has successfully increased his income.",
+    "alt": [
+     "The young farmer sold the fruit he grew online, successfully raising his income."
+    ],
+    "keys": [
+     {
+      "zh": "利用網路",
+      "en": "using the Internet"
+     },
+     {
+      "zh": "自己種的水果",
+      "en": "the fruit he grows"
+     },
+     {
+      "zh": "農夫",
+      "en": "farmer"
+     },
+     {
+      "zh": "提高了收入",
+      "en": "increased his income"
+     },
+     {
+      "zh": "成功地",
+      "en": "successfully"
+     }
+    ],
+    "frame": "Using ___ to sell ___, the young farmer has successfully ___.",
+    "points": [
+     {
+      "t": "分詞構句 Using the Internet to…，主詞是 the farmer",
+      "w": 1.5
+     },
+     {
+      "t": "「自己種的水果」用省略關代的子句 the fruit he grows",
+      "w": 1
+     },
+     {
+      "t": "「提高收入」increase / raise one's income",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：fruit 泛指時不加 s；Internet 要加 the",
+      "w": 0.5
+     }
+    ],
+    "tip": "把「利用網路」變成分詞片語放句首，主要句只留下「農夫提高了收入」。",
+    "gram": [
+     "G1-L09-1"
+    ]
+   },
+   {
+    "zh": "天氣許可的話，我們這個週末將騎腳踏車環繞日月潭一圈。",
+    "ref": "Weather permitting, we will ride bicycles around Sun Moon Lake this weekend.",
+    "alt": [
+     "If the weather permits, we will go cycling around Sun Moon Lake this weekend."
+    ],
+    "keys": [
+     {
+      "zh": "天氣許可的話",
+      "en": "weather permitting"
+     },
+     {
+      "zh": "騎腳踏車",
+      "en": "ride bicycles"
+     },
+     {
+      "zh": "環繞",
+      "en": "around"
+     },
+     {
+      "zh": "日月潭",
+      "en": "Sun Moon Lake"
+     },
+     {
+      "zh": "這個週末",
+      "en": "this weekend"
+     }
+    ],
+    "frame": "Weather V-ing, we will ___ around ___ this ___.",
+    "points": [
+     {
+      "t": "獨立分詞構句：主詞不同時保留主詞 Weather permitting",
+      "w": 2
+     },
+     {
+      "t": "「這個週末」用未來式 will ride",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：this weekend 前不加 in / on",
+      "w": 1
+     }
+    ],
+    "tip": "前後主詞不同（天氣／我們），分詞構句要保留自己的主詞。",
+    "gram": [
+     "G2-L08-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TP-08",
+  "kind": "pat",
+  "title": "not only…but also 與連接詞",
+  "gram": [
+   "G3-L03-1",
+   "G0-J10-1"
+  ],
+  "items": [
+   {
+    "zh": "雖然下著大雨，球迷們仍然留在球場為球隊加油。",
+    "ref": "Although it was raining heavily, the fans stayed in the stadium to cheer for their team.",
+    "alt": [
+     "Even though it was pouring, the fans remained in the stadium and kept cheering for their team."
+    ],
+    "keys": [
+     {
+      "zh": "雖然",
+      "en": "although"
+     },
+     {
+      "zh": "下著大雨",
+      "en": "raining heavily"
+     },
+     {
+      "zh": "球迷",
+      "en": "fans"
+     },
+     {
+      "zh": "球場",
+      "en": "stadium"
+     },
+     {
+      "zh": "為球隊加油",
+      "en": "cheer for their team"
+     }
+    ],
+    "frame": "Although it was ___, the fans ___ to cheer for ___.",
+    "points": [
+     {
+      "t": "although 引導讓步子句",
+      "w": 1
+     },
+     {
+      "t": "「下著大雨」用過去進行式 it was raining heavily",
+      "w": 1
+     },
+     {
+      "t": "「為…加油」cheer for",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：although 和 but 不可同時使用",
+      "w": 1
+     }
+    ],
+    "tip": "中文「雖然…仍然…」英文只能用一個連接詞，選 although 就不要再加 but。",
+    "gram": [
+     "G0-J10-1"
+    ]
+   },
+   {
+    "zh": "因為捷運票價便宜又方便，越來越多通勤族選擇搭乘捷運。",
+    "ref": "Because MRT fares are low and the MRT is convenient, more and more commuters choose to take it.",
+    "alt": [
+     "Since MRT tickets are cheap and riding the MRT is convenient, an increasing number of commuters are choosing to use it."
+    ],
+    "keys": [
+     {
+      "zh": "因為",
+      "en": "because"
+     },
+     {
+      "zh": "票價便宜",
+      "en": "fares are low"
+     },
+     {
+      "zh": "方便",
+      "en": "convenient"
+     },
+     {
+      "zh": "通勤族",
+      "en": "commuters"
+     },
+     {
+      "zh": "選擇搭乘",
+      "en": "choose to take"
+     }
+    ],
+    "frame": "Because ___ are ___ and ___ is ___, more and more ___ choose to ___.",
+    "points": [
+     {
+      "t": "because 引導原因子句",
+      "w": 1
+     },
+     {
+      "t": "「票價便宜」fares are low（fare 搭配 low / high）",
+      "w": 1
+     },
+     {
+      "t": "「越來越多通勤族」more and more commuters，動詞用複數 choose",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：because 和 so 不可同時使用",
+      "w": 1
+     }
+    ],
+    "tip": "一句話只用一個連接詞連兩個子句；because 子句放前面時中間用逗號。",
+    "gram": [
+     "G0-J10-1"
+    ]
+   },
+   {
+    "zh": "騎腳踏車不但能節省交通費，還能讓我們的身體更健康。",
+    "ref": "Riding a bicycle can not only save transportation costs but also make us healthier.",
+    "alt": [
+     "Cycling not only saves money on transportation but also keeps us healthier."
+    ],
+    "keys": [
+     {
+      "zh": "騎腳踏車",
+      "en": "riding a bicycle"
+     },
+     {
+      "zh": "節省",
+      "en": "save"
+     },
+     {
+      "zh": "交通費",
+      "en": "transportation costs"
+     },
+     {
+      "zh": "不但…還",
+      "en": "not only"
+     },
+     {
+      "zh": "更健康",
+      "en": "make us healthier"
+     }
+    ],
+    "frame": "V-ing ___ can not only ___ but also ___.",
+    "points": [
+     {
+      "t": "not only…but also… 連接兩個對等的原形動詞 save / make",
+      "w": 1.5
+     },
+     {
+      "t": "動名詞主詞 Riding a bicycle",
+      "w": 1
+     },
+     {
+      "t": "make + 受詞 + 形容詞比較級：make us healthier",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：not only 和 but also 後面的詞性要一致",
+      "w": 0.5
+     }
+    ],
+    "tip": "「不但…還…」連接的是兩個動詞，not only 和 but also 後面都放原形動詞。",
+    "gram": [
+     "G3-L03-1"
+    ]
+   },
+   {
+    "zh": "這位歌手不只在台灣很受歡迎，在其他亞洲國家也擁有大量的歌迷。",
+    "ref": "This singer is not only popular in Taiwan but also has a large number of fans in other Asian countries.",
+    "alt": [
+     "Not only is this singer popular in Taiwan, but he also has many fans in other Asian countries."
+    ],
+    "keys": [
+     {
+      "zh": "很受歡迎",
+      "en": "popular"
+     },
+     {
+      "zh": "不只",
+      "en": "not only"
+     },
+     {
+      "zh": "大量的",
+      "en": "a large number of"
+     },
+     {
+      "zh": "歌迷",
+      "en": "fans"
+     },
+     {
+      "zh": "其他亞洲國家",
+      "en": "other Asian countries"
+     }
+    ],
+    "frame": "This singer is not only ___ in ___ but also has ___ in ___.",
+    "points": [
+     {
+      "t": "not only…but also… 結構完整",
+      "w": 1.5
+     },
+     {
+      "t": "「大量的歌迷」a large number of fans（可數名詞用 number）",
+      "w": 1
+     },
+     {
+      "t": "Not only 放句首時要倒裝：Not only is this singer…",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：Asian 要大寫，countries 用複數",
+      "w": 0.5
+     }
+    ],
+    "tip": "先確定兩個要並列的部分（受歡迎／擁有歌迷），再套 not only…but also。",
+    "gram": [
+     "G3-L03-1"
+    ]
+   },
+   {
+    "zh": "除非我們立刻採取行動減少碳排放，否則全球暖化的問題只會越來越嚴重。",
+    "ref": "Unless we take action immediately to reduce carbon emissions, the problem of global warming will only get worse and worse.",
+    "alt": [
+     "If we do not take immediate action to cut carbon emissions, global warming will only become more and more serious."
+    ],
+    "keys": [
+     {
+      "zh": "除非",
+      "en": "unless"
+     },
+     {
+      "zh": "採取行動",
+      "en": "take action"
+     },
+     {
+      "zh": "碳排放",
+      "en": "carbon emissions"
+     },
+     {
+      "zh": "全球暖化",
+      "en": "global warming"
+     },
+     {
+      "zh": "越來越嚴重",
+      "en": "worse and worse"
+     }
+    ],
+    "frame": "Unless we ___ to reduce ___, the problem of ___ will only get ___.",
+    "points": [
+     {
+      "t": "unless = if…not，引導條件子句",
+      "w": 1.5
+     },
+     {
+      "t": "條件子句用現在式代替未來式 take，主要子句用 will",
+      "w": 1
+     },
+     {
+      "t": "「越來越嚴重」worse and worse / more and more serious",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：unless 已含否定，不要再寫 unless we don't…",
+      "w": 0.5
+     }
+    ],
+    "tip": "「除非…否則…」英文只要 unless 一個連接詞，「否則」不用另外翻。",
+    "gram": [
+     "G0-J10-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TP-09",
+  "kind": "pat",
+  "title": "使役動詞與 keep／find＋受詞＋補語",
+  "gram": [
+   "G1-L05-1",
+   "G2-L07-1",
+   "G3-L01-1"
+  ],
+  "items": [
+   {
+    "zh": "媽媽要我每天晚上睡覺前把房間整理乾淨。",
+    "ref": "My mother makes me clean up my room every night before I go to bed.",
+    "alt": [
+     "My mom has me tidy up my room every night before bedtime."
+    ],
+    "keys": [
+     {
+      "zh": "要我",
+      "en": "makes me"
+     },
+     {
+      "zh": "整理乾淨",
+      "en": "clean up"
+     },
+     {
+      "zh": "睡覺前",
+      "en": "before I go to bed"
+     },
+     {
+      "zh": "每天晚上",
+      "en": "every night"
+     }
+    ],
+    "frame": "My mother makes me ___ every night before ___.",
+    "points": [
+     {
+      "t": "使役動詞 make + 受詞 + 原形動詞：makes me clean up",
+      "w": 2
+     },
+     {
+      "t": "主詞第三人稱單數、習慣用現在式 makes",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 makes me to clean",
+      "w": 1
+     }
+    ],
+    "tip": "「要某人做某事」用 make / have + 人 + 原形動詞。",
+    "gram": [
+     "G1-L05-1"
+    ]
+   },
+   {
+    "zh": "每當心情不好時，這首輕快的歌總能讓我的心情好起來。",
+    "ref": "Whenever I am in a bad mood, this cheerful song always makes me feel better.",
+    "alt": [
+     "This lively song can always cheer me up whenever I feel down."
+    ],
+    "keys": [
+     {
+      "zh": "每當",
+      "en": "whenever"
+     },
+     {
+      "zh": "心情不好",
+      "en": "in a bad mood"
+     },
+     {
+      "zh": "輕快的",
+      "en": "cheerful"
+     },
+     {
+      "zh": "心情好起來",
+      "en": "feel better"
+     }
+    ],
+    "frame": "Whenever I am in ___, this ___ song always makes me ___.",
+    "points": [
+     {
+      "t": "make + 受詞 + 原形動詞 feel better",
+      "w": 2
+     },
+     {
+      "t": "「心情不好」be in a bad mood",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 makes me feel more good",
+      "w": 1
+     }
+    ],
+    "tip": "主詞是「這首歌」，它「讓我」心情變好，用 make + 人 + V。",
+    "gram": [
+     "G1-L05-1"
+    ]
+   },
+   {
+    "zh": "出門時不要讓冷氣一直開著，否則會浪費很多電。",
+    "ref": "Don't leave the air conditioner running when you go out, or you will waste a lot of electricity.",
+    "alt": [
+     "Turn off the air conditioner when you leave home; otherwise, a lot of electricity will be wasted."
+    ],
+    "keys": [
+     {
+      "zh": "冷氣",
+      "en": "air conditioner"
+     },
+     {
+      "zh": "一直開著",
+      "en": "running"
+     },
+     {
+      "zh": "出門",
+      "en": "go out"
+     },
+     {
+      "zh": "浪費",
+      "en": "waste"
+     },
+     {
+      "zh": "電",
+      "en": "electricity"
+     }
+    ],
+    "frame": "Don't leave the ___ V-ing when you ___, or you will ___.",
+    "points": [
+     {
+      "t": "leave + 受詞 + V-ing：leave the air conditioner running（或 on）",
+      "w": 2
+     },
+     {
+      "t": "「否則」祈使句 + or…",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：electricity 不可數，用 a lot of / much，不加 s",
+      "w": 1
+     }
+    ],
+    "tip": "「讓…一直開著」是讓某物維持某狀態，用 leave + 受詞 + 補語。",
+    "gram": [
+     "G2-L07-1"
+    ]
+   },
+   {
+    "zh": "許多學生覺得要同時兼顧課業和社團活動很困難。",
+    "ref": "Many students find it difficult to balance their schoolwork and club activities at the same time.",
+    "alt": [
+     "Many students think it is hard to handle both their studies and club activities."
+    ],
+    "keys": [
+     {
+      "zh": "覺得…很困難",
+      "en": "find it difficult to"
+     },
+     {
+      "zh": "兼顧",
+      "en": "balance"
+     },
+     {
+      "zh": "課業",
+      "en": "schoolwork"
+     },
+     {
+      "zh": "社團活動",
+      "en": "club activities"
+     },
+     {
+      "zh": "同時",
+      "en": "at the same time"
+     }
+    ],
+    "frame": "Many students find it ___ to ___ at the same time.",
+    "points": [
+     {
+      "t": "虛受詞 find it + 形容詞 + to V",
+      "w": 2
+     },
+     {
+      "t": "「兼顧」balance A and B",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 find difficult to…（漏掉 it）",
+      "w": 1
+     }
+    ],
+    "tip": "「覺得做某事很難」，真正的受詞是 to V，先用 it 佔位。",
+    "gram": [
+     "G3-L01-1"
+    ]
+   },
+   {
+    "zh": "我上週請人修理了我壞掉的腳踏車，花了我將近一千元。",
+    "ref": "I had my broken bicycle repaired last week, and it cost me nearly one thousand dollars.",
+    "alt": [
+     "Last week I got my broken bike fixed, which cost me almost NT$1,000."
+    ],
+    "keys": [
+     {
+      "zh": "請人修理",
+      "en": "had my broken bicycle repaired"
+     },
+     {
+      "zh": "壞掉的",
+      "en": "broken"
+     },
+     {
+      "zh": "花了我",
+      "en": "cost me"
+     },
+     {
+      "zh": "將近一千元",
+      "en": "nearly one thousand dollars"
+     }
+    ],
+    "frame": "I had my ___ + p.p. last week, and it cost me ___.",
+    "points": [
+     {
+      "t": "have + 受詞 + 過去分詞：had my bicycle repaired（車是被修理的）",
+      "w": 2
+     },
+     {
+      "t": "「花了我…錢」事物當主詞用 cost，過去式仍是 cost",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 I repaired my bicycle（意思變成自己修）",
+      "w": 1
+     }
+    ],
+    "tip": "「請人修」不是自己修，用 have + 物 + p.p.；「花錢」以事物為主詞用 cost。",
+    "gram": [
+     "G1-L05-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TP-10",
+  "kind": "pat",
+  "title": "強調句型與「愈…愈…」",
+  "gram": [
+   "G1-L06-1",
+   "G1-L08-1"
+  ],
+  "items": [
+   {
+    "zh": "你愈常練習用英文和外國朋友交談，就會說得愈流利。",
+    "ref": "The more often you practice talking with foreign friends in English, the more fluently you will speak.",
+    "alt": [
+     "The more you practice chatting with foreign friends in English, the more fluent you will become."
+    ],
+    "keys": [
+     {
+      "zh": "愈常",
+      "en": "the more often"
+     },
+     {
+      "zh": "練習…交談",
+      "en": "practice talking"
+     },
+     {
+      "zh": "外國朋友",
+      "en": "foreign friends"
+     },
+     {
+      "zh": "愈流利",
+      "en": "the more fluently"
+     }
+    ],
+    "frame": "The more ___ you ___, the more ___ you will ___.",
+    "points": [
+     {
+      "t": "The + 比較級…, the + 比較級… 句型",
+      "w": 2
+     },
+     {
+      "t": "practice + V-ing：practice talking（不要寫 practice to talk）",
+      "w": 1
+     },
+     {
+      "t": "修飾動詞 speak 用副詞 fluently",
+      "w": 0.5
+     },
+     {
+      "t": "常見錯誤：不要寫成 More you practice, more fluent…（漏掉 the）",
+      "w": 0.5
+     }
+    ],
+    "tip": "「愈…愈…」兩邊都用 the + 比較級放句首，後面接主詞和動詞。",
+    "gram": [
+     "G1-L08-1"
+    ]
+   },
+   {
+    "zh": "夏天天氣愈熱，便利商店的冰淇淋和冷飲就賣得愈好。",
+    "ref": "The hotter the summer weather is, the better ice cream and cold drinks sell at convenience stores.",
+    "alt": [
+     "The hotter it gets in summer, the more ice cream and cold drinks convenience stores sell."
+    ],
+    "keys": [
+     {
+      "zh": "天氣愈熱",
+      "en": "the hotter the summer weather is"
+     },
+     {
+      "zh": "冰淇淋",
+      "en": "ice cream"
+     },
+     {
+      "zh": "冷飲",
+      "en": "cold drinks"
+     },
+     {
+      "zh": "賣得愈好",
+      "en": "the better"
+     },
+     {
+      "zh": "便利商店",
+      "en": "convenience stores"
+     }
+    ],
+    "frame": "The ___-er the ___ weather is, the ___ ice cream and ___ sell at ___.",
+    "points": [
+     {
+      "t": "The + 比較級 + S + V, the + 比較級 + S + V",
+      "w": 2
+     },
+     {
+      "t": "sell 作不及物「賣得好」：…sell well → the better ice cream and cold drinks sell",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：hot 的比較級是 hotter（要重複 t）",
+      "w": 1
+     }
+    ],
+    "tip": "前半句說天氣，後半句說冰淇淋和冷飲賣得好不好，兩邊各自都是完整的主詞＋動詞。",
+    "gram": [
+     "G1-L08-1"
+    ]
+   },
+   {
+    "zh": "是我的祖母教我如何做這道傳統的客家菜。",
+    "ref": "It was my grandmother who taught me how to cook this traditional Hakka dish.",
+    "alt": [
+     "It was my grandma that taught me how to make this traditional Hakka dish."
+    ],
+    "keys": [
+     {
+      "zh": "祖母",
+      "en": "grandmother"
+     },
+     {
+      "zh": "如何做",
+      "en": "how to cook"
+     },
+     {
+      "zh": "傳統的",
+      "en": "traditional"
+     },
+     {
+      "zh": "客家菜",
+      "en": "Hakka dish"
+     }
+    ],
+    "frame": "It was my ___ who taught me how to ___.",
+    "points": [
+     {
+      "t": "強調句型 It was + 被強調的人 + who / that…",
+      "w": 2
+     },
+     {
+      "t": "teach 的過去式 taught；teach + 人 + how to V",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：Hakka 是專有名詞要大寫；dish 可數，用 this…dish",
+      "w": 1
+     }
+    ],
+    "tip": "「是…（某人）…」強調做這件事的人，用 It was… who…。",
+    "gram": [
+     "G1-L06-1"
+    ]
+   },
+   {
+    "zh": "正是因為志工們的辛勤付出，這次淨灘活動才能順利完成。",
+    "ref": "It was because of the volunteers' hard work that the beach cleanup was completed successfully.",
+    "alt": [
+     "It was thanks to the hard work of the volunteers that the beach clean-up event went smoothly."
+    ],
+    "keys": [
+     {
+      "zh": "正是因為",
+      "en": "it was because of"
+     },
+     {
+      "zh": "志工們的",
+      "en": "the volunteers'"
+     },
+     {
+      "zh": "辛勤付出",
+      "en": "hard work"
+     },
+     {
+      "zh": "淨灘活動",
+      "en": "beach cleanup"
+     },
+     {
+      "zh": "順利完成",
+      "en": "completed successfully"
+     }
+    ],
+    "frame": "It was because of ___ that the ___ was + p.p. ___.",
+    "points": [
+     {
+      "t": "強調原因：It was because of… that…",
+      "w": 2
+     },
+     {
+      "t": "活動是「被」完成的：was completed",
+      "w": 1
+     },
+     {
+      "t": "「志工們的」複數所有格 the volunteers'",
+      "w": 0.5
+     },
+     {
+      "t": "常見錯誤：because of 後接名詞，不接子句",
+      "w": 0.5
+     }
+    ],
+    "tip": "「正是因為…才…」把原因放在 It was… that 中間，後面接完整句子。",
+    "gram": [
+     "G1-L06-1"
+    ]
+   },
+   {
+    "zh": "我們愈依賴網路取得資訊，就愈需要學會判斷哪些消息是真的。",
+    "ref": "The more we rely on the Internet for information, the more we need to learn to judge which news is true.",
+    "alt": [
+     "The more we depend on the Internet to get information, the more important it is for us to learn to tell which reports are real."
+    ],
+    "keys": [
+     {
+      "zh": "依賴",
+      "en": "rely on"
+     },
+     {
+      "zh": "取得資訊",
+      "en": "for information"
+     },
+     {
+      "zh": "判斷",
+      "en": "judge"
+     },
+     {
+      "zh": "哪些消息是真的",
+      "en": "which news is true"
+     }
+    ],
+    "frame": "The more we ___ for ___, the more we need to ___ which ___.",
+    "points": [
+     {
+      "t": "The more…, the more… 句型",
+      "w": 1.5
+     },
+     {
+      "t": "「依賴」rely on / depend on",
+      "w": 1
+     },
+     {
+      "t": "間接問句 which news is true（直述句語序）",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：information、news 不可數，不加 s，動詞用 is",
+      "w": 0.5
+     }
+    ],
+    "tip": "前後兩半都用 the more + 主詞 + 動詞；最後的「哪些消息」是間接問句。",
+    "gram": [
+     "G1-L08-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TP-11",
+  "kind": "pat",
+  "title": "假設語氣",
+  "gram": [
+   "G4-L02-1",
+   "G4-L05-1"
+  ],
+  "items": [
+   {
+    "zh": "如果我有更多空閒時間，我就會去學一種新的樂器。",
+    "ref": "If I had more free time, I would learn to play a new musical instrument.",
+    "alt": [
+     "If I had more spare time, I would learn a new instrument."
+    ],
+    "keys": [
+     {
+      "zh": "空閒時間",
+      "en": "free time"
+     },
+     {
+      "zh": "學",
+      "en": "learn to play"
+     },
+     {
+      "zh": "樂器",
+      "en": "musical instrument"
+     }
+    ],
+    "frame": "If I ___ more ___, I would ___.",
+    "points": [
+     {
+      "t": "與現在事實相反：If + 過去式 had，主要子句 would + 原形動詞",
+      "w": 2
+     },
+     {
+      "t": "「學樂器」learn to play an instrument",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 If I have…, I would…（時態要一致退一步）",
+      "w": 1
+     }
+    ],
+    "tip": "現在其實沒時間，所以是與現在相反的假設，動詞往過去退一格。",
+    "gram": [
+     "G4-L02-1"
+    ]
+   },
+   {
+    "zh": "如果我是你，我會在事情變得更糟之前先向她道歉。",
+    "ref": "If I were you, I would apologize to her before things get worse.",
+    "alt": [
+     "If I were in your position, I would say sorry to her before the situation becomes worse."
+    ],
+    "keys": [
+     {
+      "zh": "如果我是你",
+      "en": "if I were you"
+     },
+     {
+      "zh": "道歉",
+      "en": "apologize to her"
+     },
+     {
+      "zh": "更糟",
+      "en": "worse"
+     },
+     {
+      "zh": "在…之前",
+      "en": "before"
+     }
+    ],
+    "frame": "If I were ___, I would ___ before ___.",
+    "points": [
+     {
+      "t": "與現在事實相反，be 動詞一律用 were：If I were you",
+      "w": 2
+     },
+     {
+      "t": "「向某人道歉」apologize to + 人",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 apologize her（漏掉 to）或 more worse",
+      "w": 1
+     }
+    ],
+    "tip": "「如果我是你」是不可能的事，固定用 If I were you, I would…。",
+    "gram": [
+     "G4-L02-1"
+    ]
+   },
+   {
+    "zh": "要是我昨天有帶雨傘，就不會被淋成落湯雞了。",
+    "ref": "If I had brought an umbrella yesterday, I would not have gotten soaked.",
+    "alt": [
+     "Had I taken an umbrella with me yesterday, I wouldn't have been soaked to the skin."
+    ],
+    "keys": [
+     {
+      "zh": "帶雨傘",
+      "en": "brought an umbrella"
+     },
+     {
+      "zh": "淋成落湯雞",
+      "en": "gotten soaked"
+     },
+     {
+      "zh": "昨天",
+      "en": "yesterday"
+     }
+    ],
+    "frame": "If I had + p.p. ___ yesterday, I would not have + p.p. ___.",
+    "points": [
+     {
+      "t": "與過去事實相反：If + had + p.p.",
+      "w": 1.5
+     },
+     {
+      "t": "主要子句 would not have + p.p.",
+      "w": 1.5
+     },
+     {
+      "t": "常見錯誤：umbrella 開頭是母音，冠詞用 an",
+      "w": 1
+     }
+    ],
+    "tip": "「昨天」已經發生，與過去相反的假設要用 had p.p. 和 would have p.p.。",
+    "gram": [
+     "G4-L05-1"
+    ]
+   },
+   {
+    "zh": "要不是那位路人及時打電話叫救護車，這位老先生可能就沒命了。",
+    "ref": "If it had not been for the passerby who called an ambulance in time, the old man might have died.",
+    "alt": [
+     "Had it not been for the passerby calling an ambulance in time, the elderly man might have lost his life."
+    ],
+    "keys": [
+     {
+      "zh": "要不是",
+      "en": "if it had not been for"
+     },
+     {
+      "zh": "路人",
+      "en": "passerby"
+     },
+     {
+      "zh": "救護車",
+      "en": "ambulance"
+     },
+     {
+      "zh": "及時",
+      "en": "in time"
+     },
+     {
+      "zh": "可能就沒命了",
+      "en": "might have died"
+     }
+    ],
+    "frame": "If it had not been for ___ who ___, the old man might have + p.p.",
+    "points": [
+     {
+      "t": "「要不是」與過去相反：If it had not been for + 名詞",
+      "w": 1.5
+     },
+     {
+      "t": "主要子句 might have died",
+      "w": 1
+     },
+     {
+      "t": "「及時」in time（不是 on time）",
+      "w": 1
+     },
+     {
+      "t": "「叫救護車」call an ambulance",
+      "w": 0.5
+     }
+    ],
+    "tip": "「要不是…」後面接人或事，用 If it had not been for…；結果用 might have p.p.。",
+    "gram": [
+     "G4-L05-1"
+    ]
+   },
+   {
+    "zh": "我真希望高中時有多花一點時間學英文，那樣現在就不用這麼辛苦了。",
+    "ref": "I really wish I had spent more time studying English in high school; then I would not have to work so hard now.",
+    "alt": [
+     "If only I had studied English harder in high school, I would not be having such a hard time now."
+    ],
+    "keys": [
+     {
+      "zh": "真希望",
+      "en": "wish I had"
+     },
+     {
+      "zh": "多花一點時間",
+      "en": "spent more time"
+     },
+     {
+      "zh": "學英文",
+      "en": "studying English"
+     },
+     {
+      "zh": "高中時",
+      "en": "in high school"
+     },
+     {
+      "zh": "這麼辛苦",
+      "en": "work so hard"
+     }
+    ],
+    "frame": "I really wish I had + p.p. ___ in high school; then I would not ___ now.",
+    "points": [
+     {
+      "t": "wish + had + p.p. 表示對過去的遺憾",
+      "w": 1.5
+     },
+     {
+      "t": "混合假設：過去的條件、現在的結果 would not have to… now",
+      "w": 1.5
+     },
+     {
+      "t": "spend + 時間 + V-ing：spent more time studying",
+      "w": 0.5
+     },
+     {
+      "t": "常見錯誤：不要寫成 I wish I spent…（對過去的遺憾要用 had p.p.）",
+      "w": 0.5
+     }
+    ],
+    "tip": "前半是後悔過去（had p.p.），後半是現在的情況（would + V），時間不同，時態也不同。",
+    "gram": [
+     "G4-L02-1",
+     "G4-L05-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "TP-12",
+  "kind": "pat",
+  "title": "倒裝句：Not until／Only／否定副詞",
+  "gram": [
+   "G4-L06-1",
+   "G3-L09-1",
+   "G4-L08-1"
+  ],
+  "items": [
+   {
+    "zh": "許多人直到失去了健康，才真正了解健康的可貴。",
+    "ref": "Not until many people lose their health do they truly realize how valuable it is.",
+    "alt": [
+     "Many people do not truly realize how valuable health is until they lose it."
+    ],
+    "keys": [
+     {
+      "zh": "直到…才",
+      "en": "not until"
+     },
+     {
+      "zh": "失去",
+      "en": "lose"
+     },
+     {
+      "zh": "真正了解",
+      "en": "truly realize"
+     },
+     {
+      "zh": "可貴",
+      "en": "valuable"
+     }
+    ],
+    "frame": "Not until ___ lose ___ do they ___ how ___ it is.",
+    "points": [
+     {
+      "t": "Not until + 子句 放句首，主要子句倒裝 do they realize",
+      "w": 2
+     },
+     {
+      "t": "「健康的可貴」用間接問句 how valuable it is",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 Not until…, they realize（漏了倒裝）",
+      "w": 1
+     }
+    ],
+    "tip": "「直到…才…」可寫 not…until，想加分就把 Not until 放句首並倒裝。",
+    "gram": [
+     "G4-L06-1"
+    ]
+   },
+   {
+    "zh": "我這輩子從來沒有看過像今晚這麼美麗的星空。",
+    "ref": "Never in my life have I seen a starry sky as beautiful as tonight's.",
+    "alt": [
+     "I have never in my life seen a starry sky as beautiful as the one tonight."
+    ],
+    "keys": [
+     {
+      "zh": "從來沒有",
+      "en": "never"
+     },
+     {
+      "zh": "這輩子",
+      "en": "in my life"
+     },
+     {
+      "zh": "星空",
+      "en": "starry sky"
+     },
+     {
+      "zh": "像今晚這麼美麗",
+      "en": "as beautiful as tonight's"
+     }
+    ],
+    "frame": "Never in my life have I + p.p. ___ as ___ as ___.",
+    "points": [
+     {
+      "t": "否定副詞 Never 放句首，倒裝 have I seen",
+      "w": 2
+     },
+     {
+      "t": "現在完成式表經驗 have seen",
+      "w": 1
+     },
+     {
+      "t": "as + 形容詞 + as 比較的對象 tonight's (sky)",
+      "w": 0.5
+     },
+     {
+      "t": "常見錯誤：不要寫成 Never I have seen…",
+      "w": 0.5
+     }
+    ],
+    "tip": "否定字 never 搬到句首時，助動詞 have 要移到主詞前面。",
+    "gram": [
+     "G3-L09-1"
+    ]
+   },
+   {
+    "zh": "只有透過不斷的練習，你才能在比賽中獲得好成績。",
+    "ref": "Only through constant practice can you achieve good results in the competition.",
+    "alt": [
+     "You can do well in the competition only if you keep practicing."
+    ],
+    "keys": [
+     {
+      "zh": "只有透過",
+      "en": "only through"
+     },
+     {
+      "zh": "不斷的練習",
+      "en": "constant practice"
+     },
+     {
+      "zh": "獲得好成績",
+      "en": "achieve good results"
+     },
+     {
+      "zh": "比賽",
+      "en": "competition"
+     }
+    ],
+    "frame": "Only through ___ can you ___ in the ___.",
+    "points": [
+     {
+      "t": "Only + 副詞片語 放句首，倒裝 can you achieve",
+      "w": 2
+     },
+     {
+      "t": "「好成績」achieve good results / do well",
+      "w": 1
+     },
+     {
+      "t": "常見錯誤：不要寫成 Only through practice you can…",
+      "w": 1
+     }
+    ],
+    "tip": "「只有…才…」把 Only 片語放前面，後面的助動詞 can 提到主詞前。",
+    "gram": [
+     "G4-L08-1"
+    ]
+   },
+   {
+    "zh": "直到颱風離開後，村民們才發現他們的農田已經完全被洪水淹沒了。",
+    "ref": "Not until the typhoon had left did the villagers find that their farmland had been completely flooded.",
+    "alt": [
+     "The villagers did not discover that their fields had been totally covered by floodwater until the typhoon was gone."
+    ],
+    "keys": [
+     {
+      "zh": "村民們",
+      "en": "villagers"
+     },
+     {
+      "zh": "發現",
+      "en": "find that"
+     },
+     {
+      "zh": "農田",
+      "en": "farmland"
+     },
+     {
+      "zh": "完全",
+      "en": "completely"
+     },
+     {
+      "zh": "被洪水淹沒",
+      "en": "flooded"
+     }
+    ],
+    "frame": "Not until the ___ had left did the ___ find that ___ had been + p.p.",
+    "points": [
+     {
+      "t": "Not until 放句首，主要子句倒裝 did the villagers find",
+      "w": 1.5
+     },
+     {
+      "t": "淹沒發生在發現之前，用過去完成式被動 had been flooded",
+      "w": 1.5
+     },
+     {
+      "t": "「農田」farmland 不可數，不加 s",
+      "w": 0.5
+     },
+     {
+      "t": "常見錯誤：倒裝後動詞用原形 find，不要寫 did…found",
+      "w": 0.5
+     }
+    ],
+    "tip": "先排時間先後：淹水在先、發現在後；再用 Not until 倒裝。",
+    "gram": [
+     "G4-L06-1"
+    ]
+   },
+   {
+    "zh": "我們才剛抵達山頂，就突然下起了傾盆大雨。",
+    "ref": "No sooner had we reached the top of the mountain than it suddenly began to pour.",
+    "alt": [
+     "Hardly had we reached the mountaintop when it suddenly started to rain heavily."
+    ],
+    "keys": [
+     {
+      "zh": "才剛…就",
+      "en": "no sooner"
+     },
+     {
+      "zh": "抵達",
+      "en": "reached"
+     },
+     {
+      "zh": "山頂",
+      "en": "the top of the mountain"
+     },
+     {
+      "zh": "傾盆大雨",
+      "en": "pour"
+     },
+     {
+      "zh": "突然",
+      "en": "suddenly"
+     }
+    ],
+    "frame": "No sooner had we + p.p. ___ than it suddenly ___.",
+    "points": [
+     {
+      "t": "No sooner had + S + p.p.… than + 過去式（或 Hardly…when）",
+      "w": 2
+     },
+     {
+      "t": "「抵達」reach + 地點（不加 to）",
+      "w": 1
+     },
+     {
+      "t": "「下傾盆大雨」pour / rain heavily",
+      "w": 0.5
+     },
+     {
+      "t": "常見錯誤：No sooner 要搭配 than，不要寫 when",
+      "w": 0.5
+     }
+    ],
+    "tip": "「一…就…」的進階寫法：先發生的用 had p.p. 並倒裝，後發生的用過去式。",
+    "gram": [
+     "G3-L09-1"
+    ]
+   }
+  ],
+  "status": "ok"
+ }
+]

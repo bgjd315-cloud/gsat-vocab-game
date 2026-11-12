@@ -1,0 +1,4682 @@
+[
+{
+"y": 97,
+"n": 1,
+"s": "Amy did not ______ changes in the course schedule and therefore missed the class.",
+"o": [
+"arrest",
+"alarm",
+"notice",
+"delay"
+],
+"a": 2,
+"ids": [
+"L3-0035",
+null,
+null,
+"L0-0057"
+]
+},
+{
+"y": 97,
+"n": 2,
+"s": "It is not easy for old people to ______ their backs, so they need help when their backs itch.",
+"o": [
+"label",
+"scratch",
+"lighten",
+"squeeze"
+],
+"a": 1,
+"ids": [
+"L3-0474",
+"L4-0876",
+"L6-0507",
+"L3-0830"
+]
+},
+{
+"y": 97,
+"n": 3,
+"s": "Mary is suffering from a stomachache and needs to eat food which is easy to ______.",
+"o": [
+"launch",
+"invade",
+"adopt",
+"digest"
+],
+"a": 3,
+"ids": [
+"L4-0580",
+"L4-0560",
+"L4-0025",
+"L4-0284"
+]
+},
+{
+"y": 97,
+"n": 4,
+"s": "Since our classroom is not air-conditioned, we have to ______ the heat during the hot summer days.",
+"o": [
+"consume",
+"tolerate",
+"recover",
+"promote"
+],
+"a": 1,
+"ids": [
+"L4-0198",
+"L4-0953",
+"T-0090",
+"L3-0678"
+]
+},
+{
+"y": 97,
+"n": 5,
+"s": "Sue is so ______ that she always breaks something when she is shopping at a store.",
+"o": [
+"religious",
+"visual",
+"clumsy",
+"intimate"
+],
+"a": 2,
+"ids": [
+"L3-0714",
+"L4-0985",
+"L4-0151",
+"L4-0558"
+]
+},
+{
+"y": 97,
+"n": 6,
+"s": "Ann enjoyed going to the flower market. She believed that the ______ of flowers refreshed her mind.",
+"o": [
+"instance",
+"dominance",
+"appliance",
+"fragrance"
+],
+"a": 3,
+"ids": [
+"L0-0084",
+null,
+"L5-0049",
+"L6-0363"
+]
+},
+{
+"y": 97,
+"n": 7,
+"s": "The profits of Prince Charles’s organic farm go to ______ to help the poor and the sick.",
+"o": [
+"charities",
+"bulletins",
+"harvests",
+"rebels"
+],
+"a": 0,
+"ids": [
+"L4-0133",
+"L4-0110",
+"L3-0385",
+"L4-0802"
+]
+},
+{
+"y": 97,
+"n": 8,
+"s": "Jack was given the rare ______ of using the president’s office, which made others quite jealous.",
+"o": [
+"mischief",
+"privilege",
+"involvement",
+"occupation"
+],
+"a": 1,
+"ids": [
+"L4-0642",
+"L4-0767",
+"L4-0565",
+"L4-0685"
+]
+},
+{
+"y": 97,
+"n": 9,
+"s": "This new computer is obviously ______ to the old one because it has many new functions.",
+"o": [
+"technical",
+"suitable",
+"superior",
+"typical"
+],
+"a": 2,
+"ids": [
+"L3-0893",
+"L0-0119",
+"L3-0870",
+"L0-0110"
+]
+},
+{
+"y": 97,
+"n": 10,
+"s": "Simon loves his work. To him, work always comes first, and family and friends are ______.",
+"o": [
+"secondary",
+"temporary",
+"sociable",
+"capable"
+],
+"a": 0,
+"ids": [
+null,
+"L3-0897",
+"L6-0830",
+"L3-0122"
+]
+},
+{
+"y": 97,
+"n": 11,
+"s": "Although your plans look good, you have to be ______ and consider what you can actually do.",
+"o": [
+"dramatic",
+"realistic",
+"stressful",
+"manageable"
+],
+"a": 1,
+"ids": [
+"L3-0261",
+"L4-0801",
+null,
+null
+]
+},
+{
+"y": 97,
+"n": 12,
+"s": "Built under the sea in 1994, the ______ between England and France connects the UK more closely with mainland Europe.",
+"o": [
+"waterfall",
+"temple",
+"tunnel",
+"channel"
+],
+"a": 2,
+"ids": [
+"L3-0977",
+null,
+"L3-0939",
+null
+]
+},
+{
+"y": 97,
+"n": 13,
+"s": "This tour package is very appealing, and that one looks ______ attractive. I don’t know which one to choose.",
+"o": [
+"equally",
+"annually",
+"merely",
+"gratefully"
+],
+"a": 0,
+"ids": [
+"T-0088",
+"L4-0043",
+"T-0192",
+"L4-0460"
+]
+},
+{
+"y": 97,
+"n": 14,
+"s": "Hseu Fang-yi, a young Taiwanese dancer, recently ______ at Lincoln Center in New York and won a great deal of praise.",
+"o": [
+"performed",
+"pretended",
+"postponed",
+"persuaded"
+],
+"a": 0,
+"ids": [
+"L3-0629",
+"L3-0669",
+"L3-0660",
+"L3-0633"
+]
+},
+{
+"y": 97,
+"n": 15,
+"s": "The police searched the house of the suspect ______. They almost turned the whole house upside down.",
+"o": [
+"relatively",
+"thoroughly",
+"casually",
+"permanently"
+],
+"a": 1,
+"ids": [
+"T-0167",
+"L4-0945",
+"L3-0131",
+"L4-0725"
+]
+},
+{
+"y": 98,
+"n": 1,
+"s": "Steve’s description of the place was so ______ that I could almost picture it in my mind.",
+"o": [
+"bitter",
+"vivid",
+"sensitive",
+"courageous"
+],
+"a": 1,
+"ids": [
+"L3-0080",
+"L3-0967",
+"L0-0162",
+"L4-0228"
+]
+},
+{
+"y": 98,
+"n": 2,
+"s": "When people feel uncomfortable or nervous, they may ______ their arms across their chests as if to protect themselves.",
+"o": [
+"toss",
+"fold",
+"veil",
+"yield"
+],
+"a": 1,
+"ids": [
+"L3-0916",
+"L3-0334",
+"L6-0959",
+"L5-1002"
+]
+},
+{
+"y": 98,
+"n": 3,
+"s": "The doors of these department stores slide open ______ when you approach them. You don’t have to open them yourself.",
+"o": [
+"necessarily",
+"diligently",
+"automatically",
+"intentionally"
+],
+"a": 2,
+"ids": [
+null,
+"L4-0288",
+"T-0155",
+null
+]
+},
+{
+"y": 98,
+"n": 4,
+"s": "Nicole is a ______ language learner. Within a short period of time, she has developed a good command of Chinese and Japanese.",
+"o": [
+"convenient",
+"popular",
+"regular",
+"brilliant"
+],
+"a": 3,
+"ids": [
+null,
+null,
+null,
+"L0-0185"
+]
+},
+{
+"y": 98,
+"n": 5,
+"s": "With rising oil prices, there is an increasing ______ for people to ride bicycles to work.",
+"o": [
+"permit",
+"instrument",
+"appearance",
+"tendency"
+],
+"a": 3,
+"ids": [
+"L3-0632",
+"T-0037",
+"L0-0063",
+"L4-0940"
+]
+},
+{
+"y": 98,
+"n": 6,
+"s": "This information came from a very ______ source, so you don’t have to worry about being cheated.",
+"o": [
+"reliable",
+"flexible",
+"clumsy",
+"brutal"
+],
+"a": 0,
+"ids": [
+"L3-0712",
+"L4-0406",
+"L4-0151",
+"L4-0109"
+]
+},
+{
+"y": 98,
+"n": 7,
+"s": "We hope that there will be no war in the world and that all people live in peace and ______ with each other.",
+"o": [
+"complaint",
+"harmony",
+"mission",
+"texture"
+],
+"a": 1,
+"ids": [
+"L3-0177",
+"L4-0477",
+"L3-0543",
+"L5-0893"
+]
+},
+{
+"y": 98,
+"n": 8,
+"s": "To have a full discussion of the issue, the committee spent a whole hour ______ their ideas at the meeting.",
+"o": [
+"depositing",
+"exchanging",
+"governing",
+"interrupting"
+],
+"a": 1,
+"ids": [
+"L3-0229",
+"L3-0296",
+"L0-0206",
+"L3-0441"
+]
+},
+{
+"y": 98,
+"n": 9,
+"s": "While adapting to western ways of living, many Asian immigrants in the US still try hard to ______ their own cultures and traditions.",
+"o": [
+"volunteer",
+"scatter",
+"preserve",
+"motivate"
+],
+"a": 2,
+"ids": [
+"L4-0988",
+"L3-0763",
+"L4-0761",
+"L4-0653"
+]
+},
+{
+"y": 98,
+"n": 10,
+"s": "With the worsening of global economic conditions, it seems wiser and more ______ to keep cash in the bank rather than to invest in the stock market.",
+"o": [
+"sensible",
+"portable",
+"explicit",
+"anxious"
+],
+"a": 0,
+"ids": [
+"L3-0777",
+"L4-0748",
+"L5-0366",
+"L3-0027"
+]
+},
+{
+"y": 98,
+"n": 11,
+"s": "Under the ______ of newly elected president Barack Obama, the US is expected to turn a new page in politics and economy.",
+"o": [
+"adoption",
+"fragrance",
+"identity",
+"leadership"
+],
+"a": 3,
+"ids": [
+null,
+"L6-0363",
+"L0-0141",
+"L0-0214"
+]
+},
+{
+"y": 98,
+"n": 12,
+"s": "Rapid advancement in motor engineering makes it ______ possible to build a flying car in the near future.",
+"o": [
+"individually",
+"narrowly",
+"punctually",
+"technically"
+],
+"a": 3,
+"ids": [
+"L0-0050",
+"T-0199",
+"L6-0715",
+"L3-0893"
+]
+},
+{
+"y": 98,
+"n": 13,
+"s": "When you take photos, you can move around to shoot the target object from different ______.",
+"o": [
+"moods",
+"trends",
+"angles",
+"inputs"
+],
+"a": 2,
+"ids": [
+"L0-0219",
+"L3-0928",
+null,
+"L4-0534"
+]
+},
+{
+"y": 98,
+"n": 14,
+"s": "Students were asked to ______ or rewrite their compositions based on the teacher’s comments.",
+"o": [
+"revise",
+"resign",
+"refresh",
+"remind"
+],
+"a": 0,
+"ids": [
+"L4-0855",
+"L4-0841",
+"L6-0740",
+"L3-0717"
+]
+},
+{
+"y": 98,
+"n": 15,
+"s": "Besides lung cancer, another ______ of smoking is wrinkles, a premature sign of aging.",
+"o": [
+"blessing",
+"campaign",
+"consequence",
+"breakthrough"
+],
+"a": 2,
+"ids": [
+null,
+null,
+null,
+null
+]
+},
+{
+"y": 99,
+"n": 1,
+"s": "Mr. Lin is a very ______ writer; he publishes at least five novels every year.",
+"o": [
+"moderate",
+"temporary",
+"productive",
+"reluctant"
+],
+"a": 2,
+"ids": [
+"L4-0647",
+"L3-0897",
+"L4-0770",
+"L4-0828"
+]
+},
+{
+"y": 99,
+"n": 2,
+"s": "Using a heating pad or taking warm baths can sometimes help to ______ pain in the lower back.",
+"o": [
+"polish",
+"relieve",
+"switch",
+"maintain"
+],
+"a": 1,
+"ids": [
+"L4-0746",
+"L4-0827",
+"L0-0247",
+"L0-0032"
+]
+},
+{
+"y": 99,
+"n": 3,
+"s": "Peter stayed up late last night, so he drank a lot of coffee this morning to keep himself ______ in class.",
+"o": [
+"acceptable",
+"amazed",
+"accurate",
+"awake"
+],
+"a": 3,
+"ids": [
+"L3-0002",
+"L3-0021",
+"L3-0003",
+"L3-0049"
+]
+},
+{
+"y": 99,
+"n": 4,
+"s": "Due to ______, prices for daily necessities have gone up and we have to pay more for the same items now.",
+"o": [
+"inflation",
+"solution",
+"objection",
+"condition"
+],
+"a": 0,
+"ids": [
+"L4-0527",
+"L0-0175",
+"L4-0679",
+"L0-0026"
+]
+},
+{
+"y": 99,
+"n": 5,
+"s": "The government is doing its best to ______ the cultures of the tribal people for fear that they may soon die out.",
+"o": [
+"preserve",
+"frustrate",
+"hesitate",
+"overthrow"
+],
+"a": 0,
+"ids": [
+"L4-0761",
+"L4-0425",
+"L3-0398",
+"L4-0705"
+]
+},
+{
+"y": 99,
+"n": 6,
+"s": "I could not ______ the sweet smell from the bakery, so I walked in and bought a fresh loaf of bread.",
+"o": [
+"insist",
+"resist",
+"obtain",
+"contain"
+],
+"a": 1,
+"ids": [
+"T-0178",
+"L3-0725",
+"L4-0683",
+"L0-0006"
+]
+},
+{
+"y": 99,
+"n": 7,
+"s": "Steve has several meetings to attend every day; therefore, he has to work on a very ______ schedule.",
+"o": [
+"dense",
+"various",
+"tight",
+"current"
+],
+"a": 2,
+"ids": [
+"L4-0267",
+"L3-0954",
+"L3-0911",
+null
+]
+},
+{
+"y": 99,
+"n": 8,
+"s": "Michael Phelps, an American swimmer, broke seven world records and won eight gold medals in men’s swimming ______ in the 2008 Olympics.",
+"o": [
+"drills",
+"techniques",
+"routines",
+"contests"
+],
+"a": 3,
+"ids": [
+"L4-0319",
+"L3-0894",
+"L3-0746",
+"L4-0203"
+]
+},
+{
+"y": 99,
+"n": 9,
+"s": "Those college students work at the orphanage on a ______ basis, helping the children with their studies without receiving any pay.",
+"o": [
+"voluntary",
+"competitive",
+"sorrowful",
+"realistic"
+],
+"a": 0,
+"ids": [
+"L4-0987",
+"L4-0166",
+"L6-0840",
+"L4-0801"
+]
+},
+{
+"y": 99,
+"n": 10,
+"s": "Studies show that asking children to do house ______, such as taking out the trash or doing the dishes, helps them grow into responsible adults.",
+"o": [
+"missions",
+"chores",
+"approaches",
+"incidents"
+],
+"a": 1,
+"ids": [
+"L3-0543",
+"L5-0135",
+"L0-0114",
+"L4-0521"
+]
+},
+{
+"y": 99,
+"n": 11,
+"s": "John has been scolded by his boss for over ten minutes now. ______, she is not happy about his being late again.",
+"o": [
+"Expressively",
+"Apparently",
+"Immediately",
+"Originally"
+],
+"a": 1,
+"ids": [
+"L3-0303",
+"L4-0046",
+"T-0067",
+"L3-0592"
+]
+},
+{
+"y": 99,
+"n": 12,
+"s": "Since the orange trees suffered ______ damage from a storm in the summer, the farmers are expecting a sharp decline in harvests this winter.",
+"o": [
+"potential",
+"relative",
+"severe",
+"mutual"
+],
+"a": 2,
+"ids": [
+"L4-0753",
+null,
+"L4-0881",
+"L4-0661"
+]
+},
+{
+"y": 99,
+"n": 13,
+"s": "Typhoon Morakot claimed more than six hundred lives in early August of 2009, making it the most serious natural ______ in Taiwan in recent decades.",
+"o": [
+"disaster",
+"barrier",
+"anxiety",
+"collapse"
+],
+"a": 0,
+"ids": [
+"L4-0294",
+"L4-0087",
+"L4-0044",
+"L4-0154"
+]
+},
+{
+"y": 99,
+"n": 14,
+"s": "Robert was the only ______ to the car accident. The police had to count on him to find out exactly how the accident happened.",
+"o": [
+"dealer",
+"guide",
+"witness",
+"client"
+],
+"a": 2,
+"ids": [
+"L3-0219",
+"T-0126",
+"L4-0997",
+"L3-0154"
+]
+},
+{
+"y": 99,
+"n": 15,
+"s": "Badly injured in the car accident, Jason could ______ move his legs and was sent to the hospital right away.",
+"o": [
+"accordingly",
+"undoubtedly",
+"handily",
+"scarcely"
+],
+"a": 3,
+"ids": [
+"L6-0011",
+"L5-0943",
+"L3-0380",
+"L4-0872"
+]
+},
+{
+"y": 100,
+"n": 1,
+"s": "All the new students were given one minute to ______ introduce themselves to the whole class.",
+"o": [
+"briefly",
+"famously",
+"gradually",
+"obviously"
+],
+"a": 0,
+"ids": [
+"L0-0271",
+null,
+"T-0097",
+"T-0028"
+]
+},
+{
+"y": 100,
+"n": 2,
+"s": "His dark brown jacket had holes in the elbows and had ______ to light brown, but he continued to wear it.",
+"o": [
+"cycled",
+"faded",
+"loosened",
+"divided"
+],
+"a": 1,
+"ids": [
+"L0-0132",
+"L3-0305",
+"L4-0603",
+null
+]
+},
+{
+"y": 100,
+"n": 3,
+"s": "Everyone in our company enjoys working with Jason. He’s got all the qualities that make a ______ partner.",
+"o": [
+"desirable",
+"comfortable",
+"frequent",
+"hostile"
+],
+"a": 0,
+"ids": [
+"L3-0231",
+null,
+"L3-0343",
+"L5-0437"
+]
+},
+{
+"y": 100,
+"n": 4,
+"s": "Eyes are sensitive to light. Looking at the sun ______ could damage our eyes.",
+"o": [
+"hardly",
+"specially",
+"totally",
+"directly"
+],
+"a": 3,
+"ids": [
+"T-0083",
+null,
+null,
+null
+]
+},
+{
+"y": 100,
+"n": 5,
+"s": "We were forced to ______ our plan for the weekend picnic because of the bad weather.",
+"o": [
+"maintain",
+"record",
+"propose",
+"cancel"
+],
+"a": 3,
+"ids": [
+"L0-0032",
+"T-0064",
+"L0-0019",
+null
+]
+},
+{
+"y": 100,
+"n": 6,
+"s": "Three people are running for mayor. All three ______ seem confident that they will be elected, but we won’t know until the outcome of the election is announced.",
+"o": [
+"particles",
+"receivers",
+"candidates",
+"containers"
+],
+"a": 2,
+"ids": [
+"L5-0603",
+"L3-0703",
+"L4-0117",
+"L4-0200"
+]
+},
+{
+"y": 100,
+"n": 7,
+"s": "If you ______ a traffic law, such as drinking and driving, you may not drive for some time.",
+"o": [
+"destroy",
+"violate",
+"attack",
+"invade"
+],
+"a": 1,
+"ids": [
+"L3-0234",
+"L4-0981",
+null,
+"L4-0560"
+]
+},
+{
+"y": 100,
+"n": 8,
+"s": "Applying to college means sending in applications, writing study plans, and so on. It’s a long ______, and it makes students nervous.",
+"o": [
+"errand",
+"operation",
+"process",
+"display"
+],
+"a": 2,
+"ids": [
+"L5-0342",
+"L3-0585",
+"L3-0673",
+"L0-0116"
+]
+},
+{
+"y": 100,
+"n": 9,
+"s": "Dr. Chu’s speech on the new energy source attracted great ______ from the audience at the conference.",
+"o": [
+"attention",
+"fortune",
+"solution",
+"influence"
+],
+"a": 0,
+"ids": [
+"T-0013",
+"L3-0338",
+"L0-0175",
+null
+]
+},
+{
+"y": 100,
+"n": 10,
+"s": "Everyone in the office must attend the meeting tomorrow. There are no ______ allowed.",
+"o": [
+"exceptions",
+"additions",
+"divisions",
+"measures"
+],
+"a": 0,
+"ids": [
+"L4-0369",
+"L0-0035",
+"L0-0281",
+"L4-0621"
+]
+},
+{
+"y": 100,
+"n": 11,
+"s": "To make fresh lemonade, cut the lemon in half, ______ the juice into a bowl, and then add as much water and sugar as you like.",
+"o": [
+"decrease",
+"squeeze",
+"freeze",
+"cease"
+],
+"a": 1,
+"ids": [
+"L3-0223",
+"L3-0830",
+"L3-0341",
+"L4-0128"
+]
+},
+{
+"y": 100,
+"n": 12,
+"s": "Buddhism is the ______ religion in Thailand, with 90% of the total population identified as Buddhists.",
+"o": [
+"racial",
+"competitive",
+"modest",
+"dominant"
+],
+"a": 3,
+"ids": [
+"L3-0692",
+"L4-0166",
+"L4-0648",
+"L4-0314"
+]
+},
+{
+"y": 100,
+"n": 13,
+"s": "When I open a book, I look first at the table of ______ to get a general idea of the book and to see which chapters I might be interested in reading.",
+"o": [
+"contracts",
+"contents",
+"contests",
+"contacts"
+],
+"a": 1,
+"ids": [
+null,
+"L4-0201",
+"L4-0203",
+"L0-0122"
+]
+},
+{
+"y": 100,
+"n": 14,
+"s": "The children were so ______ to see the clown appear on stage that they laughed, screamed, and clapped their hands happily.",
+"o": [
+"admirable",
+"fearful",
+"delighted",
+"intense"
+],
+"a": 2,
+"ids": [
+"L4-0022",
+"L3-0317",
+"L4-0262",
+"L4-0548"
+]
+},
+{
+"y": 100,
+"n": 15,
+"s": "Typhoon Maggie brought to I-lan County a huge amount of rainfall, much greater than the ______ rainfall of the season in the area.",
+"o": [
+"average",
+"considerate",
+"promising",
+"enjoyable"
+],
+"a": 0,
+"ids": [
+"L0-0181",
+"L5-0207",
+"L4-0775",
+"L3-0291"
+]
+},
+{
+"y": 101,
+"n": 1,
+"s": "The ending of the movie did not come as a ______ to John because he had already read the novel that the movie was based on.",
+"o": [
+"vision",
+"focus",
+"surprise",
+"conclusion"
+],
+"a": 2,
+"ids": [
+"L3-0965",
+"T-0011",
+null,
+"L3-0179"
+]
+},
+{
+"y": 101,
+"n": 2,
+"s": "In order to stay healthy and fit, John exercises ______. He works out twice a week in a gym.",
+"o": [
+"regularly",
+"directly",
+"hardly",
+"gradually"
+],
+"a": 0,
+"ids": [
+"T-0130",
+null,
+"T-0083",
+"T-0097"
+]
+},
+{
+"y": 101,
+"n": 3,
+"s": "Traveling is a good way for us to ______ different cultures and broaden our horizons.",
+"o": [
+"assume",
+"explore",
+"occupy",
+"inspire"
+],
+"a": 1,
+"ids": [
+"L3-0040",
+"L3-0301",
+"L4-0686",
+"L4-0538"
+]
+},
+{
+"y": 101,
+"n": 4,
+"s": "The story about Hou-I shooting down nine suns is a well-known Chinese ______, but it may not be a true historical event.",
+"o": [
+"figure",
+"rumor",
+"miracle",
+"legend"
+],
+"a": 3,
+"ids": [
+"L0-0065",
+"L3-0748",
+"L3-0539",
+"L4-0586"
+]
+},
+{
+"y": 101,
+"n": 5,
+"s": "According to recent research, children under the age of 12 are generally not ______ enough to recognize risk and deal with dangerous situations.",
+"o": [
+"diligent",
+"mature",
+"familiar",
+"sincere"
+],
+"a": 1,
+"ids": [
+"L4-0288",
+"L0-0217",
+"L3-0311",
+"L3-0797"
+]
+},
+{
+"y": 101,
+"n": 6,
+"s": "Helen let out a sigh of ______ after hearing that her brother was not injured in the accident.",
+"o": [
+"hesitation",
+"relief",
+"sorrow",
+"triumph"
+],
+"a": 1,
+"ids": [
+"L4-0485",
+"L3-0713",
+"L3-0817",
+"L4-0968"
+]
+},
+{
+"y": 101,
+"n": 7,
+"s": "Research suggests that people with outgoing personalities tend to be more ______, often expecting that good things will happen.",
+"o": [
+"efficient",
+"practical",
+"changeable",
+"optimistic"
+],
+"a": 3,
+"ids": [
+"L3-0276",
+"L3-0665",
+null,
+"L3-0588"
+]
+},
+{
+"y": 101,
+"n": 8,
+"s": "No one could beat Paul at running. He has won the running championship ______ for three years.",
+"o": [
+"rapidly",
+"urgently",
+"continuously",
+"temporarily"
+],
+"a": 2,
+"ids": [
+"L0-0231",
+"L4-0974",
+"L4-0206",
+"L3-0897"
+]
+},
+{
+"y": 101,
+"n": 9,
+"s": "If you fly from Taipei to Tokyo, you’ll be taking an international, rather than a ______ flight.",
+"o": [
+"liberal",
+"domestic",
+"connected",
+"universal"
+],
+"a": 1,
+"ids": [
+"L0-0142",
+"L0-0282",
+"L3-0183",
+"L4-0972"
+]
+},
+{
+"y": 101,
+"n": 10,
+"s": "Jack is very proud of his fancy new motorcycle. He has been ______ to all his friends about how cool it looks and how fast it runs.",
+"o": [
+"boasting",
+"proposing",
+"gossiping",
+"confessing"
+],
+"a": 0,
+"ids": [
+"L4-0101",
+"L0-0019",
+"L3-0362",
+"L4-0179"
+]
+},
+{
+"y": 101,
+"n": 11,
+"s": "The ideas about family have changed ______ in the past twenty years. For example, my grandfather was one of ten children in his family, but I am the only child.",
+"o": [
+"mutually",
+"narrowly",
+"considerably",
+"scarcely"
+],
+"a": 2,
+"ids": [
+"L4-0661",
+"T-0199",
+"T-0232",
+"L4-0872"
+]
+},
+{
+"y": 101,
+"n": 12,
+"s": "The chairperson of the meeting asked everyone to speak up instead of ______ their opinions among themselves.",
+"o": [
+"reciting",
+"giggling",
+"murmuring",
+"whistling"
+],
+"a": 2,
+"ids": [
+"L5-0708",
+"L4-0446",
+"L4-0660",
+"L3-0990"
+]
+},
+{
+"y": 101,
+"n": 13,
+"s": "Although Mr. Chen is rich, he is a very ______ person and is never willing to spend any money to help those who are in need.",
+"o": [
+"absolute",
+"precise",
+"economic",
+"stingy"
+],
+"a": 3,
+"ids": [
+"L4-0002",
+"L4-0754",
+"L4-0328",
+"L4-0916"
+]
+},
+{
+"y": 101,
+"n": 14,
+"s": "If you want to know what your dreams mean, now there are websites you can visit to help you ______ them.",
+"o": [
+"overcome",
+"interpret",
+"transfer",
+"revise"
+],
+"a": 1,
+"ids": [
+"L4-0702",
+"L4-0556",
+"L4-0959",
+"L4-0855"
+]
+},
+{
+"y": 101,
+"n": 15,
+"s": "The memory ______ of the new computer has been increased so that more information can be stored.",
+"o": [
+"capacity",
+"occupation",
+"attachment",
+"machinery"
+],
+"a": 0,
+"ids": [
+"L4-0120",
+"L4-0685",
+"L4-0074",
+"L4-0609"
+]
+},
+{
+"y": 102,
+"n": 1,
+"s": "It rained so hard yesterday that the baseball game had to be ______ until next Saturday.",
+"o": [
+"surrendered",
+"postponed",
+"abandoned",
+"opposed"
+],
+"a": 1,
+"ids": [
+"L4-0928",
+"L3-0660",
+"L4-0001",
+"L4-0691"
+]
+},
+{
+"y": 102,
+"n": 2,
+"s": "As more people rely on the Internet for information, it has ______ newspapers as the most important source of news.",
+"o": [
+"distributed",
+"subtracted",
+"replaced",
+"transferred"
+],
+"a": 2,
+"ids": [
+"L4-0305",
+"L3-0861",
+"L3-0719",
+"L4-0959"
+]
+},
+{
+"y": 102,
+"n": 3,
+"s": "Having saved enough money, Joy ______ two trips for this summer vacation, one to France and the other to Australia.",
+"o": [
+"booked",
+"observed",
+"enclosed",
+"deposited"
+],
+"a": 0,
+"ids": [
+null,
+"L3-0578",
+"L4-0345",
+"L3-0229"
+]
+},
+{
+"y": 102,
+"n": 4,
+"s": "Since I do not fully understand your proposal, I am not in the position to make any ______ on it.",
+"o": [
+"difference",
+"solution",
+"demand",
+"comment"
+],
+"a": 3,
+"ids": [
+"T-0056",
+"L0-0175",
+"L4-0264",
+"L4-0159"
+]
+},
+{
+"y": 102,
+"n": 5,
+"s": "Betty was ______ to accept her friend’s suggestion because she thought she could come up with a better idea herself.",
+"o": [
+"tolerable",
+"sensitive",
+"reluctant",
+"modest"
+],
+"a": 2,
+"ids": [
+"L4-0950",
+"L0-0162",
+"L4-0828",
+"L4-0648"
+]
+},
+{
+"y": 102,
+"n": 6,
+"s": "The bank tries its best to attract more customers. Its staff members are always available to provide ______ service.",
+"o": [
+"singular",
+"prompt",
+"expensive",
+"probable"
+],
+"a": 1,
+"ids": [
+"L4-0893",
+"L4-0777",
+null,
+"L3-0672"
+]
+},
+{
+"y": 102,
+"n": 7,
+"s": "John’s part-time experience at the cafeteria is good ______ for running his own restaurant.",
+"o": [
+"preparation",
+"recognition",
+"formation",
+"calculation"
+],
+"a": 0,
+"ids": [
+"L3-0667",
+"L4-0806",
+"L4-0412",
+"L4-0114"
+]
+},
+{
+"y": 102,
+"n": 8,
+"s": "Women’s fashions are ______ changing: One season they may favor pantsuits, but the next season they may prefer miniskirts.",
+"o": [
+"lately",
+"shortly",
+"relatively",
+"constantly"
+],
+"a": 3,
+"ids": [
+"L3-0477",
+"L3-0787",
+"T-0167",
+"T-0113"
+]
+},
+{
+"y": 102,
+"n": 9,
+"s": "Standing on the seashore, we saw a ______ of seagulls flying over the ocean before they glided down and settled on the water.",
+"o": [
+"pack",
+"flock",
+"herd",
+"school"
+],
+"a": 1,
+"ids": [
+null,
+"L3-0329",
+"L4-0484",
+null
+]
+},
+{
+"y": 102,
+"n": 10,
+"s": "The book is not only informative but also ______, making me laugh and feel relaxed while reading it.",
+"o": [
+"understanding",
+"infecting",
+"entertaining",
+"annoying"
+],
+"a": 2,
+"ids": [
+null,
+"L5-0459",
+"L4-0354",
+"L4-0042"
+]
+},
+{
+"y": 102,
+"n": 11,
+"s": "After working in front of my computer for the entire day, my neck and shoulders got so ______ that I couldn’t even turn my head.",
+"o": [
+"dense",
+"harsh",
+"stiff",
+"concrete"
+],
+"a": 2,
+"ids": [
+"L4-0267",
+"L4-0478",
+"L3-0844",
+"L4-0176"
+]
+},
+{
+"y": 102,
+"n": 12,
+"s": "Getting a flu shot before the start of flu season gives our body a chance to build up protection against the ______ that could make us sick.",
+"o": [
+"poison",
+"misery",
+"leak",
+"virus"
+],
+"a": 3,
+"ids": [
+null,
+"L3-0540",
+"L3-0481",
+"L4-0984"
+]
+},
+{
+"y": 102,
+"n": 13,
+"s": "The kingdom began to ______ after the death of its ruler, and was soon taken over by a neighboring country.",
+"o": [
+"collapse",
+"dismiss",
+"rebel",
+"withdraw"
+],
+"a": 0,
+"ids": [
+"L4-0154",
+"L4-0299",
+"L4-0802",
+"L4-0996"
+]
+},
+{
+"y": 102,
+"n": 14,
+"s": "Though Kevin failed in last year’s singing contest, he did not feel ______. This year he practiced day and night and finally won first place in the competition.",
+"o": [
+"relieved",
+"suspected",
+"discounted",
+"frustrated"
+],
+"a": 3,
+"ids": [
+"L4-0827",
+"L3-0874",
+"L3-0244",
+"L4-0425"
+]
+},
+{
+"y": 102,
+"n": 15,
+"s": "Emma and Joe are looking for a live-in babysitter for their three-year-old twins, ______ one who knows how to cook.",
+"o": [
+"initially",
+"apparently",
+"preferably",
+"considerably"
+],
+"a": 2,
+"ids": [
+"T-0154",
+"L4-0046",
+null,
+"T-0232"
+]
+},
+{
+"y": 103,
+"n": 1,
+"s": "Lost and scared, the little dog ______ along the streets, looking for its master.",
+"o": [
+"dismissed",
+"glided",
+"wandered",
+"marched"
+],
+"a": 2,
+"ids": [
+"L4-0299",
+"L6-0384",
+"L3-0974",
+"L3-0519"
+]
+},
+{
+"y": 103,
+"n": 2,
+"s": "On a sunny afternoon last month, we all took off our shoes and walked on the grass with ______ feet.",
+"o": [
+"bare",
+"raw",
+"tough",
+"slippery"
+],
+"a": 0,
+"ids": [
+"L3-0064",
+"L3-0696",
+"L3-0917",
+"L3-0810"
+]
+},
+{
+"y": 103,
+"n": 3,
+"s": "It is both legally and ______ wrong to spread rumors about other people on the Internet.",
+"o": [
+"morally",
+"physically",
+"literarily",
+"commercially"
+],
+"a": 0,
+"ids": [
+"L3-0552",
+"L4-0735",
+"L4-0597",
+"L0-0082"
+]
+},
+{
+"y": 103,
+"n": 4,
+"s": "These warm-up exercises are designed to help people ______ their muscles and prevent injuries.",
+"o": [
+"produce",
+"connect",
+"broaden",
+"loosen"
+],
+"a": 3,
+"ids": [
+null,
+"L3-0183",
+"L6-0103",
+"L4-0603"
+]
+},
+{
+"y": 103,
+"n": 5,
+"s": "Mei-ling has a very close relationship with her parents. She always ______ them before she makes important decisions.",
+"o": [
+"impresses",
+"advises",
+"consults",
+"motivates"
+],
+"a": 2,
+"ids": [
+"L3-0427",
+"L3-0012",
+"L4-0196",
+"L4-0653"
+]
+},
+{
+"y": 103,
+"n": 6,
+"s": "The restaurant has a ______ charge of NT$250 per person. So the four of us need to pay at least NT$1,000 to eat there.",
+"o": [
+"definite",
+"minimum",
+"flexible",
+"numerous"
+],
+"a": 1,
+"ids": [
+"L4-0260",
+"L4-0639",
+"L4-0406",
+"L4-0674"
+]
+},
+{
+"y": 103,
+"n": 7,
+"s": "At the Book Fair, exhibitors from 21 countries will ______ textbooks, novels, and comic books.",
+"o": [
+"predict",
+"require",
+"display",
+"target"
+],
+"a": 2,
+"ids": [
+"L4-0755",
+"L0-0044",
+"L0-0116",
+"L0-0248"
+]
+},
+{
+"y": 103,
+"n": 8,
+"s": "Before John got on the stage to give the speech, he took a deep ______ to calm himself down.",
+"o": [
+"order",
+"rest",
+"effort",
+"breath"
+],
+"a": 3,
+"ids": [
+null,
+null,
+"T-0049",
+"L3-0095"
+]
+},
+{
+"y": 103,
+"n": 9,
+"s": "Most young people in Taiwan are not satisfied with a high school ______ and continue to pursue further education in college.",
+"o": [
+"maturity",
+"diploma",
+"foundation",
+"guarantee"
+],
+"a": 1,
+"ids": [
+"L4-0618",
+"L4-0289",
+"L4-0417",
+"L4-0467"
+]
+},
+{
+"y": 103,
+"n": 10,
+"s": "Residents are told not to dump all household waste ______ into the trash can; reusable materials should first be sorted out and recycled.",
+"o": [
+"shortly",
+"straight",
+"forward",
+"namely"
+],
+"a": 1,
+"ids": [
+"L3-0787",
+null,
+null,
+"L4-0663"
+]
+},
+{
+"y": 103,
+"n": 11,
+"s": "Kevin had been standing on a ladder trying to reach for a book on the top shelf when he lost his ______ and fell to the ground.",
+"o": [
+"volume",
+"weight",
+"balance",
+"direction"
+],
+"a": 2,
+"ids": [
+"L3-0970",
+null,
+"L0-0055",
+null
+]
+},
+{
+"y": 103,
+"n": 12,
+"s": "If student enrollment continues to drop, some programs at the university may be ______ to reduce the operation costs.",
+"o": [
+"relieved",
+"eliminated",
+"projected",
+"accounted"
+],
+"a": 1,
+"ids": [
+"L4-0827",
+"L4-0338",
+"T-0180",
+"L0-0127"
+]
+},
+{
+"y": 103,
+"n": 13,
+"s": "People in that remote village feed themselves by hunting and engaging in ______ forms of agriculture. No modern agricultural methods are used.",
+"o": [
+"universal",
+"splendid",
+"primitive",
+"courteous"
+],
+"a": 2,
+"ids": [
+"L4-0972",
+"L4-0908",
+"L4-0764",
+"L5-0239"
+]
+},
+{
+"y": 103,
+"n": 14,
+"s": "The government issued a travel ______ for Taiwanese in response to the outbreak of civil war in Syria.",
+"o": [
+"alert",
+"monument",
+"exit",
+"circulation"
+],
+"a": 0,
+"ids": [
+"L4-0031",
+"L4-0651",
+null,
+"L4-0141"
+]
+},
+{
+"y": 103,
+"n": 15,
+"s": "The baby panda Yuan Zai at the Taipei Zoo was separated from her mother because of a minor injury that occurred during her birth. She was ______ by zookeepers for a while.",
+"o": [
+"departed",
+"jailed",
+"tended",
+"captured"
+],
+"a": 2,
+"ids": [
+"L4-0268",
+"L3-0447",
+"L3-0898",
+"L3-0124"
+]
+},
+{
+"y": 104,
+"n": 1,
+"s": "Nowadays many companies adopt a ______ work schedule which allows their employees to decide when to arrive at work—from as early as 6 a.m. to as late as 11 a.m.",
+"o": [
+"relative",
+"severe",
+"primitive",
+"flexible"
+],
+"a": 3,
+"ids": [
+null,
+"L4-0881",
+"L4-0764",
+"L4-0406"
+]
+},
+{
+"y": 104,
+"n": 2,
+"s": "To teach children right from wrong, some parents will ______ their children when they behave well and punish them when they misbehave.",
+"o": [
+"settle",
+"declare",
+"reward",
+"neglect"
+],
+"a": 2,
+"ids": [
+"L0-0024",
+"L4-0253",
+"L4-0859",
+"L4-0666"
+]
+},
+{
+"y": 104,
+"n": 3,
+"s": "To stick to a tight budget, Robert bought a more ______ LED TV instead of a fancy, expensive 3D TV.",
+"o": [
+"technical",
+"significant",
+"affordable",
+"expressive"
+],
+"a": 2,
+"ids": [
+"L3-0893",
+"L3-0793",
+"T-0173",
+"L3-0303"
+]
+},
+{
+"y": 104,
+"n": 4,
+"s": "David’s new book made it to the best-seller list because of its beautiful ______ and amusing stories.",
+"o": [
+"operations",
+"illustrations",
+"engagements",
+"accomplishments"
+],
+"a": 1,
+"ids": [
+"L3-0585",
+"L4-0509",
+"L3-0290",
+"L4-0011"
+]
+},
+{
+"y": 104,
+"n": 5,
+"s": "The airport was closed because of the snowstorm, and our ______ for Paris had to be delayed until the following day.",
+"o": [
+"movement",
+"registration",
+"tendency",
+"departure"
+],
+"a": 3,
+"ids": [
+null,
+"L4-0821",
+"L4-0940",
+"L4-0269"
+]
+},
+{
+"y": 104,
+"n": 6,
+"s": "The moment the students felt the earthquake, they ran ______ out of the classroom to an open area outside.",
+"o": [
+"swiftly",
+"nearly",
+"loosely",
+"formally"
+],
+"a": 0,
+"ids": [
+"T-0193",
+null,
+"L3-0505",
+null
+]
+},
+{
+"y": 104,
+"n": 7,
+"s": "The ______ capacity of this elevator is 400 kilograms. For safety reasons, it shouldn’t be overloaded.",
+"o": [
+"delicate",
+"automatic",
+"essential",
+"maximum"
+],
+"a": 3,
+"ids": [
+"L4-0261",
+"L3-0046",
+"L4-0359",
+"L4-0619"
+]
+},
+{
+"y": 104,
+"n": 8,
+"s": "An open display of ______ behavior between men and women, such as hugging and kissing, is not allowed in some conservative societies.",
+"o": [
+"intimate",
+"ashamed",
+"earnest",
+"urgent"
+],
+"a": 0,
+"ids": [
+"L4-0558",
+"L4-0059",
+"L4-0326",
+"L4-0974"
+]
+},
+{
+"y": 104,
+"n": 9,
+"s": "When taking medicine, we should read the instructions on the ______ carefully because they provide important information such as how and when to take it.",
+"o": [
+"medals",
+"quotes",
+"labels",
+"recipes"
+],
+"a": 2,
+"ids": [
+"L3-0527",
+"L3-0691",
+"L3-0474",
+"L4-0805"
+]
+},
+{
+"y": 104,
+"n": 10,
+"s": "The angry passengers argued ______ with the airline staff because their flight was cancelled without any reason.",
+"o": [
+"evidently",
+"furiously",
+"obediently",
+"suspiciously"
+],
+"a": 1,
+"ids": [
+"L4-0367",
+"L4-0431",
+"L4-0678",
+"L4-0930"
+]
+},
+{
+"y": 104,
+"n": 11,
+"s": "To ______ the new product, the company offered some free samples before they officially launched it.",
+"o": [
+"contribute",
+"impress",
+"promote",
+"estimate"
+],
+"a": 2,
+"ids": [
+"L4-0209",
+"L3-0427",
+"L3-0678",
+"L4-0361"
+]
+},
+{
+"y": 104,
+"n": 12,
+"s": "I was worried about my first overseas trip, but my father ______ me that he would help plan the trip so that nothing would go wrong.",
+"o": [
+"rescued",
+"assured",
+"inspired",
+"conveyed"
+],
+"a": 1,
+"ids": [
+"L4-0836",
+"L4-0069",
+"L4-0538",
+"L4-0215"
+]
+},
+{
+"y": 104,
+"n": 13,
+"s": "The recent cooking oil scandals have led to calls for tougher ______ of sales of food products.",
+"o": [
+"tolerance",
+"guarantee",
+"regulation",
+"distribution"
+],
+"a": 2,
+"ids": [
+"L4-0951",
+"L4-0467",
+"L4-0823",
+"L4-0306"
+]
+},
+{
+"y": 104,
+"n": 14,
+"s": "John should ______ more often with his friends and family after work, instead of staying in his room to play computer games.",
+"o": [
+"explore",
+"interact",
+"negotiate",
+"participate"
+],
+"a": 1,
+"ids": [
+"L3-0301",
+"L4-0552",
+"L4-0667",
+"L0-0100"
+]
+},
+{
+"y": 104,
+"n": 15,
+"s": "To prevent the spread of the Ebola virus from West Africa to the rest of the world, many airports have begun Ebola ______ for passengers from the infected areas.",
+"o": [
+"screenings",
+"listings",
+"clippings",
+"blockings"
+],
+"a": 0,
+"ids": [
+null,
+null,
+null,
+null
+]
+},
+{
+"y": 105,
+"n": 1,
+"s": "Posters of the local rock band were displayed in store windows to promote the sale of their ______ tickets.",
+"o": [
+"journey",
+"traffic",
+"concert",
+"record"
+],
+"a": 2,
+"ids": [
+"L3-0457",
+null,
+"L3-0178",
+"T-0064"
+]
+},
+{
+"y": 105,
+"n": 2,
+"s": "Maria didn’t want to deliver the bad news to David about his failing the job interview. She herself was quite ______ about it.",
+"o": [
+"awful",
+"drowsy",
+"tragic",
+"upset"
+],
+"a": 3,
+"ids": [
+"L3-0053",
+"L4-0320",
+"L4-0958",
+"L0-0342"
+]
+},
+{
+"y": 105,
+"n": 3,
+"s": "The newcomer speaks with a strong Irish ______ ; he must be from Ireland.",
+"o": [
+"accent",
+"identity",
+"gratitude",
+"signature"
+],
+"a": 0,
+"ids": [
+"L4-0006",
+"L0-0141",
+"L4-0461",
+"L4-0890"
+]
+},
+{
+"y": 105,
+"n": 4,
+"s": "Although Maggie has been physically ______ to her wheelchair since the car accident, she does not limit herself to indoor activities.",
+"o": [
+"ceased",
+"committed",
+"confined",
+"conveyed"
+],
+"a": 2,
+"ids": [
+"L4-0128",
+"L4-0161",
+"L5-0199",
+"L4-0215"
+]
+},
+{
+"y": 105,
+"n": 5,
+"s": "All passengers riding in cars are required to fasten their seatbelts in order to reduce the risk of ______ in case of an accident.",
+"o": [
+"injury",
+"offense",
+"sacrifice",
+"victim"
+],
+"a": 0,
+"ids": [
+"L3-0434",
+"L4-0688",
+"L4-0869",
+"L3-0960"
+]
+},
+{
+"y": 105,
+"n": 6,
+"s": "The principal of this school is a man of exceptional ______. He sets aside a part of his salary for a scholarship fund for children from needy families.",
+"o": [
+"security",
+"maturity",
+"facility",
+"generosity"
+],
+"a": 3,
+"ids": [
+"L3-0774",
+"L4-0618",
+"L4-0383",
+"L4-0440"
+]
+},
+{
+"y": 105,
+"n": 7,
+"s": "The science teacher always ______ the use of the laboratory equipment before she lets her students use it on their own.",
+"o": [
+"tolerates",
+"associates",
+"demonstrates",
+"exaggerates"
+],
+"a": 2,
+"ids": [
+"L4-0953",
+"L4-0066",
+"L4-0265",
+"L4-0368"
+]
+},
+{
+"y": 105,
+"n": 8,
+"s": "Most of the area is covered by woods, where bird species are so ______ that it is a paradise for birdwatchers.",
+"o": [
+"durable",
+"private",
+"realistic",
+"numerous"
+],
+"a": 3,
+"ids": [
+"L4-0321",
+"T-0187",
+"L4-0801",
+"L4-0674"
+]
+},
+{
+"y": 105,
+"n": 9,
+"s": "In most cases, the committee members can reach agreement quickly. ______, however, they differ greatly in opinion and have a hard time making decisions.",
+"o": [
+"Occasionally",
+"Automatically",
+"Enormously",
+"Innocently"
+],
+"a": 0,
+"ids": [
+"L4-0684",
+"T-0155",
+"L4-0352",
+"L3-0437"
+]
+},
+{
+"y": 105,
+"n": 10,
+"s": "Many people try to save a lot of money before ______, since having enough money would give them a sense of security for their future.",
+"o": [
+"isolation",
+"promotion",
+"retirement",
+"announcement"
+],
+"a": 2,
+"ids": [
+"L4-0567",
+"L4-0776",
+"L4-0851",
+"L3-0026"
+]
+},
+{
+"y": 105,
+"n": 11,
+"s": "In winter, our skin tends to become dry and ______, a problem which is usually treated by applying lotions or creams.",
+"o": [
+"alert",
+"itchy",
+"steady",
+"flexible"
+],
+"a": 1,
+"ids": [
+"L4-0031",
+null,
+"L3-0839",
+"L4-0406"
+]
+},
+{
+"y": 105,
+"n": 12,
+"s": "Benson married Julie soon after he had ______ her heart and gained her parents’ approval.",
+"o": [
+"conquered",
+"estimated",
+"guaranteed",
+"intensified"
+],
+"a": 0,
+"ids": [
+"L4-0184",
+"L4-0361",
+"L4-0467",
+"L5-0481"
+]
+},
+{
+"y": 105,
+"n": 13,
+"s": "The recent flood completely ______ my parents’ farm. The farmhouse and fruit trees were all gone and nothing was left.",
+"o": [
+"ruined",
+"cracked",
+"hastened",
+"neglected"
+],
+"a": 0,
+"ids": [
+"L4-0866",
+"L4-0231",
+"L4-0480",
+"L4-0666"
+]
+},
+{
+"y": 105,
+"n": 14,
+"s": "The results of this survey are not reliable because the people it questioned were not a typical or ______ sample of the entire population that was studied.",
+"o": [
+"primitive",
+"spiritual",
+"representative",
+"informative"
+],
+"a": 2,
+"ids": [
+"L4-0764",
+"L4-0907",
+"L3-0721",
+"L4-0529"
+]
+},
+{
+"y": 105,
+"n": 15,
+"s": "In line with the worldwide green movement, carmakers have been working hard to make their new models more ______ friendly to reduce pollution.",
+"o": [
+"liberally",
+"individually",
+"financially",
+"environmentally"
+],
+"a": 3,
+"ids": [
+"L0-0142",
+"L0-0050",
+"L4-0401",
+"L0-0036"
+]
+},
+{
+"y": 106,
+"n": 1,
+"s": "John’s clock is not functioning ______. The alarm rings even when it’s not set to go off.",
+"o": [
+"tenderly",
+"properly",
+"solidly",
+"favorably"
+],
+"a": 1,
+"ids": [
+"L3-0899",
+"T-0031",
+"L3-0813",
+"L4-0391"
+]
+},
+{
+"y": 106,
+"n": 2,
+"s": "Michael has decided to ______ a career in physics and has set his mind on becoming a professor.",
+"o": [
+"pursue",
+"swear",
+"reserve",
+"draft"
+],
+"a": 0,
+"ids": [
+"L4-0792",
+"L3-0877",
+"L3-0724",
+"L4-0316"
+]
+},
+{
+"y": 106,
+"n": 3,
+"s": "Peter plans to hike in a ______ part of Africa, where he might not meet another human being for days.",
+"o": [
+"native",
+"tricky",
+"remote",
+"vacant"
+],
+"a": 2,
+"ids": [
+"L3-0566",
+"L3-0930",
+"L3-0718",
+"L3-0950"
+]
+},
+{
+"y": 106,
+"n": 4,
+"s": "People in this community tend to ______ with the group they belong to, and often put group interests before personal ones.",
+"o": [
+"appoint",
+"eliminate",
+"occupy",
+"identify"
+],
+"a": 3,
+"ids": [
+"L4-0049",
+"L4-0338",
+"L4-0686",
+"L4-0502"
+]
+},
+{
+"y": 106,
+"n": 5,
+"s": "I mistook the man for a well-known actor and asked for his autograph; it was really ______.",
+"o": [
+"relaxing",
+"embarrassing",
+"appealing",
+"defending"
+],
+"a": 1,
+"ids": [
+"L3-0710",
+"L4-0340",
+"L3-0031",
+"L4-0256"
+]
+},
+{
+"y": 106,
+"n": 6,
+"s": "After spending most of her salary on rent and food, Amelia ______ had any money left for entertainment and other expenses.",
+"o": [
+"barely",
+"fairly",
+"merely",
+"readily"
+],
+"a": 0,
+"ids": [
+"L3-0065",
+"L3-0307",
+"T-0192",
+null
+]
+},
+{
+"y": 106,
+"n": 7,
+"s": "In the Bermuda Triangle, a region in the western part of the North Atlantic Ocean, some airplanes and ships were reported to have mysteriously disappeared without a ______.",
+"o": [
+"guide",
+"trace",
+"code",
+"print"
+],
+"a": 1,
+"ids": [
+"T-0126",
+"L3-0922",
+"L4-0153",
+null
+]
+},
+{
+"y": 106,
+"n": 8,
+"s": "Shouting greetings and waving a big sign, Tony ______ the passing shoppers to visit his shop and buy the freshly baked bread.",
+"o": [
+"accessed",
+"edited",
+"imposed",
+"urged"
+],
+"a": 3,
+"ids": [
+"L4-0008",
+"L3-0272",
+"L4-0519",
+"L4-0973"
+]
+},
+{
+"y": 106,
+"n": 9,
+"s": "With a continuous 3 km stretch of golden sand, the beach attracts artists around the world each summer to create amazing ______ with its fine soft sand.",
+"o": [
+"constitutions",
+"objections",
+"sculptures",
+"adventures"
+],
+"a": 2,
+"ids": [
+"L4-0192",
+"L4-0679",
+"L4-0877",
+"L3-0010"
+]
+},
+{
+"y": 106,
+"n": 10,
+"s": "The clouds parted and a ______ of light fell on the church, through the windows, and onto the floor.",
+"o": [
+"dip",
+"beam",
+"spark",
+"path"
+],
+"a": 1,
+"ids": [
+"L3-0242",
+"L3-0071",
+"L4-0904",
+"T-0152"
+]
+},
+{
+"y": 106,
+"n": 11,
+"s": "Instead of a gift, Tim’s grandmother always ______ some money in the birthday card she gave him.",
+"o": [
+"enclosed",
+"installed",
+"preserved",
+"rewarded"
+],
+"a": 0,
+"ids": [
+"L4-0345",
+"L4-0539",
+"L4-0761",
+"L4-0859"
+]
+},
+{
+"y": 106,
+"n": 12,
+"s": "While winning a gold ______ is what every Olympic athlete dreams of, it becomes meaningless if it is achieved by cheating.",
+"o": [
+"signal",
+"glory",
+"medal",
+"profit"
+],
+"a": 2,
+"ids": [
+"L3-0792",
+"L3-0359",
+"L3-0527",
+"L3-0677"
+]
+},
+{
+"y": 106,
+"n": 13,
+"s": "The thief went into the apartment building and stole some jewelry. He then ______ himself as a security guard and walked out the front gate.",
+"o": [
+"balanced",
+"calculated",
+"disguised",
+"registered"
+],
+"a": 2,
+"ids": [
+"L0-0055",
+"L4-0113",
+"L4-0297",
+"L4-0820"
+]
+},
+{
+"y": 106,
+"n": 14,
+"s": "Due to numerous accidents that occurred while people were playing Pokémon GO, players were advised to be ______ of possible dangers in the environment.",
+"o": [
+"aware",
+"ashamed",
+"doubtful",
+"guilty"
+],
+"a": 0,
+"ids": [
+"L3-0052",
+"L4-0059",
+"L3-0255",
+"L4-0470"
+]
+},
+{
+"y": 106,
+"n": 15,
+"s": "Sherlock Holmes, a detective in a popular fiction series, has impressed readers with his amazing powers of ______ and his knowledge of trivial facts.",
+"o": [
+"innocence",
+"estimation",
+"assurance",
+"observation"
+],
+"a": 3,
+"ids": [
+"L4-0533",
+null,
+"L4-0068",
+"L4-0681"
+]
+},
+{
+"y": 107,
+"n": 1,
+"s": "Mangoes are a ______ fruit here in Taiwan; most of them reach their peak of sweetness in July.",
+"o": [
+"mature",
+"usual",
+"seasonal",
+"particular"
+],
+"a": 2,
+"ids": [
+"L0-0217",
+null,
+null,
+"L0-0021"
+]
+},
+{
+"y": 107,
+"n": 2,
+"s": "Writing term papers and giving oral reports are typical course ______ for college students.",
+"o": [
+"requirements",
+"techniques",
+"situations",
+"principles"
+],
+"a": 0,
+"ids": [
+"L0-0044",
+"L3-0894",
+"L3-0800",
+null
+]
+},
+{
+"y": 107,
+"n": 3,
+"s": "If we work hard to ______ our dreams when we are young, we will not feel that we missed out on something when we get old.",
+"o": [
+"distribute",
+"fulfill",
+"convince",
+"monitor"
+],
+"a": 1,
+"ids": [
+"L4-0305",
+"L4-0427",
+"L4-0216",
+"L4-0650"
+]
+},
+{
+"y": 107,
+"n": 4,
+"s": "Few people will trust you if you continue making ______ promises and never make efforts to keep them.",
+"o": [
+"chilly",
+"liberal",
+"hollow",
+"definite"
+],
+"a": 2,
+"ids": [
+"L3-0142",
+"L0-0142",
+"L3-0404",
+"L4-0260"
+]
+},
+{
+"y": 107,
+"n": 5,
+"s": "Becky ______ her ankle while she was playing tennis last week. Now it still hurts badly.",
+"o": [
+"slipped",
+"dumped",
+"twisted",
+"recovered"
+],
+"a": 2,
+"ids": [
+"L0-0331",
+"L3-0267",
+"L3-0942",
+"T-0090"
+]
+},
+{
+"y": 107,
+"n": 6,
+"s": "Research shows that men and women usually think differently. For example, they have quite different ______ about what marriage means in their life.",
+"o": [
+"decisions",
+"beliefs",
+"styles",
+"degrees"
+],
+"a": 1,
+"ids": [
+null,
+"L0-0183",
+null,
+null
+]
+},
+{
+"y": 107,
+"n": 7,
+"s": "The new manager is very ______. For instance, the employees are given much shorter deadlines for the same tasks than before.",
+"o": [
+"persuasive",
+"tolerable",
+"suspicious",
+"demanding"
+],
+"a": 3,
+"ids": [
+"L4-0727",
+"L4-0950",
+"L4-0930",
+"L4-0264"
+]
+},
+{
+"y": 107,
+"n": 8,
+"s": "While the couple were looking ______ for their missing children, the kids were actually having fun in the woods nearby.",
+"o": [
+"anxiously",
+"precisely",
+"evidently",
+"distinctly"
+],
+"a": 0,
+"ids": [
+"L3-0027",
+"L4-0754",
+"L4-0367",
+"L4-0302"
+]
+},
+{
+"y": 107,
+"n": 9,
+"s": "After delivering a very powerful speech, the award winner was ______ by a group of fans asking for her signature.",
+"o": [
+"deposited",
+"reserved",
+"vanished",
+"surrounded"
+],
+"a": 3,
+"ids": [
+"L3-0229",
+"L3-0724",
+"L3-0952",
+"L3-0871"
+]
+},
+{
+"y": 107,
+"n": 10,
+"s": "The interviewees were trying very hard to ______ the interviewers that they were very capable and should be given the job.",
+"o": [
+"credit",
+"impress",
+"relieve",
+"acquire"
+],
+"a": 1,
+"ids": [
+"L3-0203",
+"L3-0427",
+"L4-0827",
+"L4-0017"
+]
+},
+{
+"y": 107,
+"n": 11,
+"s": "After the first snow of the year, the entire grassland disappeared under a ______ of snow.",
+"o": [
+"flake",
+"blossom",
+"blanket",
+"flash"
+],
+"a": 2,
+"ids": [
+"L6-0350",
+"L4-0100",
+null,
+"L3-0324"
+]
+},
+{
+"y": 107,
+"n": 12,
+"s": "Peter likes books with wide ______, which provide him with enough space to write notes.",
+"o": [
+"angles",
+"margins",
+"exceptions",
+"limitations"
+],
+"a": 1,
+"ids": [
+null,
+"L4-0617",
+"L4-0369",
+"L4-0593"
+]
+},
+{
+"y": 107,
+"n": 13,
+"s": "At the beginning of the semester, the teacher told the students that late assignments would receive a low grade as a ______.",
+"o": [
+"hardship",
+"comment",
+"bargain",
+"penalty"
+],
+"a": 3,
+"ids": [
+"L4-0475",
+"L4-0159",
+"L4-0086",
+"L4-0720"
+]
+},
+{
+"y": 107,
+"n": 14,
+"s": "Various studies have been ______ in this hospital to explore the link between a high-fat diet and cancer.",
+"o": [
+"conducted",
+"confirmed",
+"implied",
+"improved"
+],
+"a": 0,
+"ids": [
+"L5-0196",
+"L3-0181",
+"L4-0518",
+"T-0058"
+]
+},
+{
+"y": 107,
+"n": 15,
+"s": "Intense, fast-moving fires raged across much of California last week. The ______ firestorm has claimed the lives of thirty people.",
+"o": [
+"efficient",
+"reliable",
+"massive",
+"adequate"
+],
+"a": 2,
+"ids": [
+"L3-0276",
+"L3-0712",
+"L5-0526",
+"L4-0020"
+]
+},
+{
+"y": 108,
+"n": 1,
+"s": "Bobby cared a lot about his ______ at home and asked his parents not to go through his things without his permission.",
+"o": [
+"discipline",
+"facility",
+"privacy",
+"representation"
+],
+"a": 2,
+"ids": [
+"L4-0295",
+"L4-0383",
+"L4-0766",
+"L4-0834"
+]
+},
+{
+"y": 108,
+"n": 2,
+"s": "The new manager is a real gentleman. He is kind and humble, totally different from the former manager, who was ______ and bossy.",
+"o": [
+"eager",
+"liberal",
+"mean",
+"inferior"
+],
+"a": 2,
+"ids": [
+"L3-0270",
+"L0-0142",
+null,
+"L3-0431"
+]
+},
+{
+"y": 108,
+"n": 3,
+"s": "The weather bureau ______ that the typhoon would bring strong winds and heavy rains, and warned everyone of the possible danger.",
+"o": [
+"conveyed",
+"associated",
+"interpreted",
+"predicted"
+],
+"a": 3,
+"ids": [
+"L4-0215",
+"L4-0066",
+"L4-0556",
+"L4-0755"
+]
+},
+{
+"y": 108,
+"n": 4,
+"s": "Different airlines have different ______ for carry-on luggage, but many international airlines limit a carry-on piece to 7 kilograms.",
+"o": [
+"landmarks",
+"restrictions",
+"percentages",
+"circumstances"
+],
+"a": 1,
+"ids": [
+"L4-0577",
+"L4-0849",
+"L4-0722",
+"L4-0142"
+]
+},
+{
+"y": 108,
+"n": 5,
+"s": "Many people were happy that the government had finally ______ Children’s Day as a national holiday.",
+"o": [
+"appointed",
+"declared",
+"performed",
+"involved"
+],
+"a": 1,
+"ids": [
+"L4-0049",
+"L4-0253",
+"L3-0629",
+"L4-0565"
+]
+},
+{
+"y": 108,
+"n": 6,
+"s": "To reach the goal of making her company a market leader, Michelle ______ a plan to open ten new stores around the country this year.",
+"o": [
+"advised",
+"occupied",
+"proposed",
+"recognized"
+],
+"a": 2,
+"ids": [
+"L3-0012",
+"L4-0686",
+"L0-0019",
+"L3-0704"
+]
+},
+{
+"y": 108,
+"n": 7,
+"s": "Silence in some way is as ______ as speech. It can be used to show, for example, disagreement or lack of interest.",
+"o": [
+"sociable",
+"expressive",
+"reasonable",
+"objective"
+],
+"a": 1,
+"ids": [
+"L6-0830",
+"L3-0303",
+"L3-0701",
+"L4-0680"
+]
+},
+{
+"y": 108,
+"n": 8,
+"s": "This TV program is designed for children, ______ for those under five. It contains no violence or strong language.",
+"o": [
+"particularly",
+"sensibly",
+"moderately",
+"considerably"
+],
+"a": 0,
+"ids": [
+"L0-0021",
+"L3-0777",
+"L4-0647",
+"T-0232"
+]
+},
+{
+"y": 108,
+"n": 9,
+"s": "Tommy, please put away the toys in the box, or you might ______ on them and hurt yourself.",
+"o": [
+"stumble",
+"graze",
+"navigate",
+"dwell"
+],
+"a": 0,
+"ids": [
+"L5-0858",
+"L6-0392",
+"L6-0586",
+"L6-0290"
+]
+},
+{
+"y": 108,
+"n": 10,
+"s": "The ______ costume party, held every September, is one of the biggest events of the school year.",
+"o": [
+"initial",
+"annual",
+"evident",
+"occasional"
+],
+"a": 1,
+"ids": [
+"L4-0531",
+"L4-0043",
+"L4-0367",
+"L4-0684"
+]
+},
+{
+"y": 108,
+"n": 11,
+"s": "In a job interview, attitude and personality are usually important ______ that influence the decision of the interviewers.",
+"o": [
+"factors",
+"outcomes",
+"missions",
+"identities"
+],
+"a": 0,
+"ids": [
+"L0-0123",
+"L4-0698",
+"L3-0543",
+"L0-0141"
+]
+},
+{
+"y": 108,
+"n": 12,
+"s": "The snow-capped mountain is described so ______ in the book that the scene seems to come alive in front of the reader’s eyes.",
+"o": [
+"distantly",
+"meaningfully",
+"cheerfully",
+"vividly"
+],
+"a": 3,
+"ids": [
+null,
+"L3-0525",
+"L3-0138",
+"L3-0967"
+]
+},
+{
+"y": 108,
+"n": 13,
+"s": "Surrounded by flowers blooming and birds ______ merrily, the Wangs had a good time hiking in the national park.",
+"o": [
+"napping",
+"scooping",
+"flipping",
+"chirping"
+],
+"a": 3,
+"ids": [
+"L3-0564",
+"L4-0875",
+"L5-0387",
+"L6-0147"
+]
+},
+{
+"y": 108,
+"n": 14,
+"s": "It is essential for us to maintain constant ______ with our friends to ensure that we have someone to talk to in times of need.",
+"o": [
+"benefit",
+"contact",
+"gesture",
+"favor"
+],
+"a": 1,
+"ids": [
+"L3-0075",
+"L0-0122",
+"L3-0356",
+"L0-0096"
+]
+},
+{
+"y": 108,
+"n": 15,
+"s": "The young generation in this country has shown less interest in factory work and other ______ labor jobs, such as house construction and fruit picking.",
+"o": [
+"causal",
+"durable",
+"manual",
+"violent"
+],
+"a": 2,
+"ids": [
+null,
+"L4-0321",
+"L4-0613",
+"L3-0962"
+]
+},
+{
+"y": 109,
+"n": 1,
+"s": "After hours of discussion, our class finally reached the ______ that we would go to Hualien for our graduation trip.",
+"o": [
+"balance",
+"conclusion",
+"definition",
+"harmony"
+],
+"a": 1,
+"ids": [
+"L0-0055",
+"L3-0179",
+"L3-0226",
+"L4-0477"
+]
+},
+{
+"y": 109,
+"n": 2,
+"s": "Jane ______ her teacher by passing the exam with a nearly perfect score; she almost failed the course last semester.",
+"o": [
+"bored",
+"amazed",
+"charmed",
+"informed"
+],
+"a": 1,
+"ids": [
+"L3-0089",
+"L3-0021",
+"L3-0135",
+"L3-0432"
+]
+},
+{
+"y": 109,
+"n": 3,
+"s": "The vacuum cleaner is not working. Let’s send it back to the ______ to have it inspected and repaired.",
+"o": [
+"lecturer",
+"publisher",
+"researcher",
+"manufacturer"
+],
+"a": 3,
+"ids": [
+"L4-0585",
+"L4-0791",
+"L4-0838",
+"L4-0615"
+]
+},
+{
+"y": 109,
+"n": 4,
+"s": "Due to the global financial crisis, the country’s exports ______ by 40 percent last month, the largest drop since 2000.",
+"o": [
+"flattered",
+"transformed",
+"relieved",
+"decreased"
+],
+"a": 3,
+"ids": [
+"L4-0403",
+"L4-0960",
+"L4-0827",
+"L3-0223"
+]
+},
+{
+"y": 109,
+"n": 5,
+"s": "The potato chips have been left uncovered on the table for such a long time that they no longer taste fresh and ______.",
+"o": [
+"solid",
+"crispy",
+"original",
+"smooth"
+],
+"a": 1,
+"ids": [
+"L3-0813",
+"L3-0207",
+"L3-0592",
+"L0-0087"
+]
+},
+{
+"y": 109,
+"n": 6,
+"s": "The townspeople built a ______ in memory of the brave teacher who sacrificed her life to save her students from a burning bus.",
+"o": [
+"monument",
+"refugee",
+"souvenir",
+"firecracker"
+],
+"a": 0,
+"ids": [
+"L4-0651",
+"L4-0816",
+"L5-0810",
+"L6-0347"
+]
+},
+{
+"y": 109,
+"n": 7,
+"s": "The students in Professor Smith’s classical Chinese class are required to ______ poems by famous Chinese poets.",
+"o": [
+"construct",
+"expose",
+"recite",
+"install"
+],
+"a": 2,
+"ids": [
+"L4-0193",
+"L4-0378",
+"L5-0708",
+"L4-0539"
+]
+},
+{
+"y": 109,
+"n": 8,
+"s": "Although Mr. Tang claims that the house belongs to him, he has not offered any proof of ______.",
+"o": [
+"convention",
+"relationship",
+"insurance",
+"ownership"
+],
+"a": 3,
+"ids": [
+"L4-0212",
+"L0-0233",
+"L4-0544",
+"L3-0601"
+]
+},
+{
+"y": 109,
+"n": 9,
+"s": "Ancient Athens, famous for its early development of the democratic system, is often said to be the ______ of democracy.",
+"o": [
+"mission",
+"target",
+"cradle",
+"milestone"
+],
+"a": 2,
+"ids": [
+"L3-0543",
+"L0-0248",
+"L3-0196",
+"L5-0538"
+]
+},
+{
+"y": 109,
+"n": 10,
+"s": "The candy can no longer be sold because it was found to contain artificial ingredients far beyond the ______ level.",
+"o": [
+"abundant",
+"immense",
+"permissible",
+"descriptive"
+],
+"a": 2,
+"ids": [
+"L5-0006",
+"L5-0446",
+"L6-0659",
+"L5-0278"
+]
+},
+{
+"y": 109,
+"n": 11,
+"s": "Jack’s excellent performance in last week’s game has ______ all the doubts about his ability to play on our school basketball team.",
+"o": [
+"erased",
+"canceled",
+"overlooked",
+"replaced"
+],
+"a": 0,
+"ids": [
+"L3-0294",
+null,
+"L4-0703",
+"L3-0719"
+]
+},
+{
+"y": 109,
+"n": 12,
+"s": "It is bullying to ______ a foreign speaker’s accent. No one deserves to be laughed at for their pronunciation.",
+"o": [
+"mock",
+"sneak",
+"prompt",
+"glare"
+],
+"a": 0,
+"ids": [
+"L5-0545",
+"L5-0799",
+"L4-0777",
+"L5-0410"
+]
+},
+{
+"y": 109,
+"n": 13,
+"s": "Mary lost ten kilograms in three months, so her ______ skin-tight jeans are now hanging off her hips.",
+"o": [
+"barely",
+"evenly",
+"currently",
+"formerly"
+],
+"a": 3,
+"ids": [
+"L3-0065",
+null,
+null,
+null
+]
+},
+{
+"y": 109,
+"n": 14,
+"s": "The police officer showed us pictures of drunk driving accidents to highlight the importance of staying ______ on the road.",
+"o": [
+"sober",
+"majestic",
+"vigorous",
+"noticeable"
+],
+"a": 0,
+"ids": [
+"L5-0804",
+"L6-0538",
+"L6-0969",
+"L5-0570"
+]
+},
+{
+"y": 109,
+"n": 15,
+"s": "The claim that eating chocolate can prevent heart disease is ______ because there is not enough scientific evidence to support it.",
+"o": [
+"creative",
+"disputable",
+"circular",
+"magnificent"
+],
+"a": 1,
+"ids": [
+"L3-0200",
+null,
+"L4-0139",
+"L4-0611"
+]
+},
+{
+"y": 110,
+"n": 1,
+"s": "Tom is really a naughty boy. He likes to ______ and play jokes on his younger sister when their parents are not around.",
+"o": [
+"alert",
+"spare",
+"tease",
+"oppose"
+],
+"a": 2,
+"ids": [
+"L4-0031",
+"L4-0903",
+"L3-0892",
+"L4-0691"
+]
+},
+{
+"y": 110,
+"n": 2,
+"s": "Elderly shoppers in this store are advised to take the elevator rather than the ______, which may move too fast for them to keep their balance.",
+"o": [
+"airway",
+"operator",
+"escalator",
+"instrument"
+],
+"a": 2,
+"ids": [
+"L6-0030",
+"L0-0224",
+"L5-0344",
+"T-0037"
+]
+},
+{
+"y": 110,
+"n": 3,
+"s": "Upon hearing its master’s call, the dog wagged its tail, and followed her out of the room ______.",
+"o": [
+"obediently",
+"apparently",
+"logically",
+"thoroughly"
+],
+"a": 0,
+"ids": [
+"L4-0678",
+"L4-0046",
+"L4-0602",
+"L4-0945"
+]
+},
+{
+"y": 110,
+"n": 4,
+"s": "Since many of our house plants are from humid jungle environments, they need ______ air to keep them green and healthy.",
+"o": [
+"moist",
+"stale",
+"crisp",
+"fertile"
+],
+"a": 0,
+"ids": [
+"L3-0547",
+"L3-0835",
+null,
+"L4-0396"
+]
+},
+{
+"y": 110,
+"n": 5,
+"s": "The skydiver managed to land safely after jumping out of the aircraft, even though her ______ failed to open in midair.",
+"o": [
+"glimpse",
+"latitude",
+"segment",
+"parachute"
+],
+"a": 3,
+"ids": [
+"L4-0448",
+"L6-0492",
+"L5-0764",
+"L4-0709"
+]
+},
+{
+"y": 110,
+"n": 6,
+"s": "The invention of the steam engine, which was used to power heavy machines, brought about a ______ change in society.",
+"o": [
+"persuasive",
+"harmonious",
+"conventional",
+"revolutionary"
+],
+"a": 3,
+"ids": [
+"L4-0727",
+null,
+"L4-0213",
+"L4-0858"
+]
+},
+{
+"y": 110,
+"n": 7,
+"s": "To encourage classroom ______, the teacher divided the class into groups and asked them to solve a problem together with their partners.",
+"o": [
+"operation",
+"interaction",
+"adjustment",
+"explanation"
+],
+"a": 1,
+"ids": [
+"L3-0585",
+"L4-0553",
+"L4-0021",
+"L4-0375"
+]
+},
+{
+"y": 110,
+"n": 8,
+"s": "Lisa ______ onto the ground and injured her ankle while she was playing basketball yesterday.",
+"o": [
+"buried",
+"punched",
+"scattered",
+"tumbled"
+],
+"a": 3,
+"ids": [
+"L3-0114",
+"L3-0685",
+"L3-0763",
+"L4-0970"
+]
+},
+{
+"y": 110,
+"n": 9,
+"s": "Hundreds of residents received free testing ______ from the city government to find out if their water contained any harmful chemicals.",
+"o": [
+"kits",
+"trials",
+"zones",
+"proofs"
+],
+"a": 0,
+"ids": [
+"L3-0469",
+"L0-0090",
+"L3-1002",
+"L3-0680"
+]
+},
+{
+"y": 110,
+"n": 10,
+"s": "The 2011 Nobel Peace Prize was awarded ______ to three women for the efforts they made in fighting for women’s rights.",
+"o": [
+"actively",
+"earnestly",
+"jointly",
+"naturally"
+],
+"a": 2,
+"ids": [
+null,
+"L4-0326",
+"L0-0302",
+null
+]
+},
+{
+"y": 110,
+"n": 11,
+"s": "The company is ______ and making great profits under the wise leadership of the chief executive officer.",
+"o": [
+"applauding",
+"flourishing",
+"circulating",
+"exceeding"
+],
+"a": 1,
+"ids": [
+"L6-0050",
+"L6-0352",
+"L4-0140",
+"L5-0353"
+]
+},
+{
+"y": 110,
+"n": 12,
+"s": "It is absolutely ______ to waste your money on an expensive car when you cannot even get a driver’s license.",
+"o": [
+"absurd",
+"cautious",
+"vigorous",
+"obstinate"
+],
+"a": 0,
+"ids": [
+"L5-0005",
+"L5-0123",
+"L6-0969",
+"L6-0603"
+]
+},
+{
+"y": 110,
+"n": 13,
+"s": "The problem of illegal drug use is very complex and cannot be traced to merely one ______ reason.",
+"o": [
+"singular",
+"countable",
+"favorable",
+"defensive"
+],
+"a": 0,
+"ids": [
+"L4-0893",
+"L3-0193",
+"L4-0391",
+"L4-0259"
+]
+},
+{
+"y": 110,
+"n": 14,
+"s": "The non-profit organization has ______ $1 million over five years to finance the construction of the medical center.",
+"o": [
+"equipped",
+"resolved",
+"committed",
+"associated"
+],
+"a": 2,
+"ids": [
+"L4-0357",
+"L4-0845",
+"L4-0161",
+"L4-0066"
+]
+},
+{
+"y": 110,
+"n": 15,
+"s": "One week after the typhoon, some bridges were finally opened and bus service ______ in the country’s most severely damaged areas.",
+"o": [
+"departed",
+"resumed",
+"transported",
+"corresponded"
+],
+"a": 1,
+"ids": [
+"L4-0268",
+"L5-0730",
+"L3-0925",
+"L4-0223"
+]
+},
+{
+"y": 111,
+"n": 1,
+"s": "When Jeffery doesn’t feel like cooking, he often orders pizza online and has it ______ to his house.",
+"o": [
+"advanced",
+"delivered",
+"offered",
+"stretched"
+],
+"a": 1,
+"ids": [
+"L3-0008",
+"T-0093",
+"T-0041",
+"L0-0109"
+]
+},
+{
+"y": 111,
+"n": 2,
+"s": "Jane is the best ______ I have ever had. I cannot imagine running my office without her help.",
+"o": [
+"assistant",
+"influence",
+"contribution",
+"politician"
+],
+"a": 0,
+"ids": [
+"L3-0039",
+null,
+"L4-0210",
+"L3-0651"
+]
+},
+{
+"y": 111,
+"n": 3,
+"s": "The temple celebrated Mazu Festival by hosting ten days of lion dances, Taiwanese operas, and traditional hand ______ shows.",
+"o": [
+"chat",
+"quiz",
+"puppet",
+"variety"
+],
+"a": 2,
+"ids": [
+"L3-0136",
+null,
+"L3-0686",
+"L3-0953"
+]
+},
+{
+"y": 111,
+"n": 4,
+"s": "The new vaccine was banned by the Food and Drug Administration due to its ______ fatal side effects.",
+"o": [
+"potentially",
+"delicately",
+"ambiguously",
+"optionally"
+],
+"a": 0,
+"ids": [
+"L4-0753",
+"L4-0261",
+"L4-0035",
+"L5-0587"
+]
+},
+{
+"y": 111,
+"n": 5,
+"s": "______ the photos with dates and keywords help you sort them easily in your file.",
+"o": [
+"Tagging",
+"Flocking",
+"Rolling",
+"Snapping"
+],
+"a": 0,
+"ids": [
+"L3-0883",
+"L3-0329",
+null,
+"L3-0812"
+]
+},
+{
+"y": 111,
+"n": 6,
+"s": "An ______ person is usually pleasant and easy to get along with, but don’t expect that he or she will always say “yes” to everything.",
+"o": [
+"enormous",
+"intimate",
+"agreeable",
+"ultimate"
+],
+"a": 2,
+"ids": [
+"L4-0352",
+"L4-0558",
+"L4-0029",
+"L5-0935"
+]
+},
+{
+"y": 111,
+"n": 7,
+"s": "Hidden deep in a small alley among various tiny shops, the entrance of the Michelin star restaurant is barely ______ to passersby.",
+"o": [
+"identical",
+"visible",
+"available",
+"remarkable"
+],
+"a": 1,
+"ids": [
+"L4-0500",
+"L3-0964",
+null,
+"L4-0830"
+]
+},
+{
+"y": 111,
+"n": 8,
+"s": "The original budget for my round-island trip was NT$5,000, but the ______ cost is likely to be 50 percent higher.",
+"o": [
+"moderate",
+"absolute",
+"promising",
+"eventual"
+],
+"a": 3,
+"ids": [
+"L4-0647",
+"L4-0002",
+"L4-0775",
+"L4-0365"
+]
+},
+{
+"y": 111,
+"n": 9,
+"s": "After watching a TV program on natural history, Adam decided to go on a ______ for dinosaur fossils in South Dakota.",
+"o": [
+"trial",
+"route",
+"strike",
+"quest"
+],
+"a": 3,
+"ids": [
+"L0-0090",
+"L4-0865",
+"T-0158",
+"L5-0684"
+]
+},
+{
+"y": 111,
+"n": 10,
+"s": "With pink cherry blossoms blooming everywhere, the valley ______ like a young bride under the bright spring sunshine.",
+"o": [
+"bounces",
+"blushes",
+"polishes",
+"transfers"
+],
+"a": 1,
+"ids": [
+"L4-0103",
+"L5-0092",
+"L4-0746",
+"L4-0959"
+]
+},
+{
+"y": 112,
+"n": 1,
+"s": "The bus driver often complains about chewing gum found under passenger seats because it is ______ and very hard to remove.",
+"o": [
+"sticky",
+"greasy",
+"clumsy",
+"mighty"
+],
+"a": 0,
+"ids": [
+"L3-0843",
+"L4-0463",
+"L4-0151",
+"L3-0537"
+]
+},
+{
+"y": 112,
+"n": 2,
+"s": "Jesse is a talented model. He can easily adopt an elegant ______ for a camera shoot.",
+"o": [
+"clap",
+"toss",
+"pose",
+"snap"
+],
+"a": 2,
+"ids": [
+null,
+"L3-0916",
+null,
+"L4-0542"
+]
+},
+{
+"y": 112,
+"n": 3,
+"s": "In order to draw her family tree, Mary tried to trace her ______ back to their arrival in North America.",
+"o": [
+"siblings",
+"commuters",
+"ancestors",
+"instructors"
+],
+"a": 2,
+"ids": [
+"L5-0788",
+"L5-0168",
+"L4-0040",
+"L4-0542"
+]
+},
+{
+"y": 112,
+"n": 4,
+"s": "Upon the super typhoon warning, Nancy rushed to the supermarket—only to find the shelves almost ______ and the stock nearly gone.",
+"o": [
+"blank",
+"bare",
+"hollow",
+"queer"
+],
+"a": 1,
+"ids": [
+"T-0125",
+"L3-0064",
+"L3-0404",
+"L3-0689"
+]
+},
+{
+"y": 112,
+"n": 5,
+"s": "Even though Jack said “Sorry!” to me in person, I did not feel any ______ in his apology.",
+"o": [
+"liability",
+"generosity",
+"integrity",
+"sincerity"
+],
+"a": 3,
+"ids": [
+"L5-0510",
+"L4-0440",
+null,
+"L4-0803"
+]
+},
+{
+"y": 112,
+"n": 6,
+"s": "My grandfather has astonishing powers of ______. He can still vividly describe his first day at school as a child.",
+"o": [
+"resolve",
+"fraction",
+"privilege",
+"recall"
+],
+"a": 3,
+"ids": [
+"L4-0845",
+null,
+"L4-0767",
+"L4-0803"
+]
+},
+{
+"y": 112,
+"n": 7,
+"s": "Recent research has found lots of evidence to ______ the drug company’s claims about its “miracle” tablets for curing cancer.",
+"o": [
+"provoke",
+"counter",
+"expose",
+"convert"
+],
+"a": 1,
+"ids": [
+"L5-0679",
+null,
+"L4-0378",
+"L5-0224"
+]
+},
+{
+"y": 112,
+"n": 8,
+"s": "Corrupt officials and misguided policies have ______ the country’s economy and burdened its people with enormous foreign debts.",
+"o": [
+"crippled",
+"accelerated",
+"rendered",
+"ventured"
+],
+"a": 0,
+"ids": [
+"L5-0243",
+null,
+"L5-0719",
+"L5-0959"
+]
+},
+{
+"y": 112,
+"n": 9,
+"s": "As a record number of fans showed up for the baseball final, the highways around the stadium were ______ with traffic all day.",
+"o": [
+"choked",
+"disturbed",
+"enclosed",
+"injected"
+],
+"a": 0,
+"ids": [
+"L4-0137",
+"L4-0308",
+"L4-0345",
+"L5-0466"
+]
+},
+{
+"y": 112,
+"n": 10,
+"s": "Studies show that the ______ unbiased media are in fact often deeply influenced by political ideology.",
+"o": [
+"undoubtedly",
+"roughly",
+"understandably",
+"supposedly"
+],
+"a": 3,
+"ids": [
+null,
+"L3-0745",
+null,
+"L5-0874"
+]
+},
+{
+"y": 113,
+"n": 1,
+"s": "People who desire a ______ figure should exercise regularly and maintain healthy eating habits.",
+"o": [
+"spicy",
+"slender",
+"slight",
+"slippery"
+],
+"a": 1,
+"ids": [
+"L5-0825",
+"L3-0808",
+"L4-0897",
+"L3-0810"
+]
+},
+{
+"y": 113,
+"n": 2,
+"s": "Watching the sun ______ from a sea of clouds is a must-do activity for all visitors to Ali Mountain.",
+"o": [
+"emerging",
+"flashing",
+"rushing",
+"floating"
+],
+"a": 0,
+"ids": [
+"L4-0342",
+"L3-0324",
+"L3-0749",
+"L3-0328"
+]
+},
+{
+"y": 113,
+"n": 3,
+"s": "Do you know what time the next bus is ______ ? I’ve been waiting here for more than 30 minutes.",
+"o": [
+"apt",
+"due",
+"bound",
+"docked"
+],
+"a": 1,
+"ids": [
+"L5-0050",
+"L0-0014",
+"L5-0100",
+"L3-0251"
+]
+},
+{
+"y": 113,
+"n": 4,
+"s": "The roasting heat and high ______ made me feel hot and sticky, no matter what I did to cool off.",
+"o": [
+"density",
+"humidity",
+"circulation",
+"atmosphere"
+],
+"a": 1,
+"ids": [
+"L5-0271",
+"L4-0496",
+"L4-0141",
+"L4-0071"
+]
+},
+{
+"y": 113,
+"n": 5,
+"s": "Artwork created by truly great artists such as Picasso and Monet will no doubt ______ the test of time.",
+"o": [
+"stay",
+"take",
+"serve",
+"stand"
+],
+"a": 3,
+"ids": [
+null,
+null,
+null,
+null
+]
+},
+{
+"y": 113,
+"n": 6,
+"s": "In some countries, military service is ______ for men only; women do not have to serve in the military.",
+"o": [
+"forceful",
+"realistic",
+"compulsory",
+"distinctive"
+],
+"a": 2,
+"ids": [
+null,
+"L4-0801",
+"L5-0190",
+"L5-0304"
+]
+},
+{
+"y": 113,
+"n": 7,
+"s": "The team complained that its leader always took the ______ for all the hard work done by the team members.",
+"o": [
+"advantage",
+"revenge",
+"remedy",
+"credit"
+],
+"a": 3,
+"ids": [
+"L3-0009",
+"L4-0854",
+"L4-0831",
+"L3-0203"
+]
+},
+{
+"y": 113,
+"n": 8,
+"s": "Located at the center of the city, the business hotel ______ not only good service but also convenient public transport.",
+"o": [
+"proposes",
+"contains",
+"promises",
+"confirms"
+],
+"a": 2,
+"ids": [
+"L0-0019",
+"L0-0006",
+"T-0138",
+"L3-0181"
+]
+},
+{
+"y": 113,
+"n": 9,
+"s": "As blood supplies have fallen to a critically low level, many hospitals are making an ______ for the public to donate blood.",
+"o": [
+"appeal",
+"approach",
+"operation",
+"observation"
+],
+"a": 0,
+"ids": [
+"L3-0031",
+"L0-0114",
+"L3-0585",
+"L4-0681"
+]
+},
+{
+"y": 113,
+"n": 10,
+"s": "David felt disappointed when he found out that he could not choose his study partners, but would be ______ placed in a study group.",
+"o": [
+"eligibly",
+"randomly",
+"apparently",
+"consequently"
+],
+"a": 1,
+"ids": [
+"L5-0324",
+"L5-0697",
+"L4-0046",
+"L4-0187"
+]
+},
+{
+"y": 114,
+"n": 1,
+"s": "If you put a ______ under a leaking faucet, you will be surprised at the amount of water collected in 24 hours.",
+"o": [
+"border",
+"timer",
+"container",
+"marker"
+],
+"a": 2,
+"ids": [
+"L0-0184",
+null,
+"L4-0200",
+"L3-0520"
+]
+},
+{
+"y": 114,
+"n": 2,
+"s": "The local farmers’ market is popular as it offers a variety of fresh seasonal ______ to people in the community.",
+"o": [
+"produce",
+"fashion",
+"brand",
+"trend"
+],
+"a": 0,
+"ids": [
+null,
+"L0-0037",
+"L0-0073",
+"L3-0928"
+]
+},
+{
+"y": 114,
+"n": 3,
+"s": "As the years have passed by, many of my childhood memories are already ______ ; I can no longer recall clearly what happened back then.",
+"o": [
+"blurring",
+"trimming",
+"draining",
+"glaring"
+],
+"a": 0,
+"ids": [
+"L5-0091",
+"L5-0928",
+"L3-0260",
+"L5-0410"
+]
+},
+{
+"y": 114,
+"n": 4,
+"s": "Racist remarks are by nature ______ and hurtful, and should be avoided on all occasions.",
+"o": [
+"excessive",
+"furious",
+"offensive",
+"stubborn"
+],
+"a": 2,
+"ids": [
+"L5-0355",
+"L4-0431",
+"L4-0689",
+"L3-0857"
+]
+},
+{
+"y": 114,
+"n": 5,
+"s": "Not satisfied with the first ______ of her essay, Mary revised it several times before turning it in to the teacher.",
+"o": [
+"text",
+"brush",
+"draft",
+"plot"
+],
+"a": 2,
+"ids": [
+"L0-0249",
+null,
+"L4-0316",
+"L4-0742"
+]
+},
+{
+"y": 114,
+"n": 6,
+"s": "Left ______ for years, the deserted house was filled with a thick coating of dust and a smell of old damp wood.",
+"o": [
+"casual",
+"fragile",
+"remote",
+"vacant"
+],
+"a": 3,
+"ids": [
+"L3-0131",
+"L4-0419",
+"L3-0718",
+"L3-0950"
+]
+},
+{
+"y": 114,
+"n": 7,
+"s": "The high school student showed ______ courage when she helped the old man escape from the fire.",
+"o": [
+"gigantic",
+"exclusive",
+"multiple",
+"enormous"
+],
+"a": 3,
+"ids": [
+"L4-0445",
+"L5-0358",
+"L4-0658",
+"L4-0352"
+]
+},
+{
+"y": 114,
+"n": 8,
+"s": "Publicly financed projects are often ______ or delayed during tough economic times due to a lack of resources.",
+"o": [
+"halted",
+"hatched",
+"possessed",
+"reinforced"
+],
+"a": 0,
+"ids": [
+"L4-0473",
+"L3-0387",
+"L4-0750",
+"L5-0716"
+]
+},
+{
+"y": 114,
+"n": 9,
+"s": "Despite his busy schedule, the President ______ the school’s graduation ceremony with his presence and a heartwarming speech.",
+"o": [
+"praised",
+"graced",
+"addressed",
+"credited"
+],
+"a": 1,
+"ids": [
+null,
+"L4-0453",
+null,
+"L3-0203"
+]
+},
+{
+"y": 114,
+"n": 10,
+"s": "The manager of the company was sued for ______ abusing his colleagues, calling them “hopeless losers.”",
+"o": [
+"verbally",
+"dominantly",
+"legitimately",
+"relevantly"
+],
+"a": 0,
+"ids": [
+"L5-0961",
+"L4-0314",
+"L5-0508",
+"L4-0826"
+]
+},
+{
+"y": 115,
+"n": 1,
+"s": "The mayor has such a ______ schedule that it takes weeks to arrange an interview with her.",
+"o": [
+"hasty",
+"tight",
+"diligent",
+"routine"
+],
+"a": 1,
+"ids": [
+"L3-0386",
+"L3-0911",
+"L4-0288",
+"L3-0746"
+]
+},
+{
+"y": 115,
+"n": 2,
+"s": "Jane started as an ______ art designer, but now she has a professional studio of her own.",
+"o": [
+"official",
+"instant",
+"amateur",
+"elementary"
+],
+"a": 2,
+"ids": [
+"L0-0051",
+null,
+"L4-0034",
+"L4-0337"
+]
+},
+{
+"y": 115,
+"n": 3,
+"s": "The teaching ______ at the famous high school soon attracted more than a dozen well-qualified applicants.",
+"o": [
+"career",
+"vacancy",
+"expectation",
+"inspiration"
+],
+"a": 1,
+"ids": [
+"L3-0125",
+"L4-0976",
+"L3-0298",
+"L4-0537"
+]
+},
+{
+"y": 115,
+"n": 4,
+"s": "Designed by a young engineer, the new product has created far more profit than ______ expected.",
+"o": [
+"initially",
+"genuinely",
+"alternatively",
+"fundamentally"
+],
+"a": 0,
+"ids": [
+"T-0154",
+"T-0096",
+"L4-0033",
+"L4-0429"
+]
+},
+{
+"y": 115,
+"n": 5,
+"s": "It has been confirmed that a balanced ______ of fruit and vegetables is a key element to good health.",
+"o": [
+"dimension",
+"integration",
+"provision",
+"consumption"
+],
+"a": 3,
+"ids": [
+"L5-0291",
+"L5-0479",
+"L5-0678",
+"L5-0211"
+]
+},
+{
+"y": 115,
+"n": 6,
+"s": "As a shy boy afraid of making public appearances, Timmy ______ the thought of speaking before large audiences.",
+"o": [
+"dreads",
+"stresses",
+"wanders",
+"escapes"
+],
+"a": 0,
+"ids": [
+"L4-0317",
+"L0-0081",
+"L3-0974",
+"L0-0047"
+]
+},
+{
+"y": 115,
+"n": 7,
+"s": "To the newly-crowned winner of the piano competition, music is his life’s ______, which he has devoted himself to whole-heartedly.",
+"o": [
+"resource",
+"impact",
+"passion",
+"emphasis"
+],
+"a": 2,
+"ids": [
+"L3-0726",
+"L4-0517",
+"L3-0616",
+"L4-0343"
+]
+},
+{
+"y": 115,
+"n": 8,
+"s": "The drunk driver who shouted at passers-by and ______ them with glass bottles was quickly arrested by the police.",
+"o": [
+"shattered",
+"assaulted",
+"overturned",
+"condemned"
+],
+"a": 1,
+"ids": [
+"L5-0778",
+"L5-0059",
+"L5-0599",
+"L5-0195"
+]
+},
+{
+"y": 115,
+"n": 9,
+"s": "There were so many people at the bus station that I had to ______ my way through the crowd to board the bus in time.",
+"o": [
+"crash",
+"tumble",
+"elbow",
+"struggle"
+],
+"a": 2,
+"ids": [
+"L3-0198",
+"L4-0970",
+"L3-0277",
+"L0-0150"
+]
+},
+{
+"y": 115,
+"n": 10,
+"s": "Deadly shootings on US campuses have raised ______ concerns about how to prevent such tragic incidents from happening again.",
+"o": [
+"swift",
+"brutal",
+"harsh",
+"grave"
+],
+"a": 3,
+"ids": [
+"L3-0880",
+"L4-0109",
+"L4-0478",
+"L4-0462"
+]
+}
+]
