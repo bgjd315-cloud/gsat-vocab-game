@@ -104,7 +104,7 @@
       "w": 1
      },
      {
-      "t": "常見錯誤：兩個動詞 divide…and conduct 時態一致，不要寫 divide…and conducting",
+      "t": "常見錯誤：兩個動詞 divide…and conduct 形式一致，不要寫 divide…and conducting",
       "w": 0.5
      }
     ],
@@ -2271,7 +2271,7 @@
       "w": 1
      },
      {
-      "t": "常見錯誤：「減少」decrease 是不及物動詞，不要寫成 has been decreased",
+      "t": "常見錯誤：「減少」decrease 在此作不及物動詞，不要寫成 has been decreased",
       "w": 0.5
      }
     ],
@@ -2292,7 +2292,7 @@
       "en": "over the past decade"
      },
      {
-      "zh": "平均氣溫",
+      "zh": "夏季的平均氣溫",
       "en": "average summer temperature"
      },
      {
@@ -2746,7 +2746,7 @@
     "zh": "阿里山的日出是台灣最美的景色之一，每年吸引無數遊客前往觀賞。",
     "ref": "The sunrise at Alishan is one of the most beautiful sights in Taiwan, and every year it attracts countless visitors who come to see it.",
     "alt": [
-     "Watching the sunrise on Alishan is one of the most amazing experiences in Taiwan, drawing numerous tourists there every year."
+     "The sunrise on Alishan is one of the most beautiful sights in Taiwan, drawing numerous tourists there every year."
     ],
     "keys": [
      {

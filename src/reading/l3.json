@@ -366,7 +366,7 @@
     ],
     "answer": 3,
     "word": "L3-0181",
-    "explain": "出發前打給航空公司「確認」班機是否準時，confirm that... 表示確認某事，故選 confirm。advise 是「建議」，是航空公司對你提出建議，不是你打電話去做的事。"
+    "explain": "出發前打給航空公司「確認」班機是否準時，confirm that... 表示確認某事，故選 confirm。represent（代表）、connect（連接）、organize（籌辦）都不能接 that 子句表示確認某事。"
    }
   ],
   "status": "ok"
@@ -851,7 +851,7 @@
     ],
     "answer": 0,
     "word": "L3-0400",
-    "explain": "餐廳越來越忙，老闆打算再「雇用」兩位廚師，hire cooks 是常見搭配，故選 hire。engage 當「參與」時要用 engage in，後面不能直接接 cooks 表示雇人；melt（融化）、resist（抵抗）也不合語意。"
+    "explain": "餐廳越來越忙，老闆打算再「雇用」兩位廚師，hire cooks 是常見搭配，故選 hire。melt（融化）、resist（抵抗）、destroy（摧毀）都不合語意。"
    }
   ],
   "status": "ok"
@@ -991,7 +991,7 @@
    "In this [[situation|L3-0800]], the band leader made an [[immediate|L3-0425]] decision: they would play. As the water slowly [[drained|L3-0260]] off the field, Ben lifted his horn and played as loudly as he could. The crowd stood up and cheered, and the [[joyful|L3-0458]] music [[impressed|L3-0427]] everyone. \"I'll remember this day for [[decades|L3-0220]],\" Ben said later with a big smile."
   ],
   "zh": [
-   "每年，陽光丘高中的運動會都由學校樂隊繞著操場行進揭開序幕。今年，一年級的班被選上吹奏號角。他很渴望表現好，但也感受到大家期望所帶來的壓力。樂隊前一年才在市級比賽中拿下金牌，能和他們一起演出是莫大的榮譽。",
+   "每年，陽光丘高中的運動會都由學校樂隊繞著操場行進揭開序幕。今年，一年級的班（Ben）被選上吹奏號角。他很渴望表現好，但也感受到大家期望所帶來的壓力。樂隊前一年才在市級比賽中拿下金牌，能和他們一起演出是莫大的榮譽。",
    "活動當天早上，天氣變得很極端。一開始非常炎熱，接著突然下起大雨。有些老師對於是否讓樂隊照常演出感到懷疑。與此同時，觀眾在屋簷下等待，一些前來觀看的年長爺爺奶奶穿上了雨衣。",
    "在這種情況下，樂隊隊長當機立斷：他們要照常演奏。隨著雨水慢慢從操場排掉，班舉起號角，用盡全力大聲吹奏。群眾站起來歡呼，歡樂的音樂讓每個人都印象深刻。班後來帶著大大的笑容說：「這一天我會記上好幾十年。」"
   ],
@@ -1535,7 +1535,7 @@
      "Run every morning"
     ],
     "answer": 0,
-    "explain": "第一段說她小時候最喜歡坐在海邊看潮水湧上來，故選 (A)。(B) 正好相反，吵鬧的球類比賽會讓她害怕；(D) 每天早上跑步是她加入車社之後才養成的習慣。",
+    "explain": "第一段說她小時候最喜歡坐在海邊看潮水湧上來，故選 (A)。(B) 正好相反，吵鬧的球類比賽會讓她害怕；(D) 每天早上跑步是她加入自行車社之後才養成的習慣。",
     "evidence": "What she loved most was sitting by the sea and watching the tide come in."
    },
    {
@@ -1868,7 +1868,7 @@
   "paragraphs": [
    "On a [[chilly|L3-0142]] morning in her first week at a new school, Lisa sat alone in the classroom. She wanted to make friends, but she did not [[dare|L3-0214]] to start a conversation. \"What if I say something silly?\" she thought.",
    "[[Scientists|L3-0767]] who study friendship have reached an interesting [[conclusion|L3-0179]]: close friendships rarely start with one big moment. They grow from many small ones. One study found that it takes about 50 hours together to turn a stranger into a [[casual|L3-0131]] friend, and over 200 hours to become close friends. Much of that time is spent in simple [[chats|L3-0136]] about homework or lunch.",
-   "These small talks give us [[clues|L3-0160]] about each other. When we [[communicate|L3-0173]] often, we learn who likes the same music and who always shares her [[crispy|L3-0207]] snacks. Strangers become [[familiar|L3-0311]] faces, we [[relax|L3-0710]], and our talks slowly [[deepen|L3-0225]] into trust. So do not feel [[confused|L3-0182]] if a friendship grows slowly. There is no fast way.",
+   "These small chats give us [[clues|L3-0160]] about each other. When we [[communicate|L3-0173]] often, we learn who likes the same music and who always shares her [[crispy|L3-0207]] snacks. Strangers become [[familiar|L3-0311]] faces, we [[relax|L3-0710]], and our talks slowly [[deepen|L3-0225]] into trust. So do not feel [[confused|L3-0182]] if a friendship grows slowly. There is no fast way.",
    "Saying hello is not [[costly|L3-0190]], and every lunch break is an [[opportunity|L3-0586]]. The next week, Lisa asked the girl next to her about her [[collection|L3-0166]] of cute pencils. By the end of the [[semester|L3-0775]], the two were eating lunch together every day."
   ],
   "zh": [
@@ -2350,7 +2350,7 @@
     ],
     "answer": 2,
     "word": "L3-0440",
-    "explain": "能在二十分鐘內寫完很難的數學考試，表示他很「聰明」，故選 intelligent。holy（神聖的）、humid（潮濕的）不能形容人的能力；inferior（較差的）則與快速寫完考卷的語意矛盾。"
+    "explain": "能在二十分鐘內寫完很難的數學考試，表示她很「聰明」，故選 intelligent。holy（神聖的）、humid（潮濕的）不能形容人的能力；inferior（較差的）則與快速寫完考卷的語意矛盾。"
    },
    {
     "stem": "Taiwan ______ most of its wheat from other countries.",
@@ -2382,7 +2382,7 @@
   ],
   "zh": [
    "艾咪和奶奶計畫這趟旅行好幾個月了：搭一列小火車，一路開上台灣中部的山區。在車站，艾咪把行李檢查了兩遍。奶奶說過，保暖的衣服是必需品，因為山上即使在夏天也可能很冷。",
-   "火車又老又慢。一對年長的夫婦坐在她們對面，其他乘客則輕聲聊天。隨著火車往上爬，窗外的空氣變得涼爽又濕潤，不久，一片濃霧籠罩了山丘。艾咪只看得見樹木黑黑的輪廓。那感覺好神奇，彷彿他們正搭著火車駛進雲裡。",
+   "火車又老又慢。一對年長的夫婦坐在她們對面，其他乘客則輕聲聊天。隨著火車往上爬，窗外的空氣變得涼爽又濕潤，不久，一片濃霧籠罩了山丘。艾咪只看得見樹木黑黑的輪廓。那感覺好神奇，彷彿她們正搭著火車駛進雲裡。",
    "接著發生了一件怪事。艾咪伸手拿手機想拍照，手機卻不見了。她開始慌了起來。坐在對面的老先生笑了笑，指了指她的座位底下。手機就在那裡！大家都笑了出來。",
    "到了山頂，霧氣散去，眼前出現了壯麗的景色：雄偉的群山一座接著一座，矗立在藍天下。不過後來她告訴朋友，這趟旅程最棒的部分並不是風景，而是在一列慢吞吞的小火車上，和陌生人一起開懷大笑。"
   ],
@@ -3423,7 +3423,7 @@
      "By rubbing its wings together"
     ],
     "answer": 3,
-    "explain": "第二段說雄蟋蟀是靠摩擦兩片翅膀發出歌聲，故選 (D)。(A) 錯誤，文中第一句就說蟋蟀不是用嘴巴唱歌。",
+    "explain": "第二段說雄蟋蟀是靠摩擦兩片翅膀發出歌聲，故選 (D)。(A) 錯誤，第二段第一句就說蟋蟀不是用嘴巴唱歌。",
     "evidence": "A male cricket rubs its wings together."
    },
    {
@@ -4131,7 +4131,7 @@
     ],
     "answer": 1,
     "word": "L3-0357",
-    "explain": "莉莎「瞄了一眼」時鐘，發現自己快遲到了，glance at 是「看一眼」的固定搭配，故選 glanced。grasp 是「抓緊；理解」，後面不接 at clock 表示看時間。"
+    "explain": "莉莎「瞄了一眼」時鐘，發現自己快遲到了，glance at 是「看一眼」的固定搭配，故選 glanced。grasp 是「抓緊；理解」，後面不接 at the clock 表示看時間。"
    }
   ],
   "status": "ok"

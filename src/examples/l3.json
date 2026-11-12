@@ -465,7 +465,7 @@
  },
  {
   "id": "L3-0059",
-  "en": "Please do not leave your baggage alone at the airport.",
+  "en": "Please do not leave your baggage unattended at the airport.",
   "zh": "在機場請不要把行李丟著不管。",
   "target": "baggage",
   "status": "ok",
@@ -3145,7 +3145,7 @@
  },
  {
   "id": "L3-0394",
-  "en": "It was so cold that we turned on the heater all night.",
+  "en": "It was so cold that we kept the heater on all night.",
   "zh": "天氣太冷了，我們整晚都開著暖氣機。",
   "target": "heater",
   "status": "ok",
@@ -3697,7 +3697,7 @@
  },
  {
   "id": "L3-0463",
-  "en": "A baby kangaroo lives in its mother's pocket for months.",
+  "en": "A baby kangaroo lives in its mother's pouch for months.",
   "zh": "小袋鼠會在媽媽的育兒袋裡住好幾個月。",
   "target": "kangaroo",
   "status": "ok",
@@ -4778,7 +4778,7 @@
  {
   "id": "L3-0598",
   "en": "Her older brother is studying overseas in England this year.",
-  "zh": "她哥哥今年在海外的英國念書。",
+  "zh": "她哥哥今年在英國留學。",
   "target": "overseas",
   "status": "ok",
   "note": ""

@@ -618,7 +618,7 @@
   "zh": "取消",
   "group": "出差・旅遊・飯店",
   "en": "There is a small fee for cancellation within twenty-four hours of the reservation.",
-  "exzh": "預約後二十四小時內取消需收取少許費用。",
+  "exzh": "在預約時間前二十四小時內取消需收取少許費用。",
   "target": "cancellation",
   "note": "cancellation fee 取消費",
   "status": "ok"
@@ -1734,7 +1734,7 @@
   "zh": "重新裝潢；重新布置",
   "group": "生活與設施",
   "en": "The hotel will close its lobby next week in order to redecorate it for the holiday season.",
-  "exzh": "飯店下週將關閉大廳，為了在節慶季重新布置。",
+  "exzh": "飯店下週將關閉大廳，以便為節慶季重新布置。",
   "target": "redecorate",
   "note": "",
   "status": "ok"
@@ -2394,7 +2394,7 @@
   "zh": "客房清潔服務；家務管理",
   "group": "出差・旅遊・飯店",
   "en": "Please call housekeeping if you need extra towels or would like your room cleaned.",
-  "exzh": "如果您需要額外毛巾或想打掃房間，請致電客房服務部。",
+  "exzh": "如果您需要額外毛巾或需要打掃房間，請致電房務部。",
   "target": "housekeeping",
   "note": "原字表為 housekeep；常用名詞 housekeeping（飯店的客房清潔部門）",
   "status": "ok"

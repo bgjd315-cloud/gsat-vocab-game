@@ -88,7 +88,7 @@
     "ex": [
      {
       "en": "She unlocked the door and walked into the quiet classroom.",
-      "zh": "她開了門，走進安靜的教室。",
+      "zh": "她打開門鎖，走進安靜的教室。",
       "hl": [
        "unlocked"
       ]
@@ -521,7 +521,7 @@
   "title": "dis- 不、相反、分開",
   "formula": "dis + 動詞／形容詞／名詞 → 相反、否定；dis + 動詞 → 分開、除去",
   "rhyme": "dis 有三意：不、反、分開走",
-  "intro": "dis- 有三種常見意思：「不、相反」（dislike、dishonest）、「除去、分開」（disconnect、distribute）、「強化」（dissolve）。它可以接動詞、形容詞、名詞，是學測閱讀與混合題的常客。很多 dis- 字在大考出現，例如 discourage、disorder、dismantle，抓住字首就能猜出負面或相反的意思。",
+  "intro": "dis- 有三種常見意思：「不、沒有」（dishonest、discomfort）、「相反動作」（disagree、disappear）、「除去、分開」（disconnect、distribute、dissolve）。它可以接動詞、形容詞、名詞，是學測閱讀與混合題的常客。很多 dis- 字在大考出現，例如 discourage、disorder、dismantle，抓住字首就能猜出負面或相反的意思。",
   "family": [
    {
     "w": "dislike",
@@ -778,7 +778,7 @@
   "title": "non-、mis- 非、錯誤地",
   "formula": "non + 名詞／形容詞 → 非…的；mis + 動詞／名詞 → 錯誤地、誤…",
   "rhyme": "non 是「非」，mis 是「錯」，mission 別亂猜",
-  "intro": "non- 單純表示「非、不是」，語氣比 un- 中性；mis- 表示「錯誤、不好」，常接動詞，如 misunderstand、mislead。這兩個字首在學測閱讀與選擇題很實用，但要小心 mission、missile、mischief 這類長得像卻不是 mis- 的字。",
+  "intro": "non- 單純表示「非、不是」，語氣比 un- 中性；mis- 表示「錯誤、不好」，常接動詞，如 misunderstand、mislead。這兩個字首在學測閱讀與選擇題很實用，但要小心 mission、missile、misery 這類長得像卻不是 mis- 的字。",
   "family": [
    {
     "w": "nonsense",
@@ -930,7 +930,7 @@
    {
     "wrong": "mischief：mis + chief，錯誤的首領",
     "right": "mischief：惡作劇、頑皮",
-    "why": "mischief 來自古法文，不能拆；misery（悲慘）、miserable 也不是 mis- 否定。"
+    "why": "mischief 來自古法文，chief 在這裡是「結果」不是「首領」（原意「壞結果」），要整字記；misery（悲慘）、miserable 也不是 mis- 否定。"
    },
    {
     "wrong": "non 可以隨意加在任何字前（如 nonhappy）",
@@ -1217,7 +1217,7 @@
    },
    {
     "type": "mc",
-    "s": "This is the second time the town has to ______ the bridge after a typhoon destroyed it.",
+    "s": "This is the second time the town has had to ______ the bridge after a typhoon destroyed it.",
     "o": [
      "build",
      "rebuilt",
@@ -1225,7 +1225,7 @@
      "rebuild"
     ],
     "a": 3,
-    "ex": "the second time 與 destroyed 表示「再建一次」，要用 re-（再次）+ build。has to 後面接原形動詞，所以不能選 rebuilt 或 building。",
+    "ex": "the second time 與 destroyed 表示「再建一次」，要用 re-（再次）+ build。has had to 後面接原形動詞，所以不能選 rebuilt 或 building。",
     "hint": "第二次建造同一座橋，要表示「重新」。"
    },
    {
@@ -1774,7 +1774,7 @@
      "We overlooked a spelling mistake in the report."
     ],
     "a": 3,
-    "ex": "第一句的 overlooked a spelling mistake 是「沒注意到」，也就是忽略。其他三句的 overlooks 都是「俯瞰、面對」。",
+    "ex": "第四句的 overlooked a spelling mistake 是「沒注意到」，也就是忽略。其他三句的 overlooks 都是「俯瞰、面對」。",
     "hint": "看哪個句子是「看漏了」，而不是「從高處看」。"
    }
   ],
@@ -2614,7 +2614,7 @@
    },
    {
     "w": "conference",
-    "parts": "con + fer(帶)",
+    "parts": "con + fer(帶) + ence",
     "zh": "會議",
     "lv": 4
    },
@@ -3474,7 +3474,7 @@
    {
     "a": "enclose（圍起來）",
     "b": "include（包含）",
-    "note": "enclose 是把東西圍在裡面；include 是把東西算在其中。en- 與 in- 同樣表示「在裡面」，但字根 clos(e) 與 clud(e) 不同。"
+    "note": "enclose 是把東西圍在裡面；include 是把東西算在其中。en- 與 in- 同樣表示「在裡面」，字根 clos(e) 與 clud(e) 也同源（都是拉丁文「關閉」），差別在用法。"
    },
    {
     "a": "en-（字首）",
@@ -3490,7 +3490,7 @@
   "mistakes": [
    {
     "wrong": "enemy = en + emy",
-    "right": "enemy 是單一字根，不是 en + emy",
+    "right": "enemy 來自拉丁文 inimicus（in 不 + amicus 朋友），不是 en + emy",
     "why": "en- 開頭不一定是字首；enemy, energy, entire, environment 的 en 需要小心。"
    },
    {
@@ -4002,7 +4002,7 @@
    {
     "a": "uni-（一）",
     "b": "mono-（一）",
-    "note": "兩者都是「一」；uni- 多接拉丁字根（uniform, unite），mono- 多接希臘字根（monopoly, monotony, monorail）。"
+    "note": "兩者都是「一」；uni- 多接拉丁字根（uniform, unite），mono- 多接希臘字根（monopoly, monotony）。"
    },
    {
     "a": "bi-（二）",
@@ -4372,7 +4372,7 @@
      "multi- 表示「多」，例如 multimedia（多媒體）"
     ],
     "a": 3,
-    "ex": "multi- 是多，semi- 是半；multimedia 是多種媒體的合稱，所以只有第一個配對正確。",
+    "ex": "multi- 是多，semi- 是半；multimedia 是多種媒體的合稱，所以只有最後一個配對正確。",
     "hint": "multi- 與 semi- 的意思別弄反了。"
    }
   ],
@@ -4946,7 +4946,7 @@
    },
    {
     "w": "applicant",
-    "parts": "apply（申請）→ appli + cant",
+    "parts": "apply（申請）→ applic + ant",
     "zh": "申請人",
     "lv": 4
    },
@@ -6879,7 +6879,7 @@
      "A tourism is a person, and a tourist is a business."
     ],
     "a": 1,
-    "ex": "-ist 是人（tourist 觀光客），-ism 是行業或概念（tourism 觀光業）。只有第一個選項把兩者放對位置。",
+    "ex": "-ist 是人（tourist 觀光客），-ism 是行業或概念（tourism 觀光業）。只有第二個選項把兩者放對位置。",
     "hint": "-ist 與 -ism 一個表人，一個表概念。"
    },
    {
@@ -7753,7 +7753,7 @@
     ]
    },
    {
-    "t": "拼字變化：-de/-se → -sive（persuade → persuasive、decide → decisive、invade → invasive、explode → explosive）；-ate 動詞多半變 -ative（decorate → decorative），但 create → creative 只去掉 e。",
+    "t": "拼字變化：-de/-se → -sive（persuade → persuasive、decide → decisive、invade → invasive、explode → explosive）；-ate 動詞去掉 e 再加 -ive（decorate → decorative、create → creative）。",
     "ex": [
      {
       "en": "A persuasive speech can change people's minds.",
@@ -7948,7 +7948,7 @@
    },
    {
     "w": "scientific",
-    "parts": "science（去 e）+ ific",
+    "parts": "science → scient + ific",
     "zh": "科學的",
     "lv": 3
    },
@@ -8033,7 +8033,7 @@
     "ex": [
      {
       "en": "Taiwan is rich in natural resources such as forests.",
-      "zh": "台灣有森林等天然資源。",
+      "zh": "台灣有森林等豐富的天然資源。",
       "hl": [
        "natural"
       ]
@@ -8106,7 +8106,7 @@
     ],
     "a": 1,
     "ex": "aqua- 表示「水」，加 -tic 變形容詞，表示「與水有關的」。後半句 while lions live on land 與 land 對比，所以是水生的。aquatic 是學測文章出現過的表外字。",
-    "hint": "while 後面的 land 與句首的字形成對比。"
+    "hint": "while 後面的 land 與前半句的 aquatic 形成對比。"
    },
    {
     "type": "mc",
@@ -8217,7 +8217,7 @@
    },
    {
     "w": "lovely",
-    "parts": "love → lov + ely",
+    "parts": "love + ly",
     "zh": "可愛的",
     "lv": null
    },
@@ -8286,7 +8286,7 @@
     ]
    },
    {
-    "t": "名詞 + -ly 形成形容詞：friend → friendly、love → lovely、time → timely、day → daily、week → weekly。它們是形容詞，不是副詞，不能直接修飾動詞；若要表達副詞，要改用 in a friendly way。",
+    "t": "名詞 + -ly 形成形容詞：friend → friendly、love → lovely、time → timely、day → daily、week → weekly。它們是形容詞；其中 friendly、lovely 不是副詞，不能直接修飾動詞（daily、weekly 則也可當副詞）；若要表達副詞，要改用 in a friendly way。",
     "ex": [
      {
       "en": "Our neighbor is very friendly and always says hello.",
@@ -8584,7 +8584,7 @@
    {
     "wrong": "simplyfy、beautyfy",
     "right": "simplify、beautify",
-    "why": "形容詞字尾 -y 或 -e 接 -ify 時要改成 i；simple 的 e 要去掉，beauty 的 y 要改 i，所以是 simplify、beautify。"
+    "why": "字尾的 -y 或 -e 接 -ify 時要改成 i；simple 的 e 要去掉，beauty 的 y 要改 i，所以是 simplify、beautify。"
    },
    {
     "wrong": "otherwise、likewise 的 -wise 看成 -ise",
@@ -8747,7 +8747,7 @@
   ],
   "points": [
    {
-    "t": "-en 加在單音節的形容詞或名詞後，變成動詞，意思是「使變得……」或「變得……」。weak 變弱 → weaken 使變弱，wide 寬 → widen 使變寬。",
+    "t": "-en 加在單音節的形容詞或名詞後，變成動詞，意思是「使變得……」或「變得……」。weak 弱 → weaken 使變弱，wide 寬 → widen 使變寬。",
     "ex": [
      {
       "en": "Bad habits can weaken your body.",
@@ -8766,7 +8766,7 @@
     ]
    },
    {
-    "t": "字尾已有 e 的字，只加 n，例如 loose → loosen；名詞也能加 -en，例如 strength → strengthen、threat → threaten、height → heighten（height 的 -th 要留著）。",
+    "t": "字尾已有 e 的字，只加 n，例如 loose → loosen；名詞也能加 -en，例如 strength → strengthen、threat → threaten、height → heighten（height 的 -ght 要留著）。",
     "ex": [
      {
       "en": "Exercise can strengthen your muscles.",
@@ -9037,7 +9037,7 @@
     ]
    },
    {
-    "t": "有些字加 -ly 後意思大變：hard（努力地）/ hardly（幾乎不）、late（遲）/ lately（最近）、high（高地）/ highly（高度地）、near（近）/ nearly（幾乎）。",
+    "t": "有些字加 -ly 後意思大變：hard（努力地）/ hardly（幾乎不）、late（遲）/ lately（最近）、high（高高地）/ highly（高度地）、near（近）/ nearly（幾乎）。",
     "ex": [
      {
       "en": "I could hardly hear the teacher in the noisy room.",
@@ -9359,7 +9359,7 @@
    {
     "wrong": "teethbrush",
     "right": "toothbrush",
-    "why": "複合名詞前面的名詞通常用單數，tooth 不改成 teeth；sport 前面則有例外，例如 sports car。"
+    "why": "複合名詞前面的名詞通常用單數，tooth 不改成 teeth；但也有例外，例如 sports car。"
    },
    {
     "wrong": "a seasports",
@@ -9541,7 +9541,7 @@
     ]
    },
    {
-    "t": "副詞 + 過去分詞：well + known = well-known、newly + built = newly-built，表示被動或狀態；另有「形容詞 + 名詞-ed」：kind + heart + ed = kind-hearted（心地善良的）。",
+    "t": "副詞 + 過去分詞：well + known = well-known、well + dressed = well-dressed，表示被動或狀態；另有「形容詞 + 名詞-ed」：kind + heart + ed = kind-hearted（心地善良的）。",
     "ex": [
      {
       "en": "This is a well-known restaurant in our town.",
@@ -9682,7 +9682,7 @@
      "He has a five-year-old sister."
     ],
     "a": 3,
-    "ex": "a five-year-old sister 的 year 要用單數。其他選項把 year 寫成複數，或少了連字號，都是錯誤寫法。",
+    "ex": "a five-year-old sister 的 year 要用單數。其他選項把 year 或 five 寫成複數，或少了連字號，都是錯誤寫法。",
     "hint": "複合形容詞中的名詞保持單數。"
    },
    {
@@ -9707,7 +9707,7 @@
   "l": "M39",
   "group": "複合字",
   "title": "複合字的拆解與寫法",
-  "formula": "any / some / every / no + one / thing / where（連寫）；every day、may be（分寫）",
+  "formula": "any / some / every / no + one / thing / where（連寫，no one 除外）；every day、may be（分寫）",
   "rhyme": "連寫是一詞，分開是兩詞；先拆開，看詞性對不對",
   "intro": "有些詞連寫是一個字，分開寫又是兩個字，意思和詞性都不同，例如 everyday（形容詞）和 every day（副詞片語）。不定代名詞 anywhere、someone 一律連寫，但 no one 要分開。學測改錯與混合題很愛考這類拼寫，會用 maybe / may be、altogether / all together 來測驗你有沒有看懂句子結構。",
   "family": [
@@ -9854,7 +9854,7 @@
    "步驟 1：看到連寫字，先拆成兩個字，確認字面意思，例如 anywhere → any + where。",
    "步驟 2：判斷詞性，在句中是形容詞、副詞，還是動詞片語。",
    "步驟 3：用換詞測試：every day 可換成 each day，everyday 不行；may be 可換成 might be，maybe 不行。",
-   "步驟 4：完整例子：She does the same exercise every day.，every day 修飾動詞 does，是副詞片語，要分寫。"
+   "步驟 4：完整例子：She does the same exercise every day. 句中 every day 修飾動詞 does，是副詞片語，要分寫。"
   ],
   "compare": [
    {
@@ -9941,7 +9941,7 @@
     ],
     "a": 3,
     "ex": "句首要放副詞，maybe = 也許。may be 後面要接補語，不能直接放在句首接完整子句。",
-    "hint": "此處沒有動詞，要補上哪一種詞性？"
+    "hint": "後面已有完整子句（動詞 is），要補上哪一種詞性？"
    },
    {
     "type": "pick",
@@ -9978,7 +9978,7 @@
   "l": "M40",
   "group": "字根",
   "title": "spect 看",
-  "formula": "字首 + spect (+ 字尾) → 與「看」有關的字",
+  "formula": "字首 + spect（+ 字尾） → 與「看」有關的字",
   "rhyme": "spect 就是看，往裡看、往前看，各有各的看法",
   "intro": "spect（也寫成 spec、spic）來自拉丁文，意思是「看」。接上不同字首，就能看出「怎麼看」：in + spect 是往裡面仔細看（檢查），pro + spect 是往前看（前景）。學測閱讀常出現 respect、aspect、perspective 這類字，抓到 spect 就能快速猜義。",
   "family": [
@@ -10055,7 +10055,7 @@
       ]
      },
      {
-      "en": "She has a bright prospect in the music industry.",
+      "en": "She has bright prospects in the music industry.",
       "zh": "她在音樂產業的前景很光明。",
       "hl": [
        "prospect"
@@ -10242,7 +10242,7 @@
   "l": "M41",
   "group": "字根",
   "title": "port 帶、運",
-  "formula": "字首 + port (+ 字尾) → 與「搬運、帶」有關的字",
+  "formula": "字首 + port（+ 字尾） → 與「搬運、帶」有關的字",
   "rhyme": "port 是搬運，進口出口都靠它；港口 port 不一樣，要看上下文",
   "intro": "port 來自拉丁文 portare，意思是「搬運、攜帶」。import 是搬進來，export 是搬出去，transport 是搬運過去。這個字根很好用，但 passport、opportunity 裡的 port 是「港口」，是學測陷阱字，要特別留意。",
   "family": [
@@ -10494,7 +10494,7 @@
   "l": "M42",
   "group": "字根",
   "title": "dict 說",
-  "formula": "字首 + dict (+ 字尾) → 與「說」有關的字",
+  "formula": "字首 + dict（+ 字尾） → 與「說」有關的字",
   "rhyme": "dict 是說，先說就預言，反著說就矛盾",
   "intro": "dict 來自拉丁文 dicere，意思是「說」。pre（先）+ dict = 先說出來，也就是預測；contra（反對）+ dict = 反著說，也就是反駁。學測閱讀常出現 predict、contradict、dictate，掌握字根能幫你更快理解句意。",
   "family": [
@@ -10758,7 +10758,7 @@
   "l": "M43",
   "group": "字根",
   "title": "struct 建造",
-  "formula": "字首 + struct (+ 字尾) → 與「建造、堆疊」有關的字",
+  "formula": "字首 + struct（+ 字尾） → 與「建造、堆疊」有關的字",
   "rhyme": "struct 是建造，一起蓋叫 construct，拆掉就叫 destruct",
   "intro": "struct 來自拉丁文 struere，意思是「建造、堆疊」。con（一起）+ struct = 蓋起來，in（向內）+ struct = 在心中建立知識（教導），de（拆）+ struct = 拆掉。學測閱讀常出現 structure、construction、destruction，掌握字根就不容易被長字嚇到。",
   "family": [
@@ -10895,7 +10895,7 @@
    }
   ],
   "steps": [
-   "步驟 1：找到 struct（有時只剩 stru-，如 destroy），確認字根。",
+   "步驟 1：找到 struct（有時變成 stroy，如 destroy），確認字根。",
    "步驟 2：切出字首與字尾，例如 infrastructure = infra + struct + ure。",
    "步驟 3：把意思拼起來：infra（下面）+ structure（結構）→ 在下面支撐的結構，也就是基礎建設。",
    "步驟 4：完整例子：destructive = de（拆）+ struct（建造）+ ive（形容詞）→「拆毀的、破壞性的」，所以 destructive power 就是「破壞力」。"
@@ -11022,7 +11022,7 @@
   "l": "M44",
   "group": "字根",
   "title": "rupt 破",
-  "formula": "字首 + rupt (+ 字尾) → 與「破裂、打斷」有關的字",
+  "formula": "字首 + rupt（+ 字尾） → 與「破裂、打斷」有關的字",
   "rhyme": "rupt 是打破，中間打斷叫 interrupt，向外爆開叫 erupt",
   "intro": "rupt 來自拉丁文 rumpere，意思是「打破、破裂」。inter（之間）+ rupt = 在中間打斷，e（向外）+ rupt = 向外破裂（爆發），ab（離開）+ rupt = 突然斷開，也就是「突然的」。學測閱讀常出現 interrupt、erupt、disrupt、corrupt，抓住 rupt 就能理解它們的核心。",
   "family": [
@@ -11709,7 +11709,7 @@
    {
     "wrong": "rejection 拼成 rejecsion",
     "right": "rejection",
-    "why": "名詞字尾是 -tion，前面的 ject 完整保留。"
+    "why": "名詞是完整的 ject 再加 -ion。"
    },
    {
     "wrong": "subjective 是「主題的」",
@@ -12192,7 +12192,7 @@
     "ex": [
      {
       "en": "The final match was televised across the whole country.",
-      "zh": "決賽在全國電視直播。",
+      "zh": "決賽在全國電視轉播。",
       "hl": [
        "televised"
       ]
@@ -13497,7 +13497,7 @@
     ]
    },
    {
-    "t": "suspend 的名詞有 suspension（暫停）和 suspense（懸疑），字尾 s 不同：-sion 是動作，-se 是緊張懸著不決的感覺。",
+    "t": "suspend 的名詞有 suspension（暫停）和 suspense（懸疑），字尾不同：-sion 是動作，-se 是緊張懸著不決的感覺。",
     "ex": [
      {
       "en": "The match was suspended because of the heavy rain.",
@@ -13507,7 +13507,7 @@
       ]
      },
      {
-      "en": "The movie was full of suspense from start to end.",
+      "en": "The movie was full of suspense from start to finish.",
       "zh": "這部電影從頭到尾都充滿懸疑。",
       "hl": [
        "suspense"
@@ -13733,7 +13733,7 @@
     "t": "第三步「驗」：把推出的意思放回句子，問自己「通順嗎？前後句有沒有線索？」如果不通順，可能是拆錯或遇到了假朋友，就要重新拆或乾脆根據上下文猜。",
     "ex": [
      {
-      "en": "Many people believe his plan is incredible, but it never worked.",
+      "en": "Many people believed his plan was incredible, but it never worked.",
       "zh": "許多人覺得他的計畫很驚人，但它從未成功。",
       "hl": [
        "incredible"
@@ -13982,7 +13982,7 @@
     ]
    },
    {
-    "t": "副詞字尾 -ly，用來修飾動詞、形容詞或整個句子。位置線索：動詞後面或前面、形容詞前面（very carefully）。",
+    "t": "副詞字尾 -ly，用來修飾動詞、形容詞或整個句子。位置線索：動詞後面或前面、形容詞前面（extremely difficult）。",
     "ex": [
      {
       "en": "She answered the question confidently and everyone clapped.",
@@ -14028,7 +14028,7 @@
    {
     "wrong": "friendly 以 -ly 結尾，所以是副詞",
     "right": "friendly 是形容詞",
-    "why": "名詞 + ly 通常構成形容詞：friendly、lovely、lonely、daily。"
+    "why": "名詞 + ly 通常構成形容詞：friendly、lovely、costly、daily。"
    },
    {
     "wrong": "-er 結尾一定是「人」",

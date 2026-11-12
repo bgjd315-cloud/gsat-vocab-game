@@ -285,7 +285,7 @@
   "status": "ok",
   "connect": "課文談動物的睡眠，這篇用一份學生報告看不同動物在海裡與野外怎麼睡。",
   "paragraphs": [
-   "Have you ever [[wondered|L0-0072]] how animals sleep? For a school report, I read about this and found some [[amazing|T-0016]] facts. People need about eight hours of sleep each night, but the [[average|L0-0181]] sleep time of animals changes a lot. Animals rest in a [[variety|L3-0953]] of ways. [[According to|P-0019]] one science book, some bats sleep [[up to|P-0020]] twenty hours a day, while horses need only a few hours.",
+   "Have you ever [[wondered|L0-0072]] how animals sleep? For a school report, I read about this and found some [[amazing|T-0016]] facts. People need about eight hours of sleep each night, but the [[average|L0-0181]] sleep time of animals varies a lot. Animals rest in a [[variety|L3-0953]] of ways. [[According to|P-0019]] one science book, some bats sleep [[up to|P-0020]] twenty hours a day, while horses need only a few hours.",
    "Sleeping in the sea is harder. Sea otters [[float|L3-0328]] on the water [[surface|L0-0246]] while they rest. [[For example|P-0018]], they sometimes wrap themselves in seaweed so the water cannot carry them away. Dolphins must [[breathe|L3-0096]] air, so they cannot fall into a deep sleep like we do. Instead, they rest one half of the brain at a time. [[Therefore|T-0017]], they can keep swimming and come up for air whenever they need to.",
    "Wild animals cannot sleep deeply in an open place, or a hungry hunter might find them. Many of them [[avoid|T-0018]] danger by taking short [[naps|L3-0564]] and staying light sleepers. Horses can even sleep standing up, so they can run quickly if something frightens them. It is a little strange to think that a quiet, sleepy [[creature|L3-0202]] may still be ready to run at any moment.",
    "I showed my report to our biology teacher, who is an [[expert|L0-0202]] on animals. She said that all living things need rest, but they have found different ways to stay [[awake|L3-0049]] enough to be safe and sleep enough to stay healthy."
@@ -430,7 +430,7 @@
   "zh": [
    "大部分的人不喜歡老鼠，但在某些國家，這些小動物是真正的英雄。非洲大頰囊鼠有非常靈敏的鼻子，能偵測到人類注意不到的氣味。當我偶然看到一支關於牠們的影片時，我很驚訝老鼠竟能做這麼重要的工作。",
    "其中一項工作是找出戰爭遺留下來、埋在地下的地雷。老鼠很輕，所以走過地雷時通常不會觸發它。訓練員教每隻老鼠找出某種特定化學物質的氣味，並用抓地來通知牠的人類夥伴。每次老鼠做對，就會得到美味的點心當獎賞。老鼠也能檢查可能感染肺部疾病「結核病」的病人樣本。由於牠們的鼻子，牠們能在短時間內檢查很多樣本，這對醫生很有幫助。",
-   "訓練要花好幾個月。老鼠先學會一個代表有食物的小小喀噠聲，接著牠們學會執行簡單的任務，最後在真正的田地裡接受測試。不是每隻老鼠都能通過，但結果發現這些動物友善的行為讓牠們很容易合作。",
+   "訓練要花好幾個月。老鼠先學會跟隨一個代表有食物的小小喀噠聲，接著牠們學會執行簡單的任務，最後在真正的田地裡接受測試。不是每隻老鼠都能通過，但結果發現這些動物友善的行為讓牠們很容易合作。",
    "我認為這是動物天生能力能幫助人類的好例子。老鼠看起來也許不像英雄，但靠著靈敏的鼻子與良好的訓練，牠能讓農民與孩子的田地更安全。"
   ],
   "glosses": [
@@ -704,7 +704,7 @@
    "Now the tower stands [[firmly|T-0033]] above the city. It does not look like an [[ancient|T-0034]] [[monument|L4-0651]] or a [[statue|L3-0838]] of a famous person, but for many people it [[symbolizes|L6-0899]] Paris itself. To people around the [[globe|L4-0449]], it can [[represent|L3-0720]] a dream of traveling far from home."
   ],
   "zh": [
-   "我的同學 Wendy 剛從巴黎旅行回來。她去參觀了艾菲爾鐵塔，並在班上給我們看她的照片。她說：「本人看起來大多了。」她的照片讓我想多了解這座塔，於是放學後我去了圖書館。",
+   "我的同學 Wendy 剛從巴黎旅行回來。她去參觀了艾菲爾鐵塔，並在班上給我們看她的照片。她說：「實物看起來大多了。」她的照片讓我想多了解這座塔，於是放學後我去了圖書館。",
    "今天，這座塔是著名的地標，也是每位到法國的觀光客必去的熱門景點。然而它當初是為了一場大型慶典而建，那是 1889 年在巴黎舉辦的世界博覽會。建造者被要求做出前所未見的東西。這座鐵塔高約三百公尺，在當時比世界上任何其他建築都高。",
    "一開始許多人並不喜歡它。雖然有些藝術家說它很醜，這座塔還是留了下來。它原本預計二十年後拆除，但後來發現它對發送無線電訊號很有用。隨著時間過去，人們習慣了它，甚至開始愛上它。",
    "現在這座塔穩穩地矗立在城市上空。它看起來不像古老的紀念碑，也不像某位名人的雕像，但對許多人來說，它象徵著巴黎本身。對全世界的人而言，它可以代表一個遠行的夢想。"
@@ -1047,7 +1047,7 @@
      "He wants to start his own store."
     ],
     "answer": 1,
-    "explain": "最後一段說他出門前寫清單、決定預算，只買需要的東西，可推論他購物變得更小心，故選 (B)。他只是變警覺，並沒有說再也不去超市。",
+    "explain": "最後一段說他現在對這些小把戲更有警覺，最後總能只買需要的東西就離開，可推論他購物變得更小心，故選 (B)。他只是變警覺，並沒有說再也不去超市。",
     "evidence": "He is eventually able to leave the store with only what he needs."
    },
    {
@@ -1510,13 +1510,13 @@
   "paragraphs": [
    "Hui-wen lives near a beach in Penghu. When she grew older, she began to take pictures with her phone. She did not [[start out|P-0061]] to be a [[photographer|L3-0634]]; she only wanted to [[capture|L3-0124]] the beautiful [[scenery|L4-0873]] around her home.",
    "But one summer, the beach changed. After a big storm, plastic bottles, nets, and bags covered the sand. It was a small [[disaster|L4-0294]] for the sea life there, and the sea was [[no longer|P-0062]] the place she remembered. Hui-wen took photos every day for a month. She wanted to [[record|T-0064]] how things changed, and the pictures became strong [[proof|L3-0680]] that the beach was in trouble. She showed them to her teacher, who said, \"Seeing the [[damage|T-0063]] with your own eyes has a stronger [[effect|L0-0009]] than any speech.\"",
-   "Hui-wen posted her photos online and asked friends to join a beach clean-up. Thirty students came on the first weekend, and over a hundred people came the next month. But the group kept working, and slowly the work began to [[pay off|P-0065]]. The beach became cleaner. The local government also promised to [[prevent|L3-0670]] more waste from reaching the sea.",
+   "Hui-wen posted her photos online and asked friends to join a beach clean-up. Thirty students came on the first weekend, and over a hundred people came the next month. The group kept working, and slowly the work began to [[pay off|P-0065]]. The beach became cleaner. The local government also promised to [[prevent|L3-0670]] more waste from reaching the sea.",
    "Hui-wen knows that one clean-up will not end the problem. Still, she hopes her pictures will have an [[impact|L4-0517]] on people who see them. She now joins a group that works on ocean [[conservation|L5-0206]], and she is [[grateful|L4-0460]] to everyone who helped. She believes that protecting nature is the duty of the people who live there."
   ],
   "zh": [
    "慧雯住在澎湖的一處海灘附近。長大後，她開始用手機拍照。她一開始並不是想成為攝影師，只是想把家附近的美麗風景拍下來。",
    "但有一年夏天，海灘變了。一場大風暴過後，塑膠瓶、漁網和袋子蓋滿了沙灘。這對那裡的海洋生物來說是一場小小的災難，大海也不再是她記憶中的樣子。慧雯連續一個月每天拍照。她想記錄事情是如何變化的，這些照片成了海灘出問題的有力證據。她拿給老師看，老師說：「親眼看到損害，比任何演說的效果都更強。」",
-   "慧雯把照片貼上網，邀請朋友參加淨灘。第一個週末來了三十位學生，隔月來了一百多人。但團隊持續努力，漸漸地成果開始出現。海灘變乾淨了。地方政府也承諾要防止更多垃圾進入大海。",
+   "慧雯把照片貼上網，邀請朋友參加淨灘。第一個週末來了三十位學生，隔月來了一百多人。團隊持續努力，漸漸地成果開始出現。海灘變乾淨了。地方政府也承諾要防止更多垃圾進入大海。",
    "慧雯知道一次淨灘不能解決所有問題。不過她希望她的照片能對看到的人產生影響。她現在加入一個海洋保育團體，並感謝所有幫忙的人。她相信保護自然是居住在那裡的人的責任。"
   ],
   "glosses": [
@@ -2075,8 +2075,8 @@
     "zh": "（全校）集會"
    },
    {
-    "word": "donation",
-    "zh": "捐贈"
+    "word": "school supplies",
+    "zh": "學用品"
    }
   ],
   "targets": [
@@ -2593,7 +2593,7 @@
   "connect": "課文談臺灣的辦桌文化，這篇看一位學生參與社區街頭晚餐、從旁幫忙的經驗。",
   "paragraphs": [
    "Every autumn, our [[neighborhood|L3-0571]] holds a big dinner in the middle of the street. The [[event|T-0106]] [[takes place|P-0108]] on the first Saturday of October, and nearly every family comes. When I was younger, I was [[curious|T-0105]] about why adults wanted to eat outside, since the street can be hot and noisy. After I helped last year, I finally understood.",
-   "Days before the dinner, the grown-ups [[arrange|T-0108]] everything carefully. The road is closed so that no [[vehicle|L3-0957]] can enter. Neighbors put up a large [[temporary|L3-0897]] tent as [[shelter|L4-0887]] in case it rains, and they borrow tables and chairs from the school. My job was to [[help out|P-0110]] in the kitchen, and my cousin and I [[hand out|P-0111]] paper bowls and chopsticks to everyone who arrived.",
+   "Days before the dinner, the grown-ups [[arrange|T-0108]] everything carefully. The road is closed so that no [[vehicle|L3-0957]] can enter. Neighbors put up a large [[temporary|L3-0897]] tent as [[shelter|L4-0887]] in case it rains, and they borrow tables and chairs from the school. My job was to [[help out|P-0110]] in the kitchen, and my cousin and I had to [[hand out|P-0111]] paper bowls and chopsticks to everyone who arrived.",
    "Each family brings a dish in a plastic [[container|L4-0200]], and the food is placed on one long table. People [[exchange|L3-0296]] recipes as they eat, and they tell funny stories about the street's past. Mr. Chen, an [[elder|T-0107]] who has lived here for fifty years, taught me that the best soup needs patience, not special tools.",
    "When dinner is over, people [[relax|L3-0710]] on their chairs while the children play games under the lights. Nobody has to hurry home. The evening shows how a group of people can [[cooperate|L4-0217]] to make something warm and friendly. It is the [[spirit|T-0109]] of sharing that I remember most, and I hope our street will keep this habit for many years."
   ],
@@ -2644,7 +2644,7 @@
     ],
     "answer": 0,
     "explain": "第二段說他的工作是到廚房幫忙，並和表弟發紙碗與筷子，故選 (A)。煮湯的是陳先生，不是作者，(B) 是常見的混淆。",
-    "evidence": "My job was to help out in the kitchen, and my cousin and I hand out paper bowls and chopsticks to everyone who arrived."
+    "evidence": "My job was to help out in the kitchen, and my cousin and I had to hand out paper bowls and chopsticks to everyone who arrived."
    },
    {
     "type": "字義",
@@ -2731,7 +2731,7 @@
    "These stories [[reveal|L3-0730]] that the work of one person can stay in our language for centuries. The [[usage|L4-0975]] of an eponym is usually so natural that we forget there was ever a real person behind it. Language is [[constantly|T-0113]] changing, and I now enjoy looking at the [[existing|T-0114]] words around me and wondering whose names they hide."
   ],
   "zh": [
-   "自然課上，老師問了一個大致的問題：為什麼我們說「伏特」？很多字源自人名，這類字叫做以人名命名的字。我查了資料，發現「伏特」來自亞歷山卓·伏打，一位製造出最早期電池之一的義大利科學家。起初，人們只是想紀念他，但他的名字很快就成了日常科學的一部分。",
+   "自然課上，老師問了一個一般性的問題：為什麼我們說「伏特」？很多字源自人名，這類字叫做以人名命名的字。我查了資料，發現「伏特」來自亞歷山卓·伏打，一位製造出最早期電池之一的義大利科學家。起初，人們只是想紀念他，但他的名字很快就成了日常科學的一部分。",
    "另一個例子是攝氏溫標。瑞典天文學家安德斯·攝爾修斯在一七四〇年代想出一種以水為基準的溫度標準。後來，其他人把他的數字顛倒過來，讓零度代表結冰。如今它是臺灣測量溫度的標準方式，這個名字也流傳到世界各地，雖然有些國家仍使用以另一位科學家命名的替代溫標。",
    "我最喜歡的故事是關於路易·布萊葉。他是個法國男孩，小時候失去了視力。青少年時期，他為盲人設計了一套閱讀系統。這套系統把六個凸起的點排成不同的組合來代表字母，最實用的特色就是讀者能用手指摸出字句。布萊葉的發明直到今天，在盲人的生活中仍扮演重要的角色。",
    "這些故事顯示，一個人的成就可以在語言中留存好幾個世紀。這類字的用法通常自然到我們忘了背後曾有一個真實的人。語言不斷在改變，而我現在喜歡看看身邊現有的字，想想它們藏著誰的名字。"
@@ -2863,7 +2863,7 @@
   "paragraphs": [
    "Last weekend, my class visited a tea farm in the hills near Taipei. I had never [[heard of|P-0118]] how much work goes into one cup of tea. The bus ride was long, so we were nearly [[starving|T-0119]] when we arrived. Fortunately, the owner, our [[host|T-0117]] for the day, welcomed us with warm snacks and a [[delightful|L4-0263]] smile.",
    "Mr. Lin explained that growing tea is a kind of [[agriculture|L3-0016]] that depends on weather, soil, and patience. The leaves are picked by hand, left to dry for a while, shaken gently, and then heated. The [[quality|L0-0043]] of the tea depends on every one of these steps, and this careful process gives oolong its [[characteristic|L4-0132]] flavor. When I tasted a cup fresh from the pot, I could smell flowers.",
-   "He told us that tea [[typically|T-0115]] tastes best when the water is hot but not boiling, because water that is too hot can make it bitter. Some of my classmates [[disagree|L0-0134]] about how long to wait; one said thirty seconds, and another insisted on a full minute. Mr. Lin smiled and said that was part of the fun. Some tea sets are [[exquisite|T-0118]] and even [[luxurious|L4-0607]], but you really need only a simple pot and a quiet moment.",
+   "He told us that tea [[typically|T-0115]] tastes best when the water is hot but not boiling, because water that is too hot can make it bitter. Some of my classmates began to [[disagree|L0-0134]] about how long to wait; one said thirty seconds, and another insisted on a full minute. Mr. Lin smiled and said that was part of the fun. Some tea sets are [[exquisite|T-0118]] and even [[luxurious|L4-0607]], but you really need only a simple pot and a quiet moment.",
    "The [[fundamental|L4-0429]] lesson of the day was that good things take time. Before we left, I [[asked for|P-0120]] a small bag of leaves, because I want to [[invite my grandfather over|P-0121]] this weekend. I will make the tea [[as carefully as possible|P-0123]], and we will talk while we drink. A cup of tea also gives me [[energy|T-0120]] for studying afterward, and it reminds me to slow down."
   ],
   "zh": [
@@ -2920,13 +2920,13 @@
     "stem": "What did some classmates disagree about?",
     "options": [
      "Which tea set was the most expensive",
-     "How long the tea should wait before drinking",
+     "How long to wait before drinking the tea",
      "Whether to buy a small bag of leaves",
      "How to pick leaves by hand"
     ],
     "answer": 1,
     "explain": "第三段說同學們對「該等多久」意見不同，有人說三十秒，有人說一分鐘，故選 (B)。茶具只是後面另外提到的話題，並不是爭論點。",
-    "evidence": "Some of my classmates disagree about how long to wait; one said thirty seconds, and another insisted on a full minute."
+    "evidence": "Some of my classmates began to disagree about how long to wait; one said thirty seconds, and another insisted on a full minute."
    },
    {
     "type": "字義",
@@ -2995,7 +2995,7 @@
   "connect": "課文談做筆記的學習技巧，這篇看一位學生用「錯題本」改變讀書方式。",
   "paragraphs": [
    "I used to think that studying hard meant [[reciting|L5-0708]] the textbook again and again. My scores, however, hardly changed. Then a university [[professor|L3-0676]] visited our school and shared a simple [[technique|L3-0894]]: keep a notebook of your own mistakes. I was doubtful, but I decided to try it for one month.",
-   "The [[system|T-0123]] is easy. After each quiz, I write the wrong question in the left [[column|L3-0169]] of a page. On the right side, I [[fill in|P-0125]] the correct answer and one sentence about why I made the mistake. At the bottom, I leave a [[blank|T-0125]] space and later add a short [[summary|L3-0868]] of the whole lesson in my own words.",
+   "The [[system|T-0123]] is easy. After each quiz, I write the question I got wrong in the left [[column|L3-0169]] of a page. On the right side, I [[fill in|P-0125]] the correct answer and one sentence about why I made the mistake. At the bottom, I leave a [[blank|T-0125]] space and later add a short [[summary|L3-0868]] of the whole lesson in my own words.",
    "The [[process|L3-0673]] takes about ten minutes. When the [[information|L3-0433]] is long, I [[break up|P-0124]] a big topic into small parts so that it is easier to remember. I also use an [[abbreviation|T-0124]] for long words, such as \"cw\" for \"cell wall\", to save time. Writing it all in my own way forces me to think, not just copy.",
    "Every Sunday, I [[review|T-0127]] the notebook from the first page. I [[gain|T-0122]] confidence when I see that old mistakes no longer appear. The method does not [[require|L0-0044]] any expensive tools, only a pen and some patience. I even [[make use of|P-0126]] the short time on the bus to read a few pages. Short and [[frequent|L3-0343]] practice works better than one long night before the exam, and after a month my science score went up by ten points."
   ],
@@ -3694,7 +3694,7 @@
    }
   ],
   "zh": [
-   "每年春天，我的家人都會回到祖父的家鄉，參加一年一度的掃墓節日。這是全家大團聚的場合，我和堂表兄弟姊妹會參與清理墳墓、獻上鮮花。小時候，那安靜的山坡總是嚇死我了。我以為那只是個悲傷的地方。",
+   "每年春天，我的家人都會回到祖父的家鄉，參加一年一度的掃墓節日。這是全家大團聚的場合，我和堂表兄弟姊妹會參與清理墳墓、獻上鮮花。小時候，那安靜的山坡總是把我嚇得半死。我以為那只是個悲傷的地方。",
    "上個月老師要我們訪問一位長輩，了解我們家如何紀念已逝的人。我訪問了奶奶。她用簡單的方式解釋這個概念。生命是一個循環，而死亡對每個人來說都是無可避免的。我們不只是哀悼；我們也說故事，並分享爺爺愛吃的食物。每年阿姨們都會事先準備好菜餚，我們一起吃，就像他仍坐在餐桌旁一樣。",
    "我們天剛亮就出門，以避開炎熱。家人把爺爺最愛的茶、水果和甜糕點擺在墓前，向他的記憶致敬。奶奶告訴我們他以前怎麼在村裡修腳踏車，又怎麼教她騎車。大家都笑了，那一刻山坡不再是個寂靜的地方。聽著這些小故事，我開始體會到一個家庭能透過回憶讓多少愛延續下去。",
    "奶奶擔心年輕人太忙，這個傳統有一天可能會消失。我告訴她我會繼續下去。這趟拜訪能把安靜的山坡轉變成充滿聲音的歡樂之地。等我有了自己的孩子，我也想帶他們去，讓他們透過我們的故事認識曾祖父。"
@@ -4635,13 +4635,13 @@
   "paragraphs": [
    "Our school has a small garden on the roof, and last spring a beekeeper visited us to set up two hives. He explained that bees [[pollinate|T-0172]] flowers by carrying pollen from one flower to another, and that many of the fruits and vegetables on our plates depend on this work. Without bees, some crops would be harder to grow and more expensive to buy. Bees truly [[deserve|L4-0272]] our respect.",
    "Yet beekeepers around the world have faced a [[mystery|L3-0562]]: in some places, large numbers of bees have suddenly disappeared. Scientists have collected [[evidence|L4-0366]] for years, and they believe there is no single cause. Several [[factors|L0-0123]] seem to work together. Many bee deaths [[result from|P-0192]] a mix of disease, tiny mites, and some [[pesticides|T-0171]] sprayed on crops. As cities grow, wild flowers also disappear, so the food [[supply|L0-0075]] for bees [[shrinks|L3-0790]]. [[On top of|P-0194]] that, hot summers and sudden storms make life harder for them.",
-   "This [[phenomenon|L4-0730]] may sound far away, but ordinary people can help. Our science club planted lavender, mint, and sunflowers around the hives, and we put out a shallow dish of water with small stones so that bees can drink without falling in. We hope the bees will [[thrive|L5-0905]] in our garden. The beekeeper told us that a healthy hive can even [[reproduce|L6-0755]] when part of the colony leaves with a new queen to start a home somewhere else.",
+   "This [[phenomenon|L4-0730]] may sound far away, but ordinary people can help. Our science club planted lavender, mint, and sunflowers around the hives, and we put out a shallow dish of water with small stones so that bees can drink without falling in. We hope the bees will [[thrive|L5-0905]] in our garden. The beekeeper told us that a healthy hive can even [[reproduce|L6-0755]] when part of the colony leaves with the old queen to start a home somewhere else.",
    "Each of us can [[contribute|L4-0209]] a little. We can plant flowers on balconies, ask farmers about how they protect crops, and avoid spraying chemicals at home. [[In the long run|P-0195]], these small choices may keep both bees and our food safe. When I look at the roof garden now, I no longer see only flowers. I see a small team at work."
   ],
   "zh": [
    "我們學校的屋頂上有一座小花園，去年春天，一位養蜂人來替我們架設了兩個蜂箱。他說明，蜜蜂把花粉從一朵花帶到另一朵花，為花授粉；我們盤子上的許多水果和蔬菜都仰賴這項工作。沒有蜜蜂，有些作物會更難種，買起來也會更貴。蜜蜂真的值得我們尊敬。",
    "然而，世界各地的養蜂人卻遇到了一個謎：在某些地方，大量蜜蜂突然消失了。科學家蒐集了多年的證據，他們認為原因不只一個，而是好幾個因素似乎共同作用。許多蜜蜂的死亡是由疾病、微小的蟎蟲，以及一些噴灑在作物上的農藥混合造成的。隨著城市擴大，野花也消失了，所以蜜蜂的食物供應縮減。除此之外，炎熱的夏天和突如其來的暴風雨也讓牠們的生活更艱難。",
-   "這個現象聽起來也許很遙遠，但一般人也能幫上忙。我們的科學社在蜂箱周圍種了薰衣草、薄荷和向日葵，並放了一個淺水盤，裡面放著小石頭，讓蜜蜂喝水時不會掉進去。我們希望蜜蜂能在我們的花園裡茁壯。養蜂人告訴我們，一個健康的蜂群甚至能繁殖：當蜂群的一部分跟著新的蜂后離開，到別處建立新家。",
+   "這個現象聽起來也許很遙遠，但一般人也能幫上忙。我們的科學社在蜂箱周圍種了薰衣草、薄荷和向日葵，並放了一個淺水盤，裡面放著小石頭，讓蜜蜂喝水時不會掉進去。我們希望蜜蜂能在我們的花園裡茁壯。養蜂人告訴我們，一個健康的蜂群甚至能繁殖：當蜂群的一部分跟著原本的蜂后離開，到別處建立新家。",
    "我們每個人都可以貢獻一點力量。我們可以在陽台種花、詢問農夫如何保護作物，並避免在家裡噴灑化學藥劑。長遠來看，這些小選擇也許能同時保住蜜蜂和我們的食物安全。現在我看著屋頂花園，看到的不只是花，而是一個正在工作的小團隊。"
   ],
   "glosses": [
@@ -5623,7 +5623,7 @@
    "上個月，我們班參觀了市郊的一座郵件處理中心。每天，它得處理大量的信件與包裹。導覽員告訴我們，整套系統仰賴一個簡單的概念：每一件物品都必須送到正確的地方，而且要送得快。",
    "流程從卡車把一袋袋郵件運到中心開始。工作人員和機器依地區把物品分類。每個地址都有郵遞區號，機器瞬間就能讀取，並把包裹送上正確的輸送帶。接著工作人員把包裹裝上較小的卡車。這些卡車是一個網絡的一部分，能通到島上每個城鎮和村落，包裹可以快速地從一端送到另一端。",
    "我問導覽員這個中心如何避免出錯。他說準確度和速度一樣重要，因為只要錯一個數字，禮物就可能被送到錯的城市。高效率來自嚴謹的訓練，以及每天檢查機器。他還說網路購物改變了這份工作：網站上的每一筆交易都會變成一個必須有人遞送的包裹。他補充說，他們不只是搬運箱子，而是在實現對人的承諾。",
-   "當然，沒有任何系統是完美無瑕的。有時標籤破損，或地址不清楚。這時工作人員會設法找到收件人，好讓包裹能被退回給寄件人。即便如此，幾乎每個包裹都準時送達，這在很大程度上是因為成千上萬的人細心做好自己的小工作。離開中心時，我對他們有了新的敬意。下次我按下購買鍵時，無疑會想起他們。"
+   "當然，沒有任何系統是完美無瑕的。有時標籤破損，或地址不清楚。這時工作人員會設法找出包裹的主人，好讓包裹能被退回給寄件人。即便如此，幾乎每個包裹都準時送達，這在很大程度上是因為成千上萬的人細心做好自己的小工作。離開中心時，我對他們有了新的敬意。下次我按下購買鍵時，無疑會想起他們。"
   ],
   "glosses": [
    {
@@ -6005,7 +6005,7 @@
     ],
     "answer": 0,
     "word": "L4-0621",
-    "explain": "意外後公司採取新的安全「措施」，take measures 是常見搭配，故選 measures。tenants 與 landlords 是租屋的人，不能被「採取」。"
+    "explain": "意外後公司採取新的安全「措施」，take measures 是常見搭配，故選 measures。tenants 與 landlords 是房客與房東，不能被「採取」。"
    }
   ]
  },
@@ -6242,7 +6242,7 @@
     "stem": "What is the passage mainly about?",
     "options": [
      "How to start a flower shop",
-     "A student learned that perfume comes from flowers and the people who work with them",
+     "How a student learned that perfume comes from flowers and the people who work with them",
      "Why southern Taiwan gets a lot of rain",
      "How to take good photographs of flowers"
     ],
@@ -6375,7 +6375,7 @@
     "stem": "What is the passage mainly about?",
     "options": [
      "How to win online games",
-     "A student learned why online privacy matters and how to protect himself",
+     "How a student learned why online privacy matters and how to protect himself",
      "Why computers are too expensive",
      "How companies make new passwords"
     ],
@@ -6571,8 +6571,8 @@
     "zh": "作業"
    },
    {
-    "word": "puzzle",
-    "zh": "謎題"
+    "word": "curiosity",
+    "zh": "好奇心"
    }
   ],
   "zh": [
@@ -6965,7 +6965,7 @@
   "status": "ok",
   "connect": "課文談實驗室培養肉的優點與疑慮，這篇看一位高中生在大學開放日聽研究生說明，並學習不要太快下結論。",
   "paragraphs": [
-   "Last month my class visited a university open day. In the food science building, a graduate student showed us a small dish holding a thin, pale layer of [[tissue|L0-0250]]. \"This is meat,\" she said, \"but no animal was raised for it.\" Scientists take a few muscle cells from an animal and feed them inside a clean machine until they multiply. The idea is not [[primitive|L4-0764]] at all. It needs careful tools and exact timing, and it is still a very [[recent|L0-0052]] field of research.",
+   "Last month my class visited a university open day. In the food science building, a graduate student showed us a small dish holding a thin, pale layer of [[tissue|L0-0250]]. \"This is meat,\" she said, \"but no animal was raised for it.\" Scientists take a few muscle cells from an animal and feed them inside a clean machine until they multiply. The idea is not [[primitive|L4-0764]] at all. It needs precise tools and exact timing, and it is still a very [[recent|L0-0052]] field of research.",
    "Why would anyone go to so much trouble? She explained that raising [[livestock|L6-0516]] needs a great deal of land, water, and food for the animals. If we could grow meat from cells instead, some of that pressure might be lifted. Nobody can [[estimate|L4-0361]] exactly how much the environment would benefit, she added, because the technology is so new. Still, many scientists think it is worth trying.",
    "She was also honest about the [[concerns|T-0239]]. At present, making this kind of meat on a large [[scale|L3-0759]] is very difficult. The machines are expensive, and the process uses [[substantial|L5-0863]] amounts of energy. Whole factories would have to be built, which means new [[infrastructure|L5-0461]] and a lot of money. \"[[In theory|P-0289]], the price will fall when production grows,\" she said. \"But in theory and in the supermarket are two different things.\" Meat also gives us protein and important [[minerals|L4-0638]], so a lab version must match real meat in nutrition, not just in taste.",
    "A classmate asked whether the meat would be safe for people who are [[allergic|L5-0034]] to some foods. The graduate student said that researchers study such [[reactions|L3-0700]] carefully, and that governments must approve a new food before anyone can sell it. I left the building [[somewhat|L0-0243]] hopeful but not fully sure. We should not [[jump to conclusions|P-0291]], whether for or against this new food. Instead, we should [[keep a close eye on|P-0292]] the research and keep asking good questions."
@@ -6989,7 +6989,7 @@
    }
   ],
   "zh": [
-   "上個月我們班參觀了一所大學的開放日。在食品科學大樓裡，一位研究生給我們看一個小培養皿，裡面有一層薄薄的淡粉色組織。「這是肉，」她說，「但沒有任何動物是為了它而被飼養的。」科學家從動物身上取下少量肌肉細胞，在乾淨的機器裡餵養它們，直到它們增生。這個想法一點也不原始，它需要精密的工具和準確的時間掌握，而且仍是一個非常新的研究領域。",
+   "上個月我們班參觀了一所大學的開放日。在食品科學大樓裡，一位研究生給我們看一個小培養皿，裡面有一層薄薄的淺色組織。「這是肉，」她說，「但沒有任何動物是為了它而被飼養的。」科學家從動物身上取下少量肌肉細胞，在乾淨的機器裡餵養它們，直到它們增生。這個想法一點也不原始，它需要精密的工具和準確的時間掌握，而且仍是一個非常新的研究領域。",
    "為什麼有人要這麼費事？她解釋，飼養家畜需要大量的土地、水，以及給動物吃的飼料。如果我們改用細胞來培養肉，這些壓力也許能減輕一些。她補充說，因為這項技術太新，沒有人能準確估計環境到底能得到多少好處。儘管如此，許多科學家仍認為值得一試。",
    "她也坦白說出了令人擔憂的地方。目前要大規模製造這種肉非常困難，機器價格昂貴，製程也要耗費大量能源。還必須蓋整座工廠，這代表要有新的基礎建設和很多錢。「理論上，產量變大後價格會下降，」她說，「但理論上和在超市裡是兩回事。」肉類還提供我們蛋白質和重要的礦物質，所以實驗室版本不能只在味道上，也要在營養上跟真正的肉相當。",
    "一位同學問，這種肉對於對某些食物過敏的人是否安全。研究生說，研究人員會仔細研究這類反應，而且新食品必須經政府核准才能販售。我離開大樓時有點抱著希望，但並不完全確定。無論是贊成或反對這種新食物，我們都不該妄下結論。相反地，我們應該密切留意研究的進展，並持續提出好問題。"
@@ -7371,7 +7371,7 @@
     ],
     "answer": 2,
     "word": "L4-0286",
-    "explain": "每個人都應被「尊嚴」地對待，with dignity 最通順，故選 (C)。racism（種族歧視）、segregation（隔離）、fatigue（疲勞）都是負面事物，不能放在 treated with 後作為應有的態度。"
+    "explain": "每個人都應受到有「尊嚴」的對待，with dignity 最通順，故選 (C)。racism（種族歧視）、segregation（隔離）、fatigue（疲勞）都是負面事物，不能放在 treated with 後作為應有的態度。"
    }
   ]
  }

@@ -361,7 +361,7 @@
  },
  {
   "id": "L5-0046",
-  "en": "We did not anticipate such a crowd at the night market, so we waited long for food.",
+  "en": "We did not anticipate such a crowd at the night market, so we waited a long time for food.",
   "zh": "我們沒預料到夜市會有這麼多人，所以等食物等了很久。",
   "target": "anticipate",
   "status": "ok",
@@ -1626,7 +1626,7 @@
  {
   "id": "L5-0204",
   "en": "After an hour of discussion, the class reached a consensus on the theme of the school play.",
-  "zh": "經過一小時的討論，全班對校慶戲劇的主題達成了共識。",
+  "zh": "經過一小時的討論，全班對學校話劇的主題達成了共識。",
   "target": "consensus",
   "status": "ok",
   "note": ""
@@ -2017,8 +2017,8 @@
  },
  {
   "id": "L5-0253",
-  "en": "When we landed in Tokyo, we had to go through customs before picking up our luggage.",
-  "zh": "我們降落在東京時，必須先通過海關才能領取行李。",
+  "en": "When we landed in Tokyo, we had to go through customs after picking up our luggage.",
+  "zh": "我們降落在東京時，領完行李後還必須通過海關。",
   "target": "customs",
   "status": "ok",
   "note": ""
@@ -5481,7 +5481,7 @@
  },
  {
   "id": "L5-0686",
-  "en": "Standing in the cold wind without a coat, the little girl's lips began to quiver.",
+  "en": "As the little girl stood in the cold wind without a coat, her lips began to quiver.",
   "zh": "那個小女孩沒穿外套站在寒風中，嘴唇開始顫抖。",
   "target": "quiver",
   "status": "ok",
@@ -6177,7 +6177,7 @@
  },
  {
   "id": "L5-0773",
-  "en": "Over the weekend, Lisa watched every show in a popular Korean drama series on her phone.",
+  "en": "Over the weekend, Lisa watched every episode of a popular Korean drama series on her phone.",
   "zh": "週末時，Lisa 用手機把一部熱門韓劇系列的每一集都看完了。",
   "target": "series",
   "status": "ok",

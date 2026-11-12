@@ -17,8 +17,8 @@
   "phrase": "in person",
   "zh": "親自；當面",
   "say": "in person",
-  "en": "Ben only knew Kevin online, so they finally met in person at the club camp.",
-  "exzh": "Ben 以前只在網路上認識 Kevin，所以他們終於在社團營隊上見到了本人。",
+  "en": "Ben had only known Kevin online, but they finally met in person at the club camp.",
+  "exzh": "Ben 以前只在網路上認識 Kevin，後來他們終於在社團營隊上見到了本人。",
   "targets": [
    "in person"
   ],
@@ -620,7 +620,7 @@
   "phrase": "come in",
   "zh": "進來；進入",
   "say": "come in",
-  "en": "Please come in and sit down, the class is about to begin.",
+  "en": "Please come in and sit down. The class is about to begin.",
   "exzh": "請進來坐下，課快要開始了。",
   "targets": [
    "come in"
@@ -961,7 +961,7 @@
   "phrase": "in comparison with",
   "zh": "與⋯⋯相比",
   "say": "in comparison with",
-  "en": "In comparison with last year, this exam was much easier.",
+  "en": "In comparison with last year's exam, this one was much easier.",
   "exzh": "和去年相比，這次考試簡單多了。",
   "targets": [
    "In comparison with"
@@ -1856,7 +1856,7 @@
  {
   "id": "P-0142",
   "phrase": "roll up one's sleeves",
-  "zh": "捲起袖子準備大幹",
+  "zh": "捲起袖子準備大幹一場",
   "say": "roll up one's sleeves",
   "en": "Everyone rolled up their sleeves and began to clean the classroom.",
   "exzh": "大家捲起袖子，開始打掃教室。",
@@ -2200,7 +2200,7 @@
  {
   "id": "P-0168",
   "phrase": "account for",
-  "zh": "說明；佔(比例)",
+  "zh": "說明；佔（比例）",
   "say": "account for",
   "en": "Girls account for more than half of the students in our club.",
   "exzh": "我們社團裡女生佔了一半以上。",
@@ -2346,7 +2346,7 @@
   "zh": "以⋯⋯為樂",
   "say": "take pleasure in",
   "en": "Ben takes pleasure in helping younger students with homework.",
-  "exzh": "Ben樂於幫學弟妹寫功課。",
+  "exzh": "Ben樂於指導學弟妹寫功課。",
   "targets": [
    "takes pleasure in"
   ],
@@ -2634,7 +2634,7 @@
  {
   "id": "P-0201",
   "phrase": "wear on",
-  "zh": "(時間)慢慢流逝",
+  "zh": "（時間）慢慢流逝",
   "say": "wear on",
   "en": "As the afternoon wore on, the students grew sleepy.",
   "exzh": "隨著下午時間慢慢過去，學生們愈來愈想睡。",
@@ -3094,7 +3094,7 @@
   "zh": "照顧；照料",
   "say": "look after",
   "en": "Ben looks after his little sister every afternoon after school.",
-  "exzh": "Ben 每天放學後下午都要照顧他的妹妹。",
+  "exzh": "Ben 每天下午放學後都要照顧他的妹妹。",
   "targets": [
    "looks after"
   ],

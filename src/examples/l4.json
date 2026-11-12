@@ -826,7 +826,7 @@
  {
   "id": "L4-0104",
   "en": "Amy made a colorful bracelet for her best friend's birthday.",
-  "zh": "艾咪為最好朋友的生日做了一條色彩繽紛的手鐲。",
+  "zh": "艾咪為最好朋友的生日做了一條色彩繽紛的手環。",
   "target": "bracelet",
   "status": "ok",
   "note": ""
@@ -1994,7 +1994,7 @@
  {
   "id": "L4-0250",
   "en": "Lisa put a soft cushion behind her back while studying at her desk.",
-  "zh": "麗莎在書桌前讀書時，在背後放了一個柔軟的坐墊。",
+  "zh": "麗莎在書桌前讀書時，在背後放了一個柔軟的靠墊。",
   "target": "cushion",
   "status": "ok",
   "note": ""
@@ -2170,7 +2170,7 @@
  {
   "id": "L4-0272",
   "en": "You studied so hard this term that you really deserve a good rest.",
-  "zh": "你這學期這麼用功，真的應該好好休息一下。",
+  "zh": "你這學期這麼用功，真的值得好好休息一下。",
   "target": "deserve",
   "status": "ok",
   "note": ""
@@ -5714,7 +5714,7 @@
  {
   "id": "L4-0715",
   "en": "Lisa cooked pasta with tomato sauce for the whole family tonight.",
-  "zh": "麗莎今晚為全家人煮了番茄醬義大利麵。",
+  "zh": "麗莎今晚為全家人煮了番茄紅醬義大利麵。",
   "target": "pasta",
   "status": "ok",
   "note": ""
@@ -6066,7 +6066,7 @@
  {
   "id": "L4-0759",
   "en": "Amy felt nervous before giving a presentation about ocean plastic to the whole class.",
-  "zh": "艾美在向全班報告海洋塑膠問題之前感到很緊張。",
+  "zh": "艾咪在向全班報告海洋塑膠問題之前感到很緊張。",
   "target": "presentation",
   "status": "ok",
   "note": ""

@@ -582,7 +582,7 @@ const app=document.getElementById('app');
 const LC={0:'var(--l0)',1:'var(--l1)',2:'var(--l2)',7:'var(--l7)',8:'var(--l8)',3:'var(--l3)',4:'var(--l4)',5:'var(--l5)',6:'var(--l6)'};
 // 地圖上各區域：名稱、x%、y%
 // 五區版地圖（map5）上的按鈕位置：出發港在最左邊
-const REGION5={0:[13,50],3:[30,58],4:[50,48],5:[70,58],6:[89,60]};
+const REGION5={0:[12,49],3:[29.5,57],4:[50,47],5:[70.5,57],6:[90,62],7:[90,41]};  // 7：新地圖畫好前，先放在高塔上方（避開右上角「設定」按鈕）
 function useMap5(img){if(!/map5/.test(img.src))return;const h=img.closest('.hhero');if(!h)return;
   LEVELS.filter(l=>REGION5[l]).forEach(l=>{let b=h.querySelector(`.spot[data-lv="${l}"]`);if(!b){b=document.createElement('button');b.className='spot';b.dataset.lv=l;b.innerHTML=`<b>${lvName(l)}</b><span>${REGION[l][0]}</span>`;b.onclick=()=>{S.level=l;save();home();};h.appendChild(b);}
     b.classList.toggle('on',l===S.level);b.style.left=REGION5[l][0]+'%';b.style.top=REGION5[l][1]+'%';});}
@@ -637,8 +637,8 @@ function home(){
   ${GR.some(c=>c.b!==9)?(()=>{const G2=GR.filter(c=>c.b!==9);return `<button class="htb" id="grBtn" style="background:var(--t-dex)">${pic('list','')}<span class="t"><b>課本文法卡</b><span>${G2.some(c=>c.b===0)?'國中銜接＋':''}第 ${[...new Set(G2.filter(c=>c.b>0).map(c=>c.b))].join('、')} 冊・${G2.length} 個句型・已練 ${G2.filter(c=>S.gr[c.id]!=null).length} →</span></span></button>`;})():''}
   ${GR.some(c=>c.b===9)?(()=>{const M=GR.filter(c=>c.b===9);return `<button class="htb" id="moBtn" style="background:var(--t-boss)">${pic('dex','')}<span class="t"><b>構詞卡：字首・字尾・字根</b><span>${M.length} 張・拆字猜義、看字尾判斷詞性・已練 ${M.filter(c=>S.gr[c.id]!=null).length} →</span></span></button>`;})():''}
   ${CZ.length||RC.length?(()=>{const all=CZ.concat(RC,VQ,TR);const st=all.reduce((s,c)=>s+((S.cz[c.id]||{}).stars||0),0);return `<button class="htb" id="czBtn" style="background:var(--t-blitz)">${pic('boss','')}<span class="t"><b>學測闖關：詞彙・綜合・文意選填・閱讀・翻譯</b><span>${all.length} 關・已得 ${st} / ${all.length*3} 顆星 →</span></span></button>`;})():''}
-  ${TT&&W.some(w=>w.lv===8)?(()=>{const N=W.filter(w=>w.lv===8);const g=N.filter(w=>star(w)>=1).length;const T=TT.ids.map(id=>BYID[id]).filter(Boolean);return `<button class="htb" id="toBtn" style="background:var(--t-list)">${pic('toeic','')}<span class="t"><b>多益職場英文</b><span>職場新字 ${N.length}（已學 ${g}）・多益常見字 ${T.length}（已學 ${T.filter(w=>star(w)>=1).length}）→</span></span></button>`;})():''}
   ${GQ.length?(()=>{const done=GQ.filter(q=>S.gq[q.y+'-'+q.n]!=null).length;return `<button class="htb" id="gqBtn" style="background:var(--t-boss)">${pic('trophy','')}<span class="t"><b>歷屆學測詞彙題</b><span>${Math.min(...GQ.map(q=>q.y))}–${Math.max(...GQ.map(q=>q.y))} 學年度共 ${GQ.length} 題・已做 ${done} →</span></span></button>`;})():''}
+  ${TT&&W.some(w=>w.lv===8)?(()=>{const N=W.filter(w=>w.lv===8);const g=N.filter(w=>star(w)>=1).length;const T=TT.ids.map(id=>BYID[id]).filter(Boolean);return `<button class="htb" id="toBtn" style="background:var(--t-list)">${pic('toeic','')}<span class="t"><b>多益職場英文</b><span>職場新字 ${N.length}（已學 ${g}）・多益常見字 ${T.length}（已學 ${T.filter(w=>star(w)>=1).length}）→</span></span></button>`;})():''}
   <div class="hsub"><b>更多玩法</b></div>
   <div class="hmodes">
     <button class="htile" id="blitzBtn" style="--tint:var(--t-blitz)">${pic('blitz','')}<b>60 秒閃電戰</b><span class="d">學過的字快問快答</span><span class="rec">最佳 ${S.best.blitz} 題</span></button>
@@ -831,7 +831,7 @@ function ask(it){
     document.getElementById('fbx').innerHTML=`<div class="fb ${ok?'right':'wrong'}">${ok?'':pic('guide_think','fbimg')}<b>${ok?(soft?'答對了（用了提示，明天再複習）':'答對了'):'再記一次'}</b>
       <span><span class="en" style="font-weight:700;font-size:18px">${esc(ans)}</span>　${esc(w.pos)}　${esc(w.zh)}</span>
       ${ok&&g.after>g.before?'<span>升到 '+starsHTML(g.after)+'</span>':''}
-      ${!ok?'<span>等一下會再出現一次。</span>':''}</div>
+      ${!ok&&!it.retry?'<span>等一下會再出現一次。</span>':''}</div>
       ${type==='form'?`<div class="ex"><span class="src">詞性變化</span><span class="s">${markTarget(it._sent.s,it._sent.t,'show')}</span><span class="t">${esc(it._sent.zh)}</span></div>`:exHTML(w,'show')}
       ${famHTML(w)}
       <button class="primary" id="nx">下一題</button>`;
@@ -899,7 +899,7 @@ function journal(lv){
   document.getElementById('back').onclick=()=>go('home');
   app.querySelectorAll('.jstep').forEach(b=>b.onclick=()=>journal(+b.dataset.lv));
   app.querySelectorAll('.jcard').forEach(b=>b.onclick=()=>{const r=READ.find(x=>x.id===b.dataset.id);
-    if(!readUnlocked(r)){showTip(`先學完這一天的單字，還差 ${readNeed(r)} 個`);return;} go('read',r.id);});
+    if(!readUnlocked(r)){showTip(`先學這一天的單字，還差 ${readNeed(r)} 個就能解鎖`);return;} go('read',r.id);});
 }
 let tipTimer=null;
 function showTip(html){let t=document.getElementById('tip');if(!t){t=document.createElement('div');t.id='tip';t.className='tip';document.body.appendChild(t);}
@@ -969,7 +969,7 @@ function readView(id){
     S.read[r.id]={score:Math.max(score,prev?.score||0),total:qs.length,day:today()};touchStreak();save();AUD.sfx('finish');
     const next=r.kind==='tb'?null:READ.filter(x=>x.level===r.level&&x.kind!=='tb'&&(r.kind!=='toeic'||x.day===r.day)&&readUnlocked(x)&&!S.read[x.id])[0];
     document.getElementById('rsum').innerHTML=`<div class="rscore pop">${pic(score>=qs.length-1?'trophy':'guide_think','resimg')}<div class="big" style="font-family:var(--en);font-size:44px;font-weight:800">${score} / ${qs.length}</div>
-      <div>${score===qs.length?'全對！這篇的單字都用得很熟了':score>=qs.length-2?'很不錯，看一下錯的那題解析':'答錯的單字題已排進明天的複習'}</div>
+      <div>${score===qs.length?'全對！這篇的單字都用得很熟了':score>=qs.length-2?'很不錯，看一下錯的那題解析':'答錯的單字題已排進今天的複習'}</div>
       <div class="row" style="width:100%">${next?`<button class="primary" id="rnext">下一篇：${esc(next.title)}</button>`:''}<button class="ghost" id="rback">${r.kind==='tb'?'回到這一課':r.kind==='toeic'?'回這一組':'回冒險日誌'}</button></div></div>`;
     const nb=document.getElementById('rnext');if(nb)nb.onclick=()=>go('read',next.id);document.getElementById('rback').onclick=backTo;
     document.getElementById('rsum').scrollIntoView({behavior:'smooth',block:'center'});}
@@ -1034,7 +1034,7 @@ function listenGame(){
       body=`<div class="opts">${opts.map(([ok,txt,cls],k)=>`<button class="opt ${cls}" data-ok="${ok}"><span class="k">${k+1}</span>${txt}</button>`).join('')}</div>`;}
     app.innerHTML=`<div class="sbar"><button class="iconbtn" id="quit">結束</button><div class="lshearts">${heartsHTML()}</div><div class="timer">${score}</div></div>
     <div class="card"><div class="qtype"><span>第 ${st+1} 關・${LS_STAGE[kind]}${practice?'・練習':''}</span><span>${combo>=2?'🔥 連對 '+combo:'答對 '+right}</span></div>
-      <button class="lsspk" id="lsplay" aria-label="再聽一次">${SPK}</button><div class="kbd" style="margin:0">${kind===2?'聽一整句，選出正確的中文意思':'點喇叭可以再聽一次'}・第一次就答對多 5 分</div>
+      <button class="lsspk" id="lsplay" aria-label="再聽一次">${SPK}</button><div class="kbd" style="margin:0">${kind===2?'聽一整句，選出正確的中文意思':'點喇叭可以再聽一次'}・只聽一次就答對多 5 分</div>
       ${body}<div id="lsfb"></div></div>`;
     document.getElementById('quit').onclick=()=>over();
     document.getElementById('lsplay').onclick=sayCur;
@@ -1058,7 +1058,7 @@ function listenGame(){
   const over=()=>{AUD.sfx('finish');const best=score>(S.best.listen||0);if(best)S.best.listen=score;if(right)touchStreak();save();
     app.innerHTML=`<div class="card result pop"><div class="qtype" style="width:100%"><span>聽力大冒險・結算</span></div>${pic(best?'trophy':'listen','resimg')}<div class="big">${score} 分</div>
       <div>${best?'新紀錄！':'最佳紀錄 '+(S.best.listen||0)+' 分'}・答對 ${right} 題・最多連對 ${maxCombo} 題・闖到第 ${stageOf()+1} 關</div>
-      ${miss.length?`<div class="ex" style="width:100%;text-align:left"><span class="src">這次沒聽出來的字（點喇叭再聽）${miss.some(w=>star(w)>=1)?'・學過的已排進明天複習':''}</span>${miss.map(w=>`<span class="s" style="display:flex;align-items:center;gap:8px"><button class="speak sm" data-say="${esc(sayForm(w))}" aria-label="發音">${SPK}</button><b class="en">${esc(display(w))}</b><span style="color:var(--muted);font-size:14px">${esc(w.zh)}</span></span>`).join('')}</div>`:''}
+      ${miss.length?`<div class="ex" style="width:100%;text-align:left"><span class="src">這次沒聽出來的字（點喇叭再聽）${miss.some(w=>star(w)>=1)?'・學過的已排進今天複習':''}</span>${miss.map(w=>`<span class="s" style="display:flex;align-items:center;gap:8px"><button class="speak sm" data-say="${esc(sayForm(w))}" aria-label="發音">${SPK}</button><b class="en">${esc(display(w))}</b><span style="color:var(--muted);font-size:14px">${esc(w.zh)}</span></span>`).join('')}</div>`:''}
       <div class="row" style="width:100%"><button class="primary" id="again">再玩一次</button><button class="ghost" id="home">回首頁</button></div></div>`;
     bindSpeak();document.getElementById('again').onclick=listenGame;document.getElementById('home').onclick=()=>go('home');};
   render();
@@ -1068,7 +1068,7 @@ function listenGame(){
 function boss(){
   let pool=W.filter(w=>w.exam&&star(w)>=2);
   let note='';
-  if(pool.length<10){const extra=levelWords(S.level).filter(w=>w.exam&&!pool.includes(w));pool=pool.concat(extra.slice(0,30));note='（學過的字還不夠，混入本級常考字）';}
+  if(pool.length<10){const own=levelWords(S.level).some(w=>w.exam);const extra=(own?levelWords(S.level):levelWords(3)).filter(w=>w.exam&&!pool.includes(w));pool=pool.concat(extra.slice(0,30));note=own?'（學過的字還不夠，混入本級常考字）':'（學過的字還不夠，混入第三級常考字）';}
   const qs=shuffle(pool.slice()).slice(0,10);let k=0,score=0;
   const render=()=>{
     if(k>=qs.length)return over();
@@ -1173,7 +1173,7 @@ function grCard(id){
   const c=GR.find(x=>x.id===id);
   const exHTMLg=e=>`<div class="ex" style="margin:6px 0 0"><span class="src" style="display:flex;justify-content:space-between;align-items:center">例句<button class="speak sm" data-say="${esc(e.en)}" aria-label="朗讀">${SPK}</button></span><span class="s">${grHL(e)}</span><span class="t">${esc(e.zh)}</span></div>`;
   const pts=(c.points||[]).map(p=>typeof p==='string'?{t:p,ex:[]}:p);
-  app.innerHTML=`<div class="top"><button class="iconbtn" id="back">← 文法卡</button><b>${c.b===9?'構詞卡・'+esc(c.group):c.b===0?'國中文法銜接 '+(+c.l.slice(1)):'第 '+c.b+' 冊 '+tbLabel({l:c.l})}</b><span></span></div>
+  app.innerHTML=`<div class="top"><button class="iconbtn" id="back">${c.b===9?'← 構詞卡':'← 文法卡'}</button><b>${c.b===9?'構詞卡・'+esc(c.group):c.b===0?'國中文法銜接 '+(+c.l.slice(1)):'第 '+c.b+' 冊 '+tbLabel({l:c.l})}</b><span></span></div>
   <div class="card pop" style="text-align:left">
     <div class="qtype"><span>${c.b===9?'構詞卡':'文法卡'}</span><span>${S.gr[id]==null?'未練':'最佳 '+S.gr[id]+'/'+c.qs.length}</span></div>
     <h2 style="margin:0">${esc(c.title)}</h2>
@@ -1221,7 +1221,7 @@ function grQuiz(qs,title,card,back){
     if(!card)qs.slice(0,answered).forEach(q=>{if(S.gr[q.card.id]==null)S.gr[q.card.id]=0;});
     save();
     app.innerHTML=`<div class="card result pop"><div class="qtype" style="width:100%"><span>${esc(title)}・結算</span></div>${pic(answered&&score>=answered*0.8?'trophy':'guide_think','resimg')}<div class="big">${score}/${answered}</div>
-    <div class="row" style="width:100%"><button class="ghost" id="again">${card?'回文法卡':'回列表'}</button><button class="primary" id="home">回首頁</button></div></div>`;
+    <div class="row" style="width:100%"><button class="ghost" id="again">${card?(card.b===9?'回構詞卡':'回文法卡'):'回列表'}</button><button class="primary" id="home">回首頁</button></div></div>`;
     document.getElementById('again').onclick=back;document.getElementById('home').onclick=()=>go('home');};
   render();
 }
@@ -1469,7 +1469,7 @@ function list(lv){
   const words=levelWords(lv).filter(w=>w[k]===listDay);
   app.innerHTML=`<div class="top"><button class="iconbtn" id="back">← 首頁</button><b>每日詞表</b><span></span></div>
   <div class="daypick"><select id="lvSel">${LEVELS.map(l=>`<option value="${l}" ${l===lv?'selected':''}>${lvLong(l)}</option>`).join('')}</select>
-  <select id="daySel">${Array.from({length:40},(_,i)=>`<option value="${i+1}" ${i+1===listDay?'selected':''}>Day ${i+1}</option>`).join('')}</select>
+  <select id="daySel">${Array.from({length:Math.max(1,...levelWords(lv).map(w=>w[k]))},(_,i)=>`<option value="${i+1}" ${i+1===listDay?'selected':''}>Day ${i+1}</option>`).join('')}</select>
   <span class="kbd" style="margin:0">${S.order==='freq'?'學測高頻優先':'字母順序'}（可在設定切換）</span></div>
   <div class="list">${words.map(w=>`<button class="li" data-i="${w.i}" style="text-align:left"><span class="w">${esc(display(w))} <span class="pos">${esc(w.pos)}</span>${core(w)?' <span class="badge core">核心</span>':''}</span>${starsHTML(star(w))}<span class="m">${esc(w.zh)}</span></button>`).join('')}</div>`;
   document.getElementById('back').onclick=()=>go('home');
@@ -1567,7 +1567,7 @@ function settings(){
   <div class="field"><label for="nm">名字（只顯示在你自己的畫面上）</label><input id="nm" value="${esc(S.name)}" maxlength="12"></div>
   <div class="field"><label>新字順序</label><div class="seg" id="ord"><button data-v="freq" class="${S.order==='freq'?'on':''}">學測高頻優先</button><button data-v="alpha" class="${S.order==='alpha'?'on':''}">字母順序</button></div></div>
   <div class="field"><label>每天新字數</label><div class="seg" id="dly">${[15,25,35].map(n=>`<button data-v="${n}" class="${S.daily===n?'on':''}">${n} 字</button>`).join('')}</div></div>
-  <div class="field"><label for="vsel">發音聲音（選一個聽起來最自然的）</label><div class="row" style="align-items:center"><select id="vsel" style="flex:3;min-width:0"></select><button class="ghost" id="vtest" style="flex:1">試聽</button></div><div class="kbd" style="text-align:left;margin:0">名稱有 Natural、Online、Premium、Enhanced 的通常最自然。iPhone／iPad 可到「設定 → 輔助使用 → 朗讀內容 → 聲音 → 英文」下載 Ava（進階）等語音。</div></div>
+  <div class="field"><label for="vsel">發音聲音（選一個聽起來最自然的）</label><div class="row" style="align-items:center"><select id="vsel" style="flex:3;min-width:0"></select><button class="ghost" id="vtest" style="flex:1">試聽</button></div><div class="kbd" style="text-align:left;margin:0">名稱有 Natural、Online、Premium、Enhanced 的通常最自然。iPhone／iPad 可到「設定 → 輔助使用 → 語音內容 → 聲音 → 英文」下載 Ava（進階）等語音。</div></div>
   <div class="field"><label for="vol">背景音樂音量</label><div class="row" style="align-items:center"><input type="range" id="vol" min="0" max="100" step="5" value="${Math.round(S.audio.vol*100)}" style="flex:3"><button class="ghost" id="musTg" style="flex:1">${S.audio.music?'音樂：開':'音樂：關'}</button></div></div>
   <div class="field"><label>答題音效</label><div class="seg" id="sfxSeg"><button data-v="1" class="${S.audio.sfx?'on':''}">開</button><button data-v="0" class="${S.audio.sfx?'':'on'}">關</button></div></div>
   <div class="field"><label>匯出進度（換手機、清除瀏覽資料前先做）</label><div class="row"><button class="ghost" id="exCopy">複製進度碼</button><button class="ghost" id="exFile">下載備份檔</button></div></div>

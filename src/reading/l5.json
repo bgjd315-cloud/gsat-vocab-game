@@ -121,7 +121,7 @@
     ],
     "answer": 1,
     "word": "L5-0126",
-    "explain": "每年六月舉行畢業「典禮」，graduation ceremony 是固定說法，故選 ceremony。sensation（感覺；轟動）、consumption（消耗）、innovation（創新）都不能用學校「舉行」。"
+    "explain": "每年六月舉行畢業「典禮」，graduation ceremony 是固定說法，故選 ceremony。sensation（感覺；轟動）、consumption（消耗）、innovation（創新）都不是學校會「舉行」的活動。"
    }
   ],
   "status": "ok"
@@ -2468,7 +2468,7 @@
      "strange"
     ],
     "answer": 3,
-    "explain": "小美從沒看過村民戴紙面具圍著大鐘跳舞，這張照片對她來說很「奇怪、古怪」，故選 (D) strange。(A) boring 是第一段描述她心情的字，與這裡無關。",
+    "explain": "小美從沒看過村民戴紙面具圍著大鐘跳舞，這張照片對她來說很「奇怪、古怪」，故選 (D) strange。(A) boring 呼應的是第一段描述她心情的 boredom，與這裡無關。",
     "evidence": "One picture looked bizarre: villagers in paper masks dancing around a huge bronze bell."
    },
    {
@@ -2751,7 +2751,7 @@
     ],
     "answer": 0,
     "word": "L5-0182",
-    "explain": "老師當全班面前稱讚她的演講，pay sb. a compliment 是「讚美某人」，故選 compliment。compound（化合物）、commodity（商品）、component（零件）都不能「給」人作為對演講的回應。"
+    "explain": "老師在全班面前稱讚她的演講，pay sb. a compliment 是「讚美某人」，故選 compliment。compound（化合物）、commodity（商品）、component（零件）都不能「給」人作為對演講的回應。"
    }
   ],
   "status": "ok"
@@ -3944,21 +3944,21 @@
      "By buying a new heater themselves"
     ],
     "answer": 2,
-    "explain": "第二段說他們只能在爐子上燒水，再用水壺提到浴室，故選 (C)。(A) 交誼廳是第三段提到天花板掉漆的地方，與取得熱水無關。",
+    "explain": "第二段說他們只能在爐子上燒水，再用水壺提到浴室，故選 (C)。(A) 交誼廳是第三段提到天花板灰泥剝落的地方，與取得熱水無關。",
     "evidence": "my family has had to heat water on the stove and carry it to the bathroom in jugs"
    },
    {
     "type": "細節",
     "stem": "Why have some residents stopped using the lounge?",
     "options": [
-     "Pieces of paint are falling from its ceiling.",
+     "Pieces of plaster are falling from its ceiling.",
      "The landlord has closed it.",
      "It is too cold without hot water.",
      "It is too noisy at night."
     ],
     "answer": 0,
-    "explain": "第三段說漏水讓交誼廳天花板的油漆一塊塊掉下來，住戶為了安全不再使用，故選 (A)。(B) 文中並沒有說房東關閉交誼廳。",
-    "evidence": "flakes of paint are now falling from the ceiling of the shared lounge"
+    "explain": "第三段說漏水讓交誼廳天花板的灰泥一塊塊掉下來，住戶為了安全不再使用，故選 (A)。(B) 文中並沒有說房東關閉交誼廳。",
+    "evidence": "lumps of plaster are now falling from the ceiling of the shared lounge"
    },
    {
     "type": "字義",
@@ -4831,7 +4831,7 @@
      "only one teacher speaks English"
     ],
     "answer": 0,
-    "explain": "ratio 指「比率」，師生比八比一表示每八位學生就有一位老師，下一句也說老師因此能給每個人充分關注，故選 (A)。(B)(C) 把數字誤解為時間或考試次數。",
+    "explain": "ratio 指「比率」，生師比八比一表示每八位學生就有一位老師，同一句後半也說老師因此能給每個人充分關注，故選 (A)。(B)(C) 把數字誤解為時間或考試次數。",
     "evidence": "The student-teacher ratio is eight to one, so teachers can give each person plenty of attention."
    },
    {

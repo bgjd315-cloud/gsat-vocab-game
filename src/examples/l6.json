@@ -202,7 +202,7 @@
  {
   "id": "L6-0026",
   "en": "Our cat is very affectionate; she loves to sit on my lap and rub her head against my hand.",
-  "zh": "我們的貓非常親人，她喜歡坐在我的腿上，用頭磨蹭我的手。",
+  "zh": "我們的貓非常親人，牠喜歡坐在我的腿上，用頭磨蹭我的手。",
   "target": "affectionate",
   "status": "ok",
   "note": ""
@@ -1993,7 +1993,7 @@
  },
  {
   "id": "L6-0250",
-  "en": "All employees must follow the new directive, which requires them to wear name cards at work.",
+  "en": "All employees must follow the new directive, which requires them to wear name tags at work.",
   "zh": "所有員工都必須遵守新的指示，上班時要配戴名牌。",
   "target": "directive",
   "status": "ok",
@@ -6377,7 +6377,7 @@
  },
  {
   "id": "L6-0798",
-  "en": "The writer's new story first appeared as a serial, with one chapter printed in the magazine each week.",
+  "en": "The writer's new story first appeared in serial form, with one chapter printed in the magazine each week.",
   "zh": "這位作家的新故事最初是以連載的形式刊出，每週在雜誌上登一章。",
   "target": "serial",
   "status": "ok",

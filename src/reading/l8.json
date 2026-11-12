@@ -86,7 +86,7 @@
      "It uses many paper forms."
     ],
     "answer": 3,
-    "explain": "信中說目前許多表單仍用列印、簽名並存放於儲藏室，可見舊系統大量使用紙本，故選 (D)。(B) 信中並沒有說舊系統比較快。",
+    "explain": "信中說目前許多表單仍用列印、簽名並存放於儲藏室，可見舊系統大量使用紙本，故選 (D)。(A) 信中並沒有說舊系統比較快。",
     "evidence": "At the moment, too many forms are printed, signed, and kept in the storeroom."
    }
   ],
@@ -135,7 +135,7 @@
    "備忘錄\n收件者：財務部\n寄件者：資訊部主管 Kevin Brooks\n日期：10 月 8 日\n事由：電腦檢查",
    "10 月 12 日星期五，資訊團隊將對大樓內的每一台電腦進行診斷檢查。工作將從下午 6 點開始，預計晚上 9 點前完成。在這段時間，網路會中斷，辦公室的數據機也會重新啟動。",
    "星期五下班前，請先儲存你的檔案，並拔掉桌上型電腦的插頭。也請刪除不再需要的檔案，因為硬碟太滿會拖慢檢查速度。",
-   "檢查完成後，我們打算把每月的試算表報告自動化，這樣就不必再用手輸入數字。電腦之後也會定期檢查，大約每三個月一次。如果你在作業後弄丟了線材，或發現有東西不見了，請告訴服務台。即使後面的線看起來很亂，也請不要自行重新整理。"
+   "檢查完成後，我們打算把每月的試算表報告自動化，這樣就不必再用手輸入數字。電腦之後也會定期檢查，大約每三個月一次。如果你在作業後弄丟了線材，或發現有東西不見了，請告訴服務台。即使桌子後面的線看起來很亂，也請不要自行重新整理。"
   ],
   "glosses": [],
   "targets": [
@@ -174,7 +174,7 @@
      "At 6 p.m. on October 12"
     ],
     "answer": 1,
-    "explain": "第二段說工作從下午 6 點開始、晚上 9 點前完成，日期是 10 月 12 日，故選 (B)。(D) 6 點是開始時間，不是結束時間。",
+    "explain": "第一段說工作從下午 6 點開始、晚上 9 點前完成，日期是 10 月 12 日，故選 (B)。(D) 6 點是開始時間，不是結束時間。",
     "evidence": "The work will start at 6 p.m. and should be finished by 9 p.m."
    },
    {
@@ -187,7 +187,7 @@
      "The new reports cannot be saved."
     ],
     "answer": 0,
-    "explain": "第三段明說硬碟太滿會拖慢檢查，所以要刪檔案，故選 (A)。(B) 文中沒有提到檔案被偷。",
+    "explain": "第二段明說硬碟太滿會拖慢檢查，所以要刪檔案，故選 (A)。(B) 文中沒有提到檔案被偷。",
     "evidence": "Please also delete any files you no longer need, because a full hard drive slows down the check."
    },
    {
@@ -509,7 +509,7 @@
      "Which meeting room is the best"
     ],
     "answer": 1,
-    "explain": "全文提供三個讓會議更有效率的方法，故選 (B)。(C) 文中只說重要的討論用會議室，並未比較哪間最好。",
+    "explain": "全文提供三個讓會議更有效率的方法，故選 (B)。(D) 文中只說重要的討論用會議室，並未比較哪間最好。",
     "evidence": "Here are three simple ways to improve the effectiveness of yours."
    },
    {
@@ -522,7 +522,7 @@
      "When a plan must be changed"
     ],
     "answer": 0,
-    "explain": "第三段說團隊成員分處不同城市時，視訊會議可省下交通時間，故選 (A)。(B) 小問題適合的是在座位旁的非正式聊天。",
+    "explain": "第二段說團隊成員分處不同城市時，視訊會議可省下交通時間，故選 (A)。(B) 小問題適合的是在座位旁的非正式聊天。",
     "evidence": "A videoconference saves travel time when team members work in different cities, while an informal chat at someone's desk is enough for a small question."
    },
    {
@@ -650,7 +650,7 @@
      "The reply deadline"
     ],
     "answer": 2,
-    "explain": "需合併兩份文件：公告說 12:45 頒獎、1:15 演說；Reyes 的會議要到 1:00 才結束，所以會錯過 12:45 的頒獎，故選 (C)。(A) 他說之後就有空，且最想聽的就是 Lin 博士的演說，所以不會錯過。",
+    "explain": "需合併兩份文件：公告說 12:45 頒獎、1:15 演說；Reyes 的會議要到 1:00 才結束，所以會錯過 12:45 的頒獎，故選 (C)。(B) 他說之後就有空，且最想聽的就是 Lin 博士的演說，所以不會錯過。",
     "evidence": "I would like to join the luncheon, but my client meeting does not end until 1:00 p.m."
    },
    {
@@ -712,7 +712,7 @@
    "收件者：Olivia Tan 女士\n寄件者：Seaview 飯店訂房組\n主旨：您的訂房確認",
    "感謝您選擇 Seaview 飯店。我們很高興確認您 5 月 14 日至 5 月 17 日入住一間可看海景的豪華客房。所有房客均可免費享用早餐，水療館和游泳池每天早上 8 點至晚上 9 點開放。",
    "退房時間為上午 11 點。如果您在那之後還需要寄放行李，我們的門僮會妥善保管。禮賓人員也可以協助安排計程車、晚餐，以及前往國家公園的一日遊。由於週五從機場出發的公路壅塞嚴重，建議您提早離開機場或搭乘火車。",
-   "如果您必須更改計畫，可在抵達前 48 小時內免費取消。超過時間，將收取一晚的費用。來自其他國家的旅客可能需要電源轉接頭，我們很樂意在櫃檯借給您一個。"
+   "如果您必須更改計畫，最晚可在抵達前 48 小時免費取消。超過時間，將收取一晚的費用。來自其他國家的旅客可能需要電源轉接頭，我們很樂意在櫃檯借給您一個。"
   ],
   "glosses": [
    {
@@ -1643,7 +1643,7 @@
      "Teach a workshop"
     ],
     "answer": 1,
-    "explain": "第三段請負責帶領實習生的員工參加新進人員訓練，故選 (B)。(A) 不需要正式服裝的是實習生。",
+    "explain": "第二段請負責帶領實習生的員工參加新進人員訓練，故選 (B)。(A) 不需要正式服裝的是實習生。",
     "evidence": "Staff members who will supervise an intern are asked to join the session."
    },
    {

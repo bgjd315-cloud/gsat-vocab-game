@@ -6,7 +6,7 @@
   "title": "現在簡單式與現在進行式",
   "formula": "V(s/es)　／　am・is・are + V-ing",
   "status": "ok",
-  "intro": "媽媽問你「你在做什麼？」你回答「我正在寫作業」，這是現在進行式；如果有人問你「你平常幾點起床？」，你說的是習慣，要用現在簡單式。國中你已經會這兩個時態，高中要學會分辨「習慣、事實」和「正在發生」，還要加上狀態動詞不能進行的規則，學測的文法選擇與改錯常常考這一點。",
+  "intro": "媽媽問你「你在做什麼？」你回答「我正在寫作業」，這是現在進行式；如果有人問你「你平常幾點起床？」，你說的是習慣，要用現在簡單式。國中你已經會這兩個時態，高中要學會分辨「習慣、事實」和「正在發生」，還要加上狀態動詞不能進行的規則，段考的文法選擇與改錯常常考這一點。",
   "rhyme": "習慣事實 V(s)，此刻進行 be + V-ing",
   "points": [
    {
@@ -446,7 +446,7 @@
     ]
    },
    {
-    "t": "預測天氣、未來狀況時，will 後面接 be 動詞或形容詞。",
+    "t": "預測天氣、未來狀況時，will 後面接原形 be，再接形容詞或名詞。",
     "ex": [
      {
       "en": "According to the weather report, tomorrow will be a sunny day.",
@@ -1537,7 +1537,7 @@
   "title": "關係代名詞（限定用法）",
   "formula": "N + who / which / that + V",
   "status": "ok",
-  "intro": "想形容「那個站在那裡的男生」「我爺爺送我的那支筆」，可以用關係代名詞把兩個句子合在一起，讓句子更精簡。國中先學 who, which, that，高中要知道關代同時當連接詞與代名詞，所以後面不能重複代名詞，這是學測改錯題的重點。",
+  "intro": "想形容「那個站在那裡的男生」「我爺爺送我的那支筆」，可以用關係代名詞把兩個句子合在一起，讓句子更精簡。國中先學 who, which, that，高中要知道關代同時當連接詞與代名詞，所以後面不能重複代名詞，這是段考改錯題的重點。",
   "rhyme": "人用 who，物用 which，that 通用，關代自己是代名詞",
   "points": [
    {
@@ -1724,7 +1724,7 @@
   "title": "連接詞 because / although / so / but",
   "formula": "because ... / although ... / so ... / so + adj + that ...",
   "status": "ok",
-  "intro": "「雖然很用功，卻考不好」「因為下雨，所以取消」，這種表達原因、轉折和結果的句子，需要正確的連接詞。國中先學 because, so, but, although，高中要知道 because 與 so、although 與 but 不能同時用，還要會 so...that 與 such...that 的分別。這些常出現在學測的選擇與改錯題。",
+  "intro": "「雖然很用功，卻考不好」「因為下雨，所以取消」，這種表達原因、轉折和結果的句子，需要正確的連接詞。國中先學 because, so, but, although，高中要知道 because 與 so、although 與 but 不能同時用，還要會 so...that 與 such...that 的分別。這些常出現在段考的選擇與改錯題。",
   "rhyme": "Because 不加 so，Although 不加 but，so + adj、such + N",
   "points": [
    {
@@ -2574,7 +2574,7 @@
   "title": "可數與不可數名詞及數量詞",
   "formula": "many / a few / few + 複數　；　much / a little / little + 不可數",
   "status": "ok",
-  "intro": "點飲料時你會說「一杯水」、「幾張椅子」，中文量詞不同，英文也要分清楚可數與不可數。a few 和 a little 差一個字，意思就不同。學測的綜合測驗常考數量詞與名詞單複數的搭配。",
+  "intro": "點飲料時你會說「一杯水」、「幾張椅子」，中文量詞不同，英文也要分清楚可數與不可數。a few 和 few 差一個字，意思就不同。學測的綜合測驗常考數量詞與名詞單複數的搭配。",
   "rhyme": "可數用 many / few，不可數用 much / little",
   "points": [
    {
@@ -2654,7 +2654,7 @@
     ]
    },
    {
-    "t": "有些名詞看起來像複數，其實是不可數，要當單數動詞：news, homework, furniture。",
+    "t": "有些名詞看起來像複數或容易誤當可數，其實是不可數，要接單數動詞：news, homework, furniture。",
     "ex": [
      {
       "en": "The news is very surprising.",
@@ -4811,7 +4811,7 @@
    {
     "a": "It gets colder and colder.",
     "b": "The colder it gets, the more people stay home.",
-    "note": "more and more 表示一件事「愈來愈…」；The + 比較級 句型表示兩件事「一個愈…另一個就愈…」。"
+    "note": "「比較級 and 比較級」表示一件事「愈來愈…」；The + 比較級 句型表示兩件事「一個愈…另一個就愈…」。"
    },
    {
     "a": "The higher we climbed, the colder the air became.",
@@ -6504,7 +6504,7 @@
     ],
     "a": 3,
     "ex": "腳踏車是被偷走的，被動關係，用過去分詞 stolen。",
-    "hint": "包包是被偷走的，主被動關係是被動，要用 p.p.。"
+    "hint": "腳踏車是被偷走的，主被動關係是被動，要用 p.p.。"
    },
    {
     "type": "pick",
@@ -6989,7 +6989,7 @@
    {
     "a": "I think it necessary that we review every day.",
     "b": "I think that it is necessary that we review every day.",
-    "note": "前者省略 that it is，更簡潔；後者完整但較長，意思相同。"
+    "note": "前者省略 that 和 is，更簡潔；後者完整但較長，意思相同。"
    }
   ],
   "mistakes": [
@@ -7513,7 +7513,7 @@
     ]
    },
    {
-    "t": "不定詞本身若是被動，要用 to have been + p.p.，例如建築物是被建造的。",
+    "t": "不定詞若是被動且動作較早發生，要用 to have been + p.p.，例如建築物是被建造的。",
     "ex": [
      {
       "en": "The village is believed to have been founded in the 1800s.",
@@ -8472,7 +8472,7 @@
    }
   ],
   "steps": [
-   "先寫出一般句子，例如：I have never seen such a polite student.",
+   "先寫出一般句子，例如：We rarely find such a polite student in this school.",
    "把 never、seldom、rarely 等否定副詞搬到句首。",
    "找出助動詞或 be 動詞，移到主詞前面；一般動詞則加 do/does/did，動詞改原形。",
    "完成例句：Rarely do we find such a polite student in this school.（我們在這所學校很少遇到這麼有禮貌的學生。）"
@@ -8491,7 +8491,7 @@
    {
     "a": "Little did she know the truth.",
     "b": "She knew little about the truth.",
-    "note": "前句倒裝強調；後句 little 是一般副詞，位置不同、不倒裝。"
+    "note": "前句倒裝強調；後句 little 是 knew 的受詞（代名詞），位置不同、不倒裝。"
    }
   ],
   "mistakes": [
@@ -9868,7 +9868,7 @@
   "qs": [
    {
     "type": "mc",
-    "s": "If it ______ for the nurse's quick action, the patient would be in danger now.",
+    "s": "If it ______ for the nurse's constant care, the patient would be in danger now.",
     "o": [
      "were not",
      "is not",
@@ -10599,7 +10599,7 @@
     "ex": [
      {
       "en": "Mike didn't tell Amy the news for fear that she should be worried.",
-      "zh": "邁克沒告訴艾咪這個消息，以免她擔心。",
+      "zh": "麥克沒告訴艾咪這個消息，以免她擔心。",
       "hl": [
        "for fear that she should be worried"
       ]
@@ -10621,8 +10621,8 @@
    },
    {
     "a": "He ran for fear that he might be late.",
-    "b": "He ran in case he is late.",
-    "note": "in case 後面常用現在式，for fear that 後面用 would / might 等情態。"
+    "b": "He ran in case he was late.",
+    "note": "in case 後面用一般時態（如此句的 was），for fear that 後面用 would / might 等情態。"
    },
    {
     "a": "She hid the cake for fear that her brother would eat it.",
@@ -10809,7 +10809,7 @@
    {
     "a": "The tower is twice the height of that tree.",
     "b": "The tower is twice higher than that tree.",
-    "note": "倍數句型不用 -er than，要用 the + 名詞 + of 或 as...as。"
+    "note": "twice 通常不接比較級 -er than，要用 the + 名詞 + of 或 as...as。"
    },
    {
     "a": "It is twice as large as mine.",
@@ -10955,7 +10955,7 @@
     ]
    },
    {
-    "t": "名詞 + 現在分詞（V-ing）：表示「主動」的意思，如 sweet-smelling（散發甜香的）。",
+    "t": "名詞／形容詞 + 現在分詞（V-ing）：表示「主動」的意思，如 sweet-smelling（散發甜香的）。",
     "ex": [
      {
       "en": "The park is full of sweet-smelling flowers in spring.",
@@ -11159,7 +11159,7 @@
     ]
    },
    {
-    "t": "主要子句的時態不影響 as if 子句：主要子句用現在或過去，as if 子句都看「事實」是現在還是過去。",
+    "t": "主要子句的時態不影響 as if 子句：主要子句用現在或過去，as if 子句都看所說的事與主要子句「同時」（用過去式）還是「更早」（用 had p.p.）。",
     "ex": [
      {
       "en": "The kids looked at me as if they knew the answer, but they didn't.",
@@ -11248,7 +11248,7 @@
     ],
     "a": 1,
     "ex": "but they didn't 說明與當時事實相反，as if 子句用過去式 knew 表示「彷彿知道」。",
-    "hint": "孩子們其實不知道答案，這是與現在事實相反，動詞要用過去式形式。"
+    "hint": "孩子們其實不知道答案，這是與當時（looked 的同時）事實相反，動詞要用過去式形式。"
    },
    {
     "type": "mc",

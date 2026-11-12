@@ -1703,7 +1703,7 @@
 ]
 ],
 "q": {
-"en": "Our school team won the championship in the basketball game last month.",
+"en": "Our school team won the basketball championship last month.",
 "zh": "我們學校的隊伍上個月贏得了籃球賽冠軍。",
 "base": "champion",
 "answer": "championship"
@@ -5119,8 +5119,8 @@
 ]
 ],
 "q": {
-"en": "We visited a historical temple in Tainan during the school trip.",
-"zh": "校外教學時，我們參觀了台南一座有歷史意義的廟。",
+"en": "Amy enjoys reading historical novels about ancient China.",
+"zh": "艾美喜歡閱讀以中國古代為背景的歷史小說。",
 "base": "historic",
 "answer": "historical"
 },
@@ -5169,8 +5169,8 @@
 ]
 ],
 "q": {
-"en": "Kevin felt homesickness on his first night at the dormitory.",
-"zh": "凱文在宿舍的第一晚感到很想家。",
+"en": "Kevin suffered from homesickness on his first night at the dormitory.",
+"zh": "凱文在宿舍的第一晚飽受思鄉之苦。",
 "base": "homesick",
 "answer": "homesickness"
 },
@@ -5737,8 +5737,8 @@
 ]
 ],
 "q": {
-"en": "The teacher walked around for an inspection of our science projects.",
-"zh": "老師走來走去檢查我們的科學作品。",
+"en": "The teacher made a careful inspection of our science projects.",
+"zh": "老師仔細檢查了我們的科學作品。",
 "base": "inspect",
 "answer": "inspection"
 },
@@ -6369,10 +6369,10 @@
 ]
 ],
 "q": {
-"en": "Students in our school have the freedom to choose their own clubs.",
-"zh": "我們學校的學生可以自由選擇自己的社團。",
+"en": "My parents are quite liberal, so they let me choose my own clubs.",
+"zh": "我爸媽很開明，所以讓我自己選擇社團。",
 "base": "liberty",
-"answer": "freedom"
+"answer": "liberal"
 },
 "status": "ok"
 },
@@ -6697,8 +6697,8 @@
 ]
 ],
 "q": {
-"en": "Rice is the major food in many Asian countries.",
-"zh": "米飯是許多亞洲國家的主食。",
+"en": "Rice is a major crop in many Asian countries.",
+"zh": "稻米是許多亞洲國家的主要作物。",
 "base": "majority",
 "answer": "major"
 },
@@ -7134,7 +7134,7 @@
 ],
 "q": {
 "en": "Kevin spends most of his weekends at the library with friends.",
-"zh": "凱文週末大部分的時間都和朋友待在圖書館。",
+"zh": "凱文大部分的週末都和朋友待在圖書館。",
 "base": "mostly",
 "answer": "most"
 },
@@ -8975,8 +8975,8 @@
 ]
 ],
 "q": {
-"en": "Mr. Chen began his speech with a famous quotation about learning.",
-"zh": "陳老師用一句關於學習的名言開始他的演講。",
+"en": "Please put the speaker's exact words in quotation marks.",
+"zh": "請把說話者的原話放在引號裡。",
 "base": "quote",
 "answer": "quotation"
 },
@@ -11302,7 +11302,7 @@
 [
 "superiority",
 "n.",
-"優越感"
+"優越；優勢"
 ],
 [
 "inferior",
@@ -12172,7 +12172,7 @@
 ],
 "q": {
 "en": "Please tell me the truth about what happened to the window.",
-"zh": "請告訴我窗戶到底發生了什麼事。",
+"zh": "關於窗戶發生了什麼事，請告訴我真相。",
 "base": "truthful",
 "answer": "truth"
 },
@@ -15691,7 +15691,7 @@
 ],
 "q": {
 "en": "The long train schedule is confusing to many tourists.",
-"zh": "這張又長的火車時刻表讓許多遊客感到困惑。",
+"zh": "這張很長的火車時刻表讓許多遊客感到困惑。",
 "base": "confusion",
 "answer": "confusing"
 },
@@ -16005,7 +16005,7 @@
 ],
 "q": {
 "en": "After a short consultation, the doctor changed Ben's medicine.",
-"zh": "經過簡短的會診後，醫生換了班的藥。",
+"zh": "經過簡短的看診後，醫生換了班的藥。",
 "base": "consult",
 "answer": "consultation"
 },
@@ -22915,7 +22915,7 @@
 ],
 "q": {
 "en": "Don't lie to your parents about where you went after school.",
-"zh": "不要對父母隱瞞你放學後去了哪裡。",
+"zh": "放學後去了哪裡，不要對父母說謊。",
 "base": "liar",
 "answer": "lie"
 },
@@ -23419,7 +23419,7 @@
 ]
 ],
 "q": {
-"en": "Please check the measurement of the table before you buy a cloth.",
+"en": "Please check the measurement of the table before you buy a tablecloth.",
 "zh": "買桌布之前請先確認桌子的尺寸。",
 "base": "measure",
 "answer": "measurement"
@@ -24641,7 +24641,7 @@
 ],
 "q": {
 "en": "Many parents are opposed to the idea of longer school days.",
-"zh": "許多家長反對延長上課天數的想法。",
+"zh": "許多家長反對延長每天上課時間的想法。",
 "base": "oppose",
 "answer": "opposed"
 },
@@ -27017,7 +27017,7 @@
 ],
 "q": {
 "en": "Dad will reserve a table at the restaurant for Saturday night.",
-"zh": "爸爸會幫週六晚上預訂餐廳的一張桌子。",
+"zh": "爸爸會預訂餐廳週六晚上的一張桌子。",
 "base": "reservation",
 "answer": "reserve"
 },
@@ -48720,7 +48720,7 @@
 ],
 "q": {
 "en": "Birds build nests by instinct, not because anyone teaches them.",
-"zh": "鳥類靠本能築巢，不是因為有人教它們。",
+"zh": "鳥類靠本能築巢，不是因為有人教牠們。",
 "base": "instinctive",
 "answer": "instinct"
 },
@@ -49050,7 +49050,7 @@
 ],
 "q": {
 "en": "We took a ferry to a beautiful island last summer.",
-"zh": "我們去年夏天搭渡輪去了一座美麗的小島。",
+"zh": "我們去年夏天搭渡輪去了一座美麗的島嶼。",
 "base": "isle",
 "answer": "island"
 },
@@ -51924,7 +51924,7 @@
 ]
 ],
 "q": {
-"en": "Shandong is a large province in northern China, said Mr. Chen.",
+"en": "\"Shandong is a large province in northern China,\" said Mr. Chen.",
 "zh": "陳老師說山東是中國北方的一個大省。",
 "base": "provincial",
 "answer": "province"
@@ -54711,16 +54711,16 @@
 "word": "trifle",
 "fam": [
 [
-"trivial",
+"trifling",
 "adj.",
-"瑣碎的"
+"微不足道的"
 ]
 ],
 "q": {
-"en": "Don't worry about such a trivial mistake, Amy.",
+"en": "Don't worry about such a trifling mistake, Amy.",
 "zh": "別擔心這種小錯誤，Amy。",
 "base": "trifle",
-"answer": "trivial"
+"answer": "trifling"
 },
 "status": "ok"
 },
@@ -57444,7 +57444,7 @@
 ]
 ],
 "q": {
-"en": "Your attendance at the morning meeting is required for everyone.",
+"en": "Everyone's attendance at the morning meeting is required.",
 "zh": "晨會每個人都必須出席。",
 "base": "attend",
 "answer": "attendance"
@@ -58526,7 +58526,7 @@
 ],
 "q": {
 "en": "Kevin's favorite subject at school is history because the stories are interesting.",
-"zh": "Kevin 在學校最喜歡的科目是歷史。",
+"zh": "Kevin 在學校最喜歡的科目是歷史，因為那些故事很有趣。",
 "base": "historical",
 "answer": "history"
 },
@@ -59997,7 +59997,7 @@
 [
 "alone",
 "adj./adv.",
-"單獨(的)"
+"單獨（的）"
 ]
 ],
 "q": {
@@ -60883,7 +60883,7 @@
 ],
 "q": {
 "en": "Everyone likes Lisa because she has a warm and friendly personality.",
-"zh": "麗莎的個性溫暖又友善。",
+"zh": "大家都喜歡麗莎，因為她的個性溫暖又友善。",
 "base": "personally",
 "answer": "personality"
 },
@@ -61779,7 +61779,7 @@
 ],
 "q": {
 "en": "Kevin's first science project at senior high school was very successful.",
-"zh": "凱文的第一個科學專題非常成功。",
+"zh": "凱文上高中後的第一個科學專題非常成功。",
 "base": "success",
 "answer": "successful"
 },
@@ -64052,8 +64052,8 @@
 ]
 ],
 "q": {
-"en": "Ben tried to trace his steps to find his lost key.",
-"zh": "阿班試著回溯自己的行蹤來找遺失的鑰匙。",
+"en": "There was no trace of Ben's lost key anywhere in the classroom.",
+"zh": "教室裡到處都找不到阿班遺失的鑰匙的蹤影。",
 "base": "retrace",
 "answer": "trace"
 },
@@ -64107,7 +64107,7 @@
 [
 "populated",
 "adj.",
-"人口居住的"
+"有人居住的"
 ]
 ],
 "q": {
@@ -64158,7 +64158,7 @@
 ],
 "q": {
 "en": "Ben narrowly missed the last train home after the long practice.",
-"zh": "阿班差一點就趕不上回家的末班火車。",
+"zh": "長時間練習後，阿班以些微之差錯過了回家的末班火車。",
 "base": "narrow",
 "answer": "narrowly"
 },
@@ -64652,7 +64652,7 @@
 ],
 "q": {
 "en": "The old teacher still likes to use conventional methods in class.",
-"zh": "那位老師上課仍喜歡用傳統的方法。",
+"zh": "那位年長的老師上課仍喜歡用傳統的方法。",
 "base": "unconventional",
 "answer": "conventional"
 },
@@ -64905,7 +64905,7 @@
 ],
 "q": {
 "en": "Amy's parents are concerned about her health during the exam week.",
-"zh": "小艾的父母很擔心她的健康。",
+"zh": "小艾的父母很擔心她在考試週期間的健康。",
 "base": "concern",
 "answer": "concerned"
 },
@@ -64927,8 +64927,8 @@
 ]
 ],
 "q": {
-"en": "Having brown eyes is genetic in many families in Taiwan.",
-"zh": "在許多家庭中，棕色眼睛是遺傳的。",
+"en": "Eye color is genetic, so Amy has brown eyes like her parents.",
+"zh": "眼睛的顏色是遺傳的，所以小艾和她父母一樣有棕色的眼睛。",
 "base": "genetically",
 "answer": "genetic"
 },

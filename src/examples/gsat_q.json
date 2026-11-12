@@ -646,7 +646,7 @@
 {
 "y": 98,
 "n": 14,
-"zh": "老師根據評語要求學生修改或重寫作文。",
+"zh": "學生被要求根據老師的評語修改或重寫作文。",
 "oz": [
 "修改",
 "辭職",
@@ -931,7 +931,7 @@
 ],
 "ex": "句意：約翰被老闆罵了十多分鐘。＿＿，她對他再次遲到不高興。由老闆罵很久可以推論她不高興，語氣是「看起來」。apparently 即顯然，故選 apparently。",
 "status": "ok",
-"hint": "看空格前有逗號，句首連接前一句 scolded，想想她為何對 John 不開心的推論詞。",
+"hint": "看空格後有逗號，句首連接前一句 scolded，想想她為何對 John 不開心的推論詞。",
 "why": [
 "(A) Expressively 表達地：expressively 形容表現力，與推論她不高興無關",
 "(B) Apparently 顯然，根據情況推論，正確",
@@ -1028,7 +1028,7 @@
 "(A) accordingly 因此：accordingly 表承接前文的結果，與傷重無關",
 "(B) undoubtedly 無疑地：undoubtedly 與重傷情境不合",
 "(C) handily 便利地：handily 與腿無法移動矛盾",
-"(D) scarcely 幾乎不，could scarcely move 表示勉強動不了，正確"
+"(D) scarcely 幾乎不，could scarcely move 表示幾乎動不了，正確"
 ],
 "col": "can scarcely believe 幾乎不能相信；scarcely any 幾乎沒有（例：I could scarcely breathe. 我幾乎無法呼吸）",
 "fam": "scarce adj. → scarcely adv. → scarcity n.",
@@ -1339,7 +1339,7 @@
 "zh": "孩子們看到小丑上台都好開心，笑著、尖叫著、高興地拍手。",
 "oz": [
 "令人欽佩的",
-"可怕的",
+"害怕的",
 "高興的",
 "強烈的"
 ],
@@ -1348,7 +1348,7 @@
 "hint": "看 laughed, screamed, and clapped 與 happily，想想孩子看小丑的心情。",
 "why": [
 "(A) admirable 令人欽佩的：admirable 指值得讚賞，與孩子笑鬧反應無關",
-"(B) fearful 可怕的：fearful 與 laughed 和 clapped 矛盾",
+"(B) fearful 害怕的：fearful 與 laughed 和 clapped 矛盾",
 "(C) delighted 高興的，笑鬧拍手，正確",
 "(D) intense 強烈的：intense 形容程度，不能形容孩子的心情"
 ],
@@ -1386,7 +1386,7 @@
 "oz": [
 "願景",
 "焦點",
-"驚喜",
+"意外的事",
 "結論"
 ],
 "ex": "句意：電影結局對約翰不算是＿＿，因為他已讀過原著小說。already read 表示早就知道。come as a surprise 是固定搭配，故選 surprise。",
@@ -1395,7 +1395,7 @@
 "why": [
 "(A) vision 願景：vision 是對未來的想像，不與 come as a 連用",
 "(B) focus 焦點：focus 不與 come as a 搭配表意外",
-"(C) surprise 驚喜，早知結局故不意外，正確",
+"(C) surprise 意外的事，早知結局故不意外，正確",
 "(D) conclusion 結論：conclusion 與 already read 無關，不是受到意外的事"
 ],
 "col": "come as a surprise 令人意外；to my surprise 令我驚訝的是（例：The news came as a surprise. 這消息出人意料）",
@@ -1497,7 +1497,7 @@
 {
 "y": 101,
 "n": 6,
-"zh": "海倫聽到弟弟在事故中沒有受傷，鬆了一口氣。",
+"zh": "海倫聽到哥哥在事故中沒有受傷，鬆了一口氣。",
 "oz": [
 "猶豫",
 "寬慰",
@@ -1589,7 +1589,7 @@
 {
 "y": 101,
 "n": 10,
-"zh": "傑克對他新買的炫酷摩托車非常自豪，一直向所有朋友吹噓它有多酷、跑多快。",
+"zh": "傑克對他新買的酷炫摩托車非常自豪，一直向所有朋友吹噓它有多酷、跑多快。",
 "oz": [
 "吹噓",
 "提議",
@@ -2029,7 +2029,7 @@
 "zh": "雖然凱文在去年的歌唱比賽失利，他並不感到沮喪。今年他日夜練習，終於奪得冠軍。",
 "oz": [
 "寬慰的",
-"懷疑的",
+"被懷疑的",
 "打折的",
 "沮喪的"
 ],
@@ -2038,7 +2038,7 @@
 "hint": "看 Though Kevin failed ... he did not feel ___，以及後面苦練奪冠，想想失敗後他沒有的情緒。",
 "why": [
 "(A) relieved 寬慰的：relieved 與失敗後的情緒不同",
-"(B) suspected 懷疑的：suspected 與失敗後的情緒無關",
+"(B) suspected 被懷疑的：suspected 與失敗後的情緒無關",
 "(C) discounted 打折的：discounted 與情緒無關",
 "(D) frustrated 沮喪的，失敗卻不氣餒，正確"
 ],
@@ -2056,7 +2056,7 @@
 "最好是",
 "相當地"
 ],
-"ex": "句意：艾瑪和喬想找與兩歲雙胞胎同住的保母，＿＿會煮飯的。the one who knows how to cook 是附加期望。preferably 即最好是，故選 preferably。",
+"ex": "句意：艾瑪和喬想找與三歲雙胞胎同住的保母，＿＿會煮飯的。one who knows how to cook 是附加期望。preferably 即最好是，故選 preferably。",
 "status": "ok",
 "hint": "看空格前逗號，想想想找會做飯的保母，語氣是「最好」。",
 "why": [
@@ -2293,7 +2293,7 @@
 "(A) shortly 不久：shortly 表時間，不能表丟的方式",
 "(B) straight 直接地，不經分類直接丟，正確",
 "(C) forward 向前：forward 與丟進垃圾桶的方式不合",
-"(D) namely 亦即：namely 是連接詞，不能修飾 dump"
+"(D) namely 亦即：namely 用來引出補充說明，不能修飾 dump"
 ],
 "col": "go straight home 直接回家；straight into 直接進入（例：Don't throw it straight into the bin. 別直接丟進垃圾桶）",
 "fam": "straight adj./adv. → straighten v.",
@@ -2314,9 +2314,9 @@
 "hint": "看 standing on a ladder 與 fell to the ground，想想站在梯子上摔下來是失去了什麼。",
 "why": [
 "(A) volume 音量：volume 與摔倒無關",
-"(B) weight 重量：weight 不是 lose 的受詞，且與摔倒不合",
+"(B) weight 重量：lose weight 是減重，與摔倒不合",
 "(C) balance 平衡，lose one's balance 失去平衡，正確",
-"(D) direction 方向：direction 不是 lose 的受詞，與摔倒不合"
+"(D) direction 方向：lose one's direction 是迷失方向，與摔倒不合"
 ],
 "col": "lose one's balance 失去平衡；keep one's balance 保持平衡（例：She lost her balance and fell. 她失去平衡摔倒）",
 "fam": "balance n./v. → balanced adj.",
@@ -2359,7 +2359,7 @@
 "status": "ok",
 "hint": "看 No modern agricultural methods are used，想想與現代相對的農業形式。",
 "why": [
-"(A) universal 普遍的：universal 與現代方法相對",
+"(A) universal 普遍的：universal 與不用現代農法無關",
 "(B) splendid 壯觀的：splendid 與沒有現代方法無關",
 "(C) primitive 原始的，與現代相對，正確",
 "(D) courteous 有禮貌的：courteous 不能形容農業"
@@ -2725,7 +2725,7 @@
 ],
 "ex": "①空格是 John 該與朋友家人多做的事，而不是躲在房間打電動。②線索是 with his friends and family 與 instead of staying in his room。③需要不及物動詞，可接 with。④與人往來就是 interact。",
 "status": "ok",
-"hint": "空格後面省略的介系詞，配合 with his friends and family。",
+"hint": "注意空格後的 more often with his friends and family，想想哪個動詞要接 with。",
 "why": [
 "(A) explore 探索：「探索」多接地點或事物，不是與親友相處",
 "(B) interact 互動：符合，interact with 指與人互動",
@@ -2840,7 +2840,7 @@
 ],
 "ex": "①空格要填她被輪椅所限制的狀態。②線索是 physically ... to her wheelchair 與 although she does not limit herself。③需要過去分詞，與 to 搭配。④表示被困在輪椅上，用 confined。",
 "status": "ok",
-"hint": "was ______ to her wheelchair，空格後接 to，且 does not limit herself 是對比。",
+"hint": "has been physically ______ to her wheelchair，空格後接 to，且 does not limit herself 是對比。",
 "why": [
 "(A) ceased 停止：「停止」不能與 to her wheelchair 搭配",
 "(B) committed 承諾：「承諾」be committed to 是投入，不是被困",
@@ -3095,7 +3095,7 @@
 "status": "ok",
 "hint": "空格後接 friendly，想想「環保的」英文怎麼說。",
 "why": [
-"(A) liberally 自由地：「慷慨地」不與 friendly 搭配",
+"(A) liberally 自由地：「自由地」不與 friendly 搭配",
 "(B) individually 個別地：「個別地」與環保無關",
 "(C) financially 財務上：「財務上」不能與 friendly 組成環保",
 "(D) environmentally 環境上：符合，environmentally friendly 指對環境友善"
@@ -3751,7 +3751,7 @@
 {
 "y": 107,
 "n": 14,
-"zh": "這家醫院正在進行各種研究，探討高脂飲食與癌症的關聯。",
+"zh": "這家醫院已進行了各種研究，探討高脂飲食與癌症的關聯。",
 "oz": [
 "進行",
 "證實",
@@ -3820,7 +3820,7 @@
 {
 "y": 108,
 "n": 2,
-"zh": "新經理是個真正的紳士，親切又謙虛，和以前那位小氣又愛頤指氣使的經理完全不同。",
+"zh": "新經理是個真正的紳士，親切又謙虛，和以前那位刻薄又愛頤指氣使的經理完全不同。",
 "oz": [
 "渴望的",
 "自由的",
@@ -3836,7 +3836,7 @@
 "(C) mean 刻薄的：符合，mean 指刻薄的、不友善的",
 "(D) inferior 較差的：「較差的」是比較，不是性格"
 ],
-"col": "be mean to sb 對某人刻薄；Don't be mean. 不要這麼小氣。",
+"col": "be mean to sb 對某人刻薄；Don't be mean. 不要這麼刻薄。",
 "fam": "",
 "strat": "totally different from kind and humble，所以是相反的特質"
 },
@@ -4521,7 +4521,7 @@
 "status": "ok",
 "hint": "空格前有 rather than，拿來和 elevator 對比，另一種在商店裡的代步設施。",
 "why": [
-"(A) airway 通風道：airway 是航道，不是商店裡讓人搭乘的設施",
+"(A) airway 通風道：airway 是通風道，不是商店裡讓人搭乘的設施",
 "(B) operator 操作員：operator 是操作員，不是 elevator 的對照物",
 "(C) escalator 手扶梯：正解：escalator 手扶梯，與電梯並列且會移動太快。",
 "(D) instrument 儀器：instrument 是儀器，不會「移動太快」"
@@ -5075,7 +5075,7 @@
 "why": [
 "(A) sticky 黏的：正解：sticky 黏的，說明口香糖不易清除。",
 "(B) greasy 油膩的：greasy 是油膩，口香糖不是油的特性",
-"(C) clumsy 笨拙的：clumsy 是笨拙，只能形容人",
+"(C) clumsy 笨拙的：clumsy 是笨拙，多形容人或動作",
 "(D) mighty 強大的：mighty 是強大，與難清除無關"
 ],
 "col": "sticky note 便利貼；sticky fingers 黏手",
@@ -5582,7 +5582,7 @@
 "(A) blurring 變模糊：正解：blurring 變模糊，符合記憶模糊。",
 "(B) trimming 修剪：trimming 是修剪，不描述記憶",
 "(C) draining 排空：draining 是排空，不描述記憶",
-"(D) glaring 刺眼：glaring 是刺眼，只能形容光"
+"(D) glaring 刺眼：glaring 是刺眼，多形容光線"
 ],
 "col": "blurred memory 模糊的記憶；blur the line 模糊界線",
 "fam": "blur v./n. → blurry adj.",
