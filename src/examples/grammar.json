@@ -1,5 +1,2093 @@
 [
  {
+  "id": "G0-K01-1",
+  "b": 0,
+  "l": "K01",
+  "title": "be 動詞與一般動詞",
+  "formula": "主詞 + am・is・are ＋ 名詞／形容詞　／　主詞 + V(s)　；否定與問句：be 動詞自己變，一般動詞找 do・does・did",
+  "status": "ok",
+  "intro": "英文句子裡一定要有動詞，而動詞分成兩大類：be 動詞（am, is, are, was, were）和一般動詞（go, eat, study…）。be 動詞像等號，用來說「是什麼、在哪裡、怎麼樣」；一般動詞說的是「做了什麼動作」。最常見的錯誤就是把兩種混在一起，寫出 He is go 或 Do you are 這種句子。只要記住：一個簡單句通常只要一個主要動詞，否定和問句時 be 動詞自己動，一般動詞請 do / does / did 來幫忙。",
+  "rhyme": "be 動詞自己動，一般動詞找 do 幫忙",
+  "points": [
+   {
+    "t": "be 動詞要配合主詞：I 用 am，he, she, it 和單數名詞用 is，you, we, they 和複數名詞用 are。後面接名詞、形容詞或地點。",
+    "ex": [
+     {
+      "en": "I am a student, and my brother is a teacher.",
+      "zh": "我是學生，我哥哥是老師。",
+      "hl": [
+       "am",
+       "is"
+      ]
+     },
+     {
+      "en": "Amy and Lisa are in the classroom now.",
+      "zh": "Amy 和 Lisa 現在在教室裡。",
+      "hl": [
+       "are"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "一般動詞表示動作。主詞是 he, she, it 或單數名詞時，現在式動詞要加 -s 或 -es；其他主詞用原形。",
+    "ex": [
+     {
+      "en": "Ben walks to school, but I take the bus.",
+      "zh": "Ben 走路上學，但我搭公車。",
+      "hl": [
+       "walks",
+       "take"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "be 動詞的否定和問句很簡單：否定在 be 動詞後面加 not；問句把 be 動詞移到主詞前面。",
+    "ex": [
+     {
+      "en": "Kevin is not hungry right now.",
+      "zh": "Kevin 現在不餓。",
+      "hl": [
+       "is not"
+      ]
+     },
+     {
+      "en": "Are you ready for the English test?",
+      "zh": "你準備好英文考試了嗎？",
+      "hl": [
+       "Are"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "一般動詞的否定和問句要請助動詞 do / does / did 幫忙，而且 do / does / did 後面的動詞一律用原形。主詞是第三人稱單數用 does，過去式用 did。",
+    "ex": [
+     {
+      "en": "Mia does not like spicy food at all.",
+      "zh": "Mia 一點都不喜歡辣的食物。",
+      "hl": [
+       "does not like"
+      ]
+     },
+     {
+      "en": "Did you finish your homework last night?",
+      "zh": "你昨晚寫完作業了嗎？",
+      "hl": [
+       "Did",
+       "finish"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "一個簡單句通常只有一個主要動詞，be 動詞和一般動詞不要同時出現（進行式 be + V-ing、被動式 be + p.p. 是例外，詳見其他卡片）。",
+    "ex": [
+     {
+      "en": "Tom plays basketball with his friends after school.",
+      "zh": "Tom 放學後和朋友打籃球。",
+      "hl": [
+       "plays"
+      ]
+     }
+    ]
+   }
+  ],
+  "steps": [
+   "步驟 1：先找主詞，判斷它是 I、第三人稱單數（he, she, it, 單數名詞），還是 you, we, they、複數名詞。",
+   "步驟 2：看句子要說的是「是什麼、怎麼樣、在哪裡」（用 be 動詞），還是「做什麼動作」（用一般動詞）。",
+   "步驟 3：要改成否定或問句時，be 動詞自己加 not 或移到句首；一般動詞則加 do / does / did，後面的動詞改回原形。",
+   "步驟 4：完成例句：Ken is tired, so he does not want to go out.（Ken 很累，所以他不想出門。）Is he tired? Does he want to go out?"
+  ],
+  "compare": [
+   {
+    "a": "He is happy.",
+    "b": "He goes to school.",
+    "note": "前者用 be 動詞說「狀態」，後者用一般動詞說「動作」，不能寫成 He is goes。"
+   },
+   {
+    "a": "Is she a nurse?",
+    "b": "Does she work at a hospital?",
+    "note": "be 動詞句把 is 移到前面就成問句；一般動詞句要加 Does，work 改回原形。"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "He is go to school by bus.",
+    "right": "He goes to school by bus.",
+    "why": "go 是一般動詞，不需要 is；主詞 He 是第三人稱單數，go 要變成 goes。"
+   },
+   {
+    "wrong": "Does she likes cats?",
+    "right": "Does she like cats?",
+    "why": "已經用了 Does，後面的動詞要用原形 like，不能再加 -s。"
+   },
+   {
+    "wrong": "I don't hungry.",
+    "right": "I am not hungry.",
+    "why": "hungry 是形容詞，句子需要 be 動詞，否定是在 am 後面加 not，不用 don't。"
+   }
+  ],
+  "qs": [
+   {
+    "type": "mc",
+    "s": "My parents ______ very busy on weekdays.",
+    "o": [
+     "is",
+     "am",
+     "are",
+     "does"
+    ],
+    "a": 2,
+    "ex": "busy 是形容詞，需要 be 動詞；主詞 My parents 是複數，用 are。",
+    "hint": "busy 前面需要哪一類動詞？主詞是單數還是複數？"
+   },
+   {
+    "type": "mc",
+    "s": "______ Lisa play the piano every day?",
+    "o": [
+     "Does",
+     "Is",
+     "Do",
+     "Are"
+    ],
+    "a": 0,
+    "ex": "play 是一般動詞，問句要用助動詞；主詞 Lisa 是第三人稱單數，用 Does。",
+    "hint": "句中已經有一般動詞 play，問句要請誰幫忙？主詞是幾個人？"
+   },
+   {
+    "type": "mc",
+    "s": "Leo ______ his room every Sunday morning.",
+    "o": [
+     "clean",
+     "is clean",
+     "cleans",
+     "does cleans"
+    ],
+    "a": 2,
+    "ex": "every Sunday 表習慣，主詞 Leo 是第三人稱單數，一般動詞加 -s，用 cleans。",
+    "hint": "一個簡單句只要一個主要動詞，再想想主詞要不要讓動詞加 -s。"
+   },
+   {
+    "type": "mc",
+    "s": "We ______ go to the park yesterday because it rained.",
+    "o": [
+     "weren't",
+     "don't",
+     "doesn't",
+     "didn't"
+    ],
+    "a": 3,
+    "ex": "go 是一般動詞，否定要用助動詞；yesterday 表過去，用 didn't，後面接原形 go。",
+    "hint": "先看 go 是哪一類動詞，再看時間詞 yesterday 決定時態。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Emma is not like coffee.",
+     "Emma doesn't likes coffee.",
+     "Emma doesn't like coffee.",
+     "Emma don't like coffee."
+    ],
+    "a": 2,
+    "ex": "like 是一般動詞，否定要用 doesn't（主詞 Emma 為第三人稱單數），後面接原形 like。",
+    "hint": "like 是 be 動詞還是一般動詞？用了助動詞之後，動詞要用什麼形式？"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Do you tired after the long trip?",
+     "Are you tired after the long trip?",
+     "Does you tired after the long trip?",
+     "Are you tire after the long trip?"
+    ],
+    "a": 1,
+    "ex": "tired 是形容詞，問句要用 be 動詞，主詞 you 配 are，把 Are 移到句首。",
+    "hint": "tired 是動作還是狀態？狀態要用哪一類動詞來問？"
+   }
+  ]
+ },
+ {
+  "id": "G0-K02-1",
+  "b": 0,
+  "l": "K02",
+  "title": "人稱代名詞：主格、受格、所有格",
+  "formula": "主格 I・受格 me・所有格 my + N・所有代名詞 mine・反身 myself",
+  "status": "ok",
+  "intro": "為了不一直重複人名，英文用代名詞來代替。可是同一個「我」，會隨位置變成 I、me、my、mine、myself 五種樣子：放在動詞前當主詞用 I，放在動詞或介系詞後用 me，後面接名詞用 my，單獨表示「我的東西」用 mine，動作回到自己身上用 myself。只要先看代名詞「站在哪裡」，就能選對形式。",
+  "rhyme": "主格在前受格在後，所有格接名詞，mine 單獨走，self 回自己",
+  "points": [
+   {
+    "t": "主格當主詞，放在動詞前面：I, you, he, she, it, we, they。",
+    "ex": [
+     {
+      "en": "She is my best friend, and we sit together.",
+      "zh": "她是我最好的朋友，我們坐在一起。",
+      "hl": [
+       "She",
+       "we"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "受格放在動詞或介系詞（with, for, to…）後面：me, you, him, her, it, us, them。",
+    "ex": [
+     {
+      "en": "Ben often helps me with my math homework.",
+      "zh": "Ben 常常幫我寫數學作業。",
+      "hl": [
+       "me"
+      ]
+     },
+     {
+      "en": "Can you come to the movies with us?",
+      "zh": "你可以和我們一起去看電影嗎？",
+      "hl": [
+       "us"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "所有格後面一定要接名詞：my, your, his, her, its, our, their + 名詞。注意 its（它的）不是 it's（it is）。",
+    "ex": [
+     {
+      "en": "Lisa forgot her umbrella at home today.",
+      "zh": "Lisa 今天把她的雨傘忘在家裡。",
+      "hl": [
+       "her umbrella"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "所有代名詞＝所有格＋名詞，後面不再接名詞：mine, yours, his, hers, ours, theirs。",
+    "ex": [
+     {
+      "en": "This pen isn't mine. Is it yours?",
+      "zh": "這支筆不是我的，是你的嗎？",
+      "hl": [
+       "mine",
+       "yours"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "反身代名詞表示動作回到主詞自己身上，或強調「親自」：myself, yourself, himself, herself, itself, ourselves, yourselves, themselves。",
+    "ex": [
+     {
+      "en": "Kevin cut himself while he was cooking dinner.",
+      "zh": "Kevin 煮晚餐的時候割到自己。",
+      "hl": [
+       "himself"
+      ]
+     },
+     {
+      "en": "We made this birthday cake ourselves.",
+      "zh": "這個生日蛋糕是我們自己做的。",
+      "hl": [
+       "ourselves"
+      ]
+     }
+    ]
+   }
+  ],
+  "steps": [
+   "步驟 1：找出代名詞的位置：在動詞前當主詞，還是在動詞或介系詞後面？",
+   "步驟 2：當主詞用主格（I, he, they）；在動詞、介系詞後用受格（me, him, them）。",
+   "步驟 3：後面有名詞用所有格（my book）；後面沒有名詞、表示「某人的東西」用所有代名詞（mine）；動作回到自己身上用反身代名詞（myself）。",
+   "步驟 4：完成例句：I lent him my bike because his was broken, but he fixed it himself later.（我把我的腳踏車借給他，因為他的壞了，但後來他自己把它修好了。）"
+  ],
+  "compare": [
+   {
+    "a": "This is my bag.",
+    "b": "This bag is mine.",
+    "note": "my 後面要接名詞 bag；mine 本身就等於 my bag，後面不接名詞。"
+   },
+   {
+    "a": "Emma taught her.",
+    "b": "Emma taught herself.",
+    "note": "her 是教別的女生；herself 是 Emma 自己教自己（自學）。"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Me and Tom are classmates.",
+    "right": "Tom and I are classmates.",
+    "why": "放在動詞前當主詞要用主格 I，而且習慣把 I 放在別人後面。"
+   },
+   {
+    "wrong": "Mr. Lin gave the books to Amy and I.",
+    "right": "Mr. Lin gave the books to Amy and me.",
+    "why": "介系詞 to 後面要用受格 me。"
+   },
+   {
+    "wrong": "The dog is wagging it's tail.",
+    "right": "The dog is wagging its tail.",
+    "why": "表示「它的」用所有格 its；it's 是 it is 的縮寫。"
+   }
+  ],
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Mia and ______ are in the same class this year.",
+    "o": [
+     "me",
+     "I",
+     "my",
+     "mine"
+    ],
+    "a": 1,
+    "ex": "Mia and ___ 是句子的主詞，要用主格 I。",
+    "hint": "這個空格在動詞 are 前面，是做主詞還是受詞？"
+   },
+   {
+    "type": "mc",
+    "s": "Ken is looking for his keys. Have you seen ______?",
+    "o": [
+     "it",
+     "they",
+     "their",
+     "them"
+    ],
+    "a": 3,
+    "ex": "keys 是複數，放在動詞 seen 後當受詞，用受格 them。",
+    "hint": "代替的是單數還是複數名詞？它在動詞前還是動詞後？"
+   },
+   {
+    "type": "mc",
+    "s": "That red jacket isn't Lisa's. ______ is blue.",
+    "o": [
+     "Hers",
+     "Her",
+     "She",
+     "Herself"
+    ],
+    "a": 0,
+    "ex": "空格後沒有名詞，要表示「她的（外套）」，用所有代名詞 Hers。",
+    "hint": "空格後面有沒有名詞？沒有名詞時，「她的」要用哪一種形式？"
+   },
+   {
+    "type": "mc",
+    "s": "Be careful with the knife, or you might hurt ______.",
+    "o": [
+     "you",
+     "your",
+     "yourself",
+     "yours"
+    ],
+    "a": 2,
+    "ex": "傷到的是主詞 you 自己，動作回到自己身上，用反身代名詞 yourself。",
+    "hint": "受傷的人和做動作的人是不是同一個？"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "This is mine notebook, not yours.",
+     "This notebook is my, not your.",
+     "This is my notebook, not your.",
+     "This notebook is mine, not yours."
+    ],
+    "a": 3,
+    "ex": "後面沒有名詞時用所有代名詞 mine, yours；mine 後面不能再接 notebook，my 和 your 後面則一定要接名詞。",
+    "hint": "檢查每個「的」後面有沒有名詞，再決定用 my 還是 mine。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Him and his sister walk to school together.",
+     "He and his sister walk to school together.",
+     "He and him sister walk to school together.",
+     "His and his sister walk to school together."
+    ],
+    "a": 1,
+    "ex": "句首當主詞用主格 He；「他的姊姊」用所有格 his + sister。",
+    "hint": "主詞要用哪一格？名詞 sister 前面要用哪一格？"
+   }
+  ]
+ },
+ {
+  "id": "G0-K03-1",
+  "b": 0,
+  "l": "K03",
+  "title": "名詞複數與冠詞 a / an / the",
+  "formula": "一個 → a / an + 單數 N　；兩個以上 → N-s / N-es　；特定的 → the + N",
+  "status": "ok",
+  "intro": "中文說「一本書、三本書」，書本身不變；英文卻要把 book 改成 books，前面還常要加 a、an 或 the。很多同學寫作文時漏掉 -s 或冠詞，句子就被扣分。這張卡帶你複習：名詞怎麼變複數、什麼時候用 a 或 an（看發音）、什麼時候用 the（雙方都知道是哪一個）。可數與不可數名詞的細節，另有一張卡專門介紹。",
+  "rhyme": "一個用 a，母音用 an，特定的那個用 the，兩個以上加 s",
+  "points": [
+   {
+    "t": "大部分名詞直接加 -s；字尾是 s, x, sh, ch 加 -es；子音 + y 改 y 為 i 再加 -es。",
+    "ex": [
+     {
+      "en": "I bought two boxes of cookies for my classmates.",
+      "zh": "我買了兩盒餅乾給我的同學。",
+      "hl": [
+       "boxes",
+       "cookies",
+       "classmates"
+      ]
+     },
+     {
+      "en": "There are many libraries in our city.",
+      "zh": "我們的城市裡有很多圖書館。",
+      "hl": [
+       "libraries"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "有些名詞的複數不規則，要直接背：man → men, woman → women, child → children, foot → feet, tooth → teeth, mouse → mice。",
+    "ex": [
+     {
+      "en": "The children are playing games in the park.",
+      "zh": "孩子們正在公園裡玩遊戲。",
+      "hl": [
+       "children"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "a 和 an 都表示「一個」，用在單數可數名詞前面。看下一個字的「發音」：子音開頭用 a，母音（a, e, i, o, u 的音）開頭用 an。",
+    "ex": [
+     {
+      "en": "Tom eats an egg and a banana every morning.",
+      "zh": "Tom 每天早上吃一顆蛋和一根香蕉。",
+      "hl": [
+       "an egg",
+       "a banana"
+      ]
+     },
+     {
+      "en": "We waited for an hour at the bus stop.",
+      "zh": "我們在公車站等了一個小時。",
+      "hl": [
+       "an hour"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "the 表示「那個」，用在說話雙方都知道是哪一個的時候：前面提過的、只有一個的（the sun）、或後面有說明是哪一個的。",
+    "ex": [
+     {
+      "en": "I have a cat. The cat likes to sleep on my bed.",
+      "zh": "我養了一隻貓，那隻貓喜歡睡在我床上。",
+      "hl": [
+       "a cat",
+       "The cat"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "單數可數名詞不能單獨出現，前面要有 a / an / the 或 my, this 等字；泛指一類東西時，常用複數且不加 the。",
+    "ex": [
+     {
+      "en": "Emma loves dogs, and she wants a puppy.",
+      "zh": "Emma 很喜歡狗，她想要一隻小狗。",
+      "hl": [
+       "dogs",
+       "a puppy"
+      ]
+     }
+    ]
+   }
+  ],
+  "steps": [
+   "步驟 1：先看名詞是一個還是兩個以上。兩個以上就改成複數，注意 -es、-ies 和不規則變化。",
+   "步驟 2：如果是單數可數名詞，前面不能空著，要加冠詞或 my, this 等字。",
+   "步驟 3：決定冠詞：第一次提到、不特定的用 a / an（看發音決定）；雙方都知道是哪一個的用 the。",
+   "步驟 4：完成例句：Ben bought an umbrella and two books. The umbrella is blue.（Ben 買了一把傘和兩本書，那把傘是藍色的。）"
+  ],
+  "compare": [
+   {
+    "a": "a university",
+    "b": "an umbrella",
+    "note": "university 開頭發 /j/ 的子音（念起來像 you），用 a；umbrella 開頭是母音 /ʌ/，用 an。看發音，不看字母。"
+   },
+   {
+    "a": "Can you open a window?",
+    "b": "Can you open the window?",
+    "note": "a window 是隨便哪一扇都可以；the window 是雙方都知道的那一扇。"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I have three brother.",
+    "right": "I have three brothers.",
+    "why": "three 表示多於一個，brother 要改成複數 brothers。"
+   },
+   {
+    "wrong": "She is a honest girl.",
+    "right": "She is an honest girl.",
+    "why": "honest 的 h 不發音，開頭是母音，要用 an。"
+   },
+   {
+    "wrong": "My father is teacher.",
+    "right": "My father is a teacher.",
+    "why": "teacher 是單數可數名詞，前面要加 a。"
+   }
+  ],
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Leo brushes his ______ twice a day.",
+    "o": [
+     "tooth",
+     "teeth",
+     "tooths",
+     "teeths"
+    ],
+    "a": 1,
+    "ex": "刷的是整排牙齒，用複數；tooth 的複數是不規則的 teeth。",
+    "hint": "刷牙刷幾顆？tooth 的複數是規則還是不規則變化？"
+   },
+   {
+    "type": "mc",
+    "s": "Mia wants to buy ______ new phone for her mother.",
+    "o": [
+     "an",
+     "two",
+     "a",
+     "some"
+    ],
+    "a": 2,
+    "ex": "phone 是單數可數名詞，第一次提到、不特定，用 a；new 開頭是子音，所以不用 an。",
+    "hint": "看冠詞後面緊接的那個字的開頭發音。"
+   },
+   {
+    "type": "mc",
+    "s": "Kevin is reading ______ interesting story about a brave dog.",
+    "o": [
+     "a",
+     "an",
+     "two",
+     "some"
+    ],
+    "a": 1,
+    "ex": "story 是單數，第一次提到用不定冠詞；interesting 開頭是母音，用 an。",
+    "hint": "冠詞後面緊接的不是 story，而是哪個字？它的開頭是什麼音？"
+   },
+   {
+    "type": "mc",
+    "s": "I lost a pen yesterday, but I found ______ pen under my desk today.",
+    "o": [
+     "the",
+     "a",
+     "an",
+     "two"
+    ],
+    "a": 0,
+    "ex": "第二次提到的是前面那支筆，雙方都知道是哪一支，用 the。",
+    "hint": "後面這支筆是不是前面提過的那支？"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "There are five bus at the station.",
+     "There are five buss at the station.",
+     "There are five buses at the station.",
+     "There are five busies at the station."
+    ],
+    "a": 2,
+    "ex": "five 表示多個，bus 字尾是 s，複數要加 -es，變成 buses。",
+    "hint": "字尾是 s 的名詞，複數要加什麼？"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Lisa has a orange and an apples.",
+     "Lisa has an orange and two apples.",
+     "Lisa has an orange and two apple.",
+     "Lisa has orange and two apples."
+    ],
+    "a": 1,
+    "ex": "orange 開頭是母音用 an；two 後面接複數 apples。少了冠詞、an 接複數或 two 接單數都不對。",
+    "hint": "逐一檢查：冠詞配合發音了嗎？數量和名詞單複數一致嗎？"
+   }
+  ]
+ },
+ {
+  "id": "G0-K04-1",
+  "b": 0,
+  "l": "K04",
+  "title": "助動詞 can / must / should / may",
+  "formula": "主詞 + can・must・should・may + 原形 V　；否定加 not　；問句把助動詞移到句首",
+  "status": "ok",
+  "intro": "想說「我會游泳」「你應該早點睡」「我可以進來嗎？」，就要用助動詞。can（能夠、可以）、must（必須）、should（應該）、may（可以、可能）都放在主要動詞前面，替句子加上「能力、義務、建議、許可」的意思。好消息是它們的規則一模一樣：後面一律接原形動詞，不管主詞是誰都不加 -s，否定直接加 not，問句把助動詞搬到最前面。",
+  "rhyme": "助動詞後接原形，主詞是誰都不變形",
+  "points": [
+   {
+    "t": "can 表示能力（會）或許可（可以）；否定是 cannot / can't。",
+    "ex": [
+     {
+      "en": "Amy can play the guitar very well.",
+      "zh": "Amy 吉他彈得很好。",
+      "hl": [
+       "can play"
+      ]
+     },
+     {
+      "en": "Sorry, I can't go to your party on Saturday.",
+      "zh": "抱歉，我星期六不能去你的派對。",
+      "hl": [
+       "can't go"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "must 表示「必須」，語氣很強，多用在規定；must not / mustn't 表示「禁止」。",
+    "ex": [
+     {
+      "en": "Students must wear uniforms at our school.",
+      "zh": "我們學校的學生必須穿制服。",
+      "hl": [
+       "must wear"
+      ]
+     },
+     {
+      "en": "You mustn't use your phone during the test.",
+      "zh": "考試時你不可以使用手機。",
+      "hl": [
+       "mustn't use"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "should 表示「應該」，用來給建議；否定是 should not / shouldn't。",
+    "ex": [
+     {
+      "en": "You look tired. You should go to bed early.",
+      "zh": "你看起來很累，你應該早點睡。",
+      "hl": [
+       "should go"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "may 表示禮貌的許可（可以），或沒把握的推測（可能）。",
+    "ex": [
+     {
+      "en": "May I borrow your eraser for a minute?",
+      "zh": "我可以借用一下你的橡皮擦嗎？",
+      "hl": [
+       "May",
+       "borrow"
+      ]
+     },
+     {
+      "en": "Take an umbrella. It may rain this afternoon.",
+      "zh": "帶把傘吧，今天下午可能會下雨。",
+      "hl": [
+       "may rain"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "共同規則：助動詞後面接原形動詞，主詞是第三人稱單數也不加 -s；一個句子不能連用兩個助動詞，也不用 do / does 幫忙。",
+    "ex": [
+     {
+      "en": "Ben should study harder for the math test.",
+      "zh": "Ben 應該更用功準備數學考試。",
+      "hl": [
+       "should study"
+      ]
+     }
+    ]
+   }
+  ],
+  "steps": [
+   "步驟 1：先決定要表達的意思：能力或許可用 can，必須用 must，建議用 should，禮貌請求或推測用 may。",
+   "步驟 2：把助動詞放在主詞後面，接著寫原形動詞，不加 -s、-ed 或 -ing。",
+   "步驟 3：否定在助動詞後面加 not；問句把助動詞移到主詞前面，不要再加 do / does。",
+   "步驟 4：完成例句：Kevin can swim, but he should not swim alone in the river.（Kevin 會游泳，但他不應該獨自在河裡游泳。）Can Kevin swim?"
+  ],
+  "compare": [
+   {
+    "a": "She can speaks English.（錯）",
+    "b": "She can speak English.",
+    "note": "助動詞 can 後面要用原形 speak，主詞 She 也不讓動詞加 -s。"
+   },
+   {
+    "a": "You must not run in the hallway.",
+    "b": "You should not eat too much candy.",
+    "note": "must not 是「禁止」，語氣強；should not 是「最好不要」，是建議。"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "He musts finish his report today.",
+    "right": "He must finish his report today.",
+    "why": "助動詞 must 不隨主詞變化，不加 -s。"
+   },
+   {
+    "wrong": "Do you can ride a bike?",
+    "right": "Can you ride a bike?",
+    "why": "有助動詞 can 就不需要 do，直接把 Can 移到句首。"
+   },
+   {
+    "wrong": "You should to drink more water.",
+    "right": "You should drink more water.",
+    "why": "should 後面直接接原形動詞，不加 to。"
+   }
+  ],
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Emma can ______ three languages.",
+    "o": [
+     "speaks",
+     "speaking",
+     "to speak",
+     "speak"
+    ],
+    "a": 3,
+    "ex": "助動詞 can 後面接原形動詞 speak。",
+    "hint": "助動詞後面的動詞要用什麼形式？主詞會不會影響它？"
+   },
+   {
+    "type": "mc",
+    "s": "It's late, Tom. You ______ go to bed now.",
+    "o": [
+     "should",
+     "shouldn't",
+     "can't",
+     "mustn't"
+    ],
+    "a": 0,
+    "ex": "時間很晚了，給對方建議「應該去睡覺」，用 should。",
+    "hint": "說話者是在給建議、表示禁止，還是在猜測？"
+   },
+   {
+    "type": "mc",
+    "s": "Look at the sign. You ______ swim here. It's dangerous.",
+    "o": [
+     "should",
+     "can",
+     "must not",
+     "may"
+    ],
+    "a": 2,
+    "ex": "告示牌說危險，表示禁止游泳，用 must not。",
+    "hint": "告示牌加上 It's dangerous，是允許還是禁止？"
+   },
+   {
+    "type": "mc",
+    "s": "______ I use the bathroom, Mr. Wang?",
+    "o": [
+     "Must",
+     "May",
+     "Do",
+     "Should"
+    ],
+    "a": 1,
+    "ex": "學生禮貌地向老師請求許可，用 May I…?。",
+    "hint": "這句話是在請求老師的允許，哪個助動詞最有禮貌？"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Does Lisa can cook dinner by herself?",
+     "Can Lisa cook dinner by herself?",
+     "Can Lisa cooks dinner by herself?",
+     "Lisa can cooks dinner by herself?"
+    ],
+    "a": 1,
+    "ex": "有助動詞 can 時，問句把 Can 移到句首，後面接原形 cook，不再用 Does。",
+    "hint": "有助動詞的句子變問句，需要 do / does 嗎？動詞要用什麼形式？"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Ken shoulds not stay up so late.",
+     "Ken should not to stay up so late.",
+     "Ken doesn't should stay up so late.",
+     "Ken should not stay up so late."
+    ],
+    "a": 3,
+    "ex": "否定直接在 should 後加 not，再接原形 stay；should 不加 -s，也不加 to 或 doesn't。",
+    "hint": "助動詞的否定要放在哪裡？助動詞本身會不會變化？"
+   }
+  ]
+ },
+ {
+  "id": "G0-K05-1",
+  "b": 0,
+  "l": "K05",
+  "title": "疑問詞問句 what / who / where / when / why / how",
+  "formula": "疑問詞 + be 動詞 + 主詞？　／　疑問詞 + do・does・did + 主詞 + 原形 V？",
+  "status": "ok",
+  "intro": "Yes / No 問句只能得到「是」或「不是」，想知道「什麼、誰、在哪裡、什麼時候、為什麼、怎麼樣」，就要用疑問詞問句。做法很簡單：先把句子變成一般問句，再把疑問詞放到最前面。回答時要看清楚對方問的是哪一個疑問詞，問 where 就答地點、問 when 就答時間。how many、how much、how often 等組合也常考，要分清楚。間接問句（Do you know where he lives?）另有專卡介紹。",
+  "rhyme": "疑問詞放最前，後面照問句排",
+  "points": [
+   {
+    "t": "what 問「什麼」，who 問「誰」，where 問「哪裡」，when 問「什麼時候」，why 問「為什麼」（常用 because 回答），how 問「怎麼樣、如何」。",
+    "ex": [
+     {
+      "en": "Where is your school? It's near the train station.",
+      "zh": "你的學校在哪裡？在火車站附近。",
+      "hl": [
+       "Where"
+      ]
+     },
+     {
+      "en": "Why are you late? Because I missed the bus.",
+      "zh": "你為什麼遲到？因為我錯過公車了。",
+      "hl": [
+       "Why",
+       "Because"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "句型：疑問詞 + 一般問句。be 動詞句用「疑問詞 + is / are + 主詞」；一般動詞句用「疑問詞 + do / does / did + 主詞 + 原形動詞」。",
+    "ex": [
+     {
+      "en": "What does Amy usually eat for breakfast?",
+      "zh": "Amy 早餐通常吃什麼？",
+      "hl": [
+       "What does",
+       "eat"
+      ]
+     },
+     {
+      "en": "When did you get home last night?",
+      "zh": "你昨晚什麼時候到家的？",
+      "hl": [
+       "When did",
+       "get"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "who 當主詞（問「誰做了這件事」）時，後面直接接動詞，不用 do / does / did，現在式動詞用第三人稱單數。",
+    "ex": [
+     {
+      "en": "Who broke the window in our classroom?",
+      "zh": "誰打破了我們教室的窗戶？",
+      "hl": [
+       "Who broke"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "how many + 可數名詞複數問「數量」；how much 問「不可數名詞的量」或「價錢」。",
+    "ex": [
+     {
+      "en": "How many students are there in your class?",
+      "zh": "你們班上有多少個學生？",
+      "hl": [
+       "How many students"
+      ]
+     },
+     {
+      "en": "How much is this T-shirt with the school logo?",
+      "zh": "這件印有校徽的 T 恤多少錢？",
+      "hl": [
+       "How much"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "how often 問「多久一次」（答 every day, twice a week）；how long 問「多久時間」；how old 問年紀；how far 問距離。",
+    "ex": [
+     {
+      "en": "How often do you go to the gym? Twice a week.",
+      "zh": "你多久去一次健身房？一週兩次。",
+      "hl": [
+       "How often"
+      ]
+     }
+    ]
+   }
+  ],
+  "steps": [
+   "步驟 1：先看你想問的是什麼資訊，或看答句提供了什麼（地點、時間、原因、數量、頻率…），選出對應的疑問詞。",
+   "步驟 2：把原本的句子改成一般問句：be 動詞移到主詞前，或加上 do / does / did 並把動詞改回原形。",
+   "步驟 3：把疑問詞放在最前面；如果問的就是主詞（誰做的），直接用「Who + 動詞」。",
+   "步驟 4：完成例句：Leo goes swimming every Sunday. → How often does Leo go swimming?（Leo 多久去游泳一次？）"
+  ],
+  "compare": [
+   {
+    "a": "How many books do you have?",
+    "b": "How much water do you drink?",
+    "note": "books 是可數名詞複數，用 how many；water 不可數，用 how much。"
+   },
+   {
+    "a": "How often do you play tennis?",
+    "b": "How long do you play tennis?",
+    "note": "how often 問「多久一次」（每週兩次）；how long 問「一次多長時間」（一個小時）。"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Where you live?",
+    "right": "Where do you live?",
+    "why": "live 是一般動詞，疑問詞後面要加 do 才能形成問句。"
+   },
+   {
+    "wrong": "What time does the movie starts?",
+    "right": "What time does the movie start?",
+    "why": "已經用了 does，後面的動詞要用原形 start。"
+   },
+   {
+    "wrong": "How much apples do you need?",
+    "right": "How many apples do you need?",
+    "why": "apples 是可數名詞複數，問數量要用 how many。"
+   }
+  ],
+  "qs": [
+   {
+    "type": "mc",
+    "s": "A: ______ is your birthday? B: It's on May 5.",
+    "o": [
+     "Where",
+     "When",
+     "Who",
+     "Why"
+    ],
+    "a": 1,
+    "ex": "答句回答日期，問「什麼時候」用 When。",
+    "hint": "看答句提供的是什麼資訊：地點、時間、人，還是原因？"
+   },
+   {
+    "type": "mc",
+    "s": "A: ______ does Mia go to the library? B: Three times a week.",
+    "o": [
+     "How long",
+     "How many",
+     "How much",
+     "How often"
+    ],
+    "a": 3,
+    "ex": "Three times a week 表示頻率，問「多久一次」用 How often。",
+    "hint": "答句說的是時間長短、數量，還是次數頻率？"
+   },
+   {
+    "type": "mc",
+    "s": "What ______ Ken do after school yesterday?",
+    "o": [
+     "did",
+     "does",
+     "was",
+     "is"
+    ],
+    "a": 0,
+    "ex": "do 是一般動詞，問句需要助動詞；yesterday 表過去，用 did。",
+    "hint": "句中的 do 是主要動詞，還需要哪個助動詞？再看時間詞。"
+   },
+   {
+    "type": "mc",
+    "s": "A: ______ milk do we need for the cake? B: Two cups.",
+    "o": [
+     "How many",
+     "How much",
+     "How often",
+     "How old"
+    ],
+    "a": 1,
+    "ex": "milk 是不可數名詞，問「量」用 How much。",
+    "hint": "milk 可以一個一個數嗎？"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Where Kevin does live now?",
+     "Where does Kevin lives now?",
+     "Where does Kevin live now?",
+     "Where is Kevin live now?"
+    ],
+    "a": 2,
+    "ex": "疑問詞 Where 後接 does + 主詞 Kevin + 原形 live；不能用 is，does 後也不能用 lives。",
+    "hint": "疑問詞後面要照一般問句的順序排：助動詞、主詞、原形動詞。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Who did ate my sandwich on the table?",
+     "Who ate my sandwich on the table?",
+     "Who does ate my sandwich on the table?",
+     "Who eat my sandwich on the table?"
+    ],
+    "a": 1,
+    "ex": "Who 是句子的主詞（誰吃了），後面直接接過去式動詞 ate，不需要 did 或 does。",
+    "hint": "這裡的 Who 是在問做動作的人，也就是主詞。主詞後面直接接什麼？"
+   }
+  ]
+ },
+ {
+  "id": "G0-K06-1",
+  "b": 0,
+  "l": "K06",
+  "title": "There is / There are",
+  "formula": "There is + 單數／不可數名詞　／　There are + 複數名詞",
+  "status": "ok",
+  "intro": "想說「桌上有一本書」「教室裡有三十個學生」，英文不說 The desk has a book，而是用 There is / There are 表示「某地方有某東西」。be 動詞要看後面的名詞決定：單數或不可數用 is，複數用 are。學會這個句型，描述教室、房間、街道都很方便，也是作文開頭常用的句子。",
+  "rhyme": "某處有某物，There is 配單數，There are 配複數",
+  "points": [
+   {
+    "t": "There is + 單數名詞（a / an + 名詞），表示「某處有一個…」，口語常縮寫成 There's。",
+    "ex": [
+     {
+      "en": "There is a cat under the table in the kitchen.",
+      "zh": "廚房的桌子底下有一隻貓。",
+      "hl": [
+       "There is"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "There are + 複數名詞，表示「某處有好幾個…」。",
+    "ex": [
+     {
+      "en": "There are thirty students in our English class.",
+      "zh": "我們的英文班上有三十個學生。",
+      "hl": [
+       "There are"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "不可數名詞（water, milk, money, time 等）當單數看，用 There is，前面常加 some, a lot of, a little。",
+    "ex": [
+     {
+      "en": "There is some milk in the fridge for breakfast.",
+      "zh": "冰箱裡有一些牛奶可以當早餐。",
+      "hl": [
+       "There is",
+       "some milk"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "否定句在 is / are 後面加 not，常和 any 或 no 搭配：There isn't any…、There aren't any…、There is no…。",
+    "ex": [
+     {
+      "en": "There aren't any chairs in the new classroom yet.",
+      "zh": "新教室裡還沒有任何椅子。",
+      "hl": [
+       "There aren't any"
+      ]
+     },
+     {
+      "en": "There is no water in my bottle now.",
+      "zh": "我的水壺裡現在沒有水了。",
+      "hl": [
+       "There is no"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "疑問句把 is / are 移到 There 前面：Is there…? / Are there…? 回答用 Yes, there is. / No, there aren't.；問數量用 How many + 複數名詞 + are there…?。",
+    "ex": [
+     {
+      "en": "Are there any good restaurants near your school?",
+      "zh": "你們學校附近有好吃的餐廳嗎？",
+      "hl": [
+       "Are there any"
+      ]
+     },
+     {
+      "en": "How many people are there in your family?",
+      "zh": "你家有幾個人？",
+      "hl": [
+       "How many people are there"
+      ]
+     }
+    ]
+   }
+  ],
+  "steps": [
+   "步驟 1：找出「有什麼東西」，也就是 There is / are 後面的名詞。",
+   "步驟 2：判斷名詞是單數、複數，還是不可數。單數或不可數用 is，複數用 are；若有好幾樣東西，看最靠近的第一個名詞。",
+   "步驟 3：要否定就在 is / are 後加 not（常配 any）；要問問題就把 is / are 移到 There 前面。",
+   "步驟 4：完成例句：There is a pen and two books on my desk.（我的書桌上有一支筆和兩本書。）第一個名詞 a pen 是單數，所以用 is。"
+  ],
+  "compare": [
+   {
+    "a": "There is a park near my home.",
+    "b": "My home has a park.（不自然）",
+    "note": "表示「某地方有某東西」用 There is / are；have 多用在人「擁有」東西，例如 I have a bike."
+   },
+   {
+    "a": "There is some juice in the cup.",
+    "b": "There are some apples in the box.",
+    "note": "juice 不可數用 is；apples 是複數用 are。some 不能決定單複數，要看後面的名詞。"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "There is many people in the park today.",
+    "right": "There are many people in the park today.",
+    "why": "people 是複數名詞，要用 There are。"
+   },
+   {
+    "wrong": "There are some water in the bottle.",
+    "right": "There is some water in the bottle.",
+    "why": "water 是不可數名詞，當單數看，用 There is。"
+   },
+   {
+    "wrong": "Is there any cookies in the box?",
+    "right": "Are there any cookies in the box?",
+    "why": "cookies 是複數，疑問句要用 Are there。"
+   }
+  ],
+  "qs": [
+   {
+    "type": "mc",
+    "s": "There ______ two new students in our class this year.",
+    "o": [
+     "is",
+     "are",
+     "has",
+     "have"
+    ],
+    "a": 1,
+    "ex": "two new students 是複數名詞，用 There are。",
+    "hint": "先看 There 後面的名詞是單數還是複數。"
+   },
+   {
+    "type": "mc",
+    "s": "There ______ a lot of rice in the pot.",
+    "o": [
+     "are",
+     "have",
+     "be",
+     "is"
+    ],
+    "a": 3,
+    "ex": "rice 是不可數名詞，雖然前面有 a lot of，仍當單數看，用 There is。",
+    "hint": "rice 可不可以一粒一粒數？不可數名詞要用哪個 be 動詞？"
+   },
+   {
+    "type": "mc",
+    "s": "— ______ there a bookstore near the station? — Yes, there is.",
+    "o": [
+     "Is",
+     "Are",
+     "Does",
+     "Do"
+    ],
+    "a": 0,
+    "ex": "a bookstore 是單數，疑問句用 Is there…?，回答也是 Yes, there is.",
+    "hint": "There is / are 的疑問句不用 do，看名詞和回答決定 be 動詞。"
+   },
+   {
+    "type": "mc",
+    "s": "How many eggs ______ in the fridge?",
+    "o": [
+     "is there",
+     "there is",
+     "are there",
+     "there are"
+    ],
+    "a": 2,
+    "ex": "How many + 複數名詞 + are there…? 是問數量的句型，問句中 be 動詞要放在 there 前面。",
+    "hint": "這是問句，be 動詞和 there 的順序要怎麼排？eggs 是單數還是複數？"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "There are a big tree in front of our school.",
+     "There has a big tree in front of our school.",
+     "There is a big tree in front of our school.",
+     "There have a big tree in front of our school."
+    ],
+    "a": 2,
+    "ex": "a big tree 是單數，用 There is；There 句型不能用 has / have。",
+    "hint": "There 後面只能接哪一種動詞？再看名詞是單數還是複數。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "There isn't any bread on the plate.",
+     "There aren't any bread on the plate.",
+     "There isn't any breads on the plate.",
+     "There not is any bread on the plate."
+    ],
+    "a": 0,
+    "ex": "bread 是不可數名詞，不加 s，用 There isn't any bread；not 要放在 is 後面。",
+    "hint": "bread 可數嗎？否定句的 not 要放在 be 動詞前面還是後面？"
+   }
+  ]
+ },
+ {
+  "id": "G0-K07-1",
+  "b": 0,
+  "l": "K07",
+  "title": "時間與地點介系詞 in / on / at",
+  "formula": "at 點　／　on 天、平面　／　in 長時間、空間裡面",
+  "status": "ok",
+  "intro": "「在七點」「在星期一」「在七月」中文都說「在」，英文卻要分 at、on、in。記住一個大原則：範圍越小用 at，一天或一個平面用 on，範圍大或在裡面用 in。時間和地點都照這個邏輯，學會後就能正確說出約會時間、生日和住的地方。",
+  "rhyme": "at 一個點，on 一整天，in 一大段",
+  "points": [
+   {
+    "t": "時間 at：用在幾點幾分、某個時間點，例如 at seven, at noon, at night, at lunchtime。",
+    "ex": [
+     {
+      "en": "Our first class starts at eight o'clock.",
+      "zh": "我們第一節課八點開始。",
+      "hl": [
+       "at eight o'clock"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "時間 on：用在星期幾、日期、特定的某一天，例如 on Monday, on May 5, on my birthday, on Sunday morning。",
+    "ex": [
+     {
+      "en": "Ben plays basketball with his friends on Saturday.",
+      "zh": "Ben 星期六和朋友打籃球。",
+      "hl": [
+       "on Saturday"
+      ]
+     },
+     {
+      "en": "We had a party on my birthday last year.",
+      "zh": "去年我生日那天我們辦了派對。",
+      "hl": [
+       "on my birthday"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "時間 in：用在月份、季節、年份和一天中的早上、下午、晚上，例如 in July, in summer, in 2025, in the morning。",
+    "ex": [
+     {
+      "en": "Lisa usually reads English books in the morning.",
+      "zh": "Lisa 通常在早上讀英文書。",
+      "hl": [
+       "in the morning"
+      ]
+     },
+     {
+      "en": "It is very hot in Taiwan in July.",
+      "zh": "台灣七月很熱。",
+      "hl": [
+       "in July"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "地點 at：用在一個「點」或特定地址、場所，例如 at the bus stop, at school, at home, at the door。",
+    "ex": [
+     {
+      "en": "I will wait for you at the bus stop.",
+      "zh": "我會在公車站等你。",
+      "hl": [
+       "at the bus stop"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "地點 on 和 in：在平面「上面」用 on（on the desk, on the wall, on the second floor）；在空間「裡面」或城市、國家用 in（in the box, in the classroom, in Taipei）。",
+    "ex": [
+     {
+      "en": "There is a map of Taiwan on the wall.",
+      "zh": "牆上有一張台灣地圖。",
+      "hl": [
+       "on the wall"
+      ]
+     },
+     {
+      "en": "Kevin lives with his grandparents in Tainan.",
+      "zh": "Kevin 和祖父母住在台南。",
+      "hl": [
+       "in Tainan"
+      ]
+     }
+    ]
+   }
+  ],
+  "steps": [
+   "步驟 1：先判斷是「時間」還是「地點」。",
+   "步驟 2：時間：幾點用 at，某一天（星期、日期、生日）用 on，月份、季節、年份、早上下午晚上用 in。",
+   "步驟 3：地點：一個點或場所用 at，平面上用 on，空間裡面或城市國家用 in。注意 at night 和 in the morning 是固定說法。",
+   "步驟 4：完成例句：Let's meet at the station at six on Friday.（我們星期五六點在車站見。）車站是一個點用 at，六點用 at，星期五用 on。"
+  ],
+  "compare": [
+   {
+    "a": "in the morning",
+    "b": "on Monday morning",
+    "note": "一般的早上用 in；加上特定哪一天就變成「某一天」，改用 on。"
+   },
+   {
+    "a": "The keys are on the table.",
+    "b": "The keys are in the drawer.",
+    "note": "桌面是平面，用 on；抽屜是空間裡面，用 in。"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "I was born on 2008.",
+    "right": "I was born in 2008.",
+    "why": "年份是一大段時間，用 in；只有特定日期才用 on，例如 on May 5, 2008。"
+   },
+   {
+    "wrong": "The movie starts in seven thirty.",
+    "right": "The movie starts at seven thirty.",
+    "why": "幾點幾分是時間點，用 at。"
+   },
+   {
+    "wrong": "We don't have class in Sunday.",
+    "right": "We don't have class on Sunday.",
+    "why": "星期幾是某一天，用 on。"
+   }
+  ],
+  "qs": [
+   {
+    "type": "mc",
+    "s": "My mom gets up ______ six every morning.",
+    "o": [
+     "in",
+     "on",
+     "at",
+     "for"
+    ],
+    "a": 2,
+    "ex": "six 是幾點，時間點用 at。",
+    "hint": "這是一個時間點、一天，還是一大段時間？"
+   },
+   {
+    "type": "mc",
+    "s": "Emma's birthday is ______ October.",
+    "o": [
+     "in",
+     "on",
+     "at",
+     "to"
+    ],
+    "a": 0,
+    "ex": "October 是月份，月份用 in。",
+    "hint": "月份屬於「點」「一天」還是「一大段時間」？"
+   },
+   {
+    "type": "mc",
+    "s": "We are going to the beach ______ Sunday afternoon.",
+    "o": [
+     "in",
+     "at",
+     "for",
+     "on"
+    ],
+    "a": 3,
+    "ex": "雖然有 afternoon，但前面加了 Sunday，變成特定某一天的下午，用 on。",
+    "hint": "afternoon 前面多了什麼字？加上它之後變成哪一種時間？"
+   },
+   {
+    "type": "mc",
+    "s": "Tom put his phone ______ the kitchen table.",
+    "o": [
+     "at",
+     "on",
+     "in",
+     "to"
+    ],
+    "a": 1,
+    "ex": "手機放在餐桌表面上，平面用 on。",
+    "hint": "手機是在桌子的表面上，還是在某個空間裡面？"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Mia studies at the library in night.",
+     "Mia studies in the library on night.",
+     "Mia studies on the library at night.",
+     "Mia studies at the library at night."
+    ],
+    "a": 3,
+    "ex": "at night 是固定說法；at the library 表示在圖書館這個場所。in night 和 on night 都不對，on the library 意思是在圖書館屋頂上。",
+    "hint": "「在晚上」是固定搭配，先找出它正確的介系詞。"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Leo moved to Kaohsiung on 2020.",
+     "Leo moved to Kaohsiung in 2020.",
+     "Leo moved to Kaohsiung at 2020.",
+     "Leo moved to Kaohsiung in May 3."
+    ],
+    "a": 1,
+    "ex": "年份用 in，所以 in 2020 正確；特定日期 May 3 要用 on。",
+    "hint": "年份和特定日期各用哪個介系詞？"
+   }
+  ]
+ },
+ {
+  "id": "G0-K08-1",
+  "b": 0,
+  "l": "K08",
+  "title": "頻率副詞與位置",
+  "formula": "be 動詞／助動詞 + 頻率副詞　／　頻率副詞 + 一般動詞",
+  "status": "ok",
+  "intro": "「我總是準時」「他從不遲到」「我們有時候去看電影」，這些「多常做」的字就是頻率副詞。常用的有 always（總是）、usually（通常）、often（常常）、sometimes（有時）、seldom（很少）、never（從不）。重點有兩個：一是分清楚頻率高低，二是放對位置——放在 be 動詞和助動詞後面、一般動詞前面。",
+  "rhyme": "be 後、助後、一般動詞前",
+  "points": [
+   {
+    "t": "頻率由高到低：always（100%）> usually > often > sometimes > seldom > never（0%）。",
+    "ex": [
+     {
+      "en": "Amy always brings her lunch box to school.",
+      "zh": "Amy 總是帶便當到學校。",
+      "hl": [
+       "always"
+      ]
+     },
+     {
+      "en": "My father never drinks coffee at night.",
+      "zh": "我爸爸晚上從不喝咖啡。",
+      "hl": [
+       "never"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "遇到一般動詞，頻率副詞放在動詞「前面」；主詞是第三人稱單數時，動詞照樣要加 -s。",
+    "ex": [
+     {
+      "en": "Ken usually takes the MRT to school.",
+      "zh": "Ken 通常搭捷運上學。",
+      "hl": [
+       "usually takes"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "遇到 be 動詞（am, is, are, was, were），頻率副詞放在 be 動詞「後面」。",
+    "ex": [
+     {
+      "en": "Lisa is always kind to her classmates.",
+      "zh": "Lisa 對同學總是很友善。",
+      "hl": [
+       "is always"
+      ]
+     },
+     {
+      "en": "The bus is often late on rainy days.",
+      "zh": "下雨天公車常常誤點。",
+      "hl": [
+       "is often"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "遇到助動詞（can, will, should, don't, doesn't 等），頻率副詞放在助動詞「後面」、原形動詞前面。",
+    "ex": [
+     {
+      "en": "I can always ask my teacher for help.",
+      "zh": "我隨時都可以向老師求助。",
+      "hl": [
+       "can always ask"
+      ]
+     },
+     {
+      "en": "Tom doesn't usually eat breakfast at home.",
+      "zh": "Tom 通常不在家吃早餐。",
+      "hl": [
+       "doesn't usually eat"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "never 和 seldom 本身就有否定意思，不要再加 not。問「多常」用 How often…?，可用 once a week, twice a month, every day 回答。",
+    "ex": [
+     {
+      "en": "How often do you go to the gym?",
+      "zh": "你多久去一次健身房？",
+      "hl": [
+       "How often"
+      ]
+     },
+     {
+      "en": "I go there twice a week after school.",
+      "zh": "我每週放學後去兩次。",
+      "hl": [
+       "twice a week"
+      ]
+     }
+    ]
+   }
+  ],
+  "steps": [
+   "步驟 1：依意思選頻率副詞：總是 always、通常 usually、常常 often、有時 sometimes、很少 seldom、從不 never。",
+   "步驟 2：看句子的動詞：有 be 動詞或助動詞，頻率副詞放在它們後面。",
+   "步驟 3：只有一般動詞時，頻率副詞放在動詞前面，動詞照樣依主詞變化（he / she 加 -s）。",
+   "步驟 4：完成例句：Emma is often tired because she seldom sleeps early.（Emma 常常很累，因為她很少早睡。）is 後面放 often，sleeps 前面放 seldom。"
+  ],
+  "compare": [
+   {
+    "a": "He is always on time.",
+    "b": "He always comes on time.",
+    "note": "有 be 動詞時放在 is 後面；一般動詞 comes 時放在動詞前面。"
+   },
+   {
+    "a": "I never eat fast food.",
+    "b": "I don't never eat fast food.（錯）",
+    "note": "never 已經是「從不」，再加 don't 就重複否定了。"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "She goes always to bed at ten.",
+    "right": "She always goes to bed at ten.",
+    "why": "goes 是一般動詞，頻率副詞要放在它前面。"
+   },
+   {
+    "wrong": "Kevin usually is busy on Mondays.",
+    "right": "Kevin is usually busy on Mondays.",
+    "why": "有 be 動詞 is 時，頻率副詞放在 is 後面。"
+   },
+   {
+    "wrong": "Mia doesn't never watch TV on weekdays.",
+    "right": "Mia never watches TV on weekdays.",
+    "why": "never 本身是否定，不能再加 doesn't；拿掉助動詞後，主詞 Mia 要用 watches。"
+   }
+  ],
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Ben ______ late for school. He gets up early every day.",
+    "o": [
+     "is always",
+     "always is",
+     "is never",
+     "never is"
+    ],
+    "a": 2,
+    "ex": "他每天早起，所以「從不」遲到；有 be 動詞 is，頻率副詞放在後面，用 is never。",
+    "hint": "先從第二句判斷意思，再想想頻率副詞和 be 動詞誰在前。"
+   },
+   {
+    "type": "mc",
+    "s": "My sister ______ her homework after dinner.",
+    "o": [
+     "usually does",
+     "does usually",
+     "usually do",
+     "usually is do"
+    ],
+    "a": 0,
+    "ex": "does 是一般動詞，頻率副詞放在前面；主詞 My sister 是第三人稱單數，用 does。",
+    "hint": "句中是一般動詞還是 be 動詞？主詞要不要讓動詞加 s？"
+   },
+   {
+    "type": "mc",
+    "s": "— ______ do you visit your grandparents? — About once a month.",
+    "o": [
+     "How many",
+     "How long",
+     "How much",
+     "How often"
+    ],
+    "a": 3,
+    "ex": "回答 once a month 是次數頻率，問「多常」用 How often。",
+    "hint": "看回答說的是數量、時間長短，還是多久一次。"
+   },
+   {
+    "type": "mc",
+    "s": "Leo likes sports very much, but he ______ plays tennis. He plays it only once a year.",
+    "o": [
+     "always",
+     "usually",
+     "seldom",
+     "often"
+    ],
+    "a": 2,
+    "ex": "一年只打一次，表示「很少」，用 seldom。",
+    "hint": "一年一次算是頻率高還是低？"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Amy can sometimes help her mom cook dinner.",
+     "Amy sometimes can helps her mom cook dinner.",
+     "Amy can helps sometimes her mom cook dinner.",
+     "Amy can sometimes helps her mom cook dinner."
+    ],
+    "a": 0,
+    "ex": "頻率副詞放在助動詞 can 後面，can 後面接原形 help。",
+    "hint": "有助動詞時頻率副詞放哪裡？助動詞後面的動詞要用什麼形式？"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "The library often is quiet in the morning.",
+     "The library is often quiet in the morning.",
+     "The library is quiet often in the morning.",
+     "Often the library quiet is in the morning."
+    ],
+    "a": 1,
+    "ex": "有 be 動詞 is 時，頻率副詞 often 放在 is 後面、形容詞 quiet 前面。",
+    "hint": "這句的動詞是 be 動詞，頻率副詞應該在它前面還是後面？"
+   }
+  ]
+ },
+ {
+  "id": "G0-K09-1",
+  "b": 0,
+  "l": "K09",
+  "title": "祈使句與 Let's",
+  "formula": "原形動詞…!　／　Don't + 原形動詞…!　／　Let's + 原形動詞…",
+  "status": "ok",
+  "intro": "老師說「請打開課本」「不要說話」，同學說「我們走吧」，這些命令、請求、提議的句子就是祈使句。祈使句沒有主詞（其實是省略了 you），直接用原形動詞開頭；否定用 Don't；想邀別人一起做用 Let's。句型很短，但動詞一定要用原形，這是最常錯的地方。",
+  "rhyme": "命令請求原形起，不要 Don't，一起 Let's",
+  "points": [
+   {
+    "t": "肯定祈使句：省略主詞 you，直接用原形動詞開頭，表示命令或指示。",
+    "ex": [
+     {
+      "en": "Open your books to page twenty, please.",
+      "zh": "請把課本翻到第二十頁。",
+      "hl": [
+       "Open"
+      ]
+     },
+     {
+      "en": "Turn off the lights when you leave the room.",
+      "zh": "離開房間時要關燈。",
+      "hl": [
+       "Turn off"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "形容詞或名詞的祈使句要用 Be 開頭，例如 Be quiet. / Be careful. / Be a good boy.",
+    "ex": [
+     {
+      "en": "Be careful when you cross the street.",
+      "zh": "過馬路時要小心。",
+      "hl": [
+       "Be careful"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "否定祈使句：Don't + 原形動詞（Don't + be + 形容詞），表示「不要…」；Never + 原形動詞語氣更強，表示「絕對不要」。",
+    "ex": [
+     {
+      "en": "Don't use your phone during the test.",
+      "zh": "考試時不要用手機。",
+      "hl": [
+       "Don't use"
+      ]
+     },
+     {
+      "en": "Don't be late for the school trip tomorrow.",
+      "zh": "明天的校外教學不要遲到。",
+      "hl": [
+       "Don't be late"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "加上 please 讓語氣更禮貌，可以放句首或句尾（句尾前加逗號）。",
+    "ex": [
+     {
+      "en": "Please write your name on the paper.",
+      "zh": "請在紙上寫下你的名字。",
+      "hl": [
+       "Please write"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "Let's（= Let us）+ 原形動詞，表示「我們一起…吧」的提議；否定是 Let's not + 原形動詞。回答常用 OK. / Good idea. / Sure.",
+    "ex": [
+     {
+      "en": "Let's go to the night market after school.",
+      "zh": "我們放學後去夜市吧。",
+      "hl": [
+       "Let's go"
+      ]
+     },
+     {
+      "en": "Let's not play games until we finish our homework.",
+      "zh": "我們寫完作業之前先別玩遊戲吧。",
+      "hl": [
+       "Let's not play"
+      ]
+     }
+    ]
+   }
+  ],
+  "steps": [
+   "步驟 1：判斷句子是要「叫人做」「叫人不要做」，還是「邀大家一起做」。",
+   "步驟 2：叫人做：原形動詞開頭；後面是形容詞時用 Be 開頭。",
+   "步驟 3：叫人不要做：Don't + 原形動詞；邀大家一起做：Let's + 原形動詞，否定用 Let's not。",
+   "步驟 4：完成例句：Don't be sad. Let's watch a funny movie together.（別難過，我們一起看部好笑的電影吧。）Don't 後接 be，Let's 後接原形 watch。"
+  ],
+  "compare": [
+   {
+    "a": "Be quiet in the library.",
+    "b": "Quiet in the library.（錯）",
+    "note": "quiet 是形容詞，不是動詞，祈使句前面要加 Be。"
+   },
+   {
+    "a": "Let's go home.",
+    "b": "Let's going home.／Let's to go home.（錯）",
+    "note": "Let's 後面只接原形動詞，不加 -ing 也不加 to。"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "Don't talking in class.",
+    "right": "Don't talk in class.",
+    "why": "Don't 後面要接原形動詞 talk。"
+   },
+   {
+    "wrong": "Not be noisy, please.",
+    "right": "Don't be noisy, please.",
+    "why": "否定祈使句用 Don't 開頭，不能只用 Not。"
+   },
+   {
+    "wrong": "Let's to have lunch together.",
+    "right": "Let's have lunch together.",
+    "why": "Let's 後面直接接原形動詞，不加 to。"
+   }
+  ],
+  "qs": [
+   {
+    "type": "mc",
+    "s": "______ your hands before you eat lunch.",
+    "o": [
+     "Washing",
+     "Washes",
+     "To wash",
+     "Wash"
+    ],
+    "a": 3,
+    "ex": "這是叫人做事的祈使句，用原形動詞 Wash 開頭。",
+    "hint": "句子沒有主詞，是在叫別人做事，開頭的動詞要用什麼形式？"
+   },
+   {
+    "type": "mc",
+    "s": "It's raining hard. ______ forget to take your umbrella.",
+    "o": [
+     "Don't",
+     "Doesn't",
+     "Not",
+     "No"
+    ],
+    "a": 0,
+    "ex": "否定祈使句用 Don't + 原形動詞，Don't forget 表示「別忘了」。",
+    "hint": "叫人「不要」做某事時，句首用哪個字？"
+   },
+   {
+    "type": "mc",
+    "s": "______ nice to your little brother, Ken.",
+    "o": [
+     "Are",
+     "Be",
+     "Is",
+     "Being"
+    ],
+    "a": 1,
+    "ex": "nice 是形容詞，祈使句前面要用原形 be 動詞 Be。",
+    "hint": "nice 不是動詞，祈使句要借哪個動詞的原形？"
+   },
+   {
+    "type": "mc",
+    "s": "— I'm so hungry. — Me, too. Let's ______ some noodles.",
+    "o": [
+     "eating",
+     "to eat",
+     "eat",
+     "eats"
+    ],
+    "a": 2,
+    "ex": "Let's 後面接原形動詞，用 eat。",
+    "hint": "Let's 後面的動詞要不要變化？"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Please quiet when the teacher is talking.",
+     "Please be quiet when the teacher is talking.",
+     "Please are quiet when the teacher is talking.",
+     "Please to be quiet when the teacher is talking."
+    ],
+    "a": 1,
+    "ex": "quiet 是形容詞，祈使句要用 be quiet；please 後面直接接原形，不用 are 或 to。",
+    "hint": "quiet 是什麼詞性？祈使句開頭要用動詞的哪種形式？"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Let's not to stay up late tonight.",
+     "Let's don't stay up late tonight.",
+     "Let's not staying up late tonight.",
+     "Let's not stay up late tonight."
+    ],
+    "a": 3,
+    "ex": "Let's 的否定是 Let's not + 原形動詞，所以是 Let's not stay up。",
+    "hint": "Let's 的否定要加什麼字？後面的動詞又是什麼形式？"
+   }
+  ]
+ },
+ {
+  "id": "G0-K10-1",
+  "b": 0,
+  "l": "K10",
+  "title": "過去式：was / were 與一般動詞",
+  "formula": "was・were　／　V-ed・不規則過去式　／　did + 原形動詞",
+  "status": "ok",
+  "intro": "說昨天、上週、去年發生的事，就要用過去式。過去式分兩種：be 動詞用 was / were，一般動詞用規則變化（加 -ed）或不規則變化（go → went）。否定和疑問句要借 did，而且 did 後面的動詞要變回原形。只要記住「did 出現，動詞回原形」，過去式就不容易錯。",
+  "rhyme": "I、he 配 was，you、we 配 were，did 一出現，動詞變原形",
+  "points": [
+   {
+    "t": "be 動詞過去式：I / he / she / it / 單數名詞用 was；you / we / they / 複數名詞用 were。常搭配 yesterday, last week, ago 等時間詞。",
+    "ex": [
+     {
+      "en": "I was sick at home yesterday.",
+      "zh": "我昨天生病待在家裡。",
+      "hl": [
+       "was"
+      ]
+     },
+     {
+      "en": "Ben and Leo were in the gym after school.",
+      "zh": "Ben 和 Leo 放學後在體育館。",
+      "hl": [
+       "were"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "was / were 的否定在後面加 not（wasn't / weren't）；疑問句把 was / were 移到句首。",
+    "ex": [
+     {
+      "en": "The test wasn't difficult, so everyone passed.",
+      "zh": "考試不難，所以大家都及格了。",
+      "hl": [
+       "wasn't"
+      ]
+     },
+     {
+      "en": "Were you at the concert last night?",
+      "zh": "你昨晚有去演唱會嗎？",
+      "hl": [
+       "Were you"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "規則動詞過去式加 -ed：一般加 -ed（play → played）；字尾 e 只加 -d（like → liked）；子音 + y 改 y 為 i 加 -ed（study → studied）；單音節字「短母音 + 單子音」結尾，重複字尾子音再加 -ed（stop → stopped）。",
+    "ex": [
+     {
+      "en": "Lisa studied for the math test last night.",
+      "zh": "Lisa 昨晚為數學考試讀書。",
+      "hl": [
+       "studied"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "不規則動詞要一個一個背，例如 go → went, eat → ate, see → saw, buy → bought, take → took, have → had。一般動詞的過去式不分人稱，主詞是 he 也不加 -s。",
+    "ex": [
+     {
+      "en": "Kevin went to Hualien with his family last summer.",
+      "zh": "Kevin 去年夏天和家人去花蓮。",
+      "hl": [
+       "went"
+      ]
+     },
+     {
+      "en": "We ate beef noodles for lunch on Sunday.",
+      "zh": "我們星期天午餐吃牛肉麵。",
+      "hl": [
+       "ate"
+      ]
+     }
+    ]
+   },
+   {
+    "t": "一般動詞的否定和疑問句借 did：didn't + 原形動詞；Did + 主詞 + 原形動詞…? 回答用 Yes, I did. / No, I didn't.",
+    "ex": [
+     {
+      "en": "Mia didn't watch TV last night.",
+      "zh": "Mia 昨晚沒有看電視。",
+      "hl": [
+       "didn't watch"
+      ]
+     },
+     {
+      "en": "Did you buy a new bike last week?",
+      "zh": "你上週買了新腳踏車嗎？",
+      "hl": [
+       "Did you buy"
+      ]
+     }
+    ]
+   }
+  ],
+  "steps": [
+   "步驟 1：看時間詞（yesterday, last…, …ago）確認是過去發生的事。",
+   "步驟 2：句子裡是 be 動詞嗎？是的話，主詞是 I 或單數用 was，you 或複數用 were。",
+   "步驟 3：一般動詞肯定句用過去式（-ed 或不規則）；否定和疑問句用 didn't / Did，後面動詞改回原形。注意同一個子句裡 was / were 和 did 不會一起用。",
+   "步驟 4：完成例句：Amy was tired, so she didn't go to the party last night.（Amy 很累，所以昨晚沒去派對。）was 配 Amy，didn't 後接原形 go。"
+  ],
+  "compare": [
+   {
+    "a": "Did you see Tom yesterday?",
+    "b": "Did you saw Tom yesterday?（錯）",
+    "note": "did 已經表示過去，後面的動詞要用原形 see。"
+   },
+   {
+    "a": "Were you busy last week?",
+    "b": "Did you busy last week?（錯）",
+    "note": "busy 是形容詞，句中沒有一般動詞，要用 be 動詞 were 來問。"
+   }
+  ],
+  "mistakes": [
+   {
+    "wrong": "We was very happy at the party.",
+    "right": "We were very happy at the party.",
+    "why": "主詞 We 是複數，be 動詞過去式用 were。"
+   },
+   {
+    "wrong": "He didn't went to school yesterday.",
+    "right": "He didn't go to school yesterday.",
+    "why": "didn't 後面要接原形動詞 go。"
+   },
+   {
+    "wrong": "Emma buyed a gift for her mom.",
+    "right": "Emma bought a gift for her mom.",
+    "why": "buy 是不規則動詞，過去式是 bought，不是加 -ed。"
+   }
+  ],
+  "qs": [
+   {
+    "type": "mc",
+    "s": "Tom and his sister ______ at the beach last Sunday.",
+    "o": [
+     "was",
+     "is",
+     "were",
+     "are"
+    ],
+    "a": 2,
+    "ex": "last Sunday 表過去，主詞 Tom and his sister 是複數，用 were。",
+    "hint": "先看時間詞決定時態，再看主詞是幾個人。"
+   },
+   {
+    "type": "mc",
+    "s": "Lisa ______ a movie with her friends two days ago.",
+    "o": [
+     "sees",
+     "saw",
+     "seed",
+     "see"
+    ],
+    "a": 1,
+    "ex": "two days ago 表過去，see 是不規則動詞，過去式是 saw。",
+    "hint": "ago 表示什麼時態？see 的過去式是規則還是不規則？"
+   },
+   {
+    "type": "mc",
+    "s": "— ______ you finish your homework last night? — Yes, I did.",
+    "o": [
+     "Did",
+     "Were",
+     "Do",
+     "Was"
+    ],
+    "a": 0,
+    "ex": "finish 是一般動詞，過去式疑問句用 Did，回答也是 Yes, I did.",
+    "hint": "句中有一般動詞嗎？再對照回答用的助動詞。"
+   },
+   {
+    "type": "mc",
+    "s": "Ken didn't ______ breakfast this morning, so he is hungry now.",
+    "o": [
+     "ate",
+     "eats",
+     "eating",
+     "eat"
+    ],
+    "a": 3,
+    "ex": "didn't 後面要接原形動詞 eat。",
+    "hint": "did 出現時，後面的動詞要用什麼形式？"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Leo was play basketball after school yesterday.",
+     "Leo played basketball after school yesterday.",
+     "Leo did played basketball after school yesterday.",
+     "Leo plaied basketball after school yesterday."
+    ],
+    "a": 1,
+    "ex": "一般動詞肯定句直接用過去式 played；was 不能和原形動詞連用，did 後要接原形，play 是母音 + y，直接加 -ed。",
+    "hint": "肯定句需要 was 或 did 嗎？play 加 -ed 時 y 要不要改？"
+   },
+   {
+    "type": "pick",
+    "s": "選出文法正確的句子。",
+    "o": [
+     "Did your parents angry about the broken window?",
+     "Was your parents angry about the broken window?",
+     "Were your parents angry about the broken window?",
+     "Do your parents angry about the broken window?"
+    ],
+    "a": 2,
+    "ex": "angry 是形容詞，句中沒有一般動詞，要用 be 動詞；主詞 your parents 是複數，用 Were。",
+    "hint": "angry 是動詞還是形容詞？主詞是單數還是複數？"
+   }
+  ]
+ },
+ {
   "id": "G0-J01-1",
   "b": 0,
   "l": "J01",

@@ -185,6 +185,16 @@ if os.path.exists(pj) and os.path.exists(ej):
         if not x: continue
         ex = [x['en'], x['exzh'], x['target'], 1 if x.get('status') == 'ok' else 0] if x['target'] in x['en'] else None
         o9.append([e['id'], 9, e['day'], e['hday'], x.get('word', e['word']), x['pos'], x['zh'], e['years'], None, ex, 0])
+    # 國中常用片語：src/raw/jh_phrases.json（JP-xxx，接在國中字之後的天數）；例句放在 src/examples/jh_phr.json
+    pp = os.path.join(RAW, 'jh_phrases.json')
+    ep = os.path.join(ROOT, 'src', 'examples', 'jh_phr.json')
+    if os.path.exists(pp) and os.path.exists(ep):
+        xp = {r['id']: r for r in json.load(open(ep, encoding='utf-8')) if r.get('status') in okset}
+        for e in json.load(open(pp, encoding='utf-8')):
+            x = xp.get(e['id'])
+            if not x: continue
+            ex = [x['en'], x['exzh'], '|'.join(x['targets']), 1 if x.get('status') == 'ok' else 0]
+            o9.append([e['id'], 9, e['day'], e['hday'], e['phrase'], 'phr.', x['zh'], [], None, ex, 0, x['say']])
     out = out + o9   # 一定接在最後
     print('國中基礎站', len(o9), '字')
 

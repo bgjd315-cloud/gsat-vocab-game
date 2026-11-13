@@ -1,0 +1,1968 @@
+[
+ {
+  "id": "JP-001",
+  "phrase": "by oneself",
+  "zh": "獨自；靠自己",
+  "say": "by oneself",
+  "en": "Amy finished her science project by herself last weekend.",
+  "exzh": "Amy 上週末獨自完成了她的科學專題。",
+  "targets": [
+   "by herself"
+  ],
+  "status": "ok",
+  "note": "oneself 依主詞變化：myself、himself、herself 等"
+ },
+ {
+  "id": "JP-002",
+  "phrase": "from...to...",
+  "zh": "從⋯⋯到⋯⋯",
+  "say": "from something to",
+  "en": "Our school library is open from eight to five on weekdays.",
+  "exzh": "我們學校圖書館平日從八點開到五點。",
+  "targets": [
+   "from",
+   "to"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-003",
+  "phrase": "such as",
+  "zh": "例如；像是",
+  "say": "such as",
+  "en": "Ben likes fruit such as bananas, apples, and grapes.",
+  "exzh": "Ben 喜歡香蕉、蘋果和葡萄這類水果。",
+  "targets": [
+   "such as"
+  ],
+  "status": "ok",
+  "note": "後接名詞舉例，意思同 like"
+ },
+ {
+  "id": "JP-004",
+  "phrase": "as...as...",
+  "zh": "和⋯⋯一樣",
+  "say": "as something as",
+  "en": "Kevin is as tall as his older brother now.",
+  "exzh": "Kevin 現在和他哥哥一樣高。",
+  "targets": [
+   "as",
+   "as"
+  ],
+  "status": "ok",
+  "note": "as + 形容詞／副詞原級 + as；否定 not as...as"
+ },
+ {
+  "id": "JP-005",
+  "phrase": "have to",
+  "zh": "必須；不得不",
+  "say": "have to",
+  "en": "We have to wear school uniforms every Monday and Friday.",
+  "exzh": "我們每週一和週五都必須穿制服。",
+  "targets": [
+   "have to"
+  ],
+  "status": "ok",
+  "note": "否定 don't have to＝不必"
+ },
+ {
+  "id": "JP-006",
+  "phrase": "between...and...",
+  "zh": "在⋯⋯和⋯⋯之間",
+  "say": "between something and",
+  "en": "The bus stop is between the bakery and the post office.",
+  "exzh": "公車站在麵包店和郵局之間。",
+  "targets": [
+   "between",
+   "and"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-007",
+  "phrase": "so...that...",
+  "zh": "如此⋯⋯以至於⋯⋯",
+  "say": "so something that",
+  "en": "Mia was so tired that she fell asleep on the bus.",
+  "exzh": "Mia 累到在公車上睡著了。",
+  "targets": [
+   "so",
+   "that"
+  ],
+  "status": "ok",
+  "note": "so + 形容詞／副詞 + that 子句"
+ },
+ {
+  "id": "JP-008",
+  "phrase": "both...and...",
+  "zh": "⋯⋯和⋯⋯兩者都",
+  "say": "both something and",
+  "en": "Both Leo and Tom joined the basketball club this year.",
+  "exzh": "Leo 和 Tom 今年都加入了籃球社。",
+  "targets": [
+   "Both",
+   "and"
+  ],
+  "status": "ok",
+  "note": "當主詞時動詞用複數"
+ },
+ {
+  "id": "JP-009",
+  "phrase": "be able to",
+  "zh": "能夠",
+  "say": "be able to",
+  "en": "Lisa was able to finish the math test on time.",
+  "exzh": "Lisa 能準時寫完數學考試。",
+  "targets": [
+   "was able to"
+  ],
+  "status": "ok",
+  "note": "可用於各種時態，如 will be able to"
+ },
+ {
+  "id": "JP-010",
+  "phrase": "so that",
+  "zh": "以便；為了",
+  "say": "so that",
+  "en": "Ken got up early so that he could catch the first bus.",
+  "exzh": "Ken 早起，好趕上第一班公車。",
+  "targets": [
+   "so that"
+  ],
+  "status": "ok",
+  "note": "後接子句，常與 can／could 連用"
+ },
+ {
+  "id": "JP-011",
+  "phrase": "in order to",
+  "zh": "為了",
+  "say": "in order to",
+  "en": "Emma studies hard every night in order to pass the test.",
+  "exzh": "為了通過考試，Emma 每晚都用功讀書。",
+  "targets": [
+   "in order to"
+  ],
+  "status": "ok",
+  "note": "後接原形動詞；in order not to＝為了不"
+ },
+ {
+  "id": "JP-012",
+  "phrase": "come from",
+  "zh": "來自；出身於",
+  "say": "come from",
+  "en": "Our new English teacher comes from a small town in Canada.",
+  "exzh": "我們的新英文老師來自加拿大的一個小鎮。",
+  "targets": [
+   "comes from"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-013",
+  "phrase": "used to",
+  "zh": "過去常常；以前曾經",
+  "say": "used to",
+  "en": "Tom used to walk to school, but now he rides a bike.",
+  "exzh": "Tom 以前都走路上學，但現在騎腳踏車。",
+  "targets": [
+   "used to"
+  ],
+  "status": "ok",
+  "note": "勿與 be used to + V-ing（習慣於）混淆"
+ },
+ {
+  "id": "JP-014",
+  "phrase": "each other",
+  "zh": "彼此；互相",
+  "say": "each other",
+  "en": "Amy and Lisa help each other with homework after school.",
+  "exzh": "Amy 和 Lisa 放學後互相幫忙寫作業。",
+  "targets": [
+   "each other"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-015",
+  "phrase": "not only...but also...",
+  "zh": "不僅⋯⋯而且⋯⋯",
+  "say": "not only something but also",
+  "en": "Ben is not only good at math but also great at sports.",
+  "exzh": "Ben 不只數學好，運動也很強。",
+  "targets": [
+   "not only",
+   "but also"
+  ],
+  "status": "ok",
+  "note": "連接主詞時，動詞與 but also 後的主詞一致"
+ },
+ {
+  "id": "JP-016",
+  "phrase": "because of",
+  "zh": "因為；由於",
+  "say": "because of",
+  "en": "The baseball game was canceled because of the heavy rain.",
+  "exzh": "棒球比賽因為大雨取消了。",
+  "targets": [
+   "because of"
+  ],
+  "status": "ok",
+  "note": "because of 接名詞；because 接子句"
+ },
+ {
+  "id": "JP-017",
+  "phrase": "not...until...",
+  "zh": "直到⋯⋯才⋯⋯",
+  "say": "not something until",
+  "en": "Kevin did not go to bed until midnight last night.",
+  "exzh": "Kevin 昨晚直到半夜才上床睡覺。",
+  "targets": [
+   "not",
+   "until"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-018",
+  "phrase": "go on",
+  "zh": "繼續；發生",
+  "say": "go on",
+  "en": "Please go on with your story; we all want to hear it.",
+  "exzh": "請繼續說你的故事，我們都想聽。",
+  "targets": [
+   "go on"
+  ],
+  "status": "ok",
+  "note": "go on + V-ing／with sth.＝繼續做"
+ },
+ {
+  "id": "JP-019",
+  "phrase": "find out",
+  "zh": "查明；發現",
+  "say": "find out",
+  "en": "Mia wants to find out why her phone keeps shutting down.",
+  "exzh": "Mia 想查出她的手機為什麼一直關機。",
+  "targets": [
+   "find out"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-020",
+  "phrase": "all over the world",
+  "zh": "全世界；世界各地",
+  "say": "all over the world",
+  "en": "People all over the world love Taiwanese bubble tea.",
+  "exzh": "世界各地的人都很愛台灣的珍珠奶茶。",
+  "targets": [
+   "all over the world"
+  ],
+  "status": "ok",
+  "note": "同 around the world"
+ },
+ {
+  "id": "JP-021",
+  "phrase": "either...or...",
+  "zh": "不是⋯⋯就是⋯⋯；⋯⋯或⋯⋯",
+  "say": "either something or",
+  "en": "You can either take the bus or ride your bike to school.",
+  "exzh": "你可以搭公車或騎腳踏車上學。",
+  "targets": [
+   "either",
+   "or"
+  ],
+  "status": "ok",
+  "note": "連接主詞時，動詞與 or 後的主詞一致"
+ },
+ {
+  "id": "JP-022",
+  "phrase": "instead of",
+  "zh": "代替；而不是",
+  "say": "instead of",
+  "en": "Leo drank water instead of soda after the soccer game.",
+  "exzh": "Leo 踢完足球後喝水，而不是喝汽水。",
+  "targets": [
+   "instead of"
+  ],
+  "status": "ok",
+  "note": "後接名詞或 V-ing"
+ },
+ {
+  "id": "JP-023",
+  "phrase": "some...others...",
+  "zh": "有些⋯⋯，有些⋯⋯",
+  "say": "some something others",
+  "en": "Some students like to read, and others like to play basketball.",
+  "exzh": "有些學生喜歡閱讀，有些則喜歡打籃球。",
+  "targets": [
+   "Some",
+   "others"
+  ],
+  "status": "ok",
+  "note": "指全部時用 some...the others..."
+ },
+ {
+  "id": "JP-024",
+  "phrase": "such...that...",
+  "zh": "如此⋯⋯以至於⋯⋯",
+  "say": "such something that",
+  "en": "It was such a hot day that we stayed inside all afternoon.",
+  "exzh": "那天實在太熱，我們整個下午都待在室內。",
+  "targets": [
+   "such",
+   "that"
+  ],
+  "status": "ok",
+  "note": "such + (a/an) + 形容詞 + 名詞 + that"
+ },
+ {
+  "id": "JP-025",
+  "phrase": "at the same time",
+  "zh": "同時",
+  "say": "at the same time",
+  "en": "Lisa and I arrived at the classroom at the same time.",
+  "exzh": "Lisa 和我同時抵達教室。",
+  "targets": [
+   "at the same time"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-026",
+  "phrase": "come back",
+  "zh": "回來",
+  "say": "come back",
+  "en": "Dad will come back from his business trip on Sunday.",
+  "exzh": "爸爸星期天出差回來。",
+  "targets": [
+   "come back"
+  ],
+  "status": "ok",
+  "note": "come back from + 地點"
+ },
+ {
+  "id": "JP-027",
+  "phrase": "pick up",
+  "zh": "撿起；接（人）",
+  "say": "pick up",
+  "en": "Mom will pick me up at the train station at six.",
+  "exzh": "媽媽六點會到火車站接我。",
+  "targets": [
+   "pick",
+   "up"
+  ],
+  "status": "ok",
+  "note": "受詞是代名詞要放中間：pick me up"
+ },
+ {
+  "id": "JP-028",
+  "phrase": "the number of",
+  "zh": "⋯⋯的數量",
+  "say": "the number of",
+  "en": "The number of students in our club has grown this year.",
+  "exzh": "我們社團的學生人數今年增加了。",
+  "targets": [
+   "The number of"
+  ],
+  "status": "ok",
+  "note": "動詞用單數；a number of 接複數動詞"
+ },
+ {
+  "id": "JP-029",
+  "phrase": "different from",
+  "zh": "和⋯⋯不同",
+  "say": "different from",
+  "en": "Taiwanese breakfast is very different from American breakfast.",
+  "exzh": "台灣的早餐和美國的早餐非常不同。",
+  "targets": [
+   "different from"
+  ],
+  "status": "ok",
+  "note": "名詞 difference"
+ },
+ {
+  "id": "JP-030",
+  "phrase": "in front of",
+  "zh": "在⋯⋯前面",
+  "say": "in front of",
+  "en": "Ken waited for his friends in front of the movie theater.",
+  "exzh": "Ken 在電影院前面等他的朋友。",
+  "targets": [
+   "in front of"
+  ],
+  "status": "ok",
+  "note": "in the front of＝在⋯⋯內部的前方"
+ },
+ {
+  "id": "JP-031",
+  "phrase": "a number of",
+  "zh": "許多",
+  "say": "a number of",
+  "en": "A number of students joined the beach cleanup last Saturday.",
+  "exzh": "上週六有許多學生參加了淨灘活動。",
+  "targets": [
+   "A number of"
+  ],
+  "status": "ok",
+  "note": "後接複數名詞與複數動詞"
+ },
+ {
+  "id": "JP-032",
+  "phrase": "dream of",
+  "zh": "夢想；夢到",
+  "say": "dream of",
+  "en": "Emma dreams of becoming a nurse and helping sick people.",
+  "exzh": "Emma 夢想成為護理師，幫助生病的人。",
+  "targets": [
+   "dreams of"
+  ],
+  "status": "ok",
+  "note": "後接名詞或 V-ing"
+ },
+ {
+  "id": "JP-033",
+  "phrase": "for the first time",
+  "zh": "第一次",
+  "say": "for the first time",
+  "en": "Tom tried stinky tofu for the first time at the night market.",
+  "exzh": "Tom 在夜市第一次吃臭豆腐。",
+  "targets": [
+   "for the first time"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-034",
+  "phrase": "in the middle of",
+  "zh": "在⋯⋯中間；在⋯⋯當中",
+  "say": "in the middle of",
+  "en": "My phone rang in the middle of the English class.",
+  "exzh": "我的手機在英文課上到一半時響了。",
+  "targets": [
+   "in the middle of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-035",
+  "phrase": "look at",
+  "zh": "看",
+  "say": "look at",
+  "en": "Look at the beautiful rainbow over the mountains, Ben!",
+  "exzh": "Ben，你看山上那道美麗的彩虹！",
+  "targets": [
+   "Look at"
+  ],
+  "status": "ok",
+  "note": "look 強調看的動作；see 強調看到"
+ },
+ {
+  "id": "JP-036",
+  "phrase": "lots of",
+  "zh": "許多",
+  "say": "lots of",
+  "en": "Amy has lots of homework to finish before Monday.",
+  "exzh": "Amy 星期一前有很多作業要寫完。",
+  "targets": [
+   "lots of"
+  ],
+  "status": "ok",
+  "note": "可接可數或不可數名詞，同 a lot of"
+ },
+ {
+  "id": "JP-037",
+  "phrase": "more and more",
+  "zh": "越來越多",
+  "say": "more and more",
+  "en": "More and more students use their phones to study English.",
+  "exzh": "越來越多學生用手機學英文。",
+  "targets": [
+   "More and more"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-038",
+  "phrase": "search for",
+  "zh": "搜尋；尋找",
+  "say": "search for",
+  "en": "Leo searched for his lost keys all over the house.",
+  "exzh": "Leo 在家裡到處找他弄丟的鑰匙。",
+  "targets": [
+   "searched for"
+  ],
+  "status": "ok",
+  "note": "search + 地點＝搜查某地"
+ },
+ {
+  "id": "JP-039",
+  "phrase": "think of",
+  "zh": "想到；認為",
+  "say": "think of",
+  "en": "I cannot think of a good name for our club.",
+  "exzh": "我想不出我們社團的好名字。",
+  "targets": [
+   "think of"
+  ],
+  "status": "ok",
+  "note": "What do you think of...?＝你認為⋯⋯如何？"
+ },
+ {
+  "id": "JP-040",
+  "phrase": "worry about",
+  "zh": "擔心",
+  "say": "worry about",
+  "en": "Don't worry about the test; you studied very hard.",
+  "exzh": "別擔心考試，你已經很用功了。",
+  "targets": [
+   "worry about"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-041",
+  "phrase": "a piece of",
+  "zh": "一片；一塊；一張",
+  "say": "a piece of",
+  "en": "Mia ate a piece of chocolate cake after dinner.",
+  "exzh": "Mia 晚餐後吃了一塊巧克力蛋糕。",
+  "targets": [
+   "a piece of"
+  ],
+  "status": "ok",
+  "note": "常接不可數名詞：a piece of paper／advice"
+ },
+ {
+  "id": "JP-042",
+  "phrase": "a cup of",
+  "zh": "一杯",
+  "say": "a cup of",
+  "en": "Dad drinks a cup of hot coffee every morning.",
+  "exzh": "爸爸每天早上喝一杯熱咖啡。",
+  "targets": [
+   "a cup of"
+  ],
+  "status": "ok",
+  "note": "複數加在 cup：two cups of"
+ },
+ {
+  "id": "JP-043",
+  "phrase": "a kind of",
+  "zh": "一種",
+  "say": "a kind of",
+  "en": "Mango shaved ice is a kind of dessert that is very popular in Taiwan.",
+  "exzh": "芒果冰是一種在台灣很受歡迎的甜點。",
+  "targets": [
+   "a kind of"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-044",
+  "phrase": "arrive at",
+  "zh": "到達（小地點）",
+  "say": "arrive at",
+  "en": "The field trip bus arrived at the zoo at nine.",
+  "exzh": "校外教學的遊覽車九點到達動物園。",
+  "targets": [
+   "arrived at"
+  ],
+  "status": "ok",
+  "note": "大地點用 arrive in"
+ },
+ {
+  "id": "JP-045",
+  "phrase": "as if",
+  "zh": "好像；彷彿",
+  "say": "as if",
+  "en": "Ken talks as if he knows everything about computers.",
+  "exzh": "Ken 說話的樣子好像他對電腦無所不知。",
+  "targets": [
+   "as if"
+  ],
+  "status": "ok",
+  "note": "同 as though"
+ },
+ {
+  "id": "JP-046",
+  "phrase": "at all",
+  "zh": "一點也（不）；根本",
+  "say": "at all",
+  "en": "I didn't understand the math problem at all.",
+  "exzh": "我完全看不懂那道數學題。",
+  "targets": [
+   "at all"
+  ],
+  "status": "ok",
+  "note": "常用於否定句 not...at all"
+ },
+ {
+  "id": "JP-047",
+  "phrase": "at home",
+  "zh": "在家",
+  "say": "at home",
+  "en": "Lisa stayed at home all weekend because she had a cold.",
+  "exzh": "Lisa 因為感冒，整個週末都待在家。",
+  "targets": [
+   "at home"
+  ],
+  "status": "ok",
+  "note": "feel at home＝感到自在"
+ },
+ {
+  "id": "JP-048",
+  "phrase": "at the end of",
+  "zh": "在⋯⋯的末端；在⋯⋯結束時",
+  "say": "at the end of",
+  "en": "We have a big test at the end of this month.",
+  "exzh": "我們這個月底有一場大考。",
+  "targets": [
+   "at the end of"
+  ],
+  "status": "ok",
+  "note": "in the end＝最後"
+ },
+ {
+  "id": "JP-049",
+  "phrase": "be covered with",
+  "zh": "被⋯⋯覆蓋",
+  "say": "be covered with",
+  "en": "The top of the mountain was covered with snow last winter.",
+  "exzh": "去年冬天山頂覆蓋著白雪。",
+  "targets": [
+   "was covered with"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-050",
+  "phrase": "be famous for",
+  "zh": "以⋯⋯聞名",
+  "say": "be famous for",
+  "en": "Tainan is famous for its delicious local snacks.",
+  "exzh": "台南以美味的在地小吃聞名。",
+  "targets": [
+   "is famous for"
+  ],
+  "status": "ok",
+  "note": "be famous as＝以⋯⋯身分聞名"
+ },
+ {
+  "id": "JP-051",
+  "phrase": "be interested in",
+  "zh": "對⋯⋯感興趣",
+  "say": "be interested in",
+  "en": "Ben is interested in basketball, so he joined the school team.",
+  "exzh": "Ben 對籃球感興趣，所以他加入了校隊。",
+  "targets": [
+   "is interested in"
+  ],
+  "status": "ok",
+  "note": "in 後接名詞或 V-ing；interested 形容人，interesting 形容事物"
+ },
+ {
+  "id": "JP-052",
+  "phrase": "be known for",
+  "zh": "以⋯⋯聞名",
+  "say": "be known for",
+  "en": "Tainan is known for its delicious snacks and old temples.",
+  "exzh": "台南以美味的小吃和古老的廟宇聞名。",
+  "targets": [
+   "is known for"
+  ],
+  "status": "ok",
+  "note": "同義：be famous for"
+ },
+ {
+  "id": "JP-053",
+  "phrase": "be made from",
+  "zh": "由⋯⋯製成（看不出原料）",
+  "say": "be made from",
+  "en": "This sweet drink is made from fresh mangoes and milk.",
+  "exzh": "這杯甜飲是用新鮮芒果和牛奶做成的。",
+  "targets": [
+   "is made from"
+  ],
+  "status": "ok",
+  "note": "易混淆：be made of 看得出原料"
+ },
+ {
+  "id": "JP-054",
+  "phrase": "be supposed to",
+  "zh": "應該⋯⋯；被期望⋯⋯",
+  "say": "be supposed to",
+  "en": "We are supposed to hand in our reports by Friday.",
+  "exzh": "我們應該在星期五之前交報告。",
+  "targets": [
+   "are supposed to"
+  ],
+  "status": "ok",
+  "note": "to 後接原形動詞"
+ },
+ {
+  "id": "JP-055",
+  "phrase": "belong to",
+  "zh": "屬於⋯⋯",
+  "say": "belong to",
+  "en": "This red umbrella belongs to Lisa, not to me.",
+  "exzh": "這把紅色的雨傘是 Lisa 的，不是我的。",
+  "targets": [
+   "belongs to"
+  ],
+  "status": "ok",
+  "note": "不用進行式，也沒有被動語態"
+ },
+ {
+  "id": "JP-056",
+  "phrase": "come on",
+  "zh": "加油；快點；拜託",
+  "say": "come on",
+  "en": "Come on, Kevin! You can finish the race!",
+  "exzh": "加油，Kevin！你一定能跑完比賽！",
+  "targets": [
+   "Come on"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-057",
+  "phrase": "do one's best",
+  "zh": "盡力；盡全力",
+  "say": "do one's best",
+  "en": "Mia always does her best on every math test.",
+  "exzh": "Mia 每次數學考試都盡全力。",
+  "targets": [
+   "does her best"
+  ],
+  "status": "ok",
+  "note": "one's 要依主詞換成 my、his、her 等"
+ },
+ {
+  "id": "JP-058",
+  "phrase": "first of all",
+  "zh": "首先",
+  "say": "first of all",
+  "en": "First of all, please turn off your phones before class starts.",
+  "exzh": "首先，請在上課前把手機關機。",
+  "targets": [
+   "First of all"
+  ],
+  "status": "ok",
+  "note": "常放句首，後面加逗號"
+ },
+ {
+  "id": "JP-059",
+  "phrase": "for a long time",
+  "zh": "很久；長時間",
+  "say": "for a long time",
+  "en": "Amy and Emma have been good friends for a long time.",
+  "exzh": "Amy 和 Emma 當好朋友已經很久了。",
+  "targets": [
+   "for a long time"
+  ],
+  "status": "ok",
+  "note": "常搭配現在完成式"
+ },
+ {
+  "id": "JP-060",
+  "phrase": "give up",
+  "zh": "放棄；戒除",
+  "say": "give up",
+  "en": "Don't give up on English, even if it seems hard now.",
+  "exzh": "就算英文現在看起來很難，也不要放棄。",
+  "targets": [
+   "give up"
+  ],
+  "status": "ok",
+  "note": "give up + V-ing：放棄做某事"
+ },
+ {
+  "id": "JP-061",
+  "phrase": "have fun",
+  "zh": "玩得開心",
+  "say": "have fun",
+  "en": "We had fun at the beach with our classmates last weekend.",
+  "exzh": "上週末我們和同學在海邊玩得很開心。",
+  "targets": [
+   "had fun"
+  ],
+  "status": "ok",
+  "note": "同義：have a good time"
+ },
+ {
+  "id": "JP-062",
+  "phrase": "help sb. with sth.",
+  "zh": "幫忙某人做⋯⋯",
+  "say": "help someone with something",
+  "en": "Tom often helps his little sister with her homework after dinner.",
+  "exzh": "Tom 晚餐後常幫妹妹寫功課。",
+  "targets": [
+   "helps",
+   "with"
+  ],
+  "status": "ok",
+  "note": "也可說 help sb. (to) + 原形動詞"
+ },
+ {
+  "id": "JP-063",
+  "phrase": "in line",
+  "zh": "排隊",
+  "say": "in line",
+  "en": "Students waited in line to buy lunch at the school store.",
+  "exzh": "學生們排隊在福利社買午餐。",
+  "targets": [
+   "in line"
+  ],
+  "status": "ok",
+  "note": "常見搭配：wait in line、stand in line"
+ },
+ {
+  "id": "JP-064",
+  "phrase": "in public",
+  "zh": "在公共場合；公開地",
+  "say": "in public",
+  "en": "Please don't talk loudly on your phone in public.",
+  "exzh": "請不要在公共場合大聲講電話。",
+  "targets": [
+   "in public"
+  ],
+  "status": "ok",
+  "note": "反義：in private 私下"
+ },
+ {
+  "id": "JP-065",
+  "phrase": "in the future",
+  "zh": "在未來；將來",
+  "say": "in the future",
+  "en": "Leo wants to become a doctor in the future.",
+  "exzh": "Leo 將來想當醫生。",
+  "targets": [
+   "in the future"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-066",
+  "phrase": "in time",
+  "zh": "及時",
+  "say": "in time",
+  "en": "Ken got to the station just in time for the last train.",
+  "exzh": "Ken 剛好及時趕到車站，搭上最後一班火車。",
+  "targets": [
+   "in time"
+  ],
+  "status": "ok",
+  "note": "易混淆：on time 準時"
+ },
+ {
+  "id": "JP-067",
+  "phrase": "live on",
+  "zh": "靠⋯⋯生活；以⋯⋯為食",
+  "say": "live on",
+  "en": "My cousin lives on two hundred dollars a day at college.",
+  "exzh": "我表哥在大學每天靠兩百元過生活。",
+  "targets": [
+   "lives on"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-068",
+  "phrase": "look up",
+  "zh": "查詢（字典、資料）；抬頭看",
+  "say": "look up",
+  "en": "Lisa looked up the new words on her phone.",
+  "exzh": "Lisa 用手機查了那些新單字。",
+  "targets": [
+   "looked up"
+  ],
+  "status": "ok",
+  "note": "受詞是代名詞時要放中間：look it up"
+ },
+ {
+  "id": "JP-069",
+  "phrase": "not...at all",
+  "zh": "一點也不⋯⋯",
+  "say": "not something at all",
+  "en": "Kevin was not tired at all after the long hike.",
+  "exzh": "走了很長的山路後，Kevin 一點也不累。",
+  "targets": [
+   "not",
+   "at all"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-070",
+  "phrase": "one...the other...",
+  "zh": "（兩者中）一個⋯⋯，另一個⋯⋯",
+  "say": "one something the other",
+  "en": "Amy has two cats; one is white, and the other is black.",
+  "exzh": "Amy 養了兩隻貓，一隻是白的，另一隻是黑的。",
+  "targets": [
+   "one",
+   "the other"
+  ],
+  "status": "ok",
+  "note": "只用於兩者；三者時用 one...another...the other..."
+ },
+ {
+  "id": "JP-071",
+  "phrase": "plenty of",
+  "zh": "很多的；充足的",
+  "say": "plenty of",
+  "en": "Drink plenty of water when you play sports on hot days.",
+  "exzh": "天氣熱運動時要多喝水。",
+  "targets": [
+   "plenty of"
+  ],
+  "status": "ok",
+  "note": "可接可數或不可數名詞"
+ },
+ {
+  "id": "JP-072",
+  "phrase": "show up",
+  "zh": "出現；露面",
+  "say": "show up",
+  "en": "Ben didn't show up for club practice yesterday afternoon.",
+  "exzh": "Ben 昨天下午沒有出現在社團練習。",
+  "targets": [
+   "show up"
+  ],
+  "status": "ok",
+  "note": "同義：turn up"
+ },
+ {
+  "id": "JP-073",
+  "phrase": "slow down",
+  "zh": "放慢速度",
+  "say": "slow down",
+  "en": "Please slow down, Mia! The floor is wet after the rain.",
+  "exzh": "Mia，慢一點！下過雨地板很濕。",
+  "targets": [
+   "slow down"
+  ],
+  "status": "ok",
+  "note": "反義：speed up 加速"
+ },
+ {
+  "id": "JP-074",
+  "phrase": "take medicine",
+  "zh": "吃藥",
+  "say": "take medicine",
+  "en": "Emma has a bad cold, so she takes medicine three times a day.",
+  "exzh": "Emma 得了重感冒，所以她一天吃三次藥。",
+  "targets": [
+   "takes medicine"
+  ],
+  "status": "ok",
+  "note": "「吃藥」用 take，不用 eat"
+ },
+ {
+  "id": "JP-075",
+  "phrase": "take off",
+  "zh": "脫下；（飛機）起飛",
+  "say": "take off",
+  "en": "Please take off your shoes before you go into Grandma's house.",
+  "exzh": "進奶奶家之前請先把鞋子脫掉。",
+  "targets": [
+   "take off"
+  ],
+  "status": "ok",
+  "note": "反義：put on 穿上"
+ },
+ {
+  "id": "JP-076",
+  "phrase": "wake up",
+  "zh": "醒來；叫醒",
+  "say": "wake up",
+  "en": "I usually wake up at six thirty on school days.",
+  "exzh": "上學日我通常六點半醒來。",
+  "targets": [
+   "wake up"
+  ],
+  "status": "ok",
+  "note": "wake up 醒來，get up 起床"
+ },
+ {
+  "id": "JP-077",
+  "phrase": "be responsible for",
+  "zh": "負責⋯⋯；對⋯⋯負責",
+  "say": "be responsible for",
+  "en": "Kevin is responsible for cleaning the classroom windows this week.",
+  "exzh": "Kevin 這星期負責擦教室的窗戶。",
+  "targets": [
+   "is responsible for"
+  ],
+  "status": "ok",
+  "note": "for 後接名詞或 V-ing"
+ },
+ {
+  "id": "JP-078",
+  "phrase": "run away",
+  "zh": "逃跑；跑走",
+  "say": "run away",
+  "en": "The little dog ran away when it heard the loud thunder.",
+  "exzh": "小狗聽到很大的雷聲就跑走了。",
+  "targets": [
+   "ran away"
+  ],
+  "status": "ok",
+  "note": "run away from：從⋯⋯逃走"
+ },
+ {
+  "id": "JP-079",
+  "phrase": "get up",
+  "zh": "起床；站起來",
+  "say": "get up",
+  "en": "Tom gets up early to run in the park every morning.",
+  "exzh": "Tom 每天早上很早起床去公園跑步。",
+  "targets": [
+   "gets up"
+  ],
+  "status": "ok",
+  "note": "易混淆：wake up 醒來"
+ },
+ {
+  "id": "JP-080",
+  "phrase": "a pair of",
+  "zh": "一雙；一副；一條",
+  "say": "a pair of",
+  "en": "Lisa bought a pair of new running shoes for gym class.",
+  "exzh": "Lisa 為了體育課買了一雙新的跑鞋。",
+  "targets": [
+   "a pair of"
+  ],
+  "status": "ok",
+  "note": "常見搭配：a pair of shoes／glasses／pants"
+ },
+ {
+  "id": "JP-081",
+  "phrase": "after a while",
+  "zh": "過了一會兒",
+  "say": "after a while",
+  "en": "After a while, the rain stopped and we went outside to play.",
+  "exzh": "過了一會兒，雨停了，我們就到外面玩。",
+  "targets": [
+   "After a while"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-082",
+  "phrase": "all the time",
+  "zh": "總是；一直",
+  "say": "all the time",
+  "en": "My little brother plays games on his phone all the time.",
+  "exzh": "我弟弟一天到晚都在用手機玩遊戲。",
+  "targets": [
+   "all the time"
+  ],
+  "status": "ok",
+  "note": "同義：always"
+ },
+ {
+  "id": "JP-083",
+  "phrase": "and so on",
+  "zh": "等等",
+  "say": "and so on",
+  "en": "At the night market, we ate fried chicken, noodles, and so on.",
+  "exzh": "在夜市，我們吃了炸雞、麵等等。",
+  "targets": [
+   "and so on"
+  ],
+  "status": "ok",
+  "note": "放在列舉的最後"
+ },
+ {
+  "id": "JP-084",
+  "phrase": "arrive in",
+  "zh": "抵達（大地方）",
+  "say": "arrive in",
+  "en": "Our class will arrive in Hualien around noon tomorrow.",
+  "exzh": "我們班明天中午左右會抵達花蓮。",
+  "targets": [
+   "arrive in"
+  ],
+  "status": "ok",
+  "note": "小地方用 arrive at"
+ },
+ {
+  "id": "JP-085",
+  "phrase": "at first",
+  "zh": "起初；一開始",
+  "say": "at first",
+  "en": "At first, Mia was shy, but now she talks to everyone.",
+  "exzh": "一開始 Mia 很害羞，但現在她跟每個人都會聊天。",
+  "targets": [
+   "At first"
+  ],
+  "status": "ok",
+  "note": "易混淆：first of all 首先（列點）"
+ },
+ {
+  "id": "JP-086",
+  "phrase": "be different from",
+  "zh": "和⋯⋯不同",
+  "say": "be different from",
+  "en": "High school life is different from junior high life in many ways.",
+  "exzh": "高中生活在很多方面都和國中生活不同。",
+  "targets": [
+   "is different from"
+  ],
+  "status": "ok",
+  "note": "反義：be the same as"
+ },
+ {
+  "id": "JP-087",
+  "phrase": "be made of",
+  "zh": "由⋯⋯製成（看得出材料）",
+  "say": "be made of",
+  "en": "This old desk is made of wood from my grandpa's farm.",
+  "exzh": "這張舊書桌是用我爺爺農場的木頭做的。",
+  "targets": [
+   "is made of"
+  ],
+  "status": "ok",
+  "note": "易混淆：be made from 看不出原料"
+ },
+ {
+  "id": "JP-088",
+  "phrase": "be ready for",
+  "zh": "為⋯⋯做好準備",
+  "say": "be ready for",
+  "en": "Ben is ready for the English test tomorrow morning.",
+  "exzh": "Ben 已經準備好明天早上的英文考試了。",
+  "targets": [
+   "is ready for"
+  ],
+  "status": "ok",
+  "note": "be ready to + 原形動詞：準備好做某事"
+ },
+ {
+  "id": "JP-089",
+  "phrase": "be similar to",
+  "zh": "和⋯⋯相似",
+  "say": "be similar to",
+  "en": "Emma's school uniform is similar to the uniform at my school.",
+  "exzh": "Emma 學校的制服和我們學校的很像。",
+  "targets": [
+   "is similar to"
+  ],
+  "status": "ok",
+  "note": "反義：be different from"
+ },
+ {
+  "id": "JP-090",
+  "phrase": "be surprised at",
+  "zh": "對⋯⋯感到驚訝",
+  "say": "be surprised at",
+  "en": "Everyone was surprised at the size of the birthday cake.",
+  "exzh": "大家都對生日蛋糕的大小感到驚訝。",
+  "targets": [
+   "was surprised at"
+  ],
+  "status": "ok",
+  "note": "surprised 形容人，surprising 形容事物"
+ },
+ {
+  "id": "JP-091",
+  "phrase": "be worried about",
+  "zh": "擔心⋯⋯",
+  "say": "be worried about",
+  "en": "Leo is worried about his math grade this semester.",
+  "exzh": "Leo 很擔心他這學期的數學成績。",
+  "targets": [
+   "is worried about"
+  ],
+  "status": "ok",
+  "note": "同義：worry about"
+ },
+ {
+  "id": "JP-092",
+  "phrase": "believe in",
+  "zh": "相信（⋯⋯的能力或存在）；信仰",
+  "say": "believe in",
+  "en": "Ken believes in himself, so he never stops practicing the guitar.",
+  "exzh": "Ken 相信自己，所以他從不停止練吉他。",
+  "targets": [
+   "believes in"
+  ],
+  "status": "ok",
+  "note": "believe sb. 相信某人說的話"
+ },
+ {
+  "id": "JP-093",
+  "phrase": "break down",
+  "zh": "故障；（情緒）崩潰",
+  "say": "break down",
+  "en": "Our school bus broke down on the way to the museum.",
+  "exzh": "我們的校車在去博物館的路上拋錨了。",
+  "targets": [
+   "broke down"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-094",
+  "phrase": "by the way",
+  "zh": "順便一提",
+  "say": "by the way",
+  "en": "By the way, did you finish the science project, Amy?",
+  "exzh": "對了，Amy，你自然科的專題做完了嗎？",
+  "targets": [
+   "By the way"
+  ],
+  "status": "ok",
+  "note": "用來轉換話題，常縮寫為 BTW"
+ },
+ {
+  "id": "JP-095",
+  "phrase": "clean up",
+  "zh": "打掃乾淨；清理",
+  "say": "clean up",
+  "en": "After the party, we helped Mom clean up the living room.",
+  "exzh": "派對結束後，我們幫媽媽把客廳打掃乾淨。",
+  "targets": [
+   "clean up"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-096",
+  "phrase": "day and night",
+  "zh": "日以繼夜；整天整夜",
+  "say": "day and night",
+  "en": "Kevin practiced the piano day and night before the contest.",
+  "exzh": "比賽前 Kevin 日以繼夜地練鋼琴。",
+  "targets": [
+   "day and night"
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ {
+  "id": "JP-097",
+  "phrase": "do the dishes",
+  "zh": "洗碗",
+  "say": "do the dishes",
+  "en": "Lisa does the dishes every night after her family eats dinner.",
+  "exzh": "Lisa 每晚在家人吃完晚餐後洗碗。",
+  "targets": [
+   "does the dishes"
+  ],
+  "status": "ok",
+  "note": "同義：wash the dishes"
+ },
+ {
+  "id": "JP-098",
+  "phrase": "fall asleep",
+  "zh": "睡著",
+  "say": "fall asleep",
+  "en": "Tom fell asleep in class because he stayed up too late.",
+  "exzh": "Tom 因為太晚睡，上課時睡著了。",
+  "targets": [
+   "fell asleep"
+  ],
+  "status": "ok",
+  "note": "fall 的過去式是 fell"
+ },
+ {
+  "id": "JP-099",
+  "phrase": "feel like",
+  "zh": "想要⋯⋯；感覺像⋯⋯",
+  "say": "feel like",
+  "en": "I don't feel like going out because it's raining so hard.",
+  "exzh": "雨下得好大，我不想出門。",
+  "targets": [
+   "feel like"
+  ],
+  "status": "ok",
+  "note": "feel like + V-ing：想做某事"
+ },
+ {
+  "id": "JP-100",
+  "phrase": "fill out",
+  "zh": "填寫（表格）",
+  "say": "fill out",
+  "en": "Please fill out this form before you join the photography club.",
+  "exzh": "加入攝影社之前請先填寫這張表格。",
+  "targets": [
+   "fill out"
+  ],
+  "status": "ok",
+  "note": "同義：fill in"
+ },
+ {
+  "id": "JP-101",
+  "phrase": "get along with",
+  "zh": "與⋯⋯相處融洽",
+  "say": "get along with",
+  "en": "Amy gets along with everyone in her class, so she has many friends.",
+  "exzh": "Amy 和班上每個人都處得很好，所以她有很多朋友。",
+  "targets": [
+   "gets along with"
+  ],
+  "status": "ok",
+  "note": "get along well with 相處得很好"
+ },
+ {
+  "id": "JP-102",
+  "phrase": "get into",
+  "zh": "進入；考上（學校）",
+  "say": "get into",
+  "en": "Ben studied hard every night because he wanted to get into a good college.",
+  "exzh": "Ben 每晚都很用功，因為他想考上一所好大學。",
+  "targets": [
+   "get into"
+  ],
+  "status": "ok",
+  "note": "get into trouble 惹上麻煩"
+ },
+ {
+  "id": "JP-103",
+  "phrase": "get married",
+  "zh": "結婚",
+  "say": "get married",
+  "en": "My older sister will get married to her boyfriend next spring.",
+  "exzh": "我姊姊明年春天要和她男朋友結婚。",
+  "targets": [
+   "get married"
+  ],
+  "status": "ok",
+  "note": "和某人結婚：get married to sb.（不用 with）"
+ },
+ {
+  "id": "JP-104",
+  "phrase": "get on",
+  "zh": "上（公車、火車等）",
+  "say": "get on",
+  "en": "Lisa got on the bus to school at seven o'clock this morning.",
+  "exzh": "Lisa 今天早上七點搭上去學校的公車。",
+  "targets": [
+   "got on"
+  ],
+  "status": "ok",
+  "note": "反義：get off 下車；上汽車用 get into"
+ },
+ {
+  "id": "JP-105",
+  "phrase": "get out of",
+  "zh": "離開；從⋯⋯出來",
+  "say": "get out of",
+  "en": "Kevin got out of bed late and missed his first class.",
+  "exzh": "Kevin 太晚起床，錯過了第一堂課。",
+  "targets": [
+   "got out of"
+  ],
+  "status": "ok",
+  "note": "反義：get into"
+ },
+ {
+  "id": "JP-106",
+  "phrase": "go back",
+  "zh": "回去；返回",
+  "say": "go back",
+  "en": "Mia left her phone in the classroom, so she had to go back.",
+  "exzh": "Mia 把手機忘在教室，所以她必須回去拿。",
+  "targets": [
+   "go back"
+  ],
+  "status": "ok",
+  "note": "go back to + 地點；回家 go back home"
+ },
+ {
+  "id": "JP-107",
+  "phrase": "go for a walk",
+  "zh": "去散步",
+  "say": "go for a walk",
+  "en": "After dinner, Ken and his dog often go for a walk in the park.",
+  "exzh": "晚餐後，Ken 常常帶著他的狗去公園散步。",
+  "targets": [
+   "go for a walk"
+  ],
+  "status": "ok",
+  "note": "同義：take a walk"
+ },
+ {
+  "id": "JP-108",
+  "phrase": "go shopping",
+  "zh": "去購物；去逛街",
+  "say": "go shopping",
+  "en": "Emma and her mother like to go shopping at the night market on weekends.",
+  "exzh": "Emma 和她媽媽週末喜歡去夜市逛街。",
+  "targets": [
+   "go shopping"
+  ],
+  "status": "ok",
+  "note": "同類：go swimming、go hiking"
+ },
+ {
+  "id": "JP-109",
+  "phrase": "grow up",
+  "zh": "長大；成長",
+  "say": "grow up",
+  "en": "Tom grew up in a small town in Hualien with his grandparents.",
+  "exzh": "Tom 是和祖父母在花蓮的一個小鎮長大的。",
+  "targets": [
+   "grew up"
+  ],
+  "status": "ok",
+  "note": "grow up 不接受詞；養育孩子用 bring up"
+ },
+ {
+  "id": "JP-110",
+  "phrase": "have a good time",
+  "zh": "玩得愉快；過得開心",
+  "say": "have a good time",
+  "en": "We had a good time at the beach during the summer vacation.",
+  "exzh": "暑假期間我們在海邊玩得很開心。",
+  "targets": [
+   "had a good time"
+  ],
+  "status": "ok",
+  "note": "同義：have fun、enjoy oneself"
+ },
+ {
+  "id": "JP-111",
+  "phrase": "in short",
+  "zh": "簡而言之；總之",
+  "say": "in short",
+  "en": "The food was cold and the service was slow. In short, it was terrible.",
+  "exzh": "食物是冷的，服務又慢。總之，糟透了。",
+  "targets": [
+   "In short"
+  ],
+  "status": "ok",
+  "note": "同義：in a word、in brief"
+ },
+ {
+  "id": "JP-112",
+  "phrase": "keep on",
+  "zh": "持續；繼續（做⋯⋯）",
+  "say": "keep on",
+  "en": "Leo kept on practicing basketball even though it started to rain.",
+  "exzh": "即使開始下雨，Leo 還是繼續練習籃球。",
+  "targets": [
+   "kept on"
+  ],
+  "status": "ok",
+  "note": "keep on + V-ing"
+ },
+ {
+  "id": "JP-113",
+  "phrase": "laugh at",
+  "zh": "嘲笑⋯⋯；因⋯⋯而笑",
+  "say": "laugh at",
+  "en": "Please don't laugh at Amy when she makes a mistake in English class.",
+  "exzh": "Amy 在英文課上犯錯時，請不要嘲笑她。",
+  "targets": [
+   "laugh at"
+  ],
+  "status": "ok",
+  "note": "make fun of 也有嘲笑之意"
+ },
+ {
+  "id": "JP-114",
+  "phrase": "look like",
+  "zh": "看起來像⋯⋯；長得像⋯⋯",
+  "say": "look like",
+  "en": "Ben looks like his father, especially when he smiles.",
+  "exzh": "Ben 長得很像他爸爸，尤其是他笑的時候。",
+  "targets": [
+   "looks like"
+  ],
+  "status": "ok",
+  "note": "look like + 名詞；look + 形容詞"
+ },
+ {
+  "id": "JP-115",
+  "phrase": "lose weight",
+  "zh": "減重；變瘦",
+  "say": "lose weight",
+  "en": "Lisa wants to lose weight, so she goes jogging every morning.",
+  "exzh": "Lisa 想減重，所以她每天早上去慢跑。",
+  "targets": [
+   "lose weight"
+  ],
+  "status": "ok",
+  "note": "反義：gain weight／put on weight 增重"
+ },
+ {
+  "id": "JP-116",
+  "phrase": "neither...nor...",
+  "zh": "既不⋯⋯也不⋯⋯",
+  "say": "neither something nor",
+  "en": "Neither Kevin nor his brother likes to eat vegetables at dinner.",
+  "exzh": "Kevin 和他弟弟晚餐時都不喜歡吃蔬菜。",
+  "targets": [
+   "Neither",
+   "nor"
+  ],
+  "status": "ok",
+  "note": "動詞與 nor 後的主詞一致；反義：both...and..."
+ },
+ {
+  "id": "JP-117",
+  "phrase": "no matter what",
+  "zh": "無論什麼；不管怎樣",
+  "say": "no matter what",
+  "en": "No matter what happens, Mia always tries her best in every game.",
+  "exzh": "無論發生什麼事，Mia 在每場比賽中總是全力以赴。",
+  "targets": [
+   "No matter what"
+  ],
+  "status": "ok",
+  "note": "= whatever；另有 no matter who／where／how"
+ },
+ {
+  "id": "JP-118",
+  "phrase": "of course",
+  "zh": "當然",
+  "say": "of course",
+  "en": "\"Can I borrow your pen?\" Ken asked. \"Of course,\" Emma said with a smile.",
+  "exzh": "「我可以借你的筆嗎？」Ken 問。「當然可以。」Emma 笑著說。",
+  "targets": [
+   "Of course"
+  ],
+  "status": "ok",
+  "note": "同義：sure、certainly"
+ },
+ {
+  "id": "JP-119",
+  "phrase": "pass by",
+  "zh": "經過；路過",
+  "say": "pass by",
+  "en": "Tom passes by a bakery on his way to school every morning.",
+  "exzh": "Tom 每天早上上學途中都會經過一家麵包店。",
+  "targets": [
+   "passes by"
+  ],
+  "status": "ok",
+  "note": "時間流逝也可用 pass by"
+ },
+ {
+  "id": "JP-120",
+  "phrase": "put away",
+  "zh": "把⋯⋯收好；收拾",
+  "say": "put away",
+  "en": "Mom asked Leo to put away his toys before the guests arrived.",
+  "exzh": "媽媽要 Leo 在客人到之前把玩具收好。",
+  "targets": [
+   "put away"
+  ],
+  "status": "ok",
+  "note": "代名詞放中間：put it away"
+ },
+ {
+  "id": "JP-121",
+  "phrase": "remind sb. of sth.",
+  "zh": "使某人想起⋯⋯",
+  "say": "remind someone of something",
+  "en": "This song always reminds Amy of her happy days in junior high.",
+  "exzh": "這首歌總是讓 Amy 想起她國中時快樂的日子。",
+  "targets": [
+   "reminds Amy of"
+  ],
+  "status": "ok",
+  "note": "提醒某人做某事：remind sb. to V"
+ },
+ {
+  "id": "JP-122",
+  "phrase": "shout at",
+  "zh": "對⋯⋯大吼",
+  "say": "shout at",
+  "en": "The coach shouted at Ben because he was late for practice again.",
+  "exzh": "教練對 Ben 大吼，因為他練習又遲到了。",
+  "targets": [
+   "shouted at"
+  ],
+  "status": "ok",
+  "note": "shout at 帶怒氣；shout to 只是大聲喊讓對方聽見"
+ },
+ {
+  "id": "JP-123",
+  "phrase": "spend...on...",
+  "zh": "花（時間、金錢）在⋯⋯上",
+  "say": "spend something on",
+  "en": "Lisa spends two hours on her homework every night after dinner.",
+  "exzh": "Lisa 每天晚餐後花兩個小時寫功課。",
+  "targets": [
+   "spends",
+   "on"
+  ],
+  "status": "ok",
+  "note": "spend + 時間 + V-ing；主詞是人，比較 It takes..."
+ },
+ {
+  "id": "JP-124",
+  "phrase": "stay up",
+  "zh": "熬夜；不睡覺",
+  "say": "stay up",
+  "en": "Kevin stayed up late to study for the math test last night.",
+  "exzh": "Kevin 昨晚熬夜準備數學考試。",
+  "targets": [
+   "stayed up"
+  ],
+  "status": "ok",
+  "note": "stay up late 熬夜"
+ },
+ {
+  "id": "JP-125",
+  "phrase": "take care of",
+  "zh": "照顧⋯⋯；處理⋯⋯",
+  "say": "take care of",
+  "en": "Mia takes care of her little brother when her parents are at work.",
+  "exzh": "爸媽上班時，Mia 會照顧她的弟弟。",
+  "targets": [
+   "takes care of"
+  ],
+  "status": "ok",
+  "note": "同義：look after"
+ },
+ {
+  "id": "JP-126",
+  "phrase": "take out",
+  "zh": "拿出；帶出去（垃圾等）",
+  "say": "take out",
+  "en": "Ken took out his phone and showed us the photos from the trip.",
+  "exzh": "Ken 拿出手機，給我們看旅行的照片。",
+  "targets": [
+   "took out"
+  ],
+  "status": "ok",
+  "note": "take out the trash 倒垃圾"
+ },
+ {
+  "id": "JP-127",
+  "phrase": "talk about",
+  "zh": "談論⋯⋯",
+  "say": "talk about",
+  "en": "At lunch, Emma and her friends like to talk about their favorite shows.",
+  "exzh": "午餐時，Emma 和朋友們喜歡聊她們最愛的節目。",
+  "targets": [
+   "talk about"
+  ],
+  "status": "ok",
+  "note": "比較：talk to 和某人說話"
+ },
+ {
+  "id": "JP-128",
+  "phrase": "talk to",
+  "zh": "和⋯⋯說話；跟⋯⋯談",
+  "say": "talk to",
+  "en": "If you feel sad, you can always talk to your teacher or parents.",
+  "exzh": "如果你覺得難過，隨時都可以跟老師或父母聊聊。",
+  "targets": [
+   "talk to"
+  ],
+  "status": "ok",
+  "note": "同義：talk with"
+ },
+ {
+  "id": "JP-129",
+  "phrase": "thank sb. for sth.",
+  "zh": "為⋯⋯感謝某人",
+  "say": "thank someone for something",
+  "en": "Tom thanked Lisa for helping him with his English homework.",
+  "exzh": "Tom 謝謝 Lisa 幫他做英文作業。",
+  "targets": [
+   "thanked Lisa for"
+  ],
+  "status": "ok",
+  "note": "for 後接名詞或 V-ing"
+ },
+ {
+  "id": "JP-130",
+  "phrase": "these days",
+  "zh": "最近；這些日子",
+  "say": "these days",
+  "en": "These days, many students use their phones to look up new words.",
+  "exzh": "最近，許多學生用手機查生字。",
+  "targets": [
+   "These days"
+  ],
+  "status": "ok",
+  "note": "常搭配現在式或現在進行式；比較 in those days 當時"
+ },
+ {
+  "id": "JP-131",
+  "phrase": "think about",
+  "zh": "考慮⋯⋯；想到⋯⋯",
+  "say": "think about",
+  "en": "Ben is thinking about joining the guitar club this semester.",
+  "exzh": "Ben 正在考慮這學期加入吉他社。",
+  "targets": [
+   "thinking about"
+  ],
+  "status": "ok",
+  "note": "think of 想出、想起"
+ },
+ {
+  "id": "JP-132",
+  "phrase": "turn off",
+  "zh": "關掉（電器、燈等）",
+  "say": "turn off",
+  "en": "Please turn off the lights and the fan before you leave the classroom.",
+  "exzh": "離開教室前請把燈和電扇關掉。",
+  "targets": [
+   "turn off"
+  ],
+  "status": "ok",
+  "note": "反義：turn on"
+ },
+ {
+  "id": "JP-133",
+  "phrase": "wait for",
+  "zh": "等待⋯⋯",
+  "say": "wait for",
+  "en": "Amy waited for her friends at the train station for twenty minutes.",
+  "exzh": "Amy 在火車站等她的朋友等了二十分鐘。",
+  "targets": [
+   "waited for"
+  ],
+  "status": "ok",
+  "note": "wait for sb. to V 等某人做某事"
+ },
+ {
+  "id": "JP-134",
+  "phrase": "what about",
+  "zh": "⋯⋯怎麼樣？；⋯⋯呢？",
+  "say": "what about",
+  "en": "I don't want pizza for lunch. What about beef noodles instead?",
+  "exzh": "我午餐不想吃披薩。改吃牛肉麵怎麼樣？",
+  "targets": [
+   "What about"
+  ],
+  "status": "ok",
+  "note": "同義：how about；後接名詞或 V-ing"
+ },
+ {
+  "id": "JP-135",
+  "phrase": "write down",
+  "zh": "寫下；記下",
+  "say": "write down",
+  "en": "Kevin always writes down new English words in a small notebook.",
+  "exzh": "Kevin 總是把新的英文單字記在一本小筆記本裡。",
+  "targets": [
+   "writes down"
+  ],
+  "status": "ok",
+  "note": "代名詞放中間：write it down"
+ },
+ {
+  "id": "JP-136",
+  "phrase": "be afraid of",
+  "zh": "害怕⋯⋯",
+  "say": "be afraid of",
+  "en": "Mia is afraid of dogs, so she never goes near them.",
+  "exzh": "Mia 怕狗，所以她從不靠近牠們。",
+  "targets": [
+   "is afraid of"
+  ],
+  "status": "ok",
+  "note": "後接名詞或 V-ing；同義：be scared of"
+ },
+ {
+  "id": "JP-137",
+  "phrase": "be full of",
+  "zh": "充滿⋯⋯",
+  "say": "be full of",
+  "en": "On Friday nights, the night market is full of students and families.",
+  "exzh": "每到星期五晚上，夜市裡擠滿了學生和家庭。",
+  "targets": [
+   "is full of"
+  ],
+  "status": "ok",
+  "note": "同義：be filled with"
+ },
+ {
+  "id": "JP-138",
+  "phrase": "be good at",
+  "zh": "擅長⋯⋯",
+  "say": "be good at",
+  "en": "Ken is good at math, so his classmates often ask him for help.",
+  "exzh": "Ken 擅長數學，所以同學們常向他求助。",
+  "targets": [
+   "is good at"
+  ],
+  "status": "ok",
+  "note": "反義：be poor at／be bad at"
+ },
+ {
+  "id": "JP-139",
+  "phrase": "be late for",
+  "zh": "（上學、上課等）遲到",
+  "say": "be late for",
+  "en": "Emma missed the bus and was late for school again today.",
+  "exzh": "Emma 錯過了公車，今天上學又遲到了。",
+  "targets": [
+   "was late for"
+  ],
+  "status": "ok",
+  "note": "反義：be on time for 準時"
+ },
+ {
+  "id": "JP-140",
+  "phrase": "get off",
+  "zh": "下（公車、火車等）",
+  "say": "get off",
+  "en": "Tom got off the bus one stop early to buy breakfast.",
+  "exzh": "Tom 提早一站下公車去買早餐。",
+  "targets": [
+   "got off"
+  ],
+  "status": "ok",
+  "note": "反義：get on；下汽車用 get out of"
+ },
+ {
+  "id": "JP-141",
+  "phrase": "had better",
+  "zh": "最好（做⋯⋯）",
+  "say": "had better",
+  "en": "It looks like rain, so you had better take an umbrella with you.",
+  "exzh": "看起來要下雨了，所以你最好帶把傘。",
+  "targets": [
+   "had better"
+  ],
+  "status": "ok",
+  "note": "後接原形動詞；否定 had better not"
+ },
+ {
+  "id": "JP-142",
+  "phrase": "how about",
+  "zh": "⋯⋯怎麼樣？；⋯⋯如何？",
+  "say": "how about",
+  "en": "How about going to the movies with us after the exam on Friday?",
+  "exzh": "星期五考完試後跟我們一起去看電影怎麼樣？",
+  "targets": [
+   "How about"
+  ],
+  "status": "ok",
+  "note": "同義：what about；後接名詞或 V-ing"
+ },
+ {
+  "id": "JP-143",
+  "phrase": "listen to",
+  "zh": "聽⋯⋯",
+  "say": "listen to",
+  "en": "Leo likes to listen to music on his phone while he does homework.",
+  "exzh": "Leo 喜歡一邊寫作業一邊用手機聽音樂。",
+  "targets": [
+   "listen to"
+  ],
+  "status": "ok",
+  "note": "比較：hear 聽到（不一定專心）"
+ },
+ {
+  "id": "JP-144",
+  "phrase": "make a mistake",
+  "zh": "犯錯",
+  "say": "make a mistake",
+  "en": "Lisa made a mistake on the last question of the science test.",
+  "exzh": "Lisa 在自然考試的最後一題犯了錯。",
+  "targets": [
+   "made a mistake"
+  ],
+  "status": "ok",
+  "note": "複數 make mistakes；by mistake 不小心"
+ },
+ {
+  "id": "JP-145",
+  "phrase": "next to",
+  "zh": "在⋯⋯旁邊",
+  "say": "next to",
+  "en": "The convenience store is right next to our school's front gate.",
+  "exzh": "便利商店就在我們學校正門旁邊。",
+  "targets": [
+   "next to"
+  ],
+  "status": "ok",
+  "note": "同義：beside"
+ },
+ {
+  "id": "JP-146",
+  "phrase": "prepare for",
+  "zh": "為⋯⋯做準備",
+  "say": "prepare for",
+  "en": "Amy goes to the library every day to prepare for the big exam.",
+  "exzh": "Amy 每天去圖書館準備這場大考。",
+  "targets": [
+   "prepare for"
+  ],
+  "status": "ok",
+  "note": "be prepared for 對⋯⋯有準備"
+ },
+ {
+  "id": "JP-147",
+  "phrase": "put on",
+  "zh": "穿上；戴上",
+  "say": "put on",
+  "en": "It was cold outside, so Ben put on his jacket before he left.",
+  "exzh": "外面很冷，所以 Ben 出門前穿上了外套。",
+  "targets": [
+   "put on"
+  ],
+  "status": "ok",
+  "note": "put on 指穿上的動作；wear 指穿著的狀態；反義 take off"
+ },
+ {
+  "id": "JP-148",
+  "phrase": "take a picture",
+  "zh": "拍照",
+  "say": "take a picture",
+  "en": "Mia asked a stranger to take a picture of her family at the lake.",
+  "exzh": "Mia 請一位陌生人在湖邊幫她全家拍照。",
+  "targets": [
+   "take a picture"
+  ],
+  "status": "ok",
+  "note": "拍⋯⋯的照片：take a picture of；同義 take a photo"
+ },
+ {
+  "id": "JP-149",
+  "phrase": "turn on",
+  "zh": "打開（電器、燈等）",
+  "say": "turn on",
+  "en": "Kevin turned on the air conditioner because the room was so hot.",
+  "exzh": "房間太熱了，所以 Kevin 打開了冷氣。",
+  "targets": [
+   "turned on"
+  ],
+  "status": "ok",
+  "note": "反義：turn off"
+ },
+ {
+  "id": "JP-150",
+  "phrase": "would like to",
+  "zh": "想要（做⋯⋯）",
+  "say": "would like to",
+  "en": "Emma would like to visit Japan with her best friend next summer.",
+  "exzh": "Emma 明年夏天想和她最好的朋友去日本玩。",
+  "targets": [
+   "would like to"
+  ],
+  "status": "ok",
+  "note": "比 want to 更客氣；常縮寫 I'd like to"
+ }
+]
