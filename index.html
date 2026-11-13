@@ -365,7 +365,8 @@ function variants(word){
   });
   return out;
 }
-function display(w){return w.lv===1?w.word.replace(/\.\.\./g,' … ').replace(/\s+/g,' ').trim():w.word;}
+const isPh=w=>w.lv===1||w.id.startsWith('JP-');   // 片語：課本片語（lv 1）＋國中片語（國中基礎站 JP-）
+function display(w){return isPh(w)?w.word.replace(/\.\.\./g,' … ').replace(/\s+/g,' ').trim():w.word;}
 function sayForm(w){return w.say||variants(w.word)[0];}
 function mainPos(w){return w.pos.replace(/[()]/g,'').split('/')[0];}
 function core(w){return w.years.length>=3;}
@@ -421,7 +422,7 @@ function simpleSentence(w){ if(w.ex)return {src:'ex',s:w.ex[0],zh:w.ex[1],t:w.ex
 function qTypeFor(w){
   const s=star(w), sent=simpleSentence(w);
   if(s<=1)return 'en2zh';
-  if(w.lv===1)return s===2||!sent?'zh2en':'ctxmc'; // 片語不考拼字
+  if(isPh(w))return s===2||!sent?'zh2en':'ctxmc'; // 片語不考拼字
   if(s>=3&&FAM[w.id]&&FAM[w.id][1]&&Math.random()<.35)return 'form'; // 填入正確詞性
   if(s===2)return sent&&Math.random()<.5?'ctxmc':'zh2en';
   if(w.lv>=6&&w.lv!==9)return sent?'ctxmc':'zh2en';   // 第六、七級不考拼字
@@ -646,7 +647,7 @@ function home(){
   ${READ.length&&(lv!==9||READ.some(r=>r.level===9))?(()=>{const rs=READ.filter(r=>r.level===lv);const un=rs.filter(r=>readUnlocked(r));const fresh=un.filter(r=>!S.read[r.id]).length;const done=rs.filter(r=>S.read[r.id]).length;
     return `<div class="hsub"><b>冒險日誌</b><span>讀短文、做學測題型</span></div><button class="hjournal" id="journalBtn">${pic('region_l'+lv,'')}<span class="t"><b>${lvLong(lv)}冒險日誌</b><span>${rs.length?`已讀 ${done} / ${rs.length} 篇・已解鎖 ${un.length} 篇`:'這一級的短文製作中'}</span></span>${fresh?`<span class="new">新解鎖 ${fresh}</span>`:''}</button>`;})():''}
   ${TB?`<div class="hsub"><b>課本進度</b><span>段考前照課複習</span></div><button class="htb" id="tbBtn">${pic('list','')}<span class="t"><b>課本第 ${S.tbBook||1} 冊</b><span>選一課，只練這課的單字 →</span></span></button>`:''}
-  ${W.some(w=>w.lv===1)?(()=>{const P=W.filter(w=>w.lv===1);const g=P.filter(w=>star(w)>=1).length;return `<button class="htb" id="phrBtn" style="background:var(--t-blitz)">${pic('dex','')}<span class="t"><b>片語關卡</b><span>課本片語 ${P.length} 個・已學 ${g} →</span></span></button>`;})():''}
+  ${W.some(isPh)?(()=>{const P=W.filter(w=>w.lv===1),Q=W.filter(w=>w.id.startsWith('JP-'));const g=W.filter(w=>isPh(w)&&star(w)>=1).length;return `<button class="htb" id="phrBtn" style="background:var(--t-blitz)">${pic('dex','')}<span class="t"><b>片語關卡</b><span>${Q.length?`國中片語 ${Q.length}・`:''}課本片語 ${P.length} 個・已學 ${g} →</span></span></button>`;})():''}
   ${GR.some(c=>c.b!==9)?(()=>{const G2=GR.filter(c=>c.b!==9);return `<button class="htb" id="grBtn" style="background:var(--t-dex)">${pic('list','')}<span class="t"><b>課本文法卡</b><span>${G2.some(c=>c.b===0)?(G2.some(c=>c.l[0]==='K')?'國中基礎・銜接＋':'國中銜接＋'):''}第 ${[...new Set(G2.filter(c=>c.b>0).map(c=>c.b))].join('、')} 冊・${G2.length} 個句型・已練 ${G2.filter(c=>S.gr[c.id]!=null).length} →</span></span></button>`;})():''}
   ${GR.some(c=>c.b===9)?(()=>{const M=GR.filter(c=>c.b===9);return `<button class="htb" id="moBtn" style="background:var(--t-boss)">${pic('dex','')}<span class="t"><b>構詞卡：字首・字尾・字根</b><span>${M.length} 張・拆字猜義、看字尾判斷詞性・已練 ${M.filter(c=>S.gr[c.id]!=null).length} →</span></span></button>`;})():''}
   ${CZ.length||RC.length?(()=>{const all=CZ.concat(RC,VQ,TR);const st=all.reduce((s,c)=>s+((S.cz[c.id]||{}).stars||0),0);return `<button class="htb" id="czBtn" style="background:var(--t-blitz)">${pic('boss','')}<span class="t"><b>學測闖關：詞彙・綜合・文意選填・閱讀・翻譯</b><span>${all.length} 關・已得 ${st} / ${all.length*3} 顆星 →</span></span></button>`;})():''}
@@ -809,7 +810,7 @@ function learnCard(it){
 function ask(it){
   const w=it.w; const type=it.fresh?'en2zh':(it.retry?'en2zh':qTypeFor(w));
   const s=star(w);
-  const label={en2zh:'選出中文意思',zh2en:w.lv===1?'選出英文片語':'選出英文單字',ctxmc:w.lv===1?'選出最適合填入句子的片語':'選出最適合填入句子的字',spell:'聽發音、看中文，拼出單字',cloze:'依句意填入單字（已給首字母）',examcloze:'學測原句：填入單字',form:'填入正確詞性'}[type];
+  const label={en2zh:'選出中文意思',zh2en:isPh(w)?'選出英文片語':'選出英文單字',ctxmc:isPh(w)?'選出最適合填入句子的片語':'選出最適合填入句子的字',spell:'聽發音、看中文，拼出單字',cloze:'依句意填入單字（已給首字母）',examcloze:'學測原句：填入單字',form:'填入正確詞性'}[type];
   let body='';
   if(type==='en2zh'){
     const opts=shuffle([w,...distractors(w)]);
@@ -1515,7 +1516,7 @@ function tbBooks(b){
 function tbLesson([b,l]){
   const L=TB.lessons.find(x=>x.b===b&&x.l===l); const ws0=tbWords(L), ps=tbPhr(L), ws=ws0.concat(ps);
   const fresh=ws.filter(w=>!rec(w)), learned=ws.filter(w=>star(w)>=1);
-  const row=w=>`<button class="li" data-i="${w.i}" style="text-align:left"><span class="w">${esc(display(w))} ${w.lv===1?'':`<span class="pos">${esc(w.pos)}</span> `}<span class="badge lv" style="--lc:${LC[w.lv]}">${lvName(w.lv)}</span></span>${starsHTML(star(w))}<span class="m">${esc(w.zh)}</span></button>`;
+  const row=w=>`<button class="li" data-i="${w.i}" style="text-align:left"><span class="w">${esc(display(w))} ${isPh(w)?'':`<span class="pos">${esc(w.pos)}</span> `}<span class="badge lv" style="--lc:${LC[w.lv]}">${lvName(w.lv)}</span></span>${starsHTML(star(w))}<span class="m">${esc(w.zh)}</span></button>`;
   app.innerHTML=`<div class="top"><button class="iconbtn" id="back">← 課本進度</button><b>第 ${b} 冊 ${tbLabel(L)}</b><span></span></div>
   <h2 style="margin:4px 0 2px">第 ${b} 冊 ${tbLong(L)}</h2>
   <div class="kbd" style="text-align:left;margin:0">單字 ${ws0.length}${ps.length?'・片語 '+ps.length:''}・已學 ${learned.length}・未學 ${fresh.length}</div>
@@ -1536,20 +1537,24 @@ function tbLesson([b,l]){
 /* ---------- 片語關卡：課本 Idioms and Phrases，照課本順序學 ---------- */
 // 片語和單字共用星等與複習排程；題型只有選中文、選片語、句子挖空選擇（不考拼字）
 function phrHub(b){
-  const P=W.filter(w=>w.lv===1); b=b||0;
-  const order=TB?TB.lessons.flatMap(L=>(L.p||[]).map(id=>[BYID[id],L])).filter(x=>x[0]):P.map(w=>[w,null]);
+  // b：'jh'＝國中片語；0＝課本全部；1–6＝課本第幾冊
+  const JP=W.filter(w=>w.id.startsWith('JP-')), TBP=W.filter(w=>w.lv===1);
+  b=b==null?(JP.length?'jh':0):b; const isJ=b==='jh';
+  const P=isJ?JP:TBP;
+  const order=isJ?JP.map(w=>[w,null]):TB?TB.lessons.flatMap(L=>(L.p||[]).map(id=>[BYID[id],L])).filter(x=>x[0]):P.map(w=>[w,null]);
   const fresh=order.filter(([w])=>!rec(w)).map(x=>x[0]), learned=P.filter(w=>star(w)>=1), due=learned.filter(w=>rec(w)[1]<=today());
-  const shown=order.filter(([w,L])=>!b||(L&&L.b===b));
+  const shown=order.filter(([w,L])=>isJ||!b||(L&&L.b===b));
+  const tabs=[...(JP.length?['jh']:[]),...(TB?[0,...TB.books]:[])];
   app.innerHTML=`<div class="top"><button class="iconbtn" id="back">← 首頁</button><b>片語關卡</b><span></span></div>
-  <div class="hnums" style="margin-bottom:12px"><div class="hnum"><div class="v">${learned.length}</div><div class="k">已學 / ${P.length}</div></div><div class="hnum"><div class="v">${due.length}</div><div class="k">今天到期</div></div><div class="hnum"><div class="v">${P.filter(w=>star(w)>=5).length}</div><div class="k">五星</div></div></div>
+  ${tabs.length>1?`<div class="books">${tabs.map(x=>`<button class="lvbtn ${x===b?'on':''}" style="--lc:${x==='jh'?'var(--l9)':'var(--l1)'}" data-b="${x}"><span class="n">${x==='jh'?'國中':x||'全'}</span><span class="p">${x==='jh'?'片語':x?'冊':'課本'}</span></button>`).join('')}</div>`:''}
+  <div class="hnums" style="margin-bottom:12px"><div class="hnum"><div class="v">${learned.length}</div><div class="k">${isJ?'國中片語':'課本片語'}已學 / ${P.length}</div></div><div class="hnum"><div class="v">${due.length}</div><div class="k">今天到期</div></div><div class="hnum"><div class="v">${P.filter(w=>star(w)>=5).length}</div><div class="k">五星</div></div></div>
   <div class="tbact"><button class="primary" id="pNew" ${fresh.length?'':'disabled'}>${fresh.length?'學 10 個新片語':'全部學過了'}</button><button class="ghost" id="pRev" ${learned.length?'':'disabled'}>複習學過的（${(due.length>=5?due:learned).length}）</button></div>
-  <div class="kbd" style="text-align:left">新片語照課本順序出現；學過的片語會和單字一起，在每日任務裡照間隔複習。</div>
-  ${TB?`<div class="books">${[0,...TB.books].map(x=>`<button class="lvbtn ${x===b?'on':''}" style="--lc:var(--l1)" data-b="${x}"><span class="n">${x||'全'}</span><span class="p">${x?'冊':'部'}</span></button>`).join('')}</div>`:''}
+  <div class="kbd" style="text-align:left">${isJ?'國中常用片語 '+P.length+' 個，學測文章最常出現的排在前面；和國中基礎站第 69–74 天是同一批，在這裡學過的，到那幾天就不會再當新字出現。':'新片語照課本順序出現；'}學過的片語會和單字一起，在每日任務裡照間隔複習。</div>
   <div class="list">${shown.map(([w,L])=>`<button class="li" data-i="${w.i}" style="text-align:left"><span class="w">${esc(display(w))}${L?` <span class="pos">${L.b}-${tbLabel(L)}</span>`:''}</span>${starsHTML(star(w))}<span class="m">${esc(w.zh)}</span></button>`).join('')}</div>`;
   document.getElementById('back').onclick=()=>go('home');
   document.getElementById('pNew').onclick=()=>startSession([],fresh.slice(0,10));
   document.getElementById('pRev').onclick=()=>startSession(due.length>=5?due:learned,[]);
-  app.querySelectorAll('[data-b]').forEach(x=>x.onclick=()=>phrHub(+x.dataset.b));
+  app.querySelectorAll('[data-b]').forEach(x=>x.onclick=()=>phrHub(x.dataset.b==='jh'?'jh':+x.dataset.b));
   app.querySelectorAll('.li').forEach(x=>x.onclick=()=>wordModal(W[+x.dataset.i]));
 }
 
