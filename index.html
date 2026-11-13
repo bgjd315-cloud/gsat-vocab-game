@@ -648,7 +648,7 @@ function home(){
     return `<div class="hsub"><b>冒險日誌</b><span>讀短文、做學測題型</span></div><button class="hjournal" id="journalBtn">${pic('region_l'+lv,'')}<span class="t"><b>${lvLong(lv)}冒險日誌</b><span>${rs.length?`已讀 ${done} / ${rs.length} 篇・已解鎖 ${un.length} 篇`:'這一級的短文製作中'}</span></span>${fresh?`<span class="new">新解鎖 ${fresh}</span>`:''}</button>`;})():''}
   ${TB?`<div class="hsub"><b>課本進度</b><span>段考前照課複習</span></div><button class="htb" id="tbBtn">${pic('list','')}<span class="t"><b>課本第 ${S.tbBook||1} 冊</b><span>選一課，只練這課的單字 →</span></span></button>`:''}
   ${W.some(isPh)?(()=>{const P=W.filter(w=>w.lv===1),Q=W.filter(w=>w.id.startsWith('JP-'));const g=W.filter(w=>isPh(w)&&star(w)>=1).length;return `<button class="htb" id="phrBtn" style="background:var(--t-blitz)">${pic('dex','')}<span class="t"><b>片語關卡</b><span>${Q.length?`國中片語 ${Q.length}・`:''}課本片語 ${P.length} 個・已學 ${g} →</span></span></button>`;})():''}
-  ${GR.some(c=>c.b!==9)?(()=>{const G2=GR.filter(c=>c.b!==9);return `<button class="htb" id="grBtn" style="background:var(--t-dex)">${pic('list','')}<span class="t"><b>課本文法卡</b><span>${G2.some(c=>c.b===0)?(G2.some(c=>c.l[0]==='K')?'國中基礎・銜接＋':'國中銜接＋'):''}第 ${[...new Set(G2.filter(c=>c.b>0).map(c=>c.b))].join('、')} 冊・${G2.length} 個句型・已練 ${G2.filter(c=>S.gr[c.id]!=null).length} →</span></span></button>`;})():''}
+  ${GR.some(c=>c.b!==9)?(()=>{const G2=GR.filter(c=>c.b!==9);return `<button class="htb" id="grBtn" style="background:var(--t-dex)">${pic('list','')}<span class="t"><b>文法卡</b><span>${G2.some(c=>c.b===0)?'國中（自編）＋':''}課本第 ${[...new Set(G2.filter(c=>c.b>0).map(c=>c.b))].join('、')} 冊・${G2.length} 個句型・已練 ${G2.filter(c=>S.gr[c.id]!=null).length} →</span></span></button>`;})():''}
   ${GR.some(c=>c.b===9)?(()=>{const M=GR.filter(c=>c.b===9);return `<button class="htb" id="moBtn" style="background:var(--t-boss)">${pic('dex','')}<span class="t"><b>構詞卡：字首・字尾・字根</b><span>${M.length} 張・拆字猜義、看字尾判斷詞性・已練 ${M.filter(c=>S.gr[c.id]!=null).length} →</span></span></button>`;})():''}
   ${CZ.length||RC.length?(()=>{const all=CZ.concat(RC,VQ,TR);const st=all.reduce((s,c)=>s+((S.cz[c.id]||{}).stars||0),0);return `<button class="htb" id="czBtn" style="background:var(--t-blitz)">${pic('boss','')}<span class="t"><b>學測闖關：詞彙・綜合・文意選填・閱讀・翻譯</b><span>${all.length} 關・已得 ${st} / ${all.length*3} 顆星 →</span></span></button>`;})():''}
   ${GQ.length?(()=>{const done=GQ.filter(q=>S.gq[q.y+'-'+q.n]!=null).length;return `<button class="htb" id="gqBtn" style="background:var(--t-boss)">${pic('trophy','')}<span class="t"><b>歷屆學測詞彙題</b><span>${Math.min(...GQ.map(q=>q.y))}–${Math.max(...GQ.map(q=>q.y))} 學年度共 ${GQ.length} 題・已做 ${done} →</span></span></button>`;})():''}
@@ -1171,16 +1171,16 @@ function grRow(c){const best=S.gr[c.id];return `<button class="les" data-gr="${c
 function grBook(b){
   const isMo=b===9;const books=isMo?[9]:[...new Set(GR.map(c=>c.b))].filter(x=>x!==9).sort();b=isMo?9:b!=null&&books.includes(b)?b:(S.tbBook&&books.includes(S.tbBook)?S.tbBook:books[0]);
   const cs=GR.filter(c=>c.b===b);
-  app.innerHTML=`<div class="top"><button class="iconbtn" id="back">← 首頁</button><b>${isMo?'構詞卡（字首・字尾・字根）':'課本文法卡'}</b><span></span></div>
-  ${isMo?'<div class="kbd" style="text-align:left">學會拆字：遇到沒學過的字先拆成字首＋字根＋字尾，再用上下文確認意思；也能從字尾判斷詞性。</div>':''}<div class="books" ${isMo?'hidden':''} style="grid-template-columns:repeat(${books.length},1fr)">${books.map(x=>`<button class="lvbtn ${x===b?'on':''}" style="--lc:${x===0?'var(--l0)':'var(--accent)'}" data-b="${x}"><span class="n">${x===0?'銜':x}</span><span class="p">${x===0?'國中':'冊'}</span></button>`).join('')}</div>
-  <div class="tbact"><button class="primary" id="grMix">${isMo?'構詞':b===0?'銜接站':'本冊'}隨機 10 題</button>${isMo?'':'<button class="ghost" id="grAll">跨冊隨機 10 題</button>'}</div>
+  app.innerHTML=`<div class="top"><button class="iconbtn" id="back">← 首頁</button><b>${isMo?'構詞卡（字首・字尾・字根）':'文法卡'}</b><span></span></div>
+  ${isMo?'<div class="kbd" style="text-align:left">學會拆字：遇到沒學過的字先拆成字首＋字根＋字尾，再用上下文確認意思；也能從字尾判斷詞性。</div>':''}<div class="books" ${isMo?'hidden':''} style="grid-template-columns:repeat(${books.length},1fr)">${books.map(x=>`<button class="lvbtn ${x===b?'on':''}" style="--lc:${x===0?'var(--l0)':'var(--accent)'}" data-b="${x}"><span class="n">${x===0?'國中':x}</span><span class="p">${x===0?'自編':'冊'}</span></button>`).join('')}</div>
+  <div class="tbact"><button class="primary" id="grMix">${isMo?'構詞':b===0?'國中':'本冊'}隨機 10 題</button>${isMo?'':'<button class="ghost" id="grAll">跨冊隨機 10 題</button>'}</div>
   <div class="list">${isMo?['字首','字尾','複合字','字根','策略'].map(g=>{const xs=cs.filter(c=>c.group===g);return xs.length?`<div class="hsub"><b>${g}</b></div>`+xs.map(grRow).join(''):'';}).join(''):cs.map(grRow).join('')}</div>
   <div class="foot">${isMo?'字族範例盡量取自本站各級單字，練習題含歷屆學測文章出現過的表外字。':b===0?(cs.some(c=>c.l[0]==='K')?'國中基礎文法：補最基本的句型；國中文法銜接：高中課本句型的基礎。':'國中文法銜接：高中課本句型的基礎。'):'各課句型主題依高中英文課本整理。'}說明、例句與練習題為本站編寫。</div>`;
   document.getElementById('back').onclick=()=>go('home');
   app.querySelectorAll('[data-b]').forEach(x=>x.onclick=()=>grBook(+x.dataset.b));
   app.querySelectorAll('[data-gr]').forEach(x=>x.onclick=()=>go('grc',x.dataset.gr));
   const mix=src=>shuffle(src.flatMap(c=>c.qs.map(q=>Object.assign({card:c},q)))).slice(0,10);
-  document.getElementById('grMix').onclick=()=>grQuiz(mix(cs),(isMo?'構詞':b===0?'國中文法銜接':'第 '+b+' 冊')+'隨機 10 題',null,()=>grBook(b));
+  document.getElementById('grMix').onclick=()=>grQuiz(mix(cs),(isMo?'構詞':b===0?'國中文法':'第 '+b+' 冊')+'隨機 10 題',null,()=>grBook(b));
   const ga=document.getElementById('grAll');if(ga)ga.onclick=()=>grQuiz(mix(GR.filter(c=>c.b!==9)),'跨冊隨機 10 題',null,()=>grBook(b));
 }
 function grHL(e){let s=esc(e.en);(e.hl||[]).forEach(h=>{const x=esc(h);s=s.replace(x,'<b>'+x+'</b>');});return s;}
