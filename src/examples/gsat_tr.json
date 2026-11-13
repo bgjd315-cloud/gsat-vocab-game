@@ -160,7 +160,7 @@
       "w": 1
      },
      {
-      "t": "常見錯誤：修飾 progress 要用形容詞 technological，不要寫成 technologic progress；主詞是兩樣東西，不要寫 is",
+      "t": "常見錯誤：修飾 progress 要用形容詞 technological，不要寫成名詞 technology progress；主詞是兩樣東西，不要寫 is",
       "w": 0.5
      }
     ],
@@ -212,7 +212,7 @@
       "w": 1
      },
      {
-      "t": "常見錯誤：不要寫成 are now being come true 或 appeared 漏掉主要動詞",
+      "t": "常見錯誤：不要寫成 are now being come true，也不要只寫子句動詞 appeared 而漏掉主要動詞",
       "w": 0.5
      }
     ],
@@ -389,7 +389,7 @@
       "w": 1
      },
      {
-      "t": "常見錯誤：history、war 泛指時不加 the；proven 不要拼成 proove",
+      "t": "常見錯誤：history、war 泛指時不加 the；proven 不要拼成 prooven",
       "w": 0.5
      }
     ],
@@ -503,7 +503,7 @@
       "w": 1
      },
      {
-      "t": "常見錯誤：不要寫成 a lifetime promise for animals 或漏掉冠詞 a",
+      "t": "常見錯誤：不要寫成 a lifelong commitment for animals（介系詞要用 to）或漏掉冠詞 a",
       "w": 0.5
      }
     ],
@@ -516,7 +516,7 @@
     "zh": "在享受寵物所帶來的歡樂時，我們不該忽略要善盡照顧他們的責任。",
     "ref": "While enjoying the happiness our pets bring us, we should not neglect our responsibility to take good care of them.",
     "alt": [
-     "When we enjoy the joy that pets bring, we should not ignore our duty to take good care of them."
+     "When we enjoy the happiness that pets bring, we should not ignore our duty to take good care of them."
     ],
     "keys": [
      {
@@ -1003,7 +1003,7 @@
       "w": 1
      },
      {
-      "t": "should 後面的動詞都用原形：prepare、stay、move",
+      "t": "should 後面的動詞都用原形：store（或 prepare）、stay、move",
       "w": 1
      },
      {
@@ -1132,7 +1132,7 @@
       "w": 0.5
      }
     ],
-    "tip": "「…之一」就是 one of the + 最高級 + 複數名詞；「國內外」可寫 both at home and abroad 或 domestic and foreign。",
+    "tip": "「最…之一」就是 one of the + 最高級 + 複數名詞；「國內外」可寫 both at home and abroad 或 domestic and foreign。",
     "gram": [
      "G0-J05-1",
      "G0-J06-1"
@@ -1238,7 +1238,7 @@
       "w": 1
      },
      {
-      "t": "「因應挑戰」deal with / cope with / face challenges，with 不可漏",
+      "t": "「因應挑戰」deal with / cope with challenges（with 不可漏），或 face challenges",
       "w": 1.5
      },
      {
@@ -2010,7 +2010,7 @@
       "w": 0.5
      },
      {
-      "t": "常見錯誤：「除了…也」不要用 Except，except 是「除…之外都不」",
+      "t": "常見錯誤：「除了…也」不要用 Except，except 表「排除」（除了…之外，其餘都…）",
       "w": 0.5
      }
     ],
@@ -2281,15 +2281,15 @@
     ]
    },
    {
-    "zh": "過去十年來，台灣夏季的平均氣溫已經上升了將近一度。",
-    "ref": "Over the past decade, the average summer temperature in Taiwan has risen by nearly one degree.",
+    "zh": "過去三十年來，台灣夏季的平均氣溫已經上升了將近一度。",
+    "ref": "Over the past three decades, the average summer temperature in Taiwan has risen by nearly one degree.",
     "alt": [
-     "In the past ten years, Taiwan's average summer temperature has gone up by almost one degree."
+     "In the past thirty years, Taiwan's average summer temperature has gone up by almost one degree."
     ],
     "keys": [
      {
-      "zh": "過去十年來",
-      "en": "over the past decade"
+      "zh": "過去三十年來",
+      "en": "over the past three decades"
      },
      {
       "zh": "夏季的平均氣溫",
@@ -2307,7 +2307,7 @@
     "frame": "Over the past ___, the ___ temperature in Taiwan has + p.p. by ___.",
     "points": [
      {
-      "t": "「過去十年來」over the past decade / in the past ten years，搭配現在完成式",
+      "t": "「過去三十年來」over the past three decades / in the past thirty years，搭配現在完成式",
       "w": 1.5
      },
      {
@@ -2391,7 +2391,7 @@
     "zh": "這座古老的寺廟建於一百多年前，至今仍保存得很好。",
     "ref": "This old temple was built more than a hundred years ago and is still well preserved today.",
     "alt": [
-     "This ancient temple, which was built over a century ago, is still in good condition today."
+     "This historic temple, which was built over a century ago, is still in good condition today."
     ],
     "keys": [
      {
@@ -2532,7 +2532,7 @@
     ]
    },
    {
-    "zh": "這項新的交通規定預計將從明年一月起開始實施。",
+    "zh": "這項新的交通規定預計將從明年一月起實施。",
     "ref": "The new traffic regulation is expected to be put into effect starting next January.",
     "alt": [
      "The new traffic rule is expected to be carried out from next January."
@@ -2789,7 +2789,7 @@
       "w": 0.5
      }
     ],
-    "tip": "「之一」一定是 one of the + 最高級 + 複數名詞；後半句另起一個子句講吸引遊客。",
+    "tip": "「最…之一」要用 one of the + 最高級 + 複數名詞；後半句另起一個子句講吸引遊客。",
     "gram": [
      "G0-J05-1"
     ]
@@ -2877,7 +2877,7 @@
       "w": 0.5
      },
      {
-      "t": "常見錯誤：不要寫成 There is nothing more relax than…",
+      "t": "常見錯誤：不要寫成 Nothing is more relax than…（relax 是動詞）",
       "w": 0.5
      }
     ],
@@ -4050,14 +4050,14 @@
       "w": 0.5
      }
     ],
-    "tip": "「不但…還…」連接的是兩個動詞，not only 和 but also 後面都放原形動詞。",
+    "tip": "「不但…還…」連接的是兩個動詞，因為前面有 can，not only 和 but also 後面都放原形動詞。",
     "gram": [
      "G3-L03-1"
     ]
    },
    {
     "zh": "這位歌手不只在台灣很受歡迎，在其他亞洲國家也擁有大量的歌迷。",
-    "ref": "This singer is not only popular in Taiwan but also has a large number of fans in other Asian countries.",
+    "ref": "This singer not only is popular in Taiwan but also has a large number of fans in other Asian countries.",
     "alt": [
      "Not only is this singer popular in Taiwan, but he also has many fans in other Asian countries."
     ],
@@ -4083,10 +4083,10 @@
       "en": "other Asian countries"
      }
     ],
-    "frame": "This singer is not only ___ in ___ but also has ___ in ___.",
+    "frame": "This singer not only is ___ in ___ but also has ___ in ___.",
     "points": [
      {
-      "t": "not only…but also… 結構完整",
+      "t": "not only…but also… 連接對等的動詞片語：not only is popular…but also has…",
       "w": 1.5
      },
      {
@@ -4165,7 +4165,7 @@
  {
   "id": "TP-09",
   "kind": "pat",
-  "title": "使役動詞與 keep／find＋受詞＋補語",
+  "title": "使役動詞與 keep／leave／find＋受詞＋補語",
   "gram": [
    "G1-L05-1",
    "G2-L07-1",
@@ -4556,7 +4556,7 @@
     "zh": "正是因為志工們的辛勤付出，這次淨灘活動才能順利完成。",
     "ref": "It was because of the volunteers' hard work that the beach cleanup was completed successfully.",
     "alt": [
-     "It was thanks to the hard work of the volunteers that the beach clean-up event went smoothly."
+     "It was thanks to the hard work of the volunteers that the beach cleanup event went smoothly."
     ],
     "keys": [
      {

@@ -6,7 +6,7 @@
   "title": "現在簡單式與現在進行式",
   "formula": "V(s/es)　／　am・is・are + V-ing",
   "status": "ok",
-  "intro": "媽媽問你「你在做什麼？」你回答「我正在寫作業」，這是現在進行式；如果有人問你「你平常幾點起床？」，你說的是習慣，要用現在簡單式。國中你已經會這兩個時態，高中要學會分辨「習慣、事實」和「正在發生」，還要加上狀態動詞不能進行的規則，段考的文法選擇與改錯常常考這一點。",
+  "intro": "媽媽問你「你在做什麼？」你回答「我正在寫作業」，這是現在進行式；如果有人問你「你平常幾點起床？」，你說的是習慣，要用現在簡單式。國中你已經會這兩個時態，高中要學會分辨「習慣、事實」和「正在發生」，還要記住狀態動詞通常不用進行式的規則，段考的文法選擇與改錯常常考這一點。",
   "rhyme": "習慣事實 V(s)，此刻進行 be + V-ing",
   "points": [
    {
@@ -26,7 +26,7 @@
     "ex": [
      {
       "en": "Mia usually rides her bike to school.",
-      "zh": "米雅通常騎腳踏車上學。",
+      "zh": "Mia 通常騎腳踏車上學。",
       "hl": [
        "rides"
       ]
@@ -232,7 +232,7 @@
     "ex": [
      {
       "en": "Ken has lived in Taipei since he was a baby.",
-      "zh": "肯從小嬰兒時期就住在台北。",
+      "zh": "Ken 從嬰兒時期就一直住在台北。",
       "hl": [
        "has lived"
       ]
@@ -240,11 +240,11 @@
     ]
    },
    {
-    "t": "for 接一段時間，since 接起點時間（時間點或過去式子句），兩者都搭配現在完成式。",
+    "t": "for 接一段時間，since 接起點時間（時間點或過去式子句），兩者都常搭配現在完成式。",
     "ex": [
      {
       "en": "I have known Amy for five years.",
-      "zh": "我認識艾咪五年了。",
+      "zh": "我認識 Amy 五年了。",
       "hl": [
        "for five years"
       ]
@@ -259,11 +259,11 @@
     ]
    },
    {
-    "t": "yet 用在否定句與疑問句句尾，already 用在肯定句，表示「已經／還沒」。",
+    "t": "already 用在肯定句，表示「已經」；yet 放在否定句或疑問句句尾，分別表示「還沒」和「已經…了嗎」。",
     "ex": [
      {
       "en": "Tina hasn't finished her homework yet.",
-      "zh": "蒂娜還沒寫完她的作業。",
+      "zh": "蒂娜還沒寫完作業。",
       "hl": [
        "yet"
       ]
@@ -343,8 +343,8 @@
      "last night"
     ],
     "a": 2,
-    "ex": "現在完成式的否定句句尾常搭配 yet；其他選項是明確的過去時間。",
-    "hint": "現在完成式否定句的句尾常搭配哪一個副詞？其他選項都是過去時間。"
+    "ex": "現在完成式的否定句句尾常搭配 yet；yesterday 和 last night 是明確的過去時間，ago 要接在一段時間後面（如 two days ago），都不能用在這裡。",
+    "hint": "現在完成式否定句的句尾常搭配哪一個副詞？注意明確的過去時間不能和現在完成式連用。"
    },
    {
     "type": "mc",
@@ -434,7 +434,7 @@
     ]
    },
    {
-    "t": "否定句是 will not (won't) 或 be not going to；疑問句把 will 或 be 動詞移到句首。",
+    "t": "否定句是 will not（won't）或 be not going to；疑問句把 will 或 be 動詞移到句首。",
     "ex": [
      {
       "en": "Are you going to join the school trip next month?",
@@ -446,7 +446,7 @@
     ]
    },
    {
-    "t": "預測天氣、未來狀況時，will 後面接原形 be，再接形容詞或名詞。",
+    "t": "預測天氣、未來狀況時，若要接形容詞或名詞，will 後面要先接原形 be。",
     "ex": [
      {
       "en": "According to the weather report, tomorrow will be a sunny day.",
@@ -461,7 +461,7 @@
   "steps": [
    "步驟 1：判斷是臨時決定或單純預測（用 will），還是早已有計畫（用 be going to）。",
    "步驟 2：用 will 時，主詞後面直接放 will，再接原形動詞；用 be going to 時，先依主詞選 am / is / are。",
-   "步驟 3：確認後面的動詞是原形，不加 to（will）或只留在 going to 之後。",
+   "步驟 3：確認後面的動詞是原形：will 後面不加 to；be going to 的 to 後面直接接原形。",
    "步驟 4：完成例句：Dad is going to take us to the zoo next Sunday.（爸爸打算下星期天帶我們去動物園。）"
   ],
   "compare": [
@@ -656,7 +656,7 @@
    "步驟 1：找出動作的接受者，把它放在句首當主詞。",
    "步驟 2：依時態選 be 動詞（is, are, was, were, will be, must be 等）。",
    "步驟 3：把主要動詞改成過去分詞（p.p.），不規則動詞要特別注意，如 eat → eaten。",
-   "步驟 4：需要時才加 by + 動作者。完成例句：The song was written by a high-school student.（這首歌是一位高中生寫的。）"
+   "步驟 4：需要時才加 by + 動作者。完成例句：The song was written by a high school student.（這首歌是一位高中生寫的。）"
   ],
   "compare": [
    {
@@ -803,7 +803,7 @@
     ]
    },
    {
-    "t": "多音節形容詞用 more / most，不加 -er / -est；也不可以同時用兩種，如 more taller 是錯的。",
+    "t": "多音節形容詞大多用 more / most，不加 -er / -est；也不可以同時用兩種，如 more taller 是錯的。",
     "ex": [
      {
       "en": "This is the most interesting book I have ever read.",
@@ -840,8 +840,8 @@
    }
   ],
   "steps": [
-   "步驟 1：先看是「兩者比較」還是「三者以上選最」。有 than 就是兩者。",
-   "步驟 2：判斷形容詞長短：一音節加 -er / -est；多音節用 more / most；不規則的如 good → better → best 要背。",
+   "步驟 1：先看是「兩者比較」還是「三者以上選最」。有 than 就用比較級。",
+   "步驟 2：判斷形容詞長短：一音節加 -er / -est；多音節大多用 more / most（但以 -y 結尾的雙音節字如 happy 要變成 happier / happiest）；不規則的如 good → better → best 要背。",
    "步驟 3：比較級後面接 than；最高級前面加 the，後面可加 of / in 的範圍。",
    "步驟 4：完成例句：My brother is taller than I am, but my father is the tallest in our family.（我弟弟比我高，但爸爸是全家最高的。）"
   ],
@@ -912,13 +912,13 @@
     ],
     "a": 3,
     "ex": "加強比較級用 much，不可用 very, so, too。",
-    "hint": "要加強比較級，只有某些副詞可以用，very, so, too 不行。"
+    "hint": "要加強比較級，只有某些副詞可以用，想想哪一個能放在 more expensive 前面。"
    },
    {
     "type": "mc",
     "s": "My cooking is getting ______. I made a perfect cake today.",
     "o": [
-     "good",
+     "more good",
      "well",
      "the best",
      "better"
@@ -1004,7 +1004,7 @@
     ]
    },
    {
-    "t": "介系詞後面一定接 V-ing，不能接 to V，例如 be good at, be interested in, thank you for。",
+    "t": "介系詞後面若要接動詞，一定用 V-ing，不能用 to V，例如 be good at, be interested in, thank you for。",
     "ex": [
      {
       "en": "She is good at playing tennis.",
@@ -1139,7 +1139,7 @@
     ],
     "a": 0,
     "ex": "refuse 後面接不定詞 to V。",
-    "hint": "refuse 後面接不定詞，其他選項的動詞形式都不對。"
+    "hint": "refuse 後面要接不定詞還是動名詞？逐項檢查 refused 後面的動詞形式。"
    },
    {
     "type": "pick",
@@ -1207,7 +1207,7 @@
     "ex": [
      {
       "en": "My boss made him work late.",
-      "zh": "老闆讓他留下來加班。",
+      "zh": "我老闆逼他留下來加班。",
       "hl": [
        "made him work"
       ]
@@ -1300,7 +1300,7 @@
     ],
     "a": 3,
     "ex": "have + O + VR，用原形 bring。",
-    "hint": "have + 受詞 + 原形動詞，注意主詞是 I'll。"
+    "hint": "這裡的 have 是使役動詞，受詞 the waiter 後面的動詞要用哪一種形式？"
    },
    {
     "type": "mc",
@@ -1339,7 +1339,7 @@
     ],
     "a": 3,
     "ex": "let + O + VR，用原形 leave。",
-    "hint": "let 後面接受詞與原形動詞，其他形式都不正確。"
+    "hint": "let 是使役動詞，逐項檢查受詞 us 後面的動詞形式。"
    }
   ]
  },
@@ -1358,7 +1358,7 @@
     "ex": [
      {
       "en": "Tom watched the birds fly in the sky.",
-      "zh": "湯姆看著鳥在天空中飛。",
+      "zh": "Tom 看著鳥在天空中飛。",
       "hl": [
        "fly"
       ]
@@ -1521,7 +1521,7 @@
     "o": [
      "The music sounds well.",
      "The music sounds good.",
-     "The music sounds goodly.",
+     "The music sounds nicely.",
      "The music sounds goodness."
     ],
     "a": 1,
@@ -1557,7 +1557,7 @@
     "ex": [
      {
       "en": "A dictionary is a book that tells you the meaning of words.",
-      "zh": "字典是告訴你字義的一本書。",
+      "zh": "字典是一種告訴你字義的書。",
       "hl": [
        "that tells"
       ]
@@ -1712,7 +1712,7 @@
      "This is the cake it my mom made."
     ],
     "a": 2,
-    "ex": "先行詞是物，用 that 或 which；who 指人，what 不能修飾名詞，it 不是關代。",
+    "ex": "先行詞是物，用 that 或 which；who 指人，what 前面不能有先行詞，it 不是關代。",
     "hint": "先行詞是物，注意指人的關代、what 與代名詞的用法是否正確。"
    }
   ]
@@ -1740,7 +1740,7 @@
     ]
    },
    {
-    "t": "so 表示結果，前面接原因；because 與 so 不可以同時出現在同一個句子。",
+    "t": "so 表示結果，前面接原因；because 與 so 不能同時用來連接同一組原因和結果。",
     "ex": [
      {
       "en": "Because he was sick, he stayed in bed.",
@@ -1780,7 +1780,7 @@
     "ex": [
      {
       "en": "It was such a good movie that we watched it twice.",
-      "zh": "那是一部非常好看的電影，我們看了兩遍。",
+      "zh": "那部電影好看到我們看了兩遍。",
       "hl": [
        "such a good movie that"
       ]
@@ -1926,7 +1926,7 @@
      },
      {
       "en": "Mia plays the piano well, doesn't she?",
-      "zh": "蜜雅鋼琴彈得很好，對吧？",
+      "zh": "Mia 鋼琴彈得很好，對吧？",
       "hl": [
        "doesn't she"
       ]
@@ -1957,7 +1957,7 @@
     "ex": [
      {
       "en": "Tom finished his homework, didn't he?",
-      "zh": "湯姆寫完功課了，不是嗎？",
+      "zh": "Tom 寫完功課了，不是嗎？",
       "hl": [
        "didn't he"
       ]
@@ -2018,12 +2018,12 @@
   "compare": [
    {
     "a": "She is smart, isn't she?",
-    "b": "She is smart, doesn't she?",
+    "b": "She is smart, doesn't she?（錯）",
     "note": "前句動詞是 be 動詞，附加問句就要用 be 動詞，不能亂換成 do。"
    },
    {
     "a": "You don't like fish, do you?",
-    "b": "You don't like fish, don't you?",
+    "b": "You don't like fish, don't you?（錯）",
     "note": "前句已經是否定，後面要用肯定，不可以兩邊都否定。"
    }
   ],
@@ -2140,7 +2140,7 @@
     "ex": [
      {
       "en": "I don't know where she bought this bag.",
-      "zh": "我不知道她在哪裡買這個包包。",
+      "zh": "我不知道她是在哪裡買這個包包的。",
       "hl": [
        "where she bought"
       ]
@@ -2240,11 +2240,11 @@
    {
     "a": "I know where he lives.",
     "b": "Where does he live?",
-    "note": "左邊是句子中的間接問句，不倒裝；右邊是獨立的直接問句，要倒裝並用 does。"
+    "note": "前者是句子中的間接問句，不倒裝；後者是獨立的直接問句，要倒裝並用 does。"
    },
    {
     "a": "Do you know if she is at home?",
-    "b": "Do you know is she at home?",
+    "b": "Do you know is she at home?（錯）",
     "note": "yes / no 問句放進句子裡一定要加 if 或 whether。"
    }
   ],
@@ -2353,7 +2353,7 @@
   "title": "情緒形容詞 -ing 與 -ed",
   "formula": "V-ing（令人…的）　／　V-ed（感到…的）",
   "status": "ok",
-  "intro": "看完一部電影你說「好無聊」，到底是電影很無聊，還是你覺得無聊？英文用 -ing 與 -ed 來分辨。國中背過 interesting 與 interested，高中會用在分詞片語與閱讀題，一旦搞混意思就完全相反。",
+  "intro": "看完一部電影你說「好無聊」，到底是電影很無聊，還是你覺得無聊？英文用 -ing 與 -ed 來分辨。國中背過 interesting 與 interested，高中會用在分詞片語與閱讀題，一旦搞混，意思就完全不同。",
   "rhyme": "事物 -ing 令人…，人 -ed 感到…",
   "points": [
    {
@@ -2414,7 +2414,7 @@
     ]
    },
    {
-    "t": "放在名詞前面修飾時，也是依「名詞是人還是事物」來選：-ed 修飾人，-ing 修飾事物。",
+    "t": "放在名詞前面修飾時，也是看意思來選：表示「感到…的」用 -ed（多修飾人），表示「令人…的」用 -ing（多修飾事物）。",
     "ex": [
      {
       "en": "The surprised students looked at the strange box.",
@@ -2437,14 +2437,14 @@
     "ex": [
      {
       "en": "Excited by the news, she jumped for joy.",
-      "zh": "聽到消息很興奮，她高興得跳起來。",
+      "zh": "她聽到這個消息，興奮得跳了起來。",
       "hl": [
        "Excited by the news"
       ]
      },
      {
       "en": "Tired from the long walk, we sat down to rest.",
-      "zh": "走了長路很累，我們坐下來休息。",
+      "zh": "我們走了好長一段路，累得坐下來休息。",
       "hl": [
        "Tired from the long walk"
       ]
@@ -2461,11 +2461,11 @@
    {
     "a": "I am bored.",
     "b": "I am boring.",
-    "note": "左邊是「我覺得無聊」，右邊是「我這個人很無聊」，意思完全不同。"
+    "note": "前者是「我覺得無聊」，後者是「我這個人很無聊」，意思完全不同。"
    },
    {
     "a": "The news was surprising.",
-    "b": "The news was surprised.",
+    "b": "The news was surprised.（錯）",
     "note": "新聞是事物，只能令人驚訝，不會「感到」驚訝。"
    }
   ],
@@ -2550,7 +2550,7 @@
     ],
     "a": 1,
     "ex": "人感到疲倦，用 tired；tiring 表「使人疲累的」。",
-    "hint": "主詞是人，且空格要填形容詞，先排除不是形容詞的選項。"
+    "hint": "主詞是人，且句中 was 後面要接形容詞，先排除不是形容詞的選項。"
    },
    {
     "type": "pick",
@@ -2574,7 +2574,7 @@
   "title": "可數與不可數名詞及數量詞",
   "formula": "many / a few / few + 複數　；　much / a little / little + 不可數",
   "status": "ok",
-  "intro": "點飲料時你會說「一杯水」、「幾張椅子」，中文量詞不同，英文也要分清楚可數與不可數。a few 和 few 差一個字，意思就不同。學測的綜合測驗常考數量詞與名詞單複數的搭配。",
+  "intro": "生活中我們會說「一杯水」、「幾張椅子」，中文量詞不同，英文也要分清楚可數與不可數。a few 和 few 差一個字，意思就不同。學測的綜合測驗常考數量詞與名詞單複數的搭配。",
   "rhyme": "可數用 many / few，不可數用 much / little",
   "points": [
    {
@@ -2627,7 +2627,7 @@
      },
      {
       "en": "There is little water in the river, so the fish are in trouble.",
-      "zh": "河裡幾乎沒有水，魚有麻煩了。",
+      "zh": "河裡幾乎沒有水，魚兒的處境很危險。",
       "hl": [
        "little water"
       ]
@@ -2635,7 +2635,7 @@
     ]
    },
    {
-    "t": "不可數名詞要數量時，用 a piece of、a cup of、a bottle of 等單位詞來計算。",
+    "t": "不可數名詞要表示數量時，用 a piece of、a cup of、a bottle of 等單位詞來計算。",
     "ex": [
      {
       "en": "She gave me a piece of useful advice.",
@@ -2682,16 +2682,16 @@
    {
     "a": "a few friends",
     "b": "few friends",
-    "note": "左邊是「有幾個朋友」，右邊是「幾乎沒有朋友」，語氣差很多。"
+    "note": "前者是「有幾個朋友」，後者是「幾乎沒有朋友」，語氣差很多。"
    },
    {
     "a": "I have a little money.",
     "b": "I have little money.",
-    "note": "左邊表示有一點錢，右邊表示沒什麼錢，幾乎不夠用。"
+    "note": "前者表示有一點錢，後者表示沒什麼錢，幾乎不夠用。"
    },
    {
     "a": "much water",
-    "b": "many water",
+    "b": "many water（錯）",
     "note": "water 是不可數，不能用 many。"
    }
   ],
@@ -2800,7 +2800,7 @@
   "title": "if 條件句（真實條件）",
   "formula": "If + 現在式, S + will + VR",
   "status": "ok",
-  "intro": "「如果明天下雨，我們就待在家。」這種說的是未來有可能發生的事，英文用 if 條件句。國中已經學過，高中要更精準：if 子句不用 will，並認識 unless。學測常考時態選擇與 unless 的用法。",
+  "intro": "「如果明天下雨，我們就待在家。」這種句子說的是未來有可能發生的事，英文用 if 條件句。國中已經學過，高中要更精準：if 子句不用 will，並認識 unless。學測常考時態選擇與 unless 的用法。",
   "rhyme": "if 現在、主句 will，if 裡面不放 will",
   "points": [
    {
@@ -2835,7 +2835,7 @@
      },
      {
       "en": "If you see Tom, tell him to call me.",
-      "zh": "如果你看到湯姆，叫他打給我。",
+      "zh": "如果你看到 Tom，叫他打給我。",
       "hl": [
        "tell him"
       ]
@@ -2909,7 +2909,7 @@
    {
     "a": "If it rains, we will stay home.",
     "b": "If it rained, we would stay home.",
-    "note": "左邊是未來有可能發生；右邊是與現在事實相反的假設，高中才學。"
+    "note": "前者是未來有可能發生的事；後者是與現在事實相反的假設，高中才學。"
    },
    {
     "a": "Unless you hurry, you will be late.",
@@ -2959,7 +2959,7 @@
     ],
     "a": 1,
     "ex": "if 子句用現在簡單式 tell。",
-    "hint": "if 子句不放助動詞，主詞是第二人稱，直接用現在式動詞。"
+    "hint": "if 子句表示未來時，動詞要用什麼時態？還能不能加 will？"
    },
    {
     "type": "mc",
@@ -2972,7 +2972,7 @@
     ],
     "a": 2,
     "ex": "unless 表「除非」，等於 if you don't study harder。",
-    "hint": "語意是「除非」，且空格後面沒有否定字。"
+    "hint": "先想前後兩句的邏輯關係，再注意空格後面的子句沒有否定字。"
    },
    {
     "type": "mc",
@@ -3006,7 +3006,7 @@
     "o": [
      "If it is sunny tomorrow, we going to the beach.",
      "Unless you don't hurry, you will miss the bus.",
-     "If you will help me, I will be happy.",
+     "If it will rain tomorrow, we will stay home.",
      "If you leave now, you will catch the bus."
     ],
     "a": 3,
@@ -3075,7 +3075,7 @@
      },
      {
       "en": "Mark is tall enough to reach the top shelf.",
-      "zh": "馬克夠高，可以拿到最上層的架子。",
+      "zh": "馬克夠高，搆得到最上層的架子。",
       "hl": [
        "tall enough to reach"
       ]
@@ -3083,7 +3083,7 @@
     ]
    },
    {
-    "t": "enough 修飾名詞時放在名詞前面；放在形容詞或副詞後面時才是 adj + enough。",
+    "t": "enough 修飾名詞時放在名詞前面；修飾形容詞或副詞時才放在後面（adj / adv + enough）。",
     "ex": [
      {
       "en": "We don't have enough money to buy a new car.",
@@ -3113,7 +3113,7 @@
      },
      {
       "en": "The tea is so hot that I can't drink it.",
-      "zh": "茶燙到我不能喝。",
+      "zh": "茶燙得我沒辦法喝。",
       "hl": [
        "so hot that I can't drink it"
       ]
@@ -3130,12 +3130,12 @@
    {
     "a": "He is too tired to walk.",
     "b": "He is so tired that he can't walk.",
-    "note": "兩句意思相同，右邊的 that 子句要有否定。"
+    "note": "兩句意思相同，後者的 that 子句要有否定。"
    },
    {
     "a": "He is old enough to drive.",
     "b": "He is too old to drive.",
-    "note": "左邊是夠大可以開車，右邊是太老不能開車，意思相反。"
+    "note": "前者是夠大可以開車，後者是太老不能開車，意思相反。"
    }
   ],
   "mistakes": [
@@ -3167,7 +3167,7 @@
     ],
     "a": 2,
     "ex": "too + adj + to V 表「太…而不能」；其他選項無法搭配 to drink。",
-    "hint": "語意是太燙而不能喝，找出表示「太…而不能」的字。"
+    "hint": "空格在形容詞 hot 前面，後面又有 to drink，想想哪個字能放在這個位置並和 to V 搭配。"
    },
    {
     "type": "mc",
@@ -3180,7 +3180,7 @@
     ],
     "a": 0,
     "ex": "adj + enough + to V 表「夠…可以」，enough 放在形容詞 tall 後面。",
-    "hint": "語意是夠高可以拿到，注意這個字要放在形容詞的哪一邊。"
+    "hint": "空格在形容詞 tall 後面、to reach 前面，想想哪個字能放在這個位置。"
    },
    {
     "type": "mc",
@@ -3206,7 +3206,7 @@
     ],
     "a": 3,
     "ex": "enough + 名詞 + to V 表「足夠的…可以…」。",
-    "hint": "空格放在名詞前面，表示「足夠的」。"
+    "hint": "空格在名詞 money 前面，後面又接 to buy，想想哪個字能這樣用。"
    },
    {
     "type": "pick",
@@ -3232,7 +3232,7 @@
     ],
     "a": 1,
     "ex": "enough 放在形容詞後面，後接 to + 原形動詞。",
-    "hint": "enough 修飾形容詞時的位置要放後面，後面再接原形動詞。"
+    "hint": "enough 修飾形容詞時要放在前面還是後面？後面又該接什麼形式的動詞？"
    }
   ]
  },
@@ -3289,7 +3289,7 @@
     "ex": [
      {
       "en": "I know that he wants it.",
-      "zh": "我知道他想要它。",
+      "zh": "我知道他想要那個東西。",
       "hl": [
        "that he wants it"
       ]
@@ -3315,7 +3315,7 @@
      },
      {
       "en": "Tom said he was too tired to join us.",
-      "zh": "湯姆說他太累了，不能加入我們。",
+      "zh": "Tom 說他太累了，不能加入我們。",
       "hl": [
        "he was too tired"
       ]
@@ -3351,7 +3351,7 @@
    {
     "a": "I know that he wants it.",
     "b": "I know what he wants.",
-    "note": "左邊子句本身完整，用 that；右邊 wants 缺受詞，要用 what。"
+    "note": "前者子句本身完整，用 that；後者 wants 缺受詞，要用 what。"
    },
    {
     "a": "I'm afraid that I will be late.",
@@ -3465,7 +3465,7 @@
   "formula": "It + be + adj + (for/of + O) + to V",
   "status": "ok",
   "intro": "「早起很難」可以說 To get up early is hard，但這樣主詞太長，英文習慣用虛主詞 It 放句首，真正的主詞放句尾。要說出做事的人時，到底用 for 還是 of？這是學測與段考的熱門陷阱。",
-  "rhyme": "形容事用 for，稱讚人用 of，It 開頭 to 殿後",
+  "rhyme": "形容事用 for，評價人用 of，It 開頭 to 殿後",
   "points": [
    {
     "t": "主詞是一長串不定詞片語時，用虛主詞 it 放句首，真正的主詞 to V 放句尾。",
@@ -3491,7 +3491,7 @@
     "ex": [
      {
       "en": "It is important for students to get enough sleep.",
-      "zh": "學生獲得足夠的睡眠很重要。",
+      "zh": "學生睡眠充足很重要。",
       "hl": [
        "It is important for students to get"
       ]
@@ -3577,7 +3577,7 @@
    {
     "a": "It is important to sleep well.",
     "b": "To sleep well is important.",
-    "note": "兩句同義，左邊用虛主詞，較自然也較常見。"
+    "note": "兩句同義，前者用虛主詞，較自然也較常見。"
    }
   ],
   "mistakes": [
@@ -3603,7 +3603,7 @@
     "s": "It is not easy ______ a good habit in just one week.",
     "o": [
      "to build",
-     "building",
+     "to building",
      "build",
      "built"
     ],
@@ -3708,7 +3708,7 @@
     ]
    },
    {
-    "t": "要用「疑問詞 + 主詞 + 動詞」的肯定句語序，不倒裝，也不加 do / does / did。",
+    "t": "要用「疑問詞 + 主詞 + 動詞」的直述句語序，不倒裝，也不加 do / does / did。",
     "ex": [
      {
       "en": "I can't remember what time the movie starts.",
@@ -3793,11 +3793,11 @@
    {
     "a": "I know where he lives.",
     "b": "Where does he live?",
-    "note": "左邊是間接問句不倒裝；右邊是直接問句，要倒裝並加 does。"
+    "note": "前者是間接問句，不倒裝；後者是直接問句，要倒裝並加 does。"
    },
    {
     "a": "Whether he comes is unknown.",
-    "b": "If he comes is unknown.",
+    "b": "If he comes is unknown.（錯）",
     "note": "放在句首當主詞時只能用 whether，不能用 if。"
    }
   ],
@@ -3971,7 +3971,7 @@
     "ex": [
      {
       "en": "My grandmother, who lives in Tainan, makes delicious rice cakes.",
-      "zh": "我住在台南的外婆會做美味的年糕。",
+      "zh": "我外婆住在台南，她會做美味的年糕。",
       "hl": [
        "who lives in Tainan"
       ]
@@ -4154,7 +4154,7 @@
     "ex": [
      {
       "en": "Mom made Ken clean his room before dinner.",
-      "zh": "媽媽要肯在晚餐前打掃房間。",
+      "zh": "媽媽要 Ken 在晚餐前打掃房間。",
       "hl": [
        "made Ken clean"
       ]
@@ -4185,7 +4185,7 @@
     "ex": [
      {
       "en": "We were made to clean the room after the party ended.",
-      "zh": "派對結束後，我們被要求打掃房間。",
+      "zh": "派對結束後，我們被迫打掃房間。",
       "hl": [
        "were made to clean"
       ]
@@ -4321,7 +4321,7 @@
   "title": "強調句型 It is ... that",
   "formula": "It is/was + 被強調部分 + that + ...",
   "status": "ok",
-  "intro": "當你想說「打破窗戶的『就是』艾咪」「我『是在圖書館』寫作業的」，就是要把某一個重點特別拉出來強調。英文用 It is/was ... that 把重點夾在中間，其他資訊放在 that 後面。學測常考連接詞選擇、be 動詞時態與句型判斷。",
+  "intro": "當你想說「打破窗戶的『就是』Amy」「我『是在圖書館』寫作業的」，就是要把某一個重點特別拉出來強調。英文用 It is/was ... that 把重點夾在中間，其他資訊放在 that 後面。學測常考連接詞選擇、be 動詞時態與句型判斷。",
   "rhyme": "It is/was 夾重點，that 後面接剩下，時態跟著原句走！",
   "points": [
    {
@@ -4329,7 +4329,7 @@
     "ex": [
      {
       "en": "It was Amy that broke the window yesterday.",
-      "zh": "昨天打破窗戶的是艾咪。",
+      "zh": "昨天打破窗戶的是 Amy。",
       "hl": [
        "It was Amy that broke"
       ]
@@ -4375,11 +4375,11 @@
     ]
    },
    {
-    "t": "It is / It was 的時態要配合原句：原句是過去的事就用 was，現在習慣或事實用 is。",
+    "t": "It is / It was 的時態通常配合原句：原句是過去的事多用 was（強調過去的時間時一定用 was），現在習慣或事實用 is。",
     "ex": [
      {
       "en": "It was Lisa that won the first prize in last year's contest.",
-      "zh": "去年比賽拿到第一名的是莉莎。",
+      "zh": "去年比賽拿到第一名的是 Lisa。",
       "hl": [
        "It was Lisa that won"
       ]
@@ -4398,7 +4398,7 @@
     "ex": [
      {
       "en": "It was Tom who broke the vase last week.",
-      "zh": "上週打破花瓶的是湯姆。",
+      "zh": "上週打破花瓶的是 Tom。",
       "hl": [
        "It was Tom who broke"
       ]
@@ -4431,9 +4431,9 @@
     "why": "強調句的連接詞用 that，不能用 what。"
    },
    {
-    "wrong": "It is Tom that broke the vase last week.",
-    "right": "It was Tom that broke the vase last week.",
-    "why": "原句是過去的事，be 動詞要用 was。"
+    "wrong": "It is last week that Tom broke the vase.",
+    "right": "It was last week that Tom broke the vase.",
+    "why": "強調的是過去的時間 last week，be 動詞要用 was。"
    },
    {
     "wrong": "It was yesterday we that cleaned the classroom.",
@@ -4483,7 +4483,7 @@
    },
    {
     "type": "mc",
-    "s": "It ______ Lisa that won the first prize in last year's contest.",
+    "s": "It ______ last year that Lisa won the first prize in the contest.",
     "o": [
      "was",
      "is",
@@ -4568,14 +4568,14 @@
     "ex": [
      {
       "en": "Tom had his phone stolen on the crowded bus.",
-      "zh": "湯姆在擁擠的公車上被偷了手機。",
+      "zh": "Tom 在擁擠的公車上被偷了手機。",
       "hl": [
        "had his phone stolen"
       ]
      },
      {
       "en": "Ben had his bag stolen while he was shopping.",
-      "zh": "班在逛街時包包被偷了。",
+      "zh": "Ben 在逛街時包包被偷了。",
       "hl": [
        "had his bag stolen"
       ]
@@ -4587,7 +4587,7 @@
     "ex": [
      {
       "en": "I had Tom fix my bike after school.",
-      "zh": "我放學後請湯姆修我的腳踏車。",
+      "zh": "我放學後請 Tom 修我的腳踏車。",
       "hl": [
        "had Tom fix"
       ]
@@ -4609,7 +4609,7 @@
   ],
   "steps": [
    "先想：這件事是請別人做，或是遭遇的狀況嗎？受詞是物（被處理）還是人（會做動作）？",
-   "寫出主詞 + have（依時間改為 had、has、will have、having）。",
+   "寫出主詞 + have（依時間改為 had、has、will have、is having）。",
    "接上被處理的事物當受詞，例如 my hair、my bike。",
    "把動詞改成過去分詞放在最後。完成：I had my hair cut yesterday."
   ],
@@ -4672,11 +4672,11 @@
     ],
     "a": 2,
     "ex": "hair 被染，是被動關係，用 p.p. dyed。",
-    "hint": "hair 與動作之間是被動關係，選擇表示被動的動詞形態，注意別選過去式。"
+    "hint": "hair 與動作之間是被動關係，選擇表示被動的動詞形態。"
    },
    {
     "type": "mc",
-    "s": "We had the classroom ______ by the cleaners during the winter break.",
+    "s": "We had the classroom ______ by workers during the winter break.",
     "o": [
      "painted",
      "paint",
@@ -4755,7 +4755,7 @@
     "ex": [
      {
       "en": "The earlier we leave, the less traffic we will meet.",
-      "zh": "我們愈早出發，就會遇到愈少車潮。",
+      "zh": "我們愈早出發，遇到的車潮就愈少。",
       "hl": [
        "The earlier we leave, the less traffic we will meet"
       ]
@@ -4848,7 +4848,7 @@
     ],
     "a": 1,
     "ex": "此句型要用比較級 harder，並且前面有 the。",
-    "hint": "這是「愈…愈…」句型，空格要放什麼等級的形容詞？注意前面已經有定冠詞。"
+    "hint": "這是「愈…愈…」句型，空格要放哪一級的副詞？注意前面已經有定冠詞。"
    },
    {
     "type": "mc",
@@ -4944,7 +4944,7 @@
     "ex": [
      {
       "en": "The bus broke down on the highway, making us late for the concert.",
-      "zh": "公車在公路上拋錨，害我們趕不上音樂會。",
+      "zh": "公車在公路上拋錨，害我們去聽音樂會遲到了。",
       "hl": [
        "making us late for the concert"
       ]
@@ -4952,7 +4952,7 @@
     ]
    },
    {
-    "t": "分詞的意義上的主詞必須和主要子句的主詞相同。",
+    "t": "分詞意義上的主詞必須和主要子句的主詞相同。",
     "ex": [
      {
       "en": "Tim slipped on the wet floor, hurting his back.",
@@ -4975,7 +4975,7 @@
      },
      {
       "en": "Tom sat on the sofa, bored by the long movie.",
-      "zh": "湯姆坐在沙發上，被冗長的電影弄得很無聊。",
+      "zh": "Tom 坐在沙發上，冗長的電影讓他覺得很無聊。",
       "hl": [
        "bored by the long movie"
       ]
@@ -5022,7 +5022,7 @@
    {
     "wrong": "Tom sat on the sofa, boring by the long movie.",
     "right": "Tom sat on the sofa, bored by the long movie.",
-    "why": "湯姆是感到無聊的人，要用 p.p. bored。"
+    "why": "Tom 是感到無聊的人，要用 p.p. bored。"
    },
    {
     "wrong": "Opening the door, the room was dark.",
@@ -5107,7 +5107,7 @@
     ],
     "a": 2,
     "ex": "Tom 是感到無聊的人，用 p.p. bored，而不是 boring。",
-    "hint": "Tom 是「感到」無聊的人，分詞要表示情緒感受，且不能多加 being。"
+    "hint": "Tom 是「感到」無聊的人，分詞要表示情緒感受，並注意各選項的動詞形式。"
    }
   ]
  },
@@ -5157,7 +5157,7 @@
      },
      {
       "en": "Mia felt her phone vibrating in her pocket.",
-      "zh": "米亞感覺到口袋裡的手機在震動。",
+      "zh": "Mia 感覺到口袋裡的手機在震動。",
       "hl": [
        "felt her phone vibrating"
       ]
@@ -5169,14 +5169,14 @@
     "ex": [
      {
       "en": "Tom heard his name called from the back of the room.",
-      "zh": "湯姆聽到教室後面有人叫他的名字。",
+      "zh": "Tom 聽到教室後面有人叫他的名字。",
       "hl": [
        "heard his name called"
       ]
      },
      {
       "en": "Jack felt his shoulder touched by someone in the crowd.",
-      "zh": "傑克感覺到肩膀被人群中的某人碰了一下。",
+      "zh": "傑克感覺到人群中有人碰了一下他的肩膀。",
       "hl": [
        "felt his shoulder touched"
       ]
@@ -5474,8 +5474,8 @@
      "where"
     ],
     "a": 3,
-    "ex": "Tainan 是地點，前有逗號為非限定用法，需用 where；that 不可用於非限定子句。",
-    "hint": "Tainan 前面有逗號，補充說明地點；有一個選項不能用在逗號之後。"
+    "ex": "Tainan 是地點，後面加逗號是非限定用法；空格後的子句完整，要用 where。which 後面的子句應缺主詞或受詞，that 不可用於非限定子句，what 不能修飾先行詞。",
+    "hint": "Tainan 後面有逗號，補充說明地點；有一個選項不能用在逗號之後。"
    },
    {
     "type": "mc",
@@ -5487,8 +5487,8 @@
      "how"
     ],
     "a": 1,
-    "ex": "Saturday 是時間，用 when 引導形容詞子句，where 用於地點。",
-    "hint": "Saturday 屬於時間名詞，子句完整，選對應時間的關係詞。"
+    "ex": "先行詞 the day 是時間，用 when 引導形容詞子句，where 用於地點。",
+    "hint": "先行詞 the day 屬於時間名詞，子句完整，選對應時間的關係詞。"
    },
    {
     "type": "pick",
@@ -5500,7 +5500,7 @@
      "The library in where I do my homework closes at nine."
     ],
     "a": 1,
-    "ex": "library 是地點，用 where；when 用於時間，that 在此缺少介系詞，in where 則重複使用。",
+    "ex": "library 是地點，用 where；when 用於時間，that 在此缺少介系詞，in where 則重複了介系詞（where 已含 in 的意思）。",
     "hint": "library 是地點名詞，後面子句完整；逐項檢查關係詞是否對應，並注意介系詞有沒有重複。"
    },
    {
@@ -5513,7 +5513,7 @@
      "I still remember the night when the whole city lost power."
     ],
     "a": 3,
-    "ex": "night 是時間，且後面子句完整，只能用 when；where 用於地點，which 後缺少成分，what 不能修飾先行詞。",
+    "ex": "night 是時間，且後面子句完整，只能用 when；where 用於地點，which 後面的子句要缺主詞或受詞才能用，what 不能修飾先行詞。",
     "hint": "night 是時間名詞，後面子句完整；逐項檢查關係詞是否對應時間，哪些會造成缺成分。"
    }
   ]
@@ -5626,7 +5626,7 @@
    {
     "wrong": "I had finish my homework before dinner.",
     "right": "I had finished my homework before dinner.",
-    "why": "had 後面一定要接過去分詞。"
+    "why": "過去完成式的 had 後面要接過去分詞 finished。"
    },
    {
     "wrong": "By the time I got to the cinema, the movie has started.",
@@ -5773,7 +5773,7 @@
     "ex": [
      {
       "en": "The cake made by my sister was delicious.",
-      "zh": "我姐姐做的蛋糕很好吃。",
+      "zh": "我姊姊做的蛋糕很好吃。",
       "hl": [
        "made by my sister"
       ]
@@ -5822,7 +5822,7 @@
    {
     "a": "The man wearing a cap is my uncle.",
     "b": "The man who wears a cap is my uncle.",
-    "note": "兩句意思相同，前者省略了關係代名詞，更為簡潔。"
+    "note": "兩句意思相同，前者省略關係代名詞，並把 wears 改成現在分詞 wearing，更為簡潔。"
    },
    {
     "a": "the girl sitting by the window",
@@ -5944,7 +5944,7 @@
   "rhyme": "All / What 子句當主詞，視為單數用 is，後面接 (to) VR！",
   "points": [
    {
-    "t": "All (that) + 主詞 + need/want/have to/can/should + do + is + (to) VR，意思是「所有…要做的就是…」。",
+    "t": "All (that) + 主詞 + need/want/have to/can/should + do + is + (to) VR，意思是「……唯一要做的就是……」，也就是「只要……就好」。",
     "ex": [
      {
       "en": "All you need to do is check the schedule.",
@@ -5956,7 +5956,7 @@
     ]
    },
    {
-    "t": "也可用 What 引導：What + S + want/need/should + do + is + (to) VR，「…想做的事是…」。",
+    "t": "也可用 What 引導：What + S + want/need/should + do + is + (to) VR，「……想（需要、應該）做的事是……」。",
     "ex": [
      {
       "en": "What I want to do this weekend is to visit my grandparents.",
@@ -6102,7 +6102,7 @@
     ],
     "a": 2,
     "ex": "What you need to do 是名詞子句，意思為「你需要做的事」，其他選項不能這樣使用。",
-    "hint": "空格引導名詞子句，意思是「…的事」，而 you need to do 後面缺少受詞。"
+    "hint": "空格引導名詞子句，意思是「……的事」，而 you need to do 後面缺少受詞。"
    },
    {
     "type": "pick",
@@ -6147,7 +6147,7 @@
     "ex": [
      {
       "en": "Ben listened to the teacher with his arms crossed.",
-      "zh": "班雙臂交叉聽老師說話。",
+      "zh": "Ben 雙臂交叉聽老師說話。",
       "hl": [
        "with his arms crossed"
       ]
@@ -6190,7 +6190,7 @@
     "ex": [
      {
       "en": "Don't speak with your mouth full of food.",
-      "zh": "不要滿嘴食物地說話。",
+      "zh": "嘴裡塞滿食物時不要說話。",
       "hl": [
        "with your mouth full of food"
       ]
@@ -6209,7 +6209,7 @@
     "ex": [
      {
       "en": "Ken studied with the radio playing softly.",
-      "zh": "小肯一邊讀書，收音機一邊輕輕播放著。",
+      "zh": "Ken 讀書時，收音機在一旁輕輕播放著。",
       "hl": [
        "with the radio playing softly"
       ]
@@ -6244,7 +6244,7 @@
    {
     "wrong": "She talked with her hands to wave.",
     "right": "She talked with her hands waving.",
-    "why": "with 後的補語不能用 to V，手會自己揮動，用 V-ing。"
+    "why": "手是自己在揮動，屬於主動、進行的狀態，要用 V-ing，這裡不能用 to V。"
    },
    {
     "wrong": "He ran home with his bag was open.",
@@ -6310,13 +6310,13 @@
     "s": "選出文法正確的句子。",
     "o": [
      "He listened to music with his eyes closed.",
-     "He listened to music with his eyes closing.",
+     "He listened to music with his eyes were closed.",
      "He listened to music with his eyes close.",
      "He listened to music with his eyes to close."
     ],
     "a": 0,
-    "ex": "眼睛是被閉上的，用 closed；其他補語形式與句意不合。",
-    "hint": "先判斷眼睛與閉上的關係是主動還是被動，再檢查補語形式有沒有不合文法的 to V。"
+    "ex": "眼睛是被閉上的，用 closed；with 結構裡不能再放 were 這類動詞，原形 close 和 to close 也不能當這裡的補語。",
+    "hint": "先判斷眼睛與閉上的關係是主動還是被動，再檢查有沒有多餘的 be 動詞或不合文法的 to V。"
    },
    {
     "type": "pick",
@@ -6372,14 +6372,14 @@
     "ex": [
      {
       "en": "Please leave the window open for some fresh air.",
-      "zh": "請讓窗戶開著，透透新鮮空氣。",
+      "zh": "請讓窗戶開著，透透氣。",
       "hl": [
        "leave the window open"
       ]
      },
      {
       "en": "Don't leave your homework unfinished.",
-      "zh": "不要讓你的作業沒做完。",
+      "zh": "作業不要寫到一半就丟著不管。",
       "hl": [
        "leave your homework unfinished"
       ]
@@ -6406,11 +6406,11 @@
     ]
    },
    {
-    "t": "這三個動詞後面的補語不能用 to V，也不能用原形動詞；要依受詞與補語的主被動關係選 V-ing 或 p.p.。",
+    "t": "這個句型表示「保持／發現某種狀態」時，補語一般不用 to V，也不用原形動詞；動作依受詞與補語的主被動關係選 V-ing 或 p.p.，狀態則用形容詞。",
     "ex": [
      {
       "en": "The loud music kept me awake all night.",
-      "zh": "大聲的音樂讓我整晚醒著。",
+      "zh": "大聲的音樂吵得我整晚睡不著。",
       "hl": [
        "kept me awake"
       ]
@@ -6490,7 +6490,7 @@
      "to sleep"
     ],
     "a": 0,
-    "ex": "find + 受詞 + V-ing，表示發現她正在睡覺，姐姐與睡覺是主動關係。",
+    "ex": "find + 受詞 + V-ing，表示發現她正在睡覺，姊姊與睡覺是主動關係。",
     "hint": "sister 是主動在睡覺，睡覺這個動作正在進行，補語選進行形式。"
    },
    {
@@ -6541,7 +6541,7 @@
   "title": "分詞構句",
   "formula": "(Conj.) V-ing/p.p. …, S + V …",
   "status": "ok",
-  "intro": "寫文章時，如果兩個動作是同一個人做的，例如「他在等公車，（同時）一直看手機」，不用寫成兩個完整的句子，可以把前半句縮短成 Waiting for the bus, ...。這就是分詞構句，讓文章更精簡流暢。學測閱讀和翻譯都很常見，最常考的陷阱是「動作的人到底是誰」。",
+  "intro": "寫文章時，如果兩個動作是同一個人做的，例如「他在等公車，（同時）一直看手機」，不用寫成兩個完整的句子，可以把前半句縮短成 Waiting for the bus, ...。這就是分詞構句，讓文章更精簡流暢。學測閱讀和翻譯都很常見，最常考的陷阱是「做動作的到底是誰」。",
   "rhyme": "同主詞，省連接詞；主動 V-ing，被動 p.p.；否定 not 放前面。",
   "points": [
    {
@@ -6561,14 +6561,14 @@
     "ex": [
      {
       "en": "Surprised by the news, Jenny dropped her pen.",
-      "zh": "聽到消息很驚訝，珍妮掉了筆。",
+      "zh": "珍妮聽到這個消息大吃一驚，連筆都掉了。",
       "hl": [
        "Surprised by the news"
       ]
      },
      {
       "en": "Born in a small village, Tom had never seen a skyscraper.",
-      "zh": "生於小村莊的湯姆從沒看過摩天大樓。",
+      "zh": "生於小村莊的 Tom 從沒看過摩天大樓。",
       "hl": [
        "Born in a small village"
       ]
@@ -6580,7 +6580,7 @@
     "ex": [
      {
       "en": "Not wanting to wake the baby, she walked quietly.",
-      "zh": "她不想吵醒寶寶，所以安靜地走路。",
+      "zh": "她不想吵醒寶寶，所以走路時放輕腳步。",
       "hl": [
        "Not wanting to wake the baby"
       ]
@@ -6604,7 +6604,7 @@
     "ex": [
      {
       "en": "While waiting for the bus, Ken kept looking at his phone.",
-      "zh": "等公車的時候，小肯一直看手機。",
+      "zh": "等公車的時候，Ken 一直看手機。",
       "hl": [
        "While waiting for the bus"
       ]
@@ -6614,7 +6614,7 @@
   ],
   "steps": [
    "先確認兩個子句的主詞相同，例如 Ken waited for the bus, and Ken kept looking at his phone。",
-   "把從屬子句的連接詞和主詞去掉：waited for the bus。",
+   "去掉連接詞 and 和第一個子句的主詞 Ken：waited for the bus。",
    "判斷主被動：主詞自己做動作用 V-ing（Waiting），被動用 p.p.；否定時在前面加 not。",
    "把分詞片語放在句首，加逗號，再接主要子句：Waiting for the bus, Ken kept looking at his phone."
   ],
@@ -6698,7 +6698,7 @@
     ],
     "a": 3,
     "ex": "Tom 是被生下來的，被動關係，用過去分詞 Born。",
-    "hint": "湯姆是「被生」在小村莊，被動；此動詞的 p.p. 為不規則變化，留意。"
+    "hint": "Tom 是「被生」在小村莊，被動；此動詞的 p.p. 為不規則變化，留意。"
    },
    {
     "type": "pick",
@@ -6724,7 +6724,7 @@
     ],
     "a": 1,
     "ex": "分詞構句的否定是 Not + V-ing；其他選項動詞形式不合文法。",
-    "hint": "否定要用 not 放在分詞前；wanting 的主動關係；檢查其他選項有沒有錯誤的 don't 或原形。"
+    "hint": "否定要用 not 放在分詞前；she 是主動「想要」的人；檢查其他選項有沒有錯誤的 don't 或原形。"
    }
   ]
  },
@@ -6821,7 +6821,7 @@
    {
     "wrong": "It says that tea is healthy.",
     "right": "It is said that tea is healthy.",
-    "why": "it 並不能「說話」，要用被動語態 is said。"
+    "why": "表示「據說」時，it 只是虛主詞，不是說話的人，要用被動語態 is said。"
    },
    {
     "wrong": "It is believed cats that can sense danger.",
@@ -6922,7 +6922,7 @@
   "title": "虛受詞 it（find/consider it + 形容詞 + to V）",
   "formula": "S + find/consider/think/make + it + adj. + to V / that 子句",
   "status": "ok",
-  "intro": "想說「我覺得早起很難」，如果直接寫成 I find to get up early hard，句子會頭重腳輕。英文會先放一個形式上的 it，把真正的內容（to get up early）移到句尾。這就是虛受詞 it，是高中閱讀、翻譯與寫作常見的句型，學測也常考你有沒有漏掉 it。",
+  "intro": "想說「我覺得早起很難」，如果直接寫成 I find to get up early hard，不但頭重腳輕，也不合英文文法。英文會先放一個形式上的 it，把真正的內容（to get up early）移到句尾。這就是虛受詞 it，是高中閱讀、翻譯與寫作常見的句型，學測也常考你有沒有漏掉 it。",
   "rhyme": "find 後面先放 it，to V 或 that 子句往後移。",
   "points": [
    {
@@ -6941,7 +6941,7 @@
     "t": "常見動詞有 find、consider、think、make、feel，後面接形容詞當受詞補語。",
     "ex": [
      {
-      "en": "I consider it important that everyone keeps the classroom clean.",
+      "en": "I consider it important that everyone keep the classroom clean.",
       "zh": "我認為每個人都保持教室整潔很重要。",
       "hl": [
        "consider it important that"
@@ -6984,7 +6984,7 @@
    {
     "a": "I find it hard to learn math.",
     "b": "To learn math is hard for me.",
-    "note": "前者用虛受詞 it，句子平衡自然；後者主詞太長，英文較少這樣說。"
+    "note": "前者用虛受詞 it，句子平衡自然；後者用不定詞片語當主詞，英文較少這樣說。"
    },
    {
     "a": "I think it necessary that we review every day.",
@@ -7094,7 +7094,7 @@
   "id": "G3-L02-1",
   "b": 3,
   "l": "L02",
-  "title": "not...until...（直到...才...）",
+  "title": "not...until...（直到……才……）",
   "formula": "S + (助動詞) + not + V + until + 時間／子句",
   "status": "ok",
   "intro": "中文說「我到十點才吃飯」，英文不是 I eat until ten，而是「我不到十點不吃飯」，也就是 I don't eat until ten。這個「否定 + until」的說法，是中英文習慣差異最大的地方之一。高中會考 until 子句的時態，也會考 not...until... 與強調句型的轉換。",
@@ -7117,7 +7117,7 @@
     "ex": [
      {
       "en": "Lisa didn't realize she had lost her keys until she got home.",
-      "zh": "莉莎到家才發現鑰匙不見了。",
+      "zh": "Lisa 到家才發現鑰匙不見了。",
       "hl": [
        "didn't realize",
        "until she got home"
@@ -7197,8 +7197,8 @@
      "since"
     ],
     "a": 2,
-    "ex": "not...until... 表「直到⋯才⋯」：圖書館直到晚上九點才關門；during、for、since 都不能接這個時間點表達此意。",
-    "hint": "看語意：圖書館到九點才關門，需要表示「直到」的連接詞。"
+    "ex": "not...until... 表「直到……才……」：圖書館直到晚上九點才關門；during、for、since 都不能接這個時間點表達此意。",
+    "hint": "看語意：圖書館到九點才關門，需要表示「直到」的介系詞。"
    },
    {
     "type": "mc",
@@ -7217,13 +7217,13 @@
     "type": "mc",
     "s": "The children didn't stop playing ______ their mother called them.",
     "o": [
-     "when",
+     "since",
      "until",
-     "while",
+     "during",
      "as soon"
     ],
     "a": 1,
-    "ex": "「直到...才停止」用 didn't...until。",
+    "ex": "「直到……才停止」用 didn't...until。since 表「自從」時，主要子句要用完成式；during 是介系詞，不能接子句；as soon 缺了後面的 as，無法連接子句。",
     "hint": "語意是「直到媽媽叫他們，才停止」，需要表示「直到」的連接詞。"
    },
    {
@@ -7249,8 +7249,8 @@
      "She did leave the classroom until everyone finished the test."
     ],
     "a": 0,
-    "ex": "until 子句不用 will；否定要用 did not；肯定句加 until 語意不符句意。",
-    "hint": "主句否定、until 子句用過去式，並檢查 will、位置與助動詞。"
+    "ex": "until 子句不用 will；否定要用 did not；肯定句 did leave 加 until 則句意不通。",
+    "hint": "主句否定、until 子句用過去式，並檢查 will、not 的位置與助動詞。"
    },
    {
     "type": "pick",
@@ -7271,7 +7271,7 @@
   "id": "G3-L03-1",
   "b": 3,
   "l": "L03",
-  "title": "not only...but also...（不但...而且...）",
+  "title": "not only...but also...（不但……而且……）",
   "formula": "not only A but also B",
   "status": "ok",
   "intro": "想誇一個人時，常常不是只說一個優點，而是「不但很聰明，而且很努力」。英文用 not only...but also... 把兩個優點連在一起。高中很重視「平行結構」：連接的兩個部分詞性、形式要一樣，也會考主詞與動詞的一致和倒裝。",
@@ -7326,7 +7326,7 @@
     ]
    },
    {
-    "t": "also 有時可省略，但 but 不能省略。",
+    "t": "also 有時可省略，但 but 通常不省略。",
     "ex": [
      {
       "en": "The restaurant is famous not only for its food but for its friendly staff.",
@@ -7340,8 +7340,8 @@
   ],
   "steps": [
    "找出兩件要連接的事，例如：煮菜煮得好、每天打掃。",
-   "確認兩邊結構要平行：兩個都用「動詞 + 受詞」。",
-   "套入句型：not only A but also B，不要在 only 與 but 之間加多餘字。",
+   "確認兩邊結構要平行：兩個都用動詞片語（cooks well、cleans the house）。",
+   "套入句型：not only A but also B，not only 後面直接接 A，不要多加 is 之類的字。",
    "完成句子：My sister not only cooks well but also cleans the house every day."
   ],
   "compare": [
@@ -7365,7 +7365,7 @@
    {
     "wrong": "This book is not only interesting and also useful.",
     "right": "This book is not only interesting but also useful.",
-    "why": "not only 必須和 but also 搭配，不能用 and also。"
+    "why": "not only 要和 but also 搭配（also 有時可省略），不能用 and also。"
    },
    {
     "wrong": "Not only the players but also the coach were happy.",
@@ -7450,7 +7450,7 @@
     ],
     "a": 2,
     "ex": "not only 要直接放在對等成分前，並與 but also 搭配，且詞性要平行；其他選項把 but 誤寫成 and，或把形容詞寫成副詞，或把 not only 放錯位置。",
-    "hint": "but also 後面的詞性要與前面一致（都是形容詞）；but 與 only 的位置不能顛倒。"
+    "hint": "but also 後面的詞性要與前面一致（都是形容詞）；並注意 not only 該放在哪裡。"
    }
   ]
  },
@@ -7517,7 +7517,7 @@
     "ex": [
      {
       "en": "The village is believed to have been founded in the 1800s.",
-      "zh": "這個村莊據信創立於一八○○年代。",
+      "zh": "這個村莊據信建立於 1800 年代。",
       "hl": [
        "to have been founded"
       ]
@@ -7535,7 +7535,7 @@
    {
     "a": "He is said to be rich.",
     "b": "He is said to have been rich.",
-    "note": "前者表示現在據說他有錢；後者表示據說他過去有錢，時間更早。"
+    "note": "前者表示據說他現在有錢；後者表示據說他過去有錢，時間更早。"
    },
    {
     "a": "He is said to be the best player on the team.",
@@ -7636,7 +7636,7 @@
      "Cats are said that be able to see in the dark."
     ],
     "a": 2,
-    "ex": "be said to V 後面直接接不定詞，不能加 that 或使用動名詞，主詞 cats 也要用被動。",
+    "ex": "be said 後面直接接不定詞，不能加 that 或使用動名詞，主詞 cats 也要用被動。",
     "hint": "主詞是貓，要用被動語態；檢查動詞後面的不定詞形式是否正確。"
    }
   ]
@@ -7783,7 +7783,7 @@
    },
    {
     "type": "mc",
-    "s": "The little girl was seen ______ across the street by herself.",
+    "s": "The little girl was seen ______ the street by herself.",
     "o": [
      "cross",
      "to cross",
@@ -8017,7 +8017,7 @@
   "title": "同位語子句（the fact that + S + V）",
   "formula": "the fact / news / idea / belief / hope + that + S + V",
   "status": "ok",
-  "intro": "你想說「他說謊這件事讓我很生氣」，只寫 the fact 並不知道是什麼事，所以要在後面接一個子句說明內容。新聞、想法、信念、希望也都可以這樣補充。學測常考連接詞要選哪一個，以及 Despite the fact that 的搭配。",
+  "intro": "你想說「他說謊這件事讓我很生氣」，只寫 the fact 並不知道是什麼事，所以要在後面接一個子句說明內容。消息、想法、信念、希望也都可以這樣補充。學測常考連接詞要選哪一個，以及 Despite the fact that 的搭配。",
   "rhyme": "抽象名詞接 that，that 後面整句完整，不用 what。",
   "points": [
    {
@@ -8025,7 +8025,7 @@
     "ex": [
      {
       "en": "The fact that she speaks four languages surprised her classmates.",
-      "zh": "她會說四種語言的事實讓同學們很驚訝。",
+      "zh": "她會說四種語言這件事讓同學們很驚訝。",
       "hl": [
        "The fact that she speaks four languages"
       ]
@@ -8044,7 +8044,7 @@
     "ex": [
      {
       "en": "We were happy to hear the news that our school team had won.",
-      "zh": "聽到我們學校隊伍贏了的消息，我們很高興。",
+      "zh": "聽到校隊贏了的消息，我們很高興。",
       "hl": [
        "the news that our school team had won"
       ]
@@ -8082,7 +8082,7 @@
      },
      {
       "en": "Many people share the belief that hard work leads to success.",
-      "zh": "很多人認同努力工作會帶來成功的信念。",
+      "zh": "很多人都抱持「努力會帶來成功」的信念。",
       "hl": [
        "the belief that hard work leads to success"
       ]
@@ -8094,7 +8094,7 @@
    "先選一個抽象名詞：fact、news、idea、belief、hope、rumor 等，放在要說明的位置。",
    "在名詞後面加 that，不要用 what 或 which。",
    "that 後面接一個主詞和動詞都完整的句子，說明這個名詞的內容。",
-   "完成例句：I heard the rumor that the test would be easier this time.（我聽說這次考試會比較簡單的傳言。）"
+   "完成例句：I heard the rumor that the test would be easier this time.（我聽到傳言說這次考試會比較簡單。）"
   ],
   "compare": [
    {
@@ -8168,7 +8168,7 @@
     ],
     "a": 1,
     "ex": "idea 的內容是一個完整句子，用 that 引導同位語子句。",
-    "hint": "idea 的內容是一個完整的句子，不是疑問；排除表示「是否」「什麼」「何時」的字。"
+    "hint": "idea 的內容是一個完整的句子，不是疑問句。"
    },
    {
     "type": "mc",
@@ -8193,7 +8193,7 @@
      "The fact that forgot my birthday made me sad."
     ],
     "a": 0,
-    "ex": "同位語 that 子句需完整含主詞與動詞；其他選項用錯連接詞或缺少主詞。",
+    "ex": "同位語 that 子句需完整含主詞與動詞；其他選項用錯連接詞、that 位置錯誤或缺少主詞。",
     "hint": "檢查子句是否完整，主詞、動詞都要有，連接詞也要對，語序不能亂。"
    },
    {
@@ -8206,7 +8206,7 @@
      "There is no proof the story that is true."
     ],
     "a": 2,
-    "ex": "proof 後面接 that + 完整子句；其他選項用錯關係詞、倒裝或 that 位置錯誤。",
+    "ex": "proof 後面接 that + 完整子句；其他選項用錯連接詞、倒裝或 that 位置錯誤。",
     "hint": "proof 後面要接完整的陳述子句，注意連接詞和子句內語序有沒有被倒裝或移位。"
    }
   ]
@@ -8245,7 +8245,7 @@
      },
      {
       "en": "The shop sells twenty kinds of tea, many of which are cheap.",
-      "zh": "這家店賣二十種茶，其中很多很便宜。",
+      "zh": "這家店賣二十種茶，其中很多種都很便宜。",
       "hl": [
        "many of which are cheap"
       ]
@@ -8321,7 +8321,7 @@
    {
     "wrong": "The store has many breads, some of whom are sweet.",
     "right": "The store has many kinds of bread, some of which are sweet.",
-    "why": "先行詞是物，要用 which，不能用 whom。"
+    "why": "先行詞是物，要用 which，不能用 whom；另外 bread 通常當不可數名詞，所以改成 many kinds of bread。"
    }
   ],
   "qs": [
@@ -8459,7 +8459,7 @@
     ]
    },
    {
-    "t": "完成式把 have、has、had 移到主詞前，過去分詞留在原位。Hardly had... when... 是常見搭配，表示「一...就...」。",
+    "t": "完成式把 have、has、had 移到主詞前，過去分詞留在原位。Hardly had... when... 是常見搭配，表示「一……就……」。",
     "ex": [
      {
       "en": "Hardly had we arrived when it began to rain.",
@@ -8603,7 +8603,7 @@
   "rhyme": "建議要求 that 子句，動詞一律用原形。",
   "points": [
    {
-    "t": "表示建議、要求、堅持、命令的動詞（suggest、recommend、insist、demand、require、order、propose）後接 that 子句，子句動詞用 (should) + 原形動詞。",
+    "t": "表示建議、要求、堅持、命令的動詞（suggest、recommend、advise、insist、demand、require、order、propose）後接 that 子句，子句動詞用 (should) + 原形動詞。",
     "ex": [
      {
       "en": "Our teacher suggested that we review Lesson 3 before the quiz.",
@@ -8657,7 +8657,7 @@
     "ex": [
      {
       "en": "She insisted that she was at home all evening.",
-      "zh": "她堅稱整個晚上她都在家。",
+      "zh": "她堅稱自己整個晚上都在家。",
       "hl": [
        "insisted that she was"
       ]
@@ -8821,7 +8821,7 @@
     "ex": [
      {
       "en": "If Tom were taller, he could join the basketball team.",
-      "zh": "如果湯姆再高一點，他就能加入籃球隊。",
+      "zh": "如果 Tom 再高一點，他就能加入籃球隊。",
       "hl": [
        "were taller",
        "could join"
@@ -8936,7 +8936,7 @@
      "doesn't rain",
      "didn't rain",
      "won't rain",
-     "hadn't rained"
+     "hasn't rained"
     ],
     "a": 1,
     "ex": "與現在事實相反的假設，if 子句用過去式，故選 didn't rain。",
@@ -9010,7 +9010,7 @@
     "ex": [
      {
       "en": "It is vital that Mia not be late for her job interview.",
-      "zh": "米雅不要在面試遲到是非常關鍵的。",
+      "zh": "Mia 面試千萬不能遲到，這一點非常關鍵。",
       "hl": [
        "vital that Mia not be"
       ]
@@ -9041,7 +9041,7 @@
     "ex": [
      {
       "en": "It is important that you not forget your passport.",
-      "zh": "你不要忘記帶護照是很重要的。",
+      "zh": "你千萬別忘了帶護照，這很重要。",
       "hl": [
        "important that you not forget"
       ]
@@ -9181,7 +9181,7 @@
   "rhyme": "同時用 to V，更早用 to have p.p.。",
   "points": [
    {
-    "t": "seem 或 appear 後接 to + 原形動詞，表示「似乎」，所指的事與現在同時。",
+    "t": "seem 或 appear 後接 to + 原形動詞，表示「似乎」，所指的事與 seem / appear 同時。",
     "ex": [
      {
       "en": "My little sister seems to enjoy her new school.",
@@ -9193,7 +9193,7 @@
     ]
    },
    {
-    "t": "to have + p.p. 表示「似乎已經…」，所指的事發生在 seem 之前，比較早。",
+    "t": "to have + p.p. 表示「似乎已經……」，所指的事發生在 seem 之前，比較早。",
     "ex": [
      {
       "en": "Our neighbors seem to have moved away already.",
@@ -9223,7 +9223,7 @@
      },
      {
       "en": "It seems that he knows the answer.",
-      "zh": "似乎他知道答案。",
+      "zh": "看來他知道答案。",
       "hl": [
        "It seems that he knows"
       ]
@@ -9263,7 +9263,7 @@
    {
     "a": "The test appears to be easy.",
     "b": "The test appears easily.",
-    "note": "appear 後接形容詞或 to be，不接副詞。"
+    "note": "appear 表示「似乎」時，後接形容詞或 to be，不接副詞。"
    }
   ],
   "mistakes": [
@@ -9280,7 +9280,7 @@
    {
     "wrong": "The little boy seems lost his way yesterday.",
     "right": "The little boy seems to have lost his way.",
-    "why": "seem 後要接不定詞，更早的事用 to have + p.p.。"
+    "why": "seem 後面不能直接接過去式動詞，要接不定詞，更早的事用 to have + p.p.。"
    }
   ],
   "qs": [
@@ -9388,7 +9388,7 @@
     ]
    },
    {
-    "t": "主要子句用 would / could / might + have + p.p.，表示「當時就會、就能、也許會…」。",
+    "t": "主要子句用 would / could / might + have + p.p.，表示「當時就會、就能、也許會……」。",
     "ex": [
      {
       "en": "If the bus had come earlier, we could have caught the train.",
@@ -9569,13 +9569,13 @@
   "b": 4,
   "l": "L06",
   "title": "Not until 置於句首的倒裝",
-  "formula": "Not until + 子句／時間詞, + 助動詞／be + S + V…",
+  "formula": "Not until + 子句／時間詞 + 助動詞／be + S + V…",
   "status": "ok",
-  "intro": "「直到鈴響，學生才離開教室」，可以寫成 Not until the bell rang did the students leave. 把「直到…才…」放到句首，語氣更強。學測常考主要子句要怎麼倒裝，記得倒裝的是後面那半句。",
+  "intro": "「直到鈴響，學生才離開教室」，可以寫成 Not until the bell rang did the students leave. 把「直到……才……」放到句首，語氣更強。學測常考主要子句要怎麼倒裝，記得倒裝的是後面那半句。",
   "rhyme": "Not until 放句首，後半句要倒裝。",
   "points": [
    {
-    "t": "not until 引導的子句或時間詞放在句首時，後面的主要子句要倒裝，意思是「直到…才…」。",
+    "t": "not until 引導的子句或時間詞放在句首時，後面的主要子句要倒裝，意思是「直到……才……」。",
     "ex": [
      {
       "en": "Not until the bell rang did the students leave the classroom.",
@@ -9592,7 +9592,7 @@
     "ex": [
      {
       "en": "Not until we got home were we able to eat dinner.",
-      "zh": "直到到家我們才吃得到晚餐。",
+      "zh": "直到回到家，我們才吃得到晚餐。",
       "hl": [
        "Not until we got home",
        "were we able"
@@ -9767,7 +9767,7 @@
   "rhyme": "現在 were not for，過去 had not been for，後面都接名詞。",
   "points": [
    {
-    "t": "If it were not for + 名詞，表示「若非有…（現在）」，主要子句用 would / could + 原形。",
+    "t": "If it were not for + 名詞，表示「若非有……（現在）」，主要子句用 would / could + 原形。",
     "ex": [
      {
       "en": "If it were not for the Internet, we would not find information so quickly.",
@@ -9780,11 +9780,11 @@
     ]
    },
    {
-    "t": "If it had not been for + 名詞，表示「若當時沒有…」，主要子句用 would have + p.p.。",
+    "t": "If it had not been for + 名詞，表示「若當時沒有……」，主要子句用 would have + p.p.。",
     "ex": [
      {
       "en": "If it had not been for your advice, I would have made a big mistake.",
-      "zh": "如果沒有你的建議，我就會犯下大錯。",
+      "zh": "如果當時沒有你的建議，我早就犯下大錯了。",
       "hl": [
        "If it had not been for",
        "would have made"
@@ -9793,11 +9793,11 @@
     ]
    },
    {
-    "t": "for 後面接名詞或名詞片語，不接完整子句；要接子句時要改寫成名詞片語（如 his help）。",
+    "t": "for 後面接名詞或名詞片語，不接完整子句；想表達子句的意思（如 he helped me）時，要改寫成名詞片語（如 his help）。",
     "ex": [
      {
       "en": "If it were not for his help, I would fail the class.",
-      "zh": "如果沒有他的幫忙，我這堂課會被當。",
+      "zh": "如果沒有他的幫忙，我這門課就會被當。",
       "hl": [
        "If it were not for his help"
       ]
@@ -9872,7 +9872,7 @@
     "o": [
      "were not",
      "is not",
-     "had not been",
+     "has not been",
      "will not be"
     ],
     "a": 0,
@@ -9937,7 +9937,7 @@
     "o": [
      "If it had not been for her kindness, I would feel lonely then.",
      "If it had not been for her kindness, I would have felt lonely.",
-     "If it were not for her kindness, I would have felt lonely.",
+     "If it has not been for her kindness, I would have felt lonely.",
      "If it had not been her kindness, I would have felt lonely."
     ],
     "a": 1,
@@ -9953,7 +9953,7 @@
   "title": "Only + 副詞片語／子句 置於句首的倒裝",
   "formula": "Only + 副詞（片語／子句）+ 助動詞／be + S + V…",
   "status": "ok",
-  "intro": "老師說「只有認真複習，你才會進步」，想把「只有……才……」講得很有力，英文就把 Only 搬到句首。這時後面的句子會像疑問句一樣倒裝，聽起來更強調、更正式。學測的單選和改錯很愛考：Only + 副詞成分開頭，後面到底要不要倒裝。",
+  "intro": "老師說「只有認真複習，你才會進步」，想把「只有……才……」講得很有力，英文就把 Only 搬到句首。這時後面的句子會像疑問句一樣倒裝，語氣更強烈、也更正式。段考的文法選擇和改錯很愛考：Only + 副詞成分開頭，後面到底要不要倒裝。",
   "rhyme": "Only 加副詞站句首，助動詞先跑到主詞前",
   "points": [
    {
@@ -9974,7 +9974,7 @@
     "ex": [
      {
       "en": "Only after the test did Amy feel relaxed.",
-      "zh": "直到考試結束後，艾咪才覺得放鬆。",
+      "zh": "直到考試結束後，Amy 才覺得放鬆。",
       "hl": [
        "Only after the test",
        "did Amy feel"
@@ -10021,7 +10021,7 @@
     "ex": [
      {
       "en": "Only Tom knows the answer to this question.",
-      "zh": "只有湯姆知道這題的答案。",
+      "zh": "只有 Tom 知道這題的答案。",
       "hl": [
        "Only Tom knows"
       ]
@@ -10070,7 +10070,7 @@
     "s": "Only in this way ______ solve the problem.",
     "o": [
      "we can",
-     "do we",
+     "we do",
      "can we",
      "are we"
     ],
@@ -10110,7 +10110,7 @@
     "o": [
      "you can",
      "can you",
-     "do you",
+     "are you",
      "you do"
     ],
     "a": 1,
@@ -10127,7 +10127,7 @@
      "Only then realized I the mistake."
     ],
     "a": 2,
-    "ex": "only then 在句首，後面用 did + 主詞 + 原形，故為 did I realize。其他選項未倒裝，或助動詞後誤用過去式。",
+    "ex": "only then 在句首，後面用 did + 主詞 + 原形，故為 did I realize。其他選項有的未倒裝，有的把一般動詞直接移到主詞前，有的在助動詞後誤用過去式。",
     "hint": "找 Only then 之後有沒有倒裝，同時檢查助動詞後面的動詞是不是原形。"
    },
    {
@@ -10140,7 +10140,7 @@
      "Only when it is quiet can I study well."
     ],
     "a": 3,
-    "ex": "only when 子句本身不倒裝，主要子句才倒裝為 can I study。其他選項未倒裝，或誤倒裝子句。",
+    "ex": "only when 子句本身不倒裝，主要子句才倒裝為 can I study。其他選項有的未倒裝，有的把動詞 study 放到主詞前，有的誤把子句倒裝。",
     "hint": "only when 子句不倒裝，倒裝的是主要子句；先分清楚哪一段是子句再檢查語序。"
    }
   ]
@@ -10184,7 +10184,7 @@
     "ex": [
      {
       "en": "The window is broken. Someone must have hit it with a ball.",
-      "zh": "窗戶破了，一定是有人用球打到它。",
+      "zh": "窗戶破了，一定是有人用球打到的。",
       "hl": [
        "must have hit"
       ]
@@ -10196,14 +10196,14 @@
     "ex": [
      {
       "en": "Tom must be tired because he ran all morning.",
-      "zh": "湯姆一定很累，因為他整個早上都在跑步。",
+      "zh": "Tom 一定很累，因為他整個早上都在跑步。",
       "hl": [
        "must be tired"
       ]
      },
      {
       "en": "Tom got full marks. He must have studied hard.",
-      "zh": "湯姆考滿分，他一定很用功念書。",
+      "zh": "Tom 考滿分，他一定很用功念書。",
       "hl": [
        "must have studied"
       ]
@@ -10211,11 +10211,11 @@
     ]
    },
    {
-    "t": "否定的肯定推測用 can't have + p.p.（不可能已經……），不用 mustn't have；「早該做卻沒做」則是 should have + p.p.。",
+    "t": "有把握的否定推測用 can't have + p.p.（不可能已經……）；「早該做卻沒做」則是 should have + p.p.。",
     "ex": [
      {
       "en": "Amy can't have finished the book in one hour.",
-      "zh": "艾咪不可能在一小時內讀完那本書。",
+      "zh": "Amy 不可能在一小時內讀完那本書。",
       "hl": [
        "can't have finished"
       ]
@@ -10258,9 +10258,9 @@
     "why": "have 後面要用過去分詞 left，不是原形。"
    },
    {
-    "wrong": "Jenny mustn't have heard the phone.",
-    "right": "Jenny can't have heard the phone.",
-    "why": "否定推測「不可能已經」用 can't have p.p.，不用 mustn't have。"
+    "wrong": "Jenny must have went to bed early.",
+    "right": "Jenny must have gone to bed early.",
+    "why": "have 後面要用過去分詞 gone，不能用過去式 went。"
    }
   ],
   "qs": [
@@ -10301,7 +10301,7 @@
     ],
     "a": 2,
     "ex": "對過去事實的推測，用 must have + p.p.，故選 must have hit。",
-    "hint": "推測的是窗戶破掉之前的動作，要用「情態助動詞 + have + 過去分詞」，並且 hit 的過去分詞和原形同形。"
+    "hint": "推測的是窗戶破掉之前的動作，想想推測過去要用哪種句型，並注意 hit 的三態同形。"
    },
    {
     "type": "mc",
@@ -10326,7 +10326,7 @@
      "The road is blocked, so there must been an accident."
     ],
     "a": 0,
-    "ex": "推測過去有事故用 must have been；其他選項漏掉 been 或助動詞形式錯誤。",
+    "ex": "推測過去有事故用 must have been；其他選項分別漏掉 been、誤用 be had、漏掉 have。",
     "hint": "檢查 must 後面接的是不是 have，且 have 後面是不是過去分詞。"
    },
    {
@@ -10340,7 +10340,7 @@
     ],
     "a": 1,
     "ex": "must 後要接 have，再接過去分詞 left。其他選項誤用 has、原形或 V-ing。",
-    "hint": "檢查 must 後面該接 have 還是 has，以及 left 這個動詞形式有沒有放對。"
+    "hint": "檢查 must 後面該接 have 還是 has，以及 have 後面的動詞形式對不對。"
    }
   ]
  },
@@ -10371,7 +10371,7 @@
     "ex": [
      {
       "en": "The cafeteria lets us eat whatever we like, as long as we finish it.",
-      "zh": "只要吃完，餐廳讓我們吃任何喜歡的東西。",
+      "zh": "餐廳讓我們想吃什麼就吃什麼，只要吃完就好。",
       "hl": [
        "whatever we like"
       ]
@@ -10391,7 +10391,7 @@
     ]
    },
    {
-    "t": "複合關代自己就帶有先行詞，所以前面不可再加 anything、that，否則會重複。",
+    "t": "複合關代自己就帶有先行詞，所以前面不可再加 anything，後面也不可再加關代 that，否則會重複。",
     "ex": [
      {
       "en": "Whatever my sister cooks tastes delicious.",
@@ -10403,7 +10403,7 @@
     ]
    },
    {
-    "t": "whoever 引導的名詞子句當主詞時，動詞要和子句內的單數主詞一致；即使前面有介系詞，子句主詞仍用 whoever。",
+    "t": "whoever 在子句中當主詞時，子句動詞用單數（如 gets）；即使前面有介系詞（如 to），子句主詞仍用 whoever，不用 whomever。",
     "ex": [
      {
       "en": "Our class will give a small gift to whoever gets the highest score.",
@@ -10418,7 +10418,7 @@
   "steps": [
    "步驟 1：先想要說的是「人」（whoever）、「事物」（whatever），還是「範圍內的哪一個」（whichever）。",
    "步驟 2：把它放在名詞子句的開頭，不要再加 anything、that 或 the one。",
-   "步驟 3：後面接子句（主詞 + 動詞），並檢查子句動詞和主詞一致。",
+   "步驟 3：接上子句的其餘部分（複合關代本身當主詞時直接接動詞），並檢查子句動詞和主詞一致。",
    "完成句：Whoever is late for class must tell the teacher why."
   ],
   "compare": [
@@ -10480,7 +10480,7 @@
     ],
     "a": 1,
     "ex": "eat 的受詞為「任何我們喜歡的東西」，用 whatever 即可，不能再加 what that 或 anything what。",
-    "hint": "空格後面有完整子句 we like，缺少的是受詞，指「事物」，且前面不需再加其他詞。"
+    "hint": "空格後面的子句 we like 缺少受詞，要找指「事物」的字，且前面不需再加其他詞。"
    },
    {
     "type": "mc",
@@ -10519,7 +10519,7 @@
     ],
     "a": 1,
     "ex": "whatever 已含先行詞與關代，不可再加 that，也不可前面再放 anything；整個子句為單數，動詞用 tastes。",
-    "hint": "檢查複合關代前面有沒有多餘的 that 或 anything，還有動詞形式是否對。"
+    "hint": "檢查複合關代前後有沒有多餘的 anything 或 that，還有動詞形式是否對。"
    },
    {
     "type": "pick",
@@ -10531,7 +10531,7 @@
      "Whomever is late for class must tell the teacher why."
     ],
     "a": 2,
-    "ex": "Whoever 子句視為單數，用 is；must 後接原形動詞，不加 to；late 前缺主詞，應用 whoever 而非 whomever。",
+    "ex": "Whoever 子句視為單數，用 is；must 後接原形動詞，不加 to；is late 前缺主詞，應用 whoever 而非 whomever。",
     "hint": "檢查動詞 is 和 are 的單複數，以及 must 後面不該多接 to 的錯誤用法。"
    }
   ]
@@ -10559,7 +10559,7 @@
     ]
    },
    {
-    "t": "that 後面的子句要用 would / should / might + 原形動詞，表示「萬一可能發生」的擔心。",
+    "t": "主要子句是過去式時，that 後面的子句用 would / should / might + 原形動詞，表示「萬一可能發生」的擔心。",
     "ex": [
      {
       "en": "We stayed quiet for fear that the baby might wake up.",
@@ -10571,7 +10571,7 @@
     ]
    },
    {
-    "t": "子句本身已有「害怕」的否定概念，不可再加 not；想說的是怕發生的事，不是怕沒發生。",
+    "t": "for fear that 本身已含「以免」的否定概念，子句不可再加 not；想說的是怕發生的事，不是怕沒發生。",
     "ex": [
      {
       "en": "She took notes carefully for fear that she would forget the homework.",
@@ -10599,7 +10599,7 @@
     "ex": [
      {
       "en": "Mike didn't tell Amy the news for fear that she should be worried.",
-      "zh": "麥克沒告訴艾咪這個消息，以免她擔心。",
+      "zh": "麥克沒告訴 Amy 這個消息，以免她擔心。",
       "hl": [
        "for fear that she should be worried"
       ]
@@ -10632,9 +10632,9 @@
   ],
   "mistakes": [
    {
-    "wrong": "Run for fear that you will not miss the bus.",
-    "right": "Run for fear that you might miss the bus.",
-    "why": "for fear that 後不可再加 not，也不用 will。"
+    "wrong": "He ran for fear that he will not miss the bus.",
+    "right": "He ran for fear that he would miss the bus.",
+    "why": "for fear that 後不可再加 not；主要子句是過去式 ran，要用 would，不用 will。"
    },
    {
     "wrong": "She spoke softly for fear that the teacher can hear her.",
@@ -10659,7 +10659,7 @@
     ],
     "a": 1,
     "ex": "for fear that 後接 would / should / might + 原形，would steal 正確；will 與單純現在式 steals 不合。",
-    "hint": "for fear that 之後的子句要用過去形的情態助動詞，表示可能發生的擔心。"
+    "hint": "主要子句 locked 是過去式，for fear that 之後的子句要用過去形的情態助動詞，表示可能發生的擔心。"
    },
    {
     "type": "mc",
@@ -10791,7 +10791,7 @@
     "ex": [
      {
       "en": "Tom's phone cost four times as much as mine.",
-      "zh": "湯姆的手機價格是我的四倍。",
+      "zh": "Tom 的手機價格是我的四倍。",
       "hl": [
        "four times as much as"
       ]
@@ -10836,7 +10836,7 @@
    {
     "wrong": "The tower is two times the height than that tree.",
     "right": "The tower is two times the height of that tree.",
-    "why": "倍數句型用 of，不是 than。"
+    "why": "倍數 + the + 名詞的句型要用 of，不是 than。"
    }
   ],
   "qs": [
@@ -10851,7 +10851,7 @@
     ],
     "a": 0,
     "ex": "倍數 + the + 名詞 + of，three times the size of 正確；其他選項結構錯誤。",
-    "hint": "空格前有倍數詞 three times，後面是 the + 名詞 + of 的結構，要選合適的名詞。"
+    "hint": "空格前有倍數詞 three times，後面直接接比較對象 the classroom，想想哪一種倍數句型能這樣接。"
    },
    {
     "type": "mc",
@@ -10863,8 +10863,8 @@
      "heavy as"
     ],
     "a": 0,
-    "ex": "half the weight of 表「是…重量的一半」，the 不可省略。",
-    "hint": "half 後面接 the，再接名詞，最後用 of，不能只放形容詞。"
+    "ex": "half the weight of 表「重量是……的一半」，the 不可省略。",
+    "hint": "half 也是倍數詞，空格後直接接比較對象 my brother's，想想哪一種倍數句型的結構完整。"
    },
    {
     "type": "mc",
@@ -10889,7 +10889,7 @@
      "much than"
     ],
     "a": 1,
-    "ex": "four times as much as 表「是…的四倍價錢」；as much as 用來比較金額，其他選項結構錯誤。",
+    "ex": "four times as much as 表「價錢是……的四倍」；as much as 用來比較金額，其他選項結構錯誤。",
     "hint": "four times 後面可接 as...as，想想價格這種量要怎麼表示。"
    },
    {
@@ -10902,7 +10902,7 @@
      "The tower is two times the height of that tree."
     ],
     "a": 3,
-    "ex": "正確結構為倍數 + the + height + of；其餘選項多了 than、漏 the，或重複使用比較級。",
+    "ex": "正確結構為倍數 + the + height + of；其餘選項誤用 than、漏了 the，或多加了比較級 higher。",
     "hint": "檢查句子有沒有誤用 than，或 the 與名詞的位置，還有 of 有沒有使用。"
    },
    {
@@ -10927,7 +10927,7 @@
   "title": "複合形容詞",
   "formula": "名詞/形容詞/副詞 + 現在分詞或過去分詞；數字 + 單數名詞",
   "status": "ok",
-  "intro": "你住過「五星級飯店」、坐過「兩小時的車程」，這些「數字 + 名詞」放在名詞前面形容它的詞，就是複合形容詞。像 five-star hotel、well-known writer，用連字號把兩個字連成一個形容詞。學測常考「名詞不可加 s」和「分詞要用哪一種」。",
+  "intro": "你住過「五星級飯店」、坐過「兩小時的車程」，這種放在名詞前面、由「數字 + 名詞」組成的修飾語，就是一種複合形容詞。像 five-star hotel、well-known writer，用連字號把兩個字連成一個形容詞。學測常考「名詞不可加 s」和「分詞要用哪一種」。",
   "rhyme": "數字加單數，連字號一起當形容詞",
   "points": [
    {
@@ -10946,8 +10946,8 @@
     "t": "這類複合形容詞放在名詞前面當修飾語，所以時間、距離、頁數等單位名詞都保持單數。",
     "ex": [
      {
-      "en": "It took us a two-hour ride to get to the museum.",
-      "zh": "我們花了兩小時的車程才到達博物館。",
+      "en": "The museum is a two-hour ride from here.",
+      "zh": "博物館離這裡有兩小時的車程。",
       "hl": [
        "two-hour ride"
       ]
@@ -11060,7 +11060,7 @@
    },
    {
     "type": "mc",
-    "s": "It took us a ______ ride to get to the museum.",
+    "s": "The museum is a ______ ride from here.",
     "o": [
      "two-hours",
      "two hours",
@@ -11068,7 +11068,7 @@
      "two-hour"
     ],
     "a": 3,
-    "ex": "two-hour ride 是常見的複合形容詞，hour 用單數。",
+    "ex": "two-hour 是放在 ride 前的複合形容詞，hour 用單數。",
     "hint": "整個詞是放在 ride 前的形容詞，單位名詞不加 s，並且要用連字號相連。"
    },
    {
@@ -11135,7 +11135,7 @@
     ]
    },
    {
-    "t": "as if 子句中 be 動詞一律用 were（不分人稱），這是假設語氣的慣用法。",
+    "t": "與現在事實相反時，as if 子句中的 be 動詞用 were（不分人稱），這是假設語氣的慣用法。",
     "ex": [
      {
       "en": "He looks at me as if I were a stranger.",
@@ -11151,7 +11151,7 @@
     "ex": [
      {
       "en": "The room was a mess, as if a storm had passed through it last night.",
-      "zh": "房間一團亂，好像昨晚有暴風雨經過一樣。",
+      "zh": "房間一團亂，好像昨晚被暴風雨掃過一樣。",
       "hl": [
        "as if a storm had passed"
       ]
@@ -11171,7 +11171,7 @@
     ]
    },
    {
-    "t": "若 as if 描述的是真的可能的事（不是與事實相反），可以用直說法；與事實相反時才用假設語氣。",
+    "t": "若 as if 描述的是真實或很可能發生的事（不是與事實相反），可以用直說法；與事實相反時才用假設語氣。",
     "ex": [
      {
       "en": "It looks as if it will rain this afternoon.",
@@ -11203,7 +11203,7 @@
    {
     "a": "It looks as if it will rain.",
     "b": "It looks as if it had rained.",
-    "note": "前者可能性真實，直說；後者與過去事實相反。"
+    "note": "前者描述很可能發生的事，用直說法；後者與過去事實相反，用 had p.p.。"
    }
   ],
   "mistakes": [
@@ -11308,10 +11308,10 @@
   "id": "G5-L06-1",
   "b": 5,
   "l": "L06",
-  "title": "省略 if 的倒裝假設句（過去式）",
+  "title": "省略 if 的倒裝假設句（與過去事實相反）",
   "formula": "Had + S + p.p., S + would/could/might + have + p.p.",
   "status": "ok",
-  "intro": "「要是當時有早點出門，就不會遲到了」，這是對過去的後悔。正式一點的說法，可以把 if 省略，直接把助動詞放到句首：像 Had I left earlier, I would not have been late。這種倒裝句很常在學測的單選與改錯出現。",
+  "intro": "「要是當時有早點出門，就不會遲到了」，這是對過去的後悔。正式一點的說法，可以把 if 省略，直接把助動詞放到句首：像 Had I left earlier, I would not have been late。這種倒裝句很常在段考的文法選擇與改錯題出現。",
   "rhyme": "省 if 把 Had 提前，過去相反 would have p.p.",
   "points": [
    {
@@ -11339,7 +11339,7 @@
     ]
    },
    {
-    "t": "省略 if 後不能再保留 if，否則句子重複；整個條件子句只用 Had + S + p.p.。",
+    "t": "改成倒裝後就不能再保留 if，否則句子重複；整個條件子句只用 Had + S + p.p.。",
     "ex": [
      {
       "en": "Had Peter received the invitation, he would have come to the party.",
@@ -11355,7 +11355,7 @@
     "ex": [
      {
       "en": "Had they not fixed the road, the trip would have been much more difficult.",
-      "zh": "如果他們沒修路，旅程會困難許多。",
+      "zh": "如果他們當初沒修路，這趟旅程就會困難許多。",
       "hl": [
        "Had they not fixed"
       ]
@@ -11367,7 +11367,7 @@
     "ex": [
      {
       "en": "Had I known about the rain, I would have brought an umbrella.",
-      "zh": "如果我知道會下雨，我就會帶傘了。",
+      "zh": "如果我早知道會下雨，我就會帶傘了。",
       "hl": [
        "Had I known"
       ]
@@ -11466,7 +11466,7 @@
     ],
     "a": 3,
     "ex": "與過去事實相反，主要子句用 would have + p.p.，would have been 正確。",
-    "hint": "主要子句描述過去結果，與過去事實相反，要用「情態動詞 + have + 過去分詞」的完整形式。"
+    "hint": "主要子句描述過去結果，與過去事實相反，想想該用哪一種動詞形式。"
    },
    {
     "type": "pick",

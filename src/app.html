@@ -13,7 +13,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="theme-color" content="#f5f2fa" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#16131f" media="(prefers-color-scheme: dark)">
-<meta name="description" content="單字實力直接升級，學測英文一路破關。大考英文參考詞彙表第三至六級 4,008 詞條：間隔複習、熟練星等、學測真題例句。">
+<meta name="description" content="單字實力直接升級，學測英文一路破關。大考中心《高中英文參考詞彙表》第三至六級 4,008 詞條：間隔複習、熟練星等、學測真題例句。">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&family=Outfit:wght@500;700;800&family=Literata:wght@400;600&display=swap">
 <style>
@@ -352,7 +352,7 @@ const W = RAW.map((r,i)=>({i,id:r[0],lv:r[1],day:r[2],hday:r[3],word:r[4],pos:r[
 const BYID = Object.fromEntries(W.map(w=>[w.id,w]));
 const LEVELS=[...(RAW.some(r=>r[1]===0)?[0]:[]),3,4,5,6,...(RAW.some(r=>r[1]===7)?[7]:[])];
 const lvName=l=>l===0?'銜接':l===1?'片語':l===2?'課本':l===8?'多益':'L'+l;
-const lvLong=l=>l===0?'國中銜接站':l===1?'片語':l===2?'課本補充字':l===7?'第七級（進階字彙）':l===8?'多益職場英文':'第 '+l+' 級';
+const lvLong=l=>l===0?'國中銜接站':l===1?'片語':l===2?'課本補充字':l===7?'第 7 級（進階字彙）':l===8?'多益職場英文':'第 '+l+' 級';
 const INTERVAL=[0,1,2,4,7,15];
 const KEY='gvg_v1';
 function variants(word){
@@ -582,7 +582,7 @@ function speak(text){
     recPlayer.onended=recPlayer.onerror=()=>AUD.duck(false);recPlayer.play().catch(()=>AUD.duck(false));return;
   }
   if(!('speechSynthesis' in window))return;
-  speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang='en-US';u.rate=.9;if(voice)u.voice=voice;
+  speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang='en-US';u.rate=.8;if(voice)u.voice=voice;
   AUD.duck(true);u.onend=u.onerror=()=>AUD.duck(false);setTimeout(()=>AUD.duck(false),4000);speechSynthesis.speak(u);
 }
 const SPK='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg>';
@@ -656,9 +656,9 @@ function home(){
   <div class="hmodes">
     <button class="htile" id="blitzBtn" style="--tint:var(--t-blitz)">${pic('blitz','')}<b>60 秒閃電戰</b><span class="d">學過的字快問快答</span><span class="rec">最佳 ${S.best.blitz} 題</span></button>
     <button class="htile" id="bossBtn" style="--tint:var(--t-boss)">${pic('boss','')}<b>真題現場</b><span class="d">學測原句挖空 10 題</span><span class="rec">通關 ${S.bossWins} 次</span></button>
-    <button class="htile" id="lsBtn" style="--tint:var(--t-boss);grid-column:1/-1">${pic('listen','')}<b>聽力大冒險</b><span class="d">聽音選意思、選拼字、聽句子、聽寫，3 顆愛心闖到底</span><span class="rec">最佳 ${S.best.listen||0} 分</span></button>
+    <button class="htile" id="lsBtn" style="--tint:var(--t-boss);grid-column:1/-1">${pic('listen','')}<b>聽力大冒險</b><span class="d">聽字選意思、選拼字、聽句子、聽寫，3 顆愛心闖到底</span><span class="rec">最佳 ${S.best.listen||0} 分</span></button>
     <button class="htile" id="dexBtn" style="--tint:var(--t-dex)">${pic('dex','')}<b>字卡圖鑑</b><span class="d">金框是學測常考核心卡</span><span class="rec">${learned} / ${W.filter(w=>w.lv>=3).length}</span></button>
-    <button class="htile" id="listBtn" style="--tint:var(--t-list)">${pic('list','')}<b>每日詞表</b><span class="d">每天 25 字與星等</span><span class="rec">${S.order==='freq'?'學測高頻優先':'字母順序'}</span></button>
+    <button class="htile" id="listBtn" style="--tint:var(--t-list)">${pic('list','')}<b>每日詞表</b><span class="d">每天一組單字與星等</span><span class="rec">${S.order==='freq'?'學測高頻優先':'字母順序'}</span></button>
   </div>
   <div class="foot">KK 音標由 CMU Pronouncing Dictionary（© Carnegie Mellon University，BSD 授權）轉換整理。單字與詞性：大考中心《高中英文參考詞彙表（111 學年度起適用）》第三至六級。${LEVELS.includes(7)?'第七級依開放授權的英文詞頻資料 wordfreq（Robyn Speer 等，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" target="_blank" rel="noopener">CC BY-SA 4.0</a>）選出大考詞彙表以外的常用字，再依對高中閱讀的實用度挑選排序；中文與例句為本站編寫，第七級字表以 CC BY-SA 4.0 釋出。':''}<br>中文意思為簡要參考；例句標「學測原句」者取自大考中心 107–115 學年度學測英文試題，標「編寫例句」者為本站編寫、經老師審閱。<br>進度只存在這台裝置的瀏覽器，換手機或清除瀏覽資料前請先到「設定・備份」匯出。</div>`;
   app.querySelectorAll('.jstep,.spot').forEach(b=>b.onclick=()=>{S.level=+b.dataset.lv;save();home();});
@@ -690,7 +690,7 @@ function placementIntro(){
     ${pic('guide_hello','resimg')}
     <h2 style="margin:0;text-align:center">開始之前：分級小測</h2>
     <p style="margin:0">共 40 題，大約 10 分鐘。前 24 題是國中學過的字，後 16 題是高中常用、但國中課本較少出現的字。</p>
-    <p style="margin:0;color:var(--muted);font-size:14px">不會的字直接選最像的就好，不扣分。測完會建議你從「國中銜接站」或「第三級」開始。</p>
+    <p style="margin:0;color:var(--muted);font-size:14px">不會的字可以選最像的，也可以按「不知道」，都不扣分。測完會建議你從「國中銜接站」或「第三級」開始。</p>
     <button class="hgo" id="pgo" style="--lc:var(--l0)">開始小測</button><button class="ghost" id="pback" style="width:100%">先不要，回首頁</button></div>`;
   document.getElementById('pgo').onclick=placement;document.getElementById('pback').onclick=()=>go('home');
 }
@@ -723,7 +723,7 @@ function placement(){
       <div style="text-align:left">${skip?'國中字很穩，高中常用字也大多認得。建議直接從<b>第三級</b>開始；銜接站隨時可以回去補。':'建議先到<b>國中銜接站</b>，把高中常用、但國中較少出現的字補起來（約 18 天），再進第三級。'}</div>
       ${missJH.length?`<div style="width:100%;text-align:left"><div class="kbd" style="text-align:left">這些國中字要再複習：</div><div class="chips" style="justify-content:flex-start">${missJH.map(q=>`<span class="chip down">${esc(q.en)} ${esc(q.zh)}</span>`).join('')}</div></div>`:''}
       <button class="hgo" id="pa" style="--lc:${skip?'var(--l3)':'var(--l0)'}">${skip?'從第三級開始':'從國中銜接站開始'}</button>
-      <button class="ghost" id="pb" style="width:100%">${skip?'我想先做國中銜接站':'我想直接從第三級開始'}</button></div>`;
+      <button class="ghost" id="pb" style="width:100%">${skip?'我想先從國中銜接站開始':'我想直接從第三級開始'}</button></div>`;
     document.getElementById('pa').onclick=()=>{S.level=skip?3:0;save();go('home');};
     document.getElementById('pb').onclick=()=>{S.level=skip?0:3;save();go('home');};
   };
@@ -776,7 +776,7 @@ function progressBar(){
 }
 function wordHead(w,showZh=true){
   const yrs=w.years.length;
-  return `<div class="badges"><span class="badge lv" style="--lc:${LC[w.lv]}">${lvName(w.lv)}</span>${w.jh&&w.lv>=3?'<span class="badge">國中學過</span>':''}${core(w)?'<span class="badge core">核心卡・學測 '+yrs+' 年出現</span>':yrs?'<span class="badge">學測出現 '+yrs+' 年</span>':''}</div>
+  return `<div class="badges"><span class="badge lv" style="--lc:${LC[w.lv]}">${lvName(w.lv)}</span>${w.jh&&w.lv>=3?'<span class="badge">國中學過</span>':''}${core(w)?'<span class="badge core">核心卡・學測出現 '+yrs+' 年</span>':yrs?'<span class="badge">學測出現 '+yrs+' 年</span>':''}</div>
   <div class="word"${display(w).length>11?` style="font-size:clamp(20px,${Math.max(4,Math.round(64/display(w).length))}vw,48px)"`:''}>${esc(display(w))}<button class="speak" data-say="${esc(sayForm(w))}" aria-label="發音">${SPK}</button></div>
   ${KK[w.id]?`<div class="kk">${esc(KK[w.id])}</div>`:''}<div class="pos">${esc(w.pos)}</div>
   ${showZh?`<div class="zh">${esc(w.zh)}<span class="ref">參考</span></div>`:''}`;
@@ -960,7 +960,7 @@ function readView(id){
       play(0);return;}
     if(!('speechSynthesis' in window))return;
     reading=true;tb.textContent='■ 停止朗讀';AUD.duck(true);speechSynthesis.cancel();
-    r.paragraphs.forEach((p,i)=>{const u=new SpeechSynthesisUtterance(plainPara(p));u.lang='en-US';u.rate=.88;if(voice)u.voice=voice;
+    r.paragraphs.forEach((p,i)=>{const u=new SpeechSynthesisUtterance(plainPara(p));u.lang='en-US';u.rate=.8;if(voice)u.voice=voice;
       if(i===r.paragraphs.length-1)u.onend=()=>{reading=false;tb.textContent='▶ 朗讀全文';AUD.duck(false);};speechSynthesis.speak(u);});};
   // 作答
   const markEvidence=ev=>{app.querySelectorAll('.para mark').forEach(m=>m.replaceWith(...m.childNodes));if(!ev)return;
@@ -983,7 +983,7 @@ function readView(id){
     S.read[r.id]={score:Math.max(score,prev?.score||0),total:qs.length,day:today()};touchStreak();save();AUD.sfx('finish');
     const next=r.kind==='tb'?null:READ.filter(x=>x.level===r.level&&x.kind!=='tb'&&(r.kind!=='toeic'||x.day===r.day)&&readUnlocked(x)&&!S.read[x.id])[0];
     document.getElementById('rsum').innerHTML=`<div class="rscore pop">${pic(score>=qs.length-1?'trophy':'guide_think','resimg')}<div class="big" style="font-family:var(--en);font-size:44px;font-weight:800">${score} / ${qs.length}</div>
-      <div>${score===qs.length?'全對！這篇的單字都用得很熟了':score>=qs.length-2?'很不錯，看一下錯的那題解析':'答錯的單字題已排進今天的複習'}</div>
+      <div>${score===qs.length?'全對！這篇的單字都用得很熟了':score>=qs.length-2?'很不錯，看一下答錯題目的解析':'單字題答錯的字會排進今天的複習'}</div>
       <div class="row" style="width:100%">${next?`<button class="primary" id="rnext">下一篇：${esc(next.title)}</button>`:''}<button class="ghost" id="rback">${r.kind==='tb'?'回到這一課':r.kind==='toeic'?'回這一組':'回冒險日誌'}</button></div></div>`;
     const nb=document.getElementById('rnext');if(nb)nb.onclick=()=>go('read',next.id);document.getElementById('rback').onclick=backTo;
     document.getElementById('rsum').scrollIntoView({behavior:'smooth',block:'center'});}
@@ -1001,7 +1001,7 @@ function blitz(){
     const dir=Math.random()<.5;
     const opts=shuffle([cur,...distractors(cur)]);
     app.innerHTML=`<div class="sbar"><button class="iconbtn" id="quit">結束</button><div class="prog"><i id="tb" style="width:${((end-Date.now())/600).toFixed(1)}%"></i></div><div class="timer" id="tt">${Math.ceil((end-Date.now())/1000)}</div></div>
-    <div class="card"><div class="qtype"><span>60 秒閃電戰${practice?'・練習（先學幾個字才會用你的字）':''}</span><span>答對 <b>${score}</b></span></div>
+    <div class="card"><div class="qtype"><span>60 秒閃電戰${practice?'・練習（學過 8 個字後，就會改考你學過的字）':''}</span><span>答對 <b>${score}</b></span></div>
     ${dir?`<div class="prompt en">${esc(display(cur))}</div>`:`<div class="prompt">${esc(cur.zh)}</div>`}
     <div class="opts">${opts.map((o,k)=>`<button class="opt ${dir?'':'en'}" data-ok="${o===cur}"><span class="k">${k+1}</span>${esc(dir?o.zh:display(o))}</button>`).join('')}</div></div>`;
     document.getElementById('quit').onclick=()=>{clearInterval(timer);go('home');};
@@ -1048,7 +1048,7 @@ function listenGame(){
       body=`<div class="opts">${opts.map(([ok,txt,cls],k)=>`<button class="opt ${cls}" data-ok="${ok}"><span class="k">${k+1}</span>${txt}</button>`).join('')}</div>`;}
     app.innerHTML=`<div class="sbar"><button class="iconbtn" id="quit">結束</button><div class="lshearts">${heartsHTML()}</div><div class="timer">${score}</div></div>
     <div class="card"><div class="qtype"><span>第 ${st+1} 關・${LS_STAGE[kind]}${practice?'・練習':''}</span><span>${combo>=2?'🔥 連對 '+combo:'答對 '+right}</span></div>
-      <button class="lsspk" id="lsplay" aria-label="再聽一次">${SPK}</button><div class="kbd" style="margin:0">${kind===2?'聽一整句，選出正確的中文意思':'點喇叭可以再聽一次'}・只聽一次就答對多 5 分</div>
+      <button class="lsspk" id="lsplay" aria-label="再聽一次">${SPK}</button><div class="kbd" style="margin:0">${kind===2?'聽一整句，選出正確的中文意思':'點喇叭可以再聽一次'}・只聽一次就答對，多得 5 分</div>
       ${body}<div id="lsfb"></div></div>`;
     document.getElementById('quit').onclick=()=>over();
     document.getElementById('lsplay').onclick=sayCur;
@@ -1065,7 +1065,7 @@ function listenGame(){
     else{hearts--;combo=0;if(!miss.includes(cur))miss.push(cur);if(star(cur)>=1)grade(cur,false);}
     const fb=document.getElementById('lsfb');
     fb.innerHTML=`<div class="ex" style="margin-top:12px;text-align:left"><span class="src">${ok?'答對了':'正確答案'}</span><span class="s"><b class="en">${esc(display(cur))}</b> ${KK[cur.id]?`<span class="kk" style="display:inline">${esc(KK[cur.id])}</span>`:''} ${esc(cur.pos)} ${esc(cur.zh)}</span>${kind===2&&cur.ex?`<span class="t">${esc(cur.ex[0])}</span>`:''}</div>
-      <button class="primary" id="lsnext" style="width:100%;margin-top:10px">${hearts>0?(stageOf()>Math.floor((right-(ok?1:0))/5)&&ok?'升級！下一關：'+LS_STAGE[Math.min(3,stageOf())]:'下一題'):'看結果'}</button>`;
+      <button class="primary" id="lsnext" style="width:100%;margin-top:10px">${hearts>0?(stageOf()>Math.floor((right-(ok?1:0))/5)&&ok?'過關！下一關：'+LS_STAGE[Math.min(3,stageOf())]:'下一題'):'看結果'}</button>`;
     if(!ok&&kind!==2)setTimeout(()=>speak(sayForm(cur)),400);
     const nx=document.getElementById('lsnext');nx.focus();nx.onclick=()=>hearts>0?render():over();
   };
@@ -1172,15 +1172,15 @@ function grBook(b){
   const cs=GR.filter(c=>c.b===b);
   app.innerHTML=`<div class="top"><button class="iconbtn" id="back">← 首頁</button><b>${isMo?'構詞卡（字首・字尾・字根）':'課本文法卡'}</b><span></span></div>
   ${isMo?'<div class="kbd" style="text-align:left">學會拆字：遇到沒學過的字先拆成字首＋字根＋字尾，再用上下文確認意思；也能從字尾判斷詞性。</div>':''}<div class="books" ${isMo?'hidden':''} style="grid-template-columns:repeat(${books.length},1fr)">${books.map(x=>`<button class="lvbtn ${x===b?'on':''}" style="--lc:${x===0?'var(--l0)':'var(--accent)'}" data-b="${x}"><span class="n">${x===0?'銜':x}</span><span class="p">${x===0?'國中':'冊'}</span></button>`).join('')}</div>
-  <div class="tbact"><button class="primary" id="grMix">${isMo?'構詞':b===0?'銜接站':'本冊'}隨機 10 題</button>${isMo?'':'<button class="ghost" id="grAll">全部冊隨機 10 題</button>'}</div>
+  <div class="tbact"><button class="primary" id="grMix">${isMo?'構詞':b===0?'銜接站':'本冊'}隨機 10 題</button>${isMo?'':'<button class="ghost" id="grAll">跨冊隨機 10 題</button>'}</div>
   <div class="list">${isMo?['字首','字尾','複合字','字根','策略'].map(g=>{const xs=cs.filter(c=>c.group===g);return xs.length?`<div class="hsub"><b>${g}</b></div>`+xs.map(grRow).join(''):'';}).join(''):cs.map(grRow).join('')}</div>
-  <div class="foot">${isMo?'構詞卡為本站編寫；字族範例盡量取自本站各級單字，練習題含歷屆學測文章出現過的表外字。':b===0?'國中文法銜接：高中課本句型的基礎。':'各課句型主題依高中英文課本整理。'}說明、例句與練習題為本站編寫。</div>`;
+  <div class="foot">${isMo?'字族範例盡量取自本站各級單字，練習題含歷屆學測文章出現過的表外字。':b===0?'國中文法銜接：高中課本句型的基礎。':'各課句型主題依高中英文課本整理。'}說明、例句與練習題為本站編寫。</div>`;
   document.getElementById('back').onclick=()=>go('home');
   app.querySelectorAll('[data-b]').forEach(x=>x.onclick=()=>grBook(+x.dataset.b));
   app.querySelectorAll('[data-gr]').forEach(x=>x.onclick=()=>go('grc',x.dataset.gr));
   const mix=src=>shuffle(src.flatMap(c=>c.qs.map(q=>Object.assign({card:c},q)))).slice(0,10);
   document.getElementById('grMix').onclick=()=>grQuiz(mix(cs),(isMo?'構詞':b===0?'國中文法銜接':'第 '+b+' 冊')+'隨機 10 題',null,()=>grBook(b));
-  const ga=document.getElementById('grAll');if(ga)ga.onclick=()=>grQuiz(mix(GR.filter(c=>c.b!==9)),'全部冊隨機 10 題',null,()=>grBook(b));
+  const ga=document.getElementById('grAll');if(ga)ga.onclick=()=>grQuiz(mix(GR.filter(c=>c.b!==9)),'跨冊隨機 10 題',null,()=>grBook(b));
 }
 function grHL(e){let s=esc(e.en);(e.hl||[]).forEach(h=>{const x=esc(h);s=s.replace(x,'<b>'+x+'</b>');});return s;}
 function grCard(id){
@@ -1215,7 +1215,7 @@ function grQuiz(qs,title,card,back){
     if(k>=qs.length)return over();
     const q=qs[k];
     app.innerHTML=`<div class="sbar"><button class="iconbtn" id="quit">結束</button><div class="prog"><i style="width:${(k/qs.length*100).toFixed(1)}%"></i></div><div class="scount">${k+1}/${qs.length}</div></div>
-    <div class="card pop"><div class="qtype"><span>${esc(title)}</span><span>${q.type==='pick'?'選出正確的句子':'選出正確的形式'}</span></div>
+    <div class="card pop"><div class="qtype"><span>${esc(title)}</span><span>${q.card.b===9?(q.type==='pick'?'選出正確的一項':'選出最適當的選項'):q.type==='pick'?'選出正確的句子':'選出正確的形式'}</span></div>
     ${q.type==='pick'?`<div class="prompt" style="font-size:18px">${esc(q.s)}</div>`:`<div class="ex"><span class="src">${esc(q.card.formula)}</span><span class="s">${esc(q.s).replace('______',BL)}</span></div>`}
     <div class="opts" ${q.type==='pick'?'style="grid-template-columns:1fr"':''}>${q.o.map((o,j)=>`<button class="opt en" data-j="${j}" style="text-align:left"><span class="k">${'ABCD'[j]}</span>${esc(o)}</button>`).join('')}</div>${q.hint?`<div id="grHintBox"><button class="ghost" id="grHint" style="padding:6px 12px">💡 給我提示</button></div>`:''}<div id="fbx"></div></div><div class="kbd">數字鍵 1–4 作答・Enter 下一題</div>`;
     document.getElementById('quit').onclick=()=>answered?over():back();
@@ -1265,7 +1265,7 @@ function czHub(kind){
   const tot=k=>czTrack(k).reduce((s,c)=>s+((S.cz[c.id]||{}).stars||0),0);
   app.innerHTML=`<div class="top"><button class="iconbtn" id="back">← 首頁</button><b>學測闖關</b><span></span></div>
   <div class="filters" style="margin-bottom:10px">${[['vocab','詞彙題'],['cloze','綜合測驗'],['fill','文意選填'],['read','閱讀測驗'],['trans','翻譯題'],['tpat','翻譯句型特訓']].filter(([k])=>czTrack(k).length).map(([k,n])=>`<button data-k="${k}" class="${k===czKind?'on':''}">${n}（${tot(k)}/${czTrack(k).length*3} ★）</button>`).join('')}</div>
-  <div class="kbd" style="text-align:left">${czKind==='trans'?'歷屆學測中譯英，從最新的年度開始往前，一年一關（兩題）。先自己寫，需要時再看提示；看完參考答案後依評分要點自評，拿到一半分數就有 1 顆星、解鎖下一關。':czKind==='tpat'?'翻譯最常考的句型，一關一個句型、5 題，由易到難，每關都連到對應的文法卡。自評方式和歷屆題一樣。':'從最新的年度開始往前，一篇一關。答對 60% 拿 1 顆星就能解鎖下一關，全對 3 顆星。'}</div>
+  <div class="kbd" style="text-align:left">${czKind==='trans'?'歷屆學測中譯英，從最新的年度開始往前，一年一關（兩題）。先自己寫，需要時再看提示；看完參考答案後依評分要點自評，拿到一半分數就有 1 顆星、解鎖下一關。':czKind==='tpat'?'翻譯最常考的句型，一關一個句型、5 題，由易到難，每關都連到對應的文法卡。自評方式和歷屆題一樣。':'從最新的年度開始往前，'+(czKind==='vocab'?'一年一關':'一篇一關')+'。答對 60% 拿 1 顆星就能解鎖下一關，全對 3 顆星。'}</div>
   <div class="list">${tr.map((c,i)=>{const r=S.cz[c.id],open=czOpen(c);return `<button class="les" data-c="${c.id}" ${open?'':'style="opacity:.55"'}><span class="no">${i+1}</span><span class="ti">${czKind==='tpat'?esc(c.title)+'<br><span style="font-weight:500;color:var(--muted);font-size:13px">'+c.items.length+' 題・'+esc(c.items[0].zh.slice(0,14))+'…</span>':czKind==='trans'?c.y+' 學測・中譯英<br><span style="font-weight:500;color:var(--muted);font-size:13px">'+esc(c.items[0].zh.slice(0,16))+'…</span>':`${c.y} 學測・${czKind==='vocab'?'詞彙題':czKind==='read'?'閱讀測驗':c.kind==='fill'?'文意選填':'綜合測驗'}${c.kind!=='fill'?' 第 '+c.first+'–'+(c.first+c.qs.length-1)+' 題':''}<br><span style="font-weight:500;color:var(--muted);font-size:13px">${esc(c.title||'')}</span>`}</span><span class="c">${open?(r?stars3(r.stars):'可挑戰'):'🔒'}</span><span class="bar"><i style="width:${r?(r.best/(c.qs||c.items).length*100).toFixed(1):0}%"></i></span></button>`;}).join('')}</div>
   <div class="foot">${czKind==='tpat'?'句型特訓題目、參考答案與評分要點為本站編寫。':czKind==='trans'?'試題取自大考中心歷屆學科能力測驗英文考科非選擇題；參考答案、提示與評分要點為本站編寫，非大考中心公布之答案。':'試題取自大考中心歷屆學科能力測驗英文考科，答案依大考中心公布之選擇題答案；中譯與解析為本站編寫。'}</div>`;
   document.getElementById('back').onclick=()=>go('home');
@@ -1280,7 +1280,7 @@ function trPlay(id){
   const head=c.kind==='past'?c.y+' 學測・中譯英':esc(c.title);
   const show=i=>{
     const it=c.items[i]; let hint=0;
-    app.innerHTML=`<div class="top"><button class="iconbtn" id="back">← 翻譯題</button><b>${head}</b><span class="kbd" style="margin:0">${i+1} / ${N}</span></div>
+    app.innerHTML=`<div class="top"><button class="iconbtn" id="back">${c.kind==='past'?'← 翻譯題':'← 句型特訓'}</button><b>${head}</b><span class="kbd" style="margin:0">${i+1} / ${N}</span></div>
     <div class="card" style="text-align:left">
       <div class="kbd" style="margin:0 0 6px;text-align:left">請譯成正確、通順、達意的英文（每題 4 分）</div>
       <div style="font-size:21px;font-weight:700;line-height:1.6">${esc(it.zh)}</div>
@@ -1432,8 +1432,8 @@ function toeicHub(){
     return `<button class="les" data-g="${g}"><span class="no">${ws.length}</span><span class="ti">${g}<br><span style="font-weight:500;color:var(--muted);font-size:13px">${esc(ws.slice(0,2).map(display).join(', '))}…</span></span><span class="c">${got}/${ws.length}</span><span class="bar"><i style="width:${(got/ws.length*100).toFixed(1)}%"></i></span></button>`;}).join('')}</div>
   <div class="hsub"><b>多益常見字</b><span>你在各級已經會（或會學到）的字</span></div>
   <div class="card" style="text-align:left"><div>多益常考、而且在本站各級單字裡的字共 <b>${T.length}</b> 個，你已學 <b>${tl.length}</b> 個。</div>
-    <div class="tbact"><button class="primary" id="tRev" ${tl.length?'':'disabled'}>複習學過的多益常見字（${Math.min(tl.length,30)}）</button><button class="ghost" id="tDex">在字卡圖鑑查看</button></div></div>
-  <div class="foot">職場新字依 TOEIC Service List 1.2（Browne, C. &amp; Culligan, B.，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" target="_blank" rel="noopener">CC BY-SA 4.0</a>）中、本站詞彙表沒有的字篩選、分組整理；中文與例句為本站編寫。本主題包字表同樣以 CC BY-SA 4.0 釋出。</div>`;
+    <div class="tbact"><button class="primary" id="tRev" ${tl.length?'':'disabled'}>複習學過的多益常見字（${Math.min((tdue.length>=10?tdue:tl).length,30)}）</button><button class="ghost" id="tDex">在字卡圖鑑查看</button></div></div>
+  <div class="foot">職場新字取自 TOEIC Service List 1.2（Browne, C. &amp; Culligan, B.，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" target="_blank" rel="noopener">CC BY-SA 4.0</a>）中本站詞彙表沒有的字，經篩選、分組整理；中文與例句為本站編寫。本主題包字表同樣以 CC BY-SA 4.0 釋出。</div>`;
   document.getElementById('back').onclick=()=>go('home');
   app.querySelectorAll('[data-g]').forEach(b=>b.onclick=()=>toeicGroup(b.dataset.g));
   document.getElementById('tRev').onclick=()=>startSession(shuffle((tdue.length>=10?tdue:tl).slice()).slice(0,30),[]);
@@ -1542,7 +1542,7 @@ function phrHub(b){
   const shown=order.filter(([w,L])=>!b||(L&&L.b===b));
   app.innerHTML=`<div class="top"><button class="iconbtn" id="back">← 首頁</button><b>片語關卡</b><span></span></div>
   <div class="hnums" style="margin-bottom:12px"><div class="hnum"><div class="v">${learned.length}</div><div class="k">已學 / ${P.length}</div></div><div class="hnum"><div class="v">${due.length}</div><div class="k">今天到期</div></div><div class="hnum"><div class="v">${P.filter(w=>star(w)>=5).length}</div><div class="k">五星</div></div></div>
-  <div class="tbact"><button class="primary" id="pNew" ${fresh.length?'':'disabled'}>${fresh.length?'學 10 個新片語':'全部學過了'}</button><button class="ghost" id="pRev" ${learned.length?'':'disabled'}>複習學過的（${learned.length}）</button></div>
+  <div class="tbact"><button class="primary" id="pNew" ${fresh.length?'':'disabled'}>${fresh.length?'學 10 個新片語':'全部學過了'}</button><button class="ghost" id="pRev" ${learned.length?'':'disabled'}>複習學過的（${(due.length>=5?due:learned).length}）</button></div>
   <div class="kbd" style="text-align:left">新片語照課本順序出現；學過的片語會和單字一起，在每日任務裡照間隔複習。</div>
   ${TB?`<div class="books">${[0,...TB.books].map(x=>`<button class="lvbtn ${x===b?'on':''}" style="--lc:var(--l1)" data-b="${x}"><span class="n">${x||'全'}</span><span class="p">${x?'冊':'部'}</span></button>`).join('')}</div>`:''}
   <div class="list">${shown.map(([w,L])=>`<button class="li" data-i="${w.i}" style="text-align:left"><span class="w">${esc(display(w))}${L?` <span class="pos">${L.b}-${tbLabel(L)}</span>`:''}</span>${starsHTML(star(w))}<span class="m">${esc(w.zh)}</span></button>`).join('')}</div>`;
@@ -1581,7 +1581,7 @@ function settings(){
   <div class="field"><label for="nm">名字（只顯示在你自己的畫面上）</label><input id="nm" value="${esc(S.name)}" maxlength="12"></div>
   <div class="field"><label>新字順序</label><div class="seg" id="ord"><button data-v="freq" class="${S.order==='freq'?'on':''}">學測高頻優先</button><button data-v="alpha" class="${S.order==='alpha'?'on':''}">字母順序</button></div></div>
   <div class="field"><label>每天新字數</label><div class="seg" id="dly">${[15,25,35].map(n=>`<button data-v="${n}" class="${S.daily===n?'on':''}">${n} 字</button>`).join('')}</div></div>
-  <div class="field"><label for="vsel">發音聲音（選一個聽起來最自然的）</label><div class="row" style="align-items:center"><select id="vsel" style="flex:3;min-width:0"></select><button class="ghost" id="vtest" style="flex:1">試聽</button></div><div class="kbd" style="text-align:left;margin:0">名稱有 Natural、Online、Premium、Enhanced 的通常最自然。iPhone／iPad 可到「設定 → 輔助使用 → 語音內容 → 聲音 → 英文」下載 Ava（進階）等語音。</div></div>
+  <div class="field"><label for="vsel">發音語音（選一個聽起來最自然的）</label><div class="row" style="align-items:center"><select id="vsel" style="flex:3;min-width:0"></select><button class="ghost" id="vtest" style="flex:1">試聽</button></div><div class="kbd" style="text-align:left;margin:0">名稱有 Natural、Online、Premium、Enhanced 的通常最自然。iPhone／iPad 可到「設定 → 輔助使用 → 語音內容 → 聲音 → 英文」下載 Ava（進階）等語音。</div></div>
   <div class="field"><label for="vol">背景音樂音量</label><div class="row" style="align-items:center"><input type="range" id="vol" min="0" max="100" step="5" value="${Math.round(S.audio.vol*100)}" style="flex:3"><button class="ghost" id="musTg" style="flex:1">${S.audio.music?'音樂：開':'音樂：關'}</button></div></div>
   <div class="field"><label>答題音效</label><div class="seg" id="sfxSeg"><button data-v="1" class="${S.audio.sfx?'on':''}">開</button><button data-v="0" class="${S.audio.sfx?'':'on'}">關</button></div></div>
   <div class="field"><label>匯出進度（換手機、清除瀏覽資料前先做）</label><div class="row"><button class="ghost" id="exCopy">複製進度碼</button><button class="ghost" id="exFile">下載備份檔</button></div></div>
@@ -1630,7 +1630,7 @@ if(navigator.storage&&navigator.storage.persist)navigator.storage.persist().catc
 function installCard(learned){
   if(IS_APP){
     if(!IS_IOS||S.appMoved||learned>0)return '';
-    return `<div class="hplace">${pic('guide_cheer','')}<div class="t"><b>歡迎使用單字開外掛 App！</b><span>之前在 Safari 學過的話，到「設定・備份」貼上進度碼，就能接著學；第一次用就直接開始。</span></div><div class="b"><button class="hgo" id="appSet" style="--lc:var(--l0)">貼上進度碼</button><button class="ghost" id="appNew">我是新開始</button></div></div>`;
+    return `<div class="hplace">${pic('guide_cheer','')}<div class="t"><b>歡迎使用單字開外掛 App！</b><span>之前在 Safari 學過的話，到「設定・備份」貼上進度碼，就能接著學；第一次用就直接開始。</span></div><div class="b"><button class="hgo" id="appSet" style="--lc:var(--l0)">貼上進度碼</button><button class="ghost" id="appNew">我是第一次用</button></div></div>`;
   }
   if(S.pwaOff||!(IS_IOS||installEvt))return '';
   if(!IS_IOS)return `<div class="hplace">${pic('guide_cheer','')}<div class="t"><b>裝到手機桌面，用起來像 App</b><span>全螢幕、從桌面一點就開，用過的單字和發音沒網路也能複習。</span></div><div class="b"><button class="hgo" id="pwaInstall" style="--lc:var(--l0)">安裝</button><button class="ghost" id="pwaNo">不用了</button></div></div>`;
@@ -1639,7 +1639,7 @@ function installCard(learned){
     <ol class="pwasteps">${has?'<li>先按下面的「複製進度碼」，貼到 LINE 記事本存好（iPhone 上的 App 和 Safari 進度是分開的，等一下要貼回去）。</li>':''}
     <li>用 <b>Safari</b> 打開這個網站，點下方的「分享」按鈕（方框加向上箭頭；沒看到就先點右下角的「⋯」）。</li>
     <li>往下找「<b>加入主畫面</b>」；有「以網頁 App 打開」的開關就保持開啟，再按「加入」。</li>
-    <li>回到桌面，點「單字開外掛」圖示打開${has?'，到「設定・備份」→「匯入進度碼」貼上剛才複製的進度碼':''}。</li></ol></div>
+    <li>回到桌面，點「單字開外掛」圖示打開${has?'，到「設定・備份」的「匯入進度」貼上剛才複製的進度碼，再按「匯入進度碼」':''}。</li></ol></div>
     <div class="b">${has?'<button class="hgo" id="pwaCopy" style="--lc:var(--l0)">複製進度碼</button>':''}<button class="ghost" id="pwaNo">${has?'之後再說':'知道了'}</button></div><div id="pwaMsg" class="msg" style="width:100%"></div></div>`;
 }
 function bindInstall(){

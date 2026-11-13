@@ -10,7 +10,7 @@
  {
   "id": "L4-0002",
   "en": "Lisa has absolute trust in her best friend and tells her everything.",
-  "zh": "麗莎完全信任她最好的朋友，什麼事都跟她說。",
+  "zh": "Lisa 完全信任她最好的朋友，什麼事都跟她說。",
   "target": "absolute",
   "status": "ok",
   "note": ""
@@ -18,7 +18,7 @@
  {
   "id": "L4-0003",
   "en": "Amy was so absorbed in her novel that she missed her bus stop.",
-  "zh": "艾咪看小說看得太入迷，結果坐過了站。",
+  "zh": "Amy 看小說看得太入迷，結果坐過了站。",
   "target": "absorbed",
   "status": "ok",
   "note": ""
@@ -42,7 +42,7 @@
  {
   "id": "L4-0006",
   "en": "Although Ken grew up abroad, he speaks Chinese without any accent at all.",
-  "zh": "雖然肯在國外長大，他說中文卻一點口音也沒有。",
+  "zh": "雖然 Ken 在國外長大，他說中文卻一點口音也沒有。",
   "target": "accent",
   "status": "ok",
   "note": ""
@@ -50,7 +50,7 @@
  {
   "id": "L4-0007",
   "en": "Getting a letter of acceptance from her dream university made Lisa cry with joy.",
-  "zh": "收到夢想大學的錄取信，讓麗莎喜極而泣。",
+  "zh": "收到夢想大學的錄取信，讓 Lisa 喜極而泣。",
   "target": "acceptance",
   "status": "ok",
   "note": ""
@@ -74,7 +74,7 @@
  {
   "id": "L4-0010",
   "en": "Amy's mother accompanied her to the hospital for her health check.",
-  "zh": "艾咪的媽媽陪她去醫院做健康檢查。",
+  "zh": "Amy 的媽媽陪她去醫院做健康檢查。",
   "target": "accompanied",
   "status": "ok",
   "note": "超出1–3級：health"
@@ -82,7 +82,7 @@
  {
   "id": "L4-0011",
   "en": "With help from her classmates, Mia accomplished the difficult science project in two weeks.",
-  "zh": "在同學的幫忙下，米亞在兩週內完成了那份困難的科學專題。",
+  "zh": "在同學的幫忙下，Mia 在兩週內完成了那份困難的科學專題。",
   "target": "accomplished",
   "status": "ok",
   "note": ""
@@ -98,7 +98,7 @@
  {
   "id": "L4-0013",
   "en": "Kevin threw the ball with great accuracy and hit the center of the target.",
-  "zh": "凱文投球非常精準，正中靶心。",
+  "zh": "Kevin 投球非常精準，正中靶心。",
   "target": "accuracy",
   "status": "ok",
   "note": ""
@@ -106,7 +106,7 @@
  {
   "id": "L4-0014",
   "en": "Lisa was upset when a classmate accused her of copying his homework.",
-  "zh": "一位同學指控麗莎抄他的作業，讓她很難過。",
+  "zh": "一位同學指控 Lisa 抄他的作業，讓她很難過。",
   "target": "accused",
   "status": "ok",
   "note": ""
@@ -122,7 +122,7 @@
  {
   "id": "L4-0016",
   "en": "Tom isn't really my friend; he's just an acquaintance from the tennis club.",
-  "zh": "湯姆其實不算是我的朋友，他只是網球社認識的人。",
+  "zh": "Tom 其實不算是我的朋友，他只是網球社認識的人。",
   "target": "acquaintance",
   "status": "ok",
   "note": ""
@@ -130,7 +130,7 @@
  {
   "id": "L4-0017",
   "en": "Living abroad for a year helped Amy acquire a new language quickly.",
-  "zh": "在國外住了一年，幫助艾咪很快學會了一種新語言。",
+  "zh": "在國外住了一年，讓 Amy 很快就學會了一種新語言。",
   "target": "acquire",
   "status": "ok",
   "note": ""
@@ -146,7 +146,7 @@
  {
   "id": "L4-0019",
   "en": "Ben is a game addict who plays on his phone until midnight every day.",
-  "zh": "班是個遊戲成癮者，每天都在手機上玩到半夜。",
+  "zh": "Ben 是個遊戲成癮者，每天都在手機上玩到半夜。",
   "target": "addict",
   "status": "ok",
   "note": ""
@@ -162,7 +162,7 @@
  {
   "id": "L4-0021",
   "en": "It took Amy a week to adjust to her new school schedule.",
-  "zh": "艾咪花了一個星期才適應新學校的課表。",
+  "zh": "Amy 花了一個星期才適應新學校的課表。",
   "target": "adjust",
   "status": "ok",
   "note": ""
@@ -170,7 +170,7 @@
  {
   "id": "L4-0022",
   "en": "It was admirable of Kevin to return the wallet he found on the bus.",
-  "zh": "凱文把在公車上撿到的錢包歸還，真令人欽佩。",
+  "zh": "Kevin 把在公車上撿到的錢包歸還，真令人欽佩。",
   "target": "admirable",
   "status": "ok",
   "note": ""
@@ -242,7 +242,7 @@
  {
   "id": "L4-0031",
   "en": "Drinking coffee in the morning helps Mia stay alert during her first class.",
-  "zh": "早上喝咖啡幫助米亞在第一節課保持清醒警覺。",
+  "zh": "早上喝咖啡幫助 Mia 在第一節課保持清醒警覺。",
   "target": "alert",
   "status": "ok",
   "note": ""
@@ -250,7 +250,7 @@
  {
   "id": "L4-0032",
   "en": "Amy saves half of her weekly allowance to buy a new camera.",
-  "zh": "艾咪把每週零用錢存下一半，打算買一台新相機。",
+  "zh": "Amy 把每週零用錢存下一半，打算買一台新相機。",
   "target": "allowance",
   "status": "ok",
   "note": ""
@@ -282,7 +282,7 @@
  {
   "id": "L4-0036",
   "en": "Lisa is ambitious; she hopes to become a doctor and help people abroad.",
-  "zh": "麗莎很有抱負，她希望成為醫生並到國外幫助人們。",
+  "zh": "Lisa 很有抱負，她希望成為醫生並到國外幫助人們。",
   "target": "ambitious",
   "status": "ok",
   "note": ""
@@ -314,7 +314,7 @@
  {
   "id": "L4-0040",
   "en": "Every New Year, Lisa's family prepares food and prays to their ancestors together.",
-  "zh": "每逢過年，麗莎一家人都會準備飯菜，一起祭拜祖先。",
+  "zh": "每逢過年，Lisa 一家人都會準備飯菜，一起祭拜祖先。",
   "target": "ancestors",
   "status": "ok",
   "note": ""
@@ -330,7 +330,7 @@
  {
   "id": "L4-0042",
   "en": "The loud music from the next room annoyed Amy while she was studying.",
-  "zh": "隔壁房間傳來的吵鬧音樂讓正在讀書的艾咪很煩。",
+  "zh": "隔壁房間傳來的吵鬧音樂讓正在讀書的 Amy 很煩。",
   "target": "annoyed",
   "status": "ok",
   "note": ""
@@ -354,7 +354,7 @@
  {
   "id": "L4-0045",
   "en": "Ben offered his sister an apology for breaking her favorite cup.",
-  "zh": "班為了打破妹妹最喜歡的杯子而向她道歉。",
+  "zh": "Ben 為了打破妹妹最喜歡的杯子而向她道歉。",
   "target": "apology",
   "status": "ok",
   "note": ""
@@ -362,7 +362,7 @@
  {
   "id": "L4-0046",
   "en": "It was apparent from her bright smile that Mia had passed the exam.",
-  "zh": "從米亞燦爛的笑容就能明顯看出她考試及格了。",
+  "zh": "從 Mia 燦爛的笑容就能明顯看出她考試及格了。",
   "target": "apparent",
   "status": "ok",
   "note": ""
@@ -378,7 +378,7 @@
  {
   "id": "L4-0048",
   "en": "Lisa filled out an application for a summer job at the café.",
-  "zh": "麗莎填了一份到咖啡館暑期打工的申請表。",
+  "zh": "Lisa 填了一份到咖啡館暑期打工的申請表。",
   "target": "application",
   "status": "ok",
   "note": "超出1–3級：caf"
@@ -386,7 +386,7 @@
  {
   "id": "L4-0049",
   "en": "Amy has a dentist appointment at four, so she will leave school early.",
-  "zh": "艾咪四點和牙醫有約，所以她會提早離開學校。",
+  "zh": "Amy 四點和牙醫有約，所以她會提早離開學校。",
   "target": "appointment",
   "status": "ok",
   "note": ""
@@ -426,7 +426,7 @@
  {
   "id": "L4-0054",
   "en": "Hikers stopped to take photos under the huge stone arch by the sea.",
-  "zh": "登山客停下來，在海邊那座巨大的石拱門下拍照。",
+  "zh": "健行者停下來，在海邊那座巨大的石拱門下拍照。",
   "target": "arch",
   "status": "ok",
   "note": ""
@@ -458,7 +458,7 @@
  {
   "id": "L4-0058",
   "en": "Mia is very artistic; she designs all the posters for our school club.",
-  "zh": "米亞很有藝術天分，我們社團所有的海報都是她設計的。",
+  "zh": "Mia 很有藝術天分，我們社團所有的海報都是她設計的。",
   "target": "artistic",
   "status": "ok",
   "note": ""
@@ -466,7 +466,7 @@
  {
   "id": "L4-0059",
   "en": "Ben felt ashamed of himself for lying to his parents about his grades.",
-  "zh": "班因為對父母謊報成績而感到很羞愧。",
+  "zh": "Ben 因為對父母謊報成績而感到很羞愧。",
   "target": "ashamed",
   "status": "ok",
   "note": "超出1–3級：lying"
@@ -546,7 +546,7 @@
  {
   "id": "L4-0069",
   "en": "The doctor assured Amy that her leg would heal in a few weeks.",
-  "zh": "醫生向艾咪保證她的腿幾個星期就會好。",
+  "zh": "醫生向 Amy 保證她的腿幾個星期就會好。",
   "target": "assured",
   "status": "ok",
   "note": ""
@@ -554,7 +554,7 @@
  {
   "id": "L4-0070",
   "en": "Kevin is very athletic and plays basketball, tennis, and volleyball.",
-  "zh": "凱文很有運動細胞，籃球、網球和排球都會打。",
+  "zh": "Kevin 很有運動細胞，籃球、網球和排球都會打。",
   "target": "athletic",
   "status": "ok",
   "note": ""
@@ -577,8 +577,8 @@
  },
  {
   "id": "L4-0073",
-  "en": "In science class, we learned about the atomic structure of water.",
-  "zh": "在自然課上，我們學到了水的原子結構。",
+  "en": "In science class, we learned about the atomic structure of carbon.",
+  "zh": "在自然課上，我們學到了碳的原子結構。",
   "target": "atomic",
   "status": "ok",
   "note": ""
@@ -593,7 +593,7 @@
  },
  {
   "id": "L4-0075",
-  "en": "Night markets are one of Taiwan's most popular attractions for visitors.",
+  "en": "Night markets are among Taiwan's most popular attractions for visitors.",
   "zh": "夜市是台灣最受遊客歡迎的景點之一。",
   "target": "attractions",
   "status": "ok",
@@ -634,7 +634,7 @@
  {
   "id": "L4-0080",
   "en": "Lisa waited for an hour to get her favorite writer's autograph.",
-  "zh": "麗莎等了一個小時，才拿到她最喜歡的作家的親筆簽名。",
+  "zh": "Lisa 等了一個小時，才拿到她最喜歡的作家的親筆簽名。",
   "target": "autograph",
   "status": "ok",
   "note": ""
@@ -658,7 +658,7 @@
  {
   "id": "L4-0083",
   "en": "Amy has taken ballet lessons since she was five years old.",
-  "zh": "艾咪從五歲起就開始上芭蕾舞課。",
+  "zh": "Amy 從五歲起就開始上芭蕾舞課。",
   "target": "ballet",
   "status": "ok",
   "note": ""
@@ -666,7 +666,7 @@
  {
   "id": "L4-0084",
   "en": "The nurse put a bandage on Ben's knee after he fell during the race.",
-  "zh": "班在賽跑時跌倒後，護理師在他的膝蓋上包了繃帶。",
+  "zh": "Ben 在賽跑時跌倒後，護理師在他的膝蓋上包了繃帶。",
   "target": "bandage",
   "status": "ok",
   "note": ""
@@ -705,8 +705,8 @@
  },
  {
   "id": "L4-0089",
-  "en": "The battery of Mia's phone died in the middle of her video call.",
-  "zh": "米亞視訊通話到一半，手機電池就沒電了。",
+  "en": "Mia's phone battery died in the middle of her video call.",
+  "zh": "Mia 視訊通話到一半，手機電池就沒電了。",
   "target": "battery",
   "status": "ok",
   "note": ""
@@ -738,7 +738,7 @@
  {
   "id": "L4-0093",
   "en": "For her book report, Lisa is reading a biography of a famous woman scientist.",
-  "zh": "為了寫讀書心得，麗莎正在讀一位知名女科學家的傳記。",
+  "zh": "為了寫讀書心得，Lisa 正在讀一位知名女科學家的傳記。",
   "target": "biography",
   "status": "ok",
   "note": ""
@@ -754,7 +754,7 @@
  {
   "id": "L4-0095",
   "en": "Be careful with the knife because its blade is very sharp.",
-  "zh": "小心那把刀，因為它的刀刃非常鋒利。",
+  "zh": "小心那把刀，刀刃非常鋒利。",
   "target": "blade",
   "status": "ok",
   "note": ""
@@ -802,7 +802,7 @@
  {
   "id": "L4-0101",
   "en": "Ken often boasts about his test scores, so some classmates find him rude.",
-  "zh": "肯常常炫耀自己的考試分數，所以有些同學覺得他很沒禮貌。",
+  "zh": "Ken 常常炫耀自己的考試分數，所以有些同學覺得他很沒禮貌。",
   "target": "boasts",
   "status": "ok",
   "note": ""
@@ -826,7 +826,7 @@
  {
   "id": "L4-0104",
   "en": "Amy made a colorful bracelet for her best friend's birthday.",
-  "zh": "艾咪為最好朋友的生日做了一條色彩繽紛的手環。",
+  "zh": "Amy 為最好朋友的生日做了一條色彩繽紛的手環。",
   "target": "bracelet",
   "status": "ok",
   "note": ""
@@ -834,7 +834,7 @@
  {
   "id": "L4-0105",
   "en": "Which breed of dog is best for a family with small children?",
-  "zh": "哪一種品種的狗最適合有小孩的家庭？",
+  "zh": "哪個品種的狗最適合有小孩的家庭？",
   "target": "breed",
   "status": "ok",
   "note": ""
@@ -850,7 +850,7 @@
  {
   "id": "L4-0107",
   "en": "After buying concert tickets, Lisa was broke until the end of the month.",
-  "zh": "買了演唱會門票之後，麗莎到月底前都身無分文。",
+  "zh": "買了演唱會門票之後，Lisa 到月底前都身無分文。",
   "target": "broke",
   "status": "ok",
   "note": ""
@@ -866,7 +866,7 @@
  {
   "id": "L4-0109",
   "en": "The summer heat this year has been brutal, so stay inside at noon.",
-  "zh": "今年夏天的酷熱非常嚴酷，所以中午請待在室內。",
+  "zh": "今年夏天的高溫非常嚴酷，所以中午請待在室內。",
   "target": "brutal",
   "status": "ok",
   "note": ""
@@ -945,7 +945,7 @@
  },
  {
   "id": "L4-0119",
-  "en": "We took turns rowing a canoe on the quiet lake at summer camp.",
+  "en": "We took turns paddling a canoe on the quiet lake at summer camp.",
   "zh": "夏令營時，我們輪流在平靜的湖上划獨木舟。",
   "target": "canoe",
   "status": "ok",
@@ -1050,7 +1050,7 @@
  {
   "id": "L4-0132",
   "en": "Kindness is one of Amy's best characteristics; she always helps others.",
-  "zh": "善良是艾咪最好的特質之一，她總是幫助別人。",
+  "zh": "善良是 Amy 最好的特質之一，她總是幫助別人。",
   "target": "characteristics",
   "status": "ok",
   "note": ""
@@ -1066,7 +1066,7 @@
  {
   "id": "L4-0134",
   "en": "Mia loves chemistry class because she enjoys mixing liquids and watching them change color.",
-  "zh": "米亞很喜歡化學課，因為她喜歡混合液體、看它們變色。",
+  "zh": "Mia 很喜歡化學課，因為她喜歡混合液體、看它們變色。",
   "target": "chemistry",
   "status": "ok",
   "note": ""
@@ -1074,7 +1074,7 @@
  {
   "id": "L4-0135",
   "en": "Lisa will always cherish the memories of her high school friends.",
-  "zh": "麗莎會永遠珍惜和高中朋友們的回憶。",
+  "zh": "Lisa 會永遠珍惜和高中朋友們的回憶。",
   "target": "cherish",
   "status": "ok",
   "note": ""
@@ -1098,7 +1098,7 @@
  {
   "id": "L4-0138",
   "en": "Amy sings in the school chorus, and they practice every Tuesday after school.",
-  "zh": "艾咪參加學校合唱團，他們每週二放學後練習。",
+  "zh": "Amy 參加學校合唱團，他們每週二放學後練習。",
   "target": "chorus",
   "status": "ok",
   "note": ""
@@ -1202,7 +1202,7 @@
  {
   "id": "L4-0151",
   "en": "Ben is so clumsy that he dropped his phone three times today.",
-  "zh": "班笨手笨腳的，今天已經把手機摔了三次。",
+  "zh": "Ben 笨手笨腳的，今天已經把手機摔了三次。",
   "target": "clumsy",
   "status": "ok",
   "note": ""
@@ -1266,7 +1266,7 @@
  {
   "id": "L4-0159",
   "en": "Many people left kind comments under Amy's video about her pet rabbit.",
-  "zh": "許多人在艾咪介紹寵物兔的影片下留下了友善的評論。",
+  "zh": "許多人在 Amy 介紹寵物兔的影片下留下了友善的評論。",
   "target": "comments",
   "status": "ok",
   "note": ""
@@ -1282,7 +1282,7 @@
  {
   "id": "L4-0161",
   "en": "Lisa has committed herself to practicing the piano for an hour every day.",
-  "zh": "麗莎承諾自己每天要練一個小時的鋼琴。",
+  "zh": "Lisa 承諾自己每天要練一個小時的鋼琴。",
   "target": "committed",
   "status": "ok",
   "note": ""
@@ -1314,7 +1314,7 @@
  {
   "id": "L4-0165",
   "en": "Amy won first prize in the English speech competition held in Taipei last month.",
-  "zh": "艾咪在上個月於台北舉行的英語演講比賽中得到第一名。",
+  "zh": "Amy 在上個月於台北舉行的英語演講比賽中得到第一名。",
   "target": "competition",
   "status": "ok",
   "note": ""
@@ -1346,7 +1346,7 @@
  {
   "id": "L4-0169",
   "en": "Lisa composed a short song for her grandmother's eightieth birthday.",
-  "zh": "麗莎為奶奶的八十歲生日創作了一首短短的歌。",
+  "zh": "Lisa 為奶奶的八十歲生日創作了一首短短的歌。",
   "target": "composed",
   "status": "ok",
   "note": "超出1–3級：eightieth"
@@ -1426,7 +1426,7 @@
  {
   "id": "L4-0179",
   "en": "Ben finally confessed that he had eaten the last piece of cake.",
-  "zh": "班終於坦承最後一塊蛋糕是他吃掉的。",
+  "zh": "Ben 終於坦承最後一塊蛋糕是他吃掉的。",
   "target": "confessed",
   "status": "ok",
   "note": ""
@@ -1434,7 +1434,7 @@
  {
   "id": "L4-0180",
   "en": "Practicing in front of a mirror gave Lisa more confidence before her speech.",
-  "zh": "在鏡子前練習，讓麗莎演講前更有信心。",
+  "zh": "在鏡子前練習，讓 Lisa 演講前更有信心。",
   "target": "confidence",
   "status": "ok",
   "note": ""
@@ -1450,7 +1450,7 @@
  {
   "id": "L4-0182",
   "en": "All her classmates congratulated Mia on getting into her dream school.",
-  "zh": "全班同學都恭喜米亞考上了她的夢想學校。",
+  "zh": "全班同學都恭喜 Mia 考上了她的夢想學校。",
   "target": "congratulated",
   "status": "ok",
   "note": ""
@@ -1466,7 +1466,7 @@
  {
   "id": "L4-0184",
   "en": "With her friends' support, Amy finally conquered her fear of speaking in public.",
-  "zh": "在朋友的支持下，艾咪終於克服了上台說話的恐懼。",
+  "zh": "在朋友的支持下，Amy 終於克服了上台說話的恐懼。",
   "target": "conquered",
   "status": "ok",
   "note": ""
@@ -1474,7 +1474,7 @@
  {
   "id": "L4-0185",
   "en": "Ben's conscience told him to return the extra change to the shop owner.",
-  "zh": "班的良心告訴他要把多找的零錢還給店老闆。",
+  "zh": "Ben 的良心告訴他要把多找的零錢還給店老闆。",
   "target": "conscience",
   "status": "ok",
   "note": ""
@@ -1514,7 +1514,7 @@
  {
   "id": "L4-0190",
   "en": "Lisa's grades have been consistent all year, always near the top of her class.",
-  "zh": "麗莎整年的成績都很穩定，一直名列班上前茅。",
+  "zh": "Lisa 整年的成績都很穩定，一直名列班上前茅。",
   "target": "consistent",
   "status": "ok",
   "note": ""
@@ -1586,7 +1586,7 @@
  {
   "id": "L4-0199",
   "en": "More and more consumers are buying food and clothes online instead of in stores.",
-  "zh": "越來越多消費者在網路上而不是在店裡購買食物和衣服。",
+  "zh": "越來越多消費者上網購買食物和衣服，而不是到店裡買。",
   "target": "consumers",
   "status": "ok",
   "note": ""
@@ -1618,7 +1618,7 @@
  {
   "id": "L4-0203",
   "en": "Lisa took part in a singing contest and won second place.",
-  "zh": "麗莎參加了一場歌唱比賽，得到第二名。",
+  "zh": "Lisa 參加了一場歌唱比賽，得到第二名。",
   "target": "contest",
   "status": "ok",
   "note": ""
@@ -1634,7 +1634,7 @@
  {
   "id": "L4-0205",
   "en": "The continual noise from the street made it hard for Mia to sleep.",
-  "zh": "街上不斷傳來的噪音讓米亞很難入睡。",
+  "zh": "街上不斷傳來的噪音讓 Mia 很難入睡。",
   "target": "continual",
   "status": "ok",
   "note": ""
@@ -1650,7 +1650,7 @@
  {
   "id": "L4-0207",
   "en": "Ben thought the test would be hard; on the contrary, it was very easy.",
-  "zh": "班以為考試會很難；相反地，題目非常簡單。",
+  "zh": "Ben 以為考試會很難；相反地，題目非常簡單。",
   "target": "contrary",
   "status": "ok",
   "note": ""
@@ -1706,7 +1706,7 @@
  {
   "id": "L4-0214",
   "en": "Amy conversed with the exchange students in English during lunch.",
-  "zh": "午餐時間，艾咪用英語和交換學生交談。",
+  "zh": "午餐時間，Amy 用英語和交換學生交談。",
   "target": "conversed",
   "status": "ok",
   "note": ""
@@ -1722,7 +1722,7 @@
  {
   "id": "L4-0216",
   "en": "Lisa tried to convince her parents to let her join the trip.",
-  "zh": "麗莎試著說服父母讓她參加這趟旅行。",
+  "zh": "Lisa 試著說服父母讓她參加這趟旅行。",
   "target": "convince",
   "status": "ok",
   "note": ""
@@ -1802,7 +1802,7 @@
  {
   "id": "L4-0226",
   "en": "Lisa was elected to the student council and helps plan school events.",
-  "zh": "麗莎被選進學生會，協助規劃學校活動。",
+  "zh": "Lisa 被選進學生會，協助規劃學校活動。",
   "target": "council",
   "status": "ok",
   "note": ""
@@ -1818,7 +1818,7 @@
  {
   "id": "L4-0228",
   "en": "It was courageous of Ben to admit his mistake in front of the class.",
-  "zh": "班敢在全班面前承認自己的錯誤，真是勇敢。",
+  "zh": "Ben 敢在全班面前承認自己的錯誤，真是勇敢。",
   "target": "courageous",
   "status": "ok",
   "note": ""
@@ -1841,7 +1841,7 @@
  },
  {
   "id": "L4-0231",
-  "en": "There is a crack in my phone screen after I dropped it.",
+  "en": "There was a crack in my phone screen after I dropped it.",
   "zh": "我的手機摔到之後，螢幕上出現了一道裂痕。",
   "target": "crack",
   "status": "ok",
@@ -1850,7 +1850,7 @@
  {
   "id": "L4-0232",
   "en": "At the night market, Lisa bought some beautiful handmade bamboo crafts.",
-  "zh": "麗莎在夜市買了一些漂亮的手工竹製工藝品。",
+  "zh": "Lisa 在夜市買了一些漂亮的手工竹製工藝品。",
   "target": "crafts",
   "status": "ok",
   "note": "超出1–3級：handmade"
@@ -1874,7 +1874,7 @@
  {
   "id": "L4-0235",
   "en": "Amy crept downstairs quietly so she wouldn't wake up her parents.",
-  "zh": "艾咪躡手躡腳地下樓，以免吵醒她的父母。",
+  "zh": "Amy 躡手躡腳地下樓，以免吵醒她的父母。",
   "target": "crept",
   "status": "ok",
   "note": ""
@@ -1898,7 +1898,7 @@
  {
   "id": "L4-0238",
   "en": "Lisa listened carefully to her coach's criticism and tried to improve.",
-  "zh": "麗莎仔細聆聽教練的批評，並努力改進。",
+  "zh": "Lisa 仔細聆聽教練的批評，並努力改進。",
   "target": "criticism",
   "status": "ok",
   "note": ""
@@ -1929,7 +1929,7 @@
  },
  {
   "id": "L4-0242",
-  "en": "Crush two pieces of garlic and add them to the hot oil in the pan.",
+  "en": "Crush two cloves of garlic and add them to the hot oil in the pan.",
   "zh": "把兩瓣大蒜壓碎，放進鍋裡的熱油中。",
   "target": "Crush",
   "status": "ok",
@@ -1938,7 +1938,7 @@
  {
   "id": "L4-0243",
   "en": "Mia put a few ice cubes in her lemon tea to cool it down.",
-  "zh": "米亞在檸檬茶裡放了幾塊冰塊讓它變涼。",
+  "zh": "Mia 在檸檬茶裡放了幾塊冰塊讓它變涼。",
   "target": "cubes",
   "status": "ok",
   "note": ""
@@ -1954,7 +1954,7 @@
  {
   "id": "L4-0245",
   "en": "In the story, a cunning fox tricks the crow into dropping its cheese.",
-  "zh": "在故事裡，一隻狡猾的狐狸騙烏鴉把嘴裡的起司掉下來。",
+  "zh": "在故事裡，一隻狡猾的狐狸用計讓烏鴉嘴裡的起司掉了下來。",
   "target": "cunning",
   "status": "ok",
   "note": ""
@@ -1962,7 +1962,7 @@
  {
   "id": "L4-0246",
   "en": "Out of curiosity, Lisa opened the old box she found in Grandma's room.",
-  "zh": "出於好奇，麗莎打開了她在奶奶房間找到的舊箱子。",
+  "zh": "出於好奇，Lisa 打開了她在奶奶房間找到的舊箱子。",
   "target": "curiosity",
   "status": "ok",
   "note": ""
@@ -1994,7 +1994,7 @@
  {
   "id": "L4-0250",
   "en": "Lisa put a soft cushion behind her back while studying at her desk.",
-  "zh": "麗莎在書桌前讀書時，在背後放了一個柔軟的靠墊。",
+  "zh": "Lisa 在書桌前讀書時，在背後放了一個柔軟的靠墊。",
   "target": "cushion",
   "status": "ok",
   "note": ""
@@ -2002,7 +2002,7 @@
  {
   "id": "L4-0251",
   "en": "Don't put on that shirt yet; it's still damp from the rain.",
-  "zh": "先別穿那件襯衫，它被雨淋得還濕濕的。",
+  "zh": "先別穿那件襯衫，它淋了雨，還濕濕的。",
   "target": "damp",
   "status": "ok",
   "note": ""
@@ -2266,7 +2266,7 @@
  {
   "id": "L4-0284",
   "en": "Some people find it hard to digest milk, so they choose other drinks instead.",
-  "zh": "有些人很難消化牛奶，所以改選其他飲料。",
+  "zh": "有些人很難消化牛奶，所以改喝其他飲料。",
   "target": "digest",
   "status": "ok",
   "note": ""
@@ -2282,7 +2282,7 @@
  {
   "id": "L4-0286",
   "en": "Every person, rich or poor, should be treated with dignity and respect.",
-  "zh": "每個人無論貧富，都應該受到有尊嚴、受尊重的對待。",
+  "zh": "每個人無論貧富，都應該享有尊嚴、受到尊重。",
   "target": "dignity",
   "status": "ok",
   "note": ""
@@ -2330,7 +2330,7 @@
  {
   "id": "L4-0292",
   "en": "One disadvantage of living in the city is the noise from heavy traffic.",
-  "zh": "住在城市的一個缺點是繁忙交通帶來的噪音。",
+  "zh": "住在城市的缺點之一是繁忙交通帶來的噪音。",
   "target": "disadvantage",
   "status": "ok",
   "note": ""
@@ -2338,7 +2338,7 @@
  {
   "id": "L4-0293",
   "en": "Lisa didn't want to disappoint her coach, so she practiced extra hours every day.",
-  "zh": "Lisa 不想讓教練失望，所以每天額外多練習幾個小時。",
+  "zh": "Lisa 不想讓教練失望，所以每天多練習幾個小時。",
   "target": "disappoint",
   "status": "ok",
   "note": ""
@@ -2354,7 +2354,7 @@
  {
   "id": "L4-0295",
   "en": "The new coach believes discipline and hard work are the keys to a winning team.",
-  "zh": "新教練相信紀律和努力是一支常勝隊伍的關鍵。",
+  "zh": "新教練相信紀律和努力是打造常勝隊伍的關鍵。",
   "target": "discipline",
   "status": "ok",
   "note": ""
@@ -2362,7 +2362,7 @@
  {
   "id": "L4-0296",
   "en": "Don't let one bad test score discourage you from studying math.",
-  "zh": "別讓一次考差的成績使你對學數學失去信心。",
+  "zh": "別因為一次考不好，就對學數學失去信心。",
   "target": "discourage",
   "status": "ok",
   "note": ""
@@ -2418,7 +2418,7 @@
  {
   "id": "L4-0303",
   "en": "It's hard to distinguish between the twins because they dress and look the same.",
-  "zh": "這對雙胞胎穿著和長相都一樣，所以很難區別他們。",
+  "zh": "這對雙胞胎穿著和長相都一樣，所以很難分辨他們。",
   "target": "distinguish",
   "status": "ok",
   "note": ""
@@ -2450,7 +2450,7 @@
  {
   "id": "L4-0307",
   "en": "Our family moved to a quiet district with many parks and good schools.",
-  "zh": "我們家搬到了一個有許多公園和好學校的安靜地區。",
+  "zh": "我們家搬到了一個安靜的地區，那裡有許多公園和好學校。",
   "target": "district",
   "status": "ok",
   "note": ""
@@ -2522,7 +2522,7 @@
  {
   "id": "L4-0316",
   "en": "Please send me the first draft of your speech by Wednesday so I can check it.",
-  "zh": "請在星期三前把你的演講稿初稿寄給我，讓我可以檢查。",
+  "zh": "請在星期三前把你的演講初稿寄給我，讓我可以檢查。",
   "target": "draft",
   "status": "ok",
   "note": ""
@@ -2722,7 +2722,7 @@
  {
   "id": "L4-0341",
   "en": "If you lose your passport abroad, you should go to your country's embassy for help.",
-  "zh": "如果你在國外遺失護照，應該到你國家的大使館求助。",
+  "zh": "如果你在國外遺失護照，應該到自己國家的大使館求助。",
   "target": "embassy",
   "status": "ok",
   "note": "超出1–3級：lose"
@@ -2841,7 +2841,7 @@
  },
  {
   "id": "L4-0356",
-  "en": "Our class discussed equality between boys and girls in sports and at work.",
+  "en": "Our class discussed equality between men and women in sports and at work.",
   "zh": "我們班討論了運動和職場上的男女平等。",
   "target": "equality",
   "status": "ok",
@@ -2890,7 +2890,7 @@
  {
   "id": "L4-0362",
   "en": "Taiwan is home to many ethnic groups, each with its own language and culture.",
-  "zh": "台灣是許多民族的家園，每個民族都有自己的語言和文化。",
+  "zh": "台灣是許多族群的家園，每個族群都有自己的語言和文化。",
   "target": "ethnic",
   "status": "ok",
   "note": ""
@@ -3026,7 +3026,7 @@
  {
   "id": "L4-0379",
   "en": "Too much exposure to phone screens before bed can make it hard to sleep.",
-  "zh": "睡前過度暴露在手機螢幕前，可能讓人難以入睡。",
+  "zh": "睡前過度暴露在手機螢幕的光線下，可能讓人難以入睡。",
   "target": "exposure",
   "status": "ok",
   "note": ""
@@ -3225,8 +3225,8 @@
  },
  {
   "id": "L4-0404",
-  "en": "Our cat kept scratching itself, and the doctor found fleas in its fur.",
-  "zh": "我們的貓一直抓癢，醫生在牠的毛裡發現了跳蚤。",
+  "en": "Our cat kept scratching itself, and the vet found fleas in its fur.",
+  "zh": "我們的貓一直抓癢，獸醫在牠的毛裡發現了跳蚤。",
   "target": "fleas",
   "status": "ok",
   "note": "含其他4級字：scratching"
@@ -3266,7 +3266,7 @@
  {
   "id": "L4-0409",
   "en": "The waiter drew a heart shape in the milk foam on top of my coffee.",
-  "zh": "服務生在我咖啡上的奶泡畫了一顆愛心。",
+  "zh": "服務生在我咖啡的奶泡上畫了一顆愛心。",
   "target": "foam",
   "status": "ok",
   "note": "超出1–3級：drew"
@@ -3394,7 +3394,7 @@
  {
   "id": "L4-0425",
   "en": "It frustrates me when my computer stops working in the middle of my homework.",
-  "zh": "作業寫到一半電腦突然當機時，讓我很挫折。",
+  "zh": "作業寫到一半電腦突然當機，讓我很挫折。",
   "target": "frustrates",
   "status": "ok",
   "note": ""
@@ -3402,7 +3402,7 @@
  {
   "id": "L4-0426",
   "en": "Lucy cried in frustration after failing her driving test for the third time.",
-  "zh": "Lucy 第三次沒通過駕照考試後，挫折地哭了出來。",
+  "zh": "Lucy 第三次沒通過駕照考試後，挫折得哭了出來。",
   "target": "frustration",
   "status": "ok",
   "note": ""
@@ -3513,7 +3513,7 @@
  },
  {
   "id": "L4-0440",
-  "en": "Thanks to the generosity of local shops, our club could hold a free concert.",
+  "en": "Thanks to the generosity of local shops, our club was able to hold a free concert.",
   "zh": "多虧當地商家的慷慨，我們社團才能舉辦一場免費音樂會。",
   "target": "generosity",
   "status": "ok",
@@ -3521,7 +3521,7 @@
  },
  {
   "id": "L4-0441",
-  "en": "Mozart was a musical genius who wrote his first song at the age of five.",
+  "en": "Mozart was a musical genius who wrote his first piece of music at the age of five.",
   "zh": "莫札特是位音樂天才，五歲就寫出了第一首曲子。",
   "target": "genius",
   "status": "ok",
@@ -3706,7 +3706,7 @@
  {
   "id": "L4-0464",
   "en": "Lisa sent holiday greetings to all her friends on New Year's Day.",
-  "zh": "Lisa 在元旦那天向所有朋友傳送節日問候。",
+  "zh": "Lisa 在元旦那天向所有朋友送上節日問候。",
   "target": "greetings",
   "status": "ok",
   "note": ""
@@ -3833,7 +3833,7 @@
  },
  {
   "id": "L4-0480",
-  "en": "The warm weather hastened the opening of the cherry flowers in the park.",
+  "en": "The warm weather hastened the blooming of the cherry blossoms in the park.",
   "zh": "溫暖的天氣加快了公園裡櫻花綻放的速度。",
   "target": "hastened",
   "status": "ok",
@@ -3882,7 +3882,7 @@
  {
   "id": "L4-0486",
   "en": "The farmer showed us how bees make honey inside the hive.",
-  "zh": "農夫向我們展示蜜蜂如何在蜂巢裡製造蜂蜜。",
+  "zh": "農夫向我們展示蜜蜂如何在蜂巢裡釀蜜。",
   "target": "hive",
   "status": "ok",
   "note": ""
@@ -3994,7 +3994,7 @@
  {
   "id": "L4-0500",
   "en": "The twins wear identical clothes, so it's hard to tell them apart.",
-  "zh": "這對雙胞胎穿一模一樣的衣服，所以很難分辨他們。",
+  "zh": "這對雙胞胎穿一模一樣的衣服，所以很難分出誰是誰。",
   "target": "identical",
   "status": "ok",
   "note": ""
@@ -4026,7 +4026,7 @@
  {
   "id": "L4-0504",
   "en": "Instead of sitting idle all summer, Lisa found a part-time job at the library.",
-  "zh": "麗莎沒有整個暑假閒著，而是在圖書館找了一份打工。",
+  "zh": "Lisa 沒有整個暑假閒著，而是在圖書館找了一份打工。",
   "target": "idle",
   "status": "ok",
   "note": ""
@@ -4050,7 +4050,7 @@
  {
   "id": "L4-0507",
   "en": "Before the class trip, many students were ignorant of the island's history.",
-  "zh": "班級旅行之前，許多學生對這座島的歷史一無所知。",
+  "zh": "班遊之前，許多學生對這座島的歷史一無所知。",
   "target": "ignorant",
   "status": "ok",
   "note": ""
@@ -4074,7 +4074,7 @@
  {
   "id": "L4-0510",
   "en": "When she was five, Amy had an imaginary friend who lived under her bed.",
-  "zh": "艾咪五歲時，有一個住在她床底下的想像朋友。",
+  "zh": "Amy 五歲時，有一個想像中的朋友，住在她床底下。",
   "target": "imaginary",
   "status": "ok",
   "note": ""
@@ -4154,7 +4154,7 @@
  {
   "id": "L4-0520",
   "en": "Lisa wore a neat shirt to make a good impression at the interview.",
-  "zh": "麗莎穿了一件整齊的襯衫，想在面試時留下好印象。",
+  "zh": "Lisa 穿了一件整齊的襯衫，想在面試時留下好印象。",
   "target": "impression",
   "status": "ok",
   "note": ""
@@ -4226,7 +4226,7 @@
  {
   "id": "L4-0529",
   "en": "The museum tour was fun and informative; we learned a lot about ocean life.",
-  "zh": "這趟博物館導覽既有趣又富有知識性，我們學到很多海洋生物的知識。",
+  "zh": "這趟博物館導覽既有趣又內容豐富，我們學到很多海洋生物的知識。",
   "target": "informative",
   "status": "ok",
   "note": ""
@@ -4250,7 +4250,7 @@
  {
   "id": "L4-0532",
   "en": "Amy injured her knee during basketball practice and had to rest for weeks.",
-  "zh": "艾咪在籃球練習時傷了膝蓋，得休息好幾個星期。",
+  "zh": "Amy 在籃球練習時傷了膝蓋，得休息好幾個星期。",
   "target": "injured",
   "status": "ok",
   "note": ""
@@ -4290,7 +4290,7 @@
  {
   "id": "L4-0537",
   "en": "Lisa often walks by the sea to find inspiration for her songs.",
-  "zh": "麗莎常常到海邊散步，為她的歌曲尋找靈感。",
+  "zh": "Lisa 常常到海邊散步，為她的歌曲尋找靈感。",
   "target": "inspiration",
   "status": "ok",
   "note": ""
@@ -4394,7 +4394,7 @@
  {
   "id": "L4-0550",
   "en": "Before the exam, Amy took an intensive two-week English course.",
-  "zh": "考試前，艾咪上了為期兩週的英文密集課程。",
+  "zh": "考試前，Amy 上了為期兩週的英文密集課程。",
   "target": "intensive",
   "status": "ok",
   "note": ""
@@ -4434,7 +4434,7 @@
  {
   "id": "L4-0555",
   "en": "After a year of lessons, Lisa moved up to the intermediate guitar class.",
-  "zh": "上了一年課之後，麗莎升上了中級吉他班。",
+  "zh": "上了一年課之後，Lisa 升上了中級吉他班。",
   "target": "intermediate",
   "status": "ok",
   "note": ""
@@ -4458,7 +4458,7 @@
  {
   "id": "L4-0558",
   "en": "Only a few intimate friends were invited to Amy's small birthday party.",
-  "zh": "艾咪的小型生日派對只邀請了幾位親密好友。",
+  "zh": "Amy 的小型生日派對只邀請了幾位親密好友。",
   "target": "intimate",
   "status": "ok",
   "note": ""
@@ -4498,7 +4498,7 @@
  {
   "id": "L4-0563",
   "en": "Lisa decided to invest her time in learning a second language.",
-  "zh": "麗莎決定把時間投資在學習第二外語上。",
+  "zh": "Lisa 決定把時間投資在學習第二外語上。",
   "target": "invest",
   "status": "ok",
   "note": ""
@@ -4530,7 +4530,7 @@
  {
   "id": "L4-0567",
   "en": "Living in isolation on a small island, the old man rarely saw other people.",
-  "zh": "那位老人孤立地住在一座小島上，很少見到其他人。",
+  "zh": "那位老人獨自住在一座小島上，與世隔絕，很少見到其他人。",
   "target": "isolation",
   "status": "ok",
   "note": ""
@@ -4538,7 +4538,7 @@
  {
   "id": "L4-0568",
   "en": "Plastic waste is a serious issue that our science class discussed today.",
-  "zh": "塑膠垃圾是我們自然課今天討論的一個嚴重議題。",
+  "zh": "塑膠垃圾是我們今天在自然課上討論的嚴重議題。",
   "target": "issue",
   "status": "ok",
   "note": ""
@@ -4546,7 +4546,7 @@
  {
   "id": "L4-0569",
   "en": "Amy felt a touch of jealousy when her best friend made a new friend.",
-  "zh": "當最好的朋友交了新朋友時，艾咪感到一絲忌妒。",
+  "zh": "當最好的朋友交了新朋友時，Amy 感到一絲忌妒。",
   "target": "jealousy",
   "status": "ok",
   "note": ""
@@ -4554,7 +4554,7 @@
  {
   "id": "L4-0570",
   "en": "Lisa is keen on baking and makes cookies for her friends every weekend.",
-  "zh": "麗莎熱衷於烘焙，每個週末都會為朋友做餅乾。",
+  "zh": "Lisa 熱衷於烘焙，每個週末都會為朋友做餅乾。",
   "target": "keen",
   "status": "ok",
   "note": ""
@@ -4586,7 +4586,7 @@
  {
   "id": "L4-0574",
   "en": "Building the new bridge took two years of hard labor.",
-  "zh": "建造這座新橋花了兩年的辛苦勞動。",
+  "zh": "這座新橋是經過兩年的辛苦勞動才建成的。",
   "target": "labor",
   "status": "ok",
   "note": ""
@@ -4650,14 +4650,14 @@
  {
   "id": "L4-0582",
   "en": "Amy leaned against the wall and waited for the bus to arrive.",
-  "zh": "艾咪靠著牆，等公車到來。",
+  "zh": "Amy 靠著牆，等公車到來。",
   "target": "leaned",
   "status": "ok",
   "note": ""
  },
  {
   "id": "L4-0583",
-  "en": "The learned old man in our village knows a lot about history and poems.",
+  "en": "The learned old man in our village knows a lot about history and poetry.",
   "zh": "我們村裡那位博學的老先生對歷史和詩詞懂得很多。",
   "target": "learned",
   "status": "ok",
@@ -4714,7 +4714,7 @@
  {
   "id": "L4-0590",
   "en": "The librarian helped me find a book about the history of tea.",
-  "zh": "圖書館員幫我找到一本關於茶的歷史的書。",
+  "zh": "圖書館員幫我找到一本關於茶葉歷史的書。",
   "target": "librarian",
   "status": "ok",
   "note": ""
@@ -4738,7 +4738,7 @@
  {
   "id": "L4-0593",
   "en": "Everyone has some limitations, but hard work can still take you very far.",
-  "zh": "每個人都有一些限制，但努力仍然能帶你走得很遠。",
+  "zh": "每個人都有自己的局限，但努力仍然能帶你走得很遠。",
   "target": "limitations",
   "status": "ok",
   "note": ""
@@ -4754,7 +4754,7 @@
  {
   "id": "L4-0595",
   "en": "Lisa put on a little pink lipstick before taking photos with her friends.",
-  "zh": "麗莎和朋友拍照前，擦了一點粉紅色的口紅。",
+  "zh": "Lisa 和朋友拍照前，擦了一點粉紅色的口紅。",
   "target": "lipstick",
   "status": "ok",
   "note": ""
@@ -4778,7 +4778,7 @@
  {
   "id": "L4-0598",
   "en": "Amy loves reading English literature, especially novels from the 1800s.",
-  "zh": "艾咪喜歡閱讀英國文學，尤其是十九世紀的小說。",
+  "zh": "Amy 喜歡閱讀英國文學，尤其是十九世紀的小說。",
   "target": "literature",
   "status": "ok",
   "note": ""
@@ -4810,7 +4810,7 @@
  {
   "id": "L4-0602",
   "en": "Lisa gave a clear and logical explanation of how she solved the math problem.",
-  "zh": "麗莎清楚又有條理地解釋了她如何解出那道數學題。",
+  "zh": "Lisa 清楚又有條理地解釋了她如何解出那道數學題。",
   "target": "logical",
   "status": "ok",
   "note": "含其他4級字：explanation"
@@ -4842,7 +4842,7 @@
  {
   "id": "L4-0606",
   "en": "The café gives every tenth coffee free to thank customers for their loyalty.",
-  "zh": "這家咖啡廳每買十杯就送一杯，感謝顧客的忠誠支持。",
+  "zh": "這家咖啡廳推出「第十杯免費」優惠，感謝顧客的忠誠支持。",
   "target": "loyalty",
   "status": "ok",
   "note": "超出1–3級：caf, tenth"
@@ -4890,7 +4890,7 @@
  {
   "id": "L4-0612",
   "en": "Amy doesn't wear much makeup; she prefers a natural look.",
-  "zh": "艾咪不太化妝，她比較喜歡自然的樣子。",
+  "zh": "Amy 不太化妝，她比較喜歡自然的樣子。",
   "target": "makeup",
   "status": "ok",
   "note": ""
@@ -4914,7 +4914,7 @@
  {
   "id": "L4-0615",
   "en": "The phone manufacturer promised to fix the problem for free.",
-  "zh": "那家手機製造商承諾會免費修好這個問題。",
+  "zh": "那家手機製造商承諾會免費解決這個問題。",
   "target": "manufacturer",
   "status": "ok",
   "note": ""
@@ -4922,7 +4922,7 @@
  {
   "id": "L4-0616",
   "en": "Uncle Ben trained for six months before running his first marathon.",
-  "zh": "班叔叔訓練了六個月，才跑了他人生第一場馬拉松。",
+  "zh": "Ben 叔叔訓練了六個月，才跑了他人生第一場馬拉松。",
   "target": "marathon",
   "status": "ok",
   "note": ""
@@ -4938,7 +4938,7 @@
  {
   "id": "L4-0618",
   "en": "Lisa showed great maturity by staying calm during the argument.",
-  "zh": "麗莎在爭吵中保持冷靜，表現出很成熟的態度。",
+  "zh": "Lisa 在爭吵中保持冷靜，表現出很成熟的態度。",
   "target": "maturity",
   "status": "ok",
   "note": "超出1–3級：calm, argument"
@@ -5002,7 +5002,7 @@
  {
   "id": "L4-0626",
   "en": "Amy memorized fifty new English words on the bus before the quiz.",
-  "zh": "小考前，艾咪在公車上背了五十個英文新單字。",
+  "zh": "小考前，Amy 在公車上背了五十個英文新單字。",
   "target": "memorized",
   "status": "ok",
   "note": ""
@@ -5074,7 +5074,7 @@
  {
   "id": "L4-0635",
   "en": "The old mill by the river once turned wheat into flour.",
-  "zh": "河邊那座老磨坊以前是把小麥磨成麵粉的。",
+  "zh": "河邊那座老磨坊以前用來把小麥磨成麵粉。",
   "target": "mill",
   "status": "ok",
   "note": ""
@@ -5138,7 +5138,7 @@
  {
   "id": "L4-0643",
   "en": "I felt miserable all day because I had a bad cold and a big test.",
-  "zh": "我得了重感冒又有大考，一整天都覺得很悲慘。",
+  "zh": "我得了重感冒又有大考，一整天都覺得很痛苦。",
   "target": "miserable",
   "status": "ok",
   "note": ""
@@ -5154,7 +5154,7 @@
  {
   "id": "L4-0645",
   "en": "Some ads on social media can mislead young people about health products.",
-  "zh": "社群媒體上的一些廣告可能會在健康產品方面誤導年輕人。",
+  "zh": "社群媒體上有些健康產品的廣告可能會誤導年輕人。",
   "target": "mislead",
   "status": "ok",
   "note": "超出1–3級：health"
@@ -5178,7 +5178,7 @@
  {
   "id": "L4-0648",
   "en": "Even after winning first place, Lisa remained modest and thanked her teammates.",
-  "zh": "即使得了第一名，麗莎依然很謙虛，還感謝她的隊友。",
+  "zh": "即使得了第一名，Lisa 依然很謙虛，還感謝她的隊友。",
   "target": "modest",
   "status": "ok",
   "note": "超出1–3級：teammates"
@@ -5226,7 +5226,7 @@
  {
   "id": "L4-0654",
   "en": "Lisa's main motivation for studying English is to travel the world.",
-  "zh": "麗莎學英文的主要動機是想環遊世界。",
+  "zh": "Lisa 學英文的主要動機是想環遊世界。",
   "target": "motivation",
   "status": "ok",
   "note": ""
@@ -5282,7 +5282,7 @@
  {
   "id": "L4-0661",
   "en": "Amy and Lisa became friends because of their mutual love of music.",
-  "zh": "艾咪和麗莎因為都熱愛音樂而成為朋友。",
+  "zh": "Amy 和 Lisa 因為都熱愛音樂而成為朋友。",
   "target": "mutual",
   "status": "ok",
   "note": ""
@@ -5298,7 +5298,7 @@
  {
   "id": "L4-0663",
   "en": "Only two students got perfect scores on the test, namely Amy and Lisa.",
-  "zh": "只有兩位學生考滿分，也就是艾咪和麗莎。",
+  "zh": "只有兩位學生考滿分，也就是 Amy 和 Lisa。",
   "target": "namely",
   "status": "ok",
   "note": ""
@@ -5330,7 +5330,7 @@
  {
   "id": "L4-0667",
   "en": "Lisa negotiated with her parents for an extra hour of phone time on weekends.",
-  "zh": "麗莎和爸媽協商，爭取週末多一小時的手機時間。",
+  "zh": "Lisa 和爸媽協商，爭取週末多一小時的手機時間。",
   "target": "negotiated",
   "status": "ok",
   "note": ""
@@ -5402,7 +5402,7 @@
  {
   "id": "L4-0676",
   "en": "Mom always packs a nutritious lunch with rice, vegetables, and fish.",
-  "zh": "媽媽總是準備有米飯、蔬菜和魚的營養午餐。",
+  "zh": "媽媽總是準備營養的便當，裡面有米飯、蔬菜和魚。",
   "target": "nutritious",
   "status": "ok",
   "note": ""
@@ -5418,7 +5418,7 @@
  {
   "id": "L4-0678",
   "en": "The obedient puppy sat down as soon as Amy told it to.",
-  "zh": "那隻聽話的小狗一聽到艾咪的指令就馬上坐下。",
+  "zh": "那隻聽話的小狗一聽到 Amy 的指令就馬上坐下。",
   "target": "obedient",
   "status": "ok",
   "note": ""
@@ -5458,7 +5458,7 @@
  {
   "id": "L4-0683",
   "en": "You must obtain permission from your parents before joining the school trip.",
-  "zh": "參加校外旅行前，你必須先取得父母的同意。",
+  "zh": "參加校外教學前，你必須先取得父母的同意。",
   "target": "obtain",
   "status": "ok",
   "note": ""
@@ -5482,7 +5482,7 @@
  {
   "id": "L4-0686",
   "en": "Homework and club activities occupy most of Lisa's free time.",
-  "zh": "功課和社團活動占據了麗莎大部分的空閒時間。",
+  "zh": "功課和社團活動占據了 Lisa 大部分的空閒時間。",
   "target": "occupy",
   "status": "ok",
   "note": ""
@@ -5490,7 +5490,7 @@
  {
   "id": "L4-0687",
   "en": "Lisa didn't mean to offend anyone with her joke about the food.",
-  "zh": "麗莎開那個食物的玩笑，並不是故意要冒犯任何人。",
+  "zh": "Lisa 拿食物開玩笑，並不是故意要冒犯任何人。",
   "target": "offend",
   "status": "ok",
   "note": ""
@@ -5506,7 +5506,7 @@
  {
   "id": "L4-0689",
   "en": "Some messages under her video were so offensive that she removed them.",
-  "zh": "她影片下方有些留言太冒犯人，所以她把它們刪掉了。",
+  "zh": "她影片下方有些留言太冒犯人，所以她把那些留言刪掉了。",
   "target": "offensive",
   "status": "ok",
   "note": ""
@@ -5546,7 +5546,7 @@
  {
   "id": "L4-0694",
   "en": "Amy has played the violin in the school orchestra since her first year.",
-  "zh": "艾咪從一年級起就在學校管弦樂團拉小提琴。",
+  "zh": "Amy 從一年級起就在學校管弦樂團拉小提琴。",
   "target": "orchestra",
   "status": "ok",
   "note": ""
@@ -5562,7 +5562,7 @@
  {
   "id": "L4-0696",
   "en": "The story is about an orphan who grows up in a small village.",
-  "zh": "這個故事是關於一個在小村莊長大的孤兒。",
+  "zh": "這個故事講的是一個在小村莊長大的孤兒。",
   "target": "orphan",
   "status": "ok",
   "note": ""
@@ -5586,7 +5586,7 @@
  {
   "id": "L4-0699",
   "en": "Lisa received an award for her outstanding performance in the science fair.",
-  "zh": "麗莎因為在科展中的傑出表現而獲獎。",
+  "zh": "Lisa 因為在科展中的傑出表現而獲獎。",
   "target": "outstanding",
   "status": "ok",
   "note": ""
@@ -5610,7 +5610,7 @@
  {
   "id": "L4-0702",
   "en": "With help from her friends, Amy overcame her fear of public speaking.",
-  "zh": "在朋友的幫助下，艾咪克服了上台說話的恐懼。",
+  "zh": "在朋友的幫助下，Amy 克服了上台說話的恐懼。",
   "target": "overcame",
   "status": "ok",
   "note": ""
@@ -5714,7 +5714,7 @@
  {
   "id": "L4-0715",
   "en": "Lisa cooked pasta with tomato sauce for the whole family tonight.",
-  "zh": "麗莎今晚為全家人煮了番茄紅醬義大利麵。",
+  "zh": "Lisa 今晚為全家人煮了番茄紅醬義大利麵。",
   "target": "pasta",
   "status": "ok",
   "note": ""
@@ -5786,7 +5786,7 @@
  {
   "id": "L4-0724",
   "en": "Amy's mom wears a light perfume that smells like roses.",
-  "zh": "艾咪的媽媽擦著一款聞起來像玫瑰的淡香水。",
+  "zh": "Amy 的媽媽擦的是一款帶有玫瑰香氣的淡香水。",
   "target": "perfume",
   "status": "ok",
   "note": ""
@@ -5794,7 +5794,7 @@
  {
   "id": "L4-0725",
   "en": "Lisa hopes to find a permanent home for the cat she found on the street.",
-  "zh": "麗莎希望替她在街上撿到的貓找到一個永久的家。",
+  "zh": "Lisa 希望替她在街上撿到的貓找到一個永久的家。",
   "target": "permanent",
   "status": "ok",
   "note": ""
@@ -5810,7 +5810,7 @@
  {
   "id": "L4-0727",
   "en": "Amy gave a persuasive speech about why students need more sleep.",
-  "zh": "艾咪發表了一場很有說服力的演講，談學生為什麼需要更多睡眠。",
+  "zh": "Amy 發表了一場很有說服力的演講，談學生為什麼需要更多睡眠。",
   "target": "persuasive",
   "status": "ok",
   "note": ""
@@ -5826,7 +5826,7 @@
  {
   "id": "L4-0729",
   "en": "Farmers have to protect their crops from pests such as insects and mice.",
-  "zh": "農夫必須保護作物，免受昆蟲和老鼠等害蟲侵害。",
+  "zh": "農夫必須保護作物，免受昆蟲和老鼠等有害生物侵害。",
   "target": "pests",
   "status": "ok",
   "note": ""
@@ -5858,7 +5858,7 @@
  {
   "id": "L4-0733",
   "en": "Lisa wants to study philosophy in college because she loves asking big questions.",
-  "zh": "麗莎想在大學念哲學，因為她喜歡思考重大的問題。",
+  "zh": "Lisa 想在大學念哲學，因為她喜歡思考重大的問題。",
   "target": "philosophy",
   "status": "ok",
   "note": ""
@@ -5866,7 +5866,7 @@
  {
   "id": "L4-0734",
   "en": "Amy joined the photography club to learn how to take better pictures.",
-  "zh": "艾咪加入攝影社，學習如何拍出更好的照片。",
+  "zh": "Amy 加入攝影社，學習如何拍出更好的照片。",
   "target": "photography",
   "status": "ok",
   "note": ""
@@ -5898,7 +5898,7 @@
  {
   "id": "L4-0738",
   "en": "Physics is Amy's favorite subject because she loves learning how things work.",
-  "zh": "物理是艾咪最喜歡的科目，因為她喜歡了解事物運作的原理。",
+  "zh": "物理是 Amy 最喜歡的科目，因為她喜歡了解事物運作的原理。",
   "target": "Physics",
   "status": "ok",
   "note": ""
@@ -5970,7 +5970,7 @@
  {
   "id": "L4-0747",
   "en": "The popularity of bubble tea has spread from Taiwan to many other countries.",
-  "zh": "珍珠奶茶的高人氣已從台灣擴散到許多其他國家。",
+  "zh": "珍珠奶茶的人氣已從台灣延燒到許多其他國家。",
   "target": "popularity",
   "status": "ok",
   "note": ""
@@ -5994,7 +5994,7 @@
  {
   "id": "L4-0750",
   "en": "Lisa possesses a rare talent for singing and playing the piano.",
-  "zh": "麗莎擁有唱歌和彈鋼琴的罕見天分。",
+  "zh": "Lisa 擁有唱歌和彈鋼琴的罕見天分。",
   "target": "possesses",
   "status": "ok",
   "note": ""
@@ -6026,7 +6026,7 @@
  {
   "id": "L4-0754",
   "en": "Lisa's directions were so precise that we found the small café without any trouble.",
-  "zh": "麗莎的指示非常精確，所以我們毫不費力就找到了那間小咖啡店。",
+  "zh": "Lisa 的指示非常精確，所以我們毫不費力就找到了那間小咖啡店。",
   "target": "precise",
   "status": "ok",
   "note": "超出1–3級：caf"
@@ -6066,7 +6066,7 @@
  {
   "id": "L4-0759",
   "en": "Amy felt nervous before giving a presentation about ocean plastic to the whole class.",
-  "zh": "艾咪在向全班報告海洋塑膠問題之前感到很緊張。",
+  "zh": "Amy 在向全班報告海洋塑膠問題之前感到很緊張。",
   "target": "presentation",
   "status": "ok",
   "note": ""
@@ -6146,7 +6146,7 @@
  {
   "id": "L4-0769",
   "en": "After a short break, the speaker proceeded with her talk about saving water.",
-  "zh": "短暫休息後，講者繼續進行她關於節約用水的演講。",
+  "zh": "短暫休息後，講者繼續進行關於節約用水的演講。",
   "target": "proceeded",
   "status": "ok",
   "note": ""
@@ -6154,7 +6154,7 @@
  {
   "id": "L4-0770",
   "en": "Lisa had a productive afternoon and finished all her homework before dinner.",
-  "zh": "麗莎度過了很有生產力的下午，晚餐前就寫完了所有作業。",
+  "zh": "Lisa 下午過得很有成效，晚餐前就寫完了所有作業。",
   "target": "productive",
   "status": "ok",
   "note": ""
@@ -6194,7 +6194,7 @@
  {
   "id": "L4-0775",
   "en": "The coach thinks Amy is a promising young swimmer with a bright future.",
-  "zh": "教練認為艾美是一位很有前途、未來一片光明的年輕泳將。",
+  "zh": "教練認為 Amy 是一位很有前途、未來一片光明的年輕泳將。",
   "target": "promising",
   "status": "ok",
   "note": ""
@@ -6226,7 +6226,7 @@
  {
   "id": "L4-0779",
   "en": "The principal accepted Amy's proposal to put more trash cans around the school.",
-  "zh": "校長接受了艾美在校園裡多放幾個垃圾桶的提議。",
+  "zh": "校長接受了 Amy 在校園裡多放幾個垃圾桶的提議。",
   "target": "proposal",
   "status": "ok",
   "note": ""
@@ -6282,7 +6282,7 @@
  {
   "id": "L4-0786",
   "en": "The school psychologist gives students advice on how to deal with stress.",
-  "zh": "學校的心理師給學生如何應付壓力的建議。",
+  "zh": "學校的心理師會建議學生如何應付壓力。",
   "target": "psychologist",
   "status": "ok",
   "note": ""
@@ -6290,7 +6290,7 @@
  {
   "id": "L4-0787",
   "en": "Lisa wants to study psychology in college because she likes helping people.",
-  "zh": "麗莎想在大學念心理學，因為她喜歡幫助別人。",
+  "zh": "Lisa 想在大學念心理學，因為她喜歡幫助別人。",
   "target": "psychology",
   "status": "ok",
   "note": ""
@@ -6306,7 +6306,7 @@
  {
   "id": "L4-0789",
   "en": "The bake sale got a lot of publicity after students shared it on social media.",
-  "zh": "學生在社群媒體上分享後，這場烘焙義賣獲得了很多宣傳。",
+  "zh": "學生在社群媒體上分享後，這場烘焙義賣獲得了大量曝光。",
   "target": "publicity",
   "status": "ok",
   "note": ""
@@ -6330,7 +6330,7 @@
  {
   "id": "L4-0792",
   "en": "After high school, Amy plans to pursue her dream of becoming a doctor.",
-  "zh": "高中畢業後，艾美打算追求成為醫生的夢想。",
+  "zh": "高中畢業後，Amy 打算追求成為醫生的夢想。",
   "target": "pursue",
   "status": "ok",
   "note": ""
@@ -6338,7 +6338,7 @@
  {
   "id": "L4-0793",
   "en": "In pursuit of better grades, Lisa joined a study group at the library.",
-  "zh": "為了追求更好的成績，麗莎加入了圖書館的讀書會。",
+  "zh": "為了追求更好的成績，Lisa 加入了圖書館的讀書會。",
   "target": "pursuit",
   "status": "ok",
   "note": ""
@@ -6378,7 +6378,7 @@
  {
   "id": "L4-0798",
   "en": "Ben flew into a rage when his little brother broke his new phone.",
-  "zh": "弟弟弄壞了班的新手機時，班勃然大怒。",
+  "zh": "弟弟弄壞了 Ben 的新手機時，Ben 勃然大怒。",
   "target": "rage",
   "status": "ok",
   "note": ""
@@ -6418,7 +6418,7 @@
  {
   "id": "L4-0803",
   "en": "Amy couldn't recall where she had put her student card that morning.",
-  "zh": "艾美想不起來那天早上把學生證放在哪裡了。",
+  "zh": "Amy 想不起來那天早上把學生證放在哪裡了。",
   "target": "recall",
   "status": "ok",
   "note": ""
@@ -6434,7 +6434,7 @@
  {
   "id": "L4-0805",
   "en": "Jenny's father shared his secret recipe for beef noodle soup with the cooking club.",
-  "zh": "珍妮的爸爸和烹飪社分享了他的牛肉麵祕傳食譜。",
+  "zh": "Jenny 的爸爸和烹飪社分享了他的牛肉麵祕傳食譜。",
   "target": "recipe",
   "status": "ok",
   "note": ""
@@ -6442,7 +6442,7 @@
  {
   "id": "L4-0806",
   "en": "Ben's hard work at the hospital finally won recognition from the city government.",
-  "zh": "班在醫院的辛勤付出終於獲得市政府的肯定。",
+  "zh": "Ben 在醫院的辛勤付出終於獲得市政府的肯定。",
   "target": "recognition",
   "status": "ok",
   "note": ""
@@ -6450,7 +6450,7 @@
  {
   "id": "L4-0807",
   "en": "After breaking her leg, Amy made a full recovery and joined the team again.",
-  "zh": "腿骨折之後，艾美完全康復並重新歸隊。",
+  "zh": "腿骨折之後，Amy 完全康復並重新歸隊。",
   "target": "recovery",
   "status": "ok",
   "note": ""
@@ -6506,7 +6506,7 @@
  {
   "id": "L4-0814",
   "en": "Amy looked at her reflection in the window before walking into the interview.",
-  "zh": "走進面試會場前，艾美看了看自己在窗戶上的倒影。",
+  "zh": "走進面試會場前，Amy 看了看自己在窗戶上的倒影。",
   "target": "reflection",
   "status": "ok",
   "note": ""
@@ -6530,7 +6530,7 @@
  {
   "id": "L4-0817",
   "en": "The shoes were too small, so Lisa took them back and asked for a refund.",
-  "zh": "鞋子太小了，所以麗莎把它們拿回店裡要求退款。",
+  "zh": "鞋子太小了，所以 Lisa 拿回店裡要求退款。",
   "target": "refund",
   "status": "ok",
   "note": ""
@@ -6586,7 +6586,7 @@
  {
   "id": "L4-0824",
   "en": "After her first rejection from the art school, Lisa practiced even harder.",
-  "zh": "第一次被美術學校拒絕後，麗莎練習得更加努力。",
+  "zh": "第一次被美術學校拒絕後，Lisa 練習得更加努力。",
   "target": "rejection",
   "status": "ok",
   "note": ""
@@ -6594,7 +6594,7 @@
  {
   "id": "L4-0825",
   "en": "For relaxation, Amy listens to soft music after a long day at school.",
-  "zh": "為了放鬆，艾美在學校忙了一整天後會聽輕柔的音樂。",
+  "zh": "為了放鬆，Amy 在學校忙了一整天後會聽輕柔的音樂。",
   "target": "relaxation",
   "status": "ok",
   "note": ""
@@ -6618,7 +6618,7 @@
  {
   "id": "L4-0828",
   "en": "Tom was reluctant to leave his warm bed on the cold winter morning.",
-  "zh": "在寒冷的冬天早晨，湯姆很不情願離開溫暖的被窩。",
+  "zh": "在寒冷的冬天早晨，Tom 很不情願離開溫暖的被窩。",
   "target": "reluctant",
   "status": "ok",
   "note": ""
@@ -6626,7 +6626,7 @@
  {
   "id": "L4-0829",
   "en": "Her kind remark about my drawing made me feel much more confident.",
-  "zh": "她對我的畫作的友善評論讓我更有自信了。",
+  "zh": "她對我畫作的友善評論讓我更有自信了。",
   "target": "remark",
   "status": "ok",
   "note": ""
@@ -6650,7 +6650,7 @@
  {
   "id": "L4-0832",
   "en": "Lisa went to the library to renew the books she had borrowed.",
-  "zh": "麗莎去圖書館續借她之前借的書。",
+  "zh": "Lisa 去圖書館續借她之前借的書。",
   "target": "renew",
   "status": "ok",
   "note": ""
@@ -6666,7 +6666,7 @@
  {
   "id": "L4-0834",
   "en": "The painting is a beautiful representation of life in a small fishing village.",
-  "zh": "這幅畫美麗地呈現了小漁村的生活。",
+  "zh": "這幅畫把小漁村的生活表現得很美。",
   "target": "representation",
   "status": "ok",
   "note": ""
@@ -6697,7 +6697,7 @@
  },
  {
   "id": "L4-0838",
-  "en": "Researchers found that teenagers who sleep less often feel tired in class.",
+  "en": "Researchers found that teenagers who sleep less are often tired in class.",
   "zh": "研究人員發現，睡眠較少的青少年上課時常覺得疲倦。",
   "target": "Researchers",
   "status": "ok",
@@ -6706,7 +6706,7 @@
  {
   "id": "L4-0839",
   "en": "Amy closely resembles her mother; they both have big eyes and long hair.",
-  "zh": "艾美長得很像她媽媽；她們都有大眼睛和長頭髮。",
+  "zh": "Amy 長得很像她媽媽；她們都有大眼睛和長頭髮。",
   "target": "resembles",
   "status": "ok",
   "note": ""
@@ -6754,7 +6754,7 @@
  {
   "id": "L4-0845",
   "en": "The two friends sat down and talked calmly to resolve their problem.",
-  "zh": "這兩個朋友坐下來冷靜交談，解決了他們之間的問題。",
+  "zh": "這兩個朋友坐下來冷靜交談，想解決彼此之間的問題。",
   "target": "resolve",
   "status": "ok",
   "note": "超出1–3級：calmly"
@@ -6778,7 +6778,7 @@
  {
   "id": "L4-0848",
   "en": "Workers spent two years restoring the old temple to its original beauty.",
-  "zh": "工人們花了兩年把這座古廟修復回原本的美麗樣貌。",
+  "zh": "工人們花了兩年修復這座古廟，讓它恢復原本的美麗樣貌。",
   "target": "restoring",
   "status": "ok",
   "note": ""
@@ -6842,7 +6842,7 @@
  {
   "id": "L4-0856",
   "en": "After a few revisions, Lisa's speech became shorter and much clearer.",
-  "zh": "經過幾次修訂，麗莎的演講稿變得更簡短、更清楚。",
+  "zh": "經過幾次修訂，Lisa 的演講稿變得更簡短、更清楚。",
   "target": "revisions",
   "status": "ok",
   "note": ""
@@ -6858,7 +6858,7 @@
  {
   "id": "L4-0858",
   "en": "This revolutionary new phone can charge fully in just five minutes.",
-  "zh": "這款革命性的新手機只要五分鐘就能完全充飽電。",
+  "zh": "這款革命性的新手機只要五分鐘就能充飽電。",
   "target": "revolutionary",
   "status": "ok",
   "note": "超出1–3級：fully"
@@ -6890,7 +6890,7 @@
  {
   "id": "L4-0862",
   "en": "Can anyone solve this riddle: what has keys but cannot open doors?",
-  "zh": "有人能解開這個謎語嗎：什麼東西有「鍵」卻打不開門？",
+  "zh": "有人能解開這個謎語嗎？什麼東西有「鍵」卻打不開門？",
   "target": "riddle",
   "status": "ok",
   "note": ""
@@ -6906,7 +6906,7 @@
  {
   "id": "L4-0864",
   "en": "Mom loves watching old romance movies on Sunday afternoons with a cup of tea.",
-  "zh": "媽媽喜歡在週日下午配一杯茶看老式的愛情電影。",
+  "zh": "媽媽喜歡在週日下午配一杯茶看老愛情片。",
   "target": "romance",
   "status": "ok",
   "note": ""
@@ -6962,7 +6962,7 @@
  {
   "id": "L4-0871",
   "en": "Lisa smiled with satisfaction when she saw the clean and tidy classroom.",
-  "zh": "麗莎看到乾淨整齊的教室時，滿意地笑了。",
+  "zh": "Lisa 看到乾淨整齊的教室時，滿意地笑了。",
   "target": "satisfaction",
   "status": "ok",
   "note": ""
@@ -6970,7 +6970,7 @@
  {
   "id": "L4-0872",
   "en": "Amy was so nervous that she could scarcely say a word on stage.",
-  "zh": "艾美緊張到在台上幾乎說不出一句話。",
+  "zh": "Amy 緊張到在台上幾乎說不出一句話。",
   "target": "scarcely",
   "status": "ok",
   "note": ""
@@ -7026,7 +7026,7 @@
  {
   "id": "L4-0879",
   "en": "Amy seized the chance to study abroad in Japan for a year.",
-  "zh": "艾美抓住了到日本留學一年的機會。",
+  "zh": "Amy 抓住了到日本留學一年的機會。",
   "target": "seized",
   "status": "ok",
   "note": ""
@@ -7098,7 +7098,7 @@
  {
   "id": "L4-0888",
   "en": "Jenny's mother works the night shift at the hospital three days a week.",
-  "zh": "珍妮的媽媽每週有三天在醫院值夜班。",
+  "zh": "Jenny 的媽媽每週有三天在醫院值夜班。",
   "target": "shift",
   "status": "ok",
   "note": ""
@@ -7122,7 +7122,7 @@
  {
   "id": "L4-0891",
   "en": "Our teacher explained the significance of the Dragon Boat Festival in Chinese culture.",
-  "zh": "老師解釋了端午節在華人文化中的重要性。",
+  "zh": "老師解釋了端午節在華人文化中的意義。",
   "target": "significance",
   "status": "ok",
   "note": ""
@@ -7137,8 +7137,8 @@
  },
  {
   "id": "L4-0893",
-  "en": "Use \"is\" after a singular subject, such as \"my friend\" or \"the dog.\"",
-  "zh": "在單數主詞後面要用「is」，例如「my friend」或「the dog」。",
+  "en": "Use \"is\" after a third-person singular subject, such as \"my friend\" or \"the dog.\"",
+  "zh": "在第三人稱單數主詞後面要用「is」，例如「my friend」或「the dog」。",
   "target": "singular",
   "status": "ok",
   "note": ""
@@ -7146,7 +7146,7 @@
  {
   "id": "L4-0894",
   "en": "The old factory site will become a park with trees and a playground.",
-  "zh": "舊工廠的所在地將改建成有樹木和遊樂場的公園。",
+  "zh": "舊工廠的原址將改建成有樹木和遊樂場的公園。",
   "target": "site",
   "status": "ok",
   "note": ""
@@ -7154,7 +7154,7 @@
  {
   "id": "L4-0895",
   "en": "Lisa made a quick sketch of her cat sleeping on the sofa.",
-  "zh": "麗莎快速畫了一張她的貓在沙發上睡覺的素描。",
+  "zh": "Lisa 替她那隻睡在沙發上的貓快速畫了一張素描。",
   "target": "sketch",
   "status": "ok",
   "note": ""
@@ -7170,7 +7170,7 @@
  {
   "id": "L4-0897",
   "en": "Amy had a slight fever, so she stayed home and rested.",
-  "zh": "艾美有點輕微發燒，所以她待在家裡休息。",
+  "zh": "Amy 輕微發燒，所以她待在家裡休息。",
   "target": "slight",
   "status": "ok",
   "note": ""
@@ -7178,7 +7178,7 @@
  {
   "id": "L4-0898",
   "en": "Our class chose the slogan \"Less Plastic, Happier Oceans\" for our school poster.",
-  "zh": "我們班為我們的學校海報選了「少用塑膠，海洋更快樂」這句標語。",
+  "zh": "我們班為學校海報選了「少用塑膠，海洋更快樂」這句標語。",
   "target": "slogan",
   "status": "ok",
   "note": ""
@@ -7193,7 +7193,7 @@
  },
  {
   "id": "L4-0900",
-  "en": "The school uses new software to help students practice English speaking.",
+  "en": "The school uses new software to help students practice speaking English.",
   "zh": "學校使用新軟體幫助學生練習英文口說。",
   "target": "software",
   "status": "ok",
@@ -7226,7 +7226,7 @@
  {
   "id": "L4-0904",
   "en": "A visit to the science museum sparked Amy's interest in stars and space.",
-  "zh": "一趟科學博物館之旅引發了艾美對星星和太空的興趣。",
+  "zh": "一趟科學博物館之旅引發了 Amy 對星星和太空的興趣。",
   "target": "sparked",
   "status": "ok",
   "note": ""
@@ -7274,7 +7274,7 @@
  {
   "id": "L4-0910",
   "en": "Sprinkle a little sugar on top of the pancakes before you serve them.",
-  "zh": "上桌前，在鬆餅上灑一點糖。",
+  "zh": "上桌前，在鬆餅上撒一點糖。",
   "target": "Sprinkle",
   "status": "ok",
   "note": ""
@@ -7282,7 +7282,7 @@
  {
   "id": "L4-0911",
   "en": "Tom stabbed a piece of cake with his fork and put it in his mouth.",
-  "zh": "湯姆用叉子刺起一塊蛋糕放進嘴裡。",
+  "zh": "Tom 用叉子戳起一塊蛋糕放進嘴裡。",
   "target": "stabbed",
   "status": "ok",
   "note": ""
@@ -7394,7 +7394,7 @@
  {
   "id": "L4-0925",
   "en": "Please summarize the story in three sentences for tomorrow's class.",
-  "zh": "請把這個故事摘要成三個句子，明天上課要用。",
+  "zh": "請用三句話摘要這個故事，明天上課要用。",
   "target": "summarize",
   "status": "ok",
   "note": ""
@@ -7418,7 +7418,7 @@
  {
   "id": "L4-0928",
   "en": "After an hour of trying to fix the computer, Amy finally surrendered and called her dad.",
-  "zh": "試著修電腦一個小時後，艾美終於投降，打電話給爸爸。",
+  "zh": "試著修電腦一個小時後，Amy 終於投降，打電話給爸爸。",
   "target": "surrendered",
   "status": "ok",
   "note": ""
@@ -7458,7 +7458,7 @@
  {
   "id": "L4-0933",
   "en": "Our teacher was very sympathetic when Amy told her that her grandmother was sick.",
-  "zh": "艾美告訴老師她奶奶生病時，老師非常同情她。",
+  "zh": "Amy 告訴老師她奶奶生病時，老師非常同情她。",
   "target": "sympathetic",
   "status": "ok",
   "note": ""
@@ -7466,7 +7466,7 @@
  {
   "id": "L4-0934",
   "en": "Lisa felt deep sympathy for the animals that lost their homes in the forest fire.",
-  "zh": "麗莎對在森林大火中失去家園的動物深感同情。",
+  "zh": "Lisa 對在森林大火中失去家園的動物深感同情。",
   "target": "sympathy",
   "status": "ok",
   "note": ""
@@ -7474,7 +7474,7 @@
  {
   "id": "L4-0935",
   "en": "Making a study plan is a systematic way to prepare for exams.",
-  "zh": "擬定讀書計畫是準備考試的一種有系統的方法。",
+  "zh": "擬定讀書計畫是一種有系統的準備考試方法。",
   "target": "systematic",
   "status": "ok",
   "note": ""
@@ -7514,7 +7514,7 @@
  {
   "id": "L4-0940",
   "en": "Lisa has a tendency to stay up too late when exams are coming.",
-  "zh": "考試快到時，麗莎有熬夜太晚的傾向。",
+  "zh": "考試快到時，Lisa 就有太晚睡的傾向。",
   "target": "tendency",
   "status": "ok",
   "note": ""
@@ -7530,7 +7530,7 @@
  {
   "id": "L4-0942",
   "en": "A funny joke from the teacher helped ease the tension before the exam.",
-  "zh": "老師的一個笑話幫忙緩和了考前的緊張氣氛。",
+  "zh": "老師說了個笑話，緩和了考前的緊張氣氛。",
   "target": "tension",
   "status": "ok",
   "note": ""
@@ -7562,7 +7562,7 @@
  {
   "id": "L4-0946",
   "en": "It was very thoughtful of Amy to bring soup to her sick friend.",
-  "zh": "艾美帶湯給生病的朋友，真是非常體貼。",
+  "zh": "Amy 帶湯給生病的朋友，真是非常體貼。",
   "target": "thoughtful",
   "status": "ok",
   "note": ""
@@ -7642,7 +7642,7 @@
  {
   "id": "L4-0956",
   "en": "Waiting a whole week for the test results felt like torture to Amy.",
-  "zh": "等一整個星期的考試成績，對艾美來說簡直是折磨。",
+  "zh": "等一整個星期的考試成績，對 Amy 來說簡直是折磨。",
   "target": "torture",
   "status": "ok",
   "note": ""
@@ -7666,7 +7666,7 @@
  {
   "id": "L4-0959",
   "en": "Lisa will transfer to a new school after her family moves to the south.",
-  "zh": "麗莎家搬到南部後，她將轉學到一所新學校。",
+  "zh": "Lisa 家搬到南部後，她將轉學到一所新學校。",
   "target": "transfer",
   "status": "ok",
   "note": ""
@@ -7698,7 +7698,7 @@
  {
   "id": "L4-0963",
   "en": "Amy wants to become a translator because she loves learning foreign languages.",
-  "zh": "艾美想當譯者，因為她很喜歡學外語。",
+  "zh": "Amy 想當譯者，因為她很喜歡學外語。",
   "target": "translator",
   "status": "ok",
   "note": ""
@@ -7714,7 +7714,7 @@
  {
   "id": "L4-0965",
   "en": "Amy's hands trembled as she stood up to give her first speech.",
-  "zh": "艾美站起來發表她的第一次演講時，雙手發抖。",
+  "zh": "Amy 站起來發表第一次演講時，雙手發抖。",
   "target": "trembled",
   "status": "ok",
   "note": ""
@@ -7810,7 +7810,7 @@
  {
   "id": "L4-0977",
   "en": "We looked everywhere for Amy's lost key, but our search was in vain.",
-  "zh": "我們到處找艾美弄丟的鑰匙，但都白費力氣。",
+  "zh": "我們到處找 Amy 弄丟的鑰匙，但都白費力氣。",
   "target": "vain",
   "status": "ok",
   "note": "超出1–3級：everywhere"
@@ -7826,7 +7826,7 @@
  {
   "id": "L4-0979",
   "en": "Lisa is a vegetarian, so she ordered the tofu noodles instead of beef.",
-  "zh": "麗莎吃素，所以她點了豆腐麵而不是牛肉麵。",
+  "zh": "Lisa 吃素，所以她點了豆腐麵而不是牛肉麵。",
   "target": "vegetarian",
   "status": "ok",
   "note": ""
@@ -7858,7 +7858,7 @@
  {
   "id": "L4-0983",
   "en": "Patience is a virtue, especially when you are waiting in a long line.",
-  "zh": "耐心是一種美德，尤其是在排長長的隊伍時。",
+  "zh": "耐心是一種美德，尤其是在大排長龍的時候。",
   "target": "virtue",
   "status": "ok",
   "note": ""
@@ -7898,7 +7898,7 @@
  {
   "id": "L4-0988",
   "en": "Every Saturday, Amy works as a volunteer at the city library.",
-  "zh": "每週六，艾美都在市立圖書館當志工。",
+  "zh": "每週六，Amy 都在市立圖書館當志工。",
   "target": "volunteer",
   "status": "ok",
   "note": ""
@@ -7946,7 +7946,7 @@
  {
   "id": "L4-0994",
   "en": "Lisa's quick wit always makes everyone laugh during our long class meetings.",
-  "zh": "麗莎的機智總是讓大家在冗長的班會中笑出來。",
+  "zh": "Lisa 的機智總是讓大家在冗長的班會中笑出來。",
   "target": "wit",
   "status": "ok",
   "note": ""
@@ -7962,7 +7962,7 @@
  {
   "id": "L4-0996",
   "en": "Lisa had to withdraw from the race because she hurt her foot.",
-  "zh": "麗莎因為腳受傷，不得不退出比賽。",
+  "zh": "Lisa 因為腳受傷，不得不退出比賽。",
   "target": "withdraw",
   "status": "ok",
   "note": ""
@@ -7978,7 +7978,7 @@
  {
   "id": "L4-0998",
   "en": "Amy does a short workout every morning to stay healthy and strong.",
-  "zh": "艾美每天早上做簡短的健身運動，以保持健康強壯。",
+  "zh": "Amy 每天早上做短時間的健身運動，以保持健康強壯。",
   "target": "workout",
   "status": "ok",
   "note": ""
@@ -8002,7 +8002,7 @@
  {
   "id": "L4-1001",
   "en": "Ben couldn't stop yawning in class after staying up late to play games.",
-  "zh": "班熬夜打電動之後，上課時一直打呵欠。",
+  "zh": "Ben 熬夜打電動之後，上課時一直打呵欠。",
   "target": "yawning",
   "status": "ok",
   "note": ""

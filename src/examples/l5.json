@@ -58,7 +58,7 @@
  {
   "id": "L5-0008",
   "en": "Regular exercise can help accelerate your recovery after a long and serious illness.",
-  "zh": "規律運動有助於加速你在久病之後的復原。",
+  "zh": "規律運動有助於你在長期重病之後加速復原。",
   "target": "accelerate",
   "status": "ok",
   "note": ""
@@ -121,8 +121,8 @@
  },
  {
   "id": "L5-0016",
-  "en": "Many studies show that language acquisition is often faster for young children than for adults.",
-  "zh": "許多研究顯示，幼童習得語言通常比成人快。",
+  "en": "Many studies show that reading to young children helps their language acquisition.",
+  "zh": "許多研究顯示，唸書給幼童聽有助於他們的語言習得。",
   "target": "acquisition",
   "status": "ok",
   "note": ""
@@ -217,7 +217,7 @@
  },
  {
   "id": "L5-0028",
-  "en": "Studies show that a lack of sleep can increase aggression and make people more easily angry.",
+  "en": "Studies show that a lack of sleep can increase aggression and make people get angry more easily.",
   "zh": "研究顯示，睡眠不足會增加攻擊性，使人更容易生氣。",
   "target": "aggression",
   "status": "ok",
@@ -234,7 +234,7 @@
  {
   "id": "L5-0030",
   "en": "Rice and tea are two of the most important agricultural products in central Taiwan.",
-  "zh": "稻米和茶是台灣中部最重要的兩種農產品。",
+  "zh": "稻米和茶都是台灣中部最重要的農產品之一。",
   "target": "agricultural",
   "status": "ok",
   "note": ""
@@ -298,7 +298,7 @@
  {
   "id": "L5-0038",
   "en": "During the group project, Mia became my closest ally when others did not agree with my idea.",
-  "zh": "在小組報告期間，當其他人不同意我的想法時，Mia 成了我最親近的盟友。",
+  "zh": "做小組報告時，其他人不同意我的想法，這時 Mia 成了我最親近的盟友。",
   "target": "ally",
   "status": "ok",
   "note": ""
@@ -322,7 +322,7 @@
  {
   "id": "L5-0041",
   "en": "My brother and I wash the dishes on alternate days, so each of us gets a break.",
-  "zh": "我和哥哥隔天輪流洗碗，所以我們每個人都能休息。",
+  "zh": "我和哥哥隔天輪流洗碗，這樣我們兩人都能休息。",
   "target": "alternate",
   "status": "ok",
   "note": ""
@@ -450,7 +450,7 @@
  {
   "id": "L5-0057",
   "en": "It is not always easy to articulate your feelings, especially when you are upset.",
-  "zh": "要清楚表達自己的感受並不總是容易，尤其是在你心情不好的時候。",
+  "zh": "要清楚表達自己的感受不見得容易，尤其是在你心情不好的時候。",
   "target": "articulate",
   "status": "ok",
   "note": ""
@@ -490,7 +490,7 @@
  {
   "id": "L5-0062",
   "en": "Her ability to speak three languages is a great asset when she travels abroad.",
-  "zh": "她會說三種語言的能力，是她出國旅行時的一大優勢。",
+  "zh": "她會說三種語言，這在她出國旅行時是一大優勢。",
   "target": "asset",
   "status": "ok",
   "note": ""
@@ -546,7 +546,7 @@
  {
   "id": "L5-0069",
   "en": "Doctors attribute the rise in poor vision among children to too much screen time.",
-  "zh": "醫生將兒童視力變差人數增加歸因於使用螢幕時間過長。",
+  "zh": "醫生將兒童視力不良的比例上升，歸因於使用螢幕的時間過長。",
   "target": "attribute",
   "status": "ok",
   "note": ""
@@ -562,7 +562,7 @@
  {
   "id": "L5-0071",
   "en": "Only the principal can authorize students to leave school early during class hours.",
-  "zh": "只有校長可以授權學生在上課時間提早離校。",
+  "zh": "只有校長可以批准學生在上課時間提早離校。",
   "target": "authorize",
   "status": "ok",
   "note": ""
@@ -594,7 +594,7 @@
  {
   "id": "L5-0075",
   "en": "In the class election, each student wrote one name on a ballot and put it in the box.",
-  "zh": "在班級選舉中，每位學生在選票上寫下一個名字，然後投進箱子裡。",
+  "zh": "在班級選舉中，每位學生在選票上寫下一個名字，然後投進票箱。",
   "target": "ballot",
   "status": "ok",
   "note": ""
@@ -658,7 +658,7 @@
  {
   "id": "L5-0083",
   "en": "Drinking enough water and getting enough sleep are both beneficial to your health.",
-  "zh": "喝足夠的水和充足的睡眠都對你的健康有益。",
+  "zh": "喝足夠的水、睡眠充足，都對你的健康有益。",
   "target": "beneficial",
   "status": "ok",
   "note": ""
@@ -737,7 +737,7 @@
  },
  {
   "id": "L5-0093",
-  "en": "The famous singer walked through the airport with two bodyguards standing close beside her.",
+  "en": "The famous singer walked through the airport with two bodyguards close beside her.",
   "zh": "那位知名歌手走過機場，身旁緊跟著兩名保鑣。",
   "target": "bodyguards",
   "status": "ok",
@@ -786,7 +786,7 @@
  {
   "id": "L5-0099",
   "en": "To fight boredom during the long train ride, Lisa read a novel and listened to music.",
-  "zh": "為了打發漫長火車旅程中的無聊，Lisa 看了一本小說並聽音樂。",
+  "zh": "為了排解漫長火車旅程中的無聊，Lisa 看了一本小說，也聽了音樂。",
   "target": "boredom",
   "status": "ok",
   "note": ""
@@ -882,7 +882,7 @@
  {
   "id": "L5-0111",
   "en": "Many people complain that bureaucracy makes it slow and difficult to get a simple form approved.",
-  "zh": "許多人抱怨官僚體制讓一份簡單的表格要很久又很麻煩才能獲准。",
+  "zh": "許多人抱怨，官僚體制讓一份簡單的表格也得耗時費力才能獲准。",
   "target": "bureaucracy",
   "status": "ok",
   "note": ""
@@ -890,7 +890,7 @@
  {
   "id": "L5-0112",
   "en": "In history class, we learned that ancient Egyptian kings prepared for their burial for many years.",
-  "zh": "在歷史課上，我們學到古埃及的國王會花很多年為自己的埋葬做準備。",
+  "zh": "在歷史課上，我們學到古埃及的國王會花很多年為自己死後的安葬做準備。",
   "target": "burial",
   "status": "ok",
   "note": ""
@@ -930,7 +930,7 @@
  {
   "id": "L5-0117",
   "en": "Some new phones have the capability to translate spoken words into other languages almost instantly.",
-  "zh": "有些新型手機有能力幾乎即時將口語翻譯成其他語言。",
+  "zh": "有些新型手機具備將口語近乎即時翻譯成其他語言的能力。",
   "target": "capability",
   "status": "ok",
   "note": ""
@@ -1041,8 +1041,8 @@
  },
  {
   "id": "L5-0131",
-  "en": "Most of the plants that grow in the desert are characterized by thick leaves that store water.",
-  "zh": "大多數生長在沙漠的植物，特性是擁有能儲存水分的厚葉子。",
+  "en": "Many desert plants are characterized by thick leaves or stems that store water.",
+  "zh": "許多沙漠植物的特徵是擁有能儲存水分的厚葉或粗莖。",
   "target": "characterized",
   "status": "ok",
   "note": ""
@@ -1154,14 +1154,14 @@
  {
   "id": "L5-0145",
   "en": "The frightened little girl clung to her father's arm during the loud fireworks show.",
-  "zh": "在響亮的煙火表演中，那個受到驚嚇的小女孩緊緊抓住爸爸的手臂。",
+  "zh": "在震耳的煙火表演中，那個受到驚嚇的小女孩緊緊抓住爸爸的手臂。",
   "target": "clung",
   "status": "ok",
   "note": ""
  },
  {
   "id": "L5-0146",
-  "en": "Before any new medicine can be sold, it must pass several stages of clinical tests.",
+  "en": "Before any new medicine can be sold, it must pass several stages of clinical trials.",
   "zh": "任何新藥在販售之前，都必須通過好幾個階段的臨床試驗。",
   "target": "clinical",
   "status": "ok",
@@ -1202,7 +1202,7 @@
  {
   "id": "L5-0151",
   "en": "A good essay should be coherent, with each paragraph clearly connected to the main idea.",
-  "zh": "一篇好的文章應該有條理，每一段都要和主旨清楚相連。",
+  "zh": "一篇好的文章應該有條理，每一段都要緊扣主旨。",
   "target": "coherent",
   "status": "ok",
   "note": ""
@@ -1241,8 +1241,8 @@
  },
  {
   "id": "L5-0156",
-  "en": "Many buildings in Tainan still show traces of the island's colonial past from about four hundred years ago.",
-  "zh": "台南的許多建築仍保有約四百年前島上殖民歷史的痕跡。",
+  "en": "Some buildings in Tainan still show traces of the island's colonial past from about four hundred years ago.",
+  "zh": "台南有些建築至今仍保有約四百年前台灣殖民時期的痕跡。",
   "target": "colonial",
   "status": "ok",
   "note": ""
@@ -1258,7 +1258,7 @@
  {
   "id": "L5-0158",
   "en": "Scientists are working together to combat the spread of the flu during the winter months.",
-  "zh": "科學家們正合力對抗冬季月份的流感傳播。",
+  "zh": "科學家們正合力對抗流感在冬季的傳播。",
   "target": "combat",
   "status": "ok",
   "note": ""
@@ -1274,7 +1274,7 @@
  {
   "id": "L5-0160",
   "en": "We listened to the live commentary on the radio while the baseball game was going on.",
-  "zh": "棒球比賽進行時，我們在收音機上聽實況轉播解說。",
+  "zh": "棒球比賽進行時，我們用收音機收聽實況解說。",
   "target": "commentary",
   "status": "ok",
   "note": ""
@@ -1282,7 +1282,7 @@
  {
   "id": "L5-0161",
   "en": "During the game, the TV commentator explained the rules so new fans could understand.",
-  "zh": "比賽期間，電視評論員解釋規則，讓新球迷也能看懂。",
+  "zh": "比賽期間，電視轉播的解說員講解規則，讓新球迷也能看懂。",
   "target": "commentator",
   "status": "ok",
   "note": ""
@@ -1298,7 +1298,7 @@
  {
   "id": "L5-0163",
   "en": "Learning to play the piano well requires a strong commitment and many hours of practice.",
-  "zh": "要把鋼琴彈好，需要堅定的投入和許多小時的練習。",
+  "zh": "要把鋼琴彈好，需要堅定的投入和長時間的練習。",
   "target": "commitment",
   "status": "ok",
   "note": ""
@@ -1394,7 +1394,7 @@
  {
   "id": "L5-0175",
   "en": "The airline offered free meals to compensate passengers for the five-hour delay.",
-  "zh": "航空公司提供免費餐點，以補償乘客延誤五小時的損失。",
+  "zh": "航空公司提供免費餐點，補償班機延誤五小時的乘客。",
   "target": "compensate",
   "status": "ok",
   "note": ""
@@ -1458,7 +1458,7 @@
  {
   "id": "L5-0183",
   "en": "All visitors to the museum must comply with the rule against taking photos with a flash.",
-  "zh": "所有博物館的參觀者都必須遵守禁止使用閃光燈拍照的規定。",
+  "zh": "博物館的所有參觀者都必須遵守禁止使用閃光燈拍照的規定。",
   "target": "comply",
   "status": "ok",
   "note": ""
@@ -1505,8 +1505,8 @@
  },
  {
   "id": "L5-0189",
-  "en": "My sister wanted pizza and I wanted noodles, so we made a compromise and ordered both.",
-  "zh": "我姊姊想吃披薩，我想吃麵，所以我們各退一步，兩樣都點了。",
+  "en": "My sister wanted pizza and I wanted noodles, so we made a compromise and ordered fried rice, which we both like.",
+  "zh": "我姊姊想吃披薩，我想吃麵，所以我們各退一步，點了兩人都喜歡的炒飯。",
   "target": "compromise",
   "status": "ok",
   "note": ""
@@ -1538,7 +1538,7 @@
  {
   "id": "L5-0193",
   "en": "A young engineer conceived the idea for a phone game while waiting for a bus in the rain.",
-  "zh": "一位年輕的工程師在雨中等公車時，構想出一款手機遊戲的點子。",
+  "zh": "一位年輕的工程師在雨中等公車時，構想出一款手機遊戲。",
   "target": "conceived",
   "status": "ok",
   "note": ""
@@ -1578,7 +1578,7 @@
  {
   "id": "L5-0198",
   "en": "Doctors must keep their patients' medical records confidential and never share them with strangers.",
-  "zh": "醫生必須對病人的病歷保密，絕不能和陌生人分享。",
+  "zh": "醫生必須對病人的病歷保密，絕不能透露給陌生人。",
   "target": "confidential",
   "status": "ok",
   "note": ""
@@ -1602,7 +1602,7 @@
  {
   "id": "L5-0201",
   "en": "At some point, we all have to confront our fears, whether it is speaking in public or swimming.",
-  "zh": "在某個時候，我們都必須面對自己的恐懼，不論是公開演講還是游泳。",
+  "zh": "我們總有一天都得面對自己的恐懼，不論是公開演講還是游泳。",
   "target": "confront",
   "status": "ok",
   "note": ""
@@ -1738,7 +1738,7 @@
  {
   "id": "L5-0218",
   "en": "Many birds fly from the cold continental areas of northern Asia to Taiwan for the winter.",
-  "zh": "許多鳥類從亞洲北部寒冷的大陸地區飛到台灣過冬。",
+  "zh": "許多鳥類從亞洲大陸北部的寒冷地區飛到台灣過冬。",
   "target": "continental",
   "status": "ok",
   "note": ""
@@ -1754,7 +1754,7 @@
  {
   "id": "L5-0220",
   "en": "There is a contradiction between what he says about saving the earth and his love of plastic bags.",
-  "zh": "他說要拯救地球，卻又熱愛使用塑膠袋，這之間有矛盾。",
+  "zh": "他說要拯救地球，卻又熱愛使用塑膠袋，兩者之間有矛盾。",
   "target": "contradiction",
   "status": "ok",
   "note": ""
@@ -1762,7 +1762,7 @@
  {
   "id": "L5-0221",
   "en": "Whether students should be allowed to use phones in class is a controversial topic at many schools.",
-  "zh": "學生是否應該被允許在課堂上使用手機，在許多學校是一個有爭議的話題。",
+  "zh": "是否該允許學生在課堂上使用手機，在許多學校都是個有爭議的話題。",
   "target": "controversial",
   "status": "ok",
   "note": ""
@@ -1786,7 +1786,7 @@
  {
   "id": "L5-0224",
   "en": "The old factory was converted into a modern art museum that attracts many young visitors.",
-  "zh": "那座老工廠被改建成一間吸引許多年輕遊客的現代美術館。",
+  "zh": "那座老工廠改建成了現代美術館，吸引許多年輕遊客造訪。",
   "target": "converted",
   "status": "ok",
   "note": ""
@@ -1794,7 +1794,7 @@
  {
   "id": "L5-0225",
   "en": "In the novel, a man was convicted of a crime he never committed and spent years in prison.",
-  "zh": "在那本小說中，一名男子被判了一項他沒有犯下的罪，並在監獄裡待了好幾年。",
+  "zh": "在那本小說中，一名男子因一項他從未犯下的罪行被定罪，在監獄裡待了好幾年。",
   "target": "convicted",
   "status": "ok",
   "note": ""
@@ -1818,7 +1818,7 @@
  {
   "id": "L5-0228",
   "en": "You should not copy and share other people's music online without permission, because it breaks copyright laws.",
-  "zh": "你不應該未經許可在網路上複製和分享別人的音樂，因為這違反版權法。",
+  "zh": "你不應該未經許可在網路上複製和分享別人的音樂，因為這違反著作權法。",
   "target": "copyright",
   "status": "ok",
   "note": ""
@@ -1834,7 +1834,7 @@
  {
   "id": "L5-0230",
   "en": "Many companies give money to schools as part of their corporate plan to help local communities.",
-  "zh": "許多公司捐錢給學校，作為他們幫助當地社區的企業計畫之一。",
+  "zh": "許多公司捐錢給學校，作為企業幫助當地社區的計畫之一。",
   "target": "corporate",
   "status": "ok",
   "note": ""
@@ -1890,7 +1890,7 @@
  {
   "id": "L5-0237",
   "en": "When Mia felt worried about her future, she asked her teacher for counsel.",
-  "zh": "當 Mia 對自己的未來感到擔憂時，她向老師尋求建議。",
+  "zh": "Mia 對自己的未來感到擔憂時，向老師尋求建議。",
   "target": "counsel",
   "status": "ok",
   "note": ""
@@ -1930,7 +1930,7 @@
  {
   "id": "L5-0242",
   "en": "We took off our shoes and walked through the cool water of the creek behind the village.",
-  "zh": "我們脫掉鞋子，走過村子後方小溪裡清涼的溪水。",
+  "zh": "我們脫掉鞋子，涉水走過村子後方那條清涼的小溪。",
   "target": "creek",
   "status": "ok",
   "note": ""
@@ -1978,7 +1978,7 @@
  {
   "id": "L5-0248",
   "en": "When the sun shone through the crystal glass, it made tiny rainbows on the wall.",
-  "zh": "陽光照進水晶玻璃時，在牆上映出小小的彩虹。",
+  "zh": "陽光穿過水晶玻璃時，在牆上映出小小的彩虹。",
   "target": "crystal",
   "status": "ok",
   "note": "超出1–4級：shone"
@@ -2050,7 +2050,7 @@
  {
   "id": "L5-0257",
   "en": "Eating too much sugar without brushing your teeth regularly can lead to tooth decay.",
-  "zh": "吃太多糖又不定期刷牙，可能會導致蛀牙。",
+  "zh": "吃太多糖又沒有定期刷牙，可能會導致蛀牙。",
   "target": "decay",
   "status": "ok",
   "note": ""
@@ -2090,7 +2090,7 @@
  {
   "id": "L5-0262",
   "en": "Dr. Chen has dedicated her whole life to protecting sea turtles along Taiwan's coast.",
-  "zh": "陳博士將她的一生奉獻給保護台灣沿岸的海龜。",
+  "zh": "陳博士將一生奉獻於保護台灣沿岸的海龜。",
   "target": "dedicated",
   "status": "ok",
   "note": ""
@@ -2362,7 +2362,7 @@
  {
   "id": "L5-0296",
   "en": "The hospital will never disclose a patient's personal information without his or her permission.",
-  "zh": "未經病人同意，醫院絕不會揭露病人的個人資料。",
+  "zh": "未經病人同意，醫院絕不會透露病人的個人資料。",
   "target": "disclose",
   "status": "ok",
   "note": ""
@@ -2578,7 +2578,7 @@
  {
   "id": "L5-0323",
   "en": "Mia spent three hours preparing an elaborate birthday cake decorated with fresh fruit and flowers.",
-  "zh": "Mia 花了三個小時準備一個精心製作、以新鮮水果和花朵裝飾的生日蛋糕。",
+  "zh": "Mia 花了三個小時準備一個精心製作的生日蛋糕，上面用新鮮水果和花朵裝飾。",
   "target": "elaborate",
   "status": "ok",
   "note": ""
@@ -2586,7 +2586,7 @@
  {
   "id": "L5-0324",
   "en": "Students with an average grade above 85 are eligible for the school's scholarship.",
-  "zh": "平均成績在 85 分以上的學生，有資格申請學校的獎學金。",
+  "zh": "平均成績超過 85 分的學生，有資格申請學校的獎學金。",
   "target": "eligible",
   "status": "ok",
   "note": ""
@@ -2658,7 +2658,7 @@
  {
   "id": "L5-0333",
   "en": "At just twenty-two, the young entrepreneur opened her own bakery selling healthy bread.",
-  "zh": "這位年輕的企業家年僅二十二歲，就開了自己的麵包店，專賣健康麵包。",
+  "zh": "這位年輕的創業家年僅二十二歲，就開了自己的麵包店，專賣健康麵包。",
   "target": "entrepreneur",
   "status": "ok",
   "note": ""
@@ -2674,7 +2674,7 @@
  {
   "id": "L5-0335",
   "en": "Our principal envisions a green campus where students grow vegetables and plant trees together.",
-  "zh": "我們校長展望一個綠色校園，讓學生們一起種菜、種樹。",
+  "zh": "我們校長心中想像的是一座綠色校園，學生們在那裡一起種菜、種樹。",
   "target": "envisions",
   "status": "ok",
   "note": ""
@@ -2690,7 +2690,7 @@
  {
   "id": "L5-0337",
   "en": "I stayed up late last night to watch the final episode of my favorite TV drama.",
-  "zh": "我昨晚熬夜看我最喜歡的電視劇的最後一集。",
+  "zh": "我昨晚熬夜看我最喜歡的電視劇最後一集。",
   "target": "episode",
   "status": "ok",
   "note": ""
@@ -2722,7 +2722,7 @@
  {
   "id": "L5-0341",
   "en": "Workers erected a huge tent in the park for the weekend music festival.",
-  "zh": "工人們在公園裡豎立了一座巨大的帳篷，準備週末的音樂節。",
+  "zh": "工人們在公園裡搭起了一頂巨大的帳篷，準備週末的音樂節。",
   "target": "erected",
   "status": "ok",
   "note": ""
@@ -2762,7 +2762,7 @@
  {
   "id": "L5-0346",
   "en": "After his grandfather passed away, Mr. Lee received a large estate in the countryside.",
-  "zh": "祖父過世後，李先生得到鄉間一大片地產。",
+  "zh": "祖父過世後，李先生繼承了鄉間的一大片地產。",
   "target": "estate",
   "status": "ok",
   "note": ""
@@ -2866,7 +2866,7 @@
  {
   "id": "L5-0359",
   "en": "Our team carefully executed the plan, and the school fair went smoothly from start to finish.",
-  "zh": "我們團隊仔細執行計畫，校慶園遊會從頭到尾都進行得很順利。",
+  "zh": "我們團隊仔細執行計畫，學校園遊會從頭到尾都進行得很順利。",
   "target": "executed",
   "status": "ok",
   "note": ""
@@ -2890,7 +2890,7 @@
  {
   "id": "L5-0362",
   "en": "The famous poet Su Shi was sent into exile several times, yet he kept writing cheerful poems.",
-  "zh": "著名詩人蘇軾多次遭到流放，卻仍持續寫出開朗的詩作。",
+  "zh": "著名詩人蘇軾多次遭到流放，卻仍不斷寫出樂觀豁達的詩作。",
   "target": "exile",
   "status": "ok",
   "note": ""
@@ -3106,7 +3106,7 @@
  {
   "id": "L5-0389",
   "en": "When you have a fever, it's important to drink plenty of fluids and get enough rest.",
-  "zh": "發燒時，多喝水分並充分休息是很重要的。",
+  "zh": "發燒時，多補充水分並充分休息是很重要的。",
   "target": "fluids",
   "status": "ok",
   "note": ""
@@ -3194,7 +3194,7 @@
  {
   "id": "L5-0400",
   "en": "Most freight between the two islands is carried by large ships rather than airplanes.",
-  "zh": "兩座島之間的貨運大多由大型船隻而非飛機運送。",
+  "zh": "兩座島之間的貨物大多由大型船隻而非飛機運送。",
   "target": "freight",
   "status": "ok",
   "note": ""
@@ -3338,7 +3338,7 @@
  {
   "id": "L5-0418",
   "en": "Dad grilled some fish and corn in the yard for our Moon Festival barbecue.",
-  "zh": "爸爸在院子裡烤了一些魚和玉米，作為我們中秋節烤肉的菜色。",
+  "zh": "中秋節烤肉時，爸爸在院子裡烤了一些魚和玉米。",
   "target": "grilled",
   "status": "ok",
   "note": ""
@@ -3394,7 +3394,7 @@
  {
   "id": "L5-0425",
   "en": "It took four workers to haul the old piano up the stairs to the third floor.",
-  "zh": "四名工人才把那架舊鋼琴沿著樓梯拖運到三樓。",
+  "zh": "四名工人才把那架舊鋼琴沿著樓梯拖上三樓。",
   "target": "haul",
   "status": "ok",
   "note": ""
@@ -3442,7 +3442,7 @@
  {
   "id": "L5-0431",
   "en": "The highlight of our trip to Japan was watching the cherry blossoms in Kyoto.",
-  "zh": "我們日本之旅的精彩部分，是在京都賞櫻花。",
+  "zh": "我們日本之旅最精彩的部分，是在京都賞櫻花。",
   "target": "highlight",
   "status": "ok",
   "note": ""
@@ -3698,7 +3698,7 @@
  {
   "id": "L5-0463",
   "en": "Amy inherited her mother's musical talent and began playing the piano at age four.",
-  "zh": "Amy 繼承了媽媽的音樂天分，四歲就開始彈鋼琴。",
+  "zh": "Amy 遺傳了媽媽的音樂天分，四歲就開始彈鋼琴。",
   "target": "inherited",
   "status": "ok",
   "note": ""
@@ -3762,7 +3762,7 @@
  {
   "id": "L5-0471",
   "en": "Hotel staff responded quickly to my inquiry about the price of a room with an ocean view.",
-  "zh": "飯店員工很快就回覆了我對海景房價格的詢問。",
+  "zh": "我詢問海景房的價格，飯店員工很快就回覆了。",
   "target": "inquiry",
   "status": "ok",
   "note": ""
@@ -3778,7 +3778,7 @@
  {
   "id": "L5-0473",
   "en": "Talking with elderly people can give us valuable insight into what life was like in the past.",
-  "zh": "和長輩聊天能讓我們對過去的生活有寶貴的洞察。",
+  "zh": "和長輩聊天能讓我們對過去的生活有寶貴而深入的了解。",
   "target": "insight",
   "status": "ok",
   "note": ""
@@ -3858,7 +3858,7 @@
  {
   "id": "L5-0483",
   "en": "Teenagers often dislike their parents' interference in their choice of friends and clothes.",
-  "zh": "青少年通常不喜歡父母干涉他們交朋友和穿衣服的選擇。",
+  "zh": "青少年通常不喜歡父母干涉他們交什麼朋友、穿什麼衣服。",
   "target": "interference",
   "status": "ok",
   "note": ""
@@ -3922,7 +3922,7 @@
  {
   "id": "L5-0491",
   "en": "A journalist interviewed several students about their opinions on the new school uniforms.",
-  "zh": "一位記者訪問了幾名學生對新校服的看法。",
+  "zh": "一位記者訪問了幾名學生，請他們談談對新校服的看法。",
   "target": "journalist",
   "status": "ok",
   "note": ""
@@ -4218,7 +4218,7 @@
  {
   "id": "L5-0528",
   "en": "My back hurt every morning until my parents bought me a new, firmer mattress for my bed.",
-  "zh": "我每天早上都背痛，直到爸媽幫我的床買了一張較硬的新床墊。",
+  "zh": "我每天早上都背痛，直到爸媽幫我買了一張較硬的新床墊。",
   "target": "mattress",
   "status": "ok",
   "note": ""
@@ -4234,7 +4234,7 @@
  {
   "id": "L5-0530",
   "en": "Scientists are studying the mechanism that allows birds to find their way home over long distances.",
-  "zh": "科學家正在研究讓鳥類能夠長途飛行仍找到回家路的機制。",
+  "zh": "科學家正在研究讓鳥類能從遠方找到回家之路的機制。",
   "target": "mechanism",
   "status": "ok",
   "note": ""
@@ -4242,7 +4242,7 @@
  {
   "id": "L5-0531",
   "en": "The doctor told Amy to take her medication twice a day after meals for one week.",
-  "zh": "醫生告訴 Amy 一週內每天飯後服藥兩次。",
+  "zh": "醫生告訴 Amy 連續一週每天飯後服藥兩次。",
   "target": "medication",
   "status": "ok",
   "note": ""
@@ -4250,7 +4250,7 @@
  {
   "id": "L5-0532",
   "en": "Ms. Lin became my mentor in high school and taught me how to plan my study time.",
-  "zh": "林老師成了我高中時的導師，教我如何規劃讀書時間。",
+  "zh": "林老師成了我高中時的良師益友，教我如何規劃讀書時間。",
   "target": "mentor",
   "status": "ok",
   "note": ""
@@ -4434,7 +4434,7 @@
  {
   "id": "L5-0555",
   "en": "When the teacher asked him a question, Tom just mumbled an answer that nobody could hear clearly.",
-  "zh": "老師問他問題時，Tom 只是含糊地喃喃說了一個沒人聽得清楚的答案。",
+  "zh": "老師問他問題時，Tom 只是含糊地說了個答案，沒人聽得清楚。",
   "target": "mumbled",
   "status": "ok",
   "note": ""
@@ -4490,7 +4490,7 @@
  {
   "id": "L5-0562",
   "en": "The milk had gone bad and left a nasty smell in the kitchen for the whole day.",
-  "zh": "牛奶壞掉了，在廚房裡留下了一整天令人作噁的臭味。",
+  "zh": "牛奶壞掉了，讓廚房裡一整天都瀰漫著令人作噁的臭味。",
   "target": "nasty",
   "status": "ok",
   "note": ""
@@ -4530,7 +4530,7 @@
  {
   "id": "L5-0567",
   "en": "Each nominee for class leader gave a short speech explaining what she would do for the class.",
-  "zh": "每位班長被提名人都發表了簡短演說，說明她會為班上做些什麼。",
+  "zh": "每位獲提名的班長候選人都發表了簡短演說，說明自己會為班上做些什麼。",
   "target": "nominee",
   "status": "ok",
   "note": ""
@@ -4626,7 +4626,7 @@
  {
   "id": "L5-0579",
   "en": "Our team was much smaller than theirs, but against all odds, we won the championship.",
-  "zh": "我們隊的人數比他們少很多，但我們克服了極低的勝算，贏得了冠軍。",
+  "zh": "我們隊的人數比他們少很多，但我們在勝算極低的情況下，仍贏得了冠軍。",
   "target": "odds",
   "status": "ok",
   "note": ""
@@ -4642,7 +4642,7 @@
  {
   "id": "L5-0581",
   "en": "Mom makes a simple salad with tomatoes, cheese, and a little olive oil.",
-  "zh": "媽媽用番茄、起司和一點橄欖油做了一份簡單的沙拉。",
+  "zh": "媽媽會用番茄、起司和一點橄欖油做簡單的沙拉。",
   "target": "olive",
   "status": "ok",
   "note": ""
@@ -4690,7 +4690,7 @@
  {
   "id": "L5-0587",
   "en": "The weekend art class is optional, but many students choose to join because it is fun.",
-  "zh": "週末美術課是可選擇參加的，但很多學生都選擇參加，因為很有趣。",
+  "zh": "週末美術課是自由參加的，但因為很有趣，很多學生都選擇參加。",
   "target": "optional",
   "status": "ok",
   "note": ""
@@ -4706,7 +4706,7 @@
  {
   "id": "L5-0589",
   "en": "Tiny organisms in the ocean produce much of the oxygen that we breathe every day.",
-  "zh": "海洋中的微小生物產生了我們每天呼吸的大部分氧氣。",
+  "zh": "我們每天呼吸的氧氣，有很大一部分是由海洋中的微小生物產生的。",
   "target": "organisms",
   "status": "ok",
   "note": ""
@@ -4738,7 +4738,7 @@
  {
   "id": "L5-0593",
   "en": "The factory doubled its output this year by using new machines and better training.",
-  "zh": "這家工廠今年藉由使用新機器和更好的訓練，使產量翻倍。",
+  "zh": "這家工廠今年靠著新機器和更完善的訓練，讓產量翻倍。",
   "target": "output",
   "status": "ok",
   "note": ""
@@ -4770,7 +4770,7 @@
  {
   "id": "L5-0597",
   "en": "Ms. Chen will oversee the science fair and make sure that every project follows the safety rules.",
-  "zh": "陳老師將監督科展，確保每個作品都遵守安全規則。",
+  "zh": "陳老師將監督科展，確保每件作品都符合安全規定。",
   "target": "oversee",
   "status": "ok",
   "note": ""
@@ -4858,7 +4858,7 @@
  {
   "id": "L5-0608",
   "en": "The young inventor applied for a patent to protect her new design for a folding bike.",
-  "zh": "這位年輕發明家為她的新折疊腳踏車設計申請了專利，以保護她的設計。",
+  "zh": "這位年輕發明家為她的折疊腳踏車新設計申請了專利保護。",
   "target": "patent",
   "status": "ok",
   "note": ""
@@ -4866,7 +4866,7 @@
  {
   "id": "L5-0609",
   "en": "His excuse for not doing his homework was so pathetic that the whole class laughed.",
-  "zh": "他沒寫作業的藉口太可悲了，全班都笑了出來。",
+  "zh": "他沒寫作業的藉口太差勁了，全班都笑了出來。",
   "target": "pathetic",
   "status": "ok",
   "note": ""
@@ -4882,7 +4882,7 @@
  {
   "id": "L5-0611",
   "en": "The museum thanked its patrons, whose generous gifts helped pay for the new art hall.",
-  "zh": "博物館感謝它的贊助者，他們慷慨的捐贈幫助支付了新藝術館的費用。",
+  "zh": "博物館向贊助者致謝，他們慷慨的捐贈幫忙支付了新藝術館的費用。",
   "target": "patrons",
   "status": "ok",
   "note": ""
@@ -4897,8 +4897,8 @@
  },
  {
   "id": "L5-0613",
-  "en": "When riding down a steep hill, press the brake pedal gently instead of stopping suddenly.",
-  "zh": "騎下陡坡時，要輕輕踩煞車踏板，而不是突然停下。",
+  "en": "When driving down a steep hill, press the brake pedal gently instead of stopping suddenly.",
+  "zh": "開車下陡坡時，要輕輕踩煞車踏板，而不是突然停下。",
   "target": "pedal",
   "status": "ok",
   "note": "超出1–4級：gently"
@@ -4978,7 +4978,7 @@
  {
   "id": "L5-0623",
   "en": "A little pessimism can be useful, but too much of it may stop you from trying new things.",
-  "zh": "一點點悲觀也許有用，但太多悲觀可能會讓你不敢嘗試新事物。",
+  "zh": "一點點悲觀也許有用，但過度悲觀可能會讓你不敢嘗試新事物。",
   "target": "pessimism",
   "status": "ok",
   "note": ""
@@ -5105,8 +5105,8 @@
  },
  {
   "id": "L5-0639",
-  "en": "In English, most words form their plural by adding an \"s,\" but \"child\" becomes \"children.\"",
-  "zh": "在英文中，大多數字的複數是加上「s」，但「child」會變成「children」。",
+  "en": "In English, most nouns form their plural by adding an \"s,\" but \"child\" becomes \"children.\"",
+  "zh": "在英文中，大多數名詞的複數是加上「s」，但「child」會變成「children」。",
   "target": "plural",
   "status": "ok",
   "note": ""
@@ -5185,7 +5185,7 @@
  },
  {
   "id": "L5-0649",
-  "en": "Based on the preliminary results of the survey, most students prefer to start school later.",
+  "en": "According to the preliminary results of the survey, most students prefer to start school later.",
   "zh": "根據調查的初步結果，大多數學生希望晚一點上學。",
   "target": "preliminary",
   "status": "ok",
@@ -5202,7 +5202,7 @@
  {
   "id": "L5-0651",
   "en": "Japan is one of the premier places in Asia for tourists, famous for its food and hot springs.",
-  "zh": "日本是亞洲首屈一指的旅遊勝地之一，以美食和溫泉聞名。",
+  "zh": "日本是亞洲數一數二的旅遊勝地，以美食和溫泉聞名。",
   "target": "premier",
   "status": "ok",
   "note": ""
@@ -5290,7 +5290,7 @@
  {
   "id": "L5-0662",
   "en": "No prior experience is needed to join the cooking club, because the teacher will start with the basics.",
-  "zh": "參加烹飪社不需要先前的經驗，因為老師會從基礎教起。",
+  "zh": "參加烹飪社不需要事先具備經驗，因為老師會從基礎教起。",
   "target": "prior",
   "status": "ok",
   "note": ""
@@ -5314,7 +5314,7 @@
  {
   "id": "L5-0665",
   "en": "Before the interview, Mia read the company's profile on its website to learn about its history.",
-  "zh": "面試前，Mia 在公司網站上閱讀了公司的簡介，以了解它的歷史。",
+  "zh": "面試前，Mia 先上那家公司的網站閱讀簡介，以了解其歷史。",
   "target": "profile",
   "status": "ok",
   "note": ""
@@ -5362,7 +5362,7 @@
  {
   "id": "L5-0671",
   "en": "Young children are prone to catching colds because their bodies are still building up defenses.",
-  "zh": "幼童容易感冒，因為他們的身體仍在建立防禦力。",
+  "zh": "幼童容易感冒，因為他們的身體仍在建立抵抗力。",
   "target": "prone",
   "status": "ok",
   "note": ""
@@ -5370,7 +5370,7 @@
  {
   "id": "L5-0672",
   "en": "In history class, we studied how wartime propaganda posters were used to shape public opinion.",
-  "zh": "在歷史課上，我們研究了戰時的宣傳海報如何被用來影響公眾輿論。",
+  "zh": "在歷史課上，我們研究了戰時如何利用宣傳海報來影響輿論。",
   "target": "propaganda",
   "status": "ok",
   "note": "超出1–4級：wartime"
@@ -5450,7 +5450,7 @@
  {
   "id": "L5-0682",
   "en": "People in ancient Egypt built the pyramids more than four thousand years ago without modern machines.",
-  "zh": "古埃及人在四千多年前，沒有現代機器的情況下建造了金字塔。",
+  "zh": "四千多年前，古埃及人在沒有現代機器的情況下建造了金字塔。",
   "target": "pyramids",
   "status": "ok",
   "note": ""
@@ -5458,7 +5458,7 @@
  {
   "id": "L5-0683",
   "en": "To qualify for the national swimming team, students must finish the race within a set time.",
-  "zh": "學生必須在規定時間內游完比賽，才有資格進入國家游泳隊。",
+  "zh": "學生必須在規定時間內游完全程，才有資格進入國家游泳隊。",
   "target": "qualify",
   "status": "ok",
   "note": ""
@@ -5610,7 +5610,7 @@
  {
   "id": "L5-0702",
   "en": "For many teens, fantasy novels open the door to a magical realm full of dragons and wizards.",
-  "zh": "對許多青少年來說，奇幻小說開啟了一扇通往充滿龍與巫師的魔法王國的大門。",
+  "zh": "對許多青少年來說，奇幻小說開啟了一扇大門，通往充滿龍與巫師的魔法王國。",
   "target": "realm",
   "status": "ok",
   "note": ""
@@ -5690,7 +5690,7 @@
  {
   "id": "L5-0712",
   "en": "During the heavy storm, the school gym became a refuge for families who had to leave their homes.",
-  "zh": "在大暴雨期間，學校體育館成為那些被迫離家的家庭的避難所。",
+  "zh": "在大暴雨期間，學校體育館成了避難所，收容被迫離家的家庭。",
   "target": "refuge",
   "status": "ok",
   "note": ""
@@ -5722,7 +5722,7 @@
  {
   "id": "L5-0716",
   "en": "Doing practice questions every day will reinforce what you have learned in class.",
-  "zh": "每天做練習題，可以加強你在課堂上學到的東西。",
+  "zh": "每天做練習題，可以鞏固你在課堂上學到的東西。",
   "target": "reinforce",
   "status": "ok",
   "note": ""
@@ -5810,7 +5810,7 @@
  {
   "id": "L5-0727",
   "en": "Trucks are not allowed to drive through this residential area late at night.",
-  "zh": "深夜時，卡車不准行駛穿越這個住宅區。",
+  "zh": "深夜時，卡車不得穿越這個住宅區。",
   "target": "residential",
   "status": "ok",
   "note": ""
@@ -5850,7 +5850,7 @@
  {
   "id": "L5-0732",
   "en": "Most of the museum's revenue comes from ticket sales and its popular gift shop.",
-  "zh": "這間博物館的收入大部分來自門票銷售和它很受歡迎的禮品店。",
+  "zh": "這間博物館的收入大部分來自門票銷售和館內很受歡迎的禮品店。",
   "target": "revenue",
   "status": "ok",
   "note": ""
@@ -5890,7 +5890,7 @@
  {
   "id": "L5-0737",
   "en": "Wearing a winter coat to the beach in July would look ridiculous to most people.",
-  "zh": "七月穿冬季大衣去海邊，在大多數人眼裡看起來會很荒謬。",
+  "zh": "七月穿冬季大衣去海邊，在大多數人眼裡看起來會很可笑。",
   "target": "ridiculous",
   "status": "ok",
   "note": ""
@@ -5906,7 +5906,7 @@
  {
   "id": "L5-0739",
   "en": "Some students feel that the school's rigid rules leave no room for creativity or personal style.",
-  "zh": "有些學生覺得學校嚴格的規定沒有留給創意或個人風格任何空間。",
+  "zh": "有些學生覺得學校嚴格的規定讓創意和個人風格都沒有發揮的空間。",
   "target": "rigid",
   "status": "ok",
   "note": ""
@@ -5922,7 +5922,7 @@
  {
   "id": "L5-0741",
   "en": "In history class, we read news reports about a riot that broke out after food prices suddenly rose.",
-  "zh": "在歷史課上，我們讀到關於食物價格突然上漲後爆發暴動的新聞報導。",
+  "zh": "在歷史課上，我們讀了一些新聞報導，內容是糧價突然上漲後爆發的一場暴動。",
   "target": "riot",
   "status": "ok",
   "note": ""
@@ -5946,7 +5946,7 @@
  {
   "id": "L5-0744",
   "en": "Every morning, my grandmother follows the same ritual of making tea and reading the newspaper.",
-  "zh": "每天早上，我奶奶都遵循同樣的習慣儀式：泡茶和看報紙。",
+  "zh": "我奶奶每天早上都有同樣的固定習慣：泡茶和看報紙。",
   "target": "ritual",
   "status": "ok",
   "note": ""
@@ -5970,7 +5970,7 @@
  {
   "id": "L5-0747",
   "en": "For many people, this ancient tree is a sacred place where they pray for good health.",
-  "zh": "對許多人來說，這棵古樹是他們祈求健康的神聖地方。",
+  "zh": "對許多人來說，這棵古樹是他們祈求健康的神聖之地。",
   "target": "sacred",
   "status": "ok",
   "note": ""
@@ -6010,7 +6010,7 @@
  {
   "id": "L5-0752",
   "en": "On hot summer days, I prefer wearing sandals instead of shoes because my feet stay cool.",
-  "zh": "炎熱的夏天，我比較喜歡穿涼鞋而不是鞋子，因為腳可以保持涼爽。",
+  "zh": "炎熱的夏天，我比較喜歡穿涼鞋而不是包鞋，因為腳可以保持涼爽。",
   "target": "sandals",
   "status": "ok",
   "note": ""
@@ -6042,7 +6042,7 @@
  {
   "id": "L5-0756",
   "en": "In the worst-case scenario, heavy rain could close the mountain roads and cancel our school trip.",
-  "zh": "在最壞的情況下，大雨可能會使山路封閉，讓我們的校外教學取消。",
+  "zh": "在最壞的情況下，大雨可能會使山路封閉，導致我們的校外教學取消。",
   "target": "scenario",
   "status": "ok",
   "note": ""
@@ -6090,7 +6090,7 @@
  {
   "id": "L5-0762",
   "en": "The drama club spent two weeks writing the script for their play about life in old Taipei.",
-  "zh": "戲劇社花了兩週，為他們描寫舊時台北生活的戲劇撰寫劇本。",
+  "zh": "戲劇社花了兩週撰寫劇本，這齣戲描寫的是舊時台北的生活。",
   "target": "script",
   "status": "ok",
   "note": ""
@@ -6162,7 +6162,7 @@
  {
   "id": "L5-0771",
   "en": "She became sentimental and cried a little when she looked at her old photos from elementary school.",
-  "zh": "看著國小時期的舊照片，她變得多愁善感，還哭了一下。",
+  "zh": "看著國小時期的舊照片，她不禁感傷起來，還哭了一下。",
   "target": "sentimental",
   "status": "ok",
   "note": ""
@@ -6178,7 +6178,7 @@
  {
   "id": "L5-0773",
   "en": "Over the weekend, Lisa watched every episode of a popular Korean drama series on her phone.",
-  "zh": "週末時，Lisa 用手機把一部熱門韓劇系列的每一集都看完了。",
+  "zh": "週末時，Lisa 用手機把一部熱門韓劇的每一集都看完了。",
   "target": "series",
   "status": "ok",
   "note": ""
@@ -6250,7 +6250,7 @@
  {
   "id": "L5-0782",
   "en": "Wearing a hat can help shield your face and eyes from the strong summer sun.",
-  "zh": "戴帽子可以幫助保護你的臉和眼睛，不受夏天強烈陽光的傷害。",
+  "zh": "戴帽子有助於保護你的臉和眼睛，免受夏天強烈陽光的傷害。",
   "target": "shield",
   "status": "ok",
   "note": ""
@@ -6314,7 +6314,7 @@
  {
   "id": "L5-0790",
   "en": "This museum displays the complete skeleton of a dinosaur that lived millions of years ago.",
-  "zh": "這間博物館展示了一副數百萬年前恐龍的完整骨骼。",
+  "zh": "這間博物館展示了一副數千萬年前恐龍的完整骨骼。",
   "target": "skeleton",
   "status": "ok",
   "note": ""
@@ -6770,7 +6770,7 @@
  {
   "id": "L5-0847",
   "en": "The trash can in the kitchen began to stink after we forgot to empty it for a week.",
-  "zh": "我們忘了倒廚房的垃圾桶一整個星期，它開始發臭了。",
+  "zh": "我們一整個星期都忘了倒廚房的垃圾，結果垃圾桶開始發臭了。",
   "target": "stink",
   "status": "ok",
   "note": ""
@@ -6794,7 +6794,7 @@
  {
   "id": "L5-0850",
   "en": "Before the exam, our teacher asked us to straighten the desks into neat rows.",
-  "zh": "考試前，老師要我們把桌子排直，排成整齊的一行行。",
+  "zh": "考試前，老師要我們把桌子擺直，排成整齊的一排排。",
   "target": "straighten",
   "status": "ok",
   "note": ""
@@ -6834,7 +6834,7 @@
  {
   "id": "L5-0855",
   "en": "The new train station was built in a strategic location close to schools, hospitals, and shops.",
-  "zh": "新火車站建在靠近學校、醫院和商店的策略性位置。",
+  "zh": "新火車站蓋在經過策略考量的地點，鄰近學校、醫院和商店。",
   "target": "strategic",
   "status": "ok",
   "note": ""
@@ -6890,7 +6890,7 @@
  {
   "id": "L5-0862",
   "en": "The government offers a subsidy to families who buy electric scooters instead of gas ones.",
-  "zh": "政府提供補助給購買電動機車、而非燃油機車的家庭。",
+  "zh": "政府提供補助給購買電動機車而非燃油機車的家庭。",
   "target": "subsidy",
   "status": "ok",
   "note": ""
@@ -6954,7 +6954,7 @@
  {
   "id": "L5-0870",
   "en": "An old superstition says that breaking a mirror brings seven years of bad luck.",
-  "zh": "一個古老的迷信說，打破鏡子會帶來七年的厄運。",
+  "zh": "有個古老的迷信說，打破鏡子會帶來七年的厄運。",
   "target": "superstition",
   "status": "ok",
   "note": ""
@@ -7026,7 +7026,7 @@
  {
   "id": "L5-0879",
   "en": "Eating a healthy breakfast helps sustain your energy throughout the morning at school.",
-  "zh": "吃一頓健康的早餐，有助於在學校的整個上午維持你的精力。",
+  "zh": "吃一頓健康的早餐，有助於你在學校一整個上午都維持精力。",
   "target": "sustain",
   "status": "ok",
   "note": ""
@@ -7082,7 +7082,7 @@
  {
   "id": "L5-0886",
   "en": "Our coach changed tactics in the second half, and we finally scored two goals.",
-  "zh": "教練在下半場改變策略，我們終於進了兩球。",
+  "zh": "教練在下半場改變戰術，我們終於進了兩球。",
   "target": "tactics",
   "status": "ok",
   "note": ""
@@ -7354,7 +7354,7 @@
  {
   "id": "L5-0920",
   "en": "Many people in Taipei rely on public transit, such as the MRT and buses, to get to work.",
-  "zh": "台北許多人仰賴大眾運輸，例如捷運和公車來通勤上班。",
+  "zh": "台北許多人仰賴捷運、公車等大眾運輸通勤上班。",
   "target": "transit",
   "status": "ok",
   "note": ""
@@ -7410,7 +7410,7 @@
  {
   "id": "L5-0927",
   "en": "Stress and lack of sleep are two common things that can trigger headaches in teenagers.",
-  "zh": "壓力和睡眠不足是兩個常見會引發青少年頭痛的因素。",
+  "zh": "壓力和睡眠不足是兩個可能引發青少年頭痛的常見因素。",
   "target": "trigger",
   "status": "ok",
   "note": ""
@@ -7530,7 +7530,7 @@
  {
   "id": "L5-0942",
   "en": "If you make a mistake while typing, press these two keys to undo it.",
-  "zh": "打字時如果出錯，按下這兩個鍵就能取消。",
+  "zh": "打字時如果出錯，按下這兩個鍵就能復原。",
   "target": "undo",
   "status": "ok",
   "note": ""
@@ -7602,7 +7602,7 @@
  {
   "id": "L5-0951",
   "en": "Farmers in this village utilize rain stored in large tanks to water their crops in the dry season.",
-  "zh": "這個村子的農民在乾季時，利用儲存在大水槽裡的雨水灌溉農作物。",
+  "zh": "這個村子的農民在乾季時，利用儲存在大型蓄水桶裡的雨水灌溉農作物。",
   "target": "utilize",
   "status": "ok",
   "note": ""
@@ -7882,7 +7882,7 @@
  {
   "id": "L5-0986",
   "en": "The new library has elevators and wide doors so that people in wheelchairs can enter easily.",
-  "zh": "新圖書館設有電梯和寬敞的門，讓坐輪椅的人能輕鬆進出。",
+  "zh": "新圖書館設有電梯和寬大的門，讓坐輪椅的人能輕鬆進出。",
   "target": "wheelchairs",
   "status": "ok",
   "note": ""

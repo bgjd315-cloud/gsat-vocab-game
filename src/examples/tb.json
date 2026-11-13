@@ -5,7 +5,7 @@
   "pos": "adj.",
   "zh": "完美的",
   "en": "The weather was perfect for our class picnic at the park last Saturday.",
-  "exzh": "上週六的天氣對我們班在公園的野餐來說再完美不過了。",
+  "exzh": "上週六我們班到公園野餐，天氣再完美不過了。",
   "target": "perfect",
   "status": "ok",
   "note": ""
@@ -16,7 +16,7 @@
   "pos": "adv.",
   "zh": "意外地；不小心地",
   "en": "Amy accidentally dropped her phone into the sink while washing the dishes.",
-  "exzh": "Amy洗碗時不小心把手機掉進了水槽。",
+  "exzh": "Amy 洗碗時不小心把手機掉進了水槽。",
   "target": "accidentally",
   "status": "ok",
   "note": ""
@@ -27,7 +27,7 @@
   "pos": "adj.",
   "zh": "尷尬的；難為情的",
   "en": "Ben felt embarrassed when his shoes made a loud noise in the quiet library.",
-  "exzh": "Ben的鞋子在安靜的圖書館裡發出很大的聲音，讓他覺得很尷尬。",
+  "exzh": "Ben 的鞋子在安靜的圖書館裡發出很大的聲音，讓他覺得很尷尬。",
   "target": "embarrassed",
   "status": "ok",
   "note": ""
@@ -38,7 +38,7 @@
   "pos": "adj.",
   "zh": "沮喪的；憂鬱的",
   "en": "Lisa was depressed after she failed the math quiz again.",
-  "exzh": "Lisa數學小考又不及格，之後心情很沮喪。",
+  "exzh": "Lisa 數學小考又不及格，之後心情很沮喪。",
   "target": "depressed",
   "status": "ok",
   "note": ""
@@ -49,7 +49,7 @@
   "pos": "v.",
   "zh": "了解；領悟",
   "en": "Kevin suddenly realized that he had left his lunch box on the bus.",
-  "exzh": "Kevin突然意識到自己把便當盒忘在公車上了。",
+  "exzh": "Kevin 突然意識到自己把便當盒忘在公車上了。",
   "target": "realized",
   "status": "ok",
   "note": ""
@@ -59,7 +59,7 @@
   "word": "traditional",
   "pos": "adj.",
   "zh": "傳統的",
-  "en": "On Dragon Boat Festival, my grandmother makes traditional rice dumplings for the whole family.",
+  "en": "On the Dragon Boat Festival, my grandmother makes traditional rice dumplings for the whole family.",
   "exzh": "端午節時，奶奶會為全家人做傳統的粽子。",
   "target": "traditional",
   "status": "ok",
@@ -80,7 +80,7 @@
   "id": "T-0008",
   "word": "satisfying",
   "pos": "adj.",
-  "zh": "令人滿意的",
+  "zh": "令人滿意的；令人滿足的",
   "en": "Finishing a long project and handing it in on time is a satisfying feeling.",
   "exzh": "完成一份很長的專題並準時交出去，是一種令人滿足的感覺。",
   "target": "satisfying",
@@ -93,7 +93,7 @@
   "pos": "v.",
   "zh": "介紹；引進",
   "en": "At the first club meeting, Amy will introduce the new members to everyone.",
-  "exzh": "在第一次社團聚會上，Amy會向大家介紹新社員。",
+  "exzh": "在第一次社團聚會上，Amy 會向大家介紹新社員。",
   "target": "introduce",
   "status": "ok",
   "note": ""
@@ -104,7 +104,7 @@
   "pos": "n.",
   "zh": "訊息；留言",
   "en": "Ben left a short message on the board to tell us the meeting time.",
-  "exzh": "Ben在布告欄上留了一則簡短的訊息，告訴我們開會時間。",
+  "exzh": "Ben 在布告欄上留了一則簡短的訊息，告訴我們開會時間。",
   "target": "message",
   "status": "ok",
   "note": ""
@@ -115,7 +115,7 @@
   "pos": "v.",
   "zh": "專注；集中",
   "en": "Kevin put his phone away so he could focus on his English homework.",
-  "exzh": "Kevin把手機收起來，這樣才能專心寫英文作業。",
+  "exzh": "Kevin 把手機收起來，這樣才能專心寫英文作業。",
   "target": "focus",
   "status": "ok",
   "note": ""
@@ -126,7 +126,7 @@
   "pos": "v.",
   "zh": "忽視；不理會",
   "en": "Lisa tried to ignore the noise from the street and kept studying.",
-  "exzh": "Lisa試著不理會街上的噪音，繼續讀書。",
+  "exzh": "Lisa 試著不理會街上的噪音，繼續讀書。",
   "target": "ignore",
   "status": "ok",
   "note": ""
@@ -148,7 +148,7 @@
   "pos": "adj.",
   "zh": "失望的",
   "en": "Amy was disappointed because the basketball game was canceled by the rain.",
-  "exzh": "Amy很失望，因為籃球賽被大雨取消了。",
+  "exzh": "Amy 很失望，因為籃球賽被大雨取消了。",
   "target": "disappointed",
   "status": "ok",
   "note": ""
@@ -181,7 +181,7 @@
   "pos": "adv.",
   "zh": "因此；所以",
   "en": "Ben was sick yesterday; therefore, he missed the whole day of school.",
-  "exzh": "Ben昨天生病了，因此整天都沒去上學。",
+  "exzh": "Ben 昨天生病了，因此整天都沒去上學。",
   "target": "therefore",
   "status": "ok",
   "note": ""
@@ -192,7 +192,7 @@
   "pos": "v.",
   "zh": "避免；躲開",
   "en": "Kevin took a different road to avoid the heavy traffic near the school.",
-  "exzh": "Kevin改走另一條路，以避開學校附近的塞車。",
+  "exzh": "Kevin 改走另一條路，以避開學校附近的塞車。",
   "target": "avoid",
   "status": "ok",
   "note": ""
@@ -236,7 +236,7 @@
   "pos": "n.",
   "zh": "項目；物品",
   "en": "Lisa checked every item on her list before leaving for the school trip.",
-  "exzh": "Lisa在出發去校外教學前，檢查了清單上的每一個項目。",
+  "exzh": "Lisa 在出發去校外教學前，檢查了清單上的每一個項目。",
   "target": "item",
   "status": "ok",
   "note": ""
@@ -247,7 +247,7 @@
   "pos": "adj.",
   "zh": "被感染的",
   "en": "The nurse told Amy to clean the infected finger with water and then cover it with a bandage.",
-  "exzh": "護理師要Amy用清水清洗那根受感染的手指，再包上繃帶。",
+  "exzh": "護理師要 Amy 用清水清洗那根受感染的手指，再包上繃帶。",
   "target": "infected",
   "status": "ok",
   "note": ""
@@ -269,7 +269,7 @@
   "pos": "adj.",
   "zh": "完整的；全部的",
   "en": "Ben bought the complete set of science books for his little brother.",
-  "exzh": "Ben為弟弟買了整套完整的科學書。",
+  "exzh": "Ben 為弟弟買了全套的科學書。",
   "target": "complete",
   "status": "ok",
   "note": ""
@@ -302,7 +302,7 @@
   "pos": "adv.",
   "zh": "顯然地；明顯地",
   "en": "Kevin obviously studied hard, because he got every answer right on the test.",
-  "exzh": "Kevin顯然很用功，因為他考試每一題都答對。",
+  "exzh": "Kevin 顯然很用功，因為他考試每一題都答對。",
   "target": "obviously",
   "status": "ok",
   "note": ""
@@ -324,7 +324,7 @@
   "pos": "n.",
   "zh": "環境",
   "en": "Lisa joined a club that cleans the beach to protect the environment.",
-  "exzh": "Lisa參加了一個清理海灘的社團來保護環境。",
+  "exzh": "Lisa 參加了一個清理海灘的社團來保護環境。",
   "target": "environment",
   "status": "ok",
   "note": ""
@@ -335,7 +335,7 @@
   "pos": "adv.",
   "zh": "適當地；正確地",
   "en": "Amy washed her hands properly before helping her mother cook dinner.",
-  "exzh": "Amy在幫媽媽煮晚餐前，把手好好地洗乾淨。",
+  "exzh": "Amy 在幫媽媽煮晚餐前，把手好好地洗乾淨。",
   "target": "properly",
   "status": "ok",
   "note": ""
@@ -345,8 +345,8 @@
   "word": "freedom",
   "pos": "n.",
   "zh": "自由",
-  "en": "Ben likes the freedom of choosing his own club activities after school.",
-  "exzh": "Ben喜歡放學後可以自由選擇社團活動。",
+  "en": "Ben likes the freedom to choose his own club activities after school.",
+  "exzh": "Ben 喜歡放學後可以自由選擇社團活動。",
   "target": "freedom",
   "status": "ok",
   "note": ""
@@ -357,7 +357,7 @@
   "pos": "adv.",
   "zh": "堅定地；牢牢地",
   "en": "Kevin held the rope firmly while his friend climbed up the wall.",
-  "exzh": "朋友攀爬岩壁時，Kevin牢牢地抓住繩子。",
+  "exzh": "朋友攀爬岩壁時，Kevin 牢牢地抓住繩子。",
   "target": "firmly",
   "status": "ok",
   "note": ""
@@ -379,7 +379,7 @@
   "pos": "adj.",
   "zh": "不公平的",
   "en": "Lisa thought it was unfair that only some students could use the new room.",
-  "exzh": "Lisa覺得只有部分學生能使用新教室很不公平。",
+  "exzh": "Lisa 覺得只有部分學生能使用新教室很不公平。",
   "target": "unfair",
   "status": "ok",
   "note": ""
@@ -401,7 +401,7 @@
   "pos": "n.",
   "zh": "樂器；器具",
   "en": "Amy plays the violin, and it is her favorite instrument.",
-  "exzh": "Amy會拉小提琴，那是她最喜愛的樂器。",
+  "exzh": "Amy 會拉小提琴，那是她最喜愛的樂器。",
   "target": "instrument",
   "status": "ok",
   "note": ""
@@ -412,7 +412,7 @@
   "pos": "v.",
   "zh": "收到；接受",
   "en": "Ben was happy to receive a letter from his friend in Canada.",
-  "exzh": "Ben很高興收到加拿大朋友寄來的信。",
+  "exzh": "Ben 很高興收到加拿大朋友寄來的信。",
   "target": "receive",
   "status": "ok",
   "note": ""
@@ -423,7 +423,7 @@
   "pos": "adv.",
   "zh": "同樣地；相似地",
   "en": "Amy likes swimming; similarly, her sister enjoys water sports.",
-  "exzh": "Amy喜歡游泳，同樣地，她姊姊也喜歡水上運動。",
+  "exzh": "Amy 喜歡游泳，同樣地，她姊姊也喜歡水上運動。",
   "target": "similarly",
   "status": "ok",
   "note": ""
@@ -434,7 +434,7 @@
   "pos": "v.",
   "zh": "瞄準；旨在",
   "en": "Kevin took a deep breath and aimed carefully at the center of the target.",
-  "exzh": "Kevin深吸一口氣，仔細瞄準靶心。",
+  "exzh": "Kevin 深吸一口氣，仔細瞄準靶心。",
   "target": "aimed",
   "status": "ok",
   "note": ""
@@ -445,7 +445,7 @@
   "pos": "n.",
   "zh": "提議；提供",
   "en": "Lisa gladly accepted her neighbor's offer to drive her to the station.",
-  "exzh": "Lisa欣然接受鄰居開車送她去車站的提議。",
+  "exzh": "Lisa 欣然接受鄰居開車送她去車站的提議。",
   "target": "offer",
   "status": "ok",
   "note": ""
@@ -456,7 +456,7 @@
   "pos": "n.",
   "zh": "顧客",
   "en": "At my part-time job, I always greet each customer with a smile.",
-  "exzh": "在我的兼職工作中，我總是微笑著招呼每一位顧客。",
+  "exzh": "我打工時，總是微笑著招呼每一位顧客。",
   "target": "customer",
   "status": "ok",
   "note": ""
@@ -467,7 +467,7 @@
   "pos": "adv.",
   "zh": "最後；終於",
   "en": "After many tries, Ben eventually learned how to ride a bike.",
-  "exzh": "試了很多次之後，Ben終於學會騎腳踏車了。",
+  "exzh": "試了很多次之後，Ben 終於學會騎腳踏車了。",
   "target": "eventually",
   "status": "ok",
   "note": ""
@@ -489,7 +489,7 @@
   "pos": "adj.",
   "zh": "聰明的；機靈的",
   "en": "Amy is a clever girl who can solve difficult puzzles very quickly.",
-  "exzh": "Amy是個聰明的女孩，能很快解開困難的謎題。",
+  "exzh": "Amy 是個聰明的女孩，能很快解開困難的謎題。",
   "target": "clever",
   "status": "ok",
   "note": ""
@@ -500,7 +500,7 @@
   "pos": "adj.",
   "zh": "詳細的",
   "en": "Kevin wrote a detailed report about how plants grow in different light.",
-  "exzh": "Kevin寫了一份詳細的報告，說明植物在不同光線下如何生長。",
+  "exzh": "Kevin 寫了一份詳細的報告，說明植物在不同光線下如何生長。",
   "target": "detailed",
   "status": "ok",
   "note": ""
@@ -511,7 +511,7 @@
   "pos": "v.",
   "zh": "表達；表示",
   "en": "Lisa found it hard to express her feelings in English at first.",
-  "exzh": "Lisa起初覺得很難用英文表達自己的感受。",
+  "exzh": "Lisa 起初覺得很難用英文表達自己的感受。",
   "target": "express",
   "status": "ok",
   "note": ""
@@ -522,7 +522,7 @@
   "pos": "n.",
   "zh": "意見；看法",
   "en": "Ben asked his classmates for their opinion about the school trip plan.",
-  "exzh": "Ben詢問同學們對校外教學計畫的意見。",
+  "exzh": "Ben 詢問同學們對校外教學計畫的意見。",
   "target": "opinion",
   "status": "ok",
   "note": ""
@@ -533,7 +533,7 @@
   "pos": "n.",
   "zh": "努力；心力",
   "en": "Amy put a lot of effort into practicing for the school dance contest.",
-  "exzh": "Amy為了學校的舞蹈比賽投入了很多心力練習。",
+  "exzh": "Amy 為了學校的舞蹈比賽投入了很多心力練習。",
   "target": "effort",
   "status": "ok",
   "note": ""
@@ -555,7 +555,7 @@
   "pos": "n.",
   "zh": "文化",
   "en": "Kevin joined the exchange program to learn about the culture of Japan.",
-  "exzh": "Kevin參加交換計畫，以了解日本的文化。",
+  "exzh": "Kevin 參加交換計畫，以了解日本的文化。",
   "target": "culture",
   "status": "ok",
   "note": ""
@@ -566,7 +566,7 @@
   "pos": "adj.",
   "zh": "珍貴的；有價值的",
   "en": "Lisa keeps her grandfather's old watch because it is very valuable to her.",
-  "exzh": "Lisa保存著爺爺的舊手錶，因為對她來說非常珍貴。",
+  "exzh": "Lisa 保存著爺爺的舊手錶，因為對她來說非常珍貴。",
   "target": "valuable",
   "status": "ok",
   "note": ""
@@ -588,7 +588,7 @@
   "pos": "adj.",
   "zh": "每日的；日常的",
   "en": "Ben writes a few sentences in his daily diary before going to bed.",
-  "exzh": "Ben睡前會在他的日記裡寫幾句話。",
+  "exzh": "Ben 每天睡前都會在日記裡寫幾句話。",
   "target": "daily",
   "status": "ok",
   "note": ""
@@ -610,7 +610,7 @@
   "pos": "n.",
   "zh": "差異；不同",
   "en": "Amy could see a big difference between the two science experiments.",
-  "exzh": "Amy看得出這兩個自然科實驗之間有很大的差異。",
+  "exzh": "Amy 看得出這兩個自然科實驗之間有很大的差異。",
   "target": "difference",
   "status": "ok",
   "note": ""
@@ -632,7 +632,7 @@
   "pos": "v.",
   "zh": "改善；改進",
   "en": "Lisa listens to English songs every day to improve her listening skills.",
-  "exzh": "Lisa每天聽英文歌來提升她的聽力。",
+  "exzh": "Lisa 每天聽英文歌來提升她的聽力。",
   "target": "improve",
   "status": "ok",
   "note": ""
@@ -643,7 +643,7 @@
   "pos": "adv.",
   "zh": "實際上；其實",
   "en": "Kevin looks quiet, but he actually loves telling jokes to his friends.",
-  "exzh": "Kevin看起來很安靜，其實他很愛對朋友講笑話。",
+  "exzh": "Kevin 看起來很安靜，其實他很愛對朋友講笑話。",
   "target": "actually",
   "status": "ok",
   "note": ""
@@ -654,7 +654,7 @@
   "pos": "n.",
   "zh": "目標",
   "en": "Ben's goal this year is to finish a ten-kilometer run with his team.",
-  "exzh": "Ben今年的目標是和隊友一起跑完十公里。",
+  "exzh": "Ben 今年的目標是和隊友一起跑完十公里。",
   "target": "goal",
   "status": "ok",
   "note": ""
@@ -665,7 +665,7 @@
   "pos": "adj.",
   "zh": "普通的；平凡的",
   "en": "It was an ordinary Monday, but Amy got a surprise gift from her friend.",
-  "exzh": "那只是個平凡的星期一，但Amy卻收到朋友送的驚喜禮物。",
+  "exzh": "那只是個平凡的星期一，但 Amy 卻收到朋友送的驚喜禮物。",
   "target": "ordinary",
   "status": "ok",
   "note": ""
@@ -698,7 +698,7 @@
   "pos": "v.",
   "zh": "記錄；錄下",
   "en": "Lisa used her phone to record the teacher's explanation of the experiment.",
-  "exzh": "Lisa用手機錄下老師對實驗的講解。",
+  "exzh": "Lisa 用手機錄下老師對實驗的講解。",
   "target": "record",
   "status": "ok",
   "note": ""
@@ -709,7 +709,7 @@
   "pos": "n.",
   "zh": "成功",
   "en": "Kevin believes that hard work is the key to success in school.",
-  "exzh": "Kevin相信努力是在學校成功的關鍵。",
+  "exzh": "Kevin 相信努力是學業成功的關鍵。",
   "target": "success",
   "status": "ok",
   "note": ""
@@ -720,7 +720,7 @@
   "pos": "n.",
   "zh": "疼痛；痛苦",
   "en": "Ben felt a sharp pain in his leg after the soccer game.",
-  "exzh": "Ben踢完足球賽後，腿部感到一陣劇痛。",
+  "exzh": "Ben 踢完足球賽後，腿部感到一陣劇痛。",
   "target": "pain",
   "status": "ok",
   "note": ""
@@ -731,7 +731,7 @@
   "pos": "adv.",
   "zh": "立刻；馬上",
   "en": "When the bell rang, Amy immediately packed her bag and ran outside.",
-  "exzh": "鈴聲一響，Amy立刻收好書包跑了出去。",
+  "exzh": "鈴聲一響，Amy 立刻收好書包跑了出去。",
   "target": "immediately",
   "status": "ok",
   "note": ""
@@ -753,7 +753,7 @@
   "pos": "n.",
   "zh": "支持；支援",
   "en": "Lisa's parents gave her strong support when she joined the science contest.",
-  "exzh": "Lisa參加科學競賽時，父母給了她很大的支持。",
+  "exzh": "Lisa 參加科學競賽時，父母給了她很大的支持。",
   "target": "support",
   "status": "ok",
   "note": ""
@@ -775,7 +775,7 @@
   "pos": "n.",
   "zh": "壓力",
   "en": "Kevin felt a lot of pressure before the big English exam.",
-  "exzh": "大型英文考試前，Kevin感到壓力很大。",
+  "exzh": "英文大考前，Kevin 感到壓力很大。",
   "target": "pressure",
   "status": "ok",
   "note": ""
@@ -786,7 +786,7 @@
   "pos": "adv.",
   "zh": "通常；正常地",
   "en": "Amy normally gets up at six, but today she slept until seven.",
-  "exzh": "Amy通常六點起床，但今天睡到了七點。",
+  "exzh": "Amy 通常六點起床，但今天睡到了七點。",
   "target": "normally",
   "status": "ok",
   "note": ""
@@ -797,7 +797,7 @@
   "pos": "adv.",
   "zh": "準確地；正確地",
   "en": "Ben measured the water accurately so that his experiment would work well.",
-  "exzh": "Ben把水量得很精準，好讓他的實驗順利進行。",
+  "exzh": "Ben 把水量得很精準，好讓他的實驗順利進行。",
   "target": "accurately",
   "status": "ok",
   "note": ""
@@ -808,7 +808,7 @@
   "pos": "v.",
   "zh": "責怪；歸咎於",
   "en": "Don't blame Kevin for the broken window; it was an accident.",
-  "exzh": "別為了破掉的窗戶責怪Kevin，那只是意外。",
+  "exzh": "別為了破掉的窗戶責怪 Kevin，那只是意外。",
   "target": "blame",
   "status": "ok",
   "note": ""
@@ -852,7 +852,7 @@
   "pos": "adj.",
   "zh": "愉快的；宜人的",
   "en": "We had a pleasant walk along the river after the exam.",
-  "exzh": "考完試後，我們沿著河邊度過了愉快的散步時光。",
+  "exzh": "考完試後，我們沿著河邊愉快地散步。",
   "target": "pleasant",
   "status": "ok",
   "note": ""
@@ -863,7 +863,7 @@
   "pos": "adv.",
   "zh": "拚命地；絕望地",
   "en": "Amy desperately searched her bag for the ticket before the bus left.",
-  "exzh": "公車開走前，Amy拚命地在書包裡找車票。",
+  "exzh": "公車開走前，Amy 拚命地在書包裡找車票。",
   "target": "desperately",
   "status": "ok",
   "note": ""
@@ -874,7 +874,7 @@
   "pos": "adv.",
   "zh": "不情願地；勉強地",
   "en": "Ben reluctantly got up early to help his father at the market.",
-  "exzh": "Ben勉強地早起去市場幫爸爸的忙。",
+  "exzh": "Ben 勉強地早起去市場幫爸爸的忙。",
   "target": "reluctantly",
   "status": "ok",
   "note": ""
@@ -885,7 +885,7 @@
   "pos": "v.",
   "zh": "描述；形容",
   "en": "Lisa tried to describe the beautiful lake she saw on the trip.",
-  "exzh": "Lisa試著描述她在旅行中看到的美麗湖泊。",
+  "exzh": "Lisa 試著描述她在旅行中看到的美麗湖泊。",
   "target": "describe",
   "status": "ok",
   "note": ""
@@ -907,7 +907,7 @@
   "pos": "adv.",
   "zh": "幾乎不",
   "en": "Kevin was so tired after practice that he could hardly keep his eyes open.",
-  "exzh": "Kevin練習完累到幾乎睜不開眼睛。",
+  "exzh": "Kevin 練習完累到幾乎睜不開眼睛。",
   "target": "hardly",
   "status": "ok",
   "note": ""
@@ -983,7 +983,7 @@
   "word": "recover",
   "pos": "v.",
   "zh": "恢復；康復",
-  "en": "Lisa needs two weeks to recover from her broken leg before playing basketball.",
+  "en": "Lisa needs two weeks to recover from her leg injury before playing basketball.",
   "exzh": "Lisa 需要兩週時間從腿傷中復原，才能再打籃球。",
   "target": "recover",
   "status": "ok",
@@ -1006,7 +1006,7 @@
   "pos": "adv.",
   "zh": "一貫地；始終如一地",
   "en": "Amy consistently gets up at six to review her lessons before school.",
-  "exzh": "Amy 總是在六點起床，於上學前複習功課。",
+  "exzh": "Amy 一向六點起床，趁上學前複習功課。",
   "target": "consistently",
   "status": "ok",
   "note": ""
@@ -1037,9 +1037,9 @@
   "id": "T-0095",
   "word": "purposely",
   "pos": "adv.",
-  "zh": "故意地",
+  "zh": "故意地；特意地",
   "en": "Ben purposely sat in the front row so he could see the board clearly.",
-  "exzh": "Ben 故意坐在第一排，這樣才能把黑板看清楚。",
+  "exzh": "Ben 特意坐在第一排，這樣才能把黑板看清楚。",
   "target": "purposely",
   "status": "ok",
   "note": ""
@@ -1192,8 +1192,8 @@
   "word": "spirit",
   "pos": "n.",
   "zh": "精神；心靈",
-  "en": "Our team kept a strong spirit even though we lost the baseball game.",
-  "exzh": "雖然我們輸了棒球比賽，團隊仍保持著堅強的精神。",
+  "en": "Our team showed great spirit even though we lost the baseball game.",
+  "exzh": "雖然我們輸了棒球比賽，團隊仍展現出堅強的精神。",
   "target": "spirit",
   "status": "ok",
   "note": ""
@@ -1204,7 +1204,7 @@
   "pos": "adj.",
   "zh": "一般的；大致的",
   "en": "Mr. Chen gave us a general idea of the test before class ended.",
-  "exzh": "陳老師在下課前給我們說明了考試的大致內容。",
+  "exzh": "陳老師在下課前向我們說明了考試的大致內容。",
   "target": "general",
   "status": "ok",
   "note": ""
@@ -1225,8 +1225,8 @@
   "word": "digitally",
   "pos": "adv.",
   "zh": "以數位方式",
-  "en": "Amy digitally signed up for the English contest on the school website.",
-  "exzh": "Amy 在學校網站上以數位方式報名了英文比賽。",
+  "en": "Grandpa's old photos are now stored digitally on Dad's computer.",
+  "exzh": "爺爺的老照片現在都以數位方式存放在爸爸的電腦裡。",
   "target": "digitally",
   "status": "ok",
   "note": ""
@@ -1237,7 +1237,7 @@
   "pos": "adv.",
   "zh": "不斷地；經常地",
   "en": "My little brother constantly asks me to play video games with him.",
-  "exzh": "我弟弟老是不斷要我陪他打電動。",
+  "exzh": "我弟弟老是要我陪他打電動。",
   "target": "constantly",
   "status": "ok",
   "note": ""
@@ -1259,7 +1259,7 @@
   "pos": "adv.",
   "zh": "通常；典型地",
   "en": "Typically, Ben eats a bowl of noodles for lunch in the school cafeteria.",
-  "exzh": "Ben 通常在學校餐廳午餐吃一碗麵。",
+  "exzh": "Ben 午餐通常在學校餐廳吃一碗麵。",
   "target": "Typically",
   "status": "ok",
   "note": ""
@@ -1303,7 +1303,7 @@
   "pos": "adj.",
   "zh": "非常飢餓的",
   "en": "Kevin was starving after the long basketball practice, so he ate three rice balls.",
-  "exzh": "長時間的籃球練習後 Kevin 餓壞了，所以吃了三個飯糰。",
+  "exzh": "長時間的籃球練習後，Kevin 餓壞了，所以吃了三個飯糰。",
   "target": "starving",
   "status": "ok",
   "note": ""
@@ -1411,7 +1411,7 @@
   "id": "T-0129",
   "word": "liquid",
   "pos": "adj.",
-  "zh": "液體的",
+  "zh": "液態的；液體的",
   "en": "In science class, we watched the liquid metal slowly turn into a solid.",
   "exzh": "在自然課上，我們看著液態金屬慢慢變成固體。",
   "target": "liquid",
@@ -1446,7 +1446,7 @@
   "pos": "v.",
   "zh": "限制",
   "en": "Mom decided to limit my screen time to one hour on school nights.",
-  "exzh": "媽媽決定把我上學日晚上的使用螢幕時間限制在一小時內。",
+  "exzh": "媽媽決定把我上學日晚上的螢幕使用時間限制在一小時內。",
   "target": "limit",
   "status": "ok",
   "note": ""
@@ -1522,8 +1522,8 @@
   "word": "collaborate",
   "pos": "v.",
   "zh": "合作；協力",
-  "en": "Amy and Ben collaborate on a science project about solar energy.",
-  "exzh": "Amy 和 Ben 合作進行一項關於太陽能的自然科專題。",
+  "en": "Amy and Ben will collaborate on a science project about solar energy.",
+  "exzh": "Amy 和 Ben 將合作進行一項關於太陽能的自然科專題。",
   "target": "collaborate",
   "status": "ok",
   "note": ""
@@ -1765,7 +1765,7 @@
   "pos": "n.",
   "zh": "人群；群眾",
   "en": "A throng of students waited outside the gym to buy tickets for the concert.",
-  "exzh": "一大群學生在體育館外排隊等著買音樂會的票。",
+  "exzh": "一大群學生擠在體育館外等著買音樂會的票。",
   "target": "throng",
   "status": "ok",
   "note": ""
@@ -1787,7 +1787,7 @@
   "pos": "adv.",
   "zh": "熱情地；熱烈地",
   "en": "The whole class clapped enthusiastically when Lisa finished her speech.",
-  "exzh": "Lisa 講完演講時，全班熱烈地鼓掌。",
+  "exzh": "Lisa 演講結束時，全班熱烈地鼓掌。",
   "target": "enthusiastically",
   "status": "ok",
   "note": ""
@@ -1820,7 +1820,7 @@
   "pos": "v.",
   "zh": "彎曲；收縮（肌肉）",
   "en": "Kevin likes to flex his arm muscles after lifting weights at the gym.",
-  "exzh": "Kevin 在健身房舉完重量後，喜歡彎曲手臂展示肌肉。",
+  "exzh": "Kevin 在健身房練完舉重後，喜歡彎曲手臂展示肌肉。",
   "target": "flex",
   "status": "ok",
   "note": ""
@@ -1864,7 +1864,7 @@
   "pos": "n.",
   "zh": "蜂群崩潰失調症",
   "en": "Our biology teacher said colony collapse disorder is making many bee hives suddenly die out.",
-  "exzh": "我們的生物老師解釋說，蜂群崩潰失調症正導致許多蜂巢突然死亡。",
+  "exzh": "我們的生物老師說，蜂群崩潰失調症正導致許多蜂群突然死亡。",
   "target": "colony collapse disorder",
   "status": "ok",
   "note": ""
@@ -1919,7 +1919,7 @@
   "pos": "adj.",
   "zh": "負責任的；應負責的",
   "en": "Mr. Chen said Kevin is responsible for cleaning the science lab this week.",
-  "exzh": "Mr. Chen 說這週 Kevin 負責打掃自然科實驗室。",
+  "exzh": "陳老師說這週 Kevin 負責打掃自然科實驗室。",
   "target": "responsible",
   "status": "ok",
   "note": ""
@@ -1974,7 +1974,7 @@
   "pos": "v.",
   "zh": "投射；放映",
   "en": "Mr. Lin used a small machine to project the science video onto the classroom wall.",
-  "exzh": "Mr. Lin 用一台小機器把自然科影片投射到教室牆上。",
+  "exzh": "林老師用一台小機器把自然科影片投射到教室牆上。",
   "target": "project",
   "status": "ok",
   "note": ""
@@ -2060,7 +2060,7 @@
   "id": "T-0188",
   "word": "sample",
   "pos": "v.",
-  "zh": "試吃；試用",
+  "zh": "試吃；試喝；試用",
   "en": "At the night market, Lisa sampled three kinds of fruit tea before choosing one.",
   "exzh": "在夜市裡，Lisa 試喝了三種水果茶之後才選了一種。",
   "target": "sampled",
@@ -2073,7 +2073,7 @@
   "pos": "v.",
   "zh": "爆裂；突然破開",
   "en": "Ben's bike tire burst on the way to school, so he had to walk the rest.",
-  "exzh": "Ben 的腳踏車輪胎在上學途中爆胎了，所以剩下的路他只好用走的。",
+  "exzh": "Ben 的腳踏車輪胎在上學途中爆了，所以剩下的路他只好用走的。",
   "target": "burst",
   "status": "ok",
   "note": ""
@@ -2095,7 +2095,7 @@
   "pos": "adj.",
   "zh": "無私的",
   "en": "Mr. Chen is a selfless teacher who often stays late to help students.",
-  "exzh": "Mr. Chen 是一位無私的老師，常常留得很晚來幫助學生。",
+  "exzh": "陳老師是一位無私的老師，常常留到很晚幫助學生。",
   "target": "selfless",
   "status": "ok",
   "note": ""
@@ -2106,7 +2106,7 @@
   "pos": "adv.",
   "zh": "僅僅；只不過",
   "en": "The test was merely a small quiz, so Ben didn't need to worry about it.",
-  "exzh": "那只不過是一個小考，所以 Ben 不需要擔心。",
+  "exzh": "那只不過是一次小考，所以 Ben 不需要擔心。",
   "target": "merely",
   "status": "ok",
   "note": ""
@@ -2128,7 +2128,7 @@
   "pos": "v.",
   "zh": "折返；回溯",
   "en": "Lisa retraced her steps from the gym to the classroom to look for her lost keys.",
-  "exzh": "Lisa 從體育館走回教室，沿路折返尋找她弄丟的鑰匙。",
+  "exzh": "Lisa 沿著原路從體育館走回教室，尋找她弄丟的鑰匙。",
   "target": "retraced",
   "status": "ok",
   "note": ""
@@ -2183,7 +2183,7 @@
   "pos": "adj.",
   "zh": "狹窄的",
   "en": "The narrow street near my grandmother's house is too small for big cars.",
-  "exzh": "我外婆家附近的那條窄街太窄，大型車開不進去。",
+  "exzh": "我外婆家附近那條狹窄的街道太小，大型車開不進去。",
   "target": "narrow",
   "status": "ok",
   "note": ""
@@ -2227,7 +2227,7 @@
   "pos": "adj.",
   "zh": "負面的；消極的",
   "en": "Mr. Chen told us not to feel negative after one bad test score.",
-  "exzh": "Mr. Chen 告訴我們不要因為一次考不好就感到消極。",
+  "exzh": "陳老師告訴我們不要因為一次考不好就感到消極。",
   "target": "negative",
   "status": "ok",
   "note": ""
@@ -2303,8 +2303,8 @@
   "word": "household name",
   "pos": "n.",
   "zh": "家喻戶曉的名字",
-  "en": "Bubble tea from Taiwan is now a household name that people in many countries enjoy.",
-  "exzh": "台灣的珍珠奶茶如今已是家喻戶曉的名字，許多國家的人都愛喝。",
+  "en": "Bubble tea from Taiwan is now a household name in many countries.",
+  "exzh": "台灣的珍珠奶茶如今在許多國家都是家喻戶曉的名字。",
   "target": "household name",
   "status": "ok",
   "note": ""
@@ -2337,7 +2337,7 @@
   "pos": "n.",
   "zh": "操縱；操弄",
   "en": "In media class, Mr. Chen taught us how the manipulation of photos can fool people online.",
-  "exzh": "在媒體課上，Mr. Chen 教我們修改照片的操弄手法如何欺騙網路上的人。",
+  "exzh": "在媒體課上，陳老師教我們了解操弄照片的手法如何在網路上欺騙大眾。",
   "target": "manipulation",
   "status": "ok",
   "note": ""
@@ -2403,7 +2403,7 @@
   "pos": "adj.",
   "zh": "水分充足的",
   "en": "Mr. Chen reminded us to drink water so we would stay hydrated during sports day.",
-  "exzh": "Mr. Chen 提醒我們要多喝水，運動會當天才能保持水分充足。",
+  "exzh": "陳老師提醒我們要多喝水，運動會當天才能保持水分充足。",
   "target": "hydrated",
   "status": "ok",
   "note": ""
@@ -2469,7 +2469,7 @@
   "pos": "adj.",
   "zh": "非傳統的；不拘一格的",
   "en": "Mr. Wu has an unconventional way of teaching English, using songs and games in every class.",
-  "exzh": "Mr. Wu 教英文的方式很不傳統，每堂課都用歌曲和遊戲。",
+  "exzh": "吳老師教英文的方式很不傳統，每堂課都用歌曲和遊戲。",
   "target": "unconventional",
   "status": "ok",
   "note": ""
@@ -2513,7 +2513,7 @@
   "pos": "n.",
   "zh": "正確性；有效性",
   "en": "Mr. Chen asked us to check the validity of the news before sharing it with friends.",
-  "exzh": "Mr. Chen 要我們在和朋友分享新聞前，先查證它的正確性。",
+  "exzh": "陳老師要我們在和朋友分享新聞前，先查證它的正確性。",
   "target": "validity",
   "status": "ok",
   "note": ""
@@ -2601,7 +2601,7 @@
   "pos": "adj.",
   "zh": "熙熙攘攘的；熱鬧的",
   "en": "Lisa loves the bustling morning market where sellers shout and families buy fresh food.",
-  "exzh": "Lisa 喜歡熱鬧的早市，那裡的攤販叫賣，家家戶戶都來買新鮮食物。",
+  "exzh": "Lisa 喜歡熱鬧的早市，那裡攤販大聲叫賣，許多家庭都來採買新鮮食物。",
   "target": "bustling",
   "status": "ok",
   "note": ""
@@ -2612,7 +2612,7 @@
   "pos": "adj.",
   "zh": "不道德的",
   "en": "Mr. Chen told the class that copying a classmate's answers during an exam is unethical.",
-  "exzh": "Mr. Chen 告訴全班，考試時抄同學的答案是不道德的。",
+  "exzh": "陳老師告訴全班，考試時抄同學的答案是不道德的。",
   "target": "unethical",
   "status": "ok",
   "note": ""
@@ -2678,7 +2678,7 @@
   "pos": "adv.",
   "zh": "字面上地；確實地",
   "en": "Ben took Mr. Chen's idiom literally and looked outside for falling cats and dogs.",
-  "exzh": "Ben 把 Mr. Chen 說的俗語照字面理解，跑到外面找從天上掉下來的貓和狗。",
+  "exzh": "Ben 把陳老師說的俗語照字面理解，到外面找從天上掉下來的貓和狗。",
   "target": "literally",
   "status": "ok",
   "note": ""
@@ -2700,7 +2700,7 @@
   "pos": "n.",
   "zh": "發生率",
   "en": "The school nurse said the incidence of colds rises when the weather suddenly gets cold.",
-  "exzh": "護理師說，天氣突然變冷時，感冒的發生率會上升。",
+  "exzh": "學校護理師說，天氣突然變冷時，感冒的發生率會上升。",
   "target": "incidence",
   "status": "ok",
   "note": ""
@@ -2721,8 +2721,8 @@
   "word": "segregation",
   "pos": "n.",
   "zh": "隔離；分開",
-  "en": "Our class helped with the segregation of recycling into paper, plastic, and glass bins.",
-  "exzh": "我們班幫忙把資源回收分開放進紙類、塑膠和玻璃的回收桶。",
+  "en": "In history class, we learned that segregation once kept Black and white students in separate schools in the United States.",
+  "exzh": "在歷史課上，我們學到美國過去的種族隔離讓黑人和白人學生分別在不同的學校就讀。",
   "target": "segregation",
   "status": "ok",
   "note": ""
@@ -2753,9 +2753,9 @@
   "id": "T-0251",
   "word": "rhetorical",
   "pos": "adj.",
-  "zh": "修辭的",
+  "zh": "修辭的；（問句）反問的",
   "en": "Mr. Chen asked a rhetorical question about holidays, and nobody in the class answered it.",
-  "exzh": "Mr. Chen 問了一個關於放假的修辭性問題，結果班上沒有人回答。",
+  "exzh": "陳老師問了一個關於放假的反問句，結果班上沒有人回答。",
   "target": "rhetorical",
   "status": "ok",
   "note": ""

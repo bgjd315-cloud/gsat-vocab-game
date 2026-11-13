@@ -7,12 +7,12 @@
   "title": "My First Week at Senior High",
   "topic": "校園・日記",
   "paragraphs": [
-   "Monday. Today was my first day at senior high. The school has many new [[features|L0-0004]]: a big library, a music room, and a garden on the roof. I [[found|L0-0005]] my classroom after asking two students for help. Our new teacher, Mr. Chen, did not [[mention|L0-0015]] homework, and everybody smiled. He only said that his job is to give us [[encouragement|L0-0010]] and to help us grow.",
-   "Wednesday. The [[following|L0-0001]] days were busy. In science class, we learned that a school lab [[contains|L0-0006]] many [[materials|L0-0007]] that can be dangerous, so we must listen carefully. Mr. Chen also asked, \"What is the [[effect|L0-0009]] of sleeping late?\" Some students [[claimed|L0-0016]] that they study well at night. I do not think so. A tired [[brain|L0-0012]] cannot work well.",
+   "Monday. Today was my first day at senior high. The school has many new [[features|L0-0004]]: a big library, a music room, and a garden on the roof. Students can even [[found|L0-0005]] their own clubs. Our new teacher, Mr. Chen, did not [[mention|L0-0015]] homework, and everybody smiled. He only said that his job is to give us [[encouragement|L0-0010]] and to help us grow.",
+   "Wednesday. The [[following|L0-0001]] days were busy. In science class, we learned that a school lab [[contains|L0-0006]] many [[materials|L0-0007]] that can be dangerous, so we must listen carefully. Mr. Chen also asked, \"What is the [[effect|L0-0009]] of staying up late?\" Some students [[claimed|L0-0016]] that they study well at night. I do not think so. A tired [[brain|L0-0012]] cannot work well.",
    "Friday. Our first report is [[due|L0-0014]] next Monday. I want to [[propose|L0-0019]] a topic about gardens. My friend Amy says I have the [[ability|L0-0011]] to write a good one. I found an [[image|L0-0018]] of a garden on a roof, and I will use it in my report. I am a little nervous, but I am happy. Senior high is going to be fun."
   ],
   "zh": [
-   "星期一。今天是我上高中的第一天。學校有許多新的特色：一座大圖書館、一間音樂教室，還有屋頂上的花園。我問了兩位同學後，找到了自己的教室。新老師陳老師沒有提到功課，大家都笑了。他只說他的工作是給我們鼓勵，並幫助我們成長。",
+   "星期一。今天是我上高中的第一天。學校有許多新的特色：一座大圖書館、一間音樂教室，還有屋頂上的花園。學生甚至可以自己創立社團。新老師陳老師沒有提到功課，大家都笑了。他只說他的工作是給我們鼓勵，並幫助我們成長。",
    "星期三。接下來的幾天很忙。自然課上，我們學到學校實驗室裡有許多可能很危險的材料，所以一定要專心聽。陳老師還問：「熬夜會有什麼影響？」有些同學聲稱他們晚上讀書讀得很好。我不這麼認為。疲累的大腦無法好好運作。",
    "星期五。我們的第一份報告下週一到期。我想提出一個關於花園的主題。朋友艾咪說我有能力寫出好報告。我找到一張屋頂花園的圖片，我會把它用在報告裡。我有點緊張，但也很開心。高中生活一定會很有趣。"
   ],
@@ -124,12 +124,12 @@
   "title": "The Paper Club",
   "topic": "校園・社團",
   "paragraphs": [
-   "Our school has an [[environmental|L0-0036]] club. It is a small [[organization|L0-0029]], but it is active [[throughout|L0-0039]] the year. Last month, the club [[found|L0-0005]] that our school wastes a lot of paper. Paper is a big [[source|L0-0027]] of trash. In [[addition|L0-0035]], printing costs money.",
+   "Our school has an [[environmental|L0-0036]] club. Three students worked together to [[found|L0-0005]] it two years ago. It is a small [[organization|L0-0029]], but it is active [[throughout|L0-0039]] the year. Last month, the club discovered that our school wastes a lot of paper. Paper is a big [[source|L0-0027]] of trash. In [[addition|L0-0035]], printing costs money.",
    "The club wanted to [[lower|L0-0031]] the number of pages used. \"What is the most [[effective|L0-0030]] way?\" asked our leader, Jenny. One [[means|L0-0022]] is to send homework online. Another is to print on both sides of the paper. The club asked each class to try these ideas for a month. In one [[particular|L0-0021]] class, students used thirty percent less paper. Their teacher's [[encouragement|L0-0010]] made them proud, and everyone could see the [[effect|L0-0009]] of small actions.",
    "Now the club wants to [[maintain|L0-0032]] this good habit. They have [[further|L0-0028]] plans, too. They will visit every class and share the results. \"Every student has the [[ability|L0-0011]] to help,\" Jenny says. \"Under good [[conditions|L0-0026]], a small club can do big things.\""
   ],
   "zh": [
-   "我們學校有一個環保社。它是個小組織，但一整年都很活躍。上個月，社團發現學校浪費了很多紙。紙是垃圾的一大來源。此外，列印也要花錢。",
+   "我們學校有一個環保社，是三位學生在兩年前一起創立的。它是個小組織，但一整年都很活躍。上個月，社團發現學校浪費了很多紙。紙是垃圾的一大來源。此外，列印也要花錢。",
    "社團想減少使用的紙張數量。「最有效的方法是什麼？」社長珍妮問。一個方法是用網路交作業，另一個是紙張雙面列印。社團請每個班級試行這些點子一個月。在其中一個班級，學生少用了百分之三十的紙。老師的鼓勵讓他們很自豪，大家也看到了小行動的效果。",
    "現在社團想維持這個好習慣。他們還有進一步的計畫，要拜訪每個班級並分享成果。珍妮說：「每個學生都有能力幫忙。在良好的條件下，小小的社團也能做大事。」"
   ],
@@ -166,7 +166,7 @@
     ],
     "answer": 0,
     "explain": "第一段說社團發現學校浪費很多紙，故選 (A)。(D) 與文中「列印也要花錢」相反。",
-    "evidence": "Last month, the club found that our school wastes a lot of paper."
+    "evidence": "Last month, the club discovered that our school wastes a lot of paper."
    },
    {
     "type": "細節",
@@ -205,7 +205,7 @@
     ],
     "answer": 0,
     "explain": "全文說環保社發現浪費紙張，並找方法讓學校少用紙，故選 (A)。",
-    "evidence": "Last month, the club found that our school wastes a lot of paper."
+    "evidence": "Last month, the club discovered that our school wastes a lot of paper."
    }
   ],
   "vocab": [
@@ -219,7 +219,7 @@
     ],
     "answer": 1,
     "word": "L0-0030",
-    "explain": "喝水是讓人涼快的「有效」方法，effective 最通順。empty、lucky、angry 都不能修飾 way。"
+    "explain": "喝水是讓人涼快的「有效」方法，effective 最通順。empty（空的）、lucky（幸運的）、angry（生氣的）放進句中語意都不通。"
    },
    {
     "stem": "The sun is the main ______ of light for the Earth.",
@@ -246,12 +246,12 @@
   "paragraphs": [
    "Last weekend, my family visited a [[region|L0-0045]] in eastern Taiwan. We made our plans in [[advance|L0-0054]], but the trip began with a [[challenge|L0-0046]]. Our train was [[delayed|L0-0057]] for an hour because of rain. Because of a [[recent|L0-0052]] storm, some roads were also closed. Dad stayed calm. \"Let us wait and see,\" he said.",
    "When we arrived, the rain stopped. We rented bikes and rode through a green [[field|L0-0058]]. The [[view|L0-0053]] of the mountains was wonderful. The path was long, but [[instead|L0-0059]] of stopping early, we rode to the end. Its [[length|L0-0060]] was about ten kilometers. It was hard work, but we found a good [[balance|L0-0055]] between riding and resting. A special [[feature|L0-0004]] of the path was a small bridge, and we took many photos there.",
-   "The [[following|L0-0001]] morning, we ate breakfast at a small shop. The shop was [[highly|L0-0041]] popular. The [[quality|L0-0043]] of the food was good, and the owner told us about the [[cultural|L0-0056]] story of her town. Dad checked the road [[conditions|L0-0026]], and the roads were open again. Before we left, I [[removed|L0-0049]] my wet shoes from the bag and let them dry in the sun. Our weekend did not go as planned, but we all agreed it was one of our best trips."
+   "The [[following|L0-0001]] morning, we ate breakfast at a small shop. The shop was [[highly|L0-0041]] popular. The [[quality|L0-0043]] of the food was good, and the owner told us about the [[cultural|L0-0056]] history of her town. Dad checked the road [[conditions|L0-0026]], and the roads were open again. Before we left, I [[removed|L0-0049]] my wet shoes from the bag and let them dry in the sun. Our weekend did not go as planned, but we all agreed it was one of our best trips."
   ],
   "zh": [
    "上週末，我們全家造訪了台灣東部的一個地區。我們事先做了計畫，但旅程一開始就遇到挑戰。因為下雨，我們的火車延誤了一小時。由於最近的一場暴風雨，有些道路也封閉了。爸爸保持冷靜。他說：「我們先等等看吧。」",
-   "我們抵達時雨停了。我們租了腳踏車，騎過一片綠色的田野。山的景色美極了。這條路很長，但我們沒有提早停下來，而是一路騎到終點。它的長度大約有十公里。雖然很累，但我們在騎車和休息之間找到了很好的平衡。這條路的一大特色是一座小橋，我們在那裡拍了很多照片。",
-   "隔天早上，我們在一間小店吃早餐。這間店非常受歡迎。食物的品質很好，老闆還跟我們說了她家鄉的文化故事。爸爸查看了路況，道路又開通了。離開前，我把濕掉的鞋子從袋子裡拿出來，放在太陽下曬乾。我們的週末沒有照計畫進行，但大家都同意這是最棒的旅行之一。"
+   "我們抵達時雨停了。我們租了腳踏車，騎過一片綠色的田野。山的景色美極了。這條路很長，但我們沒有提早停下來，而是一路騎到終點。全長大約十公里。雖然很累，但我們在騎車和休息之間找到了很好的平衡。這條路的一大特色是一座小橋，我們在那裡拍了很多照片。",
+   "隔天早上，我們在一間小店吃早餐。這間店非常受歡迎。食物的品質很好，老闆還跟我們說了她家鄉的文化歷史。爸爸查看了路況，道路又開通了。離開前，我把濕掉的鞋子從袋子裡拿出來，放在太陽下曬乾。我們的週末沒有照計畫進行，但大家都同意這是最棒的旅行之一。"
   ],
   "glosses": [],
   "targets": [
@@ -365,14 +365,14 @@
   "title": "Lucky the Dog",
   "topic": "動物・寵物",
   "paragraphs": [
-   "My dog, Lucky, is a small brown dog with a funny [[appearance|L0-0063]]. One ear stands up, and the other falls down. When I first [[saw|L0-0069]] him at the animal shelter, he was thin and shy. My [[chief|L0-0077]] job now is to walk him every day. I also buy a [[supply|L0-0075]] of dog food every month, and I [[post|L0-0079]] his photos online. My sister even made a [[painting|L0-0071]] of him.",
+   "My dog, Lucky, is a small brown dog with a funny [[appearance|L0-0063]]. One ear stands up, and the other hangs down. When I first met him at the animal shelter, he was thin and shy. Dad used a [[saw|L0-0069]] and some wood to build him a doghouse. My [[chief|L0-0077]] job now is to walk him every day. I also buy a [[supply|L0-0075]] of dog food every month, and I [[post|L0-0079]] his photos online. My sister even made a [[painting|L0-0071]] of him.",
    "Lucky has a very good nose. He can [[track|L0-0070]] a smell across the whole park. One day my ball was missing. Lucky ran into the grass and came back [[within|L0-0062]] five minutes with the ball in his mouth. That [[proved|L0-0080]] how smart he is. I [[wonder|L0-0072]] how his nose works. He also knows a wide [[range|L0-0068]] of tricks. Training him is not [[complex|L0-0064]], but it takes time.",
-   "Lucky has the [[ability|L0-0011]] to make everyone smile. Once he tried to [[escape|L0-0047]] from the yard, and he [[found|L0-0005]] a small hole in the fence. We fixed it, and now he is safe. His [[powerful|L0-0061]] legs make him a great runner, but his heart is soft and kind. I am happy that he chose us."
+   "Lucky has the [[ability|L0-0011]] to make everyone smile. Because of him, my sister wants to [[found|L0-0005]] a dog lovers' club at her school. Once he tried to [[escape|L0-0047]] from the yard through a small hole in the fence. We fixed it, and now he is safe. His [[powerful|L0-0061]] legs make him a great runner, but his heart is soft and kind. I am happy that he chose us."
   ],
   "zh": [
-   "我的狗「幸運」是一隻小小的棕色狗，外表很滑稽。牠一隻耳朵立著，另一隻垂下來。我第一次在動物收容所看到牠時，牠又瘦又害羞。現在我最主要的工作是每天遛牠。我每個月也會買一批狗飼料，還會在網路上發佈牠的照片。我姊姊甚至畫了一幅牠的畫。",
+   "我的狗「幸運」是一隻小小的棕色狗，外表很滑稽。牠一隻耳朵立著，另一隻垂下來。我第一次在動物收容所見到牠時，牠又瘦又害羞。爸爸用鋸子和一些木頭幫牠做了一間狗屋。現在我最主要的工作是每天遛牠。我每個月也會買一批狗飼料，還會在網路上發佈牠的照片。我姊姊甚至畫了一幅牠的畫。",
    "幸運的鼻子很靈。牠能追蹤一股氣味穿過整座公園。有一天我的球不見了，幸運跑進草叢裡，五分鐘內就嘴裡叼著球回來了。這證明了牠有多聰明。我好奇牠的鼻子是怎麼運作的。牠還會很多種把戲。訓練牠並不複雜，但需要時間。",
-   "幸運有讓每個人微笑的能力。有一次牠想從院子逃走，結果找到柵欄上的一個小洞。我們把它修好了，現在牠很安全。牠強壯有力的腿讓牠成為很棒的跑者，但牠的心既柔軟又善良。我很高興牠選了我們。"
+   "幸運有讓每個人微笑的能力。因為牠，我姊姊想在學校創立一個愛狗社團。有一次牠想從柵欄上的一個小洞逃出院子。我們把它修好了，現在牠很安全。牠強壯有力的腿讓牠成為很棒的跑者，但牠的心既柔軟又善良。我很高興牠選了我們。"
   ],
   "glosses": [],
   "targets": [
@@ -419,7 +419,7 @@
      "He bought a new one."
     ],
     "answer": 1,
-    "explain": "第二段說他追蹤氣味，五分鐘內叼著球回來，故選 (B)。",
+    "explain": "第二段提到牠能追蹤氣味，五分鐘內叼著球回來，故選 (B)。",
     "evidence": "Lucky ran into the grass and came back within five minutes with the ball in his mouth."
    },
    {
@@ -432,7 +432,7 @@
      "beautiful"
     ],
     "answer": 0,
-    "explain": "complex 是「複雜的」，與 hard to understand 最接近，故選 (A)。後面說 but it takes time，表示不是容易的事，所以 easy 不合。",
+    "explain": "complex 是「複雜的」，與 hard to understand 最接近，故選 (A)。easy（容易的）與 complex 意思相反，所以不合。",
     "evidence": "Training him is not complex, but it takes time."
    },
    {
@@ -487,12 +487,12 @@
   "paragraphs": [
    "On Saturday night, my cousin and I visited a night market in Taipei. The crowd was [[huge|L0-0097]], and the air smelled wonderful. Finding food was not a hard [[task|L0-0089]]. There was a shop at every corner. My cousin had an [[expression|L0-0083]] of joy on his face. \"Do me a [[favor|L0-0096]],\" he said. \"Hold my bag while I buy something.\"",
    "We tried a [[soft|L0-0088]] cake, a [[smooth|L0-0087]] tofu pudding, and a hot noodle dish. Some snacks were special. For [[instance|L0-0084]], the fried chicken was crispy outside, but juicy inside. The food was [[indeed|L0-0098]] delicious, and the [[range|L0-0068]] of choices was very wide. Some lines were long, but there was no [[stress|L0-0081]]. We waited and talked about school. A funny thing [[occurred|L0-0099]] when I made a [[trial|L0-0090]] run at a ring game. I missed every ring, and we both laughed.",
-   "At the end of the night, we [[concluded|L0-0091]] that the tofu pudding was the best. My cousin wanted to [[participate|L0-0100]] in one more game, but it was late. A night market has a strong [[connection|L0-0093]] to Taiwanese life, and the [[quality|L0-0043]] of its food is high. I [[found|L0-0005]] that I always leave with a full stomach and a happy heart."
+   "At the end of the night, we [[concluded|L0-0091]] that the tofu pudding was the best. My cousin wanted to [[participate|L0-0100]] in one more game, but it was late. A night market has a strong [[connection|L0-0093]] to Taiwanese life, and the [[quality|L0-0043]] of its food is high. The trip gave me an idea: I want to [[found|L0-0005]] a food club at my school. I always leave a night market with a full stomach and a happy heart."
   ],
   "zh": [
    "週六晚上，我和表哥去逛了台北的一個夜市。人潮好多，空氣聞起來好香。要找吃的一點也不難，每個轉角都有店。表哥臉上露出開心的表情。他說：「幫我個忙，我去買東西，你幫我拿一下包包。」",
    "我們試了鬆軟的蛋糕、滑嫩的豆腐布丁，還有一碗熱呼呼的麵。有些小吃很特別，例如炸雞外面酥脆、裡面多汁。食物真的很好吃，而且選擇的範圍很廣。有些隊伍很長，但我們一點也不焦急，邊等邊聊學校的事。我試玩套圈圈遊戲時，發生了有趣的事：我一個圈都沒套中，我們兩個都笑了。",
-   "夜晚結束時，我們得出結論：豆腐布丁最好吃。表哥還想再玩一個遊戲，但時間太晚了。夜市和台灣人的生活有很深的連結，而且那裡的食物品質很高。我發現自己總是帶著飽飽的肚子和開心的心情離開。"
+   "夜晚結束時，我們得出結論：豆腐布丁最好吃。表哥還想再玩一個遊戲，但時間太晚了。夜市和台灣人的生活有很深的連結，而且那裡的食物品質很高。這趟夜市之行讓我有了一個點子：我想在學校創立一個美食社。每次逛夜市，我總是帶著飽飽的肚子和開心的心情離開。"
   ],
   "glosses": [],
   "targets": [
@@ -567,7 +567,7 @@
     ],
     "answer": 2,
     "explain": "全文敘述作者和表哥逛夜市、吃美食、玩遊戲的開心夜晚，故選 (C)。",
-    "evidence": "I found that I always leave with a full stomach and a happy heart."
+    "evidence": "I always leave a night market with a full stomach and a happy heart."
    }
   ],
   "vocab": [
@@ -607,12 +607,12 @@
   "topic": "科學・聲音",
   "paragraphs": [
    "Have you ever wondered how a [[musical|L0-0117]] instrument works? Take a guitar, for example. A [[typical|L0-0110]] guitar has six strings made of [[steel|L0-0112]] or nylon. When you pull a string, it moves back and forth very fast. This movement is called a vibration. The vibration pushes the air, and the air carries it to your ear. The [[actual|L0-0113]] sound you hear is the moving air, not the string itself.",
-   "The sound changes when you [[stretch|L0-0109]] the string. A string that is pulled hard moves faster and makes a high note. A string that is not pulled hard makes a low note. Players change the notes in this way to play a [[melody|L0-0111]]. Every sound has an [[origin|L0-0118]]: something that moves. Sound travels through a [[chain|L0-0115]] of small movements, from the string to the air and then to your ear.",
+   "The sound changes when you [[stretch|L0-0109]] the string. A string that is pulled tight moves faster and makes a high note. A string that is not pulled tight makes a low note. Players tune their guitars in this way before they play a [[melody|L0-0111]]. Every sound has an [[origin|L0-0118]]: something that moves. Sound travels through a [[chain|L0-0115]] of small movements, from the string to the air and then to your ear.",
    "You can [[attempt|L0-0120]] a simple test at home. A thin rubber band is [[suitable|L0-0119]] for this. Pull it and watch it move. Different [[sort|L0-0107]]s of rubber bands make different sounds. The [[material|L0-0007]] matters, too. Some phones can [[display|L0-0116]] the sound as waves on the screen, and you can see a change [[within|L0-0062]] a second. Doing this, you may [[wonder|L0-0072]] about all the sounds around you."
   ],
   "zh": [
    "你是否曾好奇樂器是怎麼運作的？以吉他為例。一把典型的吉他有六條弦，由鋼或尼龍製成。當你撥動一條弦，它會非常快速地來回移動，這種移動叫做振動。振動推動空氣，空氣再把它傳到你的耳朵。你真正聽到的聲音是振動的空氣，而不是弦本身。",
-   "當你拉緊琴弦，聲音就會改變。拉得用力的弦振動較快，發出高音；沒拉得很用力的弦則發出低音。演奏者就是這樣改變音符來演奏旋律。每個聲音都有起源：某個東西在動。聲音透過一連串小小的運動傳遞，從弦到空氣，再到你的耳朵。",
+   "當你拉緊琴弦，聲音就會改變。拉緊的弦振動較快，發出高音；沒有拉緊的弦則發出低音。演奏者在彈奏旋律前，就是用這種方法替吉他調音。每個聲音都有來源，也就是某個在動的東西。聲音透過一連串小小的運動傳遞，從弦到空氣，再到你的耳朵。",
    "你可以在家嘗試一個簡單的實驗。細的橡皮筋很適合用來做這件事。拉一拉它，看它怎麼動。不同種類的橡皮筋會發出不同的聲音。材質也有影響。有些手機可以把聲音以波形顯示在螢幕上，你可以在一秒內看到變化。這樣做時，你也許會好奇身邊所有的聲音。"
   ],
   "glosses": [
@@ -660,7 +660,7 @@
    },
    {
     "type": "細節",
-    "stem": "What happens when a string is pulled hard?",
+    "stem": "What happens when a string is pulled tight?",
     "options": [
      "It makes no sound.",
      "It makes a low note.",
@@ -668,8 +668,8 @@
      "It breaks quickly."
     ],
     "answer": 2,
-    "explain": "第二段說用力拉的弦動得較快，發出高音，故選 (C)。低音是沒拉得很用力的弦才有的情況。",
-    "evidence": "A string that is pulled hard moves faster and makes a high note."
+    "explain": "第二段說拉緊的弦動得較快，發出高音，故選 (C)。低音是沒拉緊的弦才有的情況。",
+    "evidence": "A string that is pulled tight moves faster and makes a high note."
    },
    {
     "type": "字義",
@@ -734,16 +734,16 @@
   "title": "Leo and the Music Club",
   "topic": "故事・校園",
   "paragraphs": [
-   "Leo was a shy student in his first week at senior high. He loved music, but he never played for other people. At home, he often played the guitar in his room. One day, he [[saw|L0-0069]] a notice on [[display|L0-0116]] near the library: \"The Music Club needs new members. Come to Room 204!\" Leo read it three times, then walked away.",
-   "All week, Leo felt [[stress|L0-0081]]. He wanted to [[participate|L0-0100]], but he was afraid. \"What if I make a mistake?\" he asked himself. On Friday, his teacher, Mr. Chen, noticed his face. \"Is something wrong?\" he asked. Leo told him everything. Mr. Chen smiled. \"This is a [[challenge|L0-0046]], but you have the [[ability|L0-0011]],\" he said. Those words gave Leo some [[encouragement|L0-0010]]. He decided to [[attempt|L0-0120]] it.",
+   "Leo was a shy student in his first week at senior high. He loved music, but he never played for other people. At home, he often played the guitar in his room. His grandfather had made it for him, cutting the wood with a [[saw|L0-0069]]. One day, he came across a notice on [[display|L0-0116]] near the library: \"The Music Club needs new members. Come to Room 204!\" Leo read it three times, then walked away.",
+   "All week, Leo felt [[stress|L0-0081]]. He wanted to [[participate|L0-0100]], but he was afraid. \"What if I make a mistake?\" he asked himself. On Friday, his teacher, Mr. Chen, noticed the worried look on his face. \"Is something wrong?\" he asked. Leo told him everything. Mr. Chen smiled. \"This is a [[challenge|L0-0046]], but you have the [[ability|L0-0011]],\" he said. Those words gave Leo some [[encouragement|L0-0010]]. He decided to [[attempt|L0-0120]] it.",
    "The [[following|L0-0001]] Monday, Leo stood in front of Room 204. The room was [[huge|L0-0097]]. The club [[chief|L0-0077]], a tall girl named Mia, was putting chairs in a circle. \"Do you want to join?\" she asked. Leo nodded. \"Then play something for us,\" she said. His hands shook, but he began to play a [[soft|L0-0088]] [[melody|L0-0111]].",
-   "When he finished, the room was quiet. Then everyone clapped. Mia had an [[expression|L0-0083]] of surprise on her face. \"That was [[indeed|L0-0098]] beautiful,\" she said. Leo smiled for the first time that week. He [[found|L0-0005]] that the hardest step was the first one. After that day, Leo was no longer afraid. He had a new club, new friends, and a new song to play."
+   "When he finished, the room was quiet. Then everyone clapped. Mia had an [[expression|L0-0083]] of surprise on her face. \"That was [[indeed|L0-0098]] beautiful,\" she said. Leo smiled for the first time that week. He learned that the hardest step was the first one. After that day, Leo was no longer afraid. He had a new club, new friends, and a new song to play. A year later, he even helped [[found|L0-0005]] a guitar club for beginners."
   ],
   "zh": [
-   "里歐是個剛上高中第一週的害羞學生。他熱愛音樂，卻從來不在別人面前演奏。在家裡，他常在自己的房間彈吉他。有一天，他看到圖書館附近展示著一張公告：「音樂社需要新社員。歡迎來 204 教室！」里歐讀了三遍，然後走開了。",
-   "整個星期，里歐都感到壓力。他想參加，卻很害怕。「如果我彈錯了怎麼辦？」他問自己。星期五，他的老師陳老師注意到他的臉色。「有什麼問題嗎？」老師問。里歐把一切都告訴了他。陳老師笑著說：「這是個挑戰，但你有這個能力。」這些話給了里歐一些鼓勵。他決定試試看。",
+   "里歐是個剛上高中第一週的害羞學生。他熱愛音樂，卻從來不在別人面前演奏。在家裡，他常在自己的房間彈吉他。那把吉他是爺爺替他做的，木頭都是爺爺用鋸子鋸出來的。有一天，他看到圖書館附近展示著一張公告：「音樂社需要新社員。歡迎來 204 教室！」里歐讀了三遍，然後走開了。",
+   "整個星期，里歐都感到壓力。他想參加，卻很害怕。「如果我彈錯了怎麼辦？」他問自己。星期五，他的老師陳老師注意到他一臉擔憂。「有什麼問題嗎？」老師問。里歐把一切都告訴了他。陳老師笑著說：「這是個挑戰，但你有這個能力。」這些話給了里歐一些鼓勵。他決定試試看。",
    "接下來的星期一，里歐站在 204 教室前。教室非常大。社長是一位名叫米雅的高個子女孩，她正把椅子排成圓圈。「你想加入嗎？」她問。里歐點點頭。「那就彈點什麼給我們聽吧。」她說。他的手在發抖，但他開始彈起一段輕柔的旋律。",
-   "彈完後，教室一片安靜。接著大家都鼓掌了。米雅臉上露出驚訝的表情。「這真的很美。」她說。那是里歐那一週第一次微笑。他發現最困難的是第一步。從那天起，里歐不再害怕。他有了新的社團、新的朋友，還有一首新的歌可以彈。"
+   "彈完後，教室一片安靜。接著大家都鼓掌了。米雅臉上露出驚訝的表情。「這真的很美。」她說。那是里歐那一週第一次微笑。他明白了最困難的是第一步。從那天起，里歐不再害怕。他有了新的社團、新的朋友，還有一首新的歌可以彈。一年後，他甚至協助創立了一個初學者吉他社。"
   ],
   "glosses": [],
   "targets": [
@@ -777,7 +777,7 @@
     ],
     "answer": 1,
     "explain": "第一段說他在圖書館附近看到公告，故選 (B)。204 教室是社團要集合的地方，不是看到公告的地方。",
-    "evidence": "One day, he saw a notice on display near the library: \"The Music Club needs new members. Come to Room 204!\""
+    "evidence": "One day, he came across a notice on display near the library: \"The Music Club needs new members. Come to Room 204!\""
    },
    {
     "type": "推論",
@@ -856,12 +856,12 @@
   "topic": "校園・運動",
   "paragraphs": [
    "Last Friday was Sports Day at our school. Every student had to [[attend|L0-0130]], so the [[entire|L0-0136]] field was full of noise and color. My class wore blue shirts, and Amy tied a blue [[cloth|L0-0121]] around her head. A teacher stood on a small [[stage|L0-0124]] and read the [[schedule|L0-0105]] for the day. She also explained every [[detail|L0-0133]] of the rules. The last game, the relay race, was for teams of four.",
-   "I [[prefer|L0-0103]] running to other sports, so I was happy to [[participate|L0-0100]] in the relay. But we had a problem. Ken was sick, and his [[absence|L0-0126]] meant that Leo had to take his place. We practiced with Leo only once. Our coach told us that teamwork is the most important [[factor|L0-0123]] in a relay. Before the race, I had to [[apply|L0-0129]] some sun cream on my face because the sun was hot.",
+   "I [[prefer|L0-0103]] running to other sports, so I was happy to [[participate|L0-0100]] in the relay. But we had a problem. Ken was sick, and his [[absence|L0-0126]] meant that Leo had to take his place. We practiced with Leo only once. Our coach told us that teamwork is the most important [[factor|L0-0123]] in a relay. Before the race, I had to [[apply|L0-0129]] some sunscreen to my face because the sun was hot.",
    "When the race began, Amy ran first. Eye [[contact|L0-0122]] helped us pass the [[stick|L0-0125]] without a mistake. I ran on the [[flat|L0-0137]] track as fast as I could. Parents walked back and [[forth|L0-0139]] along the side, shouting our names. The [[ending|L0-0135]] was a surprise: we came in second, not first, but we were all smiling."
   ],
   "zh": [
-   "上週五是我們學校的運動會。每位學生都必須出席，所以整個操場充滿了吵鬧聲和色彩。我們班穿藍色上衣，艾美還在頭上綁了一條藍色布巾。一位老師站在小舞台上宣讀當天的時程表，她也把規則的每個細節都解釋了一遍。最後一項比賽是接力賽，由四人一組。",
-   "我比較喜歡跑步勝過其他運動，所以很高興能參加接力賽。但我們遇到了一個問題：阿肯生病了，他缺席代表李奧得補他的位置。我們只和李奧練習過一次。教練告訴我們，團隊合作是接力賽中最重要的因素。比賽前，因為太陽很大，我得在臉上擦一些防曬乳。",
+   "上週五是我們學校的運動會。每位學生都必須出席，所以整個操場充滿了吵鬧聲和色彩。我們班穿藍色上衣，艾美還在頭上綁了一條藍色布巾。一位老師站在小舞台上宣讀當天的時程表，她也把規則的每個細節都解釋了一遍。最後一項比賽是接力賽，每隊四人。",
+   "比起其他運動，我更喜歡跑步，所以很高興能參加接力賽。但我們遇到了一個問題：阿肯生病了，他缺席代表李奧得補他的位置。我們只和李奧練習過一次。教練告訴我們，團隊合作是接力賽中最重要的因素。比賽前，因為太陽很大，我得在臉上擦一些防曬乳。",
    "比賽開始時，艾美先跑。眼神交會幫助我們毫無失誤地傳遞接力棒。我在平坦的跑道上盡全力奔跑。家長們沿著場邊來回走動，喊著我們的名字。結局出乎意料：我們得了第二名，不是第一名，但大家都笑開了。"
   ],
   "glosses": [],
@@ -950,7 +950,7 @@
     ],
     "answer": 0,
     "word": "L0-0130",
-    "explain": "開會要「出席」，attend the meeting 是常見搭配，故選 attend。stick（棒子）、forth（向前）都不能當動詞接 meeting。"
+    "explain": "開會要「出席」，attend the meeting 是常見搭配，故選 attend。apply（申請）、stick（黏貼）放進句中語意不通；forth（向前）是副詞，不能接受詞。"
    },
    {
     "stem": "Tom's ______ from school made his teacher worry, so she called his mother.",
@@ -982,7 +982,7 @@
   "zh": [
    "上個月，我們班到高雄一日遊。我們先參觀了港口。導遊陳先生的聲音洪亮又有趣，所以車上沒有人睡著。他告訴我們，港口是個龐大的地方，每天都有船進港。他還在螢幕上給我們看一些數據：每年有超過一千艘船停靠在那裡。",
    "午餐後，我們爬上一座高塔的階梯。有些人爬了一百階之後就開始吃力了，但從頂端看到的景色很值得。我們能看見整座城市和藍色的大海。那時正值盛夏最熱的時候，太陽很大。陳先生說：「只要覺得熱就喝水，除非你想生病。」",
-   "四點時，我們得分成兩組去逛不同的商店。我想我買了太多禮物，因為我的袋子都滿了。最棒的是一樣典型的當地小吃。回程的巴士上大家一起唱歌，還用零食開了個小派對。我就是無法忘記這趟旅行。我那天最大的發現，就是我愛大海。"
+   "四點時，我們得分成兩組去逛不同的商店。我想我買了太多禮物，因為我的袋子都滿了。最棒的是一樣典型的當地小吃。回程的巴士上大家一起唱歌，還用零食開了個小派對。我不可能就這樣忘了這趟旅行。我那天最大的發現，就是我愛大海。"
   ],
   "glosses": [],
   "targets": [
@@ -1071,7 +1071,7 @@
     ],
     "answer": 1,
     "word": "L0-0146",
-    "explain": "山的頂端看得到終年積雪，是山「頂、峰」peak，故選 peak。voice（聲音）、party（派對）、data（資料）都不能形容山頂。"
+    "explain": "山的頂端看得到終年積雪，是山「頂、峰」peak，故選 peak。voice（聲音）、party（派對）、data（資料）放進句中都說不通。"
    },
    {
     "stem": "______ it rains, my brother takes an umbrella to school.",
@@ -1083,7 +1083,7 @@
     ],
     "answer": 2,
     "word": "L0-0155",
-    "explain": "「每當下雨」就帶傘，Whenever 引導時間子句，故選 Whenever。其他三個是介系詞，後面不能直接接子句。"
+    "explain": "「每當下雨」就帶傘，Whenever 引導時間子句，故選 Whenever。Beyond、Between 是介系詞，不能引導子句；Except（除了）語意也不通。"
    }
   ],
   "status": "ok"
@@ -1097,12 +1097,12 @@
   "topic": "校園・社團",
   "paragraphs": [
    "Subject: Dance Show on Friday. Hi everyone, I am Mia, the leader of the dance club. This Friday, we will give a show in the hall, and we hope you can [[attend|L0-0130]]. Our [[director|L0-0169]], Ms. Wang, says the [[stage|L0-0124]] is ready. Please plan your [[arrival|L0-0164]] before 6:30, so that you can find a good seat.",
-   "I must tell you the truth. It was a [[challenge|L0-0046]] to get ready. At first, we had only six [[dancers|L0-0168]], and the old sound machine did not work. It was a [[shame|L0-0163]] because we had practiced for weeks. A school [[employee|L0-0170]], Mr. Lee, helped us [[operate|L0-0161]] it, and he fixed it in one afternoon. In [[reality|L0-0174]], he gave us more [[aid|L0-0179]] than we asked for. Now the sound is [[ideal|L0-0171]] for our show.",
-   "The show is only a [[bit|L0-0167]] longer than one hour. We found a [[solution|L0-0175]] to the problem of seats, too: we brought extra chairs from the library. [[Anyway|L0-0180]], the show is free, so please bring a friend. If you have any question, just write back to me. See you there! Mia"
+   "I must tell you the truth. It was a [[challenge|L0-0046]] to get ready. At first, we had only six [[dancers|L0-0168]], and the old sound machine did not work. It was a [[shame|L0-0163]] because we had practiced for weeks. A school [[employee|L0-0170]], Mr. Lee, came to help, and he fixed it in one afternoon. He also showed us how to [[operate|L0-0161]] it. In [[reality|L0-0174]], he gave us more [[aid|L0-0179]] than we asked for. Now the sound is [[ideal|L0-0171]] for our show.",
+   "The show is only a [[bit|L0-0167]] longer than one hour. We found a [[solution|L0-0175]] to the problem of seats, too: we brought extra chairs from the library. [[Anyway|L0-0180]], the show is free, so please bring a friend. If you have any questions, just write back to me. See you there! Mia"
   ],
   "zh": [
    "主旨：週五舞蹈表演。大家好，我是米雅，舞蹈社的社長。這週五我們將在禮堂演出，希望你們能來看。我們的指導老師王老師說舞台已經準備好了。請在六點半前到場，這樣才能找到好位子。",
-   "我得說實話，準備的過程很有挑戰。一開始我們只有六位舞者，而且舊的音響機器壞了。這很可惜，因為我們已經練習好幾週了。學校的一位職員李先生幫我們操作並修好它，只花了一個下午。事實上，他給我們的幫助比我們要求的還多。現在音響效果很適合我們的演出。",
+   "我得說實話，準備的過程很有挑戰。一開始我們只有六位舞者，而且舊的音響機器壞了。這很可惜，因為我們已經練習好幾週了。學校職員李先生來幫忙，只花一個下午就把它修好了，還教我們怎麼操作。事實上，他給我們的幫助比我們要求的還多。現在音響效果很適合我們的演出。",
    "表演只比一小時多一點點。我們也為座位的問題找到了解決辦法：從圖書館搬來了額外的椅子。總之，表演是免費的，請帶朋友一起來。如果有任何問題，直接回信給我。到時見！米雅"
   ],
   "glosses": [],
@@ -1149,8 +1149,8 @@
      "Mr. Lee"
     ],
     "answer": 3,
-    "explain": "上一句說學校職員李先生幫忙操作音響，所以「他」指李先生，故選 (D)。Ms. Wang 是女性老師，不是 he。",
-    "evidence": "A school employee, Mr. Lee, helped us operate it, and he fixed it in one afternoon."
+    "explain": "同一句前半說學校職員李先生來幫忙，所以「他」指李先生，故選 (D)。Ms. Wang 是女性老師，不是 he。",
+    "evidence": "A school employee, Mr. Lee, came to help, and he fixed it in one afternoon."
    },
    {
     "type": "字義",
@@ -1221,8 +1221,8 @@
   ],
   "zh": [
    "上個月，我們的服務社去了台灣東部鄉間的一個小村莊。我們的工作是幫助那裡的老人。在村子入口，黃奶奶帶著燦爛的笑容在等我們。那裡居民的平均年齡超過七十歲，而且很多人獨居。",
-   "我們分成小組工作。有些人打掃院子，有些人提重物袋子。我幫忙，好讓這些工作不會成為老人家的負擔。一個叫小班的男生唸了故事的一個章節給黃奶奶聽，她笑得很開心。我們合力在中午前完成了所有事情。我很高興能參加，老師也鼓勵我們帶著笑容完成任務。黃奶奶有一個簡單的信念：小小的幫忙也是幫忙。",
-   "回程的巴士上，老師要我們寫一篇關於這一天的文章。我寫道，我現在會更多去考慮身邊的人。我們通常只想著自己的問題，但一個溫暖的小鎮需要更多。好社區的基礎就是簡單的善意。"
+   "我們分成小組工作。有些人打掃院子，有些人搬沉重的袋子。我幫忙，好讓這些工作不會成為老人家的負擔。一個叫小班的男生唸了故事的一個章節給黃奶奶聽，她笑得很開心。我們合力在中午前完成了所有事情。我很高興能參加，老師也鼓勵我們帶著笑容完成任務。黃奶奶有一個簡單的信念：小小的幫忙也是幫忙。",
+   "回程的巴士上，老師要我們寫一篇關於這一天的文章。我寫道，我現在會更常替身邊的人著想。我們通常只想著自己的問題，但一個溫暖的小鎮需要更多。好社區的基礎就是簡單的善意。"
   ],
   "glosses": [],
   "targets": [
@@ -1339,8 +1339,8 @@
    "Over the next few weeks, the garden began to change. The change was [[gradual|L0-0207]], but it was [[impressive|L0-0210]]: new green leaves came out, and little flowers opened. Grandfather made a [[mixture|L0-0218]] of soil and sand to help them grow. \"After a storm,\" he said, \"the garden looks like a small piece of [[heaven|L0-0208]].\""
   ],
   "zh": [
-   "上週有颱風襲擊我們的小鎮。那是今年最近的一場暴風雨，雨連下了兩天沒停。雨停後，我的爺爺是位園丁，他走出去查看他的花園。地上有許多樹枝，我們家前面的小巷也滿是落葉。他的心情很差。",
-   "「真是倒楣。」他說。暴風雨對花園影響很大。他打電話給住在附近的樹木專家李先生。李先生看了看那棵老樹說：「根很穩固。它是一棵成熟的樹，不會有事的。」爺爺笑了。他們一起清除斷掉的樹枝。一輛卡車載走了沉重的一堆樹枝。",
+   "上週有颱風襲擊我們的小鎮。那是今年最近的一場暴風雨，雨連下了兩天沒停。雨停後，當園丁的爺爺走出去查看他的花園。地上有許多樹枝，我們家前面的小巷也滿是落葉。他的心情很差。",
+   "「真是倒楣。」他說。暴風雨對花園影響很大。他打電話給住在附近的樹木專家李先生。李先生看了看那棵老樹說：「根很穩固。它是一棵成熟的樹，不會有事的。」爺爺笑了。他們一起清除斷掉的樹枝。一輛卡車把那一大堆沉重的樹枝載走了。",
    "接下來的幾個星期，花園開始改變。這個變化是漸進的，卻令人印象深刻：新的綠葉長了出來，小花也開了。爺爺用土和沙調了一份混合土幫助它們生長。他說：「暴風雨過後，這座花園看起來像一小塊天堂。」"
   ],
   "glosses": [],
@@ -1421,7 +1421,7 @@
   ],
   "vocab": [
    {
-    "stem": "Dr. Lin is an ______ on birds, and she knows almost everything about them.",
+    "stem": "Dr. Lin is a famous ______ on birds, and she knows almost everything about them.",
     "options": [
      "expert",
      "mood",
@@ -1430,7 +1430,7 @@
     ],
     "answer": 0,
     "word": "L0-0202",
-    "explain": "對鳥類什麼都知道的人是「專家」expert，故選 expert。mood（心情）、lane（小巷）、load（負載）都不能用 an 修飾人。"
+    "explain": "對鳥類什麼都知道的人是「專家」expert，故選 expert。mood（心情）、lane（小巷）、load（負載）都不能用來指人。"
    },
    {
     "stem": "The truck carried a heavy ______ of rice to the market.",
@@ -1578,13 +1578,13 @@
    "Mr. Huang is the cook in our school cafeteria. Every day, he makes lunch for the [[entire|L0-0136]] school, more than nine hundred students. I met him after lunch and asked him a few questions for the school paper.",
    "I asked, \"When do you start work?\" \"At five in the morning,\" he said. \"A good lunch needs care, so I check every [[detail|L0-0133]]. If the soup is too [[salty|L0-0238]], students will not be happy, so I taste it many times.\" He also told me that the kitchen moves at a [[rapid|L0-0231]] speed. \"The [[flow|L0-0138]] of work must be smooth, or lunch will be late.\"",
    "Next, I asked about healthy food. \"My [[ideal|L0-0171]] lunch has rice, fish, and green vegetables,\" he said. \"Our school [[gardener|L0-0205]], Mr. Lee, grows vegetables [[nearby|L0-0220]], and I use them fresh. A [[mixture|L0-0218]] of corn and carrots makes the soup sweet.\" He smiled. \"[[Whenever|L0-0155]] a student says thank you, I feel [[pride|L0-0229]].\"",
-   "Finally, I asked, \"What is the hardest part of your job?\" \"A [[crisis|L0-0131]] sometimes happens,\" he said. \"Once, the stove broke at ten o'clock. My team had to [[respond|L0-0235]] at once. Our [[relationship|L0-0233]] is like a family, so we found a way.\" I asked about his best moment. \"The [[ending|L0-0135]] of the day,\" he said. \"When the pots are clean and the students are full, I go home happy.\""
+   "Finally, I asked, \"What is the hardest part of your job?\" \"A [[crisis|L0-0131]] sometimes happens,\" he said. \"Once, the stove broke at ten o'clock. My team had to [[respond|L0-0235]] at once. We have a close [[relationship|L0-0233]], like a family, so we found a way.\" I asked about his best moment. \"The [[ending|L0-0135]] of the day,\" he said. \"When the pots are clean and the students are full, I go home happy.\""
   ],
   "zh": [
    "黃先生是我們學校餐廳的廚師。他每天為全校九百多位學生準備午餐。我在午餐後見到他，為校刊問了他幾個問題。",
    "我問：「您幾點開始工作？」他說：「早上五點。好的午餐需要用心，所以我檢查每個細節。如果湯太鹹，學生就不會開心，所以我會嘗很多次。」他也告訴我，廚房的步調非常快速。「工作的流程必須順暢，不然午餐會晚。」",
    "接著我問到健康的食物。他說：「我心中理想的午餐有飯、魚和綠色蔬菜。我們學校的園丁李先生就在附近種蔬菜，我都用新鮮的。玉米和紅蘿蔔混在一起，會讓湯變甜。」他笑了笑。「每當有學生說謝謝，我就感到自豪。」",
-   "最後我問：「您工作中最困難的部分是什麼？」他說：「有時會發生危機。有一次，瓦斯爐在十點時壞了。我的團隊得馬上應變。我們的關係像一家人，所以我們找到了辦法。」我問他最美好的時刻是什麼。他說：「一天的結尾。當鍋子都洗乾淨、學生都吃飽了，我就開心地回家。」"
+   "最後我問：「您工作中最困難的部分是什麼？」他說：「有時會發生危機。有一次，瓦斯爐在十點時壞了。我的團隊得馬上應變。我們的關係很親密，就像一家人，所以我們找到了辦法。」我問他最美好的時刻是什麼。他說：「一天結束的時候。當鍋子都洗乾淨、學生都吃飽了，我就開心地回家。」"
   ],
   "glosses": [],
   "targets": [
@@ -1629,7 +1629,7 @@
      "The school paper"
     ],
     "answer": 1,
-    "explain": "前一句講 the soup is too salty，所以他嘗很多次的是湯，故選 (B)。",
+    "explain": "同一句前面講 the soup is too salty，所以他嘗很多次的是湯，故選 (B)。",
     "evidence": "If the soup is too salty, students will not be happy, so I taste it many times."
    },
    {
@@ -1682,7 +1682,7 @@
     ],
     "answer": 3,
     "word": "L0-0238",
-    "explain": "太鹹的零食對健康不好，salty 是「鹹的」，故選 salty。rapid（迅速的）、northern（北部的）、flat（平坦的）都不能形容零食。"
+    "explain": "吃太多鹹的零食對健康不好，salty 是「鹹的」，故選 salty。rapid（迅速的）、northern（北部的）、flat（平坦的）放進句中語意都不通。"
    }
   ],
   "status": "ok"
@@ -1701,8 +1701,8 @@
   ],
   "zh": [
    "上週五是我們的校慶。我們班經營一個小小的美食攤位，主題是「台灣早餐」。我們的老師陳老師對於手和桌子的清潔非常嚴格。他說：「不管你煮什麼，都要先洗手。」我和朋友艾咪做了豆漿。我們在網路上找到食譜，但必須一次又一次地秤量豆子。如果放太多，豆漿就會太濃。一開始嘗起來有點怪，但試了三次之後，就變得完美了。",
-   "校慶當天早上，我們在攤位上掛了一塊木頭招牌。艾咪寫上了文字。不久，一個拿相機的男孩拍了一張我們桌子的照片，接著排隊的人潮越來越長。我們的目標是賣出一百杯，但中午杯子就用完了。艾咪只好小聲對我說：「我們需要更多！」於是我跑去商店買了一些。",
-   "兩點的時候，陳老師請我們和下一組交換位置。我必須承認我的手臂很痠，但我感到非常自豪。每一位拿到我遞出杯子的人都笑著說謝謝。許多同學在我們的留言板上寫下親切的話回應。這些辛苦真的值得。"
+   "校慶當天早上，我們在攤位上掛了一塊木頭招牌。艾咪寫上了文字。不久，一個拿相機的男孩拍了一張我們桌子的照片，接著隊伍越排越長。我們的目標是賣出一百杯，但中午杯子就用完了。艾咪只好小聲對我說：「我們需要更多！」於是我跑去商店買了一些。",
+   "兩點的時候，陳老師請我們和下一組交換位置。我必須承認我的手臂很痠，但我感到非常自豪。每一位從我手中接過杯子的人都笑著說謝謝。許多同學在我們的留言板上寫下親切的話回應。這些辛苦真的值得。"
   ],
   "glosses": [],
   "targets": [
@@ -1937,12 +1937,12 @@
   "paragraphs": [
    "Every Saturday, I help at my aunt's small shop in a night market in Tainan. She sells [[domestic|L0-0282]] rice, beans, and other [[grain|L0-0297]], and she also sells fresh [[garlic|L0-0295]]. My aunt is my [[employer|L0-0286]], because she pays me a little money for my work. At first I thought the job would be [[dull|L0-0284]]. I was wrong.",
    "On my first day, my aunt gave me one [[instruction|L0-0300]]: \"Put the [[exact|L0-0287]] weight of rice into each bag.\" I did not listen well. I put too much rice in the bags, and the extra rice was an [[expense|L0-0289]] for the shop. It was a small [[failure|L0-0291]], and I was in a bad [[mood|L0-0219]]. My aunt only raised one [[eyebrow|L0-0290]] and smiled. \"Everyone makes mistakes,\" she said. \"Try again.\"",
-   "The next week, I used the scale slowly. With some [[luck|L0-0216]] and more practice, I learned fast. After a month, I had enough money to buy a new [[edition|L0-0285]] of my favorite book. It felt [[grand|L0-0298]] to buy it with my own money. I felt a first taste of [[independence|L0-0299]], and a deep [[pride|L0-0229]] too."
+   "The next week, I used the scale slowly. With some [[luck|L0-0216]] and more practice, I learned fast. After a month, I had enough money to buy a new [[edition|L0-0285]] of my favorite book. Buying it with my own money felt like winning the [[grand|L0-0298]] prize. It was my first taste of [[independence|L0-0299]], and I felt a deep sense of [[pride|L0-0229]]."
   ],
   "zh": [
    "每個星期六，我都在台南夜市裡阿姨的小店幫忙。她賣國產的米、豆子和其他穀物，也賣新鮮的大蒜。阿姨是我的雇主，因為她付我一點錢當作工資。一開始我以為這份工作會很無聊。我錯了。",
-   "第一天，阿姨給了我一項指示：「每個袋子都要裝進精確的米重量。」我沒有好好聽。我在袋子裡裝了太多米，多出來的米對店裡是一筆額外的花費。這是一次小小的失敗，我心情很差。阿姨只是挑了挑一邊的眉毛，笑了笑。她說：「每個人都會犯錯，再試一次吧。」",
-   "下一週，我慢慢地使用秤。靠著一點運氣和更多練習，我學得很快。一個月後，我存夠了錢，買了我最愛的那本書的新版本。用自己的錢買下它，感覺真棒。我嚐到了獨立的第一口滋味，也感到深深的驕傲。"
+   "第一天，阿姨給了我一項指示：「每個袋子都要裝進重量精確的米。」我沒有好好聽。我在袋子裡裝了太多米，多出來的米對店裡是一筆額外的花費。這是一次小小的失敗，我心情很差。阿姨只是挑了挑一邊的眉毛，笑了笑。她說：「每個人都會犯錯，再試一次吧。」",
+   "下一週，我秤米時放慢了速度。靠著一點運氣和更多練習，我學得很快。一個月後，我存夠了錢，買了我最愛的那本書的新版本。用自己的錢買下它，感覺就像贏得了大獎。這是我第一次嚐到獨立的滋味，也讓我深深感到自豪。"
   ],
   "glosses": [],
   "targets": [
@@ -2016,12 +2016,12 @@
     ],
     "answer": 1,
     "explain": "全文寫作者在阿姨店裡打工、犯錯、學習並獲得獨立與自豪，故選 (B)。",
-    "evidence": "I felt a first taste of independence, and a deep pride too."
+    "evidence": "It was my first taste of independence, and I felt a deep sense of pride."
    }
   ],
   "vocab": [
    {
-    "stem": "Please read the ______ on the box before you cook the noodles.",
+    "stem": "Please follow every ______ on the box when you cook the noodles.",
     "options": [
      "expense",
      "failure",
@@ -2030,7 +2030,7 @@
     ],
     "answer": 2,
     "word": "L0-0300",
-    "explain": "煮麵前要看盒子上的「說明」，故選 instruction。expense（花費）、failure（失敗）、garlic（大蒜）放進去都不通順。"
+    "explain": "煮麵時要遵照盒子上的每一項「說明」，故選 instruction。expense（花費）、failure（失敗）、garlic（大蒜）放進去都不通順。"
    },
    {
     "stem": "Please tell me the ______ time of the meeting.",
@@ -2042,7 +2042,7 @@
     ],
     "answer": 1,
     "word": "L0-0287",
-    "explain": "「確切的時間」用 exact time，故選 exact。dull（無聊的）、grand（盛大的）、domestic（國內的）不能修飾 time。"
+    "explain": "「確切的時間」用 exact time，故選 exact。dull（無聊的）、grand（盛大的）、domestic（國內的）放進句中語意都不通。"
    }
   ],
   "status": "ok"
@@ -2060,9 +2060,9 @@
    "Mia felt shy. It took some [[nerve|L0-0315]] to say yes. But at the club, everyone was kind. Mia was a good [[listener|L0-0309]], and slowly she learned to share her own ideas too. She even wrote a short [[essay|L0-0200]] about the ladybug. Now she goes to the library every Saturday, with tea in her own [[mug|L0-0314]]."
   ],
   "zh": [
-   "米雅很愛書，但她從來沒有圖書證。十五歲生日那天，媽媽帶她到市立圖書館辦會員證。一位友善的、是書本專家的館員，教她如何為圖書館的電腦設定密碼。她說：「要保密喔。而且請設一個適當的密碼，不要只用你的生日。」",
-   "到了樓上，米雅找到一本詩集，坐在軟軟的椅子上，把書放在腿上。一隻小瓢蟲落在書頁上。她從包包裡拿出一片放大鏡，仔細地看著牠。窗邊有個落單的女孩正在日記本上寫字。女孩說：「我是莉莎。你想加入我們的讀書會嗎？就在附近，隔壁房間。」",
-   "米雅覺得害羞。要說好，需要一點勇氣。但在讀書會裡，每個人都很親切。米雅是個很好的聆聽者，慢慢地她也學會分享自己的想法。她甚至寫了一篇關於瓢蟲的短文。現在她每個星期六都去圖書館，帶著裝了茶的自己的馬克杯。"
+   "米雅很愛書，但她從來沒有圖書證。十五歲生日那天，媽媽帶她到市立圖書館辦會員證。有一位親切的館員是書籍專家，她教米雅如何為圖書館的電腦設定密碼。她說：「要保密喔。而且請設一個適當的密碼，不要只用你的生日。」",
+   "到了樓上，米雅找到一本詩集，坐在軟軟的椅子上，把書放在腿上。一隻小瓢蟲落在書頁上。她從包包裡拿出一個放大鏡，仔細地看著牠。窗邊有個落單的女孩正在日記本上寫字。女孩說：「我是莉莎。你想加入我們的讀書會嗎？就在附近，隔壁房間。」",
+   "米雅覺得害羞。要說好，需要一點勇氣。但在讀書會裡，每個人都很親切。米雅是個很好的聆聽者，慢慢地她也學會分享自己的想法。她甚至寫了一篇關於瓢蟲的短文。現在她每個星期六都去圖書館，帶著自己的馬克杯，裡面裝著茶。"
   ],
   "glosses": [],
   "targets": [
@@ -2108,7 +2108,7 @@
      "money"
     ],
     "answer": 1,
-    "explain": "Mia 很害羞，要答應加入需要「勇氣」，nerve 在此指 courage，故選 (B)。",
+    "explain": "米雅很害羞，要答應加入需要「勇氣」，nerve 在此指 courage，故選 (B)。",
     "evidence": "It took some nerve to say yes."
    },
    {
@@ -2174,7 +2174,7 @@
   "title": "Sleep Tips for Teens",
   "topic": "健康・睡眠",
   "paragraphs": [
-   "Many [[teens|L0-0337]] do not get enough sleep. A student needs eight to ten hours each night, but a large [[quantity|L0-0323]] of homework and late-night phone use takes that time away. When you do not sleep well, your body and mind [[tire|L0-0340]] quickly, and your grades may [[slip|L0-0331]]. One [[pupil|L0-0322]] in a school report said even a simple [[spelling|L0-0334]] test felt hard after a short night.",
+   "Many [[teens|L0-0337]] do not get enough sleep. A student needs eight to ten hours each night, but a large [[quantity|L0-0323]] of homework and late-night phone use take that time away. When you do not sleep well, your body and mind [[tire|L0-0340]] quickly, and your grades may [[slip|L0-0331]]. One [[pupil|L0-0322]] in a school report said even a simple [[spelling|L0-0334]] test felt hard after a short night.",
    "How can you sleep better? First, stop looking at your phone one hour before bed, and do not [[reply|L0-0324]] to messages in bed. Second, have a light snack, like a small cup of [[pudding|L0-0321]] or warm milk, instead of a big meal. Third, choose a calm activity from a [[selection|L0-0330]] such as reading a short [[tale|L0-0336]], listening to soft music, or writing in a diary. Do not [[scare|L0-0329]] yourself with exam worries. Write them down and leave them on your desk.",
    "Good sleep is important for health, and even for [[survival|L0-0335]]. A farm child in a [[southern|L0-0333]] town may wake up with the [[rooster|L0-0327]], but a city student can use an alarm clock. Pick a fixed time and keep it every day. Make [[gradual|L0-0207]] changes, and in one week your [[mood|L0-0219]] will be better."
   ],
@@ -2216,7 +2216,7 @@
     ],
     "answer": 1,
     "explain": "第一段直接寫出學生每晚需要八到十小時，故選 (B)。",
-    "evidence": "A student needs eight to ten hours each night, but a large quantity of homework and late-night phone use takes that time away."
+    "evidence": "A student needs eight to ten hours each night, but a large quantity of homework and late-night phone use take that time away."
    },
    {
     "type": "字義",
@@ -2296,10 +2296,10 @@
   "paragraphs": [
    "Hi Uncle, thanks for your last email. You asked what I want to do in the future. I am not sure yet, but I have some ideas. [[Whoever|L0-0345]] asks me, I give a different answer! Last year I wanted to be a farmer like you, because I love your [[yam|L0-0348]] fields. This year I like computers. I want to design an app, so that every [[user|L0-0343]] can enjoy it easily.",
    "Last week, I got a low score on a test and felt [[upset|L0-0342]]. Mom did not get angry. She spoke in a calm [[tone|L0-0341]]: \"Your future is not decided by one test.\" Then I asked an [[expert|L0-0202]] in my school, our computer teacher, for advice. He told me to learn a little every day, and to find free lessons [[online|L0-0223]].",
-   "Last Saturday, my art teacher showed us how to make a small toy from [[wool|L0-0347]] and [[wire|L0-0346]]. It was so much fun! Maybe my future will be about both art and computers. I will make [[gradual|L0-0207]] steps and not worry too much. [[Wherever|L0-0344]] I end up, I will visit your farm. Please say hello to Auntie for me.\n\nYour nephew, Leo"
+   "Last Saturday, my art teacher showed us how to make a small toy from [[wool|L0-0347]] and [[wire|L0-0346]]. It was so much fun! Maybe my future will be about both art and computers. I will take [[gradual|L0-0207]] steps and not worry too much. [[Wherever|L0-0344]] I end up, I will visit your farm. Please say hello to Auntie for me.\n\nYour nephew, Leo"
   ],
   "zh": [
-   "叔叔你好，謝謝你上次的來信。你問我未來想做什麼。我還不確定，但我有一些想法。不管是誰問我，我都給不同的答案！去年我想像你一樣當農夫，因為我很喜歡你的地瓜田。今年我喜歡電腦。我想設計一款應用程式，讓每一位使用者都能輕鬆地享受它。",
+   "叔叔你好，謝謝你上次的來信。你問我未來想做什麼。我還不確定，但我有一些想法。不管是誰問我，我都給不同的答案！去年我想像你一樣當農夫，因為我很喜歡你的地瓜田。今年我喜歡電腦。我想設計一款應用程式，讓每一位使用者都能輕鬆使用、樂在其中。",
    "上週，我考試得了低分，覺得很沮喪。媽媽沒有生氣，她用平靜的語氣說：「你的未來不是由一次考試決定的。」於是我去請教學校裡的一位專家，也就是我們的電腦老師。他告訴我每天學一點，並且上網找免費的課程。",
    "上週六，美術老師教我們用羊毛和鐵絲做一個小玩具。真的好好玩！也許我的未來會同時跟藝術和電腦有關。我會一步一步慢慢來，不要太擔心。不管我最後去到哪裡，我都會去拜訪你的農場。請替我向嬸嬸問好。\n\n你的姪子 李奧"
   ],
@@ -2363,7 +2363,7 @@
     "type": "主旨",
     "stem": "What is the email mainly about?",
     "options": [
-     "How to grow yam",
+     "How to grow yams",
      "How to make a toy",
      "A test that was too hard",
      "A student's thoughts about his future"
@@ -2410,14 +2410,14 @@
   "topic": "故事・旅程與成長",
   "paragraphs": [
    "Ken opened his [[journal|L0-0303]] on the last night of the first stage of his journey. Eighteen days ago, he started with a small bag and a big worry. He was not very [[skilled|L0-0242]] at English then, and many new words looked like a [[rocky|L0-0326]] road. He was afraid he would give up after only a few days. He did not know if he could walk it to the end.",
-   "Some days were hard. Once, he got a low score and felt [[upset|L0-0342]]. His teacher spoke in a kind [[tone|L0-0341]]. \"A [[failure|L0-0291]] is not the end of a [[tale|L0-0336]],\" she said. \"It is only one page.\" Ken was [[willing|L0-0257]] to try again. He followed her [[instruction|L0-0300]]: read a little every day, say the words aloud, and be a good [[listener|L0-0309]] when others speak.",
-   "Now Ken could [[admit|L0-0260]] something. He was proud. He had made [[grand|L0-0298]] progress, and he felt a first taste of [[independence|L0-0299]]. Every minute had been [[worth|L0-0259]] it. In the book, he wrote one short line: \"Small steps still take me far.\"",
-   "The next day, a new road would open. It would lead to Forest Town, the next part of the journey, where the senior-high stage begins. [[Wherever|L0-0344]] the road goes, Ken will carry his journal. [[Whoever|L0-0345]] he meets there, he will say hello with a smile. He closed the book and [[whispered|L0-0254]], \"I am ready.\""
+   "Some days were hard. Once, he got a low score and felt [[upset|L0-0342]]. His teacher spoke in a kind [[tone|L0-0341]]. \"A [[failure|L0-0291]] is not the end of a [[tale|L0-0336]],\" she said. \"It is only one page.\" Ken was [[willing|L0-0257]] to try again. He followed her [[instruction|L0-0300]]s: read a little every day, say the words aloud, and be a good [[listener|L0-0309]] when others speak.",
+   "Now Ken could [[admit|L0-0260]] something. He was proud. He had made real progress. The first stage had been a [[grand|L0-0298]] adventure, and it had given him his first taste of [[independence|L0-0299]]. Every minute had been [[worth|L0-0259]] it. In the book, he wrote one short line: \"Small steps still take me far.\"",
+   "The next day, a new road would open. It would lead to Forest Town, the next part of the journey, where the senior-high stage begins. [[Wherever|L0-0344]] the road went, Ken would carry his journal. [[Whoever|L0-0345]] he met there, he would say hello with a smile. He closed the book and [[whispered|L0-0254]], \"I am ready.\""
   ],
   "zh": [
    "肯在旅程第一階段的最後一晚，翻開了他的日記。十八天前，他背著一個小包包出發，心裡卻有很大的擔憂。那時他的英文不太熟練，許多新單字看起來像一條崎嶇的路。他怕自己才過幾天就會放棄。他不知道自己能不能走到終點。",
    "有些日子很辛苦。有一次，他考了低分，覺得很沮喪。老師用溫和的語氣說：「失敗不是故事的結束，只是其中一頁。」肯願意再試一次。他照著老師的指示：每天讀一點，把單字大聲念出來，別人說話時當個好聽眾。",
-   "現在，肯可以承認一件事：他很驕傲。他有了了不起的進步，也嚐到了獨立的第一口滋味。每一分鐘都很值得。在書裡，他寫下簡短的一句話：「小小的步伐，依然能帶我走得很遠。」",
+   "現在，肯可以承認一件事：他很驕傲。他真的進步了。第一階段是一場壯闊的冒險，也讓他第一次嚐到獨立的滋味。每一分鐘都很值得。在書裡，他寫下簡短的一句話：「小小的步伐，依然能帶我走得很遠。」",
    "隔天，一條新的路將會展開。它會通往森林鎮，也就是旅程的下一站，高中階段從那裡開始。不管這條路通往哪裡，肯都會帶著他的日記。不管他在那裡遇見誰，他都會微笑著打招呼。他闔上書，輕聲說：「我準備好了。」"
   ],
   "glosses": [],
@@ -2492,7 +2492,7 @@
     ],
     "answer": 2,
     "explain": "全文寫肯從擔憂、挫折到進步與自信，並準備前往下一階段，故選 (C)。",
-    "evidence": "He had made grand progress, and he felt a first taste of independence."
+    "evidence": "He had made real progress."
    }
   ],
   "vocab": [

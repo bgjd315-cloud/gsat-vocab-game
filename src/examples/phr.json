@@ -5,7 +5,7 @@
   "zh": "……的其餘部分；其餘的",
   "say": "the rest of",
   "en": "Amy finished her homework early, so she spent the rest of the evening reading.",
-  "exzh": "Amy 很早就寫完功課，所以剩下的晚上時間她都在看書。",
+  "exzh": "Amy 很早就寫完功課，所以晚上剩下的時間她都在看書。",
   "targets": [
    "the rest of"
   ],
@@ -18,7 +18,7 @@
   "zh": "親自；當面",
   "say": "in person",
   "en": "Ben had only known Kevin online, but they finally met in person at the club camp.",
-  "exzh": "Ben 以前只在網路上認識 Kevin，後來他們終於在社團營隊上見到了本人。",
+  "exzh": "Ben 以前只在網路上認識 Kevin，後來兩人終於在社團營隊上見到面。",
   "targets": [
    "in person"
   ],
@@ -217,7 +217,7 @@
   "zh": "留心尋找；密切注意",
   "say": "be on the lookout for",
   "en": "Lisa is on the lookout for a cheap used bike for her part-time job.",
-  "exzh": "Lisa 正在留意有沒有便宜的二手腳踏車，好用來打工。",
+  "exzh": "Lisa 正在留意有沒有便宜的二手腳踏車，好騎去打工。",
   "targets": [
    "is on the lookout for"
   ],
@@ -253,7 +253,7 @@
  {
   "id": "P-0020",
   "phrase": "up to",
-  "zh": "多達；取決於；由⋯⋯決定",
+  "zh": "多達；由⋯⋯決定",
   "say": "up to",
   "en": "The school bus can carry up to forty students.",
   "exzh": "這輛校車最多可以載四十名學生。",
@@ -269,7 +269,7 @@
   "zh": "由於；因為",
   "say": "due to",
   "en": "The game was moved indoors due to the heavy rain.",
-  "exzh": "由於下大雨，比賽被移到室內舉行。",
+  "exzh": "由於下大雨，比賽改到室內舉行。",
   "targets": [
    "due to"
   ],
@@ -384,7 +384,7 @@
  {
   "id": "P-0030",
   "phrase": "end up",
-  "zh": "最後落得；終究",
+  "zh": "最後（成為、來到）；落得",
   "say": "end up",
   "en": "We got lost and ended up at a small park.",
   "exzh": "我們迷了路，最後來到一座小公園。",
@@ -397,10 +397,10 @@
  {
   "id": "P-0031",
   "phrase": "even though",
-  "zh": "即使；雖然",
+  "zh": "儘管；雖然",
   "say": "even though",
   "en": "Kevin went to practice even though he felt tired.",
-  "exzh": "即使覺得很累，Kevin 還是去練習了。",
+  "exzh": "儘管覺得很累，Kevin 還是去練習了。",
   "targets": [
    "even though"
   ],
@@ -843,7 +843,7 @@
   "zh": "有成果；得到回報",
   "say": "pay off",
   "en": "Amy's hard work paid off when she won first prize in the contest.",
-  "exzh": "Amy 的努力在她比賽得到第一名時有了回報。",
+  "exzh": "Amy 在比賽中得到第一名，她的努力有了回報。",
   "targets": [
    "paid off"
   ],
@@ -910,7 +910,7 @@
   "zh": "習慣於⋯⋯",
   "say": "be used to",
   "en": "Kevin is used to waking up at six for school.",
-  "exzh": "Kevin 已經習慣為了上學在六點起床。",
+  "exzh": "Kevin 已經習慣六點起床去上學。",
   "targets": [
    "is used to"
   ],
@@ -1261,7 +1261,7 @@
   "zh": "和解；言歸於好",
   "say": "make peace",
   "en": "Kevin and Ben made peace after their argument about the game.",
-  "exzh": "Kevin 和 Ben 在為了比賽吵架後和好了。",
+  "exzh": "Kevin 和 Ben 為了比賽吵過架後，又和好了。",
   "targets": [
    "made peace"
   ],
@@ -1324,7 +1324,7 @@
  {
   "id": "P-0102",
   "phrase": "as well as",
-  "zh": "和⋯⋯一樣；以及",
+  "zh": "以及；除了⋯⋯以外（還）；和⋯⋯一樣好",
   "say": "as well as",
   "en": "Amy plays the piano as well as the violin.",
   "exzh": "Amy 除了拉小提琴，也會彈鋼琴。",
@@ -1353,7 +1353,7 @@
   "zh": "目前；現在",
   "say": "at present",
   "en": "At present, Amy is too busy with club activities to join our trip.",
-  "exzh": "Amy目前忙於社團活動，沒辦法加入我們的旅行。",
+  "exzh": "Amy 目前忙於社團活動，沒辦法加入我們的旅行。",
   "targets": [
    "At present"
   ],
@@ -1366,7 +1366,7 @@
   "zh": "試一試⋯⋯",
   "say": "give something a try",
   "en": "Ben was afraid of rock climbing, but he decided to give it a try.",
-  "exzh": "Ben原本很怕攀岩，但他決定試一試。",
+  "exzh": "Ben 原本很怕攀岩，但他決定試一試。",
   "targets": [
    "give",
    "a try"
@@ -1394,7 +1394,7 @@
   "zh": "參加",
   "say": "take part in",
   "en": "Kevin wants to take part in the school science fair this year.",
-  "exzh": "Kevin今年想參加學校的科學展。",
+  "exzh": "Kevin 今年想參加學校的科學展。",
   "targets": [
    "take part in"
   ],
@@ -1433,7 +1433,7 @@
   "zh": "幫忙；幫⋯⋯一把",
   "say": "help someone out",
   "en": "Lisa often helps her mom out at the family shop after school.",
-  "exzh": "Lisa放學後常到家裡的店幫媽媽的忙。",
+  "exzh": "Lisa 放學後常到家裡的店幫媽媽的忙。",
   "targets": [
    "helps",
    "out"
@@ -1447,7 +1447,7 @@
   "zh": "發放；分發",
   "say": "hand out",
   "en": "Mr. Chen asked me to hand out the test papers to everyone.",
-  "exzh": "Mr. Chen請我把考卷發給大家。",
+  "exzh": "陳老師請我把考卷發給大家。",
   "targets": [
    "hand out"
   ],
@@ -1460,7 +1460,7 @@
   "zh": "承擔；接下",
   "say": "take on",
   "en": "Kevin took on the job of cleaning the science lab every week.",
-  "exzh": "Kevin接下了每週打掃自然教室的工作。",
+  "exzh": "Kevin 接下了每週打掃自然教室的工作。",
   "targets": [
    "took on"
   ],
@@ -1473,7 +1473,7 @@
   "zh": "後來；稍後",
   "say": "later on",
   "en": "Amy was shy at first, but later on she became our class leader.",
-  "exzh": "Amy起初很害羞，但後來當上了我們的班長。",
+  "exzh": "Amy 起初很害羞，但後來當上了我們的班長。",
   "targets": [
    "later on"
   ],
@@ -1499,7 +1499,7 @@
   "zh": "太⋯⋯而無法⋯⋯",
   "say": "too something to do something",
   "en": "The box was too heavy for Lisa to carry up the stairs alone.",
-  "exzh": "這個箱子太重了，Lisa一個人搬不上樓梯。",
+  "exzh": "這個箱子太重了，Lisa 一個人沒辦法搬上樓。",
   "targets": [
    "too",
    "to"
@@ -1513,7 +1513,7 @@
   "zh": "在⋯⋯中扮演重要角色",
   "say": "play an important role in",
   "en": "Sleep plays an important role in how well students learn at school.",
-  "exzh": "睡眠對學生在學校的學習成效扮演重要的角色。",
+  "exzh": "睡眠在學生的課業學習成效上扮演重要的角色。",
   "targets": [
    "plays an",
    "role in"
@@ -1553,7 +1553,7 @@
   "zh": "趕到；成功抵達",
   "say": "make it to",
   "en": "Lisa ran fast and made it to the station before the train left.",
-  "exzh": "Lisa跑得很快，在火車開走前趕到了車站。",
+  "exzh": "Lisa 跑得很快，在火車開走前趕到了車站。",
   "targets": [
    "made it to"
   ],
@@ -1579,7 +1579,7 @@
   "zh": "邀請某人來家裡",
   "say": "invite someone over",
   "en": "Kevin invited his classmates over to watch the baseball game at his house.",
-  "exzh": "Kevin邀請同學來他家看棒球比賽。",
+  "exzh": "Kevin 邀請同學來他家看棒球比賽。",
   "targets": [
    "invited",
    "over"
@@ -1647,7 +1647,7 @@
   "zh": "利用",
   "say": "make use of",
   "en": "Amy makes good use of her time on the bus to review English words.",
-  "exzh": "Amy善加利用搭公車的時間複習英文單字。",
+  "exzh": "Amy 善加利用搭公車的時間複習英文單字。",
   "targets": [
    "makes",
    "use of"
@@ -1661,7 +1661,7 @@
   "zh": "國際太空站",
   "say": "I S S",
   "en": "Mr. Chen showed a video about life on the ISS in science class.",
-  "exzh": "Mr. Chen在自然課播放了一部關於國際太空站生活的影片。",
+  "exzh": "陳老師在自然課播放了一部關於國際太空站生活的影片。",
   "targets": [
    "ISS"
   ],
@@ -1687,7 +1687,7 @@
   "zh": "健身運動；解決",
   "say": "work out",
   "en": "Ben works out in the school gym three times a week.",
-  "exzh": "Ben每週在學校的健身房運動三次。",
+  "exzh": "Ben 每週在學校的健身房運動三次。",
   "targets": [
    "works out"
   ],
@@ -1713,7 +1713,7 @@
   "zh": "躺下休息",
   "say": "have a lie-down",
   "en": "After the long hike, Lisa wanted to have a lie-down for a while.",
-  "exzh": "長程健行後，Lisa想躺下來休息一會兒。",
+  "exzh": "長程健行後，Lisa 想躺下來休息一會兒。",
   "targets": [
    "have a lie-down"
   ],
@@ -1740,7 +1740,7 @@
   "zh": "使⋯⋯振作；讓⋯⋯開心",
   "say": "cheer someone up",
   "en": "Amy brought cookies to cheer her little brother up.",
-  "exzh": "Amy帶了餅乾來逗弟弟開心。",
+  "exzh": "Amy 帶了餅乾來逗弟弟開心。",
   "targets": [
    "cheer",
    "up"
@@ -1754,7 +1754,7 @@
   "zh": "拒絕；調低",
   "say": "turn someone down",
   "en": "Ben turned the invitation down because he had a test the next day.",
-  "exzh": "Ben婉拒了邀請，因為他隔天有考試。",
+  "exzh": "Ben 婉拒了邀請，因為他隔天有考試。",
   "targets": [
    "turned",
    "down"
@@ -1768,7 +1768,7 @@
   "zh": "即將",
   "say": "be about to",
   "en": "The bus was about to leave when Lisa ran to the stop.",
-  "exzh": "Lisa跑到站牌時，公車正要開走。",
+  "exzh": "Lisa 跑到站牌時，公車正要開走。",
   "targets": [
    "was about to"
   ],
@@ -1781,7 +1781,7 @@
   "zh": "畢竟；終究",
   "say": "after all",
   "en": "Don't be upset with Kevin; he is only a beginner after all.",
-  "exzh": "別對Kevin生氣，他畢竟只是個新手。",
+  "exzh": "別對 Kevin 生氣，他畢竟只是個新手。",
   "targets": [
    "after all"
   ],
@@ -1794,7 +1794,7 @@
   "zh": "去世",
   "say": "pass away",
   "en": "Amy's grandfather passed away last year, and she still misses him.",
-  "exzh": "Amy的爺爺去年過世了，她仍然很想念他。",
+  "exzh": "Amy 的爺爺去年過世了，她仍然很想念他。",
   "targets": [
    "passed away"
   ],
@@ -1820,7 +1820,7 @@
   "zh": "反覆試驗；不斷嘗試",
   "say": "trial and error",
   "en": "Ben learned to cook by trial and error in his family's kitchen.",
-  "exzh": "Ben在家裡的廚房不斷嘗試錯誤，學會了做菜。",
+  "exzh": "Ben 在家裡的廚房不斷嘗試錯誤，學會了做菜。",
   "targets": [
    "trial and error"
   ],
@@ -1833,7 +1833,7 @@
   "zh": "負責；主管",
   "say": "in charge of",
   "en": "Lisa is in charge of the school newspaper this semester.",
-  "exzh": "Lisa這學期負責學校的校刊。",
+  "exzh": "Lisa 這學期負責校刊。",
   "targets": [
    "in charge"
   ],
@@ -1846,7 +1846,7 @@
   "zh": "弄清楚；想出",
   "say": "figure out",
   "en": "It took Amy an hour to figure out the math problem.",
-  "exzh": "Amy花了一個小時才解出這道數學題。",
+  "exzh": "Amy 花了一個小時才解出這道數學題。",
   "targets": [
    "figure out"
   ],
@@ -1873,7 +1873,7 @@
   "zh": "開始認真做⋯⋯",
   "say": "get down to something",
   "en": "After lunch, Kevin got down to studying for the history test.",
-  "exzh": "午餐後，Kevin開始認真準備歷史考試。",
+  "exzh": "午餐後，Kevin 開始認真準備歷史考試。",
   "targets": [
    "got down to"
   ],
@@ -1886,7 +1886,7 @@
   "zh": "用完；耗盡",
   "say": "run out of",
   "en": "We ran out of paper, so Mr. Chen got some from the office.",
-  "exzh": "我們的紙用完了，所以Mr. Chen去辦公室拿了一些。",
+  "exzh": "我們的紙用完了，所以陳老師去辦公室拿了一些。",
   "targets": [
    "ran out of"
   ],
@@ -1899,7 +1899,7 @@
   "zh": "彌補",
   "say": "make up for",
   "en": "Ben studied extra hard this week to make up for his low score.",
-  "exzh": "Ben這週格外用功，想彌補他的低分。",
+  "exzh": "Ben 這週格外用功，想彌補他的低分。",
   "targets": [
    "make up for"
   ],
@@ -1925,7 +1925,7 @@
   "zh": "成為⋯⋯的受害者",
   "say": "fall victim to",
   "en": "Many students fell victim to a bad cold after the long rainy week.",
-  "exzh": "在連續下雨的一週後，許多學生得了重感冒。",
+  "exzh": "連續下了一週的雨後，許多學生都得了重感冒。",
   "targets": [
    "fell victim to"
   ],
@@ -1964,7 +1964,7 @@
   "zh": "把⋯⋯嚇死",
   "say": "scare someone to death",
   "en": "The loud noise in the dark hall scared Lisa to death.",
-  "exzh": "黑暗走廊裡的巨大聲響把Lisa嚇死了。",
+  "exzh": "黑暗走廊裡的巨大聲響把 Lisa 嚇得半死。",
   "targets": [
    "scared",
    "to death"
@@ -2031,7 +2031,7 @@
   "zh": "把⋯⋯變成⋯⋯",
   "say": "turn something into something",
   "en": "Mom turned the old box into a pencil case for me.",
-  "exzh": "媽媽把舊盒子改成了一個鉛筆盒給我。",
+  "exzh": "媽媽把舊盒子改成鉛筆盒給我用。",
   "targets": [
    "turned",
    "into"
@@ -2059,7 +2059,7 @@
   "zh": "面對面",
   "say": "face to face",
   "en": "Amy talked to her pen pal face to face for the first time.",
-  "exzh": "Amy第一次和她的筆友面對面聊天。",
+  "exzh": "Amy 第一次和她的筆友面對面聊天。",
   "targets": [
    "face to face"
   ],
@@ -2072,7 +2072,7 @@
   "zh": "突出；顯眼",
   "say": "stand out",
   "en": "Kevin's red jacket made him stand out in the crowd.",
-  "exzh": "Kevin的紅外套讓他在人群中很顯眼。",
+  "exzh": "Kevin 的紅外套讓他在人群中很顯眼。",
   "targets": [
    "stand out"
   ],
@@ -2085,7 +2085,7 @@
   "zh": "愛上",
   "say": "fall in love with",
   "en": "Lisa fell in love with photography after joining the school club.",
-  "exzh": "Lisa加入學校社團後，愛上了攝影。",
+  "exzh": "Lisa 加入學校社團後，愛上了攝影。",
   "targets": [
    "fell in love with"
   ],
@@ -2111,7 +2111,7 @@
   "zh": "偶然發現；偶然遇到",
   "say": "come upon",
   "en": "While cleaning the library, Ben came upon an old map.",
-  "exzh": "在打掃圖書館時，Ben意外發現了一張舊地圖。",
+  "exzh": "在打掃圖書館時，Ben 意外發現了一張舊地圖。",
   "targets": [
    "came upon"
   ],
@@ -2124,7 +2124,7 @@
   "zh": "照顧；喜歡",
   "say": "care for",
   "en": "Amy cares for her sick grandmother after school.",
-  "exzh": "Amy放學後照顧生病的奶奶。",
+  "exzh": "Amy 放學後照顧生病的奶奶。",
   "targets": [
    "cares for"
   ],
@@ -2176,7 +2176,7 @@
   "zh": "作為回報",
   "say": "in return for",
   "en": "Amy helped Ben with math, and he cooked lunch for her in return.",
-  "exzh": "Amy幫Ben補數學，他則煮午餐回報她。",
+  "exzh": "Amy 幫 Ben 補數學，他則煮午餐回報她。",
   "targets": [
    "in return"
   ],
@@ -2216,7 +2216,7 @@
   "zh": "也；同樣",
   "say": "as well",
   "en": "Ben plays the piano, and he sings as well.",
-  "exzh": "Ben會彈鋼琴，也會唱歌。",
+  "exzh": "Ben 會彈鋼琴，也會唱歌。",
   "targets": [
    "as well"
   ],
@@ -2228,8 +2228,8 @@
   "phrase": "in the case of...",
   "zh": "就⋯⋯而言；在⋯⋯的情況下",
   "say": "in the case of",
-  "en": "In the case of heavy rain, the picnic will be moved indoors.",
-  "exzh": "如果下大雨，野餐會改到室內舉行。",
+  "en": "Most birds use their wings to fly. In the case of penguins, their wings are used for swimming.",
+  "exzh": "大多數鳥類用翅膀飛行，但就企鵝來說，牠們的翅膀是用來游泳的。",
   "targets": [
    "In the case of"
   ],
@@ -2255,7 +2255,7 @@
   "zh": "跟著做；效法",
   "say": "follow suit",
   "en": "Amy brought her own cup, and her classmates soon followed suit.",
-  "exzh": "Amy自備杯子，同學們很快也跟著這麼做。",
+  "exzh": "Amy 自備杯子，同學們很快也跟著這麼做。",
   "targets": [
    "followed suit"
   ],
@@ -2268,7 +2268,7 @@
   "zh": "除了",
   "say": "aside from",
   "en": "Aside from math, Kevin likes all his school subjects.",
-  "exzh": "除了數學之外，Kevin喜歡所有的學科。",
+  "exzh": "除了數學之外，Kevin 喜歡所有的學科。",
   "targets": [
    "Aside from"
   ],
@@ -2333,7 +2333,7 @@
   "zh": "處理；應付",
   "say": "deal with",
   "en": "Lisa learned how to deal with stress before big exams.",
-  "exzh": "Lisa學會了如何在大考前應付壓力。",
+  "exzh": "Lisa 學會了如何在大考前應付壓力。",
   "targets": [
    "deal with"
   ],
@@ -2346,7 +2346,7 @@
   "zh": "以⋯⋯為樂",
   "say": "take pleasure in",
   "en": "Ben takes pleasure in helping younger students with homework.",
-  "exzh": "Ben樂於指導學弟妹寫功課。",
+  "exzh": "Ben 樂於指導學弟妹寫功課。",
   "targets": [
    "takes pleasure in"
   ],
@@ -2385,7 +2385,7 @@
   "zh": "為⋯⋯送行；寄出",
   "say": "send someone off",
   "en": "Many students came to the station to send Amy off.",
-  "exzh": "許多同學到車站為Amy送行。",
+  "exzh": "許多同學到車站為 Amy 送行。",
   "targets": [
    "send",
    "off"
@@ -2438,7 +2438,7 @@
   "zh": "非常昂貴",
   "say": "cost an arm and a leg",
   "en": "The new phone cost an arm and a leg, so Kevin kept his old one.",
-  "exzh": "那支新手機貴得嚇人，所以Kevin繼續用舊的。",
+  "exzh": "那支新手機貴得嚇人，所以 Kevin 繼續用舊的。",
   "targets": [
    "cost an arm and a leg"
   ],
@@ -2478,7 +2478,7 @@
   "zh": "規劃",
   "say": "map out",
   "en": "Lisa and her friends mapped out their trip to Tainan.",
-  "exzh": "Lisa和朋友們規劃了去台南的旅行。",
+  "exzh": "Lisa 和朋友們規劃了去台南的旅行。",
   "targets": [
    "mapped out"
   ],
@@ -2504,7 +2504,7 @@
   "zh": "留下；遺忘；把⋯⋯拋在後面",
   "say": "leave something behind",
   "en": "Ben left his lunch box behind at home this morning.",
-  "exzh": "Ben今天早上把便當盒忘在家裡了。",
+  "exzh": "Ben 今天早上把便當盒忘在家裡了。",
   "targets": [
    "left",
    "behind"
@@ -2531,7 +2531,7 @@
   "zh": "很快；馬上",
   "say": "in no time",
   "en": "Kevin finished all his math homework in no time after dinner.",
-  "exzh": "Kevin吃完晚餐後，很快就把數學作業寫完了。",
+  "exzh": "Kevin 吃完晚餐後，很快就把數學作業寫完了。",
   "targets": [
    "in no time"
   ],
@@ -2544,7 +2544,7 @@
   "zh": "除了⋯⋯之外還；在⋯⋯上面",
   "say": "on top of",
   "en": "On top of homework, Amy has a part-time job on weekends.",
-  "exzh": "除了功課之外，Amy週末還有一份兼職工作。",
+  "exzh": "除了功課之外，Amy 週末還有一份兼職工作。",
   "targets": [
    "On top of"
   ],
@@ -2570,7 +2570,7 @@
   "zh": "前往",
   "say": "make one's way to",
   "en": "After class, Lisa made her way to the school gym.",
-  "exzh": "下課後，Lisa前往學校的體育館。",
+  "exzh": "下課後，Lisa 前往學校的體育館。",
   "targets": [
    "made",
    "way to"
@@ -2584,7 +2584,7 @@
   "zh": "毫不猶豫；馬上",
   "say": "at the drop of a hat",
   "en": "Kevin will help his friends at the drop of a hat.",
-  "exzh": "Kevin會毫不猶豫地幫助朋友。",
+  "exzh": "Kevin 會毫不猶豫地幫助朋友。",
   "targets": [
    "at the drop of a hat"
   ],
@@ -2663,7 +2663,7 @@
   "zh": "⋯⋯的成果",
   "say": "the fruits of",
   "en": "The medal is the fruit of Amy's long hours of practice.",
-  "exzh": "這面獎牌是Amy長時間練習的成果。",
+  "exzh": "這面獎牌是 Amy 長時間練習的成果。",
   "targets": [
    "the fruit of"
   ],
@@ -2713,7 +2713,7 @@
  {
   "id": "P-0207",
   "phrase": "at a time",
-  "zh": "一次（一個）",
+  "zh": "一次；每次",
   "say": "at a time",
   "en": "The bus is small, so only five students can get on at a time.",
   "exzh": "這輛公車很小，所以一次只能上五位學生。",
@@ -2834,7 +2834,7 @@
   "zh": "步入正軌；進度順利",
   "say": "on track",
   "en": "Ben checks his study plan every week to stay on track for the exam.",
-  "exzh": "Ben 每週檢查讀書計畫，好讓考試準備維持在進度上。",
+  "exzh": "Ben 每週檢查讀書計畫，確保考試準備都照進度進行。",
   "targets": [
    "on track"
   ],
@@ -2948,7 +2948,7 @@
  {
   "id": "P-0225",
   "phrase": "from top to bottom",
-  "zh": "從頭到尾；徹底地",
+  "zh": "從上到下；徹底地",
   "say": "from top to bottom",
   "en": "Our class cleaned the classroom from top to bottom before the visit.",
   "exzh": "參訪之前，我們班把教室從上到下徹底打掃了一遍。",
@@ -3133,7 +3133,7 @@
   "zh": "採取措施",
   "say": "take steps",
   "en": "The school took steps to keep the playground safe for everyone.",
-  "exzh": "學校採取了措施，讓遊樂場對大家都安全。",
+  "exzh": "學校採取了措施，讓每個人都能安全使用遊樂場。",
   "targets": [
    "took steps"
   ],
@@ -3159,7 +3159,7 @@
   "zh": "所討論的；有問題的",
   "say": "in question",
   "en": "The student in question forgot to hand in his homework.",
-  "exzh": "被提到的那位學生忘了交作業。",
+  "exzh": "我們說的那位學生忘了交作業。",
   "targets": [
    "in question"
   ],
@@ -3169,7 +3169,7 @@
  {
   "id": "P-0242",
   "phrase": "to such an extent that...",
-  "zh": "到了⋯⋯的程度以致於",
+  "zh": "到了⋯⋯的程度以至於",
   "say": "to such an extent that",
   "en": "Kevin was tired to such an extent that he fell asleep on the bus.",
   "exzh": "Kevin 累到在公車上睡著了。",
@@ -3263,7 +3263,7 @@
   "zh": "把⋯⋯嚇跑",
   "say": "scare something off",
   "en": "The loud noise scared the birds off the school roof.",
-  "exzh": "巨大的聲響把鳥嚇離了學校的屋頂。",
+  "exzh": "巨大的聲響把鳥從學校屋頂上嚇跑了。",
   "targets": [
    "scared",
    "off"
@@ -3302,7 +3302,7 @@
   "phrase": "come to mind",
   "zh": "浮現腦海；想起",
   "say": "come to mind",
-  "en": "When I hear the word summer, the beach comes to mind.",
+  "en": "When I hear the word \"summer,\" the beach comes to mind.",
   "exzh": "我一聽到「夏天」這個詞，腦中就浮現海灘。",
   "targets": [
    "comes to mind"
@@ -3446,7 +3446,7 @@
   "zh": "保持健康體態",
   "say": "keep in shape",
   "en": "Kevin runs every morning to keep in shape for the basketball season.",
-  "exzh": "Kevin 每天早上跑步，好在籃球季保持良好體態。",
+  "exzh": "Kevin 每天早上跑步，為籃球季保持良好體態。",
   "targets": [
    "keep in shape"
   ],
@@ -3721,7 +3721,7 @@
   "zh": "有助於；促成；走向",
   "say": "make for",
   "en": "Fresh fruit and milk make for a healthy breakfast.",
-  "exzh": "新鮮水果和牛奶有助於構成健康的早餐。",
+  "exzh": "新鮮水果配牛奶，就是一頓健康的早餐。",
   "targets": [
    "make for"
   ],
@@ -3734,7 +3734,7 @@
   "zh": "把⋯⋯放在心上；真心為⋯⋯著想",
   "say": "have something at heart",
   "en": "Our teacher always has our best interests at heart.",
-  "exzh": "我們的老師總是真心為我們的最佳利益著想。",
+  "exzh": "我們的老師總是真心為我們著想。",
   "targets": [
    "has",
    "at heart"
@@ -3761,7 +3761,7 @@
   "zh": "更好的是",
   "say": "better still",
   "en": "Walk to school, or better still, ride a bike.",
-  "exzh": "走路去學校，或者更好的是騎腳踏車。",
+  "exzh": "走路去學校，或者騎腳踏車更好。",
   "targets": [
    "better still"
   ],
@@ -3799,8 +3799,8 @@
   "phrase": "at a price",
   "zh": "付出代價",
   "say": "at a price",
-  "en": "Amy won the contest, but it was at a price, because she had no free weekends.",
-  "exzh": "Amy 贏得了比賽，但這是有代價的，因為她沒有任何空閒的週末。",
+  "en": "Amy won the contest, but at a price: she had to give up all her free weekends.",
+  "exzh": "Amy 贏得了比賽，但也付出了代價：她不得不放棄所有空閒的週末。",
   "targets": [
    "at a price"
   ],
@@ -3954,7 +3954,7 @@
  {
   "id": "P-0302",
   "phrase": "be heavy with",
-  "zh": "充滿著⋯⋯；沉重地帶著⋯⋯",
+  "zh": "充滿著⋯⋯；因⋯⋯而沉甸甸的",
   "say": "be heavy with",
   "en": "The air was heavy with the smell of rain after the hot day.",
   "exzh": "炎熱的一天過後，空氣中瀰漫著雨的氣味。",

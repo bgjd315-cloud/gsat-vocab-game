@@ -7,18 +7,19 @@
 #   python -I -X utf8 tools/gen_audio.py . --forms      產生詞性變化相關字（audio/f/<slug>.mp3）
 #   python -I -X utf8 tools/gen_audio.py . --passages   產生文章逐段朗讀（audio/p/<id>_<段>.mp3）
 #   python -I -X utf8 tools/gen_audio.py . --gsat       產生學測闖關文章朗讀（同樣放 audio/p/）
-#   加 --limit 20 只做前 20 個（試聽用）
+#   加 --limit 20 只做前 20 個（試聽用）；加 --force 連已存在的檔案也重錄（改語速時用）
 # 已經存在的檔案會跳過；最後更新 audio/index.json 給網站讀取。
 import json, os, re, sys, base64, time, urllib.request, urllib.error
 
 ROOT = sys.argv[1]
 args = sys.argv[2:]
 DRY = '--dry' in args
+FORCE = '--force' in args
 LIMIT = int(args[args.index('--limit') + 1]) if '--limit' in args else None
 VOICE_WORD = {'languageCode': 'en-US', 'name': 'en-US-Neural2-F'}   # 美式女聲
 VOICE_SENT = {'languageCode': 'en-US', 'name': 'en-US-Neural2-F'}
 CFG_WORD = {'audioEncoding': 'MP3', 'speakingRate': 0.9, 'sampleRateHertz': 24000}
-CFG_SENT = {'audioEncoding': 'MP3', 'speakingRate': 0.95, 'sampleRateHertz': 24000}
+CFG_SENT = {'audioEncoding': 'MP3', 'speakingRate': 0.82, 'sampleRateHertz': 24000}   # 約每分鐘 138 字，接近空中英語教室等學習節目的語速（原 0.95 約 166 字）
 
 words = json.load(open(os.path.join(ROOT, 'src', 'words.json'), encoding='utf-8'))
 
@@ -59,7 +60,7 @@ if '--trans' in args or DRY:
 PASS = {}
 if '--passages' in args or DRY:
     import glob as _g
-    CFG_PASS = {'audioEncoding': 'MP3', 'speakingRate': 0.92, 'sampleRateHertz': 22050}
+    CFG_PASS = {'audioEncoding': 'MP3', 'speakingRate': 0.82, 'sampleRateHertz': 22050}   # 約每分鐘 138 字（原 0.92 約 154 字）
     for fp in sorted(_g.glob(os.path.join(ROOT, 'src', 'reading', '*.json'))):
         for r in json.load(open(fp, encoding='utf-8')):
             if r.get('status') != 'ok': continue
@@ -69,7 +70,7 @@ if '--passages' in args or DRY:
             jobs += [('p', f"{r['id']}_{i}", x, VOICE_SENT, CFG_PASS) for i, x in enumerate(paras)]
 # 學測闖關文章逐段朗讀（閱讀測驗原文；綜合測驗／文意選填填入答案後的全文）
 if '--gsat' in args or DRY:
-    CFG_PASS = {'audioEncoding': 'MP3', 'speakingRate': 0.92, 'sampleRateHertz': 22050}
+    CFG_PASS = {'audioEncoding': 'MP3', 'speakingRate': 0.82, 'sampleRateHertz': 22050}   # 約每分鐘 138 字（原 0.92 約 154 字）
     for fn, kind in (('gsat_rc.json', 'rc'), ('gsat_cz.json', 'cz')):
         fp = os.path.join(ROOT, 'src', 'examples', fn)
         if not os.path.exists(fp): continue
@@ -94,7 +95,7 @@ URL = 'https://texttospeech.googleapis.com/v1/text:synthesize?key=' + KEY
 done = skipped = failed = 0
 for kind, wid, text, voice, cfg in jobs:
     out = os.path.join(ROOT, 'audio', kind, wid + '.mp3')
-    if os.path.exists(out): skipped += 1; continue
+    if os.path.exists(out) and not FORCE: skipped += 1; continue
     os.makedirs(os.path.dirname(out), exist_ok=True)
     body = json.dumps({'input': {'text': text}, 'voice': voice, 'audioConfig': cfg}).encode('utf-8')
     for attempt in range(3):

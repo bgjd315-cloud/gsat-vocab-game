@@ -8,14 +8,14 @@
   "topic": "電子郵件・辦公室文書",
   "paragraphs": [
    "To: All staff\nFrom: Dana Lee, Office Manager\nSubject: Changes to office paperwork",
-   "Starting on March 1, we will [[streamline|TO-0020]] our office [[paperwork|TO-0006]]. At the moment, too many forms are printed, signed, and kept in the [[storeroom|TO-0023]]. Most [[departmental|TO-0024]] forms will now be sent [[electronically|TO-0026]]. You will open the new system with your own [[login|TO-0013]], so please do not share it. Any [[unauthorized|TO-0030]] use will be reported to your manager.",
+   "Starting on March 1, we will [[streamline|TO-0020]] our office [[paperwork|TO-0006]]. At the moment, too many forms are printed, signed, and kept in the [[storeroom|TO-0023]]. Most [[departmental|TO-0024]] forms will now be sent [[electronically|TO-0026]]. You will access the new system with your own [[login|TO-0013]], so please do not share it. Any [[unauthorized|TO-0030]] use will be reported to your manager.",
    "Our [[outdated|TO-0010]] [[copier|TO-0004]] on the second floor will also be replaced next month. Until then, if it runs out of [[toner|TO-0021]], please ask Ms. Park, our [[receptionist|TO-0002]], for a new [[cartridge|TO-0005]]. Please do not try to change it yourself, because the machine is easy to damage.",
    "Training sessions will be held on February 24 and 25 at 3 p.m. in Meeting Room B. Each session takes about one hour. Please sign up with Ms. Park by February 20. If you cannot attend either day, tell me, and I will find another time for you.",
    "Thank you,\nDana Lee"
   ],
   "zh": [
    "收件者：全體員工\n寄件者：辦公室經理 Dana Lee\n主旨：辦公室文書作業的變動",
-   "從 3 月 1 日起，我們將精簡辦公室的文書作業。目前有太多表單是列印、簽名後再放進儲藏室保管。大部分部門表單今後將以電子方式傳送。你們將用自己的登入帳號開啟新系統，所以請不要與他人共用。任何未經授權的使用都會通報給你的主管。",
+   "從 3 月 1 日起，我們將精簡辦公室的文書作業。目前有太多表單是列印、簽名後再放進儲藏室保管。大部分部門表單今後將以電子方式傳送。你們將用自己的登入帳號進入新系統，所以請不要與他人共用。任何未經授權的使用都會通報給你的主管。",
    "二樓那台老舊的影印機下個月也會被汰換。在那之前，如果影印機的碳粉用完了，請向我們的接待人員 Park 女士領取新的碳粉匣。請不要自己嘗試更換，因為這台機器很容易損壞。",
    "教育訓練將在 2 月 24 日和 25 日下午 3 點於 B 會議室舉行，每場約一小時。請在 2 月 20 日前向 Park 女士報名。如果這兩天你都無法參加，請告訴我，我會替你另外安排時間。",
    "謝謝大家，\nDana Lee"
@@ -82,11 +82,11 @@
     "options": [
      "It is faster than the new one.",
      "It is used only by managers.",
-     "It does not need a login.",
+     "It was recently updated.",
      "It uses many paper forms."
     ],
     "answer": 3,
-    "explain": "信中說目前許多表單仍用列印、簽名並存放於儲藏室，可見舊系統大量使用紙本，故選 (D)。(A) 信中並沒有說舊系統比較快。",
+    "explain": "信中說目前許多表單仍用列印、簽名並存放於儲藏室，可見舊系統大量使用紙本，故選 (D)。(A) 信中並沒有說舊系統比較快；(C) 信中正是因為紙本作業太多才要改變，並未提到舊系統最近更新過。",
     "evidence": "At the moment, too many forms are printed, signed, and kept in the storeroom."
    }
   ],
@@ -128,14 +128,14 @@
   "paragraphs": [
    "MEMO\nTo: Finance Department\nFrom: Kevin Brooks, IT Supervisor\nDate: October 8\nRe: Computer check",
    "On Friday, October 12, the IT team will run a [[diagnostic|TO-0025]] check on every computer in the building. The work will start at 6 p.m. and should be finished by 9 p.m. During this time, the network will be off, and the office [[modem|TO-0028]] will be restarted.",
-   "Before you leave on Friday, please save your work and [[unplug|TO-0031]] your desktop computer. Please also [[delete|TO-0008]] any files you no longer need, because a full hard drive slows down the check.",
+   "Before you leave on Friday, please save your work and log out, but do not [[unplug|TO-0031]] your desktop computer. Please also [[delete|TO-0008]] any files you no longer need, because a full hard drive slows down the check.",
    "After the check, we plan to [[automate|TO-0009]] the monthly [[spreadsheet|TO-0019]] reports so that nobody has to enter numbers by hand. Computers will also be checked [[periodically|TO-0016]], about once every three months. If you [[misplace|TO-0012]] a cable or find that something is missing after the work, please tell the help desk. Do not [[rearrange|TO-0011]] the cables behind your desk, even if they look messy."
   ],
   "zh": [
    "備忘錄\n收件者：財務部\n寄件者：資訊部主管 Kevin Brooks\n日期：10 月 8 日\n事由：電腦檢查",
    "10 月 12 日星期五，資訊團隊將對大樓內的每一台電腦進行診斷檢查。工作將從下午 6 點開始，預計晚上 9 點前完成。在這段時間，網路會中斷，辦公室的數據機也會重新啟動。",
-   "星期五下班前，請先儲存你的檔案，並拔掉桌上型電腦的插頭。也請刪除不再需要的檔案，因為硬碟太滿會拖慢檢查速度。",
-   "檢查完成後，我們打算把每月的試算表報告自動化，這樣就不必再用手輸入數字。電腦之後也會定期檢查，大約每三個月一次。如果你在作業後弄丟了線材，或發現有東西不見了，請告訴服務台。即使桌子後面的線看起來很亂，也請不要自行重新整理。"
+   "星期五下班前，請先儲存你的檔案並登出，但不要拔掉桌上型電腦的插頭。也請刪除不再需要的檔案，因為硬碟太滿會拖慢檢查速度。",
+   "檢查完成後，我們打算把每月的試算表報告自動化，這樣就不必再手動輸入數字。電腦之後也會定期檢查，大約每三個月一次。如果你在作業後弄丟了線材，或發現有東西不見了，請告訴服務台。即使桌子後面的線看起來很亂，也請不要自行重新整理。"
   ],
   "glosses": [],
   "targets": [
@@ -161,8 +161,8 @@
      "To explain a change in working hours"
     ],
     "answer": 1,
-    "explain": "備忘錄說明週五將檢查電腦，並要求員工先存檔、拔插頭、刪檔案，故選 (B)。(A) 文中沒有提到要買新電腦。",
-    "evidence": "Before you leave on Friday, please save your work and unplug your desktop computer."
+    "explain": "備忘錄說明週五將檢查電腦，並要求員工先存檔登出、不要拔插頭，並刪除不需要的檔案，故選 (B)。(A) 文中沒有提到要買新電腦。",
+    "evidence": "Before you leave on Friday, please save your work and log out, but do not unplug your desktop computer."
    },
    {
     "type": "細節",
@@ -364,8 +364,8 @@
   "zh": [
    "收件者：全體專案團隊成員\n寄件者：專案協調員 Priya Shah\n主旨：週二會議異動",
    "我寫這封信是要通知大家，我們必須把即將舉行的企劃會議改期。我們的主要簡報者 Evans 先生星期二必須飛往芝加哥，所以他不會在辦公室。請查看你的行事曆，告訴我你下週三或週四有沒有空。",
-   "會議現在將改在五樓的會議室舉行。我們會先簡短概述行程，接著腦力激盪五月客戶活動的點子。我們希望在會議結束前把預算定案，所以請先閱讀附上的時程表。每位與會者應至少帶兩個點子。",
-   "請在週五中午前回覆。等大家都回覆後，我會立刻寄出新的日期。造成不便，敬請見諒。",
+   "會議現在將改在五樓的會議室舉行。我們會先簡短說明整體時程，接著腦力激盪五月客戶活動的點子。我們希望在會議結束前把預算定案，所以請先閱讀附上的時程表。每位與會者應至少帶兩個點子。",
+   "請在週五中午前回覆。等大家都回覆後，我會立刻通知新的日期。造成不便，敬請見諒。",
    "Priya Shah"
   ],
   "glosses": [],
@@ -480,7 +480,7 @@
   ],
   "zh": [
    "職場小秘訣：讓會議更有效率",
-   "許多上班族說開會太耗時間。以下三個簡單的方法，可以提升你們會議的效率。",
+   "許多上班族說開會太耗時間。以下三個簡單的方法，可以提升你的會議成效。",
    "第一，選擇適合的開會方式。當團隊成員分處不同城市時，視訊會議可以節省交通時間；而在某人座位旁非正式聊一聊，就足以處理小問題。把會議室留給重要的討論。給每位簡報者十分鐘，並遵守議程上的時程。",
    "第二，專心傾聽。當有人給了很長的回答時，試著用幾句話改述，例如「所以你的意思是貨會晚到。」這能表示你聽懂了。另外，要問能得到明確答案的問題。肯定的回答代表大家可以進入下一項。",
    "第三，以行動作結。寫下誰要做什麼、何時完成。如果一個計畫一個月後仍不見效，不要害怕重新考慮。"
@@ -596,7 +596,7 @@
   ],
   "zh": [
    "--- 公告 ---\n年度員工午餐會\n日期：12 月 14 日星期五\n地點：Grand 飯店 Harbor 廳",
-   "邀請全體員工參加即將舉行的午餐會。活動氣氛輕鬆，不需要盛裝出席。12:00 開始用餐，12:45 頒發年度獎項，1:15 由特邀講者 Lin 博士分享團隊合作的演說。",
+   "邀請全體員工參加即將舉行的午餐會。活動氣氛輕鬆，不需要盛裝出席。12:00 開始用餐，12:45 頒發年度獎項，1:15 由特邀講者 Lin 博士以團隊合作為題發表演說。",
    "請確認你的時間並於 12 月 7 日前回覆，以便我們確定餐點數量。台北辦公室的同仁可以用視訊方式參加。",
    "--- 電子郵件 ---\n收件者：活動辦公室\n寄件者：台北辦公室 Tom Reyes\n日期：12 月 5 日\n主旨：員工午餐會",
    "您好：\n我想參加午餐會，但我的客戶會議要到下午 1 點才結束。我之後可以用視訊加入嗎？從那時起我就有空了，而且我最想聽 Lin 博士的演說。身為其他辦公室的與會者，我也想知道頒獎過程會不會線上播出。"
@@ -711,7 +711,7 @@
   "zh": [
    "收件者：Olivia Tan 女士\n寄件者：Seaview 飯店訂房組\n主旨：您的訂房確認",
    "感謝您選擇 Seaview 飯店。我們很高興確認您 5 月 14 日至 5 月 17 日入住一間可看海景的豪華客房。所有房客均可免費享用早餐，水療館和游泳池每天早上 8 點至晚上 9 點開放。",
-   "退房時間為上午 11 點。如果您在那之後還需要寄放行李，我們的門僮會妥善保管。禮賓人員也可以協助安排計程車、晚餐，以及前往國家公園的一日遊。由於週五從機場出發的公路壅塞嚴重，建議您提早離開機場或搭乘火車。",
+   "退房時間為上午 11 點。如果您在那之後還需要寄放行李，我們的門僮會妥善保管。禮賓人員也可以協助安排計程車、晚餐，以及前往國家公園的一日遊。由於每逢週五，機場聯外公路都會嚴重壅塞，建議您提早離開機場或搭乘火車。",
    "如果您必須更改計畫，最晚可在抵達前 48 小時免費取消。超過時間，將收取一晚的費用。來自其他國家的旅客可能需要電源轉接頭，我們很樂意在櫃檯借給您一個。"
   ],
   "glosses": [
@@ -891,7 +891,7 @@
    },
    {
     "type": "細節",
-    "stem": "What must Mr. Liu do to choose his dinner on Monday?",
+    "stem": "What is Mr. Liu asked to do for the dinner on Monday?",
     "options": [
      "Pick one main dish",
      "Show a booking number",
@@ -960,7 +960,7 @@
   ],
   "zh": [
    "--- 廣告 ---\nLakeside 度假村週末小旅行\n兩晚（週五至週日）每人僅需 240 美元。優惠期間為 9 月 1 日至 10 月 31 日。",
-   "您的套裝行程包含一間豪華客房、週六的三道式晚餐（可自選主菜），以及在我們水療館的一次 60 分鐘按摩。免費接駁車會配合每班火車。我們的禮賓人員可以為您安排划船或健行的遊覽。",
+   "您的套裝行程包含一間豪華客房、週六的三道式晚餐（可自選主菜），以及水療館 60 分鐘按摩一次。免費接駁車會配合每班火車。我們的禮賓人員可以為您安排划船或健行的遊覽。",
    "由於週末住房率很高，請及早訂房。抵達前三天內取消，恕不退費。",
    "--- 電子郵件 ---\n收件者：Lakeside 度假村訂房組\n寄件者：Marcus Grant\n日期：9 月 12 日\n主旨：週末套裝行程",
    "敬啟者：\n我和太太想預訂 10 月 4 日至 6 日的週末套裝行程。我們週五下午 4:00 搭火車抵達。可以告訴我總價是多少嗎？另外，按摩可以訂在週日早上嗎？我們週六也想體驗健行。"
@@ -1091,9 +1091,9 @@
   "zh": [
    "收件人：明亮居家商店客服部\n寄件人：海倫・帕克\n主旨：訂單 5521 的問題",
    "敬啟者：",
-   "我寫信是想談談 3 月 3 日我在貴店網路商店購買的無線吸塵器。它前一週運作良好，但現在開機兩分鐘就停了。這台機器顯然有瑕疵。我打了兩次貴公司的服務專線，卻沒有人接聽。這造成了很大的不便，因為我的家人星期六要來拜訪。",
+   "我寫信是想談談 3 月 3 日我在貴店網路商店購買的無線吸塵器。它第一個星期運作良好，但現在開機兩分鐘就停了。這台機器顯然有瑕疵。我打了兩次貴公司的服務專線，卻沒有人接聽。這造成了很大的不便，因為我的家人星期六要來拜訪。",
    "我也認為我被多收了錢。商品頁面標示 89 美元，但我的卡被扣了 98 美元。身為貴公司產品的常客，我希望你們能更正這件事。",
-   "請寄給我一台新的吸塵器，並且盡可能加快出貨。由於錯誤不在我，我也希望這 9 美元的運費能被免除。收據已附上。",
+   "請寄給我一台新的吸塵器，並且盡可能加快出貨。由於錯誤不在我，我也希望貴公司能免除這 9 美元的運費。收據已附上。",
    "敬上\n海倫・帕克"
   ],
   "glosses": [
@@ -1150,11 +1150,11 @@
     "options": [
      "She has bought from the store before.",
      "She lives alone.",
-     "She wants her money back.",
+     "She wants a full refund instead of a new product.",
      "She bought the cleaner in a physical shop."
     ],
     "answer": 0,
-    "explain": "她自稱 regular purchaser（常客），可推知以前買過該店商品，故選 (A)。(D) 她說是 online shop 購買，不是實體店。",
+    "explain": "她自稱 regular purchaser（常客），可推知以前買過該店商品，故選 (A)。(C) 她要求寄一台新的吸塵器，並沒有要求全額退款；(D) 她說是 online shop 購買，不是實體店。",
     "evidence": "As a regular purchaser of your products, I hope you can correct this."
    },
    {
@@ -1194,7 +1194,7 @@
     ],
     "answer": 1,
     "word": "TO-0079",
-    "explain": "需要協助時打的是「服務專線」，故選 hotline。deadline（截止期限）、headline（標題）、guideline（準則）都不能「打電話」。"
+    "explain": "需要協助時打的是「服務專線」，故選 hotline。deadline（截止期限）、headline（標題）、guideline（準則）都不是可以撥打的電話。"
    }
   ],
   "status": "ok"
@@ -1209,14 +1209,14 @@
   "paragraphs": [
    "Harbor Motors\nSpring Sale Weekend, April 12-13",
    "Visit our [[showroom|TO-0073]] at 45 Lake Road this weekend for the biggest [[promotional|TO-0074]] event of the year. Harbor Motors has been a trusted [[dealership|TO-0084]] in the [[automotive|TO-0093]] business for thirty years.",
-   "The Lark [[sedan|TO-0095]] is now $17,900, down from $19,500. Our friendly [[salesperson|TO-0071]] team will help you [[customize|TO-0080]] your car with the seat color and wheel style you like. Every buyer also gets a free name [[sticker|TO-0083]] for the door.",
+   "The Lark [[sedan|TO-0095]] is now $17,900, down from $19,500. A friendly [[salesperson|TO-0071]] will help you [[customize|TO-0080]] your car with the seat color and wheel style you like. Every buyer also gets a free name [[sticker|TO-0083]] for the door.",
    "Please note that the older Pine model will be [[discontinued|TO-0081]] after June, so this is your last chance to buy one. New customers can book an [[introductory|TO-0082]] service visit for only $20.",
    "Bring this [[flyer|TO-0072]] to the front desk for a free cup of coffee. Open daily from 9 A.M. to 7 P.M."
   ],
   "zh": [
    "港灣汽車\n春季特賣週末，4 月 12 至 13 日",
    "本週末歡迎蒞臨位於湖濱路 45 號的展示間，參加今年最盛大的促銷活動。港灣汽車在汽車業中是值得信賴的經銷商，已有三十年歷史。",
-   "雲雀轎車現在售價 17,900 美元，原價為 19,500 美元。我們親切的銷售團隊會協助您依喜好選擇座椅顏色與輪圈款式，量身打造您的愛車。每位購車者還可獲贈一張車門用的姓名貼紙。",
+   "雲雀轎車現在售價 17,900 美元，原價為 19,500 美元。親切的銷售人員會協助您依喜好選擇座椅顏色與輪圈款式，量身打造您的愛車。每位購車者還可獲贈一張車門用的姓名貼紙。",
    "請注意，較舊的松木款將於 6 月之後停產，所以這是購買它的最後機會。新客戶只需 20 美元，就能預約新客優惠保養。",
    "帶著這張傳單到櫃檯，可免費領一杯咖啡。每天上午 9 點至晚上 7 點營業。"
   ],
@@ -1291,12 +1291,12 @@
     ],
     "answer": 2,
     "explain": "customize 是「依個人需求訂做」，與 change to suit one's wishes 相符，故選 (C)。(D) 降價是另一件事，文中降價指的是 down from。",
-    "evidence": "Our friendly salesperson team will help you customize your car with the seat color and wheel style you like."
+    "evidence": "A friendly salesperson will help you customize your car with the seat color and wheel style you like."
    }
   ],
   "vocab": [
    {
-    "stem": "The shop will ______ its old phone line next month and offer a new model instead.",
+    "stem": "The shop will ______ its old line of phones next month and offer a new model instead.",
     "options": [
      "discontinue",
      "donate",
@@ -1331,13 +1331,13 @@
   "topic": "電子報＋郵件・鞋店回饋金",
   "paragraphs": [
    "--- Newsletter ---\nStride Shoes Monthly Newsletter, May Edition",
-   "This month, our [[footwear|TO-0094]] line has a new hiking boot, the Ridge Walker. Buy a pair by May 31 and mail in the form to receive a $15 [[rebate|TO-0085]]. Unlike [[generic|TO-0078]] boots sold in discount stores, the Ridge Walker comes with a two-year warranty. All orders are [[refundable|TO-0087]] within 30 days if the boots are unworn. For $5 more, you can [[personalize|TO-0090]] your pair with your initials. Orders are sent by our delivery [[provider|TO-0069]], Swift Post, within three days. Thank you for reading this month's [[newsletter|TO-0070]].",
+   "This month, our [[footwear|TO-0094]] line has a new hiking boot, the Ridge Walker. Buy a pair by May 31 and mail in the form to receive a $15 [[rebate|TO-0085]]. Unlike [[generic|TO-0078]] boots sold in discount stores, the Ridge Walker comes with a two-year warranty. All orders are [[refundable|TO-0087]] within 30 days if the boots are unworn. For $5 more, you can [[personalize|TO-0090]] your pair with your initials. Orders are delivered by our delivery [[provider|TO-0069]], Swift Post, within three days. Thank you for reading this month's [[newsletter|TO-0070]].",
    "--- E-mail ---\nTo: Stride Shoes\nFrom: Tom Alvarez\nSubject: My Ridge Walker order",
    "Dear Stride Shoes,\nI ordered a pair of Ridge Walkers on May 10, with my initials added. The boots are very comfortable. However, I found Swift Post [[unreliable|TO-0096]]: the package arrived on May 19, not within three days. Also, I mailed my rebate form on May 20, but I have not heard anything yet. Could you please confirm that I will still receive the $15? Thank you.\nTom Alvarez"
   ],
   "zh": [
    "--- 電子報 ---\n跨步鞋業每月電子報，5 月號",
-   "本月，我們的鞋類產品系列推出了一款新登山靴「山脊行者」。5 月 31 日前購買一雙並寄回表格，即可獲得 15 美元的退款回饋。不同於折扣商店販售的無品牌靴子，「山脊行者」附有兩年保固。所有訂單只要靴子未穿過，30 天內都可退款。只需多付 5 美元，您就能在靴子上刻印您的姓名縮寫。訂單由我們的配送業者迅郵於三天內寄出。感謝您閱讀本月電子報。",
+   "本月，我們的鞋類產品系列推出了一款新登山靴「山脊行者」。5 月 31 日前購買一雙並寄回表格，即可獲得 15 美元的退款回饋。不同於折扣商店販售的無品牌靴子，「山脊行者」附有兩年保固。所有訂單只要靴子未穿過，30 天內都可退款。只需多付 5 美元，您就能在靴子上刻印您的姓名縮寫。訂單由我們的配送業者迅郵於三天內送達。感謝您閱讀本月電子報。",
    "--- 電子郵件 ---\n收件人：跨步鞋業\n寄件人：湯姆・阿爾瓦雷斯\n主旨：我的山脊行者訂單",
    "跨步鞋業您好：\n我在 5 月 10 日訂了一雙山脊行者，並加上了我的姓名縮寫。靴子非常舒適。不過，我覺得迅郵不可靠：包裹 5 月 19 日才到，而不是三天內。另外，我 5 月 20 日寄出了回饋表格，但至今沒有收到任何回覆。能否請您確認我仍會收到那 15 美元？謝謝。\n湯姆・阿爾瓦雷斯"
   ],
@@ -1407,7 +1407,7 @@
      "It refuses to take returned boots."
     ],
     "answer": 1,
-    "explain": "電子報說三天內寄出，但 Tom 的包裹過了九天才到，可知迅郵沒做到承諾，故選 (B)。(C) 文中只說它是配送業者，未說是鞋店所有。",
+    "explain": "電子報說三天內送達，但湯姆的包裹過了九天才到，可知迅郵沒做到承諾，故選 (B)。(C) 文中只說它是配送業者，未說是鞋店所有。",
     "evidence": "However, I found Swift Post unreliable: the package arrived on May 19, not within three days."
    },
    {
@@ -1472,13 +1472,13 @@
    "克魯茲先生您好：",
    "在檢查二月薪資名冊時，我們發現多付了您 240 美元。錯誤來自您的加班時數。您 2 月 8 日的六小時加班被重複計算，所以您的薪水金額過高。",
    "我們知道您可能會對這封信感到不安，請放心，您不會受到任何處罰。經您同意後，我們會從您接下來的三次薪水中，各扣除 80 美元的小額款項。如果您希望一次還清，全額可在 3 月 20 日前付給財務處。",
-   "在同一筆款項中，我們也會補償您上個月提出的 35 美元火車票費用。這筆報銷款會在您的薪資明細上獨立列為一行。",
+   "在同一筆款項中，我們也會補償您上個月申報的 35 美元火車票費用。這筆報銷款會在您的薪資明細上獨立列為一行。",
    "請在週五前回覆，告訴我們您選擇哪一種方式。\n\n敬上\n麗塔・戈麥斯"
   ],
   "glosses": [
    {
     "word": "stub",
-    "zh": "明細聯"
+    "zh": "存根（pay stub 指薪資明細單）"
    }
   ],
   "targets": [
@@ -1713,14 +1713,14 @@
    "Greenway Foundation, a nonprofit group that protects local rivers, is looking for an Event Coordinator for our main office in Dayton. The ideal person has strong [[organizational|TO-0115]] skills and at least two years of [[managerial|TO-0106]] experience. The coordinator will plan community events and help us [[fundraise|TO-0114]] from local businesses.",
    "Applicants must be willing to [[relocate|TO-0099]]. The foundation offers up to $3,000 for [[relocation|TO-0125]] costs. Send your application to Ms. Ito, our [[recruiter|TO-0107]], by June 30.",
    "--- E-mail ---\nTo: Ms. Ito\nFrom: Marcus Lee\nSubject: Event Coordinator position",
-   "Dear Ms. Ito,\nI am writing to apply for the Event Coordinator position. For five years, I have worked as a [[freelance|TO-0116]] event planner. During the economic [[downturn|TO-0110]] of 2023, I helped a hospital raise $40,000 while spending less than planned, because I knew how to [[economize|TO-0112]] on food and decorations.\nI currently live in Tainan, but I can move to Dayton by August 1, so I may not need the full relocation payment. I hope we can arrange an interview next week.\nSincerely,\nMarcus Lee"
+   "Dear Ms. Ito,\nI am writing to apply for the Event Coordinator position. For five years, I have worked as a [[freelance|TO-0116]] event planner. During the economic [[downturn|TO-0110]] of 2023, I helped a hospital raise $40,000 while spending less than planned, because I knew how to [[economize|TO-0112]] on food and decorations.\nI currently live in Tainan, but I can move to Dayton by August 1. I do not own much furniture, so I may not need the full relocation payment. I hope we can arrange an interview next week.\nSincerely,\nMarcus Lee"
   ],
   "zh": [
    "--- 徵才廣告 ---\n綠徑基金會：活動統籌",
    "綠徑基金會是一個保護在地河川的非營利團體，正為我們位於戴頓的總部徵求一名活動統籌。理想的人選需具備優秀的組織能力，以及至少兩年的管理經驗。這位統籌將籌劃社區活動，並協助我們向當地企業募款。",
    "應徵者必須願意搬遷。基金會提供最高 3,000 美元的搬遷費用。請在 6 月 30 日前將應徵資料寄給我們的招募人員伊藤女士。",
    "--- 電子郵件 ---\n收件人：伊藤女士\n寄件人：馬庫斯・李\n主旨：活動統籌職缺",
-   "伊藤女士您好：\n我來信是想應徵活動統籌一職。五年來，我一直擔任自由接案的活動企劃。在 2023 年經濟低迷期間，我協助一家醫院募得 4 萬美元，花費還比預算少，因為我懂得如何在餐點與布置上節省開銷。\n我目前住在台南，但我能在 8 月 1 日前搬到戴頓，所以我可能不需要全額的搬遷費用。希望我們能在下週安排面談。\n敬上\n馬庫斯・李"
+   "伊藤女士您好：\n我來信是想應徵活動統籌一職。五年來，我一直擔任自由接案的活動企劃。在 2023 年經濟低迷期間，我協助一家醫院募得 4 萬美元，花費還比預算少，因為我懂得如何在餐點與布置上節省開銷。\n我目前住在台南，但我能在 8 月 1 日前搬到戴頓。我的家具不多，所以可能不需要全額的搬遷費用。希望我們能在下週安排面談。\n敬上\n馬庫斯・李"
   ],
   "glosses": [
    {
@@ -1786,7 +1786,7 @@
     ],
     "answer": 1,
     "explain": "廣告要求應徵者願意搬遷，而他說可搬到戴頓，符合這項條件，故選 (B)。(C) 他曾協助醫院募得 4 萬美元。(D) 他目前住在台南。",
-    "evidence": "I currently live in Tainan, but I can move to Dayton by August 1, so I may not need the full relocation payment."
+    "evidence": "I currently live in Tainan, but I can move to Dayton by August 1."
    },
    {
     "type": "字義",
@@ -1804,7 +1804,7 @@
   ],
   "vocab": [
    {
-    "stem": "The charity hopes to ______ enough money to build a new library.",
+    "stem": "The charity will hold a concert to ______ for a new library.",
     "options": [
      "fundraise",
      "relocate",
@@ -1813,7 +1813,7 @@
     ],
     "answer": 0,
     "word": "TO-0114",
-    "explain": "要為蓋圖書館籌錢，指「募款」，故選 fundraise。relocate（搬遷）、penalize（處罰）、reimburse（報銷）都不符。"
+    "explain": "舉辦音樂會是為了替新圖書館籌錢，指「募款」，故選 fundraise。relocate（搬遷）、penalize（處罰）、reimburse（報銷）都不符。"
    },
    {
     "stem": "Ms. Wong is a ______ photographer, so she chooses her own clients and hours.",
@@ -1850,7 +1850,7 @@
    "各位住戶您好：",
    "楓園公寓將於 6 月 3 日開始整修一樓走廊與大廳。我們計畫翻新地板、燈具與信箱。工程預計約需四週。在這段期間，工人會拆除電梯旁的舊牆，因此上午 9 點至下午 5 點之間可能會聽到很大的噪音。",
    "大樓業主也決定改建洗衣間，並用新油漆與植物重新布置大廳。我們會保持大門開啟，但請讓走道保持暢通。",
-   "部分一樓的住戶會受到影響。住在那裡的每位承租人必須在 6 月 10 日與 11 日兩晚搬離住處，期間會更換水管。我們會支付飯店住宿費，且工人在每天收工後都會讓走廊保持整潔。",
+   "一樓有幾戶會受到影響。住在這幾戶的每位承租人必須在 6 月 10 日與 11 日兩晚搬離住處，期間會更換水管。我們會支付飯店住宿費，且工人在每天收工後都會讓走廊保持整潔。",
    "如有疑問，請來電我的辦公室。\n\n丹・威爾森"
   ],
   "glosses": [
@@ -1955,7 +1955,7 @@
     ],
     "answer": 2,
     "word": "TO-0148",
-    "explain": "蓋新橋之前要「拆除」舊橋，故選 demolish。decorate（裝飾）、borrow（借）、vacate（搬離）都不適合用在橋上。"
+    "explain": "蓋新橋之前要「拆除」舊橋，故選 demolish。decorate（裝飾）、borrow（借）、vacate（搬離）都與後面「蓋一座新橋」接不起來。"
    }
   ],
   "status": "ok"
@@ -1977,7 +1977,7 @@
   "zh": [
    "公告\n日落大樓管理室\n張貼日期：9 月 1 日",
    "上週的消防演習之後，管理室想提醒本大廈的每位住戶幾項安全規定。",
-   "首先，每層樓電梯旁都設有滅火器。請勿移動或借用。第二，烹煮食物時絕不可無人看管。上個月，一個放在爐子上的鍋子在 12B 室造成冒煙。",
+   "首先，每層樓電梯旁都設有滅火器。請勿移動或借用。第二，烹煮食物時絕不可無人看管。上個月，12B 室就有一只鍋子留在爐上沒人看顧，結果冒出煙來。",
    "第三，電梯今年夏天已經故障兩次。如果電梯停住，請按警鈴，不要試圖打開門。停電期間，緊急照明會自動亮起。演習時，請排成單列步行，以免樓梯間過於擁擠。",
    "請每位屋主閱讀本公告，並於 9 月 15 日前到櫃檯在表格上簽名。感謝您協助我們維護日落大樓的安全。"
   ],
@@ -2095,13 +2095,13 @@
    "--- Advertisement ---\nBright Key Realty: House for Sale",
    "A three-bedroom house at 28 Elm Street, only ten minutes on foot from Eastside Medical Center. The [[homeowner|TO-0143]] has just finished a full [[remodel|TO-0137]] of the kitchen, which now has a large island, perfect for lovers of [[culinary|TO-0139]] arts. A popular [[diner|TO-0138]] is across the street, and the [[healthcare|TO-0140]] center is a short walk away. Price: $285,000. Contact Amy Chen, our [[realtor|TO-0136]], at 555-0148.",
    "--- E-mail ---\nTo: Amy Chen\nFrom: Jenna Park\nSubject: House on Elm Street",
-   "Dear Ms. Chen,\nI am a [[renter|TO-0141]] who has lived in a small apartment for six years, and I am now looking for a home to buy. Your house looks perfect. May I visit it on Saturday at 10 A.M.? I would like to [[redecorate|TO-0145]] the bedrooms and perhaps [[demolish|TO-0148]] the wall between two small rooms. My budget is $270,000. Do you think the owner may be flexible?\nBest wishes,\nJenna Park"
+   "Dear Ms. Chen,\nI am a [[renter|TO-0141]] who has lived in a small apartment for six years, and I am now looking for a home to buy. The house looks perfect. May I visit it on Saturday at 10 A.M.? I would like to [[redecorate|TO-0145]] the bedrooms and perhaps [[demolish|TO-0148]] the wall between two small rooms. My budget is $270,000. Do you think the owner may be flexible?\nBest wishes,\nJenna Park"
   ],
   "zh": [
    "--- 廣告 ---\n明鑰不動產：房屋出售",
    "位於榆樹街 28 號的三房住宅，步行到東區醫療中心只要十分鐘。屋主剛完成廚房的全面改建，現在有一座大型中島，非常適合喜愛廚藝的人。對面就有一家人氣簡餐店，醫療保健中心也只要走一小段路。售價：285,000 美元。請聯絡我們的不動產經紀人陳艾咪，電話 555-0148。",
    "--- 電子郵件 ---\n收件人：陳艾咪\n寄件人：珍娜・帕克\n主旨：榆樹街的房子",
-   "陳小姐您好：\n我是個租屋者，在一間小公寓住了六年，現在想買房子。您的房子看起來很理想。我可以在星期六上午 10 點去看屋嗎？我想重新裝潢臥室，也許還要拆掉兩間小房間之間的牆。我的預算是 270,000 美元。您覺得屋主有可能彈性處理嗎？\n祝好\n珍娜・帕克"
+   "陳小姐您好：\n我是個租屋者，在一間小公寓住了六年，現在想買房子。這棟房子看起來很理想。我可以在星期六上午 10 點去看屋嗎？我想重新裝潢臥室，也許還要拆掉兩間小房間之間的牆。我的預算是 270,000 美元。您覺得屋主有可能彈性處理嗎？\n祝好\n珍娜・帕克"
   ],
   "glosses": [
    {
@@ -2153,7 +2153,7 @@
      "Moved to a new city"
     ],
     "answer": 2,
-    "explain": "廣告說屋主剛完成廚房的全面改建，故選 (C)。(B) 重新布置臥室是 Ms. Park 的打算。",
+    "explain": "廣告說屋主剛完成廚房的全面改建，故選 (C)。(B) 重新布置臥室是帕克小姐的打算。",
     "evidence": "The homeowner has just finished a full remodel of the kitchen, which now has a large island, perfect for lovers of culinary arts."
    },
    {
@@ -2166,7 +2166,7 @@
      "$15,000"
     ],
     "answer": 3,
-    "explain": "廣告售價 285,000 美元，Ms. Park 的預算為 270,000 美元，差 15,000 美元，故選 (D)。這題需要兩份文件的資訊。",
+    "explain": "廣告售價 285,000 美元，帕克小姐的預算為 270,000 美元，差 15,000 美元，故選 (D)。這題需要兩份文件的資訊。",
     "evidence": "My budget is $270,000."
    },
    {
@@ -2185,7 +2185,7 @@
   ],
   "vocab": [
    {
-    "stem": "Before putting the house on the market, the ______ painted every room.",
+    "stem": "Only the ______ can decide whether to sell the house.",
     "options": [
      "homeowner",
      "realtor",
@@ -2194,7 +2194,7 @@
     ],
     "answer": 0,
     "word": "TO-0143",
-    "explain": "賣房前自己粉刷每個房間的是「屋主」，故選 homeowner。realtor（經紀人）通常不親自粉刷，diner（用餐者）、culinary（烹飪的，形容詞）都不符句意。"
+    "explain": "能決定房子要不要賣的只有「屋主」，故選 homeowner。realtor（經紀人）只負責仲介，不能替屋主做決定；diner（用餐者）、culinary（烹飪的，形容詞）都不符句意。"
    },
    {
     "stem": "We plan to ______ the living room with new curtains and a new carpet.",

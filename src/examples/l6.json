@@ -9,7 +9,7 @@
  },
  {
   "id": "L6-0002",
-  "en": "All players must abide by the rules of the game, or the judge will ask them to leave.",
+  "en": "All players must abide by the rules of the game, or the referee will ask them to leave.",
   "zh": "所有選手都必須遵守比賽規則，否則裁判會請他們離場。",
   "target": "abide",
   "status": "ok",
@@ -26,7 +26,7 @@
  {
   "id": "L6-0004",
   "en": "Fish and birds abound in the wet areas near the river; visitors can see thousands of them every winter.",
-  "zh": "河邊的濕地有大量的魚和鳥，遊客每年冬天都能看到成千上萬隻。",
+  "zh": "河邊的濕地有大量的魚和鳥，遊客每年冬天都能看到成千上萬的魚和鳥。",
   "target": "abound",
   "status": "ok",
   "note": ""
@@ -50,7 +50,7 @@
  {
   "id": "L6-0007",
   "en": "After high school, Lisa hopes to study at a famous music academy where top musicians train young students.",
-  "zh": "高中畢業後，Lisa 希望到一所由頂尖音樂家培訓年輕學生的知名音樂學院就讀。",
+  "zh": "高中畢業後，Lisa 希望到一所知名的音樂學院就讀，那裡由頂尖音樂家培訓年輕學生。",
   "target": "academy",
   "status": "ok",
   "note": ""
@@ -82,7 +82,7 @@
  {
   "id": "L6-0011",
   "en": "The weather report says it will be cold tomorrow, so you should dress accordingly and bring a warm coat.",
-  "zh": "氣象報告說明天會很冷，所以你應該相應地穿著，並帶件保暖的外套。",
+  "zh": "氣象報告說明天會很冷，所以你應該配合天氣穿衣，並帶件保暖的外套。",
   "target": "accordingly",
   "status": "ok",
   "note": ""
@@ -98,7 +98,7 @@
  {
   "id": "L6-0013",
   "en": "If you do not clean your room regularly, dust will accumulate quickly under the bed and on the shelves.",
-  "zh": "如果你不定期打掃房間，灰塵很快就會在床底下和架子上累積。",
+  "zh": "如果你沒有定期打掃房間，灰塵很快就會在床底下和架子上累積。",
   "target": "accumulate",
   "status": "ok",
   "note": "超出1–5級：shelves"
@@ -122,7 +122,7 @@
  {
   "id": "L6-0016",
   "en": "It took me several weeks to accustom myself to getting up at six for my new school.",
-  "zh": "為了新學校，我花了好幾個星期才讓自己習慣六點起床。",
+  "zh": "為了上新學校，我花了好幾個星期才讓自己習慣六點起床。",
   "target": "accustom",
   "status": "ok",
   "note": ""
@@ -161,8 +161,8 @@
  },
  {
   "id": "L6-0021",
-  "en": "The local government administers the national park, managing its trails and protecting its wildlife.",
-  "zh": "地方政府管理這座國家公園，負責維護步道並保護園內的野生動物。",
+  "en": "The government administers the national park, managing its trails and protecting its wildlife.",
+  "zh": "政府管理這座國家公園，負責維護步道並保護園內的野生動物。",
   "target": "administers",
   "status": "ok",
   "note": ""
@@ -170,14 +170,14 @@
  {
   "id": "L6-0022",
   "en": "In history class, we learned about Zheng He, a Chinese admiral who commanded hundreds of ships on long voyages.",
-  "zh": "在歷史課上，我們認識了鄭和，一位率領數百艘船遠航的中國海軍將領。",
+  "zh": "在歷史課上，我們認識了鄭和，他是曾率領數百艘船遠航的中國海軍將領。",
   "target": "admiral",
   "status": "ok",
   "note": ""
  },
  {
   "id": "L6-0023",
-  "en": "Adolescence, the period between childhood and becoming an adult, is a time of rapid physical and emotional change.",
+  "en": "Adolescence, the period between childhood and adulthood, is a time of rapid physical and emotional change.",
   "zh": "青春期是介於童年與成年之間的階段，是身體和情緒快速變化的時期。",
   "target": "Adolescence",
   "status": "ok",
@@ -314,7 +314,7 @@
  {
   "id": "L6-0040",
   "en": "Speakers are used to amplify the singer's voice so that people in the back rows can hear clearly.",
-  "zh": "擴音喇叭被用來放大歌手的聲音，讓坐在後排的人也能聽得清楚。",
+  "zh": "擴音喇叭用來放大歌手的聲音，讓坐在後排的人也能聽得清楚。",
   "target": "amplify",
   "status": "ok",
   "note": ""
@@ -418,7 +418,7 @@
  {
   "id": "L6-0053",
   "en": "Our guide gave us the approximate time of arrival: around three hours, depending on traffic.",
-  "zh": "導遊告訴我們大約的抵達時間：視交通狀況而定，約三小時左右。",
+  "zh": "導遊告訴我們大約多久會抵達：視交通狀況而定，三小時左右。",
   "target": "approximate",
   "status": "ok",
   "note": ""
@@ -514,7 +514,7 @@
  {
   "id": "L6-0065",
   "en": "After years of hard work, she finally attained her goal of becoming a professional violin player.",
-  "zh": "經過多年努力，她終於達成成為職業小提琴手的目標。",
+  "zh": "經過多年努力，她終於達成目標，成為職業小提琴手。",
   "target": "attained",
   "status": "ok",
   "note": ""
@@ -594,7 +594,7 @@
  {
   "id": "L6-0075",
   "en": "Every visitor must wear a name badge so that the security guards can identify them easily.",
-  "zh": "每位訪客都必須佩戴名牌徽章，讓警衛能輕易辨識身分。",
+  "zh": "每位訪客都必須佩戴識別證，讓警衛能輕易辨識身分。",
   "target": "badge",
   "status": "ok",
   "note": ""
@@ -730,7 +730,7 @@
  {
   "id": "L6-0092",
   "en": "The child felt safe in the bosom of her loving family, surrounded by warmth and care.",
-  "zh": "在充滿愛的家庭懷抱中，這個孩子感到安心，被溫暖和關懷所包圍。",
+  "zh": "在充滿愛的家庭懷抱中，這個孩子感到安心，身邊盡是溫暖與關懷。",
   "target": "bosom",
   "status": "ok",
   "note": ""
@@ -874,7 +874,7 @@
  {
   "id": "L6-0110",
   "en": "Citizens complained that the bureaucrats cared more about forms and rules than about solving real problems.",
-  "zh": "市民抱怨那些官僚只在乎表格和規定，而不是解決真正的問題。",
+  "zh": "市民抱怨那些官僚在乎表格和規定，更甚於解決真正的問題。",
   "target": "bureaucrats",
   "status": "ok",
   "note": ""
@@ -914,7 +914,7 @@
  {
   "id": "L6-0115",
   "en": "In the play, the king wore a long red cape over his shoulders that flowed behind him as he walked.",
-  "zh": "在戲劇中，國王肩上披著一件紅色長披肩，走路時在身後飄動。",
+  "zh": "在戲劇中，國王肩上披著一件紅色長披風，走路時在身後飄動。",
   "target": "cape",
   "status": "ok",
   "note": ""
@@ -922,7 +922,7 @@
  {
   "id": "L6-0116",
   "en": "Please take one capsule of this medicine with a glass of water after every meal.",
-  "zh": "請在每餐飯後配一杯水服用一顆這種藥的膠囊。",
+  "zh": "這種藥請在每餐飯後配一杯水服用一顆膠囊。",
   "target": "capsule",
   "status": "ok",
   "note": ""
@@ -1258,7 +1258,7 @@
  {
   "id": "L6-0158",
   "en": "A coalition of environmental groups worked together to protect the forest from being cut down.",
-  "zh": "一個由環保團體組成的聯盟合作保護這片森林，避免它遭到砍伐。",
+  "zh": "多個環保團體組成聯盟，合力保護這片森林免遭砍伐。",
   "target": "coalition",
   "status": "ok",
   "note": ""
@@ -1338,7 +1338,7 @@
  {
   "id": "L6-0168",
   "en": "Our teacher compiled a list of useful words from past exams to help us prepare.",
-  "zh": "老師從歷屆考題中編纂了一份實用單字表，幫助我們準備考試。",
+  "zh": "老師從歷屆考題中彙整了一份實用單字表，幫助我們準備考試。",
   "target": "compiled",
   "status": "ok",
   "note": ""
@@ -1346,7 +1346,7 @@
  {
   "id": "L6-0169",
   "en": "A glass of fresh juice nicely complements a healthy breakfast of eggs and toast.",
-  "zh": "一杯新鮮果汁和由蛋與吐司組成的健康早餐搭配得恰到好處。",
+  "zh": "有蛋有吐司的健康早餐，配上一杯新鮮果汁，正好相得益彰。",
   "target": "complements",
   "status": "ok",
   "note": ""
@@ -1362,7 +1362,7 @@
  {
   "id": "L6-0171",
   "en": "This book offers a comprehensive guide to Taiwan's birds, covering every kind found on the island.",
-  "zh": "這本書是一份全面的台灣鳥類指南，涵蓋島上可見的每一種鳥。",
+  "zh": "這本書是全面的台灣鳥類指南，涵蓋島上可見的每一種鳥。",
   "target": "comprehensive",
   "status": "ok",
   "note": ""
@@ -1386,7 +1386,7 @@
  {
   "id": "L6-0174",
   "en": "After fifty years, the old soldiers met again and greeted their comrades with warm smiles.",
-  "zh": "五十年後，老兵們再次相聚，用溫暖的笑容問候昔日的夥伴。",
+  "zh": "五十年後，老兵們再次相聚，用溫暖的笑容問候昔日的戰友。",
   "target": "comrades",
   "status": "ok",
   "note": ""
@@ -1394,7 +1394,7 @@
  {
   "id": "L6-0175",
   "en": "After long talks, both sides made concessions, and the workers agreed to a smaller pay raise.",
-  "zh": "經過長時間協商，雙方都做出讓步，工人同意接受較少的加薪幅度。",
+  "zh": "經過長時間協商，雙方都做出讓步，工人同意接受較小的加薪幅度。",
   "target": "concessions",
   "status": "ok",
   "note": ""
@@ -1490,7 +1490,7 @@
  {
   "id": "L6-0187",
   "en": "A major point of contention in the meeting was whether students should be allowed to use phones in class.",
-  "zh": "會議中的一大爭論點是學生是否應該被允許在課堂上使用手機。",
+  "zh": "會議中的一大爭論點在於是否應該允許學生在課堂上使用手機。",
   "target": "contention",
   "status": "ok",
   "note": ""
@@ -1538,7 +1538,7 @@
  {
   "id": "L6-0193",
   "en": "In 1991, two people hiking in the Alps found the corpse of a man who lived over 5,000 years ago.",
-  "zh": "1991 年，兩名在阿爾卑斯山健行的人發現一具屍體，此人生活在五千多年前。",
+  "zh": "1991 年，兩名在阿爾卑斯山健行的人發現一具男性屍體，這名男子生活在五千多年前。",
   "target": "corpse",
   "status": "ok",
   "note": ""
@@ -1562,7 +1562,7 @@
  {
   "id": "L6-0196",
   "en": "Many young people now prefer cosmetics made from natural materials rather than harsh chemicals.",
-  "zh": "現在許多年輕人偏好用天然原料製成的化妝品，而非刺激性的化學物質。",
+  "zh": "現在許多年輕人偏好用天然原料而非刺激性化學物質製成的化妝品。",
   "target": "cosmetics",
   "status": "ok",
   "note": ""
@@ -1634,7 +1634,7 @@
  {
   "id": "L6-0205",
   "en": "After running for an hour, Ben got a painful cramp in his leg and had to stop.",
-  "zh": "跑了一個小時後，Ben 的腿痛苦地抽筋，只好停下來。",
+  "zh": "跑了一個小時後，Ben 的腿抽筋了，痛得只好停下來。",
   "target": "cramp",
   "status": "ok",
   "note": ""
@@ -1762,7 +1762,7 @@
  {
   "id": "L6-0221",
   "en": "Standing next to the huge speakers, we were nearly deafened by the loud music at the concert.",
-  "zh": "站在巨大的音響旁邊，我們差點被演唱會的大聲音樂震聾。",
+  "zh": "站在巨大的音響旁邊，我們差點被演唱會很大聲的音樂震聾。",
   "target": "deafened",
   "status": "ok",
   "note": ""
@@ -1842,7 +1842,7 @@
  {
   "id": "L6-0231",
   "en": "Years of heavy fishing have depleted fish populations in many parts of the ocean.",
-  "zh": "多年來的過度捕撈，已經耗盡了海洋許多區域的魚群。",
+  "zh": "多年來的過度捕撈，已使海洋許多區域的魚群大幅減少。",
   "target": "depleted",
   "status": "ok",
   "note": ""
@@ -1946,7 +1946,7 @@
  {
   "id": "L6-0244",
   "en": "In English class, we have a dictation test every week: the teacher reads words aloud, and we write them down.",
-  "zh": "英文課每週都有聽寫測驗：老師唸出單字，我們把它們寫下來。",
+  "zh": "英文課每週都有聽寫測驗：老師唸出單字，我們跟著寫下來。",
   "target": "dictation",
   "status": "ok",
   "note": ""
@@ -2018,7 +2018,7 @@
  {
   "id": "L6-0253",
   "en": "Amy stared at her test score in disbelief; she could not believe that she had finally passed math.",
-  "zh": "Amy 難以置信地盯著自己的考試分數；她不敢相信自己終於通過了數學。",
+  "zh": "Amy 難以置信地盯著自己的考試分數；她不敢相信自己的數學終於及格了。",
   "target": "disbelief",
   "status": "ok",
   "note": ""
@@ -2042,7 +2042,7 @@
  {
   "id": "L6-0256",
   "en": "Confucius had many disciples, and these followers later wrote down his words and ideas in a famous book.",
-  "zh": "孔子有許多門徒，這些追隨者後來把他的言論與思想寫成一本著名的書。",
+  "zh": "孔子有許多弟子，這些追隨者後來把他的言論與思想寫成一本著名的書。",
   "target": "disciples",
   "status": "ok",
   "note": ""
@@ -2106,7 +2106,7 @@
  {
   "id": "L6-0264",
   "en": "A machine in the hospital lobby dispenses masks and hand cleaner to visitors for free.",
-  "zh": "醫院大廳的一台機器免費分發口罩和洗手液給訪客。",
+  "zh": "醫院大廳的一台機器免費分發口罩和乾洗手液給訪客。",
   "target": "dispenses",
   "status": "ok",
   "note": ""
@@ -2202,7 +2202,7 @@
  {
   "id": "L6-0276",
   "en": "Without enough rain, the crops seemed doomed to fail, and farmers feared a hungry winter.",
-  "zh": "雨水不足，農作物似乎注定歉收，農民擔心會度過一個挨餓的冬天。",
+  "zh": "雨水不足，農作物似乎注定歉收，農民擔心冬天會挨餓。",
   "target": "doomed",
   "status": "ok",
   "note": ""
@@ -2218,7 +2218,7 @@
  {
   "id": "L6-0278",
   "en": "Experts are worried about the downward trend in birth rates, which have fallen for ten years.",
-  "zh": "專家擔心出生率的下降趨勢，因為它已經連續下滑十年。",
+  "zh": "出生率已經連續下滑十年，專家對這樣的下降趨勢感到憂心。",
   "target": "downward",
   "status": "ok",
   "note": ""
@@ -2258,7 +2258,7 @@
  {
   "id": "L6-0283",
   "en": "She keeps her socks and sweaters in the top drawer of the wooden dresser in her bedroom.",
-  "zh": "她把襪子和毛衣放在臥室木製衣櫃的最上層抽屜裡。",
+  "zh": "她把襪子和毛衣放在臥室木製五斗櫃最上層的抽屜裡。",
   "target": "dresser",
   "status": "ok",
   "note": ""
@@ -2289,8 +2289,8 @@
  },
  {
   "id": "L6-0287",
-  "en": "For most travelers, the duration of the flight from Taipei to Tokyo is about three hours.",
-  "zh": "對大多數旅客來說，從台北飛往東京的飛行時間大約是三個小時。",
+  "en": "The duration of the flight from Taipei to Tokyo is about three hours.",
+  "zh": "從台北飛往東京的飛行時間大約是三個小時。",
   "target": "duration",
   "status": "ok",
   "note": ""
@@ -2434,7 +2434,7 @@
  {
   "id": "L6-0305",
   "en": "Adding a few pictures can enhance your report and make it easier for readers to understand.",
-  "zh": "加幾張圖片可以增強你的報告，讓讀者更容易理解。",
+  "zh": "加幾張圖片可以提升你報告的品質，讓讀者更容易理解。",
   "target": "enhance",
   "status": "ok",
   "note": ""
@@ -2466,7 +2466,7 @@
  {
   "id": "L6-0309",
   "en": "Opening the window helps equalize the temperature between the warm room and the cool air outside.",
-  "zh": "打開窗戶有助於讓溫暖的室內和外面涼爽的空氣溫度變得相等。",
+  "zh": "打開窗戶有助於讓溫暖的室內與涼爽的室外溫度趨於相同。",
   "target": "equalize",
   "status": "ok",
   "note": ""
@@ -2674,7 +2674,7 @@
  {
   "id": "L6-0335",
   "en": "Water freezes at 32 degrees Fahrenheit, a temperature scale still commonly used in the United States.",
-  "zh": "水在華氏 32 度結冰，華氏溫標在美國仍被普遍使用。",
+  "zh": "水在華氏 32 度結冰，美國至今仍普遍使用華氏溫標。",
   "target": "Fahrenheit",
   "status": "ok",
   "note": ""
@@ -2698,7 +2698,7 @@
  {
   "id": "L6-0338",
   "en": "Lisa's fascination with stars began when she first looked through a telescope at age ten.",
-  "zh": "Lisa 對星星的著迷，始於她十歲時第一次透過望遠鏡觀看。",
+  "zh": "Lisa 對星星的著迷，始於她十歲時第一次用望遠鏡看星空。",
   "target": "fascination",
   "status": "ok",
   "note": ""
@@ -2730,7 +2730,7 @@
  {
   "id": "L6-0342",
   "en": "Every year, floods along the Nile brought rich mud that increased the fertility of the land.",
-  "zh": "每年尼羅河沿岸的氾濫都會帶來富含養分的泥土，使土地更加肥沃。",
+  "zh": "過去尼羅河沿岸每年的氾濫都會帶來富含養分的泥土，使土地更加肥沃。",
   "target": "fertility",
   "status": "ok",
   "note": ""
@@ -2882,7 +2882,7 @@
  {
   "id": "L6-0361",
   "en": "Chickens, ducks, and geese are common types of fowl raised on farms for eggs and meat.",
-  "zh": "雞、鴨和鵝是農場上常見的家禽，飼養來生產蛋和肉。",
+  "zh": "雞、鴨和鵝是農場上常見的家禽，飼養牠們是為了取得蛋和肉。",
   "target": "fowl",
   "status": "ok",
   "note": "超出1–5級：geese"
@@ -2986,7 +2986,7 @@
  {
   "id": "L6-0374",
   "en": "This movie tells the story of a gangster in 1920s Chicago who finally decides to leave his criminal life.",
-  "zh": "這部電影講述 1920 年代芝加哥一名歹徒最後決定脫離犯罪生涯的故事。",
+  "zh": "這部電影講述 1920 年代芝加哥一名幫派分子最後決定脫離犯罪生涯的故事。",
   "target": "gangster",
   "status": "ok",
   "note": ""
@@ -3145,8 +3145,8 @@
  },
  {
   "id": "L6-0394",
-  "en": "Students let out a loud groan when their teacher announced another surprise test for Friday.",
-  "zh": "老師宣布星期五又要突擊考試時，學生們發出一陣大聲的哀嘆。",
+  "en": "Students let out a loud groan when their teacher announced another test for Friday.",
+  "zh": "老師宣布星期五又要考試時，學生們發出一陣大聲的哀嘆。",
   "target": "groan",
   "status": "ok",
   "note": ""
@@ -3217,8 +3217,8 @@
  },
  {
   "id": "L6-0403",
-  "en": "Concrete hardens as it dries, becoming strong enough to support heavy buildings.",
-  "zh": "混凝土乾燥後會變硬，堅固到足以支撐沉重的建築。",
+  "en": "Concrete slowly hardens after it is poured, becoming strong enough to support heavy buildings.",
+  "zh": "混凝土灌漿後會慢慢變硬，堅固到足以支撐沉重的建築。",
   "target": "hardens",
   "status": "ok",
   "note": ""
@@ -3250,7 +3250,7 @@
  {
   "id": "L6-0407",
   "en": "Wearing headphones at high volume for hours can damage your hearing over time.",
-  "zh": "長時間以高音量戴耳機，久而久之可能會損害聽力。",
+  "zh": "長時間戴耳機又把音量開得很大，久而久之可能會損害聽力。",
   "target": "headphones",
   "status": "ok",
   "note": ""
@@ -3298,7 +3298,7 @@
  {
   "id": "L6-0413",
   "en": "Brave rescue workers made a heroic effort to save the families trapped inside the burning building.",
-  "zh": "勇敢的救援人員英勇地奮力搶救受困在燃燒建築中的家庭。",
+  "zh": "勇敢的救援人員英勇地奮力搶救受困在失火大樓裡的住戶。",
   "target": "heroic",
   "status": "ok",
   "note": ""
@@ -3313,7 +3313,7 @@
  },
  {
   "id": "L6-0415",
-  "en": "Health education textbooks explain that heterosexual means being attracted to people of the opposite sex.",
+  "en": "Health education textbooks explain that \"heterosexual\" means being attracted to people of the opposite sex.",
   "zh": "健康教育課本說明，異性戀是指受到異性吸引。",
   "target": "heterosexual",
   "status": "ok",
@@ -3322,7 +3322,7 @@
  {
   "id": "L6-0416",
   "en": "In most companies, there is a hierarchy, with managers at the top and new workers near the bottom.",
-  "zh": "大多數公司都有階級制度，主管位居上層，新進員工則在底層附近。",
+  "zh": "大多數公司都有階級制度，主管位居上層，新進員工則接近底層。",
   "target": "hierarchy",
   "status": "ok",
   "note": ""
@@ -3394,7 +3394,7 @@
  {
   "id": "L6-0425",
   "en": "A helicopter can hover in the air, staying in one place above the ground while rescuers climb down.",
-  "zh": "直升機可以在空中盤旋，停留在地面上方同一處，讓救難人員爬下去。",
+  "zh": "直升機可以在空中懸停，停留在地面上方同一處，讓救難人員爬下去。",
   "target": "hover",
   "status": "ok",
   "note": "超出1–5級：rescuers"
@@ -3426,7 +3426,7 @@
  {
   "id": "L6-0429",
   "en": "Hybrid cars use both gas and electricity, so they produce less pollution than ordinary cars.",
-  "zh": "油電混合車同時使用汽油和電力，所以比一般汽車產生較少污染。",
+  "zh": "油電混合車同時使用汽油和電力，所以造成的污染比一般汽車少。",
   "target": "Hybrid",
   "status": "ok",
   "note": ""
@@ -3442,7 +3442,7 @@
  {
   "id": "L6-0431",
   "en": "Ken called his uncle a hypocrite for telling others to quit smoking while he smoked a pack every day.",
-  "zh": "Ken 說他叔叔是偽君子，因為他叫別人戒菸，自己卻每天抽一包。",
+  "zh": "Ken 說他叔叔是偽君子，因為叔叔叫別人戒菸，自己卻每天抽一包。",
   "target": "hypocrite",
   "status": "ok",
   "note": ""
@@ -3514,7 +3514,7 @@
  {
   "id": "L6-0440",
   "en": "I am inclined to agree with Lisa, since her plan seems both cheaper and safer.",
-  "zh": "我傾向於同意 Lisa 的看法，因為她的計畫似乎既便宜又安全。",
+  "zh": "我傾向於同意 Lisa 的看法，因為她的計畫似乎更便宜也更安全。",
   "target": "inclined",
   "status": "ok",
   "note": ""
@@ -3706,7 +3706,7 @@
  {
   "id": "L6-0464",
   "en": "Some animals make their bodies look bigger in order to intimidate their enemies.",
-  "zh": "有些動物會讓身體看起來更大，藉此恐嚇敵人。",
+  "zh": "有些動物會讓身體看起來更大，藉此威嚇敵人。",
   "target": "intimidate",
   "status": "ok",
   "note": ""
@@ -3730,7 +3730,7 @@
  {
   "id": "L6-0467",
   "en": "I'm sorry to intrude, but may I ask you a quick question about the homework?",
-  "zh": "抱歉打擾了，我可以問你一個關於作業的簡短問題嗎？",
+  "zh": "抱歉打擾了，我可以問你一個作業的小問題嗎？",
   "target": "intrude",
   "status": "ok",
   "note": ""
@@ -3850,7 +3850,7 @@
  {
   "id": "L6-0482",
   "en": "Riding at top speed, the young jockey guided his horse past the others and won the race.",
-  "zh": "年輕騎師全速騎行，引導他的馬超越其他對手，贏得比賽。",
+  "zh": "年輕騎師全速騎行，策馬超越其他對手，贏得比賽。",
   "target": "jockey",
   "status": "ok",
   "note": ""
@@ -3858,7 +3858,7 @@
  {
   "id": "L6-0483",
   "en": "Santa Claus is usually shown as a jolly old man with a big laugh and a red suit.",
-  "zh": "聖誕老公公通常被描繪成一位愉快的老人，笑聲宏亮，穿著紅色衣服。",
+  "zh": "聖誕老公公通常被描繪成一位快活的老人，笑聲宏亮，穿著紅色衣服。",
   "target": "jolly",
   "status": "ok",
   "note": ""
@@ -3906,7 +3906,7 @@
  {
   "id": "L6-0489",
   "en": "In the old story, a poor lad from the village grows up to become a wise and respected leader.",
-  "zh": "在這個古老的故事裡，一個村裡的窮少年長大後成為睿智且受人尊敬的領袖。",
+  "zh": "在這個古老的故事裡，村裡一個貧窮的少年長大後成為睿智且受人尊敬的領袖。",
   "target": "lad",
   "status": "ok",
   "note": ""
@@ -3914,7 +3914,7 @@
  {
   "id": "L6-0490",
   "en": "Our landlady lives downstairs and always fixes problems in the apartment quickly when we call her.",
-  "zh": "我們的女房東住在樓下，每次我們打電話給她，她總會很快修好公寓裡的問題。",
+  "zh": "我們的女房東住在樓下，每次我們打電話給她，她總會很快解決公寓裡的問題。",
   "target": "landlady",
   "status": "ok",
   "note": ""
@@ -3922,7 +3922,7 @@
  {
   "id": "L6-0491",
   "en": "After days of heavy rain, a landslide blocked the mountain road with mud and rocks.",
-  "zh": "連續幾天豪雨後，一場山崩讓泥土和石塊堵住了山路。",
+  "zh": "連續幾天豪雨後，發生了山崩，泥土和石塊堵住了山路。",
   "target": "landslide",
   "status": "ok",
   "note": ""
@@ -3970,7 +3970,7 @@
  {
   "id": "L6-0497",
   "en": "Legislators discussed a new law that would stop people from hunting and selling wild animals.",
-  "zh": "立法委員討論了一項新法律，將禁止人們獵捕和販賣野生動物。",
+  "zh": "立法委員討論了一項禁止人們獵捕和販賣野生動物的新法案。",
   "target": "Legislators",
   "status": "ok",
   "note": ""
@@ -4034,7 +4034,7 @@
  {
   "id": "L6-0505",
   "en": "At the history museum, we saw the uniform of a young army lieutenant, an officer of fairly low rank.",
-  "zh": "在歷史博物館裡，我們看到一位年輕陸軍中尉的制服，那是階級相當低的軍官。",
+  "zh": "在歷史博物館裡，我們看到一位年輕陸軍中尉的制服，中尉是階級相當低的軍官。",
   "target": "lieutenant",
   "status": "ok",
   "note": ""
@@ -4058,7 +4058,7 @@
  {
   "id": "L6-0508",
   "en": "After hurting her ankle in the race, Lisa walked with a limp for nearly two weeks.",
-  "zh": "Lisa 在比賽中扭傷腳踝後，走路一跛一跛的將近兩個星期。",
+  "zh": "Lisa 在比賽中扭傷腳踝後，將近兩個星期走路都一跛一跛的。",
   "target": "limp",
   "status": "ok",
   "note": ""
@@ -4121,8 +4121,8 @@
  },
  {
   "id": "L6-0516",
-  "en": "Farmers in the area raise livestock such as cows, pigs, and sheep, which need plenty of grass and water.",
-  "zh": "這個地區的農民飼養牛、豬和羊等家畜，牠們需要大量的草和水。",
+  "en": "Farmers in the area raise livestock such as cows, goats, and sheep, which need plenty of grass and water.",
+  "zh": "這個地區的農民飼養牛、山羊和綿羊等家畜，牠們需要大量的草和水。",
   "target": "livestock",
   "status": "ok",
   "note": ""
@@ -4241,8 +4241,8 @@
  },
  {
   "id": "L6-0531",
-  "en": "The Lunar New Year, which follows the moon's calendar, usually falls in January or February.",
-  "zh": "農曆新年依照月亮的曆法，通常落在一月或二月。",
+  "en": "The Lunar New Year, which follows the moon's calendar, always falls in January or February.",
+  "zh": "農曆新年依照月亮的曆法，總是落在一月或二月。",
   "target": "Lunar",
   "status": "ok",
   "note": ""
@@ -4282,15 +4282,15 @@
  {
   "id": "L6-0536",
   "en": "The new airplane completed its maiden flight yesterday; it was the first time the plane had ever left the ground.",
-  "zh": "這架新飛機昨天完成了首航；那是它第一次離開地面。",
+  "zh": "這架新飛機昨天完成了首飛；那是它第一次離開地面。",
   "target": "maiden",
   "status": "ok",
   "note": ""
  },
  {
   "id": "L6-0537",
-  "en": "Many tourists take a boat from the small island to the mainland, where there are more shops and hospitals.",
-  "zh": "許多遊客從小島搭船到本島，那裡有更多商店和醫院。",
+  "en": "Many residents take a boat from the small island to the mainland, where there are more shops and hospitals.",
+  "zh": "許多居民從小島搭船到本島，那裡有更多商店和醫院。",
   "target": "mainland",
   "status": "ok",
   "note": ""
@@ -4306,7 +4306,7 @@
  {
   "id": "L6-0539",
   "en": "Visitors were amazed by the majesty of the ancient temple, with its huge stone pillars and golden roof.",
-  "zh": "遊客們對這座古老寺廟的雄偉莊嚴感到驚嘆，它有巨大的石柱和金色的屋頂。",
+  "zh": "這座古老寺廟有巨大的石柱和金色的屋頂，雄偉莊嚴，令遊客們驚嘆不已。",
   "target": "majesty",
   "status": "ok",
   "note": ""
@@ -4418,7 +4418,7 @@
  {
   "id": "L6-0553",
   "en": "This shop sells movie merchandise, such as T-shirts, cups, and toys, to fans of the film.",
-  "zh": "這家店販售電影周邊商品，例如 T 恤、杯子和玩具，賣給這部電影的影迷。",
+  "zh": "這家店向影迷販售這部電影的周邊商品，例如 T 恤、杯子和玩具。",
   "target": "merchandise",
   "status": "ok",
   "note": ""
@@ -4450,7 +4450,7 @@
  {
   "id": "L6-0557",
   "en": "At the welcome party, new students were encouraged to mingle and chat with classmates they had never met.",
-  "zh": "在迎新會上，新生被鼓勵四處交流，和從未見過的同學聊天。",
+  "zh": "在迎新會上，新生受到鼓勵，四處和從未見過的同學交流聊天。",
   "target": "mingle",
   "status": "ok",
   "note": ""
@@ -4633,7 +4633,7 @@
  },
  {
   "id": "L6-0580",
-  "en": "My grandfather has a thick gray mustache above his lip, which he cuts carefully every morning.",
+  "en": "My grandfather has a thick gray mustache above his lip, which he trims carefully every morning.",
   "zh": "我爺爺的上唇有一撇濃密的灰色八字鬍，他每天早上都會仔細修剪。",
   "target": "mustache",
   "status": "ok",
@@ -4666,7 +4666,7 @@
  {
   "id": "L6-0584",
   "en": "In the novel, the narrator is a twelve-year-old girl who tells the story through her own eyes.",
-  "zh": "在這部小說中，敘述者是一個十二歲的女孩，她透過自己的眼睛來講述故事。",
+  "zh": "在這部小說中，敘述者是一個十二歲的女孩，她從自己的角度講述故事。",
   "target": "narrator",
   "status": "ok",
   "note": ""
@@ -4849,7 +4849,7 @@
  },
  {
   "id": "L6-0607",
-  "en": "The government plans to build more offshore wind farms, placing huge wind machines in the sea to produce clean energy.",
+  "en": "The government plans to build more offshore wind farms, placing huge wind turbines in the sea to produce clean energy.",
   "zh": "政府計畫興建更多離岸風場，在海上設置巨大的風力發電機來生產乾淨能源。",
   "target": "offshore",
   "status": "ok",
@@ -4993,8 +4993,8 @@
  },
  {
   "id": "L6-0625",
-  "en": "Many cities have outlawed plastic bags, making it against the law for shops to give them out for free.",
-  "zh": "許多城市已明令禁止塑膠袋，商店免費提供塑膠袋是違法的。",
+  "en": "Many cities have outlawed plastic bags, making it against the law for shops to give them out.",
+  "zh": "許多城市已明令禁止塑膠袋，商店若提供塑膠袋就是違法。",
   "target": "outlawed",
   "status": "ok",
   "note": ""
@@ -5066,7 +5066,7 @@
  {
   "id": "L6-0634",
   "en": "When a stone falls into a still pond, small waves spread outward in growing circles.",
-  "zh": "當一顆石頭落入平靜的池塘，小小的波紋會以越來越大的圓圈向外擴散。",
+  "zh": "石頭落入平靜的池塘時，小小的波紋會一圈圈向外擴散，圓圈越來越大。",
   "target": "outward",
   "status": "ok",
   "note": ""
@@ -5178,7 +5178,7 @@
  {
   "id": "L6-0648",
   "en": "Reading is my favorite pastime; I spend most of my free time with a good book.",
-  "zh": "閱讀是我最喜愛的消遣；我大部分的空閒時間都和一本好書為伴。",
+  "zh": "閱讀是我最喜愛的消遣；我大部分的空閒時間都與好書為伴。",
   "target": "pastime",
   "status": "ok",
   "note": ""
@@ -5225,8 +5225,8 @@
  },
  {
   "id": "L6-0654",
-  "en": "Our final decision is still pending, so we will not know the results until next week.",
-  "zh": "我們的最終決定仍然待定，所以要到下週才會知道結果。",
+  "en": "The final decision is still pending, so we will not know the results until next week.",
+  "zh": "最終決定仍然待定，所以要到下週才會知道結果。",
   "target": "pending",
   "status": "ok",
   "note": ""
@@ -5329,7 +5329,7 @@
  },
  {
   "id": "L6-0667",
-  "en": "Before performing at the national concert hall, the young pianist practiced six hours a day.",
+  "en": "Before performing at the National Concert Hall, the young pianist practiced six hours a day.",
   "zh": "在國家音樂廳演出前，這位年輕的鋼琴家每天練琴六小時。",
   "target": "pianist",
   "status": "ok",
@@ -5458,7 +5458,7 @@
  {
   "id": "L6-0683",
   "en": "This medicine is very potent, so patients should take only one small pill a day.",
-  "zh": "這種藥非常強效，所以病人一天只應吃一顆小藥丸。",
+  "zh": "這種藥的藥效非常強，所以病人一天只應吃一顆小藥丸。",
   "target": "potent",
   "status": "ok",
   "note": ""
@@ -5474,7 +5474,7 @@
  {
   "id": "L6-0685",
   "en": "Our coach preached about the importance of hard work so often that some players stopped listening.",
-  "zh": "我們教練太常說教努力的重要性，以至於有些球員不再聽了。",
+  "zh": "我們教練太常說教、大談努力的重要性，以至於有些球員不再聽了。",
   "target": "preached",
   "status": "ok",
   "note": ""
@@ -5634,7 +5634,7 @@
  {
   "id": "L6-0705",
   "en": "Our university holds an open day for prospective students who are thinking of applying next year.",
-  "zh": "我們大學為明年考慮申請入學的準新生舉辦校園開放日。",
+  "zh": "我們大學為考慮明年申請入學的學生舉辦校園開放日。",
   "target": "prospective",
   "status": "ok",
   "note": ""
@@ -5706,7 +5706,7 @@
  {
   "id": "L6-0714",
   "en": "As the old train started to move, small puffs of smoke rose into the cold air.",
-  "zh": "當老火車開始移動時，一小陣一小陣的煙飄向寒冷的空中。",
+  "zh": "老火車開動時，一陣陣輕煙飄向寒冷的空中。",
   "target": "puffs",
   "status": "ok",
   "note": ""
@@ -5770,7 +5770,7 @@
  {
   "id": "L6-0722",
   "en": "Radioactive waste from nuclear power plants must be stored safely for thousands of years.",
-  "zh": "核電廠產生的放射性廢料必須被安全地存放數千年。",
+  "zh": "核電廠產生的放射性廢料必須安全存放數千年。",
   "target": "Radioactive",
   "status": "ok",
   "note": ""
@@ -5778,7 +5778,7 @@
  {
   "id": "L6-0723",
   "en": "In Taiwan, white radishes are often cooked in soups, especially during the cold winter months.",
-  "zh": "在台灣，白蘿蔔常被拿來煮湯，尤其是在寒冷的冬季月份。",
+  "zh": "在台灣，白蘿蔔常被拿來煮湯，尤其是在寒冷的冬天。",
   "target": "radishes",
   "status": "ok",
   "note": ""
@@ -5802,7 +5802,7 @@
  {
   "id": "L6-0726",
   "en": "After eating shrimp, Ben developed a red rash on his arms and neck that made his skin hurt.",
-  "zh": "吃了蝦子之後，Ben 的手臂和脖子上起了紅疹，讓他的皮膚很不舒服。",
+  "zh": "吃了蝦子之後，Ben 的手臂和脖子上起了紅疹，讓他的皮膚很痛。",
   "target": "rash",
   "status": "ok",
   "note": ""
@@ -5938,7 +5938,7 @@
  {
   "id": "L6-0743",
   "en": "After the accident, he spent months in the hospital as doctors helped rehabilitate his injured leg.",
-  "zh": "意外發生後，他在醫院待了好幾個月，醫生協助他受傷的腿復健。",
+  "zh": "意外發生後，他在醫院待了好幾個月，醫生協助他為受傷的腿做復健。",
   "target": "rehabilitate",
   "status": "ok",
   "note": ""
@@ -5954,7 +5954,7 @@
  {
   "id": "L6-0745",
   "en": "During the king's long reign of over fifty years, the country enjoyed peace and growing wealth.",
-  "zh": "在國王長達五十多年的統治期間，這個國家享有和平與日益增加的財富。",
+  "zh": "在國王長達五十多年的統治期間，這個國家享有和平，財富也日益增加。",
   "target": "reign",
   "status": "ok",
   "note": ""
@@ -5994,7 +5994,7 @@
  {
   "id": "L6-0750",
   "en": "Young children are reliant on their parents for food, safety, and love.",
-  "zh": "年幼的孩子在食物、安全和愛上都依賴父母。",
+  "zh": "年幼的孩子在食物、安全和愛方面都依賴父母。",
   "target": "reliant",
   "status": "ok",
   "note": ""
@@ -6130,7 +6130,7 @@
  {
   "id": "L6-0767",
   "en": "Recent years have seen a revival of interest in traditional crafts, as young people learn to make paper umbrellas again.",
-  "zh": "近年來，大眾對傳統工藝的興趣再度復興，年輕人又開始學做紙傘。",
+  "zh": "近年來，大眾對傳統工藝的興趣重新燃起，年輕人又開始學做紙傘。",
   "target": "revival",
   "status": "ok",
   "note": ""
@@ -6146,7 +6146,7 @@
  {
   "id": "L6-0769",
   "en": "In history class, we learned how farmers revolted against the heavy taxes of their king.",
-  "zh": "歷史課上，我們學到農民如何起來反抗國王沉重的稅收。",
+  "zh": "歷史課上，我們學到農民如何起來反抗國王課徵的重稅。",
   "target": "revolted",
   "status": "ok",
   "note": ""
@@ -6274,7 +6274,7 @@
  {
   "id": "L6-0785",
   "en": "In old stories, the wolf is often shown as a savage animal that attacks without reason.",
-  "zh": "在古老的故事裡，狼常被描寫成會無緣無故攻擊的野蠻動物。",
+  "zh": "在古老的故事裡，狼常被描寫成會無緣無故攻擊的兇猛動物。",
   "target": "savage",
   "status": "ok",
   "note": ""
@@ -6330,7 +6330,7 @@
  {
   "id": "L6-0792",
   "en": "Working with hammers and stone, a local sculptor spent three years creating the huge statue in the city park.",
-  "zh": "一位在地雕刻家用槌子和石頭工作了三年，完成了市立公園裡的巨大雕像。",
+  "zh": "一位在地雕刻家揮著槌子雕鑿石材，花了三年完成市立公園裡的巨大雕像。",
   "target": "sculptor",
   "status": "ok",
   "note": ""
@@ -6362,7 +6362,7 @@
  {
   "id": "L6-0796",
   "en": "Far from the noisy city, the lake was serene, with only the soft songs of birds breaking the silence.",
-  "zh": "遠離喧鬧的城市，湖畔一片寧靜，只有輕柔的鳥鳴打破沉默。",
+  "zh": "遠離喧鬧的城市，湖畔一片寧靜，只有輕柔的鳥鳴打破寂靜。",
   "target": "serene",
   "status": "ok",
   "note": ""
@@ -6490,7 +6490,7 @@
  {
   "id": "L6-0812",
   "en": "Many people love the simplicity of Japanese homes, which have few decorations and plain, open spaces.",
-  "zh": "許多人喜愛日式住宅的簡單，屋內裝飾很少，空間樸素而開闊。",
+  "zh": "許多人喜愛日式住宅簡約的風格，屋內裝飾很少，空間樸素而開闊。",
   "target": "simplicity",
   "status": "ok",
   "note": ""
@@ -6714,7 +6714,7 @@
  {
   "id": "L6-0840",
   "en": "This old song tells a sorrowful story about a girl waiting for her father to return from the sea.",
-  "zh": "這首老歌講述一個悲傷的故事，關於一個女孩等待父親從海上歸來。",
+  "zh": "這首老歌講述一個女孩等待父親從海上歸來的悲傷故事。",
   "target": "sorrowful",
   "status": "ok",
   "note": ""
@@ -6738,7 +6738,7 @@
  {
   "id": "L6-0843",
   "en": "Over a span of fifty years, the small fishing village grew into a busy city with tall buildings.",
-  "zh": "在五十年的期間裡，這個小漁村發展成高樓林立的繁忙城市。",
+  "zh": "在五十年間，這個小漁村發展成高樓林立的繁忙城市。",
   "target": "span",
   "status": "ok",
   "note": ""
@@ -6834,7 +6834,7 @@
  {
   "id": "L6-0855",
   "en": "Exhausted after the marathon, the runner staggered across the finish line and fell onto the grass.",
-  "zh": "跑完馬拉松後精疲力盡，那位跑者搖搖晃晃地越過終點線，倒在草地上。",
+  "zh": "馬拉松跑到最後，那位跑者已精疲力盡，搖搖晃晃地越過終點線，倒在草地上。",
   "target": "staggered",
   "status": "ok",
   "note": ""
@@ -6858,7 +6858,7 @@
  {
   "id": "L6-0858",
   "en": "Benjamin Franklin is remembered as a scientist, a writer, and a wise statesman who helped build the United States.",
-  "zh": "班傑明・富蘭克林被人們記得是一位科學家、作家，也是協助建立美國的睿智政治家。",
+  "zh": "在後人心中，班傑明・富蘭克林是一位科學家、作家，也是協助建立美國的睿智政治家。",
   "target": "statesman",
   "status": "ok",
   "note": ""
@@ -6906,7 +6906,7 @@
  {
   "id": "L6-0864",
   "en": "Mia's stepfather, who married her mother two years ago, helps her with math homework every night.",
-  "zh": "Mia 的繼父兩年前和她母親結婚，每天晚上都會幫她做數學作業。",
+  "zh": "Mia 的繼父兩年前和她母親結婚，每天晚上都會教她寫數學作業。",
   "target": "stepfather",
   "status": "ok",
   "note": ""
@@ -6914,7 +6914,7 @@
  {
   "id": "L6-0865",
   "en": "In the story of Cinderella, the girl's stepmother makes her clean the house while her own daughters rest.",
-  "zh": "在灰姑娘的故事裡，繼母讓女孩打掃房子，自己的女兒們卻在休息。",
+  "zh": "在灰姑娘的故事裡，繼母要灰姑娘打掃房子，自己的女兒們卻在休息。",
   "target": "stepmother",
   "status": "ok",
   "note": ""
@@ -6978,7 +6978,7 @@
  {
   "id": "L6-0873",
   "en": "As a child, Ken had a stutter and often repeated sounds, but speech lessons helped him talk smoothly.",
-  "zh": "Ken 小時候有口吃，常常重複某些音，但說話課程幫助他能流暢地說話。",
+  "zh": "Ken 小時候有口吃，常常重複某些音，但上過說話訓練課程後，他已經能流暢地說話。",
   "target": "stutter",
   "status": "ok",
   "note": ""
@@ -7018,7 +7018,7 @@
  {
   "id": "L6-0878",
   "en": "Amy's grandmother gave her a one-year subscription to a nature magazine, so a new copy arrives every month.",
-  "zh": "Amy 的奶奶送她一年份的自然雜誌訂閱，所以每個月都會寄來一本新的。",
+  "zh": "Amy 的奶奶幫她訂了一年的自然雜誌，所以每個月都會寄來一本新的。",
   "target": "subscription",
   "status": "ok",
   "note": ""
@@ -7034,7 +7034,7 @@
  {
   "id": "L6-0880",
   "en": "Our team won five games in succession, beating one school after another without a single loss.",
-  "zh": "我們隊伍連續贏了五場比賽，一所接著一所地擊敗對手，一場也沒輸。",
+  "zh": "我們隊連續贏了五場比賽，接連擊敗一所又一所學校，一場也沒輸。",
   "target": "succession",
   "status": "ok",
   "note": ""
@@ -7082,7 +7082,7 @@
  {
   "id": "L6-0886",
   "en": "When the heater broke, the building superintendent, who manages repairs for every apartment, fixed it within an hour.",
-  "zh": "暖氣壞掉時，負責管理每戶修繕的大樓主管在一小時內就修好了。",
+  "zh": "暖氣壞掉時，負責每戶修繕的大樓管理員在一小時內就修好了。",
   "target": "superintendent",
   "status": "ok",
   "note": ""
@@ -7170,7 +7170,7 @@
  {
   "id": "L6-0897",
   "en": "Many birds, frogs, and insects live in the swamp, a wet, muddy area covered with water and tall grass.",
-  "zh": "許多鳥類、青蛙和昆蟲都生活在沼澤裡，那是一片覆蓋著水和高草、潮濕泥濘的地區。",
+  "zh": "許多鳥類、青蛙和昆蟲都生活在沼澤裡，那是一片潮濕泥濘、積水又長滿高草的地區。",
   "target": "swamp",
   "status": "ok",
   "note": ""
@@ -7178,7 +7178,7 @@
  {
   "id": "L6-0898",
   "en": "A huge swarm of bees, thousands of them flying together, suddenly appeared over the farm and frightened the workers.",
-  "zh": "一大群蜜蜂，數以千計地一起飛行，突然出現在農場上空，嚇壞了工人們。",
+  "zh": "一大群蜜蜂突然出現在農場上空，數千隻一起飛舞，嚇壞了工人們。",
   "target": "swarm",
   "status": "ok",
   "note": ""
@@ -7314,7 +7314,7 @@
  {
   "id": "L6-0915",
   "en": "Mia joined the art club in her first year and won a prize shortly thereafter, just two months later.",
-  "zh": "Mia 高一時加入美術社，此後不久，僅僅兩個月，就得了獎。",
+  "zh": "Mia 高一時加入美術社，此後不久，才短短兩個月就得了獎。",
   "target": "thereafter",
   "status": "ok",
   "note": ""
@@ -7330,7 +7330,7 @@
  {
   "id": "L6-0917",
   "en": "Because the Earth is tilted, different parts of it receive different amounts of heat from the sun, creating the seasons.",
-  "zh": "由於地球傾斜，地球的不同地區從太陽接收到的熱量不同，因而形成季節。",
+  "zh": "由於地球傾斜，地球的不同地區從太陽接收到的熱量不同，因而產生季節變化。",
   "target": "tilted",
   "status": "ok",
   "note": ""
@@ -7610,7 +7610,7 @@
  {
   "id": "L6-0952",
   "en": "Just before the concert began, a staff member ushered us through the dark hall to our seats.",
-  "zh": "音樂會即將開始前，一位工作人員帶我們穿過昏暗的走道，到我們的座位。",
+  "zh": "音樂會即將開始前，一位工作人員帶我們穿過昏暗的走道入座。",
   "target": "ushered",
   "status": "ok",
   "note": ""
@@ -7706,7 +7706,7 @@
  {
   "id": "L6-0964",
   "en": "When a guitar string is played, it vibrates back and forth very quickly, which produces the sound we hear.",
-  "zh": "吉他弦被彈奏時會快速地來回振動，因而產生我們聽到的聲音。",
+  "zh": "撥動吉他弦時，弦會快速地來回振動，因而產生我們聽到的聲音。",
   "target": "vibrates",
   "status": "ok",
   "note": ""
@@ -7714,7 +7714,7 @@
  {
   "id": "L6-0965",
   "en": "Elephants can sense the vibration of the ground through their feet, which helps them notice others far away.",
-  "zh": "大象能透過腳感受到地面的振動，這幫助牠們察覺遠方的同伴。",
+  "zh": "大象能透過腳感受到地面的振動，藉此察覺遠方的同伴。",
   "target": "vibration",
   "status": "ok",
   "note": ""
@@ -7754,7 +7754,7 @@
  {
   "id": "L6-0970",
   "en": "Every summer, the rich family stays in a large villa by the sea, with its own pool and garden.",
-  "zh": "每年夏天，那個富有的家庭都會住在海邊的大別墅，那裡有自己的游泳池和花園。",
+  "zh": "每年夏天，那個富有的家庭都會住在海邊的大別墅，別墅裡有私人游泳池和花園。",
   "target": "villa",
   "status": "ok",
   "note": ""
@@ -7866,7 +7866,7 @@
  {
   "id": "L6-0984",
   "en": "Before they could search the house, the police had to get a warrant signed by a judge.",
-  "zh": "警方必須先取得法官簽署的令狀，才能搜索那棟房子。",
+  "zh": "警方必須先取得法官簽發的搜索票，才能搜索那棟房子。",
   "target": "warrant",
   "status": "ok",
   "note": ""
@@ -7890,7 +7890,7 @@
  {
   "id": "L6-0987",
   "en": "After walking for hours in the hot sun, the weary travelers were glad to finally rest under a tree.",
-  "zh": "在大太陽下走了好幾個小時後，疲倦的旅人終於能在樹下休息，都很開心。",
+  "zh": "在大太陽下走了好幾個小時後，疲倦的旅人很高興終於能在樹下休息。",
   "target": "weary",
   "status": "ok",
   "note": ""
@@ -7962,7 +7962,7 @@
  {
   "id": "L6-0996",
   "en": "As more women entered the workforce in the twentieth century, the number of working mothers grew quickly.",
-  "zh": "二十世紀時，隨著更多女性投入勞動市場，職業婦女的人數迅速增加。",
+  "zh": "二十世紀時，隨著更多女性投入勞動市場，職業媽媽的人數迅速增加。",
   "target": "workforce",
   "status": "ok",
   "note": "超出1–5級：twentieth"

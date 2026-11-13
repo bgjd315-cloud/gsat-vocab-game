@@ -28,9 +28,9 @@
  },
  {
   "id": "L0-0004",
-  "zh": "特色；以…為特色",
+  "zh": "特色；以……為特色",
   "en": "The best feature of this phone is its great camera.",
-  "exzh": "這支手機最好的特色是它很棒的相機。",
+  "exzh": "這支手機最大的特色就是相機很棒。",
   "target": "feature",
   "status": "ok",
   "note": ""
@@ -129,7 +129,7 @@
   "id": "L0-0015",
   "zh": "提到",
   "en": "Did the teacher mention anything about the test tomorrow?",
-  "exzh": "老師有提到任何關於明天考試的事嗎？",
+  "exzh": "老師有提到明天考試的事嗎？",
   "target": "mention",
   "status": "ok",
   "note": ""
@@ -344,7 +344,7 @@
  {
   "id": "L0-0039",
   "zh": "遍及；自始至終",
-  "en": "It rained throughout the whole weekend, so we stayed home.",
+  "en": "It rained throughout the weekend, so we stayed home.",
   "exzh": "整個週末都在下雨，所以我們待在家裡。",
   "target": "throughout",
   "status": "ok",
@@ -424,7 +424,7 @@
  },
  {
   "id": "L0-0048",
-  "zh": "網路；網絡",
+  "zh": "網路；網狀系統",
   "en": "The school's computer network is very slow today.",
   "exzh": "學校的電腦網路今天很慢。",
   "target": "network",
@@ -442,7 +442,7 @@
  },
  {
   "id": "L0-0050",
-  "zh": "個人的；個人",
+  "zh": "個人的；個別的；個人",
   "en": "The teacher gives individual help to each student.",
   "exzh": "老師給每位學生個別的幫助。",
   "target": "individual",
@@ -478,9 +478,9 @@
  },
  {
   "id": "L0-0054",
-  "zh": "預先；進步；前進",
+  "zh": "進步；前進（in advance 預先）",
   "en": "Please buy your movie tickets in advance.",
-  "exzh": "請事先買好你的電影票。",
+  "exzh": "請事先買好電影票。",
   "target": "advance",
   "status": "ok",
   "note": ""
@@ -497,8 +497,8 @@
  {
   "id": "L0-0056",
   "zh": "文化的",
-  "en": "Night markets are an important cultural part of Taiwan.",
-  "exzh": "夜市是台灣重要的文化一環。",
+  "en": "Night markets are an important part of Taiwan's cultural life.",
+  "exzh": "夜市是台灣文化生活中重要的一環。",
   "target": "cultural",
   "status": "ok",
   "note": ""
@@ -550,7 +550,7 @@
  },
  {
   "id": "L0-0062",
-  "zh": "在…之內",
+  "zh": "在……之內",
   "en": "Please finish the test within thirty minutes.",
   "exzh": "請在三十分鐘內完成考試。",
   "target": "within",
@@ -705,7 +705,7 @@
   "id": "L0-0079",
   "zh": "張貼；郵件；職位",
   "en": "Lisa posted a photo of her cat online.",
-  "exzh": "Lisa 在網路上貼了一張她的貓的照片。",
+  "exzh": "Lisa 在網路上貼了一張她家貓咪的照片。",
   "target": "posted",
   "status": "ok",
   "note": ""
@@ -921,7 +921,7 @@
   "id": "L0-0103",
   "zh": "比較喜歡",
   "en": "I prefer tea to coffee in the morning.",
-  "exzh": "早上我比較喜歡喝茶而不是咖啡。",
+  "exzh": "早上比起咖啡，我比較喜歡喝茶。",
   "target": "prefer",
   "status": "ok",
   "note": ""
@@ -939,7 +939,7 @@
   "id": "L0-0105",
   "zh": "時間表；安排",
   "en": "My schedule is very busy this week because of exams.",
-  "exzh": "因為考試，我這週的行程很忙。",
+  "exzh": "因為考試，我這週的行程排得很滿。",
   "target": "schedule",
   "status": "ok",
   "note": ""
@@ -982,7 +982,7 @@
  },
  {
   "id": "L0-0110",
-  "zh": "典型的",
+  "zh": "典型的；平常的",
   "en": "On a typical school day, I get up at six.",
   "exzh": "在平常的上學日，我六點起床。",
   "target": "typical",
@@ -1101,7 +1101,7 @@
   "id": "L0-0123",
   "zh": "因素",
   "en": "Sleep is an important factor in good health.",
-  "exzh": "睡眠是良好健康的重要因素。",
+  "exzh": "睡眠是維持健康的重要因素。",
   "target": "factor",
   "status": "ok",
   "note": ""
@@ -1153,7 +1153,7 @@
  },
  {
   "id": "L0-0129",
-  "zh": "申請；應用",
+  "zh": "申請；應用；塗抹",
   "en": "My sister applied to three universities this year.",
   "exzh": "我姊姊今年申請了三所大學。",
   "target": "applied",
@@ -1227,7 +1227,7 @@
   "id": "L0-0137",
   "zh": "平的；（輪胎）洩氣的",
   "en": "My bike has a flat tire, so I walked to school.",
-  "exzh": "我的腳踏車爆胎了，所以我走路上學。",
+  "exzh": "我的腳踏車輪胎沒氣了，所以我走路上學。",
   "target": "flat",
   "status": "ok",
   "note": ""
@@ -1344,7 +1344,7 @@
   "id": "L0-0150",
   "zh": "掙扎；努力",
   "en": "Many students struggle with math in high school.",
-  "exzh": "許多學生在高中時為數學苦戰。",
+  "exzh": "許多學生在高中時學數學都很吃力。",
   "target": "struggle",
   "status": "ok",
   "note": ""
@@ -1712,7 +1712,7 @@
  {
   "id": "L0-0191",
   "zh": "結合",
-  "en": "This dish combines Taiwanese and Japanese tastes.",
+  "en": "This dish combines Taiwanese and Japanese flavors.",
   "exzh": "這道菜結合了台灣和日本的風味。",
   "target": "combines",
   "status": "ok",
@@ -1956,7 +1956,7 @@
   "id": "L0-0218",
   "zh": "混合物",
   "en": "The drink is a mixture of milk and tea.",
-  "exzh": "這杯飲料是牛奶和茶的混合。",
+  "exzh": "這杯飲料是由牛奶和茶混合而成的。",
   "target": "mixture",
   "status": "ok",
   "note": ""
@@ -2001,7 +2001,7 @@
   "id": "L0-0223",
   "zh": "線上的；在線上",
   "en": "Many students take online classes during summer vacation.",
-  "exzh": "很多學生在暑假期間上線上課程。",
+  "exzh": "很多學生在暑假期間參加線上課程。",
   "target": "online",
   "status": "ok",
   "note": ""
@@ -2280,7 +2280,7 @@
   "id": "L0-0254",
   "zh": "低語；耳語",
   "en": "Lisa whispered a secret into my ear.",
-  "exzh": "Lisa 在我耳邊悄悄說了一個秘密。",
+  "exzh": "Lisa 在我耳邊悄悄說了一個祕密。",
   "target": "whispered",
   "status": "ok",
   "note": ""
@@ -2638,7 +2638,7 @@
  },
  {
   "id": "L0-0294",
-  "zh": "民間的；人們",
+  "zh": "民間；人們",
   "en": "We learned a Taiwanese folk song in music class.",
   "exzh": "我們在音樂課學了一首台灣民謠。",
   "target": "folk",
@@ -2719,9 +2719,9 @@
  },
  {
   "id": "L0-0303",
-  "zh": "日誌；期刊",
+  "zh": "日記；日誌；期刊",
   "en": "I write in my journal every night before bed.",
-  "exzh": "我每晚睡前都會寫日誌。",
+  "exzh": "我每晚睡前都會寫日記。",
   "target": "journal",
   "status": "ok",
   "note": ""
@@ -3018,7 +3018,7 @@
   "id": "L0-0336",
   "zh": "故事；傳說",
   "en": "Grandma told us an old tale about a brave girl.",
-  "exzh": "奶奶跟我們說了一個勇敢女孩的古老故事。",
+  "exzh": "奶奶跟我們說了一個關於勇敢女孩的古老故事。",
   "target": "tale",
   "status": "ok",
   "note": ""
@@ -3108,7 +3108,7 @@
   "id": "L0-0346",
   "zh": "電線；金屬線",
   "en": "Don't touch that wire; it may be dangerous.",
-  "exzh": "不要碰那條電線，它可能很危險。",
+  "exzh": "不要碰那條電線，可能很危險。",
   "target": "wire",
   "status": "ok",
   "note": ""

@@ -95,7 +95,7 @@
      },
      {
       "en": "Please unpack your bag as soon as we arrive at the hotel.",
-      "zh": "我們一到旅館，請馬上把行李拿出來。",
+      "zh": "我們一到旅館，請馬上打開行李，把東西拿出來。",
       "hl": [
        "unpack"
       ]
@@ -115,7 +115,7 @@
     ]
    },
    {
-    "t": "un- 否定詞語氣直接，是「不是」的意思；有些字會產生「相反」而不只是「沒有」，例如 unhappy 是「不快樂、難過」，不是單純「沒有快樂」。",
+    "t": "un- 的否定語氣很直接，就是「不」的意思；有些字表示的是「相反」，而不只是「沒有」，例如 unhappy 是「不快樂、難過」，不是單純「沒有快樂」。",
     "ex": [
      {
       "en": "The unhappy child sat alone at the back of the room.",
@@ -128,8 +128,8 @@
    }
   ],
   "steps": [
-   "先把字尾（-ed, -ly, -ment, -able, -ness）拿掉，看剩下的字根是不是認識的字。",
-   "確認開頭是不是真的 un-：拿掉 un- 後剩下的部分必須是一個完整的字（fair、lock、usual），否則可能只是巧合（union、unless）。",
+   "先把字尾（-ed、-ly、-ment、-able、-ness）拿掉，看剩下的字根是不是認識的字。",
+   "確認開頭是不是真的 un-：拿掉 un- 後剩下的部分必須是一個完整的字，而且意思接得上（fair、lock、usual），否則可能只是巧合（union、unless）。",
    "判斷字根的詞性：形容詞 → 「不…的」；動詞 → 「做相反動作」。",
    "完整示範：unimaginable = un（不）+ imagine（想像）+ able（能…的）→「無法想像的」。"
   ],
@@ -232,7 +232,7 @@
     "type": "pick",
     "s": "下列哪一個拆解與意思都正確？",
     "o": [
-     "union = un + ion，意思是不是離子",
+     "union = un + ion，意思是「不是離子」",
      "unless = un + less，意思是比較少",
      "unlock = un + lock，意思是開鎖",
      "unique = un + ique，意思是不獨特"
@@ -367,7 +367,7 @@
     ]
    },
    {
-    "t": "有些 in- 字的字根今天已不單獨使用，要把整個字當一個單位記：incredible（難以置信的，cred 是「相信」）、inevitable（無法避免的）、indigenous（本土的）。",
+    "t": "有些 in- 字的字根今天已不單獨使用，要把整個字當一個單位記：incredible（難以置信的，cred 是「相信」）、inevitable（無法避免的）、innocent（無辜的）。",
     "ex": [
      {
       "en": "The view from the top of the mountain was incredible.",
@@ -394,7 +394,7 @@
   "steps": [
    "先看開頭是不是 in-、im-、il-、ir-，再看後面剩下的部分是不是一個認識的形容詞。",
    "注意字母規則：b/m/p 前是 im-，l 前是 il-，r 前是 ir-，其他是 in-。",
-   "判斷是「不」還是「在內」：如果剩下的字是形容詞（legal、visible），多半是「不」；如果是名詞或動詞（come、side、sert），可能是「在內、進入」。",
+   "判斷是「不」還是「在內」：如果剩下的字是形容詞（legal、visible），多半是「不」；如果是名詞或動詞（come、side、put），可能是「在內、進入」。",
    "完整示範：irresponsible = ir（不）+ responsible（有責任的）→「不負責任的」；因為 responsible 以 r 開頭，所以用 ir-。"
   ],
   "compare": [
@@ -442,7 +442,7 @@
      "過時的"
     ],
     "a": 0,
-    "ex": "invaluable 雖然有 in-，但意思是「價值高到無法估計」，不是「沒價值」。句中 kept in a special glass case 也說明它很珍貴。這是 in- 的例外字。",
+    "ex": "invaluable 雖然有 in-，但意思是「價值高到無法估計」，不是「沒價值」。句中 kept in a special glass case 也說明它很珍貴。這是 in- 字常見的陷阱。",
     "hint": "想想博物館會把什麼東西放進特別的玻璃櫃保存。"
    },
    {
@@ -482,7 +482,7 @@
     ],
     "a": 3,
     "ex": "even two minutes 與 complaining 說明他沒耐性，所以用形容詞 impatient（不耐煩的）。impatiently 是副詞，patient 是意思相反的形容詞，patience 是名詞。",
-    "hint": "空格前面有 so，空格要填形容詞，而且表示做不到等待。"
+    "hint": "空格前面有 so，空格要填形容詞，而且意思是沒辦法等待。"
    },
    {
     "type": "pick",
@@ -764,7 +764,7 @@
      "disappear = dis + appear，意思是出現"
     ],
     "a": 0,
-    "ex": "disconnect 的 dis- 是「相反動作」，所以是「切斷連接」。display 是「展示」（不能拆成不玩），dishonest 是「不誠實」，disappear 是「消失」。",
+    "ex": "disconnect 的 dis- 是「分開」，所以是「切斷連接」。display 是「展示」（不能拆成不玩），dishonest 是「不誠實」，disappear 是「消失」。",
     "hint": "注意 dis- 是反意，三個錯誤選項的意思都被說反或亂拆。"
    }
   ],
@@ -867,7 +867,7 @@
     ]
    },
    {
-    "t": "mis- 表示「錯誤地、壞地」，大多接在動詞前，表示動作做錯：understand → misunderstand、lead → mislead。",
+    "t": "mis- 表示「錯誤地、不當地」，大多接在動詞前，表示動作做錯：understand → misunderstand、lead → mislead。",
     "ex": [
      {
       "en": "Don't let the title mislead you; the book is very funny.",
@@ -975,7 +975,7 @@
      "misunderstood"
     ],
     "a": 3,
-    "ex": "gave you the wrong answer 說明理解錯了，且主詞 I 後面要用過去式動詞，所以是 misunderstood。understood 意思相反，misunderstanding 是名詞。",
+    "ex": "gave you the wrong answer 說明理解錯了，且要和後面的過去式 gave 一致，所以用過去式 misunderstood。understood 意思相反，misunderstand 是現在式，misunderstanding 是名詞。",
     "hint": "空格需要過去式動詞，意思是「理解錯誤」。"
    },
    {
@@ -1002,7 +1002,7 @@
     ],
     "a": 0,
     "ex": "mission 是「任務」，來自拉丁文「派遣」，不是 mis- 字首。mislead（誤導）、misspell（拼錯）、misuse（誤用）都是 mis-（錯誤）+ 動詞。",
-    "hint": "哪一個字拿掉 mis- 後剩下的 sion 不是字？"
+    "hint": "哪一個字拿掉 mis- 後剩下的部分不是字？"
    },
    {
     "type": "pick",
@@ -1168,7 +1168,7 @@
    {
     "a": "re-（再）：rewrite",
     "b": "re-（回）：return",
-    "note": "兩個意思有時重疊：refund 是「款項回到你手上」，review 是「再看一次」，要看語境。"
+    "note": "兩個意思要靠語境分辨：refund 的 re- 是「回」（款項回到你手上），review 的 re- 是「再」（再看一次）。"
    }
   ],
   "mistakes": [
@@ -1278,7 +1278,7 @@
   "title": "pre-、post- 之前、之後",
   "formula": "pre + 名詞／動詞 → 在…之前；post + 名詞／動詞 → 在…之後",
   "rhyme": "pre 在前先預備，post 在後延後做",
-  "intro": "pre- 表示「在…之前」（preview 預覽、predict 預測），post- 表示「在…之後」（postwar 戰後、postpone 延後）。這兩個字首在時間或順序的描述中很常見，學測閱讀裡常看到 prehistoric、premature 等字。不過要小心 present、president、pretty、pressure 這類 pre 開頭但不是字首的字。",
+  "intro": "pre- 表示「在…之前」（preview 預覽、predict 預測），post- 表示「在…之後」（postwar 戰後、postpone 延後）。這兩個字首在時間或順序的描述中很常見，學測閱讀裡常看到 prehistoric、premature 等字。不過要小心 present、president、pretty、pressure 這類 pre 開頭、卻不能照「之前」字面去猜的字。",
   "family": [
    {
     "w": "preview",
@@ -1446,7 +1446,7 @@
   "qs": [
    {
     "type": "mc",
-    "s": "Scientists found prehistoric tools near the river, made long before people used writing.",
+    "s": "Near the river, scientists found prehistoric tools made long before people used writing.",
     "o": [
      "現代的",
      "進口的",
@@ -1480,7 +1480,7 @@
      "postponement"
     ],
     "a": 1,
-    "ex": "The game was ... until next week 是被動語態，要用過去分詞 postponed（被延後）。postpone 是原形，postponing 是現在分詞，postponement 是名詞。",
+    "ex": "The baseball game was ... until next week 是被動語態，要用過去分詞 postponed（被延後）。postpone 是原形，postponing 是現在分詞，postponement 是名詞。",
     "hint": "be 動詞後面，而且比賽是「被」延期。"
    },
    {
@@ -1634,11 +1634,11 @@
     ]
    },
    {
-    "t": "under- 表示「在下面」：underline（劃底線）、underground（地下的）、underwear（內衣）。學測文章出現過的表外字還有 underwater、understandable。",
+    "t": "under- 表示「在下面」：underline（畫底線）、underground（地下的）、underwear（內衣）。學測文章出現過的表外字還有 underwater，以及由 understand 加 -able 構成的 understandable。",
     "ex": [
      {
       "en": "Divers took photos of underwater caves and colorful fish.",
-      "zh": "潛水員拍了水中洞穴和彩色魚的照片。",
+      "zh": "潛水員拍下了水中洞穴和五彩繽紛的魚。",
       "hl": [
        "underwater"
       ]
@@ -1748,7 +1748,7 @@
      "overflowed"
     ],
     "a": 2,
-    "ex": "made the river ... its banks 的使役動詞後面要接原形動詞，overflow 是「溢出」。flow 是流，overflowing、overflowed 不是原形。",
+    "ex": "made the river ... its banks 的使役動詞後面要接原形動詞，overflow 是「溢出」。flow 只是「流動」，不能接受詞 its banks；overflowing、overflowed 不是原形。",
     "hint": "make 後面接受詞，再接原形動詞，而且水流到了堤岸之外。"
    },
    {
@@ -1963,7 +1963,7 @@
   "qs": [
    {
     "type": "mc",
-    "s": "Turtles can outlive many other animals, and some of them reach more than a hundred years old.",
+    "s": "Turtles can outlive many other animals, and some of them live to be more than a hundred years old.",
     "o": [
      "比…活得久",
      "比…跑得快",
@@ -2143,7 +2143,7 @@
     "ex": [
      {
       "en": "You can transfer to the MRT at the next station.",
-      "zh": "你可以在下一站換乘捷運。",
+      "zh": "你可以在下一站轉乘捷運。",
       "hl": [
        "transfer"
       ]
@@ -2192,7 +2192,7 @@
    {
     "a": "internet（inter-）",
     "b": "intranet（intra-）",
-    "note": "inter- 是「之間」，intra- 是「在內部」，internet 連接各網路之間，intranet 是公司或學校內部的網路。"
+    "note": "inter- 是「之間」，intra- 是「在內部」，internet 把各個網路連在一起，intranet 是公司或學校內部的網路。"
    },
    {
     "a": "transport",
@@ -2312,7 +2312,7 @@
   "title": "sub-、super- 在下、超級",
   "formula": "sub + 名詞／動詞 → 在下、次級；super + 名詞／形容詞 → 在上、超級、非常",
   "rhyme": "sub 在下做次要，super 在上特別強",
-  "intro": "sub- 表示「在下面、次級」（subway、subtitle、submarine），super- 表示「在上、超越、非常」（superior、supervise、supermarket）。這組字首在學測閱讀的科學、生活主題常見，而且同一個字根常和這兩個字首配成對，例如 superior 和 inferior。",
+  "intro": "sub- 表示「在下面、次級」（subway、subtitle、submarine），super- 表示「在上、超越、非常」（superior、supervise、supermarket）。這組字首在學測閱讀的科學、生活主題常見，而且常有成對的反義字可以一起記，例如 superior（較優越的）和 inferior（較差的）。",
   "family": [
    {
     "w": "submarine",
@@ -2381,7 +2381,7 @@
     "ex": [
      {
       "en": "The submarine stayed under the sea for two weeks.",
-      "zh": "那艘潛水艇在海底待了兩個星期。",
+      "zh": "那艘潛水艇在海面下待了兩個星期。",
       "hl": [
        "submarine"
       ]
@@ -2392,8 +2392,8 @@
     "t": "sub- 也表示「次要、附屬」：subtitle（副標題、字幕）、subgroup（小組）。",
     "ex": [
      {
-      "en": "I watch English movies with Chinese subtitles at first.",
-      "zh": "我一開始會看有中文字幕的英文電影。",
+      "en": "At first, I watched English movies with Chinese subtitles.",
+      "zh": "一開始，我都看有中文字幕的英文電影。",
       "hl": [
        "subtitles"
       ]
@@ -2413,7 +2413,7 @@
     ]
    },
    {
-    "t": "super- 也當成「非常、超級」使用：superstar、supermarket（超級市場）、supernatural（超自然的）。學測文章出現過的表外字 superhero、subconsciously（下意識地）。",
+    "t": "super- 也當成「非常、超級」使用：superstar、supermarket（超級市場）、supernatural（超自然的）。學測文章出現過的表外字還有 superhero、subconsciously（下意識地）。",
     "ex": [
      {
       "en": "Many kids love the superhero who flies over the city.",
@@ -2448,7 +2448,7 @@
    "先看字首是 sub- 還是 super-，把它拿掉。",
    "判斷位置還是程度：地點、東西 → 在下／在上；性質、能力 → 次級／超級。",
    "查剩下部分有沒有認識的字（marine、way、natural），沒有就記字根意思（mit 送、vise 看）。",
-   "完整示範：subconsciously = sub（在下）+ conscious（意識）+ ly（副詞）→「在意識之下地」→「下意識地」。"
+   "完整示範：subconsciously = sub（在下）+ conscious（有意識的）+ ly（副詞）→「在意識之下地」→「下意識地」。"
   ],
   "compare": [
    {
@@ -2471,7 +2471,7 @@
    {
     "wrong": "supper：super + p，超級的東西",
     "right": "supper：晚餐",
-    "why": "supper 是 sup（吃湯）+ er，與 super- 無關，只是長得像。"
+    "why": "supper 是 sup（喝湯）+ er，與 super- 無關，只是長得像。"
    },
    {
     "wrong": "subject：sub + ject，下面的東西",
@@ -2521,7 +2521,7 @@
      "supervise"
     ],
     "a": 2,
-    "ex": "far ___ to 要用形容詞 superior（較優越的）。superiority 是名詞，superiors 是長官，supervise 是動詞，都不能放在 be 動詞後。",
+    "ex": "far ___ to 要用形容詞 superior（較優越的）。superiority 是名詞，superiors 是長官，supervise 是動詞，都不能填入 is far ___ to 這個形容詞的位置。",
     "hint": "be 動詞後面要接形容詞，而且後面有 to。"
    },
    {
@@ -2534,7 +2534,7 @@
      "subtract"
     ],
     "a": 3,
-    "ex": "If 子句要用現在簡單式，主詞 you，所以用 subtract（減去）。subtraction 是名詞，subtracted 是過去式，subtracting 是動名詞。",
+    "ex": "主要子句 you get 7 用現在式表示一般事實，If 子句也用現在簡單式，主詞是 you，所以用 subtract（減去）。subtraction 是名詞，subtracted 是過去式，subtracting 是動名詞。",
     "hint": "If 引導的條件句，主詞是 you，要用現在式。"
    },
    {
@@ -2548,7 +2548,7 @@
     ],
     "a": 0,
     "ex": "supper（晚餐）與 super- 無關。subway、superior、subtitle 分別是 sub + way、super + ior、sub + title。",
-    "hint": "看看哪一個字拿掉 super 後，剩下的 p 很奇怪。"
+    "hint": "想想每個字的意思和「在下」「超級」有沒有關係。"
    },
    {
     "type": "pick",
@@ -2651,7 +2651,7 @@
     ]
    },
    {
-    "t": "com- 用在 b、m、p 前（發音需要），con- 用在其他字母前：combine（com + bine 兩個合在一起）、connect（con + nect 綁在一起）。",
+    "t": "com- 用在 b、m、p 前（發音需要），con- 用在其他大多數子音前：combine（com + bine 兩個合在一起）、connect（con + nect 綁在一起）。",
     "ex": [
      {
       "en": "We usually communicate with friends by phone and social media.",
@@ -2675,7 +2675,7 @@
     ]
    },
    {
-    "t": "co- 可以單獨接成字，如 coworker、co-author、coexist；學測文章出現過的表外字還有 coexist（共存）。",
+    "t": "co- 常直接加在完整的字前，如 coworker、co-author、coexist；其中 coexist（共存）是學測文章出現過的表外字。",
     "ex": [
      {
       "en": "Humans and wild animals must learn to coexist in the same forest.",
@@ -2719,7 +2719,7 @@
    {
     "a": "coworker",
     "b": "colleague",
-    "note": "coworker 是同一個地方工作的人，colleague 是同一專業或機構的同事，語氣更正式。"
+    "note": "coworker 是在同一個地方工作的人，colleague 是同一專業或機構的同事，語氣更正式。"
    }
   ],
   "mistakes": [
@@ -2789,8 +2789,8 @@
      "communicate"
     ],
     "a": 3,
-    "ex": "usually 後面接現在式動詞，主詞 We，所以用原形 communicate（溝通）。communication 是名詞，communicative 是形容詞，communicated 是過去式。",
-    "hint": "usually 與主詞 We 連用，需要現在式的原形動詞。"
+    "ex": "句子描述現在的習慣（because 子句也用現在式 live），主詞是 We，所以用原形 communicate（溝通）。communication 是名詞，communicative 是形容詞，communicated 是過去式。",
+    "hint": "這句描述現在的習慣（看 because 子句的時態），主詞是 We。"
    },
    {
     "type": "pick",
@@ -2803,7 +2803,7 @@
     ],
     "a": 1,
     "ex": "coach（教練）是一個完整的字，不是 co- 字首。coworker、coexist、cooperate 分別是 co + worker、co + exist、co + operate。",
-    "hint": "哪個字拿掉 co 以後，剩下的 ach 不是字？"
+    "hint": "哪個字拿掉 co 以後，剩下的部分不是字？"
    },
    {
     "type": "pick",
@@ -2894,7 +2894,7 @@
   ],
   "points": [
    {
-    "t": "ex- 表示「向外」：把動作往外送、往外推、往外拉。看到 ex- 開頭的動詞，先問自己「什麼東西被往外？」",
+    "t": "ex- 表示「向外」：把動作往外送、往外推、往外拉。看到 ex- 開頭的動詞，先問自己「是什麼東西往外移動？」",
     "ex": [
      {
       "en": "Taiwan exports many computer parts to other countries.",
@@ -2957,9 +2957,9 @@
    }
   ],
   "steps": [
-   "看到 ex- 開頭的生字，先試著把 ex- 切下來，剩下的部分是不是你認得的字或字根（如 port, pand, tract）。",
+   "看到 ex- 開頭的生字，先試著把 ex- 切下來，看剩下的部分是不是你認得的字或字根（如 port, pand, tract）。",
    "把「向外」放進去，猜整個字的動作：ex + port = 運出去 → 出口。",
-   "如果字前面有人的身分（teacher, president）且有連字號，ex- 就是「前任」。",
+   "如果 ex- 後面接的是人的身分（teacher, president），而且有連字號，ex- 就是「前任」。",
    "完整示範：expel = ex + pel（推）→ 往外推 → 驅逐、開除；The school expelled him → 學校開除了他。"
   ],
   "compare": [
@@ -3012,7 +3012,7 @@
    },
    {
     "type": "mc",
-    "s": "The school is expelling students who cheat on the test.\nexpelling 最可能的意思是？",
+    "s": "The school is expelling students who cheated on the test.\nexpelling 最可能的意思是？",
     "o": [
      "獎勵",
      "訓練",
@@ -3020,7 +3020,7 @@
      "開除、驅逐"
     ],
     "a": 3,
-    "ex": "expel = ex（向外）+ pel（推），推出去就是「驅逐、開除」；這也是學測文章出現過的表外字（expelling）。從 who cheat 可知是處罰。",
+    "ex": "expel = ex（向外）+ pel（推），推出去就是「驅逐、開除」；這也是學測文章出現過的表外字（expelling）。從 who cheated 可知是處罰。",
     "hint": "ex- 是向外，pel 是推。"
    },
    {
@@ -3138,7 +3138,7 @@
    },
    {
     "w": "counterclockwise",
-    "parts": "counter + clockwise（順時鐘的）",
+    "parts": "counter + clockwise（順時針的）",
     "zh": "逆時針的",
     "lv": null
    }
@@ -3199,7 +3199,7 @@
     "ex": [
      {
       "en": "Turn the knob counterclockwise to open the lid.",
-      "zh": "把旋鈕逆時針轉來打開蓋子。",
+      "zh": "把旋鈕往逆時針方向轉，就能打開蓋子。",
       "hl": [
        "counterclockwise"
       ]
@@ -3211,7 +3211,7 @@
    "看到 anti- 或 counter- 開頭的字，先把字首切掉，看剩下的是不是熟悉的字（body, virus, act）。",
    "把字首的「反對、對抗」放進去：anti + body = 對抗外來物的身體產物 → 抗體。",
    "注意是不是假朋友：anticipate、antique 開頭是 anti，但不是「反對」。",
-   "完整示範：counteract = counter + act，用相反的作用去抵消 → 抵銷、對抗。"
+   "完整示範：counteract = counter + act，用相反的作用去抵銷 → 抵銷、對抗。"
   ],
   "compare": [
    {
@@ -3297,7 +3297,7 @@
      "antisocial"
     ],
     "a": 3,
-    "ex": "more and more 後面要接形容詞，且從 alone 可知他變得不愛與人往來，所以選 antisocial；social 的意思相反。",
+    "ex": "made Tom more and more ___ 是「make + 受詞 + 形容詞」的句型，要填形容詞；從 alone 可知他變得不愛與人往來，所以選 antisocial；social 的意思相反。",
     "hint": "要填形容詞，而且意思與「獨處」相呼應。"
    },
    {
@@ -3323,7 +3323,7 @@
      "counter（櫃檯）"
     ],
     "a": 0,
-    "ex": "counterclockwise 是與時鐘方向相反的方向。countryside 和 count 只是拼字上相像，與 counter- 無關。",
+    "ex": "counterclockwise 是與時鐘方向相反的方向。countryside 和 count 只是拼字上相像，與 counter- 無關；counter（櫃檯）是獨立的名詞，也不是表示「相反方向」的字首。",
     "hint": "找方向相反的那個字。"
    }
   ],
@@ -3444,7 +3444,7 @@
     "ex": [
      {
       "en": "The tiny computer is embedded in the toy.",
-      "zh": "這個小電腦被嵌入玩具裡。",
+      "zh": "這台小電腦嵌在玩具裡。",
       "hl": [
        "embedded"
       ]
@@ -3466,7 +3466,7 @@
   ],
   "steps": [
    "看到 en-/em- 開頭的字，先確認是不是 en/em + 單字（enlarge = en + large），而不是只有開頭相像。",
-   "判斷字尾是形容詞還是名詞：形容詞 → 「使變成…」；名詞 → 「給予…、放入…」。",
+   "判斷 en-/em- 後面的字是形容詞還是名詞：形容詞 → 「使變成…」；名詞 → 「給予…、放入…」。",
    "最後確認詞性：en-/em- 開頭的通常是動詞，可以用被動式或加 -ed。",
    "完整示範：endanger = en（放入）+ danger（危險）→ 使陷入危險；Pollution endangers whales → 汙染使鯨魚陷入危險。"
   ],
@@ -3670,7 +3670,7 @@
      },
      {
       "en": "The singer gave each fan an autograph.",
-      "zh": "歌手給每位粉絲一個親筆簽名。",
+      "zh": "歌手為每位粉絲親筆簽名。",
       "hl": [
        "autograph"
       ]
@@ -3678,7 +3678,7 @@
     ]
    },
    {
-    "t": "tele- 表示「遠」，凡是能把遠方的聲音或畫面送過來的東西常用 tele-。",
+    "t": "tele- 表示「遠」，能把遠方的聲音或畫面送過來的東西，名稱常用 tele-。",
     "ex": [
      {
       "en": "Through a telescope, we can see the rings of Saturn.",
@@ -3779,7 +3779,7 @@
      "在報紙上刊登"
     ],
     "a": 1,
-    "ex": "televised = television 的動詞形式，tele（遠）+ vis（看）+ ed；從 live tonight 可知是「在電視上直播」。這是學測文章出現過的表外字。",
+    "ex": "televise 是 television 的動詞形式，televised = tele（遠）+ vis（看）+ ed；從 live tonight 可知是「在電視上直播」。這是學測文章出現過的表外字。",
     "hint": "想想 television 的動詞形式。"
    },
    {
@@ -3973,7 +3973,7 @@
     ]
    },
    {
-    "t": "uni- 的名詞形有 unification（統一）；mono- 的名詞形有 monotony（單調）。注意詞性，形容詞是 monotonous。",
+    "t": "uni- 開頭的名詞有 unification（統一）；mono- 開頭的名詞有 monotony（單調）。注意詞性，形容詞是 monotonous。",
     "ex": [
      {
       "en": "The unification of the two companies took a year.",
@@ -4012,7 +4012,7 @@
    {
     "a": "triple（三倍的）",
     "b": "triplet（三胞胎之一）",
-    "note": "triple 是三倍；triplet 的字尾 -let 表示小的，指三胞胎中的一個。"
+    "note": "triple 是三倍；triplet 則指三胞胎中的一個。"
    }
   ],
   "mistakes": [
@@ -4083,7 +4083,7 @@
     ],
     "a": 1,
     "ex": "空格前有 The 且後面有 of，要填名詞，monotony（單調）。monotone 雖然也是名詞，但指單一音調，語意不符。",
-    "hint": "The ______ of 後面要接抽象名詞，指「單調」。"
+    "hint": "The ______ of 的空格要填抽象名詞，指「單調」。"
    },
    {
     "type": "pick",
@@ -4288,7 +4288,7 @@
    {
     "wrong": "semester = semi + ester → 半個學期",
     "right": "semester 是「學期」，字源與 semi- 無關",
-    "why": "semester 本來指六個月，來自 six 與 month，不是 semi-。"
+    "why": "semester 本來指六個月，來自拉丁文的「六」與「月」，不是 semi-。"
    },
    {
     "wrong": "multiple 和 multiply 可以互換",
@@ -4386,7 +4386,7 @@
   "title": "-er / -or 做某事的人或物",
   "formula": "動詞 + er / or → 做…的人（或工具）",
   "rhyme": "er 常見 or 較正式，人或工具都可以",
-  "intro": "-er 和 -or 加在動詞後面，變成名詞，表示「做這件事的人」或「做這件事的物」：teach → teacher（老師）、heat → heater（暖氣機）。學測混合題與改錯題常要你辨別這類字的詞性，例如 invent（動詞）、inventor（人）、invention（名詞）、inventive（形容詞）。",
+  "intro": "-er 和 -or 加在動詞後面，變成名詞，表示「做這件事的人」或「做這件事的物」：teach → teacher（老師）、heat → heater（暖氣機）。學測混合題常要你辨別這類字的詞性，例如 invent（動詞）、inventor（名詞，指人）、invention（名詞，指發明）、inventive（形容詞）。",
   "family": [
    {
     "w": "teacher",
@@ -4505,7 +4505,7 @@
      },
      {
       "en": "The visitor signed her name at the front desk.",
-      "zh": "訪客在櫃檯簽了她的名字。",
+      "zh": "那位訪客在櫃檯簽了名。",
       "hl": [
        "visitor"
       ]
@@ -4528,7 +4528,7 @@
    {
     "a": "teacher（人）",
     "b": "teaching（教學）",
-    "note": "teacher 是人；teaching 是動作或職業，兩者詞性與意思都不同。"
+    "note": "teacher 是人；teaching 是動名詞，指教學的動作或職業，兩者意思不同。"
    },
    {
     "a": "older（較老的）",
@@ -4550,7 +4550,7 @@
    {
     "wrong": "The inventer made a new machine.",
     "right": "The inventor made a new machine.",
-    "why": "invent 是拉丁字源，名詞形是 inventor；拼字要靠單字記憶。"
+    "why": "invent 是拉丁字源，表示人的名詞是 inventor；拼字要靠單字記憶。"
    }
   ],
   "qs": [
@@ -4560,7 +4560,7 @@
     "o": [
      "照顧者",
      "廚師",
-     "護士",
+     "警衛",
      "工程師"
     ],
     "a": 0,
@@ -4665,7 +4665,7 @@
    },
    {
     "w": "journalist",
-    "parts": "journal（日報）+ ist",
+    "parts": "journal（報刊）+ ist",
     "zh": "記者",
     "lv": 5
    },
@@ -4727,11 +4727,11 @@
     ]
    },
    {
-    "t": "-ist 也可以表示「…主義者」，常與 -ism 搭配：capitalism → capitalist, activist 是積極行動的人。",
+    "t": "-ist 也可以表示「…主義者」，常與 -ism 搭配：capitalism → capitalist；activist（社運人士）則是為理念積極行動的人。",
     "ex": [
      {
       "en": "The activist gave a speech about saving the forest.",
-      "zh": "這位行動者發表了一場拯救森林的演講。",
+      "zh": "這位社運人士發表了一場關於拯救森林的演講。",
       "hl": [
        "activist"
       ]
@@ -4739,7 +4739,7 @@
     ]
    },
    {
-    "t": "-ian 常接在以 -ic(s)、-y 結尾的領域名詞後：music → musician, politics → politician, library → librarian, history → historian, electric → electrician。拼字時要先去掉原字的尾巴。",
+    "t": "-ian 常接在以 -ic(s)、-y 結尾的領域名詞後：music → musician, politics → politician, library → librarian, history → historian, electric → electrician。拼字時，-y 結尾要去掉 y、-ics 結尾要去掉 s，-ic 結尾則直接加 -ian。",
     "ex": [
      {
       "en": "Our school librarian helps students find books.",
@@ -4758,7 +4758,7 @@
     ]
    },
    {
-    "t": "-ian 還可以接在地名或國名後，表示「某地的人」：Asia → Asian, Italy → Italian。同一個字尾常兼有形容詞與名詞的用法。",
+    "t": "-ian 還可以接在地名或國名後，表示「某地的人」：Canada → Canadian, Italy → Italian。同一個字尾常兼有形容詞與名詞的用法。",
     "ex": [
      {
       "en": "My neighbor is a musician from Italy.",
@@ -4807,7 +4807,7 @@
    {
     "wrong": "pianist 與 pianian",
     "right": "pianist",
-    "why": "piano 不屬於 -ic(s) 或 -y 結尾的領域，用 -ist 比較常見。"
+    "why": "piano 不屬於 -ic(s) 或 -y 結尾的領域，要用 -ist，英文沒有 pianian 這個字。"
    }
   ],
   "qs": [
@@ -4887,7 +4887,7 @@
     ],
     "a": 1,
     "ex": "scientist = science + ist，是「科學家」。assist, resist, exist 都是動詞，-ist 是字根的一部分。",
-    "hint": "找出有人可以是它的意思的那一個。"
+    "hint": "找出意思是指「人」的那一個字。"
    }
   ],
   "status": "ok"
@@ -4965,7 +4965,7 @@
   ],
   "points": [
    {
-    "t": "-ee 表示「受到動作的人」，與 -er（做動作的人）相對：employer 雇用人，employee 被雇用；interviewer 面談者，interviewee 被面談者。",
+    "t": "-ee 表示「受到動作的人」，與 -er（做動作的人）相對：employer 是雇主，employee 是被雇用的人；interviewer 是面談者，interviewee 是被面談的人。",
     "ex": [
      {
       "en": "The company hired a new employee last week.",
@@ -5015,7 +5015,7 @@
     ]
    },
    {
-    "t": "-ant 與 -ent 沒有固定規則，只能靠單字記憶；許多字同時有形容詞用法（important, different, confident）。",
+    "t": "-ant 與 -ent 沒有固定規則，只能靠單字記憶；而且很多 -ant/-ent 結尾的字是形容詞（important, different, confident）。",
     "ex": [
      {
       "en": "Chlorine is a strong oxidant used to clean water.",
@@ -5030,7 +5030,7 @@
   "steps": [
    "看到結尾是 -ee 的字，先把 -ee 去掉，看看前面是不是動詞（employ, train, interview）。",
    "判斷「人」是主動還是被動：-ee 是被動，-er 是主動，-ant/-ent 是主動。",
-   "確認結尾 -ant/-ent 是字尾還是形容詞：看句子裡該字是指人（名詞）或描述人的特質（形容詞）。",
+   "確認 -ant/-ent 結尾的字是名詞還是形容詞：看句子裡該字是指人（名詞）或描述人的特質（形容詞）。",
    "完整示範：determinant = determine + ant → 決定的東西 → 決定因素；這是學測文章出現過的表外字。"
   ],
   "compare": [
@@ -5059,7 +5059,7 @@
    {
     "wrong": "coffee、knee、tree、agree 的 -ee 是「被…的人」",
     "right": "這些字的 ee 只是拼字的一部分，不是字尾",
-    "why": "只有接在動詞後、指「接受動作的人」時才是 -ee 字尾，例如 employee、trainee、interviewee。"
+    "why": "-ee 字尾通常接在動詞後，指「接受動作的人」，例如 employee、trainee、interviewee。"
    },
    {
     "wrong": "assistent",
@@ -5118,7 +5118,7 @@
     ],
     "a": 3,
     "ex": "要填「參加考試的人」，所以選 examinee；examiner 是監考或閱卷的人。",
-    "hint": "要填的是考試的人。"
+    "hint": "要填的是參加考試的人。"
    },
    {
     "type": "pick",
@@ -5233,7 +5233,7 @@
      },
      {
       "en": "The class had a long discussion about the school trip.",
-      "zh": "全班對這次校外教學進行了很長的討論。",
+      "zh": "全班針對這次校外教學討論了很久。",
       "hl": [
        "discussion"
       ]
@@ -5241,7 +5241,7 @@
     ]
    },
    {
-    "t": "動詞以 -ate 結尾時，通常去掉 -ate 再加 -ation 或 -ion：educate → education, celebrate → celebration, create → creation。",
+    "t": "動詞以 -ate 結尾時，通常去掉字尾的 e 再加 -ion（等於把 -ate 換成 -ation）：educate → education, celebrate → celebration, create → creation。",
     "ex": [
      {
       "en": "Education helps people find better jobs.",
@@ -5264,7 +5264,7 @@
      },
      {
       "en": "Making a decision is not always easy.",
-      "zh": "做決定並不總是容易。",
+      "zh": "做決定不一定都很容易。",
       "hl": [
        "decision"
       ]
@@ -5272,7 +5272,7 @@
     ]
    },
    {
-    "t": "動詞以 -ss 或 -mit 結尾，變成 -ssion：discuss → discussion, permit → permission。字尾的重音通常落在前一個音節。",
+    "t": "動詞以 -ss 或 -mit 結尾，變成 -ssion：discuss → discussion, permit → permission。重音通常落在 -sion／-tion 前面的那個音節。",
     "ex": [
      {
       "en": "You need your parents' permission to go on the trip.",
@@ -5287,7 +5287,7 @@
   "steps": [
    "看到 -tion, -sion 結尾的字，先把字尾去掉，找出原本的動詞。",
    "判斷拼法：-ate → -ation；-t → -tion；-de, -se → -sion；-ss, -mit → -ssion。",
-   "確認詞性：這類字都是名詞，可以放在 the, a, 所有格之後。",
+   "確認詞性：這類字都是名詞，可以放在 the、a 或所有格之後。",
    "完整示範：dehydration = de（去除）+ hydr（水）+ ation → 去除水分 → 脫水；這是學測文章出現過的表外字。"
   ],
   "compare": [
@@ -5321,7 +5321,7 @@
    {
     "wrong": "decition",
     "right": "decision",
-    "why": "decide 的 de 後面接 -sion，不是 -tion。"
+    "why": "decide 以 -de 結尾，要把 -de 換成 -sion，不是 -tion。"
    }
   ],
   "qs": [
@@ -5374,7 +5374,7 @@
      "exploded"
     ],
     "a": 1,
-    "ex": "空格前有 a loud，要填名詞，explode 的名詞是 explosion（爆炸）。explosive 是形容詞。",
+    "ex": "空格前有 a loud，要填名詞，explode 的名詞是 explosion（爆炸）。explosive 是形容詞（當名詞是「炸藥」，語意也不符）。",
     "hint": "a loud ______ 要填名詞。"
    },
    {
@@ -5392,7 +5392,7 @@
    },
    {
     "type": "pick",
-    "s": "下列哪一項拆解正確？",
+    "s": "下列哪一項動詞變名詞的拼法正確？",
     "o": [
      "decide → decision（-de 變 -sion）",
      "decide → decition（-de 變 -tion）",
@@ -5425,7 +5425,7 @@
    {
     "w": "movement",
     "parts": "move（移動）+ ment",
-    "zh": "運動；移動",
+    "zh": "移動；動作；（社會）運動",
     "lv": null
    },
    {
@@ -5460,7 +5460,7 @@
    },
    {
     "w": "advertisement",
-    "parts": "advertise（廣告）→ advertise + ment",
+    "parts": "advertise（登廣告）+ ment",
     "zh": "廣告",
     "lv": 3
    },
@@ -5529,7 +5529,7 @@
     ]
    },
    {
-    "t": "-ment 的字也可以表示結果或具體的東西：government（政府）、monument（紀念碑），不一定是單純的動作。",
+    "t": "-ment 的字也可以表示結果或具體的東西：government（政府）、attachment（附件），不一定是單純的動作。",
     "ex": [
      {
       "en": "The villagers' encroachment on the forest worried scientists.",
@@ -5631,7 +5631,7 @@
      "treating"
     ],
     "a": 2,
-    "ex": "空格前有 a new，要填名詞，treatment（治療）。treat 等形式都是動詞。",
+    "ex": "空格前有 a new，要填名詞，treatment（治療）。treat、treated、treating 是動詞形式；treat 當名詞指「款待、難得的樂事」，不合句意。",
     "hint": "a new ______ 要填名詞。"
    },
    {
@@ -5712,7 +5712,7 @@
    {
     "w": "willingness",
     "parts": "willing + ness",
-    "zh": "願意、樂意",
+    "zh": "意願、樂意",
     "lv": null
    },
    {
@@ -5742,7 +5742,7 @@
     ]
    },
    {
-    "t": "字根以「子音 + y」結尾時，把 y 改成 i 再加 -ness；字根以 n 結尾時，兩個 n 都要保留（open → openness）。",
+    "t": "字根以「子音 + y」結尾時，通常把 y 改成 i 再加 -ness（單音節的 shy、dry 例外：shyness、dryness）；字根以 n 結尾時，兩個 n 都要保留（open → openness）。",
     "ex": [
      {
       "en": "Everyone could see the happiness on her face.",
@@ -5780,7 +5780,7 @@
     ]
    },
    {
-    "t": "字根是 un-、-less、-ly 開頭或結尾的形容詞時，-ness 也照加，字會變長但意思好猜：weightless → weightlessness、uneasy → uneasiness。",
+    "t": "形容詞本身已帶有 un-、-less、-ly 等字首或字尾時，-ness 也照加，字會變長但意思好猜：weightless → weightlessness、uneasy → uneasiness。",
     "ex": [
      {
       "en": "The weightlessness inside the space station made the astronauts float.",
@@ -5838,7 +5838,7 @@
      "輕鬆的工作"
     ],
     "a": 2,
-    "ex": "weight（重量）+ less（沒有）+ ness（狀態），合起來是「沒有重量的狀態」，與 in space 一致。weightlessness 是學測文章出現過的表外字。",
+    "ex": "weight（重量）+ less（沒有）+ ness（狀態），合起來是「沒有重量的狀態」，與句中的 space（太空）相符。weightlessness 是學測文章出現過的表外字。",
     "hint": "先拆出字根 weight，再看 -less 與 -ness 各表示什麼。"
    },
    {
@@ -5851,7 +5851,7 @@
      "清潔"
     ],
     "a": 0,
-    "ex": "un-（不）+ easy（輕鬆）→ uneasy（不安的），y 變 i 後加 -ness 成為「不安」。前面 growing 與 dark hallway 也暗示負面情緒。uneasiness 是學測文章出現過的表外字。",
+    "ex": "un-（不）+ easy（輕鬆）→ uneasy（不安的），y 變 i 後加 -ness 成為「不安」。後面的 alone 與 dark hallway 也暗示負面情緒。uneasiness 是學測文章出現過的表外字。",
     "hint": "注意字首 un- 與 easy 的意思，再加上名詞字尾。"
    },
    {
@@ -5916,7 +5916,7 @@
   "group": "字尾",
   "title": "-ity／-ty 性質、狀態",
   "formula": "形容詞 + ity／ty → 名詞（……性、……度）",
-  "rhyme": "拉丁形容詞要變名詞，用 -ity，重音往前挪。",
+  "rhyme": "拉丁形容詞要變名詞，用 -ity，重音移到 -ity 前。",
   "intro": "-ity（接在部分子音後則是 -ty）也是名詞字尾，意思和 -ness 相近，但多用在拉丁字根的形容詞，字通常比較正式、抽象。它常和 -ous、-able、-al 成套出現：curious → curiosity、able → ability。記住這些對應，閱讀測驗的長字就不再可怕。",
   "family": [
    {
@@ -5927,7 +5927,7 @@
    },
    {
     "w": "creativity",
-    "parts": "creative + ity",
+    "parts": "creative → creativ + ity",
     "zh": "創造力",
     "lv": 4
    },
@@ -6007,7 +6007,7 @@
     ]
    },
    {
-    "t": "字根以 -al、-ain、-el、-e 結尾時常用 -ty：loyal → loyalty、certain → certainty、safe → safety、cruel → cruelty。",
+    "t": "少數字直接加 -ty（前面沒有 i），要個別記：loyal → loyalty、certain → certainty、safe → safety、cruel → cruelty。",
     "ex": [
      {
       "en": "Dogs are famous for their loyalty to their owners.",
@@ -6041,7 +6041,7 @@
    {
     "a": "-ity",
     "b": "-ness",
-    "note": "同樣是「性質」：kindness 用 -ness；ability 用 -ity。通常課本只出現其中一個，不要自己創造 ablity 或 kindity。"
+    "note": "同樣是「性質」：kindness 用 -ness；ability 用 -ity。同一個形容詞通常只固定搭配其中一種，不要自己造出 kindity 這類字。"
    },
    {
     "a": "humanity",
@@ -6058,7 +6058,7 @@
    {
     "wrong": "city = ci + ty（城市是一種性質）",
     "right": "city 是完整單字",
-    "why": "city、county、plenty、dynasty 只是剛好以 -ty 結尾，不是形容詞加字尾。"
+    "why": "city、county、plenty、dynasty 去掉 -ty 後剩下的不是英文形容詞，不能當成「形容詞 + -ty」來拆。"
    },
    {
     "wrong": "possibleity",
@@ -6129,7 +6129,7 @@
      "possibility = possible + ty"
     ],
     "a": 2,
-    "ex": "able → ability 是把 -le 換成 -ility；curious 要改成 curios + ity；city 不是拆字；possible 要變成 possibil + ity。",
+    "ex": "able → ability 是把 -le 換成 -ility；curious 要改成 curios + ity；city 不能這樣拆；possible 要變成 possibil + ity。",
     "hint": "找符合 -ble → -bility 規則的選項。"
    },
    {
@@ -6142,7 +6142,7 @@
      "His loyal to the team made him a great captain."
     ],
     "a": 1,
-    "ex": "loyal 以 -al 結尾，直接加 -ty 成 loyalty（名詞）。loyality 拼字錯誤；loyal 是形容詞，不能放在 His 之後當主詞。",
+    "ex": "loyal 要直接加 -ty 成 loyalty（名詞）。loyality 拼字錯誤；loyalness 不是慣用的名詞；loyal 是形容詞，不能放在 His 之後當主詞。",
     "hint": "注意 loyal 加字尾時的拼法，而且要放在 His 後面當主詞。"
    }
   ],
@@ -6285,7 +6285,7 @@
    {
     "a": "-ance",
     "b": "-ence",
-    "note": "拼字不能靠聽，只能靠形容詞配對：distance（distant）、patience（patient）。混合題常給 -ant／-ent 形容詞當線索。"
+    "note": "拼字不能靠聽，最好靠形容詞配對：distance（distant）、patience（patient）。混合題常給 -ant／-ent 形容詞當線索。"
    }
   ],
   "mistakes": [
@@ -6302,7 +6302,7 @@
    {
     "wrong": "presence = present（禮物）",
     "right": "presence 是「出席、在場」",
-    "why": "present 才有「禮物」之意；presence 只表示「在場」，與 absence（缺席）相對。"
+    "why": "presence 來自形容詞 present（在場的），不是名詞 present（禮物）；意思是「出席、在場」，與 absence（缺席）相對。"
    }
   ],
   "qs": [
@@ -6342,7 +6342,7 @@
      "patients"
     ],
     "a": 0,
-    "ex": "空格在所有格 his 之後，需要名詞，選 patience。patient 是形容詞，patients 是「病人（複數）」，patiently 是副詞。",
+    "ex": "空格在所有格 his 之後，需要名詞，選 patience。patient 是形容詞「有耐心的」，當名詞則是「病人」，不合句意；patients 是「病人」的複數，patiently 是副詞。",
     "hint": "空格前面有所有格 his，要填的詞性是什麼？"
    },
    {
@@ -6355,8 +6355,8 @@
      "evidence"
     ],
     "a": 3,
-    "ex": "more 後面接名詞，選 evidence（evident 的 -ent → -ence），意思是「證據」。evident 是形容詞，evidently 是副詞，evidenced 是動詞過去式。",
-    "hint": "more 後面可以接哪種詞性的字？"
+    "ex": "asked for more 後面要接名詞當受詞，選 evidence（evident 的 -ent → -ence），意思是「證據」。evident 是形容詞，evidently 是副詞，evidenced 是動詞過去式。",
+    "hint": "空格是 asked for 的受詞，要用什麼詞性？"
    },
    {
     "type": "pick",
@@ -6533,13 +6533,13 @@
    "看結尾是不是 -ship、-hood 或 -dom，先拆掉字尾。",
    "判斷剩下的字根是名詞還是形容詞（child、free），並判斷字尾的意思：關係／時期／領域。",
    "組合成中文：「……的關係／狀態／時期／領域」。",
-   "示範：sportsmanship = sport（運動）+ s + man（人）+ ship（身分、品格）→「運動家的品格」。Her sportsmanship was clear when she helped the other team. 是「她展現了運動家精神」。"
+   "示範：sportsmanship = sport（運動）+ s + man（人）+ ship（身分、品格）→「運動家的品格」。Her sportsmanship was clear when she helped the other team. 是「她幫助對手時，展現了運動家精神」。"
   ],
   "compare": [
    {
     "a": "-ship（名詞字尾）",
     "b": "ship（船）",
-    "note": "leadership 與 relationship 的 -ship 是「身分、關係」，不是「船」。字很長又以 -ship 結尾，通常是字尾。"
+    "note": "leadership 與 relationship 的 -ship 是「身分、關係」，不是「船」。字很長又以 -ship 結尾，通常是字尾；但 spaceship、warship 這類複合字的 ship 仍是「船」。"
    },
    {
     "a": "-hood（群體／時期）",
@@ -6582,7 +6582,7 @@
     "type": "mc",
     "s": "The villagers felt a strong sense of kinship even though they were not family. 句中 kinship 的意思是？",
     "o": [
-     "類似親人般的情誼",
+     "親人般的情誼",
      "競爭關係",
      "金錢往來",
      "語言能力"
@@ -6632,7 +6632,7 @@
    },
    {
     "type": "pick",
-    "s": "選出詞義與字尾說明正確的一項：",
+    "s": "選出用字與文法都正確的一項：",
     "o": [
      "The kingdom was ruled by a wise kingdom.",
      "The king was ruled by a wise kingdom.",
@@ -6689,7 +6689,7 @@
    {
     "w": "realism",
     "parts": "real + ism",
-    "zh": "寫實主義、現實態度",
+    "zh": "寫實主義、務實態度",
     "lv": 5
    },
    {
@@ -6769,11 +6769,11 @@
     ]
    },
    {
-    "t": "-ism 結尾的字是可數或不可數的抽象名詞，多半不加冠詞；複數很少見。作為「態度」時，用 with + 名詞或 show + 名詞。",
+    "t": "-ism 結尾的字多半是不可數的抽象名詞，通常不加冠詞，也很少用複數（criticism 等少數字例外）。作為「態度」時，用 with + 名詞或 show + 名詞。",
     "ex": [
      {
       "en": "He faced the problem with realism, not fear.",
-      "zh": "他以務實的態度面對問題，而不是恐懼。",
+      "zh": "他以務實而非恐懼的態度面對問題。",
       "hl": [
        "realism"
       ]
@@ -6782,7 +6782,7 @@
    }
   ],
   "steps": [
-   "看到 -ism，先拆掉字尾，並看字根是人（-ist）、形容詞或名詞。",
+   "看到 -ism，先拆掉字尾，並看剩下的部分是表人的名詞（critic）、形容詞（social）還是一般名詞（tour）。",
    "判斷是「主義／學說」（-ism 接在 social、national 這類字）還是「行為／態度」（critic、optim）。",
    "加上「……主義／……的行為／……的態度」，再把整個字放回句子。",
    "示範：photojournalism = photo（照片）+ journal（日誌、新聞）+ ism → 「攝影新聞報導（以照片為主的新聞業）」。"
@@ -6796,7 +6796,7 @@
    {
     "a": "criticism",
     "b": "critic／critical",
-    "note": "criticism 是「批評」，critic 是「評論家」，critical 是「批判的、關鍵的」；它們不是同一種詞性。"
+    "note": "criticism 是「批評」，critic 是「評論家」，critical 是「批判的、關鍵的」；criticism 與 critic 雖然都是名詞，但一個是事、一個是人，critical 則是形容詞。"
    }
   ],
   "mistakes": [
@@ -6808,7 +6808,7 @@
    {
     "wrong": "tourism 的人是 tourism",
     "right": "tourist 才是觀光客",
-    "why": "-ism 是概念，-ist 才是人；考試常考這兩個字的詞性替換。"
+    "why": "-ism 是概念，-ist 才是人；考試常考這兩個字的區別。"
    },
    {
     "wrong": "optimistism",
@@ -6871,10 +6871,10 @@
    },
    {
     "type": "pick",
-    "s": "選出詞性與意思正確的一項：",
+    "s": "選出用字與意思都正確的一項：",
     "o": [
-     "A tourism visits places, while tourist is the business of visitors.",
-     "A tourist visits places, while tourism is the business of visitors.",
+     "A tourism visits places, while tourist is the business of serving visitors.",
+     "A tourist visits places, while tourism is the business of serving visitors.",
      "A tourist visits places, while tourism is a person who travels.",
      "A tourism is a person, and a tourist is a business."
     ],
@@ -6893,7 +6893,7 @@
     ],
     "a": 0,
     "ex": "critic（評論者）+ -ism 是「批評的行為」。organism 是「生物體」；mechanism 是「機制」；racism 的 race 是「種族」，意思是「種族歧視」，不是賽跑。",
-    "hint": "只有一個選項的字尾真的是「行為、主義」的意思。"
+    "hint": "注意：拆法對了還不夠，中文意思也要正確。"
    }
   ],
   "status": "ok"
@@ -6990,7 +6990,7 @@
     ]
    },
    {
-    "t": "拼字變化：字根尾 e 通常去掉（use → usable）；y 變 i（rely → reliable）；字根尾是 c、g 且有軟音時保留 e（notice → noticeable、manage → manageable）。",
+    "t": "拼字變化：字根尾 e 通常去掉（use → usable）；子音 + y 時 y 變 i（rely → reliable；enjoy → enjoyable 則不變）；字根尾是 c、g 且有軟音時保留 e（notice → noticeable、manage → manageable）。",
     "ex": [
      {
       "en": "The change in her voice was clearly noticeable.",
@@ -7009,7 +7009,7 @@
     ]
    },
    {
-    "t": "-ible 多接在拉丁字根而不是能單獨使用的動詞後面：vis-ible、flex-ible、poss-ible，沒有規則，要一個個記；-able 比 -ible 常見得多，不確定時猜 -able。",
+    "t": "-ible 多接在拉丁字根而不是能單獨使用的動詞後面：vis-ible、ed-ible、poss-ible，沒有規則，要一個個記；-able 比 -ible 常見得多，不確定時猜 -able。",
     "ex": [
      {
       "en": "That sign is visible from far away.",
@@ -7050,7 +7050,7 @@
    {
     "a": "-able",
     "b": "-ible",
-    "note": "兩者讀音相同，-able 接在能獨立使用的字後（enjoy → enjoyable），-ible 接拉丁字根（visible）。不確定時猜 -able，並背常見的 -ible 字。"
+    "note": "兩者讀音相同，-able 多接在能獨立使用的字後（enjoy → enjoyable），-ible 多接拉丁字根（visible）。不確定時猜 -able，並背常見的 -ible 字。"
    },
    {
     "a": "valuable",
@@ -7091,7 +7091,7 @@
    },
    {
     "type": "mc",
-    "s": "Her adjustable desk can be raised or lowered to fit any student. 句中 adjustable 的意思是？",
+    "s": "This adjustable desk can be raised or lowered to fit any student. 句中 adjustable 的意思是？",
     "o": [
      "可調整的",
      "可摺疊的",
@@ -7113,7 +7113,7 @@
     ],
     "a": 2,
     "ex": "空格在 is still 後，需要形容詞「可用的」，選 usable（use + able）。usage 是名詞，useless 是「無用的」，與 so we do not need to buy a new one 的邏輯相反，using 是動名詞或現在分詞。",
-    "hint": "空格前面是 be 動詞加 still，後面是形容詞，要選哪個意思？"
+    "hint": "空格前面是 be 動詞加 still，要填形容詞；再看哪個意思符合後半句。"
    },
    {
     "type": "mc",
@@ -7126,7 +7126,7 @@
     ],
     "a": 3,
     "ex": "so ... that nobody believed 表示結果「沒人相信」，所以故事是「難以置信的」，選 unbelievable。believable 意思相反；believer 是人；believing 是動名詞。",
-    "hint": "so ... that 句型中，故事發生什麼事？"
+    "hint": "so ... that 句型中，that 後面說的結果是什麼？"
    },
    {
     "type": "pick",
@@ -7234,7 +7234,7 @@
     "ex": [
      {
       "en": "Be careful with the glass cups; they break easily.",
-      "zh": "使用玻璃杯要小心，它們很容易破。",
+      "zh": "使用玻璃杯要小心，很容易破。",
       "hl": [
        "careful"
       ]
@@ -7307,7 +7307,7 @@
    {
     "a": "helpless",
     "b": "unhelpful",
-    "note": "helpless 是「無助的、無力幫助自己的」，unhelpful 是「沒有幫助的、不肯幫忙的」，主詞不同。"
+    "note": "helpless 是「無助的、無力幫助自己的」，unhelpful 是「沒有幫助的、不肯幫忙的」；前者是自己需要幫助，後者是對別人沒有幫助。"
    }
   ],
   "mistakes": [
@@ -7324,7 +7324,7 @@
    {
     "wrong": "thoughtless = 很有想法的",
     "right": "thoughtless = 欠缺考慮的",
-    "why": "-less 是「沒有」，所以 thoughtless 是「沒有想到別人」；thoughtful 才是「有想法、體貼的」。"
+    "why": "-less 是「沒有」，所以 thoughtless 是「沒有想到別人」；thoughtful 才是「思慮周到、體貼的」。"
    }
   ],
   "qs": [
@@ -7458,7 +7458,7 @@
    {
     "w": "mysterious",
     "parts": "mystery → mysteri + ous",
-    "zh": "神秘的",
+    "zh": "神祕的",
     "lv": 4
    },
    {
@@ -7520,7 +7520,7 @@
     ]
    },
    {
-    "t": "-ous 常寫成 -ious、-eous、-uous，只是拼法不同，意思都是形容詞：delicious、gorgeous、continuous。多數會是拉丁字根，需要多讀多背。",
+    "t": "-ous 常寫成 -ious、-eous、-uous，只是拼法不同，都是形容詞字尾：delicious、gorgeous、continuous。多數會是拉丁字根，需要多讀多背。",
     "ex": [
      {
       "en": "The cake was delicious and not too sweet.",
@@ -7570,13 +7570,13 @@
    },
    {
     "wrong": "每個 -ous 前面都能找到完整的英文字根",
-    "right": "serious、anxious、various 要當整字記",
+    "right": "serious、anxious、obvious 要當整字記",
     "why": "有些 -ous 字的字根不是獨立的英文單字，不能硬拆；先確定拆出來的字有意義再用。"
    },
    {
     "wrong": "-ous 是名詞字尾（a nervous 當名詞）",
     "right": "-ous 是形容詞字尾",
-    "why": "nervous 只能修飾名詞或放在 be 動詞後；名詞形是 nervousness。"
+    "why": "nervous 是形容詞，只能修飾名詞或當補語（如 be／feel nervous）；名詞形是 nervousness。"
    }
   ],
   "qs": [
@@ -7616,8 +7616,8 @@
      "mountainously"
     ],
     "a": 2,
-    "ex": "very 後面接形容詞，意思是「多山的」，選 mountainous（mountain + ous）。mountain 是名詞，mountains 是複數名詞，mountainously 是副詞。",
-    "hint": "very 後面要接形容詞。"
+    "ex": "is very 後面要接形容詞，意思是「多山的」，選 mountainous（mountain + ous）。mountain 是名詞，mountains 是複數名詞，mountainously 是副詞。",
+    "hint": "be 動詞加 very 後面要接什麼詞性？"
    },
    {
     "type": "mc",
@@ -7697,7 +7697,7 @@
    },
    {
     "w": "expensive",
-    "parts": "expense + ive",
+    "parts": "expense → expens + ive",
     "zh": "昂貴的",
     "lv": null
    },
@@ -7745,7 +7745,7 @@
      },
      {
       "en": "Washing hands is an effective way to stop germs.",
-      "zh": "洗手是阻止細菌有效的方法。",
+      "zh": "洗手是阻止細菌的有效方法。",
       "hl": [
        "effective"
       ]
@@ -7777,7 +7777,7 @@
     ]
    },
    {
-    "t": "有些 -ive 是名詞或動詞，不是形容詞：native（本地人／本土的）、detective（偵探）、archive（檔案）、receive、conceive、perceive、deceive 與 survive、thrive、strive。",
+    "t": "有些 -ive 字是名詞或動詞，不是形容詞：detective（偵探）、archive（檔案）是名詞；receive、conceive、perceive、deceive 與 survive、thrive、strive 是動詞。native 則可當名詞（本地人），也可當形容詞（本土的）。",
     "ex": [
      {
       "en": "The detective found the missing key under the sofa.",
@@ -7835,7 +7835,7 @@
      "輕鬆的"
     ],
     "a": 1,
-    "ex": "repeat（重複）→ repet + itive → 一再重複的。同樣的工作做好幾小時，所以又累又無聊。repetitive 是學測文章出現過的表外字。",
+    "ex": "repeat（重複）→ repet + itive → 一再重複的。同樣的工作做好幾小時，所以又睏又無聊。repetitive 是學測文章出現過的表外字。",
     "hint": "先認出字根 repeat，再看 same task for hours。"
    },
    {
@@ -7925,7 +7925,7 @@
    {
     "w": "national",
     "parts": "nation + al",
-    "zh": "全國的",
+    "zh": "國家的、全國的",
     "lv": null
    },
    {
@@ -7983,7 +7983,7 @@
     "ex": [
      {
       "en": "The musical show attracted a lot of young people.",
-      "zh": "那場音樂劇吸引了很多年輕人。",
+      "zh": "那場音樂表演吸引了很多年輕人。",
       "hl": [
        "musical"
       ]
@@ -8010,7 +8010,7 @@
     ]
    },
    {
-    "t": "許多字有 -ic 與 -ical 兩種形式：有些意思相同（electric／electrical、geographic／geographical），有些意思不同（historic 重大的／historical 歷史上的；economic 經濟的／economical 節省的；classic 經典的／classical 古典的）。",
+    "t": "許多字有 -ic 與 -ical 兩種形式：有些意思相同（electric／electrical、geographic／geographical），有些意思不同（historic 有歷史意義的／historical 歷史上的；economic 經濟的／economical 節省的；classic 經典的／classical 古典的）。",
     "ex": [
      {
       "en": "The signing of the treaty was a historic moment.",
@@ -8061,7 +8061,7 @@
    {
     "a": "electric",
     "b": "electrical",
-    "note": "electric 常用於具體物品（electric car），electrical 常用於抽象或專業（electrical engineer）；兩者意思相近。"
+    "note": "electric 多指「用電的、電動的」（electric car），electrical 多指「與電有關的」（electrical engineer、electrical appliances）；兩者意思相近。"
    }
   ],
   "mistakes": [
@@ -8105,7 +8105,7 @@
      "凶猛的"
     ],
     "a": 1,
-    "ex": "aqua- 表示「水」，加 -tic 變形容詞，表示「與水有關的」。後半句 while lions live on land 與 land 對比，所以是水生的。aquatic 是學測文章出現過的表外字。",
+    "ex": "aqua- 表示「水」，加 -tic 變形容詞，表示「與水有關的」。後半句 while lions live on land 以陸地作對比，所以是水生的。aquatic 是學測文章出現過的表外字。",
     "hint": "while 後面的 land 與前半句的 aquatic 形成對比。"
    },
    {
@@ -8255,7 +8255,7 @@
     ]
    },
    {
-    "t": "拼字：單音節、一個子音結尾的名詞要重複子音（sun → sunny、fun → funny）；-e 結尾要去掉 e（noise → noisy）。",
+    "t": "拼字：單音節、以「單母音 + 單子音」結尾的名詞要重複子音（sun → sunny、fun → funny）；-e 結尾要去掉 e（noise → noisy）。",
     "ex": [
      {
       "en": "It is sunny and warm in the south of Taiwan.",
@@ -8267,7 +8267,7 @@
     ]
    },
    {
-    "t": "-ish 表示「有點、略帶、像……的」：green → greenish（略帶綠的）、child → childish（幼稚的，帶貶義）；國名也常用 -ish：English、British、Polish。",
+    "t": "-ish 表示「有點、略帶、像……的」：green → greenish（略帶綠的）、child → childish（幼稚的，帶貶義）；表示國籍、語言的字也常用 -ish：English、British、Polish。",
     "ex": [
      {
       "en": "The old paper had turned yellowish with age.",
@@ -8320,14 +8320,14 @@
    {
     "a": "friendly（形容詞）",
     "b": "quickly（副詞）",
-    "note": "friendly、lovely、lonely 是形容詞（-ly 接在名詞後）；quickly 是副詞（-ly 接在形容詞後）。"
+    "note": "friendly、lovely 是形容詞（-ly 接在名詞後），lonely 雖由形容詞 lone 加 -ly，仍是形容詞，屬於例外；quickly 是副詞（-ly 接在形容詞後）。"
    }
   ],
   "mistakes": [
    {
     "wrong": "He spoke friendly to me.（把 friendly 當副詞）",
     "right": "He spoke to me in a friendly way.",
-    "why": "friendly 是形容詞，修飾動詞要用 in a friendly way 或 friendly + 名詞。"
+    "why": "friendly 是形容詞，修飾動詞要改用 in a friendly way 這類「介系詞 + a friendly + 名詞」的片語。"
    },
    {
     "wrong": "fly = f + ly（……的）",
@@ -8391,7 +8391,7 @@
     ],
     "a": 3,
     "ex": "very 後面接形容詞，選 friendly（friend + ly，形容詞）。friend 是名詞，friendship 是名詞，friendlily 不是常用字。",
-    "hint": "very 後面要接形容詞，而且意思是「友善的」。"
+    "hint": "is very 後面要填形容詞；注意 -ly 結尾的字不一定是副詞。"
    },
    {
     "type": "pick",
@@ -8495,11 +8495,11 @@
   ],
   "points": [
    {
-    "t": "-ize 加在名詞或形容詞後面，變成「使……化」的動詞。接上去時，字尾的 e 或 y 常要先去掉，例如 modern → modernize，memory → memorize。",
+    "t": "-ize 加在名詞或形容詞後面，變成「使……化」的動詞。接上去時，字尾的 e 或 y 常要先去掉，例如 memory → memorize、summary → summarize；modern → modernize 則直接加。",
     "ex": [
      {
       "en": "The museum plans to modernize its old building next year.",
-      "zh": "博物館打算明年把它的老建築現代化。",
+      "zh": "博物館打算明年把舊館舍現代化。",
       "hl": [
        "modernize"
       ]
@@ -8526,7 +8526,7 @@
     ]
    },
    {
-    "t": "-ify 同樣把名詞或形容詞變成動詞，意思是「使……」。拼字時詞尾 e 或 y 常變成 i，例如 simple → simplify，pure → purify，class → classify。",
+    "t": "-ify 同樣把名詞或形容詞變成動詞，意思是「使……」。拼字時詞尾 e 或 y 常變成 i，例如 simple → simplify，pure → purify，beauty → beautify。",
     "ex": [
      {
       "en": "Please simplify the rules so everyone can understand them.",
@@ -8567,7 +8567,7 @@
    {
     "a": "organize（美）",
     "b": "organise（英）",
-    "note": "兩者意思相同，只是美式與英式拼法不同；學測選項裡不會同時把兩種當成對錯。"
+    "note": "兩者意思相同，只是美式與英式拼法不同；學測不會拿這兩種拼法來考對錯。"
    },
    {
     "a": "-ize",
@@ -8584,7 +8584,7 @@
    {
     "wrong": "simplyfy、beautyfy",
     "right": "simplify、beautify",
-    "why": "字尾的 -y 或 -e 接 -ify 時要改成 i；simple 的 e 要去掉，beauty 的 y 要改 i，所以是 simplify、beautify。"
+    "why": "字尾的 -e 或 -y 要先改成 i 再接 -fy：simple → simplify、beauty → beautify。"
    },
    {
     "wrong": "otherwise、likewise 的 -wise 看成 -ise",
@@ -8797,7 +8797,7 @@
     ]
    },
    {
-    "t": "-ate 動詞變名詞時，常把 -ate 換成 -ation：educate → education、communicate → communication、motivate → motivation。看到名詞字尾 -ation，可回推動詞字尾 -ate。",
+    "t": "-ate 動詞變名詞時，常把 -ate 換成 -ation：educate → education、communicate → communication、motivate → motivation。看到 -ation 名詞，常可回推 -ate 動詞，但也有 inform → information 這類例外。",
     "ex": [
      {
       "en": "Clear communication helps a team work better.",
@@ -8813,7 +8813,7 @@
    "步驟 1：看字尾。-en 或 -ate 結尾而且在句中當動作用，通常是動詞。",
    "步驟 2：-en 字先拿掉 -en，還原成形容詞或名詞，例如 tighten → tight，heighten → height。",
    "步驟 3：把「使變得……」套進去：tight 緊的 → 使變緊；height 高度 → 使提高。-ate 字則看字根與上下文猜意思。",
-   "步驟 4：完整例子：lengthen = length（長度）+ en（使變……）→「使變長」，所以 They lengthen the bridge. 就是「他們把橋加長」。"
+   "步驟 4：完整例子：lengthen = length（長度）+ en（使變……）→「使變長」，所以 They lengthened the bridge. 就是「他們把橋加長了」。"
   ],
   "compare": [
    {
@@ -8895,7 +8895,7 @@
     ],
     "a": 3,
     "ex": "tries to 後面接原形動詞，motive + ate = motivate「激勵」。motivation 是名詞，motivated 是過去分詞或形容詞，motivational 是形容詞。",
-    "hint": "to 後面要放動詞原形，找字尾是 -ate 的那一個。"
+    "hint": "tries to 後面要放原形動詞；哪個字尾能構成動詞？"
    },
    {
     "type": "pick",
@@ -9078,7 +9078,7 @@
    {
     "a": "hard（努力地、硬的）",
     "b": "hardly（幾乎不）",
-    "note": "hard 可以當副詞，意思是「努力地」；hardly 是否定意味的副詞，意思相反。"
+    "note": "hard 可以當副詞，意思是「努力地」；hardly 是否定意味的副詞，意思完全不同。"
    },
    {
     "a": "late（遲到的、晚地）",
@@ -9105,7 +9105,7 @@
    {
     "wrong": "happyly、carefuly",
     "right": "happily、carefully",
-    "why": "happy 要改成 happily；careful 再加 ly 要寫成 carefully，兩個 l。"
+    "why": "happy 的 y 要改成 i 再加 -ly；careful 再加 ly 要寫成 carefully，兩個 l。"
    }
   ],
   "qs": [
@@ -9184,7 +9184,7 @@
      "downward = down + ward，向下的／地"
     ],
     "a": 3,
-    "ex": "downward = down（下）+ ward（朝向），意思是「向下的／地」。outward 是 out + ward，afterward 是 after + ward，意思是「之後」。",
+    "ex": "downward = down（下）+ ward（朝向），意思是「向下的／地」。outward 是 out + ward（向外的），upward 是 up + ward（向上的），afterward 是 after + ward，意思是「之後」。",
     "hint": "-ward 表示朝向，前面的字說明方向。"
    }
   ],
@@ -9267,7 +9267,7 @@
     "ex": [
      {
       "en": "I forgot my raincoat, so I got wet on the way home.",
-      "zh": "我忘了帶雨衣，回家路上全身濕透。",
+      "zh": "我忘了帶雨衣，回家路上淋濕了。",
       "hl": [
        "raincoat"
       ]
@@ -9347,7 +9347,7 @@
    {
     "a": "greenhouse（溫室）",
     "b": "green house（綠色的房子）",
-    "note": "greenhouse 不一定是綠色的房子，而是栽種植物的溫室，不能只看字面。"
+    "note": "greenhouse 不是「綠色的房子」，而是栽種植物的溫室，不能只看字面。"
    }
   ],
   "mistakes": [
@@ -9391,7 +9391,7 @@
      "鬧鐘"
     ],
     "a": 2,
-    "ex": "stopwatch = stop（停止）+ watch（錶），是用來計時的碼錶。時間（time）和 runner 是線索。",
+    "ex": "stopwatch = stop（停止）+ watch（錶），是用來計時的碼錶。time（計時）和 runner 是線索。",
     "hint": "time each runner 是在做什麼動作？"
    },
    {
@@ -9457,7 +9457,7 @@
   "title": "複合形容詞",
   "formula": "名詞／副詞／數字 + 形容詞或分詞 → 複合形容詞（常用連字號）",
   "rhyme": "複合形容詞連字號，數字後面名詞不加 s",
-  "intro": "複合形容詞把兩個以上的字用連字號接起來，當一個形容詞用，例如 well-known（著名的）、time-consuming（耗時的）、worldwide（全球的）。學測閱讀常出現這類字，你只要拆開來看，就能猜出意思；混合題與改錯則常考 five-year-old 的 year 為什麼不加 s。",
+  "intro": "複合形容詞把兩個以上的字接起來（常用連字號），當一個形容詞用，例如 well-known（著名的）、time-consuming（耗時的）、worldwide（全球的）。學測閱讀常出現這類字，你只要拆開來看，就能猜出意思；混合題與段考改錯則常考 five-year-old 的 year 為什麼不加 s。",
   "family": [
    {
     "w": "worldwide",
@@ -9533,7 +9533,7 @@
      },
      {
       "en": "He was rushed to the hospital with a life-threatening injury.",
-      "zh": "他帶著危及生命的傷勢被緊急送醫。",
+      "zh": "他受了危及生命的傷，被緊急送醫。",
       "hl": [
        "life-threatening"
       ]
@@ -9553,7 +9553,7 @@
     ]
    },
    {
-    "t": "名詞 + 現在分詞（-ing）：time + consuming = time-consuming，表示事物「令人……的、造成……的」；人則常用過去分詞，如 well-educated。",
+    "t": "名詞 + 現在分詞（-ing）：time + consuming = time-consuming，表示事物「令人……的、造成……的」；若是被動意義則用過去分詞，如 hand-made（手工製的）。",
     "ex": [
      {
       "en": "Making a model plane is a time-consuming hobby.",
@@ -9565,7 +9565,7 @@
     ]
    },
    {
-    "t": "數字 + 單數名詞 + 形容詞時，名詞一定用單數，不加 s：a five-year-old boy、a ten-minute walk。但把數字放在句尾時才用複數：The boy is five years old.",
+    "t": "數字 + 名詞（+ 形容詞）合成複合形容詞放在名詞前時，名詞一定用單數，不加 s：a five-year-old boy、a ten-minute walk。不放在名詞前時，名詞才用複數：The boy is five years old.",
     "ex": [
      {
       "en": "My five-year-old cousin loves drawing cartoons.",
@@ -9585,7 +9585,7 @@
    }
   ],
   "steps": [
-   "步驟 1：看到連字號或兩個黏在一起的形容詞，先拆開，例如 mouth-watering → mouth + watering。",
+   "步驟 1：看到用連字號連接、或由兩個字黏成的形容詞，先拆開，例如 mouth-watering → mouth + watering。",
    "步驟 2：分別了解意思，mouth 是嘴巴，watering 是流口水的。",
    "步驟 3：判斷關係：名詞 + -ing，表示「令人……的」，所以是「令人流口水的」。",
    "步驟 4：完整例子：time-consuming = time（時間）+ consuming（消耗的）→「耗時的」，所以 a time-consuming task 就是「很費時的工作」。"
@@ -9709,7 +9709,7 @@
   "title": "複合字的拆解與寫法",
   "formula": "any / some / every / no + one / thing / where（連寫，no one 除外）；every day、may be（分寫）",
   "rhyme": "連寫是一詞，分開是兩詞；先拆開，看詞性對不對",
-  "intro": "有些詞連寫是一個字，分開寫又是兩個字，意思和詞性都不同，例如 everyday（形容詞）和 every day（副詞片語）。不定代名詞 anywhere、someone 一律連寫，但 no one 要分開。學測改錯與混合題很愛考這類拼寫，會用 maybe / may be、altogether / all together 來測驗你有沒有看懂句子結構。",
+  "intro": "有些詞連寫是一個字，分開寫又是兩個字，意思和詞性都不同，例如 everyday（形容詞）和 every day（副詞片語）。someone、anywhere 這類不定代名詞與副詞一律連寫，但 no one 要分開。段考改錯與學測混合題很愛考這類拼寫，會用 maybe / may be、altogether / all together 來測驗你有沒有看懂句子結構。",
   "family": [
    {
     "w": "everyday",
@@ -9785,7 +9785,7 @@
      },
      {
       "en": "She walks her dog every day after school.",
-      "zh": "她每天放學後都遛她的狗。",
+      "zh": "她每天放學後都會遛狗。",
       "hl": [
        "every day"
       ]
@@ -10064,7 +10064,7 @@
     ]
    },
    {
-    "t": "re（回）+ spect = 回頭再看，引申為「尊敬」；sus（= sub，下）+ spect = 從下往上看，引申為「懷疑」。意思雖然變遠，但「看」的觀念仍然存在。",
+    "t": "re（回）+ spect = 回頭再看，引申為「尊敬」；su(b)（= sub，下）+ spect = 從下往上看，引申為「懷疑」。意思雖然變遠，但「看」的觀念仍然存在。",
     "ex": [
      {
       "en": "Students should always respect their teachers.",
@@ -10146,7 +10146,7 @@
    {
     "wrong": "suspect = su + spect，su 沒有意思",
     "right": "suspect = su(b)（在下）+ spect（看）→「從底下偷看」→「懷疑」；sub 的 b 在 s 前消失",
-    "why": "sub 在 s 開頭的字根前會變成 sus，意思是「從下面」，表示「偷偷在下面看」，引申為懷疑。"
+    "why": "這裡 sub 接在 spect 前，b 脫落變成 su，意思是「從下面」，表示「偷偷在下面看」，引申為懷疑。"
    },
    {
     "wrong": "inspect 的 in- 是否定，表示「不看」",
@@ -10165,7 +10165,7 @@
      "有望成為的"
     ],
     "a": 3,
-    "ex": "prospective = pro（向前）+ spect（看）+ ive，意思是「展望未來的、準的」。prospective students 就是未來可能入學的學生。",
+    "ex": "prospective = pro（向前）+ spect（看）+ ive，意思是「未來可能成為的、準……的」。prospective students 就是未來可能入學的學生。",
     "hint": "看 pro 的「向前」，想像他們以後會成為什麼。"
    },
    {
@@ -10222,7 +10222,7 @@
    },
    {
     "type": "pick",
-    "s": "下列哪一個字不含字根 spect？",
+    "s": "下列哪一個字的拼字裡沒有完整的 spect？",
     "o": [
      "inspector",
      "spectator",
@@ -10291,7 +10291,7 @@
    {
     "w": "important",
     "parts": "im + port + ant",
-    "zh": "重要的（帶有重量的）",
+    "zh": "重要的（原意「帶進來的」）",
     "lv": null
    }
   ],
@@ -10379,7 +10379,7 @@
     "note": "動詞 imPORT，名詞 IMport，export 也是如此。"
    },
    {
-    "a": "transport（英式）",
+    "a": "transport（名詞，英式常用）",
     "b": "transportation（美式）",
     "note": "兩者都是「運輸」，transport 是動詞兼名詞，transportation 是美式的名詞。"
    },
@@ -10391,19 +10391,19 @@
   ],
   "mistakes": [
    {
-    "wrong": "passport = pass + port，通行證是『帶著走』",
+    "wrong": "passport = pass + port，通行證是「帶著走」",
     "right": "passport = pass + port（港口），原指通過港口的許可",
     "why": "這裡的 port 是「港口」，不是「搬運」，是少數字根例外。"
    },
    {
     "wrong": "portion = port + ion，搬運的動作",
     "right": "portion 是「一部分」",
-    "why": "portion、proportion 的 port 來自拉丁文 pars（部分），與 portare 不同。"
+    "why": "portion、proportion 的 port 來自拉丁文 portio（一份，與 pars「部分」同源），與 portare 不同。"
    },
    {
     "wrong": "sport = s + port，帶著運動",
-    "right": "sport 與 port（搬運）無直接關係",
-    "why": "sport 來自古法文 desport，意思是「消遣」，不是帶著走，不能硬拆。"
+    "right": "sport 是 disport 的縮寫，s 不是字首",
+    "why": "disport 來自古法文 desport（des 離開 + port 帶 → 把心思從工作帶開 → 消遣），後來開頭的 di 脫落才變成 sport，所以不能拆成 s + port。"
    }
   ],
   "qs": [
@@ -10457,7 +10457,7 @@
     ],
     "a": 1,
     "ex": "portable = port（搬運）+ able（可以……的），意思是「可攜帶的」。portion 是一部分，porter 是搬運工，portrait 是肖像。",
-    "hint": "空格要放形容詞，意思是「可以搬運的」。"
+    "hint": "空格要放形容詞；想想手機為什麼能隨處使用。"
    },
    {
     "type": "pick",
@@ -10591,7 +10591,7 @@
      },
      {
       "en": "After years under a dictator, the people finally voted freely.",
-      "zh": "在獨裁者統治多年後，人民終於自由投票。",
+      "zh": "在獨裁者統治多年後，人民終於能自由投票了。",
       "hl": [
        "dictator"
       ]
@@ -10631,10 +10631,10 @@
    }
   ],
   "steps": [
-   "步驟 1：找到 dict（或 dic），確認它在字中的位置。",
-   "步驟 2：切出字首與字尾，例如 contradictory = contra + dict + ory。",
-   "步驟 3：把意思拼起來：contra（反）+ dict（說）→ 反著說，-ory 表示形容詞，意思是「相互矛盾的」。",
-   "步驟 4：完整例子：predict = pre（先）+ dict（說）→「事先說出」，所以 Scientists predict an earthquake. 就是「科學家預測會有地震」。"
+   "找到 dict（或 dic），確認它在字中的位置。",
+   "切出字首與字尾，例如 contradictory = contra + dict + ory。",
+   "把意思拼起來：contra（反）+ dict（說）→ 反著說，-ory 表示形容詞，意思是「相互矛盾的」。",
+   "完整例子：predict = pre（先）+ dict（說）→「事先說出」，所以 Scientists predict an earthquake. 就是「科學家預測會有地震」。"
   ],
   "compare": [
    {
@@ -10667,7 +10667,7 @@
    {
     "wrong": "dictate 只有口述的意思",
     "right": "dictate 也有「命令、支配」的意思",
-    "why": "He dictated the rules. 是他規定了所有規則；看上下文選擇意思。"
+    "why": "He dictated the rules. 意思是「規則由他訂定」；看上下文選擇意思。"
    }
   ],
   "qs": [
@@ -10867,7 +10867,7 @@
     "ex": [
      {
       "en": "Thank you for your constructive advice; it helped me improve my essay.",
-      "zh": "謝謝你有建設性的建議，它讓我的文章進步了。",
+      "zh": "謝謝你提供有建設性的建議，讓我的文章進步了。",
       "hl": [
        "constructive"
       ]
@@ -10895,21 +10895,21 @@
    }
   ],
   "steps": [
-   "步驟 1：找到 struct（有時變成 stroy，如 destroy），確認字根。",
-   "步驟 2：切出字首與字尾，例如 infrastructure = infra + struct + ure。",
-   "步驟 3：把意思拼起來：infra（下面）+ structure（結構）→ 在下面支撐的結構，也就是基礎建設。",
-   "步驟 4：完整例子：destructive = de（拆）+ struct（建造）+ ive（形容詞）→「拆毀的、破壞性的」，所以 destructive power 就是「破壞力」。"
+   "找到 struct（有時變成 stroy，如 destroy），確認字根。",
+   "切出字首與字尾，例如 infrastructure = infra + struct + ure。",
+   "把意思拼起來：infra（下面）+ structure（結構）→ 在下面支撐的結構，也就是基礎建設。",
+   "完整例子：destructive = de（拆）+ struct（建造）+ ive（形容詞）→「拆毀的、破壞性的」，所以 destructive power 就是「破壞力」。"
   ],
   "compare": [
    {
     "a": "constructive（有建設性的）",
     "b": "destructive（破壞性的）",
-    "note": "兩者是反義字：constructive criticism 是有幫助的批評，destructive criticism 則是毫無助益的批評。"
+    "note": "兩者是反義字：constructive criticism 是有幫助的批評，destructive criticism 則是只會打擊人的批評。"
    },
    {
     "a": "structure（結構、建築物）",
     "b": "construction（建造、工程）",
-    "note": "structure 指已經完成的結構，construction 指建造的過程或工地。"
+    "note": "structure 指已經完成的結構，construction 指建造的過程或工程。"
    },
    {
     "a": "instruction（教導，複數常指說明書）",
@@ -11065,7 +11065,7 @@
    {
     "w": "corrupt",
     "parts": "cor + rupt",
-    "zh": "使腐敗、貪污的",
+    "zh": "腐敗的、貪污的；使腐敗",
     "lv": 5
    },
    {
@@ -11144,7 +11144,7 @@
     "ex": [
      {
       "en": "The interruption made the speaker lose her place.",
-      "zh": "這次打斷讓演講者忘了講到哪裡。",
+      "zh": "被這麼一打斷，演講者忘了自己講到哪裡。",
       "hl": [
        "interruption"
       ]
@@ -11153,10 +11153,10 @@
    }
   ],
   "steps": [
-   "步驟 1：找到 rupt，確認「打破、破裂」的概念。",
-   "步驟 2：切出字首與字尾，例如 disruption = dis + rupt + ion。",
-   "步驟 3：把意思拼起來：dis（分開）+ rupt（破）→ 把原本連在一起的東西打散，-ion 表示名詞，意思是「混亂、中斷」。",
-   "步驟 4：完整例子：abrupt = ab（離開）+ rupt（破）→「突然斷開的」，所以 an abrupt change 就是「突然的改變」。"
+   "找到 rupt，確認「打破、破裂」的概念。",
+   "切出字首與字尾，例如 disruption = dis + rupt + ion。",
+   "把意思拼起來：dis（分開）+ rupt（破）→ 把原本連在一起的東西打散，-ion 表示名詞，意思是「混亂、中斷」。",
+   "完整例子：abrupt = ab（離開）+ rupt（破）→「突然斷開的」，所以 an abrupt change 就是「突然的改變」。"
   ],
   "compare": [
    {
@@ -11189,7 +11189,7 @@
    {
     "wrong": "interupt",
     "right": "interrupt",
-    "why": "inter 與 rupt 接合時，rr 都要保留，所以拼成 interrupt，兩個 r。"
+    "why": "inter 結尾的 r 和 rupt 開頭的 r 都要保留，所以 interrupt 有兩個 r。"
    }
   ],
   "qs": [
@@ -11216,7 +11216,7 @@
      "禮貌的"
     ],
     "a": 1,
-    "ex": "abrupt = ab（離開）+ rupt（破），意思是「突然斷開的」，所以 surprised 是線索。",
+    "ex": "abrupt = ab（離開）+ rupt（破），原意是「突然斷開」，引申為「突然的」；surprised 是線索。",
     "hint": "everyone 為什麼會驚訝？"
    },
    {
@@ -11281,13 +11281,13 @@
   "group": "字根",
   "title": "mit / miss　送（send）",
   "formula": "mit（動詞）／miss + ion（名詞）→ 送、放出去",
-  "rhyme": "mit 是送，miss 變名詞；前綴定方向，送出送進送過去",
-  "intro": "mit / miss 來自拉丁文，意思是「送、放」。transmit（送過去）、submit（送到下面）、permit（讓它通過）都在高頻字彙裡。學測閱讀遇到沒背過的 -mit / -mission 字，只要看出前綴方向，就能猜出大意；混合題也常考動詞變名詞的拼字（admit → admission）。",
+  "rhyme": "mit 是送，miss 變名詞；字首定方向，送出送進送過去",
+  "intro": "mit / miss 來自拉丁文，意思是「送、放」。transmit（送過去）、submit（送到下面）、permit（讓它通過）都在高頻字彙裡。學測閱讀遇到沒背過的 -mit / -mission 字，只要看出字首方向，就能猜出大意；混合題也常考動詞變名詞的拼字（admit → admission）。",
   "family": [
    {
     "w": "transmit",
     "parts": "trans + mit",
-    "zh": "送過去、傳送、傳染",
+    "zh": "送過去 → 傳送、傳染",
     "lv": 6
    },
    {
@@ -11299,7 +11299,7 @@
    {
     "w": "permit",
     "parts": "per + mit",
-    "zh": "送通過 → 允許",
+    "zh": "讓它通過 → 允許",
     "lv": 3
    },
    {
@@ -11369,7 +11369,7 @@
     "t": "動詞改名詞時，-mit 變成 -mission：admit → admission、permit → permission、transmit → transmission、omit → omission。不要拼成 -mition。",
     "ex": [
      {
-      "en": "The admission to the museum is free on Sundays.",
+      "en": "The museum offers free admission on Sundays.",
       "zh": "星期日進博物館是免費的。",
       "hl": [
        "admission"
@@ -11385,11 +11385,11 @@
     ]
    },
    {
-    "t": "前綴決定「送到哪裡」：trans-（越過）、sub-（下面）、per-（通過）、e-/ex-（出去）、dis-（分開）。看懂前綴就能把意思拼起來。",
+    "t": "字首決定「送到哪裡」：trans-（越過）、sub-（下面）、per-（通過）、e-/ex-（出去）、dis-（分開）。看懂字首就能把意思拼起來。",
     "ex": [
      {
       "en": "Factories must reduce their emissions to protect the air.",
-      "zh": "工廠必須減少排放來保護空氣。",
+      "zh": "工廠必須減少排放，以維護空氣品質。",
       "hl": [
        "emissions"
       ]
@@ -11397,11 +11397,11 @@
     ]
    },
    {
-    "t": "以 -mit 結尾的動詞變過去式或 -ing 時，字尾 t 要雙寫（短母音＋單子音）：admit → admitted / admitting；commit → committed。",
+    "t": "字根 -mit 結尾的動詞重音在 mit，變過去式或 -ing 時，字尾 t 要雙寫（重讀短母音＋單子音）：admit → admitted / admitting；commit → committed。limit、vomit 重音在前，不雙寫：limited、vomited。",
     "ex": [
      {
       "en": "She was admitted to her dream school last year.",
-      "zh": "她去年錄取了夢想中的學校。",
+      "zh": "她去年被夢想中的學校錄取了。",
       "hl": [
        "admitted"
       ]
@@ -11418,8 +11418,8 @@
   ],
   "steps": [
    "先在單字裡找到 mit 或 miss，確認它是不是「送」的字根（有些字只是剛好長得像）。",
-   "看前綴：trans-、sub-、per-、e-、dis- 各自代表什麼方向或動作。",
-   "把前綴意思 + 「送」合起來，再看字尾決定詞性（-ion 名詞、-ive 形容詞）。",
+   "看字首：trans-、sub-、per-、e-、dis- 各自代表什麼方向或動作。",
+   "把字首意思 +「送」合起來，再看字尾決定詞性（-ion 名詞、-ive 形容詞）。",
    "完整示範：dismiss = dis（分開）+ miss（送）→ 把人送開 → 解散、解僱。看到句子 The teacher dismissed the class 就能確認是「讓全班下課」。"
   ],
   "compare": [
@@ -11438,7 +11438,7 @@
    {
     "wrong": "limit = li + mit（送）",
     "right": "limit 是獨立的字，不需拆",
-    "why": "limit、summit、vomit、dormitory 只是字尾剛好像 mit，意思和「送」無關，拆了會猜錯。"
+    "why": "limit、summit、vomit、dormitory 只是拼字中剛好有 mit，意思和「送」無關，拆了會猜錯。"
    },
    {
     "wrong": "transmission 拼成 transmition",
@@ -11448,7 +11448,7 @@
    {
     "wrong": "admit 的過去式是 admited",
     "right": "admitted",
-    "why": "短母音加單子音結尾，t 要雙寫再加 -ed。"
+    "why": "admit 重音在後，字尾是重讀短母音加單子音，t 要雙寫再加 -ed。"
    }
   ],
   "qs": [
@@ -11514,8 +11514,8 @@
      "transmission 的拼法是 transmition"
     ],
     "a": 0,
-    "ex": "dismiss 的前綴和字根都清楚，意思也合理。limit 和 vomit 只是看起來有 mit，並非「送」；名詞要拼 -mission。",
-    "hint": "其中三個選項是『長得像但無關』或『拼字錯誤』。"
+    "ex": "dismiss 的字首和字根都清楚，意思也合理。limit 和 vomit 只是看起來有 mit，並非「送」；名詞要拼 -mission。",
+    "hint": "其中三個選項是「長得像但無關」或「拼字錯誤」。"
    },
    {
     "type": "pick",
@@ -11539,9 +11539,9 @@
   "l": "M46",
   "group": "字根",
   "title": "ject　投、丟（throw）",
-  "formula": "前綴 + ject → 往某個方向投出去",
-  "rhyme": "ject 是投，前綴指方向；pro 向前、re 向後、in 向內",
-  "intro": "ject 來自拉丁文，意思是「投、丟」。project（向前投）、reject（丟回去）、inject（投進去）都是學測常見字。看到陌生 -ject / -jection 的字，只要看出前綴，就能知道東西往哪裡丟，閱讀猜字很好用。",
+  "formula": "字首 + ject → 往某個方向投出去",
+  "rhyme": "ject 是投，字首指方向；pro 向前、re 向後、in 向內",
+  "intro": "ject 來自拉丁文，意思是「投、丟」。project（向前投）、reject（丟回去）、inject（投進去）都是學測常見字。看到陌生 -ject / -jection 的字，只要看出字首，就能知道東西往哪裡丟，閱讀猜字很好用。",
   "family": [
    {
     "w": "project",
@@ -11606,7 +11606,7 @@
   ],
   "points": [
    {
-    "t": "ject 是「投、丟」。前綴說明方向：pro-（向前）、re-（回來）、in-（進入）、e-（出去）、ob-（對著）。",
+    "t": "ject 是「投、丟」。字首說明方向：pro-（向前）、re-（回來）、in-（進入）、e-（出去）、ob-（對著）。",
     "ex": [
      {
       "en": "The teacher will project the pictures on the screen.",
@@ -11644,7 +11644,7 @@
     ]
    },
    {
-    "t": "加 -ive 變形容詞：objective（客觀的）、subjective（主觀的）。這組常考反義字：客觀是「對著事實看」，主觀是「從自己出發看」。",
+    "t": "加 -ive 變形容詞：objective（客觀的）、subjective（主觀的）。這是一組常考的反義詞：客觀是「對著事實看」，主觀是「從自己出發看」。",
     "ex": [
      {
       "en": "A good judge must be objective and fair to everyone.",
@@ -11683,9 +11683,9 @@
    }
   ],
   "steps": [
-   "找到字根 ject（或 jec），確認是「投、丟」。",
-   "看前綴：pro- 向前、re- 向後或回來、in- 進入、e- 出去、ob- 對著。",
-   "前綴 + 投 → 組出動作；再看字尾：-ion 名詞、-ive 形容詞。",
+   "找到字根 ject，確認是「投、丟」。",
+   "看字首：pro- 向前、re- 向後或回來、in- 進入、e- 出去、ob- 對著。",
+   "字首 + 投 → 組出動作；再看字尾：-ion 名詞、-ive 形容詞。",
    "完整示範：rejection = re（回來）+ ject（投）+ ion（名詞）→ 被丟回來的東西 → 被拒絕、退稿。"
   ],
   "compare": [
@@ -11697,7 +11697,7 @@
    {
     "a": "object（名詞：物體）",
     "b": "object（動詞：反對）",
-    "note": "同形不同義，名詞重音在前、動詞重音在後；看句中有沒有 to 或主詞後直接接動詞來判斷。"
+    "note": "同形不同義，名詞重音在前、動詞重音在後；看它在句中當動詞（後面常接 to）還是當名詞（前面常有 a、the）來判斷。"
    }
   ],
   "mistakes": [
@@ -11728,7 +11728,7 @@
      "洗掉"
     ],
     "a": 0,
-    "ex": "in（進入）+ ject（投）→ 把東西投進去 → 注射。上下文 nurse、into arm 也支持這個意思。",
+    "ex": "in（進入）+ ject（投）→ 把東西投進去 → 注射。上下文 nurse、into the boy's arm 也支持這個意思。",
     "hint": "in- 是向內，ject 是丟。"
    },
    {
@@ -11805,9 +11805,9 @@
   "l": "M47",
   "group": "字根",
   "title": "tract　拉（pull）",
-  "formula": "前綴 + tract → 往某個方向拉",
+  "formula": "字首 + tract → 往某個方向拉",
   "rhyme": "tract 是拉；at 拉近，dis 拉開，ex 拉出，sub 拉下",
-  "intro": "tract 來自拉丁文 trahere，意思是「拉、拖」。attract（拉向自己）、distract（拉開注意力）、extract（拉出來）都是學測高頻字。這個字根的前綴方向最容易看，是練習拆字推義的好材料。",
+  "intro": "tract 來自拉丁文 trahere，意思是「拉、拖」。attract（拉向自己）、distract（拉開注意力）、extract（拉出來）都是學測高頻字。這個字根的字首方向最容易看，是練習拆字推義的好材料。",
   "family": [
    {
     "w": "attract",
@@ -11866,13 +11866,13 @@
    {
     "w": "tractor",
     "parts": "tract + or",
-    "zh": "拉東西的機器 → 拖拉機",
+    "zh": "拉東西的機器 → 曳引機",
     "lv": null
    }
   ],
   "points": [
    {
-    "t": "tract 的意思是「拉」。看到前綴就知道往哪個方向拉：at-（朝向）、dis-（分開）、ex-（出來）、sub-（下面）。",
+    "t": "tract 的意思是「拉」。看到字首就知道往哪個方向拉：at-（朝向）、dis-（分開）、ex-（出來）、sub-（下面）。",
     "ex": [
      {
       "en": "The festival will attract thousands of visitors.",
@@ -11895,7 +11895,7 @@
     "ex": [
      {
       "en": "The city park is a popular attraction for families.",
-      "zh": "這座城市公園是受家庭歡迎的景點。",
+      "zh": "這座城市公園是闔家出遊的熱門景點。",
       "hl": [
        "attraction"
       ]
@@ -11914,7 +11914,7 @@
      },
      {
       "en": "A noisy phone is a big distraction in class.",
-      "zh": "吵鬧的手機是上課時很大的干擾。",
+      "zh": "吵人的手機是上課時很大的干擾。",
       "hl": [
        "distraction"
       ]
@@ -11943,8 +11943,8 @@
   ],
   "steps": [
    "找出字根 tract，確認它是「拉」，不是 trace（追蹤）或 track（軌道）。",
-   "看前綴往哪個方向：at-（朝向）、dis-（分開）、ex-（出）、sub-（下）、abs-（離開）。",
-   "前綴 + 拉 → 動作；再依字尾決定詞性：-ion 名詞、-ive 形容詞。",
+   "看字首往哪個方向：at-（朝向）、dis-（分開）、ex-（出）、sub-（下）、abs-（離開）。",
+   "字首 + 拉 → 動作；再依字尾決定詞性：-ion 名詞、-ive 形容詞。",
    "完整示範：extract = ex（出）+ tract（拉）→ 把東西拉出來 → 萃取、摘錄；a dentist extracts a tooth 就是「拔牙」。"
   ],
   "compare": [
@@ -12040,7 +12040,7 @@
     ],
     "a": 2,
     "ex": "只有 subtract 的拆解與意思相符。attract 的 at- 是朝向，ex- 是出來，dis- 是分開。",
-    "hint": "注意前綴的方向。"
+    "hint": "注意字首的方向。"
    },
    {
     "type": "pick",
@@ -12052,7 +12052,7 @@
      "abstract 是 ab + stract，與 tract 無關"
     ],
     "a": 0,
-    "ex": "abstract 的前綴 abs- 是「離開」，加上「拉」就是從具體中抽離，所以形容詞是「抽象的」；名詞也可以是「摘要」。",
+    "ex": "abstract 的字首 abs- 是「離開」，加上「拉」就是從具體中抽離，所以形容詞是「抽象的」；名詞也可以是「摘要」。",
     "hint": "把 abs- 當成「離開」來看。"
    }
   ],
@@ -12064,7 +12064,7 @@
   "l": "M48",
   "group": "字根",
   "title": "vis / vid　看（see）",
-  "formula": "vis / vid / view + 前綴或字尾 → 看、看見",
+  "formula": "vis / vid / view + 字首或字尾 → 看、看見",
   "rhyme": "vis 看 vid 看，看得見是 visible；再看是 review，上面看是 supervise",
   "intro": "vis / vid 來自拉丁文 videre，意思是「看」，和英文 view 同源。visible、vision、revise、supervise、evidence 都是學測常見字。這個字根在學測閱讀很好用，遇到 -vis- 的新字就先想「看」；但要小心 divide、pelvis 這類長得像、其實無關的字。",
   "family": [
@@ -12192,7 +12192,7 @@
     "ex": [
      {
       "en": "The final match was televised across the whole country.",
-      "zh": "決賽在全國電視轉播。",
+      "zh": "決賽透過電視轉播到全國各地。",
       "hl": [
        "televised"
       ]
@@ -12202,8 +12202,8 @@
   ],
   "steps": [
    "先確認字裡的 vis / vid / view 是不是「看」，再看看整個字的意思會不會合理（divide、pelvis 要小心）。",
-   "看前綴：re-（再）、super-（上）、e-（出）、pro-（向前）、tele-（遠）。",
-   "前綴 + 看 → 動作；再看字尾決定詞性：-ible / -ual 形容詞、-ion / -ence 名詞。",
+   "看字首：re-（再）、super-（上）、e-（出）、pro-（向前）、tele-（遠）。",
+   "字首 + 看 → 動作；再看字尾決定詞性：-ible / -ual 形容詞、-ion / -ence 名詞。",
    "完整示範：supervisor = super（上）+ vis（看）+ or（人）→ 從上面看著的人 → 主管、督導。"
   ],
   "compare": [
@@ -12215,7 +12215,7 @@
    {
     "a": "revise（修訂）",
     "b": "review（複習、檢討）",
-    "note": "兩字都是 re- 「再」+ 看，revise 是看了之後改，review 是看了之後檢討或複習。"
+    "note": "兩字都是 re-（再）+ 看，revise 是看了之後改，review 是看了之後檢討或複習。"
    }
   ],
   "mistakes": [
@@ -12277,7 +12277,7 @@
    },
    {
     "type": "mc",
-    "s": "The magician made the coin ______ with a quick move of his hand.",
+    "s": "The magician made the coin ______ with a quick move of his hand, and no one could find it.",
     "o": [
      "visible",
      "vision",
@@ -12285,7 +12285,7 @@
      "invisible"
     ],
     "a": 3,
-    "ex": "made the coin 後面接形容詞當補語，語意是「讓硬幣消失（看不見）」，所以選 invisible（in + visible）。visible 是「看得見」，與魔術的語意相反。",
+    "ex": "made the coin 後面接形容詞當補語，語意是「讓硬幣消失（看不見）」，所以選 invisible（in + visible）。visible 是「看得見」，與 no one could find it 矛盾。",
     "hint": "魔術師想讓硬幣怎麼樣？"
    },
    {
@@ -12312,7 +12312,7 @@
     ],
     "a": 2,
     "ex": "只有 invisible 的 vis 是「看」。division、individual、dividend 都來自 divide「分開」，並非「看」。",
-    "hint": "三個選項的字根都是『分』。"
+    "hint": "三個選項的字根都是「分」。"
    }
   ],
   "status": "ok"
@@ -12323,7 +12323,7 @@
   "l": "M49",
   "group": "字根",
   "title": "scrib / script　寫（write）",
-  "formula": "前綴 + scribe（動詞）／script + ion（名詞）→ 寫",
+  "formula": "字首 + scribe（動詞）／script + ion（名詞）→ 寫",
   "rhyme": "scribe 動詞 script 名詞，b 換 p 加 tion；描述、處方、訂閱，全都在紙上寫",
   "intro": "scrib / script 來自拉丁文 scribere，意思是「寫」。describe、prescribe、subscribe 是動詞，script、description、subscription 是名詞，學測閱讀與混合題都很常見。記住 b 在名詞形會變成 p，就能避免拼字錯誤。",
   "family": [
@@ -12401,7 +12401,7 @@
      },
      {
       "en": "Her description of the trip made me want to go.",
-      "zh": "她對旅行的描述讓我也想去。",
+      "zh": "她對那趟旅行的描述讓我也想去。",
       "hl": [
        "description"
       ]
@@ -12413,7 +12413,7 @@
     "ex": [
      {
       "en": "The doctor wrote a prescription for the medicine.",
-      "zh": "醫生開了藥的處方。",
+      "zh": "醫生開了那種藥的處方。",
       "hl": [
        "prescription"
       ]
@@ -12428,7 +12428,7 @@
     ]
    },
    {
-    "t": "前綴改變意思：de-（往下）→ 描寫出來；pre-（事先）→ 預先寫下，也就是開處方；sub-（下）→ 在文件下面簽名，也就是訂閱、同意。",
+    "t": "字首改變意思：de-（往下）→ 描寫出來；pre-（事先）→ 預先寫下，也就是開處方；sub-（下）→ 在文件下面簽名，也就是訂閱、同意。",
     "ex": [
      {
       "en": "Many students subscribe to English learning channels.",
@@ -12468,7 +12468,7 @@
   ],
   "steps": [
    "找到 scrib / script，確認是「寫」。",
-   "看前綴：de-（往下）、pre-（事先）、sub-（下）、trans-（轉過去）、manu-（手）。",
+   "看字首：de-（往下）、pre-（事先）、sub-（下）、trans-（轉過去）、manu-（手）。",
    "判斷詞性：-scribe 通常是動詞，-script / -scription 是名詞，-scriptive 是形容詞。",
    "完整示範：transcript = trans（轉過去）+ script（寫）→ 把內容抄寫轉錄下來的文件 → 成績單、逐字稿。"
   ],
@@ -12493,7 +12493,7 @@
    {
     "wrong": "prescribe = 預先寫作文",
     "right": "開處方、規定",
-    "why": "pre（事先）+ scribe（寫）→ 事先寫下該怎麼做，所以醫生開藥方或規定。"
+    "why": "pre（事先）+ scribe（寫）→ 事先寫下該怎麼做，引申為醫生開藥方，或泛指規定。"
    },
    {
     "wrong": "subscribe = sub（次要）+ 寫 → 副寫",
@@ -12565,7 +12565,7 @@
     ],
     "a": 0,
     "ex": "transcript 的拆法正確。名詞要拼 description；sub- 是在下面，pre- 是事先。",
-    "hint": "其他三個選項不是拼字錯就是前綴講錯。"
+    "hint": "其他三個選項不是拼字錯就是字首講錯。"
    },
    {
     "type": "pick",
@@ -12589,8 +12589,8 @@
   "l": "M50",
   "group": "字根",
   "title": "duc / duct　引導（lead）",
-  "formula": "前綴 + duce（動詞）／duct + ion（名詞）→ 引導、帶領",
-  "rhyme": "duce 動詞 duct 名詞，前綴告訴你把誰帶去哪裡",
+  "formula": "字首 + duce（動詞）／duct + ion（名詞）→ 引導、帶領",
+  "rhyme": "duce 動詞 duct 名詞，字首告訴你把誰帶去哪裡",
   "intro": "duc / duct 來自拉丁文 ducere，意思是「引導、帶領」。produce（向前引出 → 製造）、reduce（往回引 → 減少）、educate（把潛能引出來 → 教育）都是學測高頻字。學會 duce → duct 的拼字變化，就能同時處理動詞、名詞與形容詞。",
   "family": [
    {
@@ -12675,7 +12675,7 @@
     ]
    },
    {
-    "t": "前綴決定引導的方向：pro-（向前）、re-（向後）、in-（向內）、de-（向下）、e-（向外）。",
+    "t": "字首決定引導的方向：pro-（向前）、re-（向後）、in-（向內）、de-（向下）、e-（向外）。",
     "ex": [
      {
       "en": "A small fee will be deducted from your account.",
@@ -12727,8 +12727,8 @@
   ],
   "steps": [
    "找到 duc / duct / duce，確認是「引導」。",
-   "看前綴：pro-（向前）、re-（往回）、in-（向內）、de-（向下）、e-（向外）。",
-   "前綴 + 引導 → 動作；動詞變名詞時 duce → duct + ion。",
+   "看字首：pro-（向前）、re-（往回）、in-（向內）、de-（向下）、e-（向外）。",
+   "字首 + 引導 → 動作；動詞變名詞時 duce → duct + ion。",
    "完整示範：deduct = de（往下）+ duct（引導）→ 往下引走一部分 → 扣除。"
   ],
   "compare": [
@@ -12824,7 +12824,7 @@
     ],
     "a": 0,
     "ex": "educate 的拆法與意思相符。introduce 是 intro（向內）+ duce；deduct 的 de- 是往下；pro- 是向前。",
-    "hint": "注意其他三個的前綴意思。"
+    "hint": "注意其他三個的字首意思。"
    },
    {
     "type": "pick",
@@ -12867,7 +12867,7 @@
    {
     "w": "incredible",
     "parts": "in + cred + ible",
-    "zh": "不能相信的 → 難以置信的、太棒了",
+    "zh": "不能相信的 → 難以置信的、極好的",
     "lv": 4
    },
    {
@@ -12926,7 +12926,7 @@
      },
      {
       "en": "She got the credit for the team's success.",
-      "zh": "她得到團隊成功的功勞。",
+      "zh": "團隊的成功歸功於她。",
       "hl": [
        "credit"
       ]
@@ -12934,7 +12934,7 @@
     ]
    },
    {
-    "t": "-ible 是「可以…的」：credible（可信的）、incredible（不可信 → 難以置信）。incredible 常用來讚嘆「太驚人、太棒了」，不一定是負面。",
+    "t": "-ible 是「可以……的」：credible（可信的）、incredible（不可信 → 難以置信）。incredible 常用來讚嘆「太驚人、太棒了」，不一定是負面。",
     "ex": [
      {
       "en": "The view from the mountain was incredible.",
@@ -12986,8 +12986,8 @@
   ],
   "steps": [
    "先確認字裡的 cred 或 aud 是不是真的「相信」或「聽」。",
-   "看前綴或字尾：in-（不）、-ible（可…的）、-ience（人群）、-orium（場所）。",
-   "字根意思 + 前綴字尾 → 組出意思，並確認詞性：-ible 形容詞、-ence / -ity 名詞。",
+   "看字首或字尾：in-（不）、-ible（可……的）、-ience（名詞字尾）、-orium（場所）。",
+   "字根意思 + 字首、字尾 → 組出意思，並確認詞性：-ible 形容詞、-ence / -ity 名詞。",
    "完整示範：auditorium = audit（聽）+ orium（場所）→ 大家來聽的場所 → 禮堂；the speech was held in the auditorium 就合理。"
   ],
   "compare": [
@@ -13030,7 +13030,7 @@
      "版面"
     ],
     "a": 0,
-    "ex": "cred（相信）+ ibility（名詞字尾）→ 被相信的程度。後面 false news 說明它失去了被信任的程度。",
+    "ex": "cred（相信）+ ibility（名詞字尾）→ 被相信的程度。after printing false news 說明了它為何不再受人信任。",
     "hint": "cred 是相信。"
    },
    {
@@ -13095,8 +13095,8 @@
      "audible = aud + ible，意思是「不能聽的」"
     ],
     "a": 2,
-    "ex": "audience 的 aud 是「聽」，-ible 則是「可以…的」，所以 audible 是「聽得到的」，不是不能聽。",
-    "hint": "-ible 是「可以…」。"
+    "ex": "audience 的 aud 是「聽」，-ible 則是「可以……的」，所以 audible 是「聽得到的」，不是不能聽。",
+    "hint": "-ible 是「可以……」。"
    }
   ],
   "status": "ok"
@@ -13109,7 +13109,7 @@
   "title": "graph / gram、phon　寫、畫／聲音（write / sound）",
   "formula": "graph / gram = 寫、記錄　phon(e) = 聲音",
   "rhyme": "graph 寫 gram 寫，phone 是聲音；tele 遠，auto 自己，bio 生命",
-  "intro": "graph / gram 來自希臘文，意思是「寫、畫、記錄」；phon(e) 是「聲音」。photograph、biography、grammar、telephone、microphone 都在高頻字裡。這兩個字根常和 tele-、auto-、bio-、geo-、micro- 等前綴連用，學會幾個，就能一次拆開很多字。",
+  "intro": "graph / gram 來自希臘文，意思是「寫、畫、記錄」；phon(e) 是「聲音」。photograph、biography、grammar、telephone、microphone 都在高頻字裡。這兩個字根常和 tele-、auto-、bio-、geo-、micro- 等字首連用，學會幾個，就能一次拆開很多字。",
   "family": [
    {
     "w": "photograph",
@@ -13212,7 +13212,7 @@
     ]
    },
    {
-    "t": "這兩個字根常與希臘前綴連用：tele-（遠）、auto-（自己）、bio-（生命）、geo-（地球）、photo-（光）、micro-（小）。看到一組前綴 + graph，多半就是「用某種方式寫或記」。",
+    "t": "這兩個字根常與希臘字首連用：tele-（遠）、auto-（自己）、bio-（生命）、geo-（地球）、photo-（光）、micro-（小）。看到一組字首 + graph，多半就是「用某種方式寫或記」。",
     "ex": [
      {
       "en": "My favorite singer signed an autograph for me.",
@@ -13223,7 +13223,7 @@
      },
      {
       "en": "Calligraphy is the art of beautiful writing.",
-      "zh": "書法是美麗書寫的藝術。",
+      "zh": "書法是把字寫得優美的藝術。",
       "hl": [
        "Calligraphy"
       ]
@@ -13252,9 +13252,9 @@
   ],
   "steps": [
    "找出字根：graph / gram（寫、畫）或 phon / phone（聲音）。",
-   "看前面的前綴：tele- 遠、auto- 自己、bio- 生命、geo- 地、micro- 小、photo- 光。",
-   "前綴 + 字根 → 合成意思，再看字尾：-y 名詞、-er 人、-ic / -ical 形容詞。",
-   "完整示範：telephone = tele（遠）+ phone（聲音）→ 把遠方的聲音傳過來 → 電話；autobiography = auto（自己）+ bio（生命）+ graph + y → 自己寫自己的生命 → 自傳。"
+   "看前面的字首：tele- 遠、auto- 自己、bio- 生命、geo- 地、micro- 小、photo- 光。",
+   "字首 + 字根 → 合成意思，再看字尾：-y 名詞、-er 人、-ic / -ical 形容詞。",
+   "完整示範：telephone = tele（遠）+ phone（聲音）→ 把遠方的聲音傳過來 → 電話；autobiography = auto（自己）+ bio（生命）+ graph + y → 自己寫自己的一生 → 自傳。"
   ],
   "compare": [
    {
@@ -13297,13 +13297,13 @@
     ],
     "a": 1,
     "ex": "poly（多）+ graph（記錄）→ 同時記錄多種生理反應的儀器，也就是測謊機。polygraph 是學測文章出現過的表外字。",
-    "hint": "poly 是多，graph 是記錄；showed the man was telling the truth 是線索。"
+    "hint": "poly 是多，graph 是記錄；showed that the man was telling the truth 是線索。"
    },
    {
     "type": "mc",
     "s": "She practices calligraphy with a brush every weekend. 句中 calligraphy 最可能的意思是？",
     "o": [
-     "繪畫",
+     "雕刻",
      "地理",
      "書法",
      "攝影"
@@ -13497,7 +13497,7 @@
     ]
    },
    {
-    "t": "suspend 的名詞有 suspension（暫停）和 suspense（懸疑），字尾不同：-sion 是動作，-se 是緊張懸著不決的感覺。",
+    "t": "suspend 的名詞有 suspension（暫停）和 suspense（懸疑），字尾不同：suspension 指暫停的動作，suspense 指緊張、懸著不知結果的感覺。",
     "ex": [
      {
       "en": "The match was suspended because of the heavy rain.",
@@ -13518,7 +13518,7 @@
   ],
   "steps": [
    "找出字根 pend 或 pens，確認是「掛」還是「付出、秤重」。",
-   "看前綴：de-（向下）、sus-（在下面）、ex-（出去）、com-（一起）。",
+   "看字首：de-（向下）、sus-（在下面）、ex-（出去）、com-（一起）。",
    "把意思組起來：掛 → 依賴、暫停；付 → 費用、補償；再看字尾決定詞性。",
    "完整示範：expense = ex（出去）+ pense（付）→ 付出去的錢 → 費用；expensive 就是「花很多錢的」。"
   ],
@@ -13576,7 +13576,7 @@
     ],
     "a": 1,
     "ex": "in（不）+ dis（分開）+ pens（付出）+ able → 不能被分發掉、拿走的，也就是不可或缺。好的字典對英文學習者來說很重要。",
-    "hint": "字典對學習者很重要。"
+    "hint": "in- 是「不」，dis- 是「分開、拿走」，-able 是「可以……的」。"
    },
    {
     "type": "mc",
@@ -13639,7 +13639,7 @@
   "l": "M54",
   "group": "策略",
   "title": "拆字猜義三步驟　拆 → 推 → 驗",
-  "formula": "拆（字首・字根・字尾）→ 推（合起來的意思）→ 驗（用上下文檢查）",
+  "formula": "拆（字首、字根、字尾）→ 推（合起來的意思）→ 驗（用上下文檢查）",
   "rhyme": "一拆二推三驗證，上下文是最後裁判；不合理就別硬湊",
   "intro": "學測閱讀與混合題常出現沒背過的字，但很多字其實是由字首、字根、字尾組成的。學會「拆 → 推 → 驗」三步驟，就算沒背過也能猜出八成意思。最後一步一定要用上下文驗證，因為有些字會騙人（假朋友）。",
   "family": [
@@ -13647,12 +13647,12 @@
     "w": "unexpected",
     "parts": "un + expect + ed",
     "zh": "不 + 期待 + 的 → 意料之外的",
-    "lv": 4
+    "lv": null
    },
    {
     "w": "uncomfortable",
     "parts": "un + comfort + able",
-    "zh": "不 + 舒服 + 能…的 → 不舒服的",
+    "zh": "不 + 舒服 + 能……的 → 不舒服的",
     "lv": null
    },
    {
@@ -13734,7 +13734,7 @@
     "ex": [
      {
       "en": "Many people believed his plan was incredible, but it never worked.",
-      "zh": "許多人覺得他的計畫很驚人，但它從未成功。",
+      "zh": "許多人覺得他的計畫很驚人，但這個計畫從未成功。",
       "hl": [
        "incredible"
       ]
@@ -13758,7 +13758,7 @@
    "拆：找字首（開頭）、字尾（結尾）、字根（中間），並判斷詞性。",
    "推：把各部分的意思串起來，寫出一個初步的中文意思。",
    "驗：放回句子，用上下文檢查是否通順；不通順就重拆，或改用上下文猜意思。",
-   "完整示範：uncomfortable = un（不）+ comfort（舒服）+ able（能…的）→ 不舒服的；套進 The chair is uncomfortable, so I can't sit long. 通順，確認正確。"
+   "完整示範：uncomfortable = un（不）+ comfort（舒服）+ able（能……的）→ 不舒服的；套進 The chair is uncomfortable, so I can't sit long. 通順，確認正確。"
   ],
   "compare": [
    {
@@ -13781,7 +13781,7 @@
    {
     "wrong": "只看字首，不看字尾與詞性",
     "right": "同時看字尾判斷詞性",
-    "why": "推出來的意思必須符合詞性。例如 -tion 是名詞，不能把 prediction 翻成「預測的」。"
+    "why": "推出來的意思必須符合詞性。例如 -tion 是名詞字尾，不能把 prediction 翻成「預測的」。"
    },
    {
     "wrong": "拆出來意思怪怪的，還是硬套",
@@ -13847,7 +13847,7 @@
     "s": "使用「拆 → 推 → 驗」時，哪一個順序與做法正確？",
     "o": [
      "先背完整個字，再看句子",
-     "先拆出字首字根字尾，再推出意思，最後放回句子檢查是否通順",
+     "先拆出字首、字根、字尾，再推出意思，最後放回句子檢查是否通順",
      "只看字首的意思就決定答案",
      "推出意思後不必再檢查"
     ],
@@ -13866,7 +13866,7 @@
     ],
     "a": 2,
     "ex": "inflammable 的 in- 是「進入」，指容易被點燃；它和 flammable 意思相同。看到標示 inflammable 的物品要小心火。",
-    "hint": "標籤是警告人們別靠近火源。"
+    "hint": "想想 inflammable 常出現在哪種警告標籤上。"
    }
   ],
   "status": "ok"
@@ -13891,7 +13891,7 @@
     "w": "movement",
     "parts": "move + ment",
     "zh": "名詞字尾 -ment → 動作、運動",
-    "lv": 3
+    "lv": null
    },
    {
     "w": "activity",
@@ -13909,7 +13909,7 @@
     "w": "dangerous",
     "parts": "danger + ous",
     "zh": "形容詞字尾 -ous → 危險的",
-    "lv": 3
+    "lv": null
    },
    {
     "w": "beneficial",
@@ -13927,7 +13927,7 @@
     "w": "confidently",
     "parts": "confident + ly",
     "zh": "副詞字尾 -ly → 有自信地",
-    "lv": 4
+    "lv": null
    },
    {
     "w": "modernize",
@@ -14014,14 +14014,14 @@
   ],
   "compare": [
    {
-    "a": "-ful（有…的）",
-    "b": "-less（沒有…的）",
+    "a": "-ful（有……的）",
+    "b": "-less（沒有……的）",
     "note": "兩者常成對：careful / careless、helpful / helpless，意思相反，詞性都是形容詞。"
    },
    {
     "a": "historic（歷史上重要的）",
     "b": "historical（歷史的）",
-    "note": "historic 指「有歷史意義的」，historical 指「與歷史有關的」，雖然字尾都是形容詞，意思不同。"
+    "note": "historic 指「有歷史意義的」，historical 指「與歷史有關的」，兩者都是形容詞，意思卻不同。"
    }
   ],
   "mistakes": [
@@ -14052,8 +14052,8 @@
      "安靜的"
     ],
     "a": 1,
-    "ex": "commerce（商業）+ ial（形容詞）+ ize（動詞：使…化）+ ed（過去分詞）→ 被商業化的。increasingly 提示一個逐漸變化的方向。",
-    "hint": "-ize 是使…化，commerce 與商業有關。"
+    "ex": "commerce（商業）+ ial（形容詞）+ ize（動詞：使……化）+ ed（過去分詞）→ 被商業化的。increasingly 提示一個逐漸變化的方向。",
+    "hint": "拆成 commerce + ial + ize + ed，-ize 表示「使……化」。"
    },
    {
     "type": "mc",
@@ -14065,7 +14065,7 @@
      "清掃"
     ],
     "a": 2,
-    "ex": "modern（現代的）+ ize（動詞字尾：使…化）→ 使現代化。plans to 後面接動詞原形，也符合動詞詞性。",
+    "ex": "modern（現代的）+ ize（動詞字尾：使……化）→ 使現代化。plans to 後面接動詞原形，也符合動詞詞性。",
     "hint": "to 後面是動詞，-ize 是動詞字尾。"
    },
    {

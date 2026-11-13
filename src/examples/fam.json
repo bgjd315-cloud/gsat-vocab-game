@@ -86,7 +86,7 @@
 ],
 "q": {
 "en": "Winning the speech contest was a great achievement for Amy.",
-"zh": "贏得演講比賽對Amy來說是一項很大的成就。",
+"zh": "贏得演講比賽對 Amy 來說是一項很大的成就。",
 "base": "achieve",
 "answer": "achievement"
 },
@@ -114,7 +114,7 @@
 ],
 "q": {
 "en": "In addition to math, Ben takes extra English classes after school.",
-"zh": "除了數學之外，Ben放學後還要上額外的英文課。",
+"zh": "除了數學之外，Ben 放學後還要上額外的英文課。",
 "base": "additional",
 "answer": "addition"
 },
@@ -137,7 +137,7 @@
 ],
 "q": {
 "en": "Everyone has great admiration for Mr. Chen's patience with students.",
-"zh": "大家都非常欽佩Mr. Chen對學生的耐心。",
+"zh": "大家都非常欽佩 Mr. Chen 對學生的耐心。",
 "base": "admire",
 "answer": "admiration"
 },
@@ -201,7 +201,7 @@
 ],
 "q": {
 "en": "Lisa is an adventurous girl who loves hiking in the mountains.",
-"zh": "Lisa是個愛冒險的女孩，喜歡在山裡健行。",
+"zh": "Lisa 是個愛冒險的女孩，喜歡在山裡健行。",
 "base": "adventure",
 "answer": "adventurous"
 },
@@ -252,7 +252,7 @@
 ],
 "q": {
 "en": "Mr. Chen gave us some useful advice about preparing for the exam.",
-"zh": "Mr. Chen給了我們一些準備考試的實用建議。",
+"zh": "Mr. Chen 給了我們一些準備考試的實用建議。",
 "base": "advise",
 "answer": "advice"
 },
@@ -298,7 +298,7 @@
 ],
 "q": {
 "en": "Kevin is looking for an affordable laptop for school.",
-"zh": "Kevin正在找一台學校用、價格負擔得起的筆電。",
+"zh": "Kevin 正在找一台學校用、價格負擔得起的筆電。",
 "base": "afford",
 "answer": "affordable"
 },
@@ -323,7 +323,7 @@
 ],
 "q": {
 "en": "Taiwan exports many agricultural products such as fruit and tea to other countries.",
-"zh": "台灣出口許多農產品，例如水果和茶葉到其他國家。",
+"zh": "台灣出口許多農產品到其他國家，例如水果和茶葉。",
 "base": "agriculture",
 "answer": "agricultural"
 },
@@ -410,12 +410,12 @@
 [
 "ambitious",
 "adj.",
-"有野心的"
+"有抱負的；有野心的"
 ]
 ],
 "q": {
 "en": "Lisa is an ambitious student who wants to study medicine abroad.",
-"zh": "Lisa是個有抱負的學生，想去國外學醫。",
+"zh": "Lisa 是個有抱負的學生，想去國外學醫。",
 "base": "ambition",
 "answer": "ambitious"
 },
@@ -452,7 +452,7 @@
 ],
 "q": {
 "en": "The principal made an important announcement about the school trip this morning.",
-"zh": "校長今天早上宣布了一項關於校外教學的重要公告。",
+"zh": "校長今天早上發布了一則關於校外教學的重要公告。",
 "base": "announce",
 "answer": "announcement"
 },
@@ -475,7 +475,7 @@
 ],
 "q": {
 "en": "Kevin felt great anxiety before the English speech contest.",
-"zh": "英語演講比賽前，Kevin感到非常焦慮。",
+"zh": "英語演講比賽前，Kevin 感到非常焦慮。",
 "base": "anxious",
 "answer": "anxiety"
 },
@@ -507,7 +507,7 @@
 ],
 "q": {
 "en": "Ben made a sincere apology to his teacher for being late.",
-"zh": "Ben為遲到向老師誠懇地道歉。",
+"zh": "Ben 為遲到向老師誠懇地道歉。",
 "base": "apologize",
 "answer": "apology"
 },
@@ -548,7 +548,7 @@
 ],
 "q": {
 "en": "Amy's parents gave their approval to her plan to study abroad.",
-"zh": "Amy的父母同意了她出國讀書的計畫。",
+"zh": "Amy 的父母同意了她出國讀書的計畫。",
 "base": "approve",
 "answer": "approval"
 },
@@ -660,12 +660,12 @@
 [
 "athletic",
 "adj.",
-"運動的"
+"運動的；擅長運動的"
 ]
 ],
 "q": {
 "en": "Ben is very athletic and plays basketball every afternoon.",
-"zh": "Ben很愛運動，每天下午都打籃球。",
+"zh": "Ben 很擅長運動，每天下午都打籃球。",
 "base": "athlete",
 "answer": "athletic"
 },
@@ -798,7 +798,7 @@
 ],
 "q": {
 "en": "Kevin stayed awake all night to finish his science report.",
-"zh": "Kevin整晚沒睡，只為了完成他的自然科報告。",
+"zh": "Kevin 整晚沒睡，只為了完成他的自然科報告。",
 "base": "awaken",
 "answer": "awake"
 },
@@ -869,7 +869,7 @@
 ],
 "q": {
 "en": "Ben stood awkwardly at the door because he did not know anyone.",
-"zh": "Ben尷尬地站在門口，因為他一個人也不認識。",
+"zh": "Ben 尷尬地站在門口，因為他一個人也不認識。",
 "base": "awkward",
 "answer": "awkwardly"
 },
@@ -964,7 +964,7 @@
 ],
 "q": {
 "en": "Amy opened a bank account to save her pocket money.",
-"zh": "Amy開了一個銀行帳戶來存零用錢。",
+"zh": "Amy 開了一個銀行帳戶來存零用錢。",
 "base": "banker",
 "answer": "bank"
 },
@@ -982,7 +982,7 @@
 ],
 "q": {
 "en": "Kevin could barely keep his eyes open during the long lecture.",
-"zh": "在那場冗長的演講中，Kevin幾乎睜不開眼睛。",
+"zh": "在那場冗長的演講中，Kevin 幾乎睜不開眼睛。",
 "base": "bare",
 "answer": "barely"
 },
@@ -1111,7 +1111,7 @@
 ],
 "q": {
 "en": "Lisa sat beside her best friend on the school bus.",
-"zh": "Lisa坐在她最好的朋友旁邊搭校車。",
+"zh": "搭校車時，Lisa 坐在她最好的朋友旁邊。",
 "base": "besides",
 "answer": "beside"
 },
@@ -1171,7 +1171,7 @@
 ],
 "q": {
 "en": "Mr. Chen donates blood at the hospital twice a year.",
-"zh": "Mr. Chen一年到醫院捐兩次血。",
+"zh": "Mr. Chen 一年到醫院捐兩次血。",
 "base": "bleed",
 "answer": "blood"
 },
@@ -1207,7 +1207,7 @@
 ],
 "q": {
 "en": "The nurse took a sample of Amy's blood for the test.",
-"zh": "護理師抽取了Amy的血液樣本來做檢驗。",
+"zh": "護理師抽取了 Amy 的血液樣本來做檢驗。",
 "base": "bloody",
 "answer": "blood"
 },
@@ -1232,7 +1232,7 @@
 ],
 "q": {
 "en": "Kevin boldly raised his hand and asked the teacher a question.",
-"zh": "Kevin大膽地舉手向老師提問。",
+"zh": "Kevin 大膽地舉手向老師提問。",
 "base": "bold",
 "answer": "boldly"
 },
@@ -1281,7 +1281,7 @@
 ],
 "q": {
 "en": "Lisa was bored during the long speech, so she looked out the window.",
-"zh": "冗長的演講讓Lisa覺得無聊，所以她望向窗外。",
+"zh": "冗長的演講讓 Lisa 覺得無聊，所以她望向窗外。",
 "base": "bore",
 "answer": "bored"
 },
@@ -1325,7 +1325,7 @@
 ],
 "q": {
 "en": "Ben was brave enough to speak in front of the whole school.",
-"zh": "Ben很勇敢，敢在全校面前演講。",
+"zh": "Ben 很勇敢，敢在全校面前演講。",
 "base": "bravery",
 "answer": "brave"
 },
@@ -1373,7 +1373,7 @@
 ],
 "q": {
 "en": "Amy took a deep breath before she walked onto the stage.",
-"zh": "Amy上台前深吸了一口氣。",
+"zh": "Amy 上台前深吸了一口氣。",
 "base": "breathe",
 "answer": "breath"
 },
@@ -1672,7 +1672,7 @@
 ],
 "q": {
 "en": "Kevin was casually dressed in jeans and a T-shirt at the party.",
-"zh": "Kevin在派對上穿著牛仔褲和T恤，打扮很休閒。",
+"zh": "Kevin 在派對上穿著牛仔褲和T恤，打扮很休閒。",
 "base": "casual",
 "answer": "casually"
 },
@@ -1722,7 +1722,7 @@
 ],
 "q": {
 "en": "Lisa lives in a charming little house near the river.",
-"zh": "Lisa住在河邊一間迷人的小房子裡。",
+"zh": "Lisa 住在河邊一間迷人的小房子裡。",
 "base": "charm",
 "answer": "charming"
 },
@@ -1876,7 +1876,7 @@
 ],
 "q": {
 "en": "Amy took a class on citizenship to learn about her rights.",
-"zh": "Amy上了一堂公民課來了解自己的權利。",
+"zh": "Amy 上了一堂公民課來了解自己的權利。",
 "base": "citizen",
 "answer": "citizenship"
 },
@@ -1975,7 +1975,7 @@
 ],
 "q": {
 "en": "Lisa packed warm clothing for the school trip to the mountains.",
-"zh": "Lisa為去山上的校外教學打包了保暖衣物。",
+"zh": "Lisa 為去山上的校外教學打包了保暖衣物。",
 "base": "clothe",
 "answer": "clothing"
 },
@@ -2047,7 +2047,7 @@
 ],
 "q": {
 "en": "Ben likes to collect stamps from different countries.",
-"zh": "Ben喜歡收集來自不同國家的郵票。",
+"zh": "Ben 喜歡收集來自不同國家的郵票。",
 "base": "collection",
 "answer": "collect"
 },
@@ -2139,7 +2139,7 @@
 [
 "communicative",
 "adj.",
-"愛溝通的"
+"健談的；溝通的"
 ]
 ],
 "q": {
@@ -2167,7 +2167,7 @@
 ],
 "q": {
 "en": "Amy likes to compare prices before she buys anything online.",
-"zh": "Amy在網路上買東西之前喜歡先比價。",
+"zh": "Amy 在網路上買東西之前喜歡先比價。",
 "base": "comparison",
 "answer": "compare"
 },
@@ -2208,12 +2208,12 @@
 [
 "complaint",
 "n.",
-"抱怨"
+"抱怨；投訴"
 ]
 ],
 "q": {
 "en": "Lisa made a complaint about the noisy neighbors upstairs.",
-"zh": "Lisa投訴樓上吵鬧的鄰居。",
+"zh": "Lisa 投訴樓上吵鬧的鄰居。",
 "base": "complain",
 "answer": "complaint"
 },
@@ -2231,7 +2231,7 @@
 ],
 "q": {
 "en": "Kevin likes to complain about the long walk from the station.",
-"zh": "Kevin老是抱怨從車站走過來的路太長。",
+"zh": "Kevin 老是抱怨從車站走過來的路太長。",
 "base": "complaint",
 "answer": "complain"
 },
@@ -2256,7 +2256,7 @@
 ],
 "q": {
 "en": "Ben will conclude his speech with a short story.",
-"zh": "Ben會用一個小故事來結束他的演講。",
+"zh": "Ben 會用一個小故事來結束他的演講。",
 "base": "conclusion",
 "answer": "conclude"
 },
@@ -2281,7 +2281,7 @@
 ],
 "q": {
 "en": "Ben received a confirmation email after he booked the concert tickets.",
-"zh": "Ben訂了演唱會門票後，收到了一封確認信。",
+"zh": "Ben 訂了演唱會門票後，收到了一封確認信。",
 "base": "confirm",
 "answer": "confirmation"
 },
@@ -2294,7 +2294,7 @@
 [
 "confusion",
 "n.",
-"混亂"
+"困惑；混亂"
 ],
 [
 "confusing",
@@ -2363,7 +2363,7 @@
 [
 "considerably",
 "adv.",
-"相當多地"
+"相當地；大幅地"
 ],
 [
 "consider",
@@ -2554,7 +2554,7 @@
 ],
 "q": {
 "en": "Amy showed great creativity in her art project for the school fair.",
-"zh": "Amy在園遊會的美術作品中展現了很大的創意。",
+"zh": "Amy 在園遊會的美術作品中展現了很大的創意。",
 "base": "creative",
 "answer": "creativity"
 },
@@ -2577,7 +2577,7 @@
 ],
 "q": {
 "en": "Amy's latest creation is a dress made from old newspapers.",
-"zh": "Amy最新的作品是一件用舊報紙做成的洋裝。",
+"zh": "Amy 最新的作品是一件用舊報紙做成的洋裝。",
 "base": "creator",
 "answer": "creation"
 },
@@ -2741,7 +2741,7 @@
 ],
 "q": {
 "en": "Kevin has to deal with a lot of homework this week.",
-"zh": "Kevin這星期有很多作業要處理。",
+"zh": "Kevin 這星期有很多作業要處理。",
 "base": "dealer",
 "answer": "deal"
 },
@@ -2778,7 +2778,7 @@
 ],
 "q": {
 "en": "Lisa hung a paper decoration on the classroom door for the party.",
-"zh": "Lisa為了派對在教室門上掛了一個紙做的裝飾。",
+"zh": "Lisa 為了派對在教室門上掛了一個紙做的裝飾。",
 "base": "decorate",
 "answer": "decoration"
 },
@@ -2910,7 +2910,7 @@
 ],
 "q": {
 "en": "Amy wants to design a poster for the school concert.",
-"zh": "Amy想為學校的音樂會設計一張海報。",
+"zh": "Amy 想為學校的音樂會設計一張海報。",
 "base": "designer",
 "answer": "design"
 },
@@ -2933,7 +2933,7 @@
 ],
 "q": {
 "en": "Ben has a strong desire to travel around the world.",
-"zh": "Ben非常渴望環遊世界。",
+"zh": "Ben 非常渴望環遊世界。",
 "base": "desirable",
 "answer": "desire"
 },
@@ -3027,7 +3027,7 @@
 ],
 "q": {
 "en": "Lisa's strong determination helped her finish the marathon.",
-"zh": "Lisa堅定的決心幫助她跑完了馬拉松。",
+"zh": "Lisa 堅定的決心幫助她跑完了馬拉松。",
 "base": "determine",
 "answer": "determination"
 },
@@ -3190,7 +3190,7 @@
 ],
 "q": {
 "en": "Lisa felt a little dizziness after standing up too fast.",
-"zh": "Lisa太快站起來後覺得有點頭暈。",
+"zh": "Lisa 太快站起來後覺得有點頭暈。",
 "base": "dizzy",
 "answer": "dizziness"
 },
@@ -3236,7 +3236,7 @@
 ],
 "q": {
 "en": "I have no doubt that Amy will win the speech contest.",
-"zh": "我毫不懷疑Amy會贏得演講比賽。",
+"zh": "我毫不懷疑 Amy 會贏得演講比賽。",
 "base": "doubtful",
 "answer": "doubt"
 },
@@ -3294,7 +3294,7 @@
 ],
 "q": {
 "en": "Amy joined the drama club because she loves acting on stage.",
-"zh": "Amy加入了戲劇社，因為她喜歡在舞台上表演。",
+"zh": "Amy 加入了戲劇社，因為她喜歡在舞台上表演。",
 "base": "dramatic",
 "answer": "drama"
 },
@@ -3432,7 +3432,7 @@
 ],
 "q": {
 "en": "Lisa will edit the school newspaper this semester.",
-"zh": "Lisa這學期要編輯校刊。",
+"zh": "Lisa 這學期要編輯校刊。",
 "base": "editor",
 "answer": "edit"
 },
@@ -3478,7 +3478,7 @@
 ],
 "q": {
 "en": "Ben wants to get a good education at a famous university.",
-"zh": "Ben想在一所知名大學接受良好的教育。",
+"zh": "Ben 想在一所知名大學接受良好的教育。",
 "base": "educational",
 "answer": "education"
 },
@@ -3501,7 +3501,7 @@
 ],
 "q": {
 "en": "Kevin finished his homework efficiently by making a list first.",
-"zh": "Kevin先列清單，有效率地完成了作業。",
+"zh": "Kevin 先列清單，有效率地完成了作業。",
 "base": "efficient",
 "answer": "efficiently"
 },
@@ -3564,7 +3564,7 @@
 [
 "electric",
 "adj.",
-"電的"
+"電的；電動的"
 ],
 [
 "electrical",
@@ -3592,7 +3592,7 @@
 ],
 "q": {
 "en": "Ben likes to repair old electronics in his free time.",
-"zh": "Ben空閒時喜歡修理舊的電子產品。",
+"zh": "Ben 空閒時喜歡修理舊的電子產品。",
 "base": "electronic",
 "answer": "electronics"
 },
@@ -3631,12 +3631,12 @@
 [
 "emotionally",
 "adv.",
-"情緒上地"
+"情緒上；激動地"
 ]
 ],
 "q": {
 "en": "Amy could not hide her emotion when she read the letter.",
-"zh": "Amy讀信時無法掩飾她的情緒。",
+"zh": "Amy 讀信時無法掩飾她的情緒。",
 "base": "emotional",
 "answer": "emotion"
 },
@@ -3666,12 +3666,12 @@
 [
 "unable",
 "adj.",
-"無法的"
+"不能的"
 ]
 ],
 "q": {
 "en": "Kevin is unable to come to class because he has a fever.",
-"zh": "Kevin發燒了，所以無法來上課。",
+"zh": "Kevin 發燒了，所以無法來上課。",
 "base": "enable",
 "answer": "unable"
 },
@@ -3719,7 +3719,7 @@
 ],
 "q": {
 "en": "Lisa will enjoy the school trip to the science museum.",
-"zh": "Lisa會喜歡這趟到科學博物館的校外教學。",
+"zh": "Lisa 會喜歡這趟到科學博物館的校外教學。",
 "base": "enjoyable",
 "answer": "enjoy"
 },
@@ -3765,7 +3765,7 @@
 ],
 "q": {
 "en": "Ben felt envious when he saw Kevin's new bicycle.",
-"zh": "Ben看到Kevin的新腳踏車時覺得很羨慕。",
+"zh": "Ben 看到 Kevin 的新腳踏車時覺得很羨慕。",
 "base": "envy",
 "answer": "envious"
 },
@@ -3783,7 +3783,7 @@
 ],
 "q": {
 "en": "Can I borrow your eraser to fix my mistake?",
-"zh": "我可以借你的橡皮擦來改正我的錯誤嗎？",
+"zh": "我可以借你的橡皮擦，把寫錯的地方擦掉嗎？",
 "base": "erase",
 "answer": "eraser"
 },
@@ -3806,7 +3806,7 @@
 ],
 "q": {
 "en": "Amy got an excellent score on the English exam.",
-"zh": "Amy在英文考試中得到了很棒的成績。",
+"zh": "Amy 在英文考試中得到了很棒的成績。",
 "base": "excellence",
 "answer": "excellent"
 },
@@ -3854,7 +3854,7 @@
 ],
 "q": {
 "en": "Kevin did not expect to see his teacher at the night market.",
-"zh": "Kevin沒想到會在夜市遇到他的老師。",
+"zh": "Kevin 沒想到會在夜市遇到他的老師。",
 "base": "expectation",
 "answer": "expect"
 },
@@ -3948,7 +3948,7 @@
 ],
 "q": {
 "en": "Mr. Chen's face had a happy expression as he read the news.",
-"zh": "Mr. Chen讀到那則消息時，臉上露出開心的表情。",
+"zh": "Mr. Chen 讀到那則消息時，臉上露出開心的表情。",
 "base": "expressive",
 "answer": "expression"
 },
@@ -4058,7 +4058,7 @@
 ],
 "q": {
 "en": "Ben felt lost in the unfamiliar city on his first day.",
-"zh": "Ben第一天在陌生的城市裡覺得迷路了。",
+"zh": "Ben 第一天在陌生的城市裡感到很茫然。",
 "base": "familiar",
 "answer": "unfamiliar"
 },
@@ -4108,7 +4108,7 @@
 ],
 "q": {
 "en": "Amy loves to read magazines about fashion and style.",
-"zh": "Amy喜歡看關於時尚和風格的雜誌。",
+"zh": "Amy 喜歡看關於時尚和風格的雜誌。",
 "base": "fashionable",
 "answer": "fashion"
 },
@@ -4138,7 +4138,7 @@
 ],
 "q": {
 "en": "Kevin felt fear as the roller coaster climbed higher.",
-"zh": "雲霄飛車往上爬升時，Kevin感到害怕。",
+"zh": "雲霄飛車往上爬升時，Kevin 感到害怕。",
 "base": "fearful",
 "answer": "fear"
 },
@@ -4339,7 +4339,7 @@
 ],
 "q": {
 "en": "Amy was fortunate to find her lost wallet at the bus stop.",
-"zh": "Amy很幸運，在公車站找到了她弄丟的錢包。",
+"zh": "Amy 很幸運，在公車站找到了她弄丟的錢包。",
 "base": "fortune",
 "answer": "fortunate"
 },
@@ -4376,7 +4376,7 @@
 ],
 "q": {
 "en": "Lisa bought a pack of frozen dumplings from the supermarket.",
-"zh": "Lisa在超市買了一包冷凍水餃。",
+"zh": "Lisa 在超市買了一包冷凍水餃。",
 "base": "freeze",
 "answer": "frozen"
 },
@@ -4417,7 +4417,7 @@
 ],
 "q": {
 "en": "Ben frequently visits the library after school to read books.",
-"zh": "Ben放學後經常去圖書館看書。",
+"zh": "Ben 放學後經常去圖書館看書。",
 "base": "frequent",
 "answer": "frequently"
 },
@@ -4445,7 +4445,7 @@
 ],
 "q": {
 "en": "The movie was so frightening that Lisa closed her eyes.",
-"zh": "那部電影太可怕了，Lisa把眼睛閉了起來。",
+"zh": "那部電影太可怕了，Lisa 把眼睛閉了起來。",
 "base": "fright",
 "answer": "frightening"
 },
@@ -4473,7 +4473,7 @@
 ],
 "q": {
 "en": "Amy was frightened by the loud thunder last night.",
-"zh": "昨晚的大雷聲把Amy嚇壞了。",
+"zh": "昨晚的大雷聲把 Amy 嚇壞了。",
 "base": "frighten",
 "answer": "frightened"
 },
@@ -4505,7 +4505,7 @@
 ],
 "q": {
 "en": "Lisa loves petting her neighbor's furry white cat.",
-"zh": "Lisa喜歡摸鄰居那隻毛茸茸的白貓。",
+"zh": "Lisa 喜歡摸鄰居那隻毛茸茸的白貓。",
 "base": "fur",
 "answer": "furry"
 },
@@ -4570,7 +4570,7 @@
 ],
 "q": {
 "en": "Mr. Chen showed us a geographical map of Taiwan.",
-"zh": "Mr. Chen給我們看了一張台灣的地理地圖。",
+"zh": "陳老師給我們看了一張台灣的地理地圖。",
 "base": "geography",
 "answer": "geographical"
 },
@@ -4607,7 +4607,7 @@
 ],
 "q": {
 "en": "Ben pointed to Taiwan on the globe in the classroom.",
-"zh": "Ben在教室的地球儀上指出台灣的位置。",
+"zh": "Ben 在教室的地球儀上指出台灣的位置。",
 "base": "global",
 "answer": "globe"
 },
@@ -4625,7 +4625,7 @@
 ],
 "q": {
 "en": "We had a glorious sunny day for the school sports meet.",
-"zh": "我們的運動會碰上了一個陽光燦爛的好天氣。",
+"zh": "我們的運動會碰上了陽光燦爛的好天氣。",
 "base": "glory",
 "answer": "glorious"
 },
@@ -4689,12 +4689,12 @@
 [
 "graduation",
 "n.",
-"畢業"
+"畢業；畢業典禮"
 ]
 ],
 "q": {
 "en": "Amy's family will attend her graduation on Friday morning.",
-"zh": "Amy的家人星期五早上會參加她的畢業典禮。",
+"zh": "Amy 的家人星期五早上會參加她的畢業典禮。",
 "base": "graduate",
 "answer": "graduation"
 },
@@ -4726,7 +4726,7 @@
 ],
 "q": {
 "en": "Kevin lay on the grass and watched the clouds.",
-"zh": "Kevin躺在草地上看著雲。",
+"zh": "Kevin 躺在草地上看著雲。",
 "base": "grassy",
 "answer": "grass"
 },
@@ -4794,7 +4794,7 @@
 ],
 "q": {
 "en": "Our tour guide told us many interesting stories about the museum.",
-"zh": "我們的導遊告訴了我們許多關於這間博物館的有趣故事。",
+"zh": "我們的導遊跟我們講了這間博物館的許多有趣故事。",
 "base": "guidance",
 "answer": "guide"
 },
@@ -4933,7 +4933,7 @@
 ],
 "q": {
 "en": "Ben hastily packed his bag and ran out to catch the bus.",
-"zh": "班匆匆收拾書包，跑出去趕公車。",
+"zh": "Ben 匆匆收拾書包，跑出去趕公車。",
 "base": "hasty",
 "answer": "hastily"
 },
@@ -4963,7 +4963,7 @@
 ],
 "q": {
 "en": "Amy felt no hatred toward her classmate, even after the argument.",
-"zh": "即使在爭吵之後，艾美對她的同學也沒有任何恨意。",
+"zh": "即使在爭吵之後，Amy 對她的同學也沒有任何恨意。",
 "base": "hateful",
 "answer": "hatred"
 },
@@ -5060,7 +5060,7 @@
 ],
 "q": {
 "en": "Lisa answered without hesitation because she knew the answer well.",
-"zh": "麗莎毫不猶豫地回答，因為她很清楚答案。",
+"zh": "Lisa 毫不猶豫地回答，因為她很清楚答案。",
 "base": "hesitate",
 "answer": "hesitation"
 },
@@ -5120,7 +5120,7 @@
 ],
 "q": {
 "en": "Amy enjoys reading historical novels about ancient China.",
-"zh": "艾美喜歡閱讀以中國古代為背景的歷史小說。",
+"zh": "Amy 喜歡閱讀以中國古代為背景的歷史小說。",
 "base": "historic",
 "answer": "historical"
 },
@@ -5170,7 +5170,7 @@
 ],
 "q": {
 "en": "Kevin suffered from homesickness on his first night at the dormitory.",
-"zh": "凱文在宿舍的第一晚飽受思鄉之苦。",
+"zh": "Kevin 在宿舍的第一晚飽受思鄉之苦。",
 "base": "homesick",
 "answer": "homesickness"
 },
@@ -5205,7 +5205,7 @@
 ],
 "q": {
 "en": "Amy is an honest girl who always returns lost money.",
-"zh": "艾美是個誠實的女孩，總是把撿到的錢歸還。",
+"zh": "Amy 是個誠實的女孩，總是把撿到的錢歸還。",
 "base": "honesty",
 "answer": "honest"
 },
@@ -5251,7 +5251,7 @@
 ],
 "q": {
 "en": "Ben felt hopeless after failing the math test three times.",
-"zh": "班的數學考試連續三次不及格，讓他感到絕望。",
+"zh": "Ben 的數學考試連續三次不及格，讓他感到絕望。",
 "base": "hopeful",
 "answer": "hopeless"
 },
@@ -5281,7 +5281,7 @@
 ],
 "q": {
 "en": "Lisa screamed in horror when she saw a big spider.",
-"zh": "麗莎看到一隻大蜘蛛時嚇得尖叫。",
+"zh": "Lisa 看到一隻大蜘蛛時嚇得尖叫。",
 "base": "horrible",
 "answer": "horror"
 },
@@ -5294,12 +5294,12 @@
 [
 "horrible",
 "adj.",
-"可怕的"
+"可怕的；糟透的"
 ]
 ],
 "q": {
 "en": "The food in the cafeteria smelled horrible today, so Amy skipped lunch.",
-"zh": "今天餐廳的食物聞起來很糟，所以艾美沒吃午餐。",
+"zh": "今天餐廳的食物聞起來很糟，所以 Amy 沒吃午餐。",
 "base": "horror",
 "answer": "horrible"
 },
@@ -5392,7 +5392,7 @@
 ],
 "q": {
 "en": "Kevin has a good sense of humor, so he makes everyone laugh.",
-"zh": "凱文很有幽默感，所以他總是逗得大家哈哈大笑。",
+"zh": "Kevin 很有幽默感，所以他總是逗得大家哈哈大笑。",
 "base": "humorous",
 "answer": "humor"
 },
@@ -5468,7 +5468,7 @@
 ],
 "q": {
 "en": "Amy is an imaginative girl who writes wonderful stories for the school magazine.",
-"zh": "艾美是個很有想像力的女孩，為校刊寫了很棒的故事。",
+"zh": "Amy 是個很有想像力的女孩，為校刊寫了很棒的故事。",
 "base": "imagination",
 "answer": "imaginative"
 },
@@ -5516,7 +5516,7 @@
 ],
 "q": {
 "en": "Lisa gave an impressive speech at the English contest yesterday.",
-"zh": "麗莎昨天在英語比賽中發表了一場令人印象深刻的演講。",
+"zh": "Lisa 昨天在英語比賽中發表了一場令人印象深刻的演講。",
 "base": "impress",
 "answer": "impressive"
 },
@@ -5603,7 +5603,7 @@
 ],
 "q": {
 "en": "Amy felt a sense of inferiority when she saw her classmate's perfect score.",
-"zh": "艾美看到同學的滿分成績時，心裡感到自卑。",
+"zh": "Amy 看到同學的滿分成績時，心裡感到自卑。",
 "base": "inferior",
 "answer": "inferiority"
 },
@@ -5649,7 +5649,7 @@
 ],
 "q": {
 "en": "Please inform your parents about the meeting on Friday afternoon.",
-"zh": "請通知你的父母星期五下午的會議。",
+"zh": "請通知你的父母，星期五下午有一場會議。",
 "base": "information",
 "answer": "inform"
 },
@@ -5697,7 +5697,7 @@
 ],
 "q": {
 "en": "Kevin wore a warm outer coat over his school uniform.",
-"zh": "凱文在制服外面穿了一件保暖的外套。",
+"zh": "Kevin 在制服外面穿了一件保暖的外套。",
 "base": "inner",
 "answer": "outer"
 },
@@ -5853,7 +5853,7 @@
 ],
 "q": {
 "en": "Lisa wants to invent a robot that can clean her room.",
-"zh": "麗莎想發明一台能打掃她房間的機器人。",
+"zh": "Lisa 想發明一台能打掃她房間的機器人。",
 "base": "inventor",
 "answer": "invent"
 },
@@ -5894,7 +5894,7 @@
 ],
 "q": {
 "en": "Amy decided to invite all her classmates to her birthday party.",
-"zh": "艾美決定邀請所有同學來參加她的生日派對。",
+"zh": "Amy 決定邀請所有同學來參加她的生日派對。",
 "base": "invitation",
 "answer": "invite"
 },
@@ -5947,7 +5947,7 @@
 ],
 "q": {
 "en": "Ben could not hide his jealousy when Kevin won the first prize.",
-"zh": "凱文得到第一名時，班藏不住心裡的忌妒。",
+"zh": "Kevin 得到第一名時，Ben 藏不住心裡的忌妒。",
 "base": "jealous",
 "answer": "jealousy"
 },
@@ -5991,7 +5991,7 @@
 ],
 "q": {
 "en": "Lisa's grandmother keeps her jewelry in a small wooden box.",
-"zh": "麗莎的奶奶把她的珠寶收在一個小木盒裡。",
+"zh": "Lisa 的奶奶把她的珠寶收在一個小木盒裡。",
 "base": "jewel",
 "answer": "jewelry"
 },
@@ -6057,7 +6057,7 @@
 ],
 "q": {
 "en": "Amy drinks a glass of orange juice every morning.",
-"zh": "艾美每天早上都喝一杯柳橙汁。",
+"zh": "Amy 每天早上都喝一杯柳橙汁。",
 "base": "juicy",
 "answer": "juice"
 },
@@ -6221,7 +6221,7 @@
 ],
 "q": {
 "en": "Kevin was late for school because he missed the bus.",
-"zh": "凱文因為錯過公車而上學遲到。",
+"zh": "Kevin 因為錯過公車而上學遲到。",
 "base": "lately",
 "answer": "late"
 },
@@ -6239,7 +6239,7 @@
 ],
 "q": {
 "en": "Amy likes to laugh at Mr. Chen's funny jokes in class.",
-"zh": "艾美喜歡在課堂上對陳老師的笑話哈哈大笑。",
+"zh": "Amy 喜歡在課堂上被陳老師的笑話逗得哈哈大笑。",
 "base": "laughter",
 "answer": "laugh"
 },
@@ -6290,7 +6290,7 @@
 ],
 "q": {
 "en": "Kevin wants to learn how to play the guitar this summer.",
-"zh": "凱文今年夏天想學彈吉他。",
+"zh": "Kevin 今年夏天想學彈吉他。",
 "base": "learning",
 "answer": "learn"
 },
@@ -6333,7 +6333,7 @@
 ],
 "q": {
 "en": "Lisa put a slice of lemon in her cold tea.",
-"zh": "麗莎在她的冷茶裡放了一片檸檬。",
+"zh": "Lisa 在她的冷茶裡放了一片檸檬。",
 "base": "lemonade",
 "answer": "lemon"
 },
@@ -6510,7 +6510,7 @@
 ],
 "q": {
 "en": "Ben put his gym clothes in his locker before class.",
-"zh": "班上課前把他的運動服放進置物櫃。",
+"zh": "Ben 上課前把他的運動服放進置物櫃。",
 "base": "lock",
 "answer": "locker"
 },
@@ -6595,7 +6595,7 @@
 ],
 "q": {
 "en": "Amy has a great love for music and plays the piano well.",
-"zh": "艾美非常熱愛音樂，鋼琴也彈得很好。",
+"zh": "Amy 非常熱愛音樂，鋼琴也彈得很好。",
 "base": "lover",
 "answer": "love"
 },
@@ -6645,7 +6645,7 @@
 [
 "magic",
 "n.",
-"魔術"
+"魔術；魔法"
 ],
 [
 "magical",
@@ -6655,7 +6655,7 @@
 ],
 "q": {
 "en": "Kevin learned a card trick, and his friends thought it was pure magic.",
-"zh": "凱文學會了一個紙牌戲法，他的朋友們覺得簡直是魔術。",
+"zh": "Kevin 學會了一個紙牌戲法，他的朋友們覺得簡直像魔法一樣。",
 "base": "magician",
 "answer": "magic"
 },
@@ -6768,7 +6768,7 @@
 ],
 "q": {
 "en": "Amy is good at mathematics and wants to study it in college.",
-"zh": "艾美擅長數學，想在大學主修數學。",
+"zh": "Amy 擅長數學，想在大學主修數學。",
 "base": "mathematical",
 "answer": "mathematics"
 },
@@ -6810,7 +6810,7 @@
 ],
 "q": {
 "en": "Kevin thought the long speech was meaningless and boring.",
-"zh": "凱文覺得那場冗長的演講毫無意義又無聊。",
+"zh": "Kevin 覺得那場冗長的演講毫無意義又無聊。",
 "base": "meaningful",
 "answer": "meaningless"
 },
@@ -6895,7 +6895,7 @@
 ],
 "q": {
 "en": "Ben's desk is so messy that he cannot find his pen.",
-"zh": "班的書桌太亂了，他找不到他的筆。",
+"zh": "Ben 的書桌太亂了，他連筆都找不到。",
 "base": "mess",
 "answer": "messy"
 },
@@ -6954,12 +6954,12 @@
 [
 "miserable",
 "adj.",
-"悲慘的"
+"痛苦的；悲慘的"
 ]
 ],
 "q": {
 "en": "Kevin felt miserable when he lost his phone on the train.",
-"zh": "凱文在火車上弄丟手機時覺得很難過。",
+"zh": "Kevin 在火車上弄丟手機時覺得很難過。",
 "base": "misery",
 "answer": "miserable"
 },
@@ -7036,7 +7036,7 @@
 [
 "moisture",
 "n.",
-"濕氣"
+"濕氣；水分"
 ]
 ],
 "q": {
@@ -7134,7 +7134,7 @@
 ],
 "q": {
 "en": "Kevin spends most of his weekends at the library with friends.",
-"zh": "凱文大部分的週末都和朋友待在圖書館。",
+"zh": "Kevin 大部分的週末都和朋友待在圖書館。",
 "base": "mostly",
 "answer": "most"
 },
@@ -7166,7 +7166,7 @@
 ],
 "q": {
 "en": "Kevin's father rides a motorcycle to work every day.",
-"zh": "凱文的爸爸每天騎機車上班。",
+"zh": "Kevin 的爸爸每天騎機車上班。",
 "base": "motor",
 "answer": "motorcycle"
 },
@@ -7184,7 +7184,7 @@
 ],
 "q": {
 "en": "Lisa finds multiplication easier than division in math class.",
-"zh": "麗莎覺得數學課裡乘法比除法簡單。",
+"zh": "Lisa 覺得數學課裡乘法比除法簡單。",
 "base": "multiply",
 "answer": "multiplication"
 },
@@ -7245,7 +7245,7 @@
 ],
 "q": {
 "en": "Ben found a mysterious letter under his desk this morning.",
-"zh": "班今天早上在書桌下發現了一封神祕的信。",
+"zh": "Ben 今天早上在書桌下發現了一封神祕的信。",
 "base": "mystery",
 "answer": "mysterious"
 },
@@ -7319,7 +7319,7 @@
 ],
 "q": {
 "en": "Lisa folded her clothes neatly and put them in the drawer.",
-"zh": "麗莎把衣服摺得整整齊齊，放進抽屜裡。",
+"zh": "Lisa 把衣服摺得整整齊齊，放進抽屜裡。",
 "base": "neat",
 "answer": "neatly"
 },
@@ -7409,7 +7409,7 @@
 ],
 "q": {
 "en": "Kevin normally gets up at six and walks to school.",
-"zh": "凱文通常六點起床，然後走路上學。",
+"zh": "Kevin 通常六點起床，然後走路上學。",
 "base": "normal",
 "answer": "normally"
 },
@@ -7427,7 +7427,7 @@
 ],
 "q": {
 "en": "Amy borrowed a long novel from the school library yesterday.",
-"zh": "艾美昨天從學校圖書館借了一本很長的小說。",
+"zh": "Amy 昨天從學校圖書館借了一本很長的小說。",
 "base": "novelist",
 "answer": "novel"
 },
@@ -7487,7 +7487,7 @@
 ],
 "q": {
 "en": "Kevin occasionally plays computer games after he finishes his homework.",
-"zh": "凱文寫完功課後偶爾會玩電腦遊戲。",
+"zh": "Kevin 寫完功課後偶爾會玩電腦遊戲。",
 "base": "occasion",
 "answer": "occasionally"
 },
@@ -7668,7 +7668,7 @@
 ],
 "q": {
 "en": "Amy joined an organization that helps stray dogs in her town.",
-"zh": "艾美加入了一個幫助鎮上流浪狗的組織。",
+"zh": "Amy 加入了一個幫助鎮上流浪狗的組織。",
 "base": "organize",
 "answer": "organization"
 },
@@ -7737,7 +7737,7 @@
 ],
 "q": {
 "en": "Kevin enjoys outdoor activities such as hiking and cycling.",
-"zh": "凱文喜歡爬山和騎車之類的戶外活動。",
+"zh": "Kevin 喜歡爬山和騎車之類的戶外活動。",
 "base": "outdoors",
 "answer": "outdoor"
 },
@@ -7754,8 +7754,8 @@
 ]
 ],
 "q": {
-"en": "Lisa wrote her secret wish on the inner page of her notebook.",
-"zh": "麗莎把她的秘密願望寫在筆記本的內頁上。",
+"en": "Lisa wrote her secret wish on an inner page of her notebook.",
+"zh": "Lisa 把她的祕密願望寫在筆記本的內頁上。",
 "base": "outer",
 "answer": "inner"
 },
@@ -7813,7 +7813,7 @@
 ],
 "q": {
 "en": "The owner of the bookstore gave Amy a small gift.",
-"zh": "書店老闆送了艾美一份小禮物。",
+"zh": "書店老闆送了 Amy 一份小禮物。",
 "base": "ownership",
 "answer": "owner"
 },
@@ -7931,7 +7931,7 @@
 ],
 "q": {
 "en": "Kevin studied hard to pass the English exam last week.",
-"zh": "凱文很用功讀書，為了通過上週的英文考試。",
+"zh": "Kevin 為了通過上週的英文考試，很用功讀書。",
 "base": "passage",
 "answer": "pass"
 },
@@ -7961,7 +7961,7 @@
 ],
 "q": {
 "en": "Lisa is passionate about painting and practices every weekend.",
-"zh": "麗莎對繪畫充滿熱情，每個週末都練習。",
+"zh": "Lisa 對繪畫充滿熱情，每個週末都練習。",
 "base": "passion",
 "answer": "passionate"
 },
@@ -8118,7 +8118,7 @@
 ],
 "q": {
 "en": "Amy will perform a dance on the stage tomorrow evening.",
-"zh": "艾美明天晚上要在舞台上表演一支舞。",
+"zh": "Amy 明天晚上要在舞台上表演一支舞。",
 "base": "performance",
 "answer": "perform"
 },
@@ -8154,7 +8154,7 @@
 ],
 "q": {
 "en": "You must ask your teacher for permission before leaving the room.",
-"zh": "離開教室之前，你必須先得到老師的許可。",
+"zh": "離開教室之前，你必須先徵求老師的許可。",
 "base": "permit",
 "answer": "permission"
 },
@@ -8177,7 +8177,7 @@
 ],
 "q": {
 "en": "Kevin gave a persuasive speech, and many classmates agreed with him.",
-"zh": "凱文發表了一場很有說服力的演講，許多同學都同意他。",
+"zh": "Kevin 發表了一場很有說服力的演講，許多同學都認同他的看法。",
 "base": "persuade",
 "answer": "persuasive"
 },
@@ -8200,7 +8200,7 @@
 ],
 "q": {
 "en": "Amy joined the photography club to learn how to take better pictures.",
-"zh": "艾美加入攝影社，想學習怎麼拍出更好的照片。",
+"zh": "Amy 加入攝影社，想學習怎麼拍出更好的照片。",
 "base": "photographer",
 "answer": "photography"
 },
@@ -8274,7 +8274,7 @@
 ],
 "q": {
 "en": "Ben is the pitcher of our school baseball team.",
-"zh": "班是我們學校棒球隊的投手。",
+"zh": "Ben 是我們學校棒球隊的投手。",
 "base": "pitch",
 "answer": "pitcher"
 },
@@ -8317,7 +8317,7 @@
 [
 "playfully",
 "adv.",
-"愛玩地"
+"嬉戲地；開玩笑地"
 ]
 ],
 "q": {
@@ -8354,7 +8354,7 @@
 ],
 "q": {
 "en": "Lisa watched a film about polar bears in science class.",
-"zh": "麗莎在自然課看了一部關於北極熊的影片。",
+"zh": "Lisa 在自然課看了一部關於北極熊的影片。",
 "base": "pole",
 "answer": "polar"
 },
@@ -8564,12 +8564,12 @@
 [
 "practically",
 "adv.",
-"實際上"
+"幾乎；實際上"
 ]
 ],
 "q": {
 "en": "Lisa needs more practice before the English speech contest next week.",
-"zh": "麗莎在下週的英語演講比賽前需要多練習。",
+"zh": "Lisa 在下週的英語演講比賽前需要多練習。",
 "base": "practical",
 "answer": "practice"
 },
@@ -8599,7 +8599,7 @@
 ],
 "q": {
 "en": "Amy is busy trying to prepare for the final exam.",
-"zh": "艾美正忙著準備期末考。",
+"zh": "Amy 正忙著準備期末考。",
 "base": "preparation",
 "answer": "prepare"
 },
@@ -8670,7 +8670,7 @@
 ],
 "q": {
 "en": "Kevin had previously visited Japan, so he guided us around the city.",
-"zh": "凱文之前去過日本，所以他帶我們逛遍那座城市。",
+"zh": "Kevin 之前去過日本，所以他帶我們在那座城市四處逛逛。",
 "base": "previous",
 "answer": "previously"
 },
@@ -8774,12 +8774,12 @@
 [
 "professional",
 "adj.",
-"專業的"
+"專業的；職業的"
 ]
 ],
 "q": {
 "en": "Kevin dreams of becoming a professional basketball player one day.",
-"zh": "凱文夢想有一天成為職業籃球員。",
+"zh": "Kevin 夢想有一天成為職業籃球員。",
 "base": "professor",
 "answer": "professional"
 },
@@ -8815,7 +8815,7 @@
 ],
 "q": {
 "en": "Lisa's father got a promotion at his company last month.",
-"zh": "麗莎的爸爸上個月在公司獲得升遷。",
+"zh": "Lisa 的爸爸上個月在公司獲得升遷。",
 "base": "promote",
 "answer": "promotion"
 },
@@ -8833,7 +8833,7 @@
 ],
 "q": {
 "en": "Amy practices her English pronunciation by reading aloud every day.",
-"zh": "艾美每天朗讀來練習她的英語發音。",
+"zh": "Amy 每天朗讀來練習她的英語發音。",
 "base": "pronounce",
 "answer": "pronunciation"
 },
@@ -8994,7 +8994,7 @@
 ],
 "q": {
 "en": "Ben ran fast and won the race at our sports day.",
-"zh": "班跑得很快，在我們的運動會上贏得了賽跑。",
+"zh": "Ben 跑得很快，在我們的運動會上贏得了賽跑。",
 "base": "racial",
 "answer": "race"
 },
@@ -9095,7 +9095,7 @@
 ],
 "q": {
 "en": "Kevin gave a good reason for being late to class.",
-"zh": "凱文為他上課遲到提出了一個好理由。",
+"zh": "Kevin 為他上課遲到提出了一個好理由。",
 "base": "reasonable",
 "answer": "reason"
 },
@@ -9113,7 +9113,7 @@
 ],
 "q": {
 "en": "Amy hopes to receive a postcard from her friend in Japan.",
-"zh": "艾美希望能收到她日本朋友寄來的明信片。",
+"zh": "Amy 希望能收到她日本朋友寄來的明信片。",
 "base": "receipt",
 "answer": "receive"
 },
@@ -9177,7 +9177,7 @@
 ],
 "q": {
 "en": "Lisa made a recording of her piano music for her grandmother.",
-"zh": "麗莎為她奶奶錄了一段她彈的鋼琴曲。",
+"zh": "Lisa 錄了一段自己彈的鋼琴曲給奶奶聽。",
 "base": "recorder",
 "answer": "recording"
 },
@@ -9296,7 +9296,7 @@
 ],
 "q": {
 "en": "You can rely on Amy to finish the group report on time.",
-"zh": "你可以放心讓艾美準時完成小組報告。",
+"zh": "你可以信賴 Amy，她會準時完成小組報告。",
 "base": "reliable",
 "answer": "rely"
 },
@@ -9319,7 +9319,7 @@
 ],
 "q": {
 "en": "Kevin felt relieved after he handed in his final report.",
-"zh": "凱文交出期末報告之後鬆了一口氣。",
+"zh": "Kevin 交出期末報告之後鬆了一口氣。",
 "base": "relief",
 "answer": "relieved"
 },
@@ -9355,7 +9355,7 @@
 ],
 "q": {
 "en": "Ben is a reliable friend who always keeps his promises.",
-"zh": "班是個可靠的朋友，總是信守承諾。",
+"zh": "Ben 是個可靠的朋友，總是信守承諾。",
 "base": "rely",
 "answer": "reliable"
 },
@@ -9378,7 +9378,7 @@
 ],
 "q": {
 "en": "Please finish the remaining homework before you play games.",
-"zh": "在你玩遊戲之前，請先寫完剩下的功課。",
+"zh": "玩遊戲之前，請先寫完剩下的功課。",
 "base": "remain",
 "answer": "remaining"
 },
@@ -9434,12 +9434,12 @@
 [
 "representative",
 "adj./n.",
-"代表"
+"代表性的；代表"
 ]
 ],
 "q": {
 "en": "Amy was chosen as the class representative for the school meeting.",
-"zh": "艾美被選為班級代表去參加校務會議。",
+"zh": "Amy 被選為班級代表去參加校務會議。",
 "base": "represent",
 "answer": "representative"
 },
@@ -9457,7 +9457,7 @@
 ],
 "q": {
 "en": "Kevin will represent our school in the speech contest next month.",
-"zh": "凱文下個月將代表我們學校參加演講比賽。",
+"zh": "Kevin 下個月將代表我們學校參加演講比賽。",
 "base": "representative",
 "answer": "represent"
 },
@@ -9494,7 +9494,7 @@
 ],
 "q": {
 "en": "Mr. Chen made a reservation at a small restaurant for dinner.",
-"zh": "陳老師為晚餐在一間小餐廳訂了位。",
+"zh": "陳老師在一間小餐廳訂了晚餐的位子。",
 "base": "reserve",
 "answer": "reservation"
 },
@@ -9512,12 +9512,12 @@
 [
 "resistant",
 "adj.",
-"抵抗的"
+"有抵抗力的；抗拒的"
 ]
 ],
 "q": {
 "en": "The team put up strong resistance, but they still lost the game.",
-"zh": "球隊展現了強力的抵抗，但還是輸掉了比賽。",
+"zh": "球隊頑強抵抗，但還是輸掉了比賽。",
 "base": "resist",
 "answer": "resistance"
 },
@@ -9535,7 +9535,7 @@
 ],
 "q": {
 "en": "Lisa is a resourceful student who always finds a way to solve problems.",
-"zh": "麗莎是個足智多謀的學生，總能找到解決問題的方法。",
+"zh": "Lisa 是個足智多謀的學生，總能找到解決問題的方法。",
 "base": "resource",
 "answer": "resourceful"
 },
@@ -9581,7 +9581,7 @@
 ],
 "q": {
 "en": "Amy is responsible for watering the plants in our classroom.",
-"zh": "艾美負責幫我們教室的植物澆水。",
+"zh": "Amy 負責幫我們教室的植物澆水。",
 "base": "responsibility",
 "answer": "responsible"
 },
@@ -9745,7 +9745,7 @@
 ],
 "q": {
 "en": "The rotten apple smelled bad, so Amy threw it away.",
-"zh": "那顆爛蘋果聞起來很臭，所以艾美把它丟掉了。",
+"zh": "那顆爛蘋果聞起來很臭，所以 Amy 把它丟掉了。",
 "base": "rot",
 "answer": "rotten"
 },
@@ -9845,7 +9845,7 @@
 ],
 "q": {
 "en": "Ben's old bike is so rusty that it makes a loud noise.",
-"zh": "班的舊腳踏車鏽得很嚴重，會發出很大的聲音。",
+"zh": "Ben 的舊腳踏車鏽得很嚴重，會發出很大的聲音。",
 "base": "rust",
 "answer": "rusty"
 },
@@ -9894,7 +9894,7 @@
 ],
 "q": {
 "en": "Kevin was satisfied with his score on the English test.",
-"zh": "凱文對他的英文考試成績感到滿意。",
+"zh": "Kevin 對他的英文考試成績感到滿意。",
 "base": "satisfactory",
 "answer": "satisfied"
 },
@@ -9933,7 +9933,7 @@
 ],
 "q": {
 "en": "Amy tries to save a little money from her allowance every week.",
-"zh": "艾美每週都試著從零用錢裡存一點錢。",
+"zh": "Amy 每週都試著從零用錢裡存一點錢。",
 "base": "saving",
 "answer": "save"
 },
@@ -10013,7 +10013,7 @@
 ],
 "q": {
 "en": "Lisa won a scholarship because of her excellent grades.",
-"zh": "麗莎因為成績優異而獲得了獎學金。",
+"zh": "Lisa 因為成績優異而獲得了獎學金。",
 "base": "scholar",
 "answer": "scholarship"
 },
@@ -10059,7 +10059,7 @@
 ],
 "q": {
 "en": "Amy likes science class because she can do experiments.",
-"zh": "艾美喜歡自然課，因為可以做實驗。",
+"zh": "Amy 喜歡自然課，因為可以做實驗。",
 "base": "scientific",
 "answer": "science"
 },
@@ -10147,7 +10147,7 @@
 ],
 "q": {
 "en": "The new lock makes our bike room feel much more secure.",
-"zh": "新的鎖讓我們的腳踏車間感覺安全多了。",
+"zh": "新的鎖讓我們停放腳踏車的房間感覺安全多了。",
 "base": "security",
 "answer": "secure"
 },
@@ -10184,7 +10184,7 @@
 ],
 "q": {
 "en": "Ben sensibly saved part of his allowance for the school trip.",
-"zh": "班明智地把一部分零用錢存起來準備校外教學。",
+"zh": "Ben 明智地把一部分零用錢存起來準備校外教學。",
 "base": "sensible",
 "answer": "sensibly"
 },
@@ -10207,7 +10207,7 @@
 ],
 "q": {
 "en": "Amy and her sister study in separate classrooms this year.",
-"zh": "艾咪和她妹妹今年在不同的教室上課。",
+"zh": "Amy 和她妹妹今年在不同的教室上課。",
 "base": "separation",
 "answer": "separate"
 },
@@ -10267,7 +10267,7 @@
 ],
 "q": {
 "en": "Lisa polished her shoes until they began to shine.",
-"zh": "麗莎把鞋子擦到開始發亮。",
+"zh": "Lisa 把鞋子擦到發亮為止。",
 "base": "shiny",
 "answer": "shine"
 },
@@ -10285,7 +10285,7 @@
 ],
 "q": {
 "en": "Kevin's hair is quite short, so he does not need a haircut yet.",
-"zh": "凱文的頭髮還很短，所以他還不需要剪頭髮。",
+"zh": "Kevin 的頭髮還很短，所以他還不需要剪頭髮。",
 "base": "shorten",
 "answer": "short"
 },
@@ -10384,7 +10384,7 @@
 ],
 "q": {
 "en": "Lisa's new scarf feels soft and silky against her neck.",
-"zh": "麗莎的新圍巾貼在脖子上又軟又滑。",
+"zh": "Lisa 的新圍巾貼在脖子上又軟又滑。",
 "base": "silk",
 "answer": "silky"
 },
@@ -10407,7 +10407,7 @@
 ],
 "q": {
 "en": "Amy and her mother have similar taste in music.",
-"zh": "艾咪和她媽媽的音樂品味很相似。",
+"zh": "Amy 和她媽媽的音樂品味很相似。",
 "base": "similarity",
 "answer": "similar"
 },
@@ -10437,7 +10437,7 @@
 ],
 "q": {
 "en": "Ben sincerely thanked his teacher for helping him prepare for the exam.",
-"zh": "班誠心感謝老師幫助他準備考試。",
+"zh": "Ben 誠心感謝老師幫助他準備考試。",
 "base": "sincere",
 "answer": "sincerely"
 },
@@ -10481,7 +10481,7 @@
 ],
 "q": {
 "en": "Lisa enjoys skating at the park after school.",
-"zh": "麗莎喜歡放學後去公園溜冰。",
+"zh": "Lisa 喜歡放學後去公園溜冰。",
 "base": "skate",
 "answer": "skating"
 },
@@ -10504,7 +10504,7 @@
 ],
 "q": {
 "en": "Amy's brother is a very experienced skier who loves snow.",
-"zh": "艾咪的哥哥是個經驗豐富的滑雪者，非常喜歡雪。",
+"zh": "Amy 的哥哥是個經驗豐富的滑雪者，非常喜歡雪。",
 "base": "ski",
 "answer": "skier"
 },
@@ -10550,7 +10550,7 @@
 ],
 "q": {
 "en": "Ben put some cream on his dry skin after the swimming class.",
-"zh": "游泳課後，班在他乾燥的皮膚上擦了一些乳液。",
+"zh": "游泳課後，Ben 在他乾燥的皮膚上擦了一些乳液。",
 "base": "skinny",
 "answer": "skin"
 },
@@ -10588,7 +10588,7 @@
 ],
 "q": {
 "en": "It was so hot that Amy wore a sleeveless shirt to school.",
-"zh": "天氣太熱了，艾咪穿了無袖上衣去學校。",
+"zh": "天氣太熱了，Amy 穿了無袖上衣去學校。",
 "base": "sleeve",
 "answer": "sleeveless"
 },
@@ -10686,7 +10686,7 @@
 ],
 "q": {
 "en": "The old man looked sorrowful after hearing the sad news.",
-"zh": "老先生聽到那個壞消息後看起來很悲傷。",
+"zh": "老先生聽到那個令人難過的消息後看起來很悲傷。",
 "base": "sorrow",
 "answer": "sorrowful"
 },
@@ -10734,7 +10734,7 @@
 ],
 "q": {
 "en": "Kevin cannot eat spicy food because it hurts his stomach.",
-"zh": "凱文不能吃辣，因為會讓他胃痛。",
+"zh": "Kevin 不能吃辣，因為會讓他胃痛。",
 "base": "spice",
 "answer": "spicy"
 },
@@ -10845,7 +10845,7 @@
 ],
 "q": {
 "en": "A good job gives Kevin's family a sense of stability.",
-"zh": "一份好工作讓凱文一家人有安定感。",
+"zh": "一份好工作讓 Kevin 一家人有安定感。",
 "base": "stable",
 "answer": "stability"
 },
@@ -10921,7 +10921,7 @@
 ],
 "q": {
 "en": "Amy's grades have improved steadily since she joined the study group.",
-"zh": "自從艾咪加入讀書會，她的成績穩定進步。",
+"zh": "自從 Amy 加入讀書會，她的成績穩定進步。",
 "base": "steady",
 "answer": "steadily"
 },
@@ -11061,7 +11061,7 @@
 ],
 "q": {
 "en": "The coach made a strategic change to help the team win.",
-"zh": "教練做了一項策略性的調整，幫助球隊獲勝。",
+"zh": "教練做了一項策略性的調整，以幫助球隊獲勝。",
 "base": "strategy",
 "answer": "strategic"
 },
@@ -11091,7 +11091,7 @@
 ],
 "q": {
 "en": "Lisa lifts weights every day to strengthen her arm muscles.",
-"zh": "麗莎每天舉重來強化手臂肌肉。",
+"zh": "Lisa 每天舉重來強化手臂肌肉。",
 "base": "strength",
 "answer": "strengthen"
 },
@@ -11123,7 +11123,7 @@
 ],
 "q": {
 "en": "Ben stubbornly refused to admit that he had made a mistake.",
-"zh": "班固執地不肯承認自己犯了錯。",
+"zh": "Ben 固執地不肯承認自己犯了錯。",
 "base": "stubborn",
 "answer": "stubbornly"
 },
@@ -11155,7 +11155,7 @@
 ],
 "q": {
 "en": "Amy made a substantial effort to finish the project on time.",
-"zh": "艾咪下了很大的功夫，準時完成了專題。",
+"zh": "為了準時完成專題，Amy 下了很大的功夫。",
 "base": "substance",
 "answer": "substantial"
 },
@@ -11173,7 +11173,7 @@
 ],
 "q": {
 "en": "Our math teacher is explaining addition and subtraction to first graders today.",
-"zh": "我們的數學老師今天正在對一年級生解釋加法和減法。",
+"zh": "我們的數學老師今天在為一年級學生講解加法和減法。",
 "base": "subtract",
 "answer": "subtraction"
 },
@@ -11191,7 +11191,7 @@
 ],
 "q": {
 "en": "Kevin's family lives in a quiet suburban area near the river.",
-"zh": "凱文一家住在河邊安靜的郊區。",
+"zh": "Kevin 一家住在河邊安靜的郊區。",
 "base": "suburb",
 "answer": "suburban"
 },
@@ -11238,8 +11238,8 @@
 ]
 ],
 "q": {
-"en": "Lisa did not sleep sufficiently, so she felt tired in class.",
-"zh": "麗莎睡眠不足，所以上課時覺得很累。",
+"en": "Lisa was not sufficiently prepared for the test, so she felt nervous.",
+"zh": "Lisa 考試準備得不夠充分，所以覺得很緊張。",
 "base": "sufficient",
 "answer": "sufficiently"
 },
@@ -11282,7 +11282,7 @@
 ],
 "q": {
 "en": "Amy tried to summarize the whole chapter in one short paragraph.",
-"zh": "艾咪試著用一小段話概述整個章節。",
+"zh": "Amy 試著用一小段話概述整個章節。",
 "base": "summary",
 "answer": "summarize"
 },
@@ -11312,7 +11312,7 @@
 ],
 "q": {
 "en": "Kevin never shows any sense of superiority over his classmates.",
-"zh": "凱文從不對同學表現出優越感。",
+"zh": "Kevin 從不對同學表現出優越感。",
 "base": "superior",
 "answer": "superiority"
 },
@@ -11335,7 +11335,7 @@
 ],
 "q": {
 "en": "Amy took photos of the beautiful surroundings during the hiking trip.",
-"zh": "艾咪在健行途中拍了周遭美麗的環境。",
+"zh": "Amy 在健行途中拍下了周遭的美景。",
 "base": "surround",
 "answer": "surroundings"
 },
@@ -11443,7 +11443,7 @@
 ],
 "q": {
 "en": "Ben's shirt was sweaty after he ran around the playground.",
-"zh": "班繞著操場跑完後，襯衫都被汗濕了。",
+"zh": "Ben 繞著操場跑完後，襯衫都被汗濕了。",
 "base": "sweat",
 "answer": "sweaty"
 },
@@ -11461,7 +11461,7 @@
 ],
 "q": {
 "en": "Kevin put ice on the swelling around his ankle after the game.",
-"zh": "比賽後，凱文把冰塊敷在腳踝腫起來的地方。",
+"zh": "比賽後，Kevin 把冰塊敷在腳踝腫起來的地方。",
 "base": "swell",
 "answer": "swelling"
 },
@@ -11525,7 +11525,7 @@
 ],
 "q": {
 "en": "Amy is a talented singer who often performs at school events.",
-"zh": "艾咪是個很有天分的歌手，常在學校活動中表演。",
+"zh": "Amy 是個很有天分的歌手，常在學校活動中表演。",
 "base": "talent",
 "answer": "talented"
 },
@@ -11543,7 +11543,7 @@
 ],
 "q": {
 "en": "Ben likes to talk with his friends during lunch break.",
-"zh": "班喜歡在午休時間和朋友聊天。",
+"zh": "Ben 喜歡在午休時間和朋友聊天。",
 "base": "talkative",
 "answer": "talk"
 },
@@ -11589,7 +11589,7 @@
 ],
 "q": {
 "en": "This soup has a strange taste, so Lisa did not finish it.",
-"zh": "這碗湯的味道很怪，所以麗莎沒有喝完。",
+"zh": "這碗湯的味道很怪，所以 Lisa 沒有喝完。",
 "base": "tasty",
 "answer": "taste"
 },
@@ -11647,7 +11647,7 @@
 ],
 "q": {
 "en": "Kevin called a technician to fix the broken projector.",
-"zh": "凱文叫了技術人員來修理壞掉的投影機。",
+"zh": "Kevin 叫了技術人員來修理壞掉的投影機。",
 "base": "technique",
 "answer": "technician"
 },
@@ -11665,7 +11665,7 @@
 ],
 "q": {
 "en": "Lisa is a typical teenager who loves music and sports.",
-"zh": "麗莎是個典型的青少年，熱愛音樂和運動。",
+"zh": "Lisa 是個典型的青少年，熱愛音樂和運動。",
 "base": "teenage",
 "answer": "teenager"
 },
@@ -11708,7 +11708,7 @@
 ],
 "q": {
 "en": "Ben has a tendency to forget his umbrella on rainy days.",
-"zh": "班下雨天有忘記帶傘的習慣。",
+"zh": "Ben 下雨天有忘記帶傘的習慣。",
 "base": "tend",
 "answer": "tendency"
 },
@@ -11764,7 +11764,7 @@
 ],
 "q": {
 "en": "Amy wanted to thank her teacher for all the help.",
-"zh": "艾咪想感謝老師的所有幫助。",
+"zh": "Amy 想感謝老師的所有幫助。",
 "base": "thankful",
 "answer": "thank"
 },
@@ -11789,7 +11789,7 @@
 ],
 "q": {
 "en": "Kevin felt thirsty after playing basketball in the hot sun.",
-"zh": "凱文在大太陽下打完籃球後覺得口渴。",
+"zh": "Kevin 在大太陽下打完籃球後覺得口渴。",
 "base": "thirst",
 "answer": "thirsty"
 },
@@ -11874,7 +11874,7 @@
 ],
 "q": {
 "en": "Amy held her little brother's hand tightly in the crowded market.",
-"zh": "在擁擠的市場裡，艾咪緊緊握著弟弟的手。",
+"zh": "在擁擠的市場裡，Amy 緊緊握著弟弟的手。",
 "base": "tight",
 "answer": "tightly"
 },
@@ -11897,7 +11897,7 @@
 ],
 "q": {
 "en": "These jeans are too tight, so Ben needs a bigger size.",
-"zh": "這件牛仔褲太緊了，所以班需要大一點的尺寸。",
+"zh": "這件牛仔褲太緊了，所以 Ben 需要大一點的尺寸。",
 "base": "tighten",
 "answer": "tight"
 },
@@ -11955,7 +11955,7 @@
 ],
 "q": {
 "en": "Lisa joined a three-day tour of southern Taiwan with her class.",
-"zh": "麗莎和班上同學參加了三天的南台灣之旅。",
+"zh": "Lisa 和班上同學參加了三天的南台灣之旅。",
 "base": "tourism",
 "answer": "tour"
 },
@@ -11978,7 +11978,7 @@
 ],
 "q": {
 "en": "Kevin's uncle works in the tourism industry in Hualien.",
-"zh": "凱文的叔叔在花蓮的觀光業工作。",
+"zh": "Kevin 的叔叔在花蓮的觀光業工作。",
 "base": "tourist",
 "answer": "tourism"
 },
@@ -12060,7 +12060,7 @@
 ],
 "q": {
 "en": "Ben likes to travel to different cities during summer vacation.",
-"zh": "班喜歡在暑假到不同的城市旅行。",
+"zh": "Ben 喜歡在暑假到不同的城市旅行。",
 "base": "traveler",
 "answer": "travel"
 },
@@ -12085,7 +12085,7 @@
 ],
 "q": {
 "en": "Amy bought a trendy backpack at the night market.",
-"zh": "艾咪在夜市買了一個很流行的背包。",
+"zh": "Amy 在夜市買了一個很流行的背包。",
 "base": "trend",
 "answer": "trendy"
 },
@@ -12172,7 +12172,7 @@
 ],
 "q": {
 "en": "Please tell me the truth about what happened to the window.",
-"zh": "關於窗戶發生了什麼事，請告訴我真相。",
+"zh": "窗戶到底發生了什麼事？請告訴我真相。",
 "base": "truthful",
 "answer": "truth"
 },
@@ -12322,7 +12322,7 @@
 ],
 "q": {
 "en": "Let's unite our efforts to make the school festival a success.",
-"zh": "讓我們團結力量，讓校慶成功。",
+"zh": "讓我們同心協力，把校慶辦得圓滿成功。",
 "base": "unity",
 "answer": "unite"
 },
@@ -12559,7 +12559,7 @@
 ],
 "q": {
 "en": "Amy has good visual memory, so she remembers faces easily.",
-"zh": "艾咪的視覺記憶很好，所以很容易記住人臉。",
+"zh": "Amy 的視覺記憶很好，所以很容易記住人臉。",
 "base": "vision",
 "answer": "visual"
 },
@@ -12584,7 +12584,7 @@
 ],
 "q": {
 "en": "Ben still remembers the school trip vividly after ten years.",
-"zh": "十年後，班仍然清楚記得那次校外教學。",
+"zh": "十年後，Ben 仍然清楚記得那次校外教學。",
 "base": "vivid",
 "answer": "vividly"
 },
@@ -12667,7 +12667,7 @@
 ],
 "q": {
 "en": "Lisa's grandmother greeted us warmly at the door.",
-"zh": "麗莎的奶奶在門口熱情地招呼我們。",
+"zh": "Lisa 的奶奶在門口熱情地招呼我們。",
 "base": "warmth",
 "answer": "warmly"
 },
@@ -12722,7 +12722,7 @@
 ],
 "q": {
 "en": "Kevin felt weak after having a fever for three days.",
-"zh": "凱文發燒三天後覺得很虛弱。",
+"zh": "Kevin 發燒三天後覺得很虛弱。",
 "base": "weaken",
 "answer": "weak"
 },
@@ -12779,7 +12779,7 @@
 ],
 "q": {
 "en": "Amy was a flower girl at her cousin's wedding last month.",
-"zh": "艾咪上個月在表姊的婚禮上擔任花童。",
+"zh": "Amy 上個月在表姊的婚禮上擔任花童。",
 "base": "wed",
 "answer": "wedding"
 },
@@ -12804,7 +12804,7 @@
 ],
 "q": {
 "en": "Ben has a piano lesson once a week.",
-"zh": "班每星期上一次鋼琴課。",
+"zh": "Ben 每星期上一次鋼琴課。",
 "base": "weekly",
 "answer": "week"
 },
@@ -12915,7 +12915,7 @@
 ],
 "q": {
 "en": "Lisa threw the candy wrapper into the trash can.",
-"zh": "麗莎把糖果包裝紙丟進垃圾桶。",
+"zh": "Lisa 把糖果包裝紙丟進垃圾桶。",
 "base": "wrap",
 "answer": "wrapper"
 },
@@ -13004,7 +13004,7 @@
 ],
 "q": {
 "en": "Kevin found an abandoned kitten near the school gate.",
-"zh": "凱文在校門口附近發現一隻被遺棄的小貓。",
+"zh": "Kevin 在校門口附近發現一隻被遺棄的小貓。",
 "base": "abandon",
 "answer": "abandoned"
 },
@@ -13022,7 +13022,7 @@
 ],
 "q": {
 "en": "Ben is absolutely right about the answer to question five.",
-"zh": "班對第五題答案的看法絕對正確。",
+"zh": "Ben 對第五題答案的看法絕對正確。",
 "base": "absolute",
 "answer": "absolutely"
 },
@@ -13040,7 +13040,7 @@
 ],
 "q": {
 "en": "Amy found the novel so absorbing that she forgot to eat.",
-"zh": "艾咪覺得那本小說太引人入勝，連吃飯都忘了。",
+"zh": "Amy 覺得那本小說太引人入勝，連吃飯都忘了。",
 "base": "absorb",
 "answer": "absorbing"
 },
@@ -13065,7 +13065,7 @@
 ],
 "q": {
 "en": "Kevin's cousin attends a famous music academy in Taipei.",
-"zh": "凱文的表哥就讀台北一所有名的音樂學院。",
+"zh": "Kevin 的表哥就讀台北一所有名的音樂學院。",
 "base": "academic",
 "answer": "academy"
 },
@@ -13095,7 +13095,7 @@
 ],
 "q": {
 "en": "Chewing gum in class is not acceptable at our school.",
-"zh": "在我們學校，上課嚼口香糖是不被接受的。",
+"zh": "在我們學校，上課嚼口香糖是不能接受的。",
 "base": "acceptance",
 "answer": "acceptable"
 },
@@ -13136,7 +13136,7 @@
 ],
 "q": {
 "en": "Amy accidentally dropped her phone into the water.",
-"zh": "艾咪不小心把手機掉進水裡。",
+"zh": "Amy 不小心把手機掉進水裡。",
 "base": "accidental",
 "answer": "accidentally"
 },
@@ -13184,7 +13184,7 @@
 ],
 "q": {
 "en": "Mom opened a bank account for Lisa last week.",
-"zh": "媽媽上星期幫麗莎開了一個銀行帳戶。",
+"zh": "媽媽上星期幫 Lisa 開了一個銀行帳戶。",
 "base": "accountant",
 "answer": "account"
 },
@@ -13250,7 +13250,7 @@
 ],
 "q": {
 "en": "Amy is not well acquainted with her new neighbors yet.",
-"zh": "艾咪對新鄰居還不太熟。",
+"zh": "Amy 對新鄰居還不太熟。",
 "base": "acquaintance",
 "answer": "acquainted"
 },
@@ -13268,7 +13268,7 @@
 ],
 "q": {
 "en": "The acquisition of a second language takes time and practice.",
-"zh": "習得第二外語需要時間和練習。",
+"zh": "習得第二語言需要時間和練習。",
 "base": "acquire",
 "answer": "acquisition"
 },
@@ -13291,7 +13291,7 @@
 ],
 "q": {
 "en": "Ben is adaptable, so he quickly made friends at the new school.",
-"zh": "班適應力很強，所以很快就在新學校交到朋友。",
+"zh": "Ben 適應力很強，所以很快就在新學校交到朋友。",
 "base": "adapt",
 "answer": "adaptable"
 },
@@ -13337,7 +13337,7 @@
 ],
 "q": {
 "en": "Lisa did not prepare adequately for the English test.",
-"zh": "麗莎沒有為英文考試做好充分的準備。",
+"zh": "Lisa 沒有為英文考試做好充分的準備。",
 "base": "adequate",
 "answer": "adequately"
 },
@@ -13401,7 +13401,7 @@
 ],
 "q": {
 "en": "Kevin's courage to help others is truly admirable.",
-"zh": "凱文幫助別人的勇氣真令人欽佩。",
+"zh": "Kevin 幫助別人的勇氣真令人欽佩。",
 "base": "admiration",
 "answer": "admirable"
 },
@@ -13419,7 +13419,7 @@
 ],
 "q": {
 "en": "Ben had to admit that he forgot his homework.",
-"zh": "班不得不承認他忘了帶作業。",
+"zh": "Ben 不得不承認他忘了帶作業。",
 "base": "admission",
 "answer": "admit"
 },
@@ -13437,7 +13437,7 @@
 ],
 "q": {
 "en": "The adoption of a stray dog made Amy's family very happy.",
-"zh": "領養一隻流浪狗讓艾咪一家人非常開心。",
+"zh": "領養一隻流浪狗讓 Amy 一家人非常開心。",
 "base": "adopt",
 "answer": "adoption"
 },
@@ -13558,7 +13558,7 @@
 ],
 "q": {
 "en": "Amy and Ben alternate between washing dishes and sweeping the floor.",
-"zh": "艾咪和班輪流洗碗和掃地。",
+"zh": "Amy 和 Ben 輪流洗碗和掃地。",
 "base": "alternative",
 "answer": "alternate"
 },
@@ -13601,7 +13601,7 @@
 ],
 "q": {
 "en": "Lisa's ambition is to become a famous doctor one day.",
-"zh": "麗莎的志向是有一天成為有名的醫生。",
+"zh": "Lisa 的志向是有一天成為有名的醫生。",
 "base": "ambitious",
 "answer": "ambition"
 },
@@ -13629,7 +13629,7 @@
 ],
 "q": {
 "en": "Kevin told an amusing story that made everyone laugh.",
-"zh": "凱文講了一個有趣的故事，讓大家都笑了。",
+"zh": "Kevin 講了一個有趣的故事，讓大家都笑了。",
 "base": "amuse",
 "answer": "amusing"
 },
@@ -13675,7 +13675,7 @@
 ],
 "q": {
 "en": "Amy wrote a careful analysis of the results of the experiment.",
-"zh": "艾咪對實驗結果寫了一份仔細的分析。",
+"zh": "Amy 對實驗結果寫了一份仔細的分析。",
 "base": "analyze",
 "answer": "analysis"
 },
@@ -13730,7 +13730,7 @@
 [
 "annually",
 "adv.",
-"每年地"
+"每年"
 ]
 ],
 "q": {
@@ -13758,7 +13758,7 @@
 ],
 "q": {
 "en": "Ben felt anxious before his first speech in English class.",
-"zh": "班在英文課第一次上台演講前覺得很焦慮。",
+"zh": "Ben 在英文課第一次上台演講前覺得很焦慮。",
 "base": "anxiety",
 "answer": "anxious"
 },
@@ -13776,7 +13776,7 @@
 ],
 "q": {
 "en": "Kevin went to apologize to his friend for being late.",
-"zh": "凱文去向朋友為遲到道歉。",
+"zh": "Kevin 因為遲到，去向朋友道歉。",
 "base": "apology",
 "answer": "apologize"
 },
@@ -13794,7 +13794,7 @@
 ],
 "q": {
 "en": "The bus was apparently late because of the heavy traffic.",
-"zh": "公車顯然是因為交通堵塞才晚到。",
+"zh": "公車顯然是因為塞車才晚到。",
 "base": "apparent",
 "answer": "apparently"
 },
@@ -13817,7 +13817,7 @@
 ],
 "q": {
 "en": "Amy plans to apply for a scholarship next month.",
-"zh": "艾咪打算下個月申請獎學金。",
+"zh": "Amy 打算下個月申請獎學金。",
 "base": "applicant",
 "answer": "apply"
 },
@@ -13858,7 +13858,7 @@
 ],
 "q": {
 "en": "Mom made a dentist appointment for Ben on Friday afternoon.",
-"zh": "媽媽幫班預約了星期五下午的牙醫門診。",
+"zh": "媽媽幫 Ben 預約了星期五下午的牙醫門診。",
 "base": "appoint",
 "answer": "appointment"
 },
@@ -13899,7 +13899,7 @@
 ],
 "q": {
 "en": "Lisa dressed appropriately for the interview at the library.",
-"zh": "麗莎為了圖書館的面試穿著得宜。",
+"zh": "Lisa 為了圖書館的面試穿著得宜。",
 "base": "appropriate",
 "answer": "appropriately"
 },
@@ -13975,7 +13975,7 @@
 ],
 "q": {
 "en": "Kevin is a talented young artist who draws comics.",
-"zh": "凱文是個有才華的年輕藝術家，會畫漫畫。",
+"zh": "Kevin 是個有才華的年輕藝術家，會畫漫畫。",
 "base": "artistic",
 "answer": "artist"
 },
@@ -14025,7 +14025,7 @@
 ],
 "q": {
 "en": "The whole school gathers in the hall for the morning assembly.",
-"zh": "全校師生在大廳集合參加朝會。",
+"zh": "全校師生在禮堂集合參加朝會。",
 "base": "assemble",
 "answer": "assembly"
 },
@@ -14102,7 +14102,7 @@
 ],
 "q": {
 "en": "Amy joined the school's art association last semester.",
-"zh": "艾咪上學期加入了學校的美術社團。",
+"zh": "Amy 上學期加入了學校的美術社團。",
 "base": "associate",
 "answer": "association"
 },
@@ -14138,7 +14138,7 @@
 ],
 "q": {
 "en": "I assure you that Kevin will return the book tomorrow.",
-"zh": "我向你保證凱文明天會把書還你。",
+"zh": "我向你保證 Kevin 明天會把書還你。",
 "base": "assurance",
 "answer": "assure"
 },
@@ -14179,7 +14179,7 @@
 ],
 "q": {
 "en": "Ben dreams of becoming a famous athlete someday.",
-"zh": "班夢想有一天成為有名的運動員。",
+"zh": "Ben 夢想有一天成為有名的運動員。",
 "base": "athletic",
 "answer": "athlete"
 },
@@ -14203,8 +14203,8 @@
 ]
 ],
 "q": {
-"en": "Mr. Lin explained the atomic structure of water to our class.",
-"zh": "林老師向全班解釋了水的原子結構。",
+"en": "Mr. Lin explained the atomic structure of hydrogen to our class.",
+"zh": "林老師向全班解釋了氫的原子結構。",
 "base": "atom",
 "answer": "atomic"
 },
@@ -14390,7 +14390,7 @@
 ],
 "q": {
 "en": "Ben had to beg his sister for her math notes.",
-"zh": "班不得不求他姊姊把數學筆記借給他。",
+"zh": "Ben 不得不求他姊姊把數學筆記借給他。",
 "base": "beggar",
 "answer": "beg"
 },
@@ -14403,7 +14403,7 @@
 [
 "behave",
 "v.",
-"表現；有禮貌"
+"表現；守規矩"
 ]
 ],
 "q": {
@@ -14445,7 +14445,7 @@
 ],
 "q": {
 "en": "Lisa wants to become a biologist and study sea animals.",
-"zh": "麗莎想成為生物學家，研究海洋動物。",
+"zh": "Lisa 想成為生物學家，研究海洋動物。",
 "base": "biology",
 "answer": "biologist"
 },
@@ -14522,7 +14522,7 @@
 ],
 "q": {
 "en": "Nobody likes a boastful person who talks about himself all day.",
-"zh": "沒有人喜歡整天談論自己的愛自誇的人。",
+"zh": "沒有人喜歡愛自誇、整天談論自己的人。",
 "base": "boast",
 "answer": "boastful"
 },
@@ -14639,7 +14639,7 @@
 ],
 "q": {
 "en": "Amy used a calculator to check her math answers.",
-"zh": "艾咪用計算機檢查她的數學答案。",
+"zh": "Amy 用計算機檢查她的數學答案。",
 "base": "calculate",
 "answer": "calculator"
 },
@@ -14662,7 +14662,7 @@
 ],
 "q": {
 "en": "Kevin can calculate the total cost in his head.",
-"zh": "凱文可以在腦子裡算出總費用。",
+"zh": "Kevin 可以在腦子裡算出總費用。",
 "base": "calculation",
 "answer": "calculate"
 },
@@ -14811,7 +14811,7 @@
 ],
 "q": {
 "en": "Amy's family likes to celebrate the Moon Festival together.",
-"zh": "艾咪一家人喜歡一起慶祝中秋節。",
+"zh": "Amy 一家人喜歡一起慶祝中秋節。",
 "base": "celebration",
 "answer": "celebrate"
 },
@@ -14854,7 +14854,7 @@
 ],
 "q": {
 "en": "Lisa has a cheerful character, so everyone likes her.",
-"zh": "麗莎個性開朗，所以大家都喜歡她。",
+"zh": "Lisa 個性開朗，所以大家都喜歡她。",
 "base": "characteristic",
 "answer": "character"
 },
@@ -14872,7 +14872,7 @@
 ],
 "q": {
 "en": "Amy joined a charitable group that helps stray animals.",
-"zh": "艾咪加入了一個幫助流浪動物的慈善團體。",
+"zh": "Amy 加入了一個幫助流浪動物的慈善團體。",
 "base": "charity",
 "answer": "charitable"
 },
@@ -15027,7 +15027,7 @@
 ],
 "q": {
 "en": "Amy spoke with great clarity during the English speech contest.",
-"zh": "艾咪在英語演講比賽中講得非常清楚。",
+"zh": "Amy 在英語演講比賽中講得非常清楚。",
 "base": "clarify",
 "answer": "clarity"
 },
@@ -15070,7 +15070,7 @@
 ],
 "q": {
 "en": "The classification of the library books took Lisa the whole afternoon.",
-"zh": "整理那些書的分類花了麗莎一整個下午。",
+"zh": "整理那些書的分類花了 Lisa 一整個下午。",
 "base": "classify",
 "answer": "classification"
 },
@@ -15107,7 +15107,7 @@
 ],
 "q": {
 "en": "Tom's clumsiness made him drop the lunch tray again today.",
-"zh": "湯姆的笨手笨腳害他今天又打翻了午餐餐盤。",
+"zh": "Tom 的笨手笨腳害他今天又打翻了午餐餐盤。",
 "base": "clumsy",
 "answer": "clumsiness"
 },
@@ -15143,7 +15143,7 @@
 ],
 "q": {
 "en": "Amy needs a special key to decode the message her friend sent.",
-"zh": "艾咪需要一把特別的鑰匙來解讀朋友傳來的訊息。",
+"zh": "Amy 需要一把特別的鑰匙來解讀朋友傳來的訊息。",
 "base": "code",
 "answer": "decode"
 },
@@ -15180,7 +15180,7 @@
 ],
 "q": {
 "en": "Kevin likes to combine fruit and yogurt for breakfast.",
-"zh": "凱文喜歡早餐把水果和優格混在一起吃。",
+"zh": "Kevin 喜歡早餐把水果和優格混在一起吃。",
 "base": "combination",
 "answer": "combine"
 },
@@ -15202,8 +15202,8 @@
 ]
 ],
 "q": {
-"en": "Mr. Chen is a funny comedian who often makes our class laugh.",
-"zh": "陳老師是個風趣的喜劇演員，常常逗得我們全班大笑。",
+"en": "Mr. Chen is as funny as a comedian and often makes our class laugh.",
+"zh": "陳老師像喜劇演員一樣風趣，常常逗得我們全班大笑。",
 "base": "comedy",
 "answer": "comedian"
 },
@@ -15285,7 +15285,7 @@
 ],
 "q": {
 "en": "Amy showed great commitment to the school baseball team this year.",
-"zh": "艾咪今年對學校的棒球隊展現出極大的投入。",
+"zh": "Amy 今年對學校棒球隊投入了極大的心力。",
 "base": "commit",
 "answer": "commitment"
 },
@@ -15308,7 +15308,7 @@
 ],
 "q": {
 "en": "It is hard to communicate with Ben when the music is loud.",
-"zh": "音樂很大聲時，很難和班溝通。",
+"zh": "音樂很大聲時，很難和 Ben 溝通。",
 "base": "communication",
 "answer": "communicate"
 },
@@ -15338,7 +15338,7 @@
 ],
 "q": {
 "en": "Lisa asked her brother to accompany her to the night market.",
-"zh": "麗莎請她哥哥陪她去逛夜市。",
+"zh": "Lisa 請她哥哥陪她去逛夜市。",
 "base": "companion",
 "answer": "accompany"
 },
@@ -15366,7 +15366,7 @@
 ],
 "q": {
 "en": "Kevin will compete in the swimming contest next month.",
-"zh": "凱文下個月要參加游泳比賽。",
+"zh": "Kevin 下個月要參加游泳比賽。",
 "base": "competition",
 "answer": "compete"
 },
@@ -15422,7 +15422,7 @@
 ],
 "q": {
 "en": "Amy trained hard so that she could compete in the finals.",
-"zh": "艾咪努力訓練，這樣她才能參加決賽。",
+"zh": "Amy 努力訓練，這樣她才能參加決賽。",
 "base": "competitor",
 "answer": "compete"
 },
@@ -15473,7 +15473,7 @@
 ],
 "q": {
 "en": "Lisa's aunt is a composer who writes songs for movies.",
-"zh": "麗莎的阿姨是為電影寫歌的作曲家。",
+"zh": "Lisa 的阿姨是為電影寫歌的作曲家。",
 "base": "compose",
 "answer": "composer"
 },
@@ -15496,7 +15496,7 @@
 ],
 "q": {
 "en": "Lisa tried to compose a short song for her mother's birthday.",
-"zh": "麗莎試著為媽媽的生日寫一首短曲。",
+"zh": "Lisa 試著為媽媽的生日寫一首短曲。",
 "base": "composer",
 "answer": "compose"
 },
@@ -15542,7 +15542,7 @@
 ],
 "q": {
 "en": "Kevin needs a lot of concentration to solve this math problem.",
-"zh": "凱文需要非常專心才能解出這道數學題。",
+"zh": "Kevin 需要非常專心才能解出這道數學題。",
 "base": "concentrate",
 "answer": "concentration"
 },
@@ -15560,7 +15560,7 @@
 ],
 "q": {
 "en": "It is hard for Amy to concentrate on homework with a noisy TV.",
-"zh": "電視很吵的時候，艾咪很難專心寫作業。",
+"zh": "電視很吵的時候，Amy 很難專心寫作業。",
 "base": "concentration",
 "answer": "concentrate"
 },
@@ -15590,7 +15590,7 @@
 ],
 "q": {
 "en": "Amy is concerned about the coming English exam.",
-"zh": "艾咪很擔心即將到來的英文考試。",
+"zh": "Amy 很擔心即將到來的英文考試。",
 "base": "concerning",
 "answer": "concerned"
 },
@@ -15663,7 +15663,7 @@
 ],
 "q": {
 "en": "Lisa felt confident before the English speech contest.",
-"zh": "麗莎在英語演講比賽前覺得很有信心。",
+"zh": "Lisa 在英語演講比賽前覺得很有信心。",
 "base": "confidence",
 "answer": "confident"
 },
@@ -15709,7 +15709,7 @@
 ],
 "q": {
 "en": "We gave Kevin our warm congratulations on winning the speech contest.",
-"zh": "我們向凱文獻上熱烈的祝賀，恭喜他贏得演講比賽。",
+"zh": "我們向 Kevin 獻上熱烈的祝賀，恭喜他贏得演講比賽。",
 "base": "congratulate",
 "answer": "congratulations"
 },
@@ -15752,7 +15752,7 @@
 ],
 "q": {
 "en": "Ben was conscious of the people staring at him.",
-"zh": "班意識到有人正盯著他看。",
+"zh": "Ben 意識到有人正盯著他看。",
 "base": "conscience",
 "answer": "conscious"
 },
@@ -15775,7 +15775,7 @@
 ],
 "q": {
 "en": "Amy missed the early bus and consequently arrived late for school.",
-"zh": "艾咪錯過了早班公車，因此上學遲到了。",
+"zh": "Amy 錯過了早班公車，因此上學遲到了。",
 "base": "consequence",
 "answer": "consequently"
 },
@@ -15844,7 +15844,7 @@
 ],
 "q": {
 "en": "Kevin is a consistent student who studies every day.",
-"zh": "凱文是個很有恆心的學生，每天都讀書。",
+"zh": "Kevin 是個很有恆心的學生，每天都讀書。",
 "base": "consist",
 "answer": "consistent"
 },
@@ -15872,7 +15872,7 @@
 ],
 "q": {
 "en": "Amy has consistently ranked first in her class this year.",
-"zh": "艾咪今年的成績一直都是班上第一名。",
+"zh": "Amy 今年的成績一直都是班上第一名。",
 "base": "consistent",
 "answer": "consistently"
 },
@@ -15982,7 +15982,7 @@
 ],
 "q": {
 "en": "Lisa and Amy plan to construct a model house for science class.",
-"zh": "麗莎和艾咪打算為自然課做一個房屋模型。",
+"zh": "Lisa 和 Amy 打算為自然課做一個房屋模型。",
 "base": "constructive",
 "answer": "construct"
 },
@@ -16005,7 +16005,7 @@
 ],
 "q": {
 "en": "After a short consultation, the doctor changed Ben's medicine.",
-"zh": "經過簡短的看診後，醫生換了班的藥。",
+"zh": "經過簡短的看診後，醫生換了 Ben 的藥。",
 "base": "consult",
 "answer": "consultation"
 },
@@ -16051,7 +16051,7 @@
 ],
 "q": {
 "en": "The consumption of sweet drinks has risen among students.",
-"zh": "學生之間含糖飲料的消費量增加了。",
+"zh": "學生的含糖飲料消費量增加了。",
 "base": "consume",
 "answer": "consumption"
 },
@@ -16074,7 +16074,7 @@
 ],
 "q": {
 "en": "This old car will consume a lot of gas on long trips.",
-"zh": "這輛舊車長途旅行會耗掉很多油。",
+"zh": "這輛舊車跑長途時會耗掉很多油。",
 "base": "consumer",
 "answer": "consume"
 },
@@ -16251,7 +16251,7 @@
 ],
 "q": {
 "en": "Amy made a great contribution to our class play.",
-"zh": "艾咪對我們班的話劇貢獻很大。",
+"zh": "Amy 對我們班的話劇貢獻很大。",
 "base": "contribute",
 "answer": "contribution"
 },
@@ -16371,7 +16371,7 @@
 ],
 "q": {
 "en": "Amy had a long conversation with her grandmother last night.",
-"zh": "艾咪昨晚和奶奶聊了很久。",
+"zh": "Amy 昨晚和奶奶聊了很久。",
 "base": "converse",
 "answer": "conversation"
 },
@@ -16406,7 +16406,7 @@
 ],
 "q": {
 "en": "Kevin gave a convincing reason for being late.",
-"zh": "凱文為自己的遲到提出了一個有說服力的理由。",
+"zh": "Kevin 為自己的遲到提出了一個有說服力的理由。",
 "base": "convince",
 "answer": "convincing"
 },
@@ -16519,7 +16519,7 @@
 ],
 "q": {
 "en": "Amy keeps up her correspondence with a pen friend in Canada.",
-"zh": "艾咪持續和一位加拿大的筆友通信。",
+"zh": "Amy 持續和一位加拿大的筆友通信。",
 "base": "correspond",
 "answer": "correspondence"
 },
@@ -16570,7 +16570,7 @@
 ],
 "q": {
 "en": "It took great courage for Amy to speak in front of the school.",
-"zh": "艾咪要在全校面前演講，真的需要很大的勇氣。",
+"zh": "Amy 鼓起很大的勇氣，才敢在全校面前演講。",
 "base": "courageous",
 "answer": "courage"
 },
@@ -16592,7 +16592,7 @@
 ]
 ],
 "q": {
-"en": "The bus driver was always courteous to old passengers.",
+"en": "The bus driver was always courteous to elderly passengers.",
 "zh": "那位公車司機對年長的乘客總是很有禮貌。",
 "base": "courtesy",
 "answer": "courteous"
@@ -16674,7 +16674,7 @@
 ],
 "q": {
 "en": "Kevin wants to create a new game for his little sister.",
-"zh": "凱文想為他的妹妹設計一款新遊戲。",
+"zh": "Kevin 想為他的妹妹設計一款新遊戲。",
 "base": "creation",
 "answer": "create"
 },
@@ -16702,7 +16702,7 @@
 ],
 "q": {
 "en": "Lisa is a creative girl who makes funny cards.",
-"zh": "麗莎是個很有創意的女孩，會做有趣的卡片。",
+"zh": "Lisa 是個很有創意的女孩，會做有趣的卡片。",
 "base": "creativity",
 "answer": "creative"
 },
@@ -16737,7 +16737,7 @@
 ],
 "q": {
 "en": "Amy accepted her teacher's criticism with a smile.",
-"zh": "艾咪面帶微笑地接受了老師的批評。",
+"zh": "Amy 面帶微笑地接受了老師的批評。",
 "base": "critic",
 "answer": "criticism"
 },
@@ -16826,7 +16826,7 @@
 ],
 "q": {
 "en": "Ben felt sad after hearing so much criticism from his classmates.",
-"zh": "聽到同學那麼多的批評後，班覺得很難過。",
+"zh": "聽到同學那麼多的批評後，Ben 覺得很難過。",
 "base": "criticize",
 "answer": "criticism"
 },
@@ -16867,7 +16867,7 @@
 ],
 "q": {
 "en": "Ben likes to crunch on fresh apples after lunch.",
-"zh": "班喜歡在午餐後嘎吱嘎吱地啃新鮮的蘋果。",
+"zh": "Ben 喜歡在午餐後嘎吱嘎吱地啃新鮮的蘋果。",
 "base": "crunchy",
 "answer": "crunch"
 },
@@ -16936,7 +16936,7 @@
 ],
 "q": {
 "en": "Amy has long curly hair just like her mother.",
-"zh": "艾咪和她媽媽一樣有一頭長長的捲髮。",
+"zh": "Amy 和她媽媽一樣有一頭長長的捲髮。",
 "base": "curl",
 "answer": "curly"
 },
@@ -17029,7 +17029,7 @@
 ],
 "q": {
 "en": "Lisa and Amy will decorate the classroom for the school fair.",
-"zh": "麗莎和艾咪要為園遊會布置教室。",
+"zh": "Lisa 和 Amy 要為園遊會布置教室。",
 "base": "decoration",
 "answer": "decorate"
 },
@@ -17064,7 +17064,7 @@
 ],
 "q": {
 "en": "Our best defender stopped the ball again in the final game.",
-"zh": "我們最好的防守球員在決賽中又擋下了那顆球。",
+"zh": "我們最好的防守球員在決賽中又把球擋了下來。",
 "base": "defend",
 "answer": "defender"
 },
@@ -17148,7 +17148,7 @@
 ],
 "q": {
 "en": "Kevin tried to defend his idea during the class discussion.",
-"zh": "凱文在班上討論時試圖為自己的想法辯護。",
+"zh": "Kevin 在班上討論時試圖為自己的想法辯護。",
 "base": "defensive",
 "answer": "defend"
 },
@@ -17176,7 +17176,7 @@
 ],
 "q": {
 "en": "Amy will definitely join the school trip next month.",
-"zh": "艾咪下個月一定會參加校外教學。",
+"zh": "Amy 下個月一定會參加校外教學。",
 "base": "definite",
 "answer": "definitely"
 },
@@ -17222,7 +17222,7 @@
 ],
 "q": {
 "en": "Lisa was delighted to get a letter from her cousin.",
-"zh": "麗莎收到表姊的信覺得很高興。",
+"zh": "Lisa 收到表姊的信覺得很高興。",
 "base": "delight",
 "answer": "delighted"
 },
@@ -17434,7 +17434,7 @@
 ],
 "q": {
 "en": "Cold rainy days at school always make Amy feel depressed.",
-"zh": "學校裡寒冷的雨天總是讓艾咪心情低落。",
+"zh": "在學校遇到濕冷的雨天，Amy 總是心情低落。",
 "base": "depression",
 "answer": "depressed"
 },
@@ -17464,7 +17464,7 @@
 ],
 "q": {
 "en": "Ben desperately wanted to find his lost phone before class.",
-"zh": "班拚命想在上課前找到他弄丟的手機。",
+"zh": "Ben 拚命想在上課前找到他弄丟的手機。",
 "base": "desperate",
 "answer": "desperately"
 },
@@ -17540,7 +17540,7 @@
 ],
 "q": {
 "en": "Kevin is determined to win the speech contest this year.",
-"zh": "凱文下定決心今年要贏得演講比賽。",
+"zh": "Kevin 下定決心今年要贏得演講比賽。",
 "base": "determination",
 "answer": "determined"
 },
@@ -17565,7 +17565,7 @@
 ],
 "q": {
 "en": "Lisa bought a small device that helps her wake up early.",
-"zh": "麗莎買了一個幫助她早起的小裝置。",
+"zh": "Lisa 買了一個幫助她早起的小裝置。",
 "base": "devise",
 "answer": "device"
 },
@@ -17583,12 +17583,12 @@
 [
 "devoted",
 "adj.",
-"忠誠的；專注的"
+"忠誠的；深愛的；專注的"
 ]
 ],
 "q": {
 "en": "Amy is devoted to her little brother and always helps him.",
-"zh": "艾咪很疼愛她的弟弟，總是幫他的忙。",
+"zh": "Amy 很疼愛她的弟弟，總是幫他的忙。",
 "base": "devote",
 "answer": "devoted"
 },
@@ -17671,7 +17671,7 @@
 ],
 "q": {
 "en": "Ben wrote down the last digit of the phone number.",
-"zh": "班寫下了電話號碼的最後一個數字。",
+"zh": "Ben 寫下了電話號碼的最後一個數字。",
 "base": "digital",
 "answer": "digit"
 },
@@ -17701,7 +17701,7 @@
 ],
 "q": {
 "en": "Amy is a diligent student who studies every night.",
-"zh": "艾咪是個勤奮的學生，每晚都讀書。",
+"zh": "Amy 是個勤奮的學生，每晚都讀書。",
 "base": "diligence",
 "answer": "diligent"
 },
@@ -17724,7 +17724,7 @@
 ],
 "q": {
 "en": "Kevin practiced the piano diligently every afternoon after school ended.",
-"zh": "凱文每天放學後的下午都勤奮地練鋼琴。",
+"zh": "Kevin 每天下午放學後都勤奮地練鋼琴。",
 "base": "diligent",
 "answer": "diligently"
 },
@@ -17790,7 +17790,7 @@
 ],
 "q": {
 "en": "Being tall is a great advantage in playing basketball.",
-"zh": "身高高對打籃球是一大優勢。",
+"zh": "個子高是打籃球的一大優勢。",
 "base": "disadvantage",
 "answer": "advantage"
 },
@@ -17818,7 +17818,7 @@
 ],
 "q": {
 "en": "Ben was disappointed when the picnic was canceled.",
-"zh": "野餐被取消時，班覺得很失望。",
+"zh": "野餐被取消時，Ben 覺得很失望。",
 "base": "disappoint",
 "answer": "disappointed"
 },
@@ -17859,7 +17859,7 @@
 ],
 "q": {
 "en": "Lisa is a disciplined girl who gets up at six every day.",
-"zh": "麗莎是個很自律的女孩，每天六點起床。",
+"zh": "Lisa 是個很自律的女孩，每天六點起床。",
 "base": "discipline",
 "answer": "disciplined"
 },
@@ -17887,7 +17887,7 @@
 ],
 "q": {
 "en": "Amy felt discouraged after failing the math test twice.",
-"zh": "艾咪數學考試連續兩次不及格後覺得很氣餒。",
+"zh": "Amy 數學考試連續兩次不及格後覺得很氣餒。",
 "base": "discourage",
 "answer": "discouraged"
 },
@@ -17935,7 +17935,7 @@
 ],
 "q": {
 "en": "The workers were shocked by the sudden dismissal of their manager.",
-"zh": "工人們對經理被突然解僱感到震驚。",
+"zh": "經理突然被解僱，讓工人們十分震驚。",
 "base": "dismiss",
 "answer": "dismissal"
 },
@@ -17983,7 +17983,7 @@
 ],
 "q": {
 "en": "Lisa has a distinctive voice that everyone remembers.",
-"zh": "麗莎有一個大家都記得的獨特嗓音。",
+"zh": "Lisa 的嗓音很獨特，大家都記得。",
 "base": "distinct",
 "answer": "distinctive"
 },
@@ -18085,7 +18085,7 @@
 ],
 "q": {
 "en": "Amy will distribute the test papers to every student.",
-"zh": "艾咪會把考卷發給每一位學生。",
+"zh": "Amy 會把考卷發給每一位學生。",
 "base": "distribution",
 "answer": "distribute"
 },
@@ -18115,7 +18115,7 @@
 ],
 "q": {
 "en": "The disturbing news kept Amy awake all night.",
-"zh": "那則令人不安的消息讓艾咪整晚睡不著。",
+"zh": "那則令人不安的消息讓 Amy 整晚睡不著。",
 "base": "disturb",
 "answer": "disturbing"
 },
@@ -18344,7 +18344,7 @@
 ],
 "q": {
 "en": "Amy listened earnestly to the teacher's advice about the exam.",
-"zh": "艾咪認真聆聽老師對考試的建議。",
+"zh": "Amy 認真聆聽老師對考試的建議。",
 "base": "earnest",
 "answer": "earnestly"
 },
@@ -18412,7 +18412,7 @@
 ],
 "q": {
 "en": "Lisa spends her pocket money economically and saves some each week.",
-"zh": "麗莎省吃儉用地花零用錢，每週還存一些。",
+"zh": "Lisa 花零用錢很節省，每週還會存下一些。",
 "base": "economical",
 "answer": "economically"
 },
@@ -18524,7 +18524,7 @@
 ],
 "q": {
 "en": "Kevin found an efficient way to memorize new words.",
-"zh": "凱文找到一個有效率的方法來背新單字。",
+"zh": "Kevin 找到一個有效率的方法來背新單字。",
 "base": "efficiency",
 "answer": "efficient"
 },
@@ -18555,7 +18555,7 @@
 ],
 "q": {
 "en": "Amy bought an electronic dictionary for her English class.",
-"zh": "艾咪為了英文課買了一本電子字典。",
+"zh": "Amy 為了英文課買了一台電子字典。",
 "base": "electronics",
 "answer": "electronic"
 },
@@ -18638,7 +18638,7 @@
 ],
 "q": {
 "en": "Ben felt embarrassed when he forgot his own seat number.",
-"zh": "班忘記自己的座號時覺得很尷尬。",
+"zh": "Ben 忘記自己的座號時覺得很尷尬。",
 "base": "embarrass",
 "answer": "embarrassed"
 },
@@ -18821,7 +18821,7 @@
 ],
 "q": {
 "en": "Kevin wants to be an engineer and build bridges.",
-"zh": "凱文想當工程師來建造橋樑。",
+"zh": "Kevin 想當工程師來建造橋樑。",
 "base": "engineering",
 "answer": "engineer"
 },
@@ -18852,7 +18852,7 @@
 ],
 "q": {
 "en": "Kevin was enormously happy about his test score.",
-"zh": "凱文對自己的考試成績感到非常高興。",
+"zh": "Kevin 對自己的考試成績感到非常高興。",
 "base": "enormous",
 "answer": "enormously"
 },
@@ -18895,7 +18895,7 @@
 [
 "enthusiastic",
 "adj.",
-"熱心的"
+"熱情的；熱衷的"
 ],
 [
 "enthusiastically",
@@ -18905,7 +18905,7 @@
 ],
 "q": {
 "en": "Lisa is very enthusiastic about learning English with her friends.",
-"zh": "麗莎對和朋友一起學英文非常有熱忱。",
+"zh": "Lisa 對和朋友一起學英文非常有熱忱。",
 "base": "enthusiasm",
 "answer": "enthusiastic"
 },
@@ -18981,7 +18981,7 @@
 ],
 "q": {
 "en": "Kevin's idea is essentially the same as Amy's idea.",
-"zh": "凱文的想法基本上和艾咪的想法一樣。",
+"zh": "Kevin 的想法基本上和 Amy 的想法一樣。",
 "base": "essential",
 "answer": "essentially"
 },
@@ -19027,7 +19027,7 @@
 ],
 "q": {
 "en": "Don't underestimate Lisa's ability to solve hard math problems.",
-"zh": "不要低估麗莎解難數學題的能力。",
+"zh": "不要低估 Lisa 解數學難題的能力。",
 "base": "estimate",
 "answer": "underestimate"
 },
@@ -19094,7 +19094,7 @@
 ],
 "q": {
 "en": "After many tries, Amy eventually learned to ride a bike.",
-"zh": "試了很多次之後，艾咪終於學會騎腳踏車。",
+"zh": "試了很多次之後，Amy 終於學會騎腳踏車。",
 "base": "eventual",
 "answer": "eventually"
 },
@@ -19117,7 +19117,7 @@
 ],
 "q": {
 "en": "It was evident that Lisa had studied hard for the test.",
-"zh": "很明顯麗莎為了這次考試很努力讀書。",
+"zh": "很明顯 Lisa 為了這次考試很努力讀書。",
 "base": "evidence",
 "answer": "evident"
 },
@@ -19140,7 +19140,7 @@
 ],
 "q": {
 "en": "The teacher asked Kevin for evidence to support his idea.",
-"zh": "老師要凱文提出證據來支持他的想法。",
+"zh": "老師要 Kevin 提出證據來支持他的想法。",
 "base": "evident",
 "answer": "evidence"
 },
@@ -19158,7 +19158,7 @@
 ],
 "q": {
 "en": "Saying Kevin ate ten bowls of rice is an exaggeration.",
-"zh": "說凱文吃了十碗飯是誇大其詞。",
+"zh": "說 Kevin 吃了十碗飯是誇大其詞。",
 "base": "exaggerate",
 "answer": "exaggeration"
 },
@@ -19186,7 +19186,7 @@
 ],
 "q": {
 "en": "Amy has an exceptional talent for painting beautiful pictures of flowers.",
-"zh": "艾咪在畫美麗的花卉圖畫上有卓越的天分。",
+"zh": "Amy 在畫花方面有卓越的天分，畫出來的花非常美。",
 "base": "exception",
 "answer": "exceptional"
 },
@@ -19214,7 +19214,7 @@
 ],
 "q": {
 "en": "Kevin felt exhausted after running the long race.",
-"zh": "凱文跑完長跑比賽後覺得筋疲力盡。",
+"zh": "Kevin 跑完長跑比賽後覺得筋疲力盡。",
 "base": "exhaust",
 "answer": "exhausted"
 },
@@ -19414,7 +19414,7 @@
 ],
 "q": {
 "en": "Amy asked for an extension on her science report.",
-"zh": "艾咪要求延後交自然科報告。",
+"zh": "Amy 要求延後交自然科報告。",
 "base": "extend",
 "answer": "extension"
 },
@@ -19442,7 +19442,7 @@
 ],
 "q": {
 "en": "Lisa did extensive reading before writing her report.",
-"zh": "麗莎在寫報告前做了大量的閱讀。",
+"zh": "Lisa 在寫報告前做了大量的閱讀。",
 "base": "extent",
 "answer": "extensive"
 },
@@ -19485,7 +19485,7 @@
 ],
 "q": {
 "en": "Kevin has faith that he can pass the exam.",
-"zh": "凱文相信自己可以通過考試。",
+"zh": "Kevin 相信自己可以通過考試。",
 "base": "faithful",
 "answer": "faith"
 },
@@ -19521,7 +19521,7 @@
 ],
 "q": {
 "en": "Amy likes to read fantasy stories before bed.",
-"zh": "艾咪喜歡睡前讀奇幻故事。",
+"zh": "Amy 喜歡睡前讀奇幻故事。",
 "base": "fantastic",
 "answer": "fantasy"
 },
@@ -19680,7 +19680,7 @@
 ],
 "q": {
 "en": "Lisa's favorite character is a fictional detective in a mystery book.",
-"zh": "麗莎最喜歡的角色是一本推理小說中虛構的偵探。",
+"zh": "Lisa 最喜歡的角色是一本推理小說中虛構的偵探。",
 "base": "fiction",
 "answer": "fictional"
 },
@@ -19721,7 +19721,7 @@
 ],
 "q": {
 "en": "Kevin's family can give him financial help for college.",
-"zh": "凱文的家人可以在經濟上幫助他上大學。",
+"zh": "Kevin 的家人可以在經濟上幫助他上大學。",
 "base": "finance",
 "answer": "financial"
 },
@@ -19744,7 +19744,7 @@
 ],
 "q": {
 "en": "Amy is saving money to become financially independent someday.",
-"zh": "艾咪正在存錢，希望有一天能在經濟上獨立。",
+"zh": "Amy 正在存錢，希望有一天能在經濟上獨立。",
 "base": "financial",
 "answer": "financially"
 },
@@ -19774,7 +19774,7 @@
 ],
 "q": {
 "en": "Ben knows that flattery will not help him pass the test.",
-"zh": "班知道奉承對他通過考試沒有幫助。",
+"zh": "Ben 知道奉承對他通過考試沒有幫助。",
 "base": "flatter",
 "answer": "flattery"
 },
@@ -19811,7 +19811,7 @@
 ],
 "q": {
 "en": "Doing yoga twice a week helps Amy improve her flexibility.",
-"zh": "每週做兩次瑜珈幫助艾咪提升柔軟度。",
+"zh": "每週做兩次瑜珈幫助 Amy 提升柔軟度。",
 "base": "flexible",
 "answer": "flexibility"
 },
@@ -19834,7 +19834,7 @@
 ],
 "q": {
 "en": "Lisa speaks English fluently after living abroad for a year.",
-"zh": "麗莎在國外住了一年後，英語說得很流利。",
+"zh": "Lisa 在國外住了一年後，英語說得很流利。",
 "base": "fluent",
 "answer": "fluently"
 },
@@ -19872,7 +19872,7 @@
 ],
 "q": {
 "en": "Eating in the library is forbidden by the school rules.",
-"zh": "依校規，在圖書館裡飲食是被禁止的。",
+"zh": "依照校規，圖書館裡禁止進食。",
 "base": "forbid",
 "answer": "forbidden"
 },
@@ -19944,8 +19944,8 @@
 ]
 ],
 "q": {
-"en": "Ben missed the bus but fortunately his father drove him to school.",
-"zh": "班錯過了公車，但幸好他爸爸開車載他去學校。",
+"en": "Ben missed the bus, but fortunately his father drove him to school.",
+"zh": "Ben 錯過了公車，但幸好他爸爸開車載他去學校。",
 "base": "fortunate",
 "answer": "fortunately"
 },
@@ -20031,7 +20031,7 @@
 ],
 "q": {
 "en": "Amy is a frequent visitor to the school library.",
-"zh": "艾咪是學校圖書館的常客。",
+"zh": "Amy 是學校圖書館的常客。",
 "base": "frequency",
 "answer": "frequent"
 },
@@ -20056,7 +20056,7 @@
 ],
 "q": {
 "en": "It was a frosty morning, so Amy wore a thick coat.",
-"zh": "那是個寒冷結霜的早晨，所以艾咪穿了厚外套。",
+"zh": "那是個寒冷結霜的早晨，所以 Amy 穿了厚外套。",
 "base": "frost",
 "answer": "frosty"
 },
@@ -20091,7 +20091,7 @@
 ],
 "q": {
 "en": "Kevin felt frustrated when his computer stopped working.",
-"zh": "凱文的電腦當機時，他覺得很挫折。",
+"zh": "Kevin 的電腦當機時，他覺得很挫折。",
 "base": "frustrate",
 "answer": "frustrated"
 },
@@ -20173,7 +20173,7 @@
 ],
 "q": {
 "en": "Amy and Ben think fundamentally differently about money.",
-"zh": "艾咪和班對金錢的看法根本上就不同。",
+"zh": "Amy 和 Ben 對金錢的看法根本上就不同。",
 "base": "fundamental",
 "answer": "fundamentally"
 },
@@ -20198,12 +20198,12 @@
 [
 "furiously",
 "adv.",
-"狂怒地"
+"狂怒地；拚命地"
 ]
 ],
 "q": {
 "en": "Kevin typed furiously to finish the report before midnight.",
-"zh": "凱文拚命打字，想在午夜前完成報告。",
+"zh": "Kevin 拚命打字，想在午夜前完成報告。",
 "base": "furious",
 "answer": "furiously"
 },
@@ -20279,7 +20279,7 @@
 ],
 "q": {
 "en": "Brown eyes are a genetic trait that runs in Amy's family.",
-"zh": "棕色眼睛是艾咪家族遺傳的特徵。",
+"zh": "棕色眼睛是 Amy 家族遺傳的特徵。",
 "base": "gene",
 "answer": "genetic"
 },
@@ -20355,7 +20355,7 @@
 ],
 "q": {
 "en": "Amy genuinely wants to help her classmates with their English homework.",
-"zh": "艾咪真心想幫助同學寫英文作業。",
+"zh": "Amy 真心想幫助同學寫英文作業。",
 "base": "genuine",
 "answer": "genuinely"
 },
@@ -20380,7 +20380,7 @@
 ],
 "q": {
 "en": "Amy has a gift for music and plays the piano very well.",
-"zh": "艾咪有音樂天分，鋼琴彈得非常好。",
+"zh": "Amy 有音樂天分，鋼琴彈得非常好。",
 "base": "gifted",
 "answer": "gift"
 },
@@ -20425,8 +20425,8 @@
 ]
 ],
 "q": {
-"en": "Plastic waste is a global problem that needs our help.",
-"zh": "塑膠垃圾是需要我們出力的全球性問題。",
+"en": "Plastic waste is a global problem that we all need to help solve.",
+"zh": "塑膠垃圾是需要大家一起出力解決的全球性問題。",
 "base": "globe",
 "answer": "global"
 },
@@ -20532,7 +20532,7 @@
 ],
 "q": {
 "en": "Mr. Chen graciously invited all of us to his home for tea.",
-"zh": "陳老師親切地邀請我們全部到他家喝茶。",
+"zh": "陳老師親切地邀請我們大家到他家喝茶。",
 "base": "gracious",
 "answer": "graciously"
 },
@@ -20550,7 +20550,7 @@
 ],
 "q": {
 "en": "Kevin will graduate from senior high school next June.",
-"zh": "凱文明年六月就要高中畢業了。",
+"zh": "Kevin 明年六月就要高中畢業了。",
 "base": "graduation",
 "answer": "graduate"
 },
@@ -20637,12 +20637,12 @@
 [
 "ungrateful",
 "adj.",
-"不感激的"
+"不知感恩的"
 ]
 ],
 "q": {
 "en": "Amy wrote a card to show her gratitude to the teacher.",
-"zh": "艾咪寫了一張卡片向老師表達感謝。",
+"zh": "Amy 寫了一張卡片向老師表達感謝。",
 "base": "grateful",
 "answer": "gratitude"
 },
@@ -20706,7 +20706,7 @@
 ],
 "q": {
 "en": "Lisa washed the grease off the plate with hot water.",
-"zh": "麗莎用熱水把盤子上的油洗掉。",
+"zh": "Lisa 用熱水把盤子上的油洗掉。",
 "base": "greasy",
 "answer": "grease"
 },
@@ -20742,7 +20742,7 @@
 ],
 "q": {
 "en": "Kevin began to grieve when his old dog died.",
-"zh": "凱文的老狗死掉時，他開始感到悲痛。",
+"zh": "Kevin 的老狗死掉時，他開始感到悲痛。",
 "base": "grief",
 "answer": "grieve"
 },
@@ -20797,7 +20797,7 @@
 ],
 "q": {
 "en": "Ben felt guilty about breaking his sister's cup.",
-"zh": "班為打破妹妹的杯子感到內疚。",
+"zh": "Ben 為打破妹妹的杯子感到內疚。",
 "base": "guilt",
 "answer": "guilty"
 },
@@ -20820,7 +20820,7 @@
 ],
 "q": {
 "en": "Lisa felt a deep sense of guilt after lying to her mother.",
-"zh": "麗莎對媽媽說謊後，內心感到很深的愧疚。",
+"zh": "Lisa 對媽媽說謊後，內心感到很深的愧疚。",
 "base": "guilty",
 "answer": "guilt"
 },
@@ -20875,7 +20875,7 @@
 ],
 "q": {
 "en": "Amy gave her friend a handwritten card for her birthday.",
-"zh": "艾咪送給朋友一張手寫的生日卡片。",
+"zh": "Amy 送給朋友一張手寫的生日卡片。",
 "base": "handwriting",
 "answer": "handwritten"
 },
@@ -20912,7 +20912,7 @@
 ],
 "q": {
 "en": "Lisa's family has a harmonious relationship with their neighbors.",
-"zh": "麗莎的家人和鄰居相處得很和諧。",
+"zh": "Lisa 的家人和鄰居相處得很和諧。",
 "base": "harmony",
 "answer": "harmonious"
 },
@@ -20986,7 +20986,7 @@
 ],
 "q": {
 "en": "Ben hastily packed his bag and ran to the bus stop.",
-"zh": "班匆匆收好書包，跑向公車站。",
+"zh": "Ben 匆匆收好書包，跑向公車站。",
 "base": "hasten",
 "answer": "hastily"
 },
@@ -21048,7 +21048,7 @@
 ],
 "q": {
 "en": "Amy did not hesitate to help the old man.",
-"zh": "艾咪毫不猶豫地幫助那位老先生。",
+"zh": "Amy 毫不猶豫地幫助那位老先生。",
 "base": "hesitation",
 "answer": "hesitate"
 },
@@ -21266,7 +21266,7 @@
 ],
 "q": {
 "en": "Can you identify the bird in this picture, Lisa?",
-"zh": "麗莎，你能認出這張照片裡的鳥嗎？",
+"zh": "Lisa，你能認出這張照片裡的鳥嗎？",
 "base": "identification",
 "answer": "identify"
 },
@@ -21475,7 +21475,7 @@
 ],
 "q": {
 "en": "Lisa has a rich imagination and writes wonderful stories.",
-"zh": "麗莎想像力豐富，寫出很棒的故事。",
+"zh": "Lisa 想像力豐富，總能寫出很棒的故事。",
 "base": "imaginative",
 "answer": "imagination"
 },
@@ -21534,7 +21534,7 @@
 ],
 "q": {
 "en": "Amy's uncle plans to immigrate to Canada next year.",
-"zh": "艾咪的叔叔打算明年移民加拿大。",
+"zh": "Amy 的叔叔打算明年移民加拿大。",
 "base": "immigrant",
 "answer": "immigrate"
 },
@@ -21557,7 +21557,7 @@
 ],
 "q": {
 "en": "Amy's uncle is an immigrant who now lives in Canada.",
-"zh": "艾咪的叔叔是個移民，現在住在加拿大。",
+"zh": "Amy 的叔叔是個移民，現在住在加拿大。",
 "base": "immigrate",
 "answer": "immigrant"
 },
@@ -21646,7 +21646,7 @@
 ],
 "q": {
 "en": "Mr. Chen was impressed by Amy's clear speech.",
-"zh": "陳老師對艾咪清楚的演講印象深刻。",
+"zh": "陳老師對 Amy 清楚的演講印象深刻。",
 "base": "impression",
 "answer": "impressed"
 },
@@ -21782,7 +21782,7 @@
 ],
 "q": {
 "en": "Ben uses a pump to inflate his bike tires.",
-"zh": "班用打氣筒給他的腳踏車輪胎打氣。",
+"zh": "Ben 用打氣筒給他的腳踏車輪胎打氣。",
 "base": "inflation",
 "answer": "inflate"
 },
@@ -21853,7 +21853,7 @@
 ],
 "q": {
 "en": "Amy was initially afraid of dogs but now loves them.",
-"zh": "艾咪起初很怕狗，但現在很喜歡牠們。",
+"zh": "Amy 起初很怕狗，但現在很喜歡牠們。",
 "base": "initial",
 "answer": "initially"
 },
@@ -21876,7 +21876,7 @@
 ],
 "q": {
 "en": "Kevin missed the game because of a knee injury.",
-"zh": "凱文因為膝蓋受傷而錯過了比賽。",
+"zh": "Kevin 因為膝蓋受傷而錯過了比賽。",
 "base": "injure",
 "answer": "injury"
 },
@@ -21947,7 +21947,7 @@
 ],
 "q": {
 "en": "The teacher will inspect our desks before we leave school today.",
-"zh": "老師在我們放學前會檢查我們的書桌。",
+"zh": "今天放學前，老師會檢查我們的書桌。",
 "base": "inspection",
 "answer": "inspect"
 },
@@ -21975,7 +21975,7 @@
 ],
 "q": {
 "en": "Mr. Chen gave us an inspiring speech before the final exam.",
-"zh": "陳老師在期末考前給了我們一場鼓舞人心的演講。",
+"zh": "陳老師在期末考前為我們做了一場鼓舞人心的演講。",
 "base": "inspiration",
 "answer": "inspiring"
 },
@@ -21997,8 +21997,8 @@
 ]
 ],
 "q": {
-"en": "Her grandmother was the inspiration for Amy's first short story.",
-"zh": "艾咪的奶奶是她第一篇短篇故事的靈感來源。",
+"en": "Amy's grandmother was the inspiration for her first short story.",
+"zh": "Amy 的奶奶是她第一篇短篇故事的靈感來源。",
 "base": "inspire",
 "answer": "inspiration"
 },
@@ -22039,7 +22039,7 @@
 ],
 "q": {
 "en": "Kevin's instinctive reaction was to catch the falling cup.",
-"zh": "凱文的本能反應就是去接住掉落的杯子。",
+"zh": "Kevin 的本能反應就是去接住掉落的杯子。",
 "base": "instinct",
 "answer": "instinctive"
 },
@@ -22067,7 +22067,7 @@
 ],
 "q": {
 "en": "Lisa followed the teacher's instruction and handed in her homework early.",
-"zh": "麗莎遵照老師的指示，提早交了作業。",
+"zh": "Lisa 遵照老師的指示，提早交了作業。",
 "base": "instruct",
 "answer": "instruction"
 },
@@ -22131,7 +22131,7 @@
 ],
 "q": {
 "en": "Dad decided to insure his new car against theft and accidents.",
-"zh": "爸爸決定為他的新車投保防竊與意外險。",
+"zh": "爸爸決定為他的新車投保竊盜險和意外險。",
 "base": "insurance",
 "answer": "insure"
 },
@@ -22177,7 +22177,7 @@
 ],
 "q": {
 "en": "Amy is an intelligent girl who always gets top scores in math.",
-"zh": "艾咪是個聰明的女孩，數學總是拿高分。",
+"zh": "Amy 是個聰明的女孩，數學總是拿高分。",
 "base": "intelligence",
 "answer": "intelligent"
 },
@@ -22205,7 +22205,7 @@
 ],
 "q": {
 "en": "I had no intention of hurting your feelings, Ben.",
-"zh": "班，我沒有要傷害你感情的意思。",
+"zh": "Ben，我沒有要傷害你感情的意思。",
 "base": "intend",
 "answer": "intention"
 },
@@ -22228,7 +22228,7 @@
 ],
 "q": {
 "en": "The intensity of the sunlight made it hard to keep our eyes open.",
-"zh": "陽光的強度讓我們很難睜開眼睛。",
+"zh": "陽光強度太高，讓我們很難睜開眼睛。",
 "base": "intense",
 "answer": "intensity"
 },
@@ -22251,7 +22251,7 @@
 ],
 "q": {
 "en": "Kevin felt intense pain in his leg after the basketball game.",
-"zh": "籃球賽後，凱文覺得腿部劇烈疼痛。",
+"zh": "籃球賽後，Kevin 覺得腿部劇烈疼痛。",
 "base": "intensity",
 "answer": "intense"
 },
@@ -22297,7 +22297,7 @@
 ],
 "q": {
 "en": "I did not intend to be rude when I laughed at Ben.",
-"zh": "我笑班的時候並不是有意要無禮。",
+"zh": "我笑 Ben 的時候並不是有意要無禮。",
 "base": "intention",
 "answer": "intend"
 },
@@ -22391,7 +22391,7 @@
 ],
 "q": {
 "en": "Lisa works as an interpreter at international business meetings in Taipei.",
-"zh": "麗莎在台北的國際商務會議擔任口譯員。",
+"zh": "Lisa 在台北的國際商務會議擔任口譯員。",
 "base": "interpret",
 "answer": "interpreter"
 },
@@ -22409,7 +22409,7 @@
 ],
 "q": {
 "en": "Please do not interrupt others while they are speaking in class.",
-"zh": "請不要在別人說話時打斷他們。",
+"zh": "上課時，請不要打斷別人說話。",
 "base": "interruption",
 "answer": "interrupt"
 },
@@ -22440,7 +22440,7 @@
 ],
 "q": {
 "en": "Lisa made an intuitive choice and picked the correct answer.",
-"zh": "麗莎憑直覺做了選擇，結果選對了答案。",
+"zh": "Lisa 憑直覺做了選擇，結果選對了答案。",
 "base": "intuition",
 "answer": "intuitive"
 },
@@ -22480,8 +22480,8 @@
 ]
 ],
 "q": {
-"en": "Too many tourists tend to invade the quiet old street on weekends.",
-"zh": "週末總有太多遊客湧入這條安靜的老街。",
+"en": "Crowds of tourists invade the quiet old street every weekend.",
+"zh": "每到週末，大批遊客就湧入這條安靜的老街。",
 "base": "invasion",
 "answer": "invade"
 },
@@ -22527,7 +22527,7 @@
 ],
 "q": {
 "en": "Kevin's uncle is a smart investor who reads the news every morning.",
-"zh": "凱文的叔叔是個精明的投資人，每天早上都看新聞。",
+"zh": "Kevin 的叔叔是個精明的投資人，每天早上都看新聞。",
 "base": "invest",
 "answer": "investor"
 },
@@ -22563,12 +22563,12 @@
 [
 "involved",
 "adj.",
-"涉及的"
+"參與的；有關的"
 ]
 ],
 "q": {
 "en": "Ben was deeply involved in the school's music club last year.",
-"zh": "班去年深入參與學校的音樂社。",
+"zh": "Ben 去年非常投入學校音樂社的活動。",
 "base": "involve",
 "answer": "involved"
 },
@@ -22613,8 +22613,8 @@
 ]
 ],
 "q": {
-"en": "Amy felt isolated when she moved to a new school in the middle of term.",
-"zh": "艾咪學期中轉到新學校時覺得很孤立。",
+"en": "Amy felt isolated when she moved to a new school in the middle of the semester.",
+"zh": "Amy 學期中轉到新學校時覺得很孤立。",
 "base": "isolation",
 "answer": "isolated"
 },
@@ -22634,12 +22634,12 @@
 [
 "jealous",
 "adj.",
-"嫉妒的"
+"忌妒的"
 ]
 ],
 "q": {
 "en": "Kevin felt jealous when his classmate won the first prize.",
-"zh": "凱文看到同學得到第一名時覺得很嫉妒。",
+"zh": "Kevin 看到同學得到第一名時覺得很忌妒。",
 "base": "jealousy",
 "answer": "jealous"
 },
@@ -22737,7 +22737,7 @@
 [
 "enlarge",
 "v.",
-"擴大"
+"擴大；放大"
 ]
 ],
 "q": {
@@ -22802,7 +22802,7 @@
 ],
 "q": {
 "en": "Amy enjoys learning new words by playing games on her phone.",
-"zh": "艾咪喜歡用手機玩遊戲來學新單字。",
+"zh": "Amy 喜歡用手機玩遊戲來學新單字。",
 "base": "learned",
 "answer": "learning"
 },
@@ -22820,7 +22820,7 @@
 ],
 "q": {
 "en": "The lecturer explained the topic clearly, so everyone understood the lesson.",
-"zh": "講師把主題解釋得很清楚，所以大家都懂這堂課。",
+"zh": "講師把主題解釋得很清楚，所以大家都聽懂了這堂課的內容。",
 "base": "lecture",
 "answer": "lecturer"
 },
@@ -22838,7 +22838,7 @@
 ],
 "q": {
 "en": "Mr. Chen will lecture on healthy eating habits in the hall.",
-"zh": "陳老師將在禮堂演講健康飲食習慣。",
+"zh": "陳老師將在禮堂演講，主題是健康飲食習慣。",
 "base": "lecturer",
 "answer": "lecture"
 },
@@ -22851,7 +22851,7 @@
 [
 "legendary",
 "adj.",
-"傳說的"
+"傳說的；傳奇的"
 ]
 ],
 "q": {
@@ -22874,7 +22874,7 @@
 ],
 "q": {
 "en": "Lisa likes to read novels in her leisure time on weekends.",
-"zh": "麗莎週末的空閒時間喜歡看小說。",
+"zh": "Lisa 週末閒暇時喜歡看小說。",
 "base": "leisurely",
 "answer": "leisure"
 },
@@ -22910,7 +22910,7 @@
 [
 "lie",
 "v./n.",
-"說謊"
+"說謊；謊言"
 ]
 ],
 "q": {
@@ -22933,7 +22933,7 @@
 ],
 "q": {
 "en": "Ben borrowed three comic books from the school library yesterday.",
-"zh": "班昨天從學校圖書館借了三本漫畫。",
+"zh": "Ben 昨天從學校圖書館借了三本漫畫。",
 "base": "librarian",
 "answer": "library"
 },
@@ -23025,7 +23025,7 @@
 ],
 "q": {
 "en": "Amy wants to study Chinese literature at a university in Taipei.",
-"zh": "艾咪想在台北的大學念中國文學。",
+"zh": "Amy 想在台北的大學念中國文學。",
 "base": "literary",
 "answer": "literature"
 },
@@ -23043,7 +23043,7 @@
 ],
 "q": {
 "en": "Lisa joined the literary club because she loves writing short stories.",
-"zh": "麗莎加入文學社，因為她愛寫短篇故事。",
+"zh": "Lisa 加入文學社，因為她愛寫短篇故事。",
 "base": "literature",
 "answer": "literary"
 },
@@ -23085,7 +23085,7 @@
 ],
 "q": {
 "en": "Ben gave a logical answer to the difficult math question.",
-"zh": "班對那道困難的數學題給了合乎邏輯的答案。",
+"zh": "Ben 對那道困難的數學題給了合乎邏輯的答案。",
 "base": "logic",
 "answer": "logical"
 },
@@ -23126,7 +23126,7 @@
 ],
 "q": {
 "en": "Kevin's shoes were too loose, so he tied them again.",
-"zh": "凱文的鞋子太鬆了，所以他又綁了一次。",
+"zh": "Kevin 的鞋子太鬆了，所以他又綁了一次。",
 "base": "loosen",
 "answer": "loose"
 },
@@ -23192,7 +23192,7 @@
 ],
 "q": {
 "en": "Amy hopes to enjoy a life of luxury after she grows up.",
-"zh": "艾咪希望長大後能過奢華的生活。",
+"zh": "Amy 希望長大後能過奢華的生活。",
 "base": "luxurious",
 "answer": "luxury"
 },
@@ -23251,7 +23251,7 @@
 ],
 "q": {
 "en": "Kevin stuck a small magnet on the refrigerator door.",
-"zh": "凱文把一個小磁鐵貼在冰箱門上。",
+"zh": "Kevin 把一個小磁鐵貼在冰箱門上。",
 "base": "magnetic",
 "answer": "magnet"
 },
@@ -23283,7 +23283,7 @@
 ],
 "q": {
 "en": "The door is broken, so we have to open it manually.",
-"zh": "門壞了，所以我們得用手動打開。",
+"zh": "門壞了，所以我們得手動打開。",
 "base": "manual",
 "answer": "manually"
 },
@@ -23361,7 +23361,7 @@
 ],
 "q": {
 "en": "Amy is very mature for her age and always helps others.",
-"zh": "艾咪以她的年齡來說很成熟，總是幫助別人。",
+"zh": "Amy 以她的年齡來說很成熟，總是幫助別人。",
 "base": "maturity",
 "answer": "mature"
 },
@@ -23494,7 +23494,7 @@
 ],
 "q": {
 "en": "Amy has a good memory for faces and names.",
-"zh": "艾咪對人臉和名字的記憶力很好。",
+"zh": "Amy 對人臉和名字的記憶力很好。",
 "base": "memorable",
 "answer": "memory"
 },
@@ -23517,7 +23517,7 @@
 ],
 "q": {
 "en": "Ben still has a happy memory of that summer camp.",
-"zh": "班對那次夏令營仍有快樂的回憶。",
+"zh": "Ben 對那次夏令營仍有快樂的回憶。",
 "base": "memorial",
 "answer": "memory"
 },
@@ -23539,8 +23539,8 @@
 ]
 ],
 "q": {
-"en": "The trip to the zoo was a memorable day for the kids.",
-"zh": "去動物園的那趟旅行對孩子們是難忘的一天。",
+"en": "The trip to the zoo was a memorable experience for the kids.",
+"zh": "去動物園的那趟旅行，對孩子們來說是難忘的經驗。",
 "base": "memorize",
 "answer": "memorable"
 },
@@ -23570,7 +23570,7 @@
 ],
 "q": {
 "en": "The merciful teacher gave Ben another chance to hand in his work.",
-"zh": "仁慈的老師再給了班一次交作業的機會。",
+"zh": "仁慈的老師再給了 Ben 一次交作業的機會。",
 "base": "mercy",
 "answer": "merciful"
 },
@@ -23588,7 +23588,7 @@
 ],
 "q": {
 "en": "It was merely a joke, so please don't be angry, Amy.",
-"zh": "那只是個玩笑，所以艾咪請別生氣。",
+"zh": "Amy，那只是個玩笑，請別生氣。",
 "base": "mere",
 "answer": "merely"
 },
@@ -23613,7 +23613,7 @@
 ],
 "q": {
 "en": "Kevin left a message on the board for his classmates.",
-"zh": "凱文在布告欄上留了一則訊息給同學。",
+"zh": "Kevin 在布告欄上留了一則訊息給同學。",
 "base": "messenger",
 "answer": "message"
 },
@@ -23626,12 +23626,12 @@
 [
 "mess",
 "n./v.",
-"髒亂"
+"髒亂；弄亂"
 ]
 ],
 "q": {
 "en": "Lisa's room was a mess after the busy exam week.",
-"zh": "忙碌的考試週過後，麗莎的房間亂成一團。",
+"zh": "忙碌的考試週過後，Lisa 的房間亂成一團。",
 "base": "messy",
 "answer": "mess"
 },
@@ -23752,7 +23752,7 @@
 ],
 "q": {
 "en": "A new rule from the ministry will start next semester.",
-"zh": "部會的新規定將從下學期開始實施。",
+"zh": "教育部的新規定將從下學期開始實施。",
 "base": "minister",
 "answer": "ministry"
 },
@@ -23839,7 +23839,7 @@
 ],
 "q": {
 "en": "Amy was sad because, unfortunately, she lost her new umbrella.",
-"zh": "艾咪很難過，因為很不幸地她弄丟了新雨傘。",
+"zh": "Amy 很難過，因為她很不幸地弄丟了新雨傘。",
 "base": "misfortune",
 "answer": "unfortunately"
 },
@@ -23875,7 +23875,7 @@
 ],
 "q": {
 "en": "It was just a misunderstanding, so Ben and Kevin soon became friends again.",
-"zh": "那只是個誤會，所以班和凱文很快又成了朋友。",
+"zh": "那只是個誤會，所以 Ben 和 Kevin 很快又成了朋友。",
 "base": "misunderstand",
 "answer": "misunderstanding"
 },
@@ -23898,7 +23898,7 @@
 ],
 "q": {
 "en": "Kevin exercises moderately three times a week to stay healthy.",
-"zh": "凱文每週適度運動三次來保持健康。",
+"zh": "Kevin 每週適度運動三次來保持健康。",
 "base": "moderate",
 "answer": "moderately"
 },
@@ -23921,7 +23921,7 @@
 ],
 "q": {
 "en": "Lisa smiled modestly when everyone praised her singing.",
-"zh": "大家稱讚麗莎的歌聲時，她謙虛地笑了笑。",
+"zh": "大家稱讚 Lisa 的歌聲時，她謙虛地笑了笑。",
 "base": "modest",
 "answer": "modestly"
 },
@@ -23944,7 +23944,7 @@
 ],
 "q": {
 "en": "Despite his success, Ben stays modest and kind to his classmates.",
-"zh": "儘管很成功，班對同學依然謙虛又和善。",
+"zh": "儘管很成功，Ben 對同學依然謙虛又和善。",
 "base": "modesty",
 "answer": "modest"
 },
@@ -23983,12 +23983,12 @@
 [
 "motivated",
 "adj.",
-"有動機的"
+"有動力的；積極的"
 ]
 ],
 "q": {
 "en": "Amy is a motivated student who studies English every day.",
-"zh": "艾咪是個很有學習動力的學生，每天都讀英文。",
+"zh": "Amy 是個很有學習動力的學生，每天都讀英文。",
 "base": "motivate",
 "answer": "motivated"
 },
@@ -24006,7 +24006,7 @@
 [
 "motivated",
 "adj.",
-"有動機的"
+"有動力的；積極的"
 ]
 ],
 "q": {
@@ -24047,7 +24047,7 @@
 ],
 "q": {
 "en": "Kevin's shoes were covered in mud after the hiking trip.",
-"zh": "健行之後，凱文的鞋子沾滿了泥巴。",
+"zh": "健行之後，Kevin 的鞋子沾滿了泥巴。",
 "base": "muddy",
 "answer": "mud"
 },
@@ -24077,7 +24077,7 @@
 ],
 "q": {
 "en": "Lisa learned the multiplication table in elementary school.",
-"zh": "麗莎在小學就學會了乘法表。",
+"zh": "Lisa 在小學就學會了乘法表。",
 "base": "multiple",
 "answer": "multiplication"
 },
@@ -24198,8 +24198,8 @@
 ]
 ],
 "q": {
-"en": "The old garden looked neglected after nobody took care of it.",
-"zh": "沒人照顧後，那座老花園看起來荒廢了。",
+"en": "The old garden looked neglected because nobody had taken care of it for years.",
+"zh": "那座老花園多年沒人照顧，看起來一片荒廢。",
 "base": "neglect",
 "answer": "neglected"
 },
@@ -24216,8 +24216,8 @@
 ]
 ],
 "q": {
-"en": "The two teams held a negotiation about the time of the game.",
-"zh": "兩隊就比賽時間進行了協商。",
+"en": "After a long negotiation, the two teams agreed on the time of the game.",
+"zh": "經過長時間的協商，兩隊終於談定了比賽時間。",
 "base": "negotiate",
 "answer": "negotiation"
 },
@@ -24256,7 +24256,7 @@
 ],
 "q": {
 "en": "Lisa made a sensible plan to save money for the trip.",
-"zh": "麗莎訂了一個明智的計畫來存旅行的錢。",
+"zh": "Lisa 訂了一個明智的計畫來存旅費。",
 "base": "nonsense",
 "answer": "sensible"
 },
@@ -24288,7 +24288,7 @@
 ],
 "q": {
 "en": "A large number of students joined the singing contest.",
-"zh": "大量的學生參加了歌唱比賽。",
+"zh": "很多學生參加了歌唱比賽。",
 "base": "numerous",
 "answer": "number"
 },
@@ -24449,7 +24449,7 @@
 ],
 "q": {
 "en": "Amy will observe the stars through her new telescope tonight.",
-"zh": "艾咪今晚要用新望遠鏡觀察星星。",
+"zh": "Amy 今晚要用新望遠鏡觀察星星。",
 "base": "observation",
 "answer": "observe"
 },
@@ -24532,7 +24532,7 @@
 ],
 "q": {
 "en": "Lisa wants to choose an occupation that helps other people.",
-"zh": "麗莎想選擇一個能幫助別人的職業。",
+"zh": "Lisa 想選擇一個能幫助別人的職業。",
 "base": "occupy",
 "answer": "occupation"
 },
@@ -24560,7 +24560,7 @@
 ],
 "q": {
 "en": "Ben felt offended when his friend laughed at his haircut.",
-"zh": "朋友嘲笑班的髮型時，他覺得被冒犯了。",
+"zh": "朋友嘲笑 Ben 的髮型時，他覺得被冒犯了。",
 "base": "offend",
 "answer": "offended"
 },
@@ -24583,7 +24583,7 @@
 ],
 "q": {
 "en": "Please avoid saying offensive things about other people's looks.",
-"zh": "請避免說冒犯別人外表的話。",
+"zh": "請避免針對別人的外表說冒犯人的話。",
 "base": "offense",
 "answer": "offensive"
 },
@@ -24606,7 +24606,7 @@
 ],
 "q": {
 "en": "I'm sorry if my joke seemed to offend you, Amy.",
-"zh": "艾咪，如果我的玩笑冒犯到你了，我很抱歉。",
+"zh": "Amy，如果我的玩笑冒犯到你了，我很抱歉。",
 "base": "offensive",
 "answer": "offend"
 },
@@ -24636,7 +24636,7 @@
 [
 "opposite",
 "adj./n.",
-"相反的"
+"相反的；相反的事物"
 ]
 ],
 "q": {
@@ -24703,7 +24703,7 @@
 ],
 "q": {
 "en": "Lisa volunteers at an orphanage every Sunday afternoon.",
-"zh": "麗莎每個週日下午到孤兒院當志工。",
+"zh": "Lisa 每個週日下午到孤兒院當志工。",
 "base": "orphan",
 "answer": "orphanage"
 },
@@ -24749,7 +24749,7 @@
 ],
 "q": {
 "en": "It's cold outside, so wear a warm coat, Ben.",
-"zh": "外面很冷，所以穿件暖和的外套吧，班。",
+"zh": "外面很冷，所以穿件暖和的外套吧，Ben。",
 "base": "overcoat",
 "answer": "coat"
 },
@@ -24830,7 +24830,7 @@
 ],
 "q": {
 "en": "The road was partially blocked by a fallen tree after the storm.",
-"zh": "暴風雨後，道路被一棵倒下的樹部分擋住了。",
+"zh": "暴風雨過後，一棵倒下的樹擋住了部分道路。",
 "base": "partial",
 "answer": "partially"
 },
@@ -24871,7 +24871,7 @@
 ],
 "q": {
 "en": "Kevin is my partner for the science project.",
-"zh": "凱文是我自然科專題的夥伴。",
+"zh": "Kevin 是我自然科專題的夥伴。",
 "base": "partnership",
 "answer": "partner"
 },
@@ -24951,7 +24951,7 @@
 [
 "percent",
 "n.",
-"百分之…"
+"百分之……"
 ]
 ],
 "q": {
@@ -24979,7 +24979,7 @@
 ],
 "q": {
 "en": "Lisa played the piano perfectly at the school concert.",
-"zh": "麗莎在學校音樂會上完美地彈奏了鋼琴。",
+"zh": "Lisa 在學校音樂會上完美地彈奏了鋼琴。",
 "base": "perfection",
 "answer": "perfectly"
 },
@@ -25027,7 +25027,7 @@
 ],
 "q": {
 "en": "Lisa tried to persuade her parents to let her join the camp.",
-"zh": "麗莎試著說服父母讓她參加營隊。",
+"zh": "Lisa 試著說服父母讓她參加營隊。",
 "base": "persuasion",
 "answer": "persuade"
 },
@@ -25050,7 +25050,7 @@
 ],
 "q": {
 "en": "Amy tried to persuade her brother to clean the kitchen with her.",
-"zh": "艾咪試著說服弟弟跟她一起打掃廚房。",
+"zh": "Amy 試著說服弟弟跟她一起打掃廚房。",
 "base": "persuasive",
 "answer": "persuade"
 },
@@ -25078,7 +25078,7 @@
 ],
 "q": {
 "en": "Ben is an optimistic boy who always sees the bright side.",
-"zh": "班是個樂觀的男孩，總是看到事情光明的一面。",
+"zh": "Ben 是個樂觀的男孩，總是看到事情光明的一面。",
 "base": "pessimistic",
 "answer": "optimistic"
 },
@@ -25125,8 +25125,8 @@
 ]
 ],
 "q": {
-"en": "Amy wants to take a class in philosophy at university.",
-"zh": "艾咪想在大學修一堂哲學課。",
+"en": "Amy wants to take a philosophy class in college.",
+"zh": "Amy 想在大學修一堂哲學課。",
 "base": "philosopher",
 "answer": "philosophy"
 },
@@ -25218,7 +25218,7 @@
 ],
 "q": {
 "en": "Kevin is physically strong because he plays basketball every day.",
-"zh": "凱文每天打籃球，所以身體很強壯。",
+"zh": "Kevin 每天打籃球，所以身體很強壯。",
 "base": "physical",
 "answer": "physically"
 },
@@ -25248,7 +25248,7 @@
 ],
 "q": {
 "en": "Lisa enjoys physics class because the experiments are fun.",
-"zh": "麗莎喜歡物理課，因為實驗很有趣。",
+"zh": "Lisa 喜歡物理課，因為實驗很有趣。",
 "base": "physicist",
 "answer": "physics"
 },
@@ -25378,7 +25378,7 @@
 ],
 "q": {
 "en": "Kevin is popular at school because he is kind to everyone.",
-"zh": "凱文在學校很受歡迎，因為他對每個人都很親切。",
+"zh": "Kevin 在學校很受歡迎，因為他對每個人都很親切。",
 "base": "popularity",
 "answer": "popular"
 },
@@ -25408,7 +25408,7 @@
 ],
 "q": {
 "en": "Amy drew a portrait of her grandmother for the art class.",
-"zh": "艾咪為美術課畫了一幅她奶奶的肖像。",
+"zh": "Amy 為美術課畫了一幅她奶奶的肖像。",
 "base": "portray",
 "answer": "portrait"
 },
@@ -25467,7 +25467,7 @@
 ],
 "q": {
 "en": "Ben went to the post office to mail a letter.",
-"zh": "班去郵局寄了一封信。",
+"zh": "Ben 去郵局寄了一封信。",
 "base": "postage",
 "answer": "post"
 },
@@ -25480,7 +25480,7 @@
 [
 "potentially",
 "adv.",
-"潛在地"
+"可能地；潛在地"
 ]
 ],
 "q": {
@@ -25559,7 +25559,7 @@
 ],
 "q": {
 "en": "Can you predict who will win the basketball game, Ben?",
-"zh": "班，你能預測誰會贏得籃球賽嗎？",
+"zh": "Ben，你能預測誰會贏得籃球賽嗎？",
 "base": "prediction",
 "answer": "predict"
 },
@@ -25598,12 +25598,12 @@
 [
 "present",
 "v./n.",
-"呈現；禮物"
+"呈現；報告；禮物"
 ]
 ],
 "q": {
 "en": "Amy will present her science project to the whole class tomorrow.",
-"zh": "艾咪明天要對全班報告她的自然科專題。",
+"zh": "Amy 明天要對全班報告她的自然科專題。",
 "base": "presentation",
 "answer": "present"
 },
@@ -25699,7 +25699,7 @@
 ],
 "q": {
 "en": "Ben must finish his homework prior to watching TV tonight.",
-"zh": "班今晚看電視之前必須先寫完功課。",
+"zh": "Ben 今晚看電視之前必須先寫完功課。",
 "base": "priority",
 "answer": "prior"
 },
@@ -25735,12 +25735,12 @@
 [
 "privileged",
 "adj.",
-"享有特權的"
+"享有特權的；榮幸的"
 ]
 ],
 "q": {
 "en": "Amy feels privileged to learn from such a kind teacher.",
-"zh": "艾咪覺得能向這麼親切的老師學習是一種榮幸。",
+"zh": "Amy 覺得能向這麼親切的老師學習是一種榮幸。",
 "base": "privilege",
 "answer": "privileged"
 },
@@ -25758,7 +25758,7 @@
 ],
 "q": {
 "en": "We will proceed to the next page after everyone finishes.",
-"zh": "大家完成後，我們就繼續進行下一頁。",
+"zh": "大家完成後，我們就繼續看下一頁。",
 "base": "procedure",
 "answer": "proceed"
 },
@@ -25817,7 +25817,7 @@
 [
 "professional",
 "adj./n.",
-"專業的"
+"專業的；專業人士"
 ],
 [
 "professor",
@@ -25827,7 +25827,7 @@
 ],
 "q": {
 "en": "Kevin's father is a professor at a university in Hsinchu.",
-"zh": "凱文的爸爸是新竹一所大學的教授。",
+"zh": "Kevin 的爸爸是新竹一所大學的教授。",
 "base": "profession",
 "answer": "professor"
 },
@@ -25863,12 +25863,12 @@
 [
 "profit",
 "n./v.",
-"利潤"
+"利潤；獲利"
 ]
 ],
 "q": {
 "en": "The small bookstore made a small profit last month.",
-"zh": "那家小書店上個月賺了一點小利潤。",
+"zh": "那家小書店上個月賺了一點利潤。",
 "base": "profitable",
 "answer": "profit"
 },
@@ -25906,7 +25906,7 @@
 [
 "promote",
 "v.",
-"促進；升遷"
+"促進；推廣；使升遷"
 ]
 ],
 "q": {
@@ -25928,8 +25928,8 @@
 ]
 ],
 "q": {
-"en": "Please reply promptly so we can book the restaurant soon.",
-"zh": "請盡快回覆，這樣我們才能很快訂餐廳。",
+"en": "Please reply promptly so we can book the restaurant in time.",
+"zh": "請盡快回覆，這樣我們才能及時訂到餐廳。",
 "base": "prompt",
 "answer": "promptly"
 },
@@ -25965,7 +25965,7 @@
 ],
 "q": {
 "en": "Kevin will propose a new idea for the class party.",
-"zh": "凱文會為班上派對提出一個新點子。",
+"zh": "Kevin 會為班上派對提出一個新點子。",
 "base": "proposal",
 "answer": "propose"
 },
@@ -26034,7 +26034,7 @@
 ],
 "q": {
 "en": "We wish you a year of health, happiness, and prosperity.",
-"zh": "祝你這一年健康、快樂又興盛。",
+"zh": "祝你這一年健康、快樂又富足。",
 "base": "prosperous",
 "answer": "prosperity"
 },
@@ -26071,7 +26071,7 @@
 ],
 "q": {
 "en": "Lisa wants to study psychology to understand how people think.",
-"zh": "麗莎想學心理學來了解人如何思考。",
+"zh": "Lisa 想學心理學來了解人如何思考。",
 "base": "psychological",
 "answer": "psychology"
 },
@@ -26140,7 +26140,7 @@
 ],
 "q": {
 "en": "The publisher will print ten thousand copies of the new novel.",
-"zh": "出版社將印一萬本這本新小說。",
+"zh": "出版社將把這本新小說印一萬本。",
 "base": "publication",
 "answer": "publisher"
 },
@@ -26152,8 +26152,8 @@
 "fam": [
 [
 "public",
-"adj.",
-"公共的"
+"adj./n.",
+"公共的；大眾"
 ],
 [
 "publicly",
@@ -26176,7 +26176,7 @@
 [
 "publication",
 "n.",
-"出版品"
+"出版；出版品"
 ],
 [
 "publisher",
@@ -26186,7 +26186,7 @@
 ],
 "q": {
 "en": "The publication of her first book made Lisa very happy.",
-"zh": "第一本書的出版讓麗莎非常開心。",
+"zh": "第一本書的出版讓 Lisa 非常開心。",
 "base": "publish",
 "answer": "publication"
 },
@@ -26199,7 +26199,7 @@
 [
 "publish",
 "v.",
-"出版"
+"出版；發表"
 ],
 [
 "publication",
@@ -26209,7 +26209,7 @@
 ],
 "q": {
 "en": "Amy hopes to publish her short stories in a school magazine.",
-"zh": "艾咪希望能在校刊上發表她的短篇故事。",
+"zh": "Amy 希望能在校刊上發表她的短篇故事。",
 "base": "publisher",
 "answer": "publish"
 },
@@ -26227,7 +26227,7 @@
 ],
 "q": {
 "en": "Ben's pursuit of his dream made him study hard every night.",
-"zh": "班為了追求夢想，每晚都很努力讀書。",
+"zh": "Ben 為了追求夢想，每晚都很努力讀書。",
 "base": "pursue",
 "answer": "pursuit"
 },
@@ -26240,12 +26240,12 @@
 [
 "pursue",
 "v.",
-"追求"
+"追求；從事"
 ]
 ],
 "q": {
 "en": "Kevin decided to pursue a career in music after graduating.",
-"zh": "凱文決定畢業後從事音樂工作。",
+"zh": "Kevin 決定畢業後從事音樂工作。",
 "base": "pursuit",
 "answer": "pursue"
 },
@@ -26272,7 +26272,7 @@
 [
 "quote",
 "v./n.",
-"引用"
+"引用；引文"
 ]
 ],
 "q": {
@@ -26380,8 +26380,8 @@
 ]
 ],
 "q": {
-"en": "Kevin will receive his school report next Friday.",
-"zh": "凱文下週五會收到他的成績單。",
+"en": "Kevin will receive his report card next Friday.",
+"zh": "Kevin 下週五會收到他的成績單。",
 "base": "reception",
 "answer": "receive"
 },
@@ -26406,7 +26406,7 @@
 ],
 "q": {
 "en": "Amy could not recognize her old friend after ten years.",
-"zh": "過了十年，艾咪認不出她的老朋友。",
+"zh": "過了十年，Amy 認不出她的老朋友。",
 "base": "recognition",
 "answer": "recognize"
 },
@@ -26424,7 +26424,7 @@
 ],
 "q": {
 "en": "Ben needs a few days to recover from his cold.",
-"zh": "班需要幾天的時間來從感冒中恢復。",
+"zh": "Ben 需要幾天時間才能從感冒中恢復過來。",
 "base": "recovery",
 "answer": "recover"
 },
@@ -26555,7 +26555,7 @@
 [
 "reflect",
 "v.",
-"反射；反映"
+"反射；倒映；反映"
 ]
 ],
 "q": {
@@ -26599,7 +26599,7 @@
 ],
 "q": {
 "en": "Kevin decided to refuse the extra dessert because he was full.",
-"zh": "凱文因為吃飽了，決定拒絕多的點心。",
+"zh": "Kevin 因為吃飽了，決定拒絕多出來的甜點。",
 "base": "refusal",
 "answer": "refuse"
 },
@@ -26648,7 +26648,7 @@
 [
 "register",
 "v./n.",
-"註冊"
+"註冊；報名"
 ]
 ],
 "q": {
@@ -26707,7 +26707,7 @@
 ],
 "q": {
 "en": "Lisa felt sad when the club chose to reject her idea.",
-"zh": "社團決定否決她的點子時，麗莎覺得很難過。",
+"zh": "社團決定否決她的點子時，Lisa 覺得很難過。",
 "base": "rejection",
 "answer": "reject"
 },
@@ -26735,7 +26735,7 @@
 ],
 "q": {
 "en": "After the exam, Ben took a relaxing bath at home.",
-"zh": "考完試後，班在家泡了個放鬆的澡。",
+"zh": "考完試後，Ben 在家泡了個澡，好好放鬆一下。",
 "base": "relaxation",
 "answer": "relaxing"
 },
@@ -26781,7 +26781,7 @@
 ],
 "q": {
 "en": "Amy felt relieved after she handed in her final report.",
-"zh": "艾咪交出期末報告後覺得鬆了一口氣。",
+"zh": "Amy 交出期末報告後覺得鬆了一口氣。",
 "base": "relieve",
 "answer": "relieved"
 },
@@ -26804,7 +26804,7 @@
 ],
 "q": {
 "en": "Ben reluctantly agreed to join the cleaning team after lunch.",
-"zh": "班不情願地同意午餐後加入打掃小組。",
+"zh": "Ben 不情願地同意午餐後加入打掃小組。",
 "base": "reluctant",
 "answer": "reluctantly"
 },
@@ -26827,7 +26827,7 @@
 ],
 "q": {
 "en": "Lisa made remarkable progress in English this semester.",
-"zh": "麗莎這學期的英文有顯著的進步。",
+"zh": "Lisa 這學期的英文有顯著的進步。",
 "base": "remark",
 "answer": "remarkable"
 },
@@ -26850,7 +26850,7 @@
 ],
 "q": {
 "en": "Ben made an interesting remark about the movie.",
-"zh": "班對那部電影發表了一個有趣的評論。",
+"zh": "Ben 對那部電影發表了有趣的評論。",
 "base": "remarkable",
 "answer": "remark"
 },
@@ -26921,12 +26921,12 @@
 [
 "representative",
 "n./adj.",
-"代表"
+"代表；有代表性的"
 ]
 ],
 "q": {
 "en": "Kevin will represent our class in the speech contest.",
-"zh": "凱文會代表我們班參加演講比賽。",
+"zh": "Kevin 會代表我們班參加演講比賽。",
 "base": "representation",
 "answer": "represent"
 },
@@ -26958,7 +26958,7 @@
 ],
 "q": {
 "en": "Amy wants to become a researcher who studies sea animals.",
-"zh": "艾咪想成為研究海洋動物的研究員。",
+"zh": "Amy 想成為研究海洋動物的研究員。",
 "base": "research",
 "answer": "researcher"
 },
@@ -26976,7 +26976,7 @@
 ],
 "q": {
 "en": "Lisa did some research on healthy food for her project.",
-"zh": "麗莎為了她的專題做了一些關於健康食物的研究。",
+"zh": "Lisa 為了專題，對健康食物做了一些研究。",
 "base": "researcher",
 "answer": "research"
 },
@@ -26994,7 +26994,7 @@
 ],
 "q": {
 "en": "There is a strong resemblance between Ben and his father.",
-"zh": "班和他爸爸長得非常像。",
+"zh": "Ben 和他爸爸長得非常像。",
 "base": "resemble",
 "answer": "resemblance"
 },
@@ -27017,7 +27017,7 @@
 ],
 "q": {
 "en": "Dad will reserve a table at the restaurant for Saturday night.",
-"zh": "爸爸會預訂餐廳週六晚上的一張桌子。",
+"zh": "爸爸會向餐廳預訂週六晚上的座位。",
 "base": "reservation",
 "answer": "reserve"
 },
@@ -27030,7 +27030,7 @@
 [
 "resignation",
 "n.",
-"辭職"
+"辭職；辭呈"
 ]
 ],
 "q": {
@@ -27066,7 +27066,7 @@
 [
 "resist",
 "v.",
-"抵抗"
+"抵抗；抗拒"
 ],
 [
 "resistant",
@@ -27094,7 +27094,7 @@
 ],
 "q": {
 "en": "Kevin was determined to resolve the problem before the next class.",
-"zh": "凱文決心在下一堂課前解決這個問題。",
+"zh": "Kevin 決心在下一堂課前解決這個問題。",
 "base": "resolution",
 "answer": "resolve"
 },
@@ -27112,7 +27112,7 @@
 ],
 "q": {
 "en": "Lisa's resolution this year is to read one book every week.",
-"zh": "麗莎今年的決心是每週讀一本書。",
+"zh": "Lisa 今年的決心是每週讀一本書。",
 "base": "resolve",
 "answer": "resolution"
 },
@@ -27168,7 +27168,7 @@
 ],
 "q": {
 "en": "Ben always speaks to his grandparents with great respect.",
-"zh": "班總是很恭敬地和祖父母說話。",
+"zh": "Ben 總是很恭敬地和祖父母說話。",
 "base": "respectful",
 "answer": "respect"
 },
@@ -27273,7 +27273,7 @@
 ],
 "q": {
 "en": "Please finish the revision of your essay before Friday.",
-"zh": "請在週五前完成你作文的修改。",
+"zh": "請在週五前把作文修改好。",
 "base": "revise",
 "answer": "revision"
 },
@@ -27291,7 +27291,7 @@
 ],
 "q": {
 "en": "Amy will revise her speech again tonight to make it shorter.",
-"zh": "艾咪今晚會再修改她的演講稿讓它變短。",
+"zh": "Amy 今晚會再修改演講稿，把它縮短一些。",
 "base": "revision",
 "answer": "revise"
 },
@@ -27327,7 +27327,7 @@
 ],
 "q": {
 "en": "The printing press led to a revolution in how people shared ideas.",
-"zh": "印刷術讓人們分享想法的方式出現了革命。",
+"zh": "印刷術為人們分享想法的方式帶來了一場革命。",
 "base": "revolutionary",
 "answer": "revolution"
 },
@@ -27340,12 +27340,12 @@
 [
 "rewarding",
 "adj.",
-"有收穫的"
+"有收穫的；有成就感的"
 ]
 ],
 "q": {
 "en": "Teaching young children is a rewarding job for many people.",
-"zh": "教導幼童對許多人來說是一份有收穫的工作。",
+"zh": "教導幼童對許多人來說是一份有成就感的工作。",
 "base": "reward",
 "answer": "rewarding"
 },
@@ -27448,7 +27448,7 @@
 [
 "rust",
 "n./v.",
-"鏽"
+"鏽；生鏽"
 ]
 ],
 "q": {
@@ -27495,7 +27495,7 @@
 ],
 "q": {
 "en": "Ben was satisfied with his score on the English test.",
-"zh": "班對自己的英文考試成績很滿意。",
+"zh": "Ben 對自己的英文考試成績很滿意。",
 "base": "satisfaction",
 "answer": "satisfied"
 },
@@ -27585,7 +27585,7 @@
 ],
 "q": {
 "en": "The sculptor spent two years making this stone lion.",
-"zh": "這位雕刻家花了兩年做這隻石獅。",
+"zh": "這位雕刻家花了兩年雕這座石獅。",
 "base": "sculpture",
 "answer": "sculptor"
 },
@@ -27643,7 +27643,7 @@
 ],
 "q": {
 "en": "Amy plans to settle in a small town near the sea.",
-"zh": "艾咪打算在海邊的小鎮定居。",
+"zh": "Amy 打算在海邊的小鎮定居。",
 "base": "settler",
 "answer": "settle"
 },
@@ -27666,7 +27666,7 @@
 ],
 "q": {
 "en": "Several trees were severely damaged by the strong typhoon.",
-"zh": "好幾棵樹被強烈颱風嚴重損壞。",
+"zh": "強烈颱風讓好幾棵樹嚴重受損。",
 "base": "severe",
 "answer": "severely"
 },
@@ -27720,7 +27720,7 @@
 ],
 "q": {
 "en": "Let's sit in the shade because the sun is too hot.",
-"zh": "我們坐在陰涼處吧，因為太陽太熱了。",
+"zh": "太陽太大了，我們坐到陰涼處吧。",
 "base": "shady",
 "answer": "shade"
 },
@@ -27743,7 +27743,7 @@
 ],
 "q": {
 "en": "Ben felt ashamed after he lied to his teacher.",
-"zh": "班對老師說謊後覺得很羞愧。",
+"zh": "Ben 對老師說謊後覺得很羞愧。",
 "base": "shameful",
 "answer": "ashamed"
 },
@@ -27846,7 +27846,7 @@
 ],
 "q": {
 "en": "Amy gave Lisa a sincere apology for being late.",
-"zh": "艾咪為遲到向麗莎誠懇地道歉。",
+"zh": "Amy 為遲到向 Lisa 誠懇地道歉。",
 "base": "sincerity",
 "answer": "sincere"
 },
@@ -27952,7 +27952,7 @@
 ],
 "q": {
 "en": "The stars sparkle brightly over the mountain village at night.",
-"zh": "星星在夜晚的山村上空明亮地閃爍。",
+"zh": "夜晚，山村上空的星星閃閃發亮。",
 "base": "spark",
 "answer": "sparkle"
 },
@@ -28082,7 +28082,7 @@
 ],
 "q": {
 "en": "Kevin lifts weights to build his strength for the basketball team.",
-"zh": "凱文舉重來為籃球隊鍛鍊體力。",
+"zh": "Kevin 舉重來為籃球隊鍛鍊體力。",
 "base": "strengthen",
 "answer": "strength"
 },
@@ -28100,7 +28100,7 @@
 ],
 "q": {
 "en": "Lisa wore a striped shirt to the school picnic yesterday.",
-"zh": "莉莎昨天穿了一件條紋襯衫去學校野餐。",
+"zh": "Lisa 昨天穿了一件條紋襯衫去學校野餐。",
 "base": "stripe",
 "answer": "striped"
 },
@@ -28141,7 +28141,7 @@
 [
 "suggest",
 "v.",
-"建議"
+"建議；推薦"
 ]
 ],
 "q": {
@@ -28164,7 +28164,7 @@
 ],
 "q": {
 "en": "Kevin wrote a short summary of the story for English class.",
-"zh": "凱文為英文課寫了這個故事的簡短摘要。",
+"zh": "Kevin 為英文課寫了這個故事的簡短摘要。",
 "base": "summarize",
 "answer": "summary"
 },
@@ -28263,7 +28263,7 @@
 ],
 "q": {
 "en": "Mr. Chen had no suspicion that the students planned a surprise.",
-"zh": "陳老師完全沒有懷疑學生們計畫了一個驚喜。",
+"zh": "陳老師完全沒有起疑，不知道學生們策劃了一個驚喜。",
 "base": "suspicious",
 "answer": "suspicion"
 },
@@ -28300,7 +28300,7 @@
 ],
 "q": {
 "en": "I sympathize with Amy because she lost her favorite pen.",
-"zh": "我很同情艾咪，因為她弄丟了最愛的筆。",
+"zh": "我很同情 Amy，因為她弄丟了最愛的筆。",
 "base": "sympathetic",
 "answer": "sympathize"
 },
@@ -28323,7 +28323,7 @@
 ],
 "q": {
 "en": "Lisa was very sympathetic when her friend failed the test.",
-"zh": "莉莎的朋友考試不及格時，她非常同情對方。",
+"zh": "Lisa 的朋友考試不及格時，她非常同情對方。",
 "base": "sympathy",
 "answer": "sympathetic"
 },
@@ -28346,7 +28346,7 @@
 ],
 "q": {
 "en": "Ben studies English systematically every night before bed.",
-"zh": "班每天晚上睡前都有系統地讀英文。",
+"zh": "Ben 每天晚上睡前都有系統地讀英文。",
 "base": "systematic",
 "answer": "systematically"
 },
@@ -28369,7 +28369,7 @@
 ],
 "q": {
 "en": "Amy had a technical problem with her computer this morning.",
-"zh": "艾咪今天早上的電腦出了技術上的問題。",
+"zh": "Amy 的電腦今天早上出了技術上的問題。",
 "base": "technician",
 "answer": "technical"
 },
@@ -28437,7 +28437,7 @@
 ],
 "q": {
 "en": "Lisa felt a lot of tension before the English speech contest.",
-"zh": "莉莎在英文演講比賽前感到非常緊張。",
+"zh": "Lisa 在英文演講比賽前感到非常緊張。",
 "base": "tense",
 "answer": "tension"
 },
@@ -28455,7 +28455,7 @@
 ],
 "q": {
 "en": "Ben felt tense before the big math exam this morning.",
-"zh": "班在今天早上的數學大考前覺得很緊張。",
+"zh": "Ben 在今天早上的數學大考前覺得很緊張。",
 "base": "tension",
 "answer": "tense"
 },
@@ -28468,7 +28468,7 @@
 [
 "terrible",
 "adj.",
-"可怕的"
+"可怕的；糟糕的"
 ],
 [
 "terrify",
@@ -28503,7 +28503,7 @@
 ],
 "q": {
 "en": "Amy cleaned her room thoroughly before her friends came over.",
-"zh": "艾咪在朋友來之前把房間徹底打掃乾淨。",
+"zh": "Amy 在朋友來之前把房間徹底打掃乾淨。",
 "base": "thorough",
 "answer": "thoroughly"
 },
@@ -28526,7 +28526,7 @@
 ],
 "q": {
 "en": "It was thoughtless of Kevin to forget his friend's birthday.",
-"zh": "凱文忘了朋友的生日，真是不體貼。",
+"zh": "Kevin 忘了朋友的生日，真是不體貼。",
 "base": "thoughtful",
 "answer": "thoughtless"
 },
@@ -28544,7 +28544,7 @@
 ],
 "q": {
 "en": "Ben is very ticklish, so he laughed when Amy touched him.",
-"zh": "班非常怕癢，所以艾咪碰他時他笑了出來。",
+"zh": "Ben 非常怕癢，所以 Amy 碰他時他笑了出來。",
 "base": "tickle",
 "answer": "ticklish"
 },
@@ -28637,7 +28637,7 @@
 [
 "tolerance",
 "n.",
-"容忍"
+"容忍；包容"
 ],
 [
 "tolerable",
@@ -28675,7 +28675,7 @@
 ],
 "q": {
 "en": "The pain in Amy's leg was tolerable, so she kept running.",
-"zh": "艾咪腿上的疼痛還能忍受，所以她繼續跑。",
+"zh": "Amy 腿上的疼痛還能忍受，所以她繼續跑。",
 "base": "tolerate",
 "answer": "tolerable"
 },
@@ -28709,7 +28709,7 @@
 [
 "tragic",
 "adj.",
-"悲劇的"
+"悲劇的；悲慘的"
 ],
 [
 "tragically",
@@ -28790,7 +28790,7 @@
 ],
 "q": {
 "en": "Amy wants to become a translator after she finishes college.",
-"zh": "艾咪想在大學畢業後成為一名譯者。",
+"zh": "Amy 想在大學畢業後成為一名譯者。",
 "base": "translate",
 "answer": "translator"
 },
@@ -28836,7 +28836,7 @@
 ],
 "q": {
 "en": "Kevin used a dictionary to help him with the translation.",
-"zh": "凱文用字典來幫助他完成翻譯。",
+"zh": "Kevin 借助字典來完成翻譯。",
 "base": "translator",
 "answer": "translation"
 },
@@ -28879,7 +28879,7 @@
 ],
 "q": {
 "en": "Lisa was tremendously happy when she won the speech contest.",
-"zh": "莉莎贏得演講比賽時開心極了。",
+"zh": "Lisa 贏得演講比賽時開心極了。",
 "base": "tremendous",
 "answer": "tremendously"
 },
@@ -28897,7 +28897,7 @@
 ],
 "q": {
 "en": "A small tribe lives deep in the mountains of that island.",
-"zh": "一個小部落住在那座島的深山裡。",
+"zh": "那座島的深山裡住著一個小部落。",
 "base": "tribal",
 "answer": "tribe"
 },
@@ -28933,7 +28933,7 @@
 ],
 "q": {
 "en": "Ben is in trouble because he forgot to finish his homework.",
-"zh": "班惹上麻煩了，因為他忘了寫完功課。",
+"zh": "Ben 惹上麻煩了，因為他忘了寫完功課。",
 "base": "troublesome",
 "answer": "trouble"
 },
@@ -28970,7 +28970,7 @@
 ],
 "q": {
 "en": "Kevin loves reading books about the universe and the stars.",
-"zh": "凱文喜歡讀關於宇宙和星星的書。",
+"zh": "Kevin 喜歡讀關於宇宙和星星的書。",
 "base": "universal",
 "answer": "universe"
 },
@@ -29021,7 +29021,7 @@
 ],
 "q": {
 "en": "Amy called her mother urgently because she missed the last bus.",
-"zh": "艾咪因為錯過末班公車，急忙打電話給媽媽。",
+"zh": "Amy 因為錯過末班公車，急忙打電話給媽媽。",
 "base": "urgent",
 "answer": "urgently"
 },
@@ -29067,7 +29067,7 @@
 ],
 "q": {
 "en": "Lisa found a vacant seat near the window on the bus.",
-"zh": "莉莎在公車上找到一個靠窗的空位。",
+"zh": "Lisa 在公車上找到一個靠窗的空位。",
 "base": "vacancy",
 "answer": "vacant"
 },
@@ -29110,7 +29110,7 @@
 ],
 "q": {
 "en": "Corn is Ben's favorite vegetable in the school lunch.",
-"zh": "玉米是班最喜歡的學校午餐蔬菜。",
+"zh": "在學校午餐的蔬菜中，Ben 最喜歡玉米。",
 "base": "vegetarian",
 "answer": "vegetable"
 },
@@ -29152,8 +29152,8 @@
 ]
 ],
 "q": {
-"en": "Kevin never tries to violate the rules of the school.",
-"zh": "凱文從不試圖違反學校的規定。",
+"en": "Kevin is careful never to violate the school rules.",
+"zh": "Kevin 很小心，從不違反校規。",
 "base": "violation",
 "answer": "violate"
 },
@@ -29178,7 +29178,7 @@
 ],
 "q": {
 "en": "Lisa stayed home because she had a viral infection last week.",
-"zh": "莉莎上週因為病毒感染而待在家裡。",
+"zh": "Lisa 上週因為病毒感染而待在家裡。",
 "base": "virus",
 "answer": "viral"
 },
@@ -29206,7 +29206,7 @@
 ],
 "q": {
 "en": "Ben wears glasses because his vision is not very clear.",
-"zh": "班戴眼鏡是因為他的視力不太好。",
+"zh": "Ben 戴眼鏡是因為他的視力不太好。",
 "base": "visual",
 "answer": "vision"
 },
@@ -29247,7 +29247,7 @@
 ],
 "q": {
 "en": "Amy voluntarily cleaned the classroom after school on Friday.",
-"zh": "艾咪星期五放學後自願打掃教室。",
+"zh": "Amy 星期五放學後自願打掃教室。",
 "base": "voluntary",
 "answer": "voluntarily"
 },
@@ -29300,7 +29300,7 @@
 ],
 "q": {
 "en": "Kevin stayed awake all night to finish his science report.",
-"zh": "凱文整晚沒睡以完成他的自然科報告。",
+"zh": "Kevin 為了完成自然科報告，整晚都沒睡。",
 "base": "waken",
 "answer": "awake"
 },
@@ -29364,7 +29364,7 @@
 ],
 "q": {
 "en": "Amy made a withdrawal from the bank to buy a gift.",
-"zh": "艾咪去銀行提了款來買禮物。",
+"zh": "Amy 去銀行提款買禮物。",
 "base": "withdraw",
 "answer": "withdrawal"
 },
@@ -29574,7 +29574,7 @@
 ],
 "q": {
 "en": "Amy's family found cheap accommodation near the night market.",
-"zh": "艾咪一家人在夜市附近找到便宜的住宿。",
+"zh": "Amy 一家人在夜市附近找到便宜的住宿。",
 "base": "accommodate",
 "answer": "accommodation"
 },
@@ -29638,7 +29638,7 @@
 ],
 "q": {
 "en": "Amy's mother works as an accountant at a small company.",
-"zh": "艾咪的媽媽在一家小公司擔任會計師。",
+"zh": "Amy 的媽媽在一家小公司擔任會計師。",
 "base": "accounting",
 "answer": "accountant"
 },
@@ -29668,7 +29668,7 @@
 ],
 "q": {
 "en": "Lisa has only one acquaintance in her new class.",
-"zh": "莉莎在新班級裡只認識一個人。",
+"zh": "Lisa 在新班級裡只認識一個人。",
 "base": "acquaint",
 "answer": "acquaintance"
 },
@@ -29686,7 +29686,7 @@
 ],
 "q": {
 "en": "Kevin hopes to acquire more English vocabulary this summer.",
-"zh": "凱文希望今年暑假能學到更多英文單字。",
+"zh": "Kevin 希望今年暑假能學到更多英文單字。",
 "base": "acquisition",
 "answer": "acquire"
 },
@@ -29714,7 +29714,7 @@
 ],
 "q": {
 "en": "Ben is an active member of the school music club.",
-"zh": "班是學校音樂社一位積極的成員。",
+"zh": "Ben 是學校音樂社一位積極的成員。",
 "base": "activist",
 "answer": "active"
 },
@@ -29790,7 +29790,7 @@
 ],
 "q": {
 "en": "Amy has an administrative job at the city library.",
-"zh": "艾咪在市立圖書館有一份行政工作。",
+"zh": "Amy 在市立圖書館有一份行政工作。",
 "base": "administrator",
 "answer": "administrative"
 },
@@ -29826,7 +29826,7 @@
 ],
 "q": {
 "en": "Everyone thinks Lisa's little puppy is absolutely adorable.",
-"zh": "大家都覺得莉莎的小狗可愛極了。",
+"zh": "大家都覺得 Lisa 的小狗可愛極了。",
 "base": "adore",
 "answer": "adorable"
 },
@@ -29849,7 +29849,7 @@
 ],
 "q": {
 "en": "Kevin never gave up when he faced adversity in life.",
-"zh": "凱文面對人生中的逆境時從不放棄。",
+"zh": "Kevin 面對人生中的逆境時從不放棄。",
 "base": "adverse",
 "answer": "adversity"
 },
@@ -29904,7 +29904,7 @@
 [
 "aggressively",
 "adv.",
-"積極地"
+"具攻擊性地；積極地"
 ]
 ],
 "q": {
@@ -29979,7 +29979,7 @@
 ],
 "q": {
 "en": "Ben has an allergy to peanuts, so he must be careful.",
-"zh": "班對花生過敏，所以他必須小心。",
+"zh": "Ben 對花生過敏，所以他必須小心。",
 "base": "allergic",
 "answer": "allergy"
 },
@@ -29997,7 +29997,7 @@
 ],
 "q": {
 "en": "Amy is allergic to cats, so she cannot have one.",
-"zh": "艾咪對貓過敏，所以不能養貓。",
+"zh": "Amy 對貓過敏，所以不能養貓。",
 "base": "allergy",
 "answer": "allergic"
 },
@@ -30060,7 +30060,7 @@
 ],
 "q": {
 "en": "The tailor made a small alteration to Ben's school uniform.",
-"zh": "裁縫師對班的學校制服做了一點小修改。",
+"zh": "裁縫師對 Ben 的學校制服做了一點小修改。",
 "base": "alter",
 "answer": "alteration"
 },
@@ -30083,7 +30083,7 @@
 ],
 "q": {
 "en": "Amy looked for an alternative way to get to school.",
-"zh": "艾咪找了另一條上學的路線。",
+"zh": "Amy 找了另一條上學的路線。",
 "base": "alternate",
 "answer": "alternative"
 },
@@ -30145,7 +30145,7 @@
 ],
 "q": {
 "en": "Lisa waited with great anticipation for the school trip.",
-"zh": "莉莎滿懷期待地等著學校旅行。",
+"zh": "Lisa 滿懷期待地等待校外教學到來。",
 "base": "anticipate",
 "answer": "anticipation"
 },
@@ -30207,7 +30207,7 @@
 ],
 "q": {
 "en": "Amy wants to study architecture at a university in Taipei.",
-"zh": "艾咪想在臺北的一所大學讀建築。",
+"zh": "Amy 想在臺北的一所大學讀建築。",
 "base": "architect",
 "answer": "architecture"
 },
@@ -30230,7 +30230,7 @@
 ],
 "q": {
 "en": "Ben's uncle is an architect who designs school buildings.",
-"zh": "班的叔叔是設計學校建築的建築師。",
+"zh": "Ben 的叔叔是設計學校建築的建築師。",
 "base": "architecture",
 "answer": "architect"
 },
@@ -30313,7 +30313,7 @@
 ],
 "q": {
 "en": "Lisa is assertive, so she always speaks up in class.",
-"zh": "莉莎很有主見，所以她總是在課堂上發言。",
+"zh": "Lisa 很有主見，所以她總是在課堂上發言。",
 "base": "assert",
 "answer": "assertive"
 },
@@ -30368,7 +30368,7 @@
 ],
 "q": {
 "en": "Everyone was astonished by Amy's beautiful singing voice.",
-"zh": "大家都被艾咪美妙的歌聲驚豔到了。",
+"zh": "大家都被 Amy 美妙的歌聲驚豔到了。",
 "base": "astonish",
 "answer": "astonished"
 },
@@ -30409,7 +30409,7 @@
 ],
 "q": {
 "en": "Kevin must attend the meeting after school today.",
-"zh": "凱文今天放學後必須出席會議。",
+"zh": "Kevin 今天放學後必須出席會議。",
 "base": "attendance",
 "answer": "attend"
 },
@@ -30450,7 +30450,7 @@
 [
 "authority",
 "n.",
-"權威；當局"
+"權力；權威；當局"
 ],
 [
 "authorized",
@@ -30557,7 +30557,7 @@
 ],
 "q": {
 "en": "Does this blue jacket belong to you or to Ben?",
-"zh": "這件藍色外套是你的還是班的？",
+"zh": "這件藍色外套是你的還是 Ben 的？",
 "base": "belongings",
 "answer": "belong"
 },
@@ -30644,7 +30644,7 @@
 ],
 "q": {
 "en": "Amy is the top student in biology class this semester.",
-"zh": "艾咪是這學期生物課的第一名。",
+"zh": "Amy 是這學期生物課的第一名。",
 "base": "biological",
 "answer": "biology"
 },
@@ -30753,7 +30753,7 @@
 ],
 "q": {
 "en": "Ben felt bored during the long speech on Monday morning.",
-"zh": "班在星期一早上那場冗長的演講中覺得很無聊。",
+"zh": "Ben 在星期一早上那場冗長的演講中覺得很無聊。",
 "base": "boredom",
 "answer": "bored"
 },
@@ -30784,8 +30784,8 @@
 ]
 ],
 "q": {
-"en": "Kevin joined the boxing club after school this year.",
-"zh": "凱文今年放學後加入了拳擊社。",
+"en": "Kevin joined the school boxing club this year.",
+"zh": "Kevin 今年加入了學校的拳擊社。",
 "base": "boxer",
 "answer": "boxing"
 },
@@ -30824,7 +30824,7 @@
 ],
 "q": {
 "en": "Lisa opened her browser to look up the answer.",
-"zh": "莉莎打開瀏覽器查詢答案。",
+"zh": "Lisa 打開瀏覽器查詢答案。",
 "base": "browse",
 "answer": "browser"
 },
@@ -30844,12 +30844,12 @@
 [
 "bulky",
 "adj.",
-"龐大的"
+"龐大的；笨重的"
 ]
 ],
 "q": {
 "en": "The bulky box was too heavy for Amy to carry.",
-"zh": "那個笨重的箱子對艾咪來說太重了，搬不動。",
+"zh": "那個笨重的箱子對 Amy 來說太重了，搬不動。",
 "base": "bulk",
 "answer": "bulky"
 },
@@ -30883,7 +30883,7 @@
 [
 "bury",
 "v.",
-"埋葬"
+"埋；埋葬"
 ]
 ],
 "q": {
@@ -30939,7 +30939,7 @@
 ],
 "q": {
 "en": "Ben is capable of solving hard math problems by himself.",
-"zh": "班有能力自己解出困難的數學題。",
+"zh": "Ben 有能力自己解出困難的數學題。",
 "base": "capability",
 "answer": "capable"
 },
@@ -30990,7 +30990,7 @@
 ],
 "q": {
 "en": "Amy walked cautiously across the wet floor in the hallway.",
-"zh": "艾咪小心翼翼地走過走廊濕滑的地板。",
+"zh": "Amy 小心翼翼地走過走廊濕滑的地板。",
 "base": "caution",
 "answer": "cautiously"
 },
@@ -31013,7 +31013,7 @@
 ],
 "q": {
 "en": "Kevin crossed the busy road with great caution.",
-"zh": "凱文非常小心地穿越繁忙的馬路。",
+"zh": "Kevin 非常小心地穿越繁忙的馬路。",
 "base": "cautious",
 "answer": "caution"
 },
@@ -31036,7 +31036,7 @@
 ],
 "q": {
 "en": "We will celebrate Lisa's birthday at a restaurant on Saturday.",
-"zh": "我們星期六會在餐廳幫莉莎慶生。",
+"zh": "我們星期六會在餐廳幫 Lisa 慶生。",
 "base": "celebrity",
 "answer": "celebrate"
 },
@@ -31078,7 +31078,7 @@
 ],
 "q": {
 "en": "Ben is certain that he will pass the English test.",
-"zh": "班確定他會通過英文考試。",
+"zh": "Ben 確定他會通過英文考試。",
 "base": "certainty",
 "answer": "certain"
 },
@@ -31133,7 +31133,7 @@
 ],
 "q": {
 "en": "Amy has a kind character, so everyone likes her.",
-"zh": "艾咪個性善良，所以大家都喜歡她。",
+"zh": "Amy 個性善良，所以大家都喜歡她。",
 "base": "characterize",
 "answer": "character"
 },
@@ -31276,7 +31276,7 @@
 ],
 "q": {
 "en": "Ben went to the clinic because he had a bad cold.",
-"zh": "班因為重感冒去了診所。",
+"zh": "Ben 因為重感冒去了診所。",
 "base": "clinical",
 "answer": "clinic"
 },
@@ -31336,7 +31336,7 @@
 ],
 "q": {
 "en": "Amy and Lisa will collaborate on the science project.",
-"zh": "艾咪和莉莎將合作完成自然科專題。",
+"zh": "Amy 和 Lisa 將合作完成自然科專題。",
 "base": "collaboration",
 "answer": "collaborate"
 },
@@ -31359,7 +31359,7 @@
 ],
 "q": {
 "en": "Kevin has a large collection of old coins at home.",
-"zh": "凱文家裡有一大批舊硬幣的收藏。",
+"zh": "Kevin 在家裡收藏了一大批舊硬幣。",
 "base": "collective",
 "answer": "collection"
 },
@@ -31382,7 +31382,7 @@
 ],
 "q": {
 "en": "Ben likes to collect stamps from different countries.",
-"zh": "班喜歡收集來自不同國家的郵票。",
+"zh": "Ben 喜歡收集來自不同國家的郵票。",
 "base": "collector",
 "answer": "collect"
 },
@@ -31461,7 +31461,7 @@
 ],
 "q": {
 "en": "Lisa left a kind comment under my photo.",
-"zh": "莉莎在我的照片下留了一則親切的留言。",
+"zh": "Lisa 在我的照片下留了一則親切的留言。",
 "base": "commentary",
 "answer": "comment"
 },
@@ -31484,7 +31484,7 @@
 ],
 "q": {
 "en": "Kevin likes to comment on the games during lunch break.",
-"zh": "凱文喜歡在午休時評論那些比賽。",
+"zh": "Kevin 喜歡在午休時評論那些比賽。",
 "base": "commentator",
 "answer": "comment"
 },
@@ -31514,7 +31514,7 @@
 ],
 "q": {
 "en": "Amy is committed to practicing the piano every day.",
-"zh": "艾咪致力於每天練習鋼琴。",
+"zh": "Amy 堅持每天練習鋼琴。",
 "base": "commitment",
 "answer": "committed"
 },
@@ -31560,7 +31560,7 @@
 ],
 "q": {
 "en": "Ben has to commute by train from Taoyuan to Taipei.",
-"zh": "班必須搭火車從桃園通勤到臺北。",
+"zh": "Ben 必須搭火車從桃園通勤到臺北。",
 "base": "commuter",
 "answer": "commute"
 },
@@ -31595,7 +31595,7 @@
 ],
 "q": {
 "en": "Amy made a careful comparison between the two phones.",
-"zh": "艾咪仔細比較了這兩支手機。",
+"zh": "Amy 仔細比較了這兩支手機。",
 "base": "comparable",
 "answer": "comparison"
 },
@@ -31613,7 +31613,7 @@
 ],
 "q": {
 "en": "Lisa is a compassionate girl who helps stray cats.",
-"zh": "莉莎是個有同情心的女孩，會幫助流浪貓。",
+"zh": "Lisa 是個有同情心的女孩，會幫助流浪貓。",
 "base": "compassion",
 "answer": "compassionate"
 },
@@ -31674,7 +31674,7 @@
 ],
 "q": {
 "en": "The shop gave Amy compensation for the broken cup.",
-"zh": "店家為破掉的杯子賠償了艾咪。",
+"zh": "店家為破掉的杯子賠償了 Amy。",
 "base": "compensate",
 "answer": "compensation"
 },
@@ -31733,7 +31733,7 @@
 ],
 "q": {
 "en": "Ben showed great competence in solving the computer problem.",
-"zh": "班在解決電腦問題時展現了高超的能力。",
+"zh": "Ben 在解決電腦問題時展現了高超的能力。",
 "base": "competent",
 "answer": "competence"
 },
@@ -31859,7 +31859,7 @@
 ],
 "q": {
 "en": "Lisa has very good reading comprehension in English and Chinese.",
-"zh": "莉莎的中英文閱讀理解力都非常好。",
+"zh": "Lisa 的中英文閱讀理解力都非常好。",
 "base": "comprehend",
 "answer": "comprehension"
 },
@@ -31882,7 +31882,7 @@
 ],
 "q": {
 "en": "Ben could not comprehend the long English sentence.",
-"zh": "班無法理解那個很長的英文句子。",
+"zh": "Ben 無法理解那個很長的英文句子。",
 "base": "comprehension",
 "answer": "comprehend"
 },
@@ -31958,7 +31958,7 @@
 ],
 "q": {
 "en": "Amy found the concept of time travel very interesting.",
-"zh": "艾咪覺得時間旅行這個概念很有趣。",
+"zh": "Amy 覺得時間旅行這個概念很有趣。",
 "base": "conception",
 "answer": "concept"
 },
@@ -31983,7 +31983,7 @@
 ],
 "q": {
 "en": "Kevin dreams of becoming a conductor of a famous orchestra.",
-"zh": "凱文夢想成為著名管弦樂團的指揮。",
+"zh": "Kevin 夢想成為著名管弦樂團的指揮。",
 "base": "conduct",
 "answer": "conductor"
 },
@@ -32001,7 +32001,7 @@
 ],
 "q": {
 "en": "Ben decided to confess that he broke the window.",
-"zh": "班決定坦白他打破了窗戶。",
+"zh": "Ben 決定坦白他打破了窗戶。",
 "base": "confession",
 "answer": "confess"
 },
@@ -32024,7 +32024,7 @@
 ],
 "q": {
 "en": "Amy is confident that she will win the speech contest.",
-"zh": "艾咪有信心會贏得演講比賽。",
+"zh": "Amy 有信心會贏得演講比賽。",
 "base": "confidential",
 "answer": "confident"
 },
@@ -32051,7 +32051,7 @@
 [
 "confrontation",
 "n.",
-"對抗"
+"對抗；衝突"
 ]
 ],
 "q": {
@@ -32074,7 +32074,7 @@
 ],
 "q": {
 "en": "Amy had to confront the problem before it got worse.",
-"zh": "艾咪必須在問題惡化前面對它。",
+"zh": "Amy 必須在問題惡化前面對它。",
 "base": "confrontation",
 "answer": "confront"
 },
@@ -32183,7 +32183,7 @@
 ],
 "q": {
 "en": "Ben went to consult his teacher about his future.",
-"zh": "班去向老師請教他的未來規劃。",
+"zh": "Ben 去向老師請教他的未來規劃。",
 "base": "consultation",
 "answer": "consult"
 },
@@ -32231,7 +32231,7 @@
 ],
 "q": {
 "en": "Lisa worried about the contamination of the river near her house.",
-"zh": "莉莎擔心她家附近河川的污染。",
+"zh": "Lisa 擔心她家附近河川的污染。",
 "base": "contaminate",
 "answer": "contamination"
 },
@@ -32295,7 +32295,7 @@
 ],
 "q": {
 "en": "Amy signed a contract with the phone company yesterday.",
-"zh": "艾咪昨天和電信公司簽了合約。",
+"zh": "Amy 昨天和電信公司簽了合約。",
 "base": "contractor",
 "answer": "contract"
 },
@@ -32367,7 +32367,7 @@
 ],
 "q": {
 "en": "Ben wants to convert his old room into a study.",
-"zh": "班想把他的舊房間改成書房。",
+"zh": "Ben 想把他的舊房間改成書房。",
 "base": "conversion",
 "answer": "convert"
 },
@@ -32479,7 +32479,7 @@
 ],
 "q": {
 "en": "Lisa dreams of working in a corporate office someday.",
-"zh": "莉莎夢想有一天能在公司辦公室上班。",
+"zh": "Lisa 夢想有一天能在公司辦公室上班。",
 "base": "corporation",
 "answer": "corporate"
 },
@@ -32509,7 +32509,7 @@
 ],
 "q": {
 "en": "Amy likes to correspond with her pen pal in Japan.",
-"zh": "艾咪喜歡和她在日本的筆友通信。",
+"zh": "Amy 喜歡和她在日本的筆友通信。",
 "base": "correspondent",
 "answer": "correspond"
 },
@@ -32575,7 +32575,7 @@
 ],
 "q": {
 "en": "Lisa talked to the school counselor about her worries.",
-"zh": "莉莎向學校輔導老師談了她的煩惱。",
+"zh": "Lisa 找學校的輔導老師談了她的煩惱。",
 "base": "counsel",
 "answer": "counselor"
 },
@@ -32593,12 +32593,12 @@
 [
 "counseling",
 "n.",
-"諮商"
+"諮商；輔導"
 ]
 ],
 "q": {
 "en": "Kevin received counseling from his teacher before the exam.",
-"zh": "凱文在考試前接受了老師的輔導。",
+"zh": "Kevin 在考試前接受了老師的輔導。",
 "base": "counselor",
 "answer": "counseling"
 },
@@ -32621,7 +32621,7 @@
 ],
 "q": {
 "en": "Ben always shows courtesy to older people on the bus.",
-"zh": "班在公車上總是對年長者很有禮貌。",
+"zh": "Ben 在公車上總是對年長者很有禮貌。",
 "base": "courteous",
 "answer": "courtesy"
 },
@@ -32657,7 +32657,7 @@
 [
 "incredible",
 "adj.",
-"難以置信的"
+"難以置信的；極好的"
 ]
 ],
 "q": {
@@ -32704,7 +32704,7 @@
 ],
 "q": {
 "en": "Ben's friends often criticize him for being late.",
-"zh": "班的朋友常常批評他遲到。",
+"zh": "Ben 的朋友常常批評他遲到。",
 "base": "criterion",
 "answer": "criticize"
 },
@@ -32762,7 +32762,7 @@
 ],
 "q": {
 "en": "Lisa is currently learning to play the guitar.",
-"zh": "莉莎目前正在學吉他。",
+"zh": "Lisa 目前正在學吉他。",
 "base": "currency",
 "answer": "currently"
 },
@@ -32798,7 +32798,7 @@
 ]
 ],
 "q": {
-"en": "It is a Taiwanese custom to give red envelopes at New Year.",
+"en": "It is a Taiwanese custom to give red envelopes during Lunar New Year.",
 "zh": "過年時給紅包是臺灣的習俗。",
 "base": "customs",
 "answer": "custom"
@@ -32866,7 +32866,7 @@
 ],
 "q": {
 "en": "That deceptive ad made Amy buy a useless product.",
-"zh": "那則誤導的廣告讓艾咪買了沒用的產品。",
+"zh": "那則騙人的廣告讓 Amy 買了沒用的產品。",
 "base": "deceive",
 "answer": "deceptive"
 },
@@ -32921,7 +32921,7 @@
 ],
 "q": {
 "en": "Ben is dedicated to learning English every single day.",
-"zh": "班致力於每天學習英文。",
+"zh": "Ben 每天都全心投入學習英文。",
 "base": "dedicate",
 "answer": "dedicated"
 },
@@ -32944,7 +32944,7 @@
 ],
 "q": {
 "en": "Kevin plays defense on our school basketball team.",
-"zh": "凱文在我們學校籃球隊擔任防守。",
+"zh": "Kevin 在我們學校籃球隊擔任防守。",
 "base": "defendant",
 "answer": "defense"
 },
@@ -32983,7 +32983,7 @@
 ],
 "q": {
 "en": "Lisa was chosen as a delegate for the student meeting.",
-"zh": "莉莎被選為學生會議的代表。",
+"zh": "Lisa 被選為學生會議的代表。",
 "base": "delegation",
 "answer": "delegate"
 },
@@ -33001,7 +33001,7 @@
 ],
 "q": {
 "en": "Ben deliberately hid his sister's shoes as a joke.",
-"zh": "班故意把他妹妹的鞋子藏起來開玩笑。",
+"zh": "Ben 故意把他妹妹的鞋子藏起來開玩笑。",
 "base": "deliberate",
 "answer": "deliberately"
 },
@@ -33037,7 +33037,7 @@
 ],
 "q": {
 "en": "Kevin tried to deny that he broke the vase.",
-"zh": "凱文試圖否認是他打破了花瓶。",
+"zh": "Kevin 試圖否認是他打破了花瓶。",
 "base": "denial",
 "answer": "deny"
 },
@@ -33097,7 +33097,7 @@
 ],
 "q": {
 "en": "Amy felt depressed after she lost the piano contest.",
-"zh": "艾咪輸了鋼琴比賽後覺得很沮喪。",
+"zh": "Amy 輸了鋼琴比賽後覺得很沮喪。",
 "base": "depress",
 "answer": "depressed"
 },
@@ -33129,7 +33129,7 @@
 ],
 "q": {
 "en": "Lisa is a descendant of a famous Taiwanese artist.",
-"zh": "莉莎是一位臺灣著名藝術家的後代。",
+"zh": "Lisa 是一位臺灣著名藝術家的後代。",
 "base": "descend",
 "answer": "descendant"
 },
@@ -33152,7 +33152,7 @@
 ],
 "q": {
 "en": "Please write a short description of your best friend.",
-"zh": "請寫一段對你最好朋友的簡短描述。",
+"zh": "請寫一小段文字，描述你最好的朋友。",
 "base": "descriptive",
 "answer": "description"
 },
@@ -33165,17 +33165,17 @@
 [
 "desperate",
 "adj.",
-"絕望的；拼命的"
+"絕望的；拚命的"
 ],
 [
 "desperately",
 "adv.",
-"拼命地"
+"拚命地"
 ]
 ],
 "q": {
 "en": "Ben was desperate to find his lost wallet.",
-"zh": "班急著要找回他弄丟的皮夾。",
+"zh": "Ben 急著要找回他弄丟的皮夾。",
 "base": "despair",
 "answer": "desperate"
 },
@@ -33235,7 +33235,7 @@
 ],
 "q": {
 "en": "Amy likes to devote her weekends to helping stray animals.",
-"zh": "艾咪喜歡把週末時間投入在幫助流浪動物上。",
+"zh": "Amy 喜歡把週末時間投入在幫助流浪動物上。",
 "base": "devotion",
 "answer": "devote"
 },
@@ -33253,7 +33253,7 @@
 ],
 "q": {
 "en": "The doctor gave Kevin a clear diagnosis of his cough.",
-"zh": "醫生給了凱文一個明確的咳嗽診斷。",
+"zh": "醫生對 Kevin 的咳嗽做出了明確的診斷。",
 "base": "diagnose",
 "answer": "diagnosis"
 },
@@ -33315,7 +33315,7 @@
 ],
 "q": {
 "en": "Eating slowly helps your stomach digest food more easily.",
-"zh": "慢慢吃有助於你的胃更容易消化食物。",
+"zh": "慢慢吃能讓你的胃更容易消化食物。",
 "base": "digestion",
 "answer": "digest"
 },
@@ -33359,7 +33359,7 @@
 ],
 "q": {
 "en": "Lisa's father is a diplomat who works in Europe.",
-"zh": "莉莎的爸爸是在歐洲工作的外交官。",
+"zh": "Lisa 的爸爸是在歐洲工作的外交官。",
 "base": "diplomatic",
 "answer": "diplomat"
 },
@@ -33410,7 +33410,7 @@
 ],
 "q": {
 "en": "Lisa's parents did not give their approval for the trip.",
-"zh": "莉莎的父母沒有同意這趟旅行。",
+"zh": "Lisa 的父母沒有同意這趟旅行。",
 "base": "disapprove",
 "answer": "approval"
 },
@@ -33554,7 +33554,7 @@
 [
 "distinct",
 "adj.",
-"明顯的；獨特的"
+"明顯的；不同的"
 ],
 [
 "distinctively",
@@ -33569,7 +33569,7 @@
 ],
 "q": {
 "en": "Amy can see a clear distinction between a hobby and a real job.",
-"zh": "艾咪看得出興趣和真正的工作之間有明顯的區別。",
+"zh": "Amy 看得出興趣和真正的工作之間有明顯的區別。",
 "base": "distinctive",
 "answer": "distinction"
 },
@@ -33650,7 +33650,7 @@
 ],
 "q": {
 "en": "Lisa saved the important document on her computer before leaving school.",
-"zh": "麗莎離開學校前把那份重要的文件存在電腦裡。",
+"zh": "Lisa 離開學校前把那份重要的文件存在電腦裡。",
 "base": "documentary",
 "answer": "document"
 },
@@ -33687,7 +33687,7 @@
 ],
 "q": {
 "en": "Kevin made a small donation to the school's charity sale.",
-"zh": "凱文對學校的義賣活動捐了一小筆錢。",
+"zh": "Kevin 對學校的義賣活動捐了一小筆錢。",
 "base": "donate",
 "answer": "donation"
 },
@@ -33710,7 +33710,7 @@
 ],
 "q": {
 "en": "Ben decided to donate his old books to the school library.",
-"zh": "班決定把他的舊書捐給學校圖書館。",
+"zh": "Ben 決定把他的舊書捐給學校圖書館。",
 "base": "donation",
 "answer": "donate"
 },
@@ -33770,7 +33770,7 @@
 ],
 "q": {
 "en": "It was dreadfully cold this morning, so Amy wore two jackets.",
-"zh": "今天早上冷得要命，所以艾咪穿了兩件外套。",
+"zh": "今天早上冷得要命，所以 Amy 穿了兩件外套。",
 "base": "dreadful",
 "answer": "dreadfully"
 },
@@ -33807,7 +33807,7 @@
 ],
 "q": {
 "en": "Ben wants to study ecology in college because he loves nature.",
-"zh": "班想在大學主修生態學，因為他熱愛大自然。",
+"zh": "Ben 想在大學主修生態學，因為他熱愛大自然。",
 "base": "ecological",
 "answer": "ecology"
 },
@@ -33858,7 +33858,7 @@
 ],
 "q": {
 "en": "Lisa wrote a report about the ecological balance of the wetland.",
-"zh": "麗莎寫了一份關於這片濕地生態平衡的報告。",
+"zh": "Lisa 寫了一份關於這片濕地生態平衡的報告。",
 "base": "ecosystem",
 "answer": "ecological"
 },
@@ -33906,12 +33906,12 @@
 [
 "ineligible",
 "adj.",
-"不合格的"
+"沒有資格的"
 ]
 ],
 "q": {
 "en": "Kevin was ineligible for the contest because he missed the first meeting.",
-"zh": "凱文因為錯過第一次會議，所以沒有資格參加比賽。",
+"zh": "Kevin 因為錯過第一次會議，所以沒有資格參加比賽。",
 "base": "eligible",
 "answer": "ineligible"
 },
@@ -33934,7 +33934,7 @@
 ],
 "q": {
 "en": "Amy spoke eloquently about the importance of recycling in the speech contest.",
-"zh": "艾咪在演講比賽中很有說服力地談到資源回收的重要性。",
+"zh": "Amy 在演講比賽中很有說服力地談到資源回收的重要性。",
 "base": "eloquent",
 "answer": "eloquently"
 },
@@ -33984,7 +33984,7 @@
 ],
 "q": {
 "en": "Lisa is an enterprising student who sells handmade cards at school.",
-"zh": "麗莎是個有進取心的學生，在學校賣手工卡片。",
+"zh": "Lisa 是個有進取心的學生，在學校賣手工卡片。",
 "base": "enterprise",
 "answer": "enterprising"
 },
@@ -34046,7 +34046,7 @@
 [
 "envy",
 "n./v.",
-"嫉妒"
+"羨慕；嫉妒"
 ],
 [
 "enviously",
@@ -34056,7 +34056,7 @@
 ],
 "q": {
 "en": "Kevin couldn't hide his envy when he saw Ben's new bike.",
-"zh": "凱文看到班的新腳踏車時，掩不住心中的羨慕。",
+"zh": "Kevin 看到 Ben 的新腳踏車時，掩不住心中的羨慕。",
 "base": "envious",
 "answer": "envy"
 },
@@ -34074,7 +34074,7 @@
 ],
 "q": {
 "en": "Mr. Chen has a clear vision of how our school should grow.",
-"zh": "陳老師對我們學校該如何成長有清楚的願景。",
+"zh": "陳老師對我們學校該如何發展有清楚的願景。",
 "base": "envision",
 "answer": "vision"
 },
@@ -34207,7 +34207,7 @@
 ],
 "q": {
 "en": "Waiting for the test results felt like an eternity to Amy.",
-"zh": "等待考試成績對艾咪來說像是一輩子那麼久。",
+"zh": "等待考試成績對 Amy 來說像是一輩子那麼久。",
 "base": "eternal",
 "answer": "eternity"
 },
@@ -34230,7 +34230,7 @@
 ],
 "q": {
 "en": "Cheating on a test is not ethical, and Ben knows that well.",
-"zh": "考試作弊不合乎道德，班心裡很清楚。",
+"zh": "考試作弊不合乎道德，Ben 心裡很清楚。",
 "base": "ethic",
 "answer": "ethical"
 },
@@ -34299,7 +34299,7 @@
 ],
 "q": {
 "en": "Kevin gave a short talk on the evolution of the bicycle.",
-"zh": "凱文做了一場關於腳踏車演進的簡短報告。",
+"zh": "Kevin 做了一場關於腳踏車演進的簡短報告。",
 "base": "evolve",
 "answer": "evolution"
 },
@@ -34368,7 +34368,7 @@
 ],
 "q": {
 "en": "Lisa is an exceptionally talented pianist for a girl her age.",
-"zh": "以她的年紀來說，麗莎是位格外有天分的鋼琴家。",
+"zh": "以她的年紀來說，Lisa 是位格外有天分的鋼琴家。",
 "base": "exceptional",
 "answer": "exceptionally"
 },
@@ -34396,7 +34396,7 @@
 ],
 "q": {
 "en": "Playing games excessively can hurt your eyes and your grades.",
-"zh": "過度玩遊戲會傷害你的眼睛和成績。",
+"zh": "過度玩遊戲會傷害你的眼睛，也會拖累成績。",
 "base": "excessive",
 "answer": "excessively"
 },
@@ -34414,7 +34414,7 @@
 ],
 "q": {
 "en": "Amy let out an exclamation of joy when she saw her grades.",
-"zh": "艾咪看到成績時發出一聲歡呼。",
+"zh": "Amy 看到成績時發出一聲歡呼。",
 "base": "exclaim",
 "answer": "exclamation"
 },
@@ -34442,7 +34442,7 @@
 ],
 "q": {
 "en": "Kevin felt sad about his exclusion from the class trip group chat.",
-"zh": "凱文因為被排除在校外教學的群組之外而感到難過。",
+"zh": "Kevin 因為被排除在校外教學的群組之外而感到難過。",
 "base": "exclude",
 "answer": "exclusion"
 },
@@ -34488,7 +34488,7 @@
 ],
 "q": {
 "en": "The successful execution of our plan needs help from every classmate.",
-"zh": "我們計畫的順利執行需要每位同學的幫忙。",
+"zh": "要順利執行我們的計畫，需要每位同學幫忙。",
 "base": "execute",
 "answer": "execution"
 },
@@ -34632,7 +34632,7 @@
 ],
 "q": {
 "en": "Ben likes to explore small streets when he visits a new city.",
-"zh": "班造訪新城市時喜歡探索小街小巷。",
+"zh": "Ben 造訪新城市時喜歡探索小街小巷。",
 "base": "exploration",
 "answer": "explore"
 },
@@ -34683,7 +34683,7 @@
 ],
 "q": {
 "en": "Kevin has read extensively about space since he was twelve.",
-"zh": "凱文從十二歲起就大量閱讀有關太空的書籍。",
+"zh": "Kevin 從十二歲起就大量閱讀有關太空的書籍。",
 "base": "extensive",
 "answer": "extensively"
 },
@@ -34822,7 +34822,7 @@
 ],
 "q": {
 "en": "Amy found the story about the lost island really fascinating.",
-"zh": "艾咪覺得那個關於失落島嶼的故事真的很吸引人。",
+"zh": "Amy 覺得那個關於失落島嶼的故事真的很吸引人。",
 "base": "fascinate",
 "answer": "fascinating"
 },
@@ -34898,7 +34898,7 @@
 ],
 "q": {
 "en": "Kevin is flexible about his schedule, so we can meet anytime.",
-"zh": "凱文的行程很有彈性，所以我們隨時都能見面。",
+"zh": "Kevin 的行程很有彈性，所以我們隨時都能見面。",
 "base": "flexibility",
 "answer": "flexible"
 },
@@ -34928,7 +34928,7 @@
 ],
 "q": {
 "en": "Amy speaks English fluently after living in Canada for two years.",
-"zh": "艾咪在加拿大住了兩年後，英文說得很流利。",
+"zh": "Amy 在加拿大住了兩年後，英文說得很流利。",
 "base": "fluency",
 "answer": "fluently"
 },
@@ -35081,7 +35081,7 @@
 ],
 "q": {
 "en": "Amy's grandmother told us stories about life in her generation.",
-"zh": "艾咪的奶奶跟我們說了她那個世代的生活故事。",
+"zh": "Amy 的奶奶跟我們說了她那個世代的生活故事。",
 "base": "generate",
 "answer": "generation"
 },
@@ -35208,7 +35208,7 @@
 ],
 "q": {
 "en": "Lisa drew a graph to show how her test scores changed.",
-"zh": "麗莎畫了一張圖表來呈現她的考試成績如何變化。",
+"zh": "Lisa 畫了一張圖表來呈現她的考試成績如何變化。",
 "base": "graphic",
 "answer": "graph"
 },
@@ -35228,7 +35228,7 @@
 [
 "greedy",
 "adj.",
-"貪心的"
+"貪心的；貪吃的"
 ],
 [
 "greedily",
@@ -35256,7 +35256,7 @@
 ],
 "q": {
 "en": "Amy felt deep grief when her pet cat passed away last year.",
-"zh": "艾咪的寵物貓去年過世時，她感到深深的悲痛。",
+"zh": "Amy 的寵物貓去年過世時，她感到深深的悲痛。",
 "base": "grieve",
 "answer": "grief"
 },
@@ -35423,7 +35423,7 @@
 ],
 "q": {
 "en": "Lisa will inherit her grandfather's old camera when she turns eighteen.",
-"zh": "麗莎滿十八歲時將繼承她爺爺的舊相機。",
+"zh": "Lisa 滿十八歲時將繼承她爺爺的舊相機。",
 "base": "heritage",
 "answer": "inherit"
 },
@@ -35450,7 +35450,7 @@
 [
 "honor",
 "n./v.",
-"榮譽；使光榮"
+"榮譽；榮幸；使光榮"
 ],
 [
 "honorably",
@@ -35460,7 +35460,7 @@
 ],
 "q": {
 "en": "It was a great honor for Amy to speak at the school ceremony.",
-"zh": "能在學校典禮上致詞對艾咪來說是很大的榮幸。",
+"zh": "能在學校典禮上致詞對 Amy 來說是很大的榮幸。",
 "base": "honorable",
 "answer": "honor"
 },
@@ -35606,7 +35606,7 @@
 ],
 "q": {
 "en": "Kevin enjoyed the school festival immensely and took many photos.",
-"zh": "凱文非常喜歡校慶，拍了很多照片。",
+"zh": "Kevin 非常喜歡校慶，拍了很多照片。",
 "base": "immense",
 "answer": "immensely"
 },
@@ -35660,7 +35660,7 @@
 ],
 "q": {
 "en": "Are you trying to imply that I forgot Amy's birthday?",
-"zh": "你是在暗示我忘了艾咪的生日嗎？",
+"zh": "你是在暗示我忘了 Amy 的生日嗎？",
 "base": "implication",
 "answer": "imply"
 },
@@ -35683,7 +35683,7 @@
 ],
 "q": {
 "en": "Ben is an impulsive person and often buys things without thinking.",
-"zh": "班是個衝動的人，常常不經思考就買東西。",
+"zh": "Ben 是個衝動的人，常常不經思考就買東西。",
 "base": "impulse",
 "answer": "impulsive"
 },
@@ -35722,7 +35722,7 @@
 ],
 "q": {
 "en": "Kevin's indifference to the group project made his teammates angry.",
-"zh": "凱文對小組報告漠不關心，讓他的組員很生氣。",
+"zh": "Kevin 對小組報告漠不關心，讓他的組員很生氣。",
 "base": "indifferent",
 "answer": "indifference"
 },
@@ -35800,7 +35800,7 @@
 ],
 "q": {
 "en": "Lisa took medicine for her ear infection and felt better soon.",
-"zh": "麗莎因為耳朵發炎吃了藥，很快就好多了。",
+"zh": "Lisa 因為耳朵發炎吃了藥，很快就好多了。",
 "base": "infect",
 "answer": "infection"
 },
@@ -35823,7 +35823,7 @@
 ],
 "q": {
 "en": "Amy is infinitely patient when she teaches her little brother math.",
-"zh": "艾咪教弟弟數學時有無限的耐心。",
+"zh": "Amy 教弟弟數學時有無限的耐心。",
 "base": "infinite",
 "answer": "infinitely"
 },
@@ -35860,7 +35860,7 @@
 ],
 "q": {
 "en": "Ben received a small inheritance from his grandfather last year.",
-"zh": "班去年從爺爺那裡得到一小筆遺產。",
+"zh": "Ben 去年從爺爺那裡得到一小筆遺產。",
 "base": "inherit",
 "answer": "inheritance"
 },
@@ -35878,7 +35878,7 @@
 ],
 "q": {
 "en": "Amy took the initiative to clean the classroom after the party.",
-"zh": "派對結束後，艾咪主動打掃教室。",
+"zh": "派對結束後，Amy 主動打掃教室。",
 "base": "initiate",
 "answer": "initiative"
 },
@@ -35914,7 +35914,7 @@
 ],
 "q": {
 "en": "Kevin felt a little pain when he got the flu injection.",
-"zh": "凱文打流感疫苗時覺得有點痛。",
+"zh": "Kevin 打流感疫苗時覺得有點痛。",
 "base": "inject",
 "answer": "injection"
 },
@@ -35961,7 +35961,7 @@
 ]
 ],
 "q": {
-"en": "Our school tries to innovate its teaching methods every year.",
+"en": "Our school tries to innovate in its teaching methods every year.",
 "zh": "我們學校每年都努力創新教學方法。",
 "base": "innovation",
 "answer": "innovate"
@@ -36003,7 +36003,7 @@
 ],
 "q": {
 "en": "Amy called the office to inquire about the school bus schedule.",
-"zh": "艾咪打電話到辦公室詢問校車的時刻表。",
+"zh": "Amy 打電話到辦公室詢問校車的時刻表。",
 "base": "inquiry",
 "answer": "inquire"
 },
@@ -36039,7 +36039,7 @@
 ],
 "q": {
 "en": "Mr. Lin gave us an insightful talk about choosing a career.",
-"zh": "林老師給了我們一場關於選擇職業、很有見地的演講。",
+"zh": "林老師為我們做了一場很有見地的演講，談如何選擇職業。",
 "base": "insight",
 "answer": "insightful"
 },
@@ -36057,7 +36057,7 @@
 ],
 "q": {
 "en": "Kevin helped his dad install a new light in the kitchen.",
-"zh": "凱文幫他爸爸在廚房裝了一盞新燈。",
+"zh": "Kevin 幫他爸爸在廚房裝了一盞新燈。",
 "base": "installation",
 "answer": "install"
 },
@@ -36093,7 +36093,7 @@
 ],
 "q": {
 "en": "Amy works at a research institute near her school.",
-"zh": "艾咪在她學校附近的一間研究機構工作。",
+"zh": "Amy 在她學校附近的一間研究機構工作。",
 "base": "institution",
 "answer": "institute"
 },
@@ -36199,7 +36199,7 @@
 ],
 "q": {
 "en": "Kevin broke the cup by accident, not intentionally.",
-"zh": "凱文是不小心打破杯子的，不是故意的。",
+"zh": "Kevin 是不小心打破杯子的，不是故意的。",
 "base": "intent",
 "answer": "intentionally"
 },
@@ -36217,7 +36217,7 @@
 ],
 "q": {
 "en": "Please do not interfere when Ben is doing his homework.",
-"zh": "班在寫功課時請不要打擾他。",
+"zh": "Ben 在寫功課時請不要打擾他。",
 "base": "interference",
 "answer": "interfere"
 },
@@ -36347,7 +36347,7 @@
 ],
 "q": {
 "en": "Amy wants to be a journalist and write for a newspaper.",
-"zh": "艾咪想當記者，為報紙寫文章。",
+"zh": "Amy 想當記者，為報紙寫文章。",
 "base": "journalism",
 "answer": "journalist"
 },
@@ -36360,12 +36360,12 @@
 [
 "journalism",
 "n.",
-"新聞業"
+"新聞業；新聞學"
 ]
 ],
 "q": {
 "en": "Ben is studying journalism because he enjoys writing about school news.",
-"zh": "班在讀新聞學，因為他喜歡寫校園新聞。",
+"zh": "Ben 在讀新聞學，因為他喜歡寫校園新聞。",
 "base": "journalist",
 "answer": "journalism"
 },
@@ -36388,7 +36388,7 @@
 ],
 "q": {
 "en": "Lisa made a wise judgment by finishing her homework first.",
-"zh": "麗莎先完成功課，做了一個明智的判斷。",
+"zh": "Lisa 先完成功課，做了一個明智的判斷。",
 "base": "judicial",
 "answer": "judgment"
 },
@@ -36425,7 +36425,7 @@
 ],
 "q": {
 "en": "Kevin gave no good justification for being late to class again.",
-"zh": "凱文對再次上課遲到沒有給出任何像樣的理由。",
+"zh": "Kevin 又上課遲到了，卻提不出任何像樣的理由。",
 "base": "justify",
 "answer": "justification"
 },
@@ -36490,7 +36490,7 @@
 ],
 "q": {
 "en": "Ben's uncle may sue the company because of the broken phone.",
-"zh": "班的叔叔可能會因為壞掉的手機而控告那家公司。",
+"zh": "Ben 的叔叔可能會因為壞掉的手機而控告那家公司。",
 "base": "lawsuit",
 "answer": "sue"
 },
@@ -36630,7 +36630,7 @@
 ],
 "q": {
 "en": "It is unlikely that Kevin will be late because he lives next door.",
-"zh": "凱文不太可能遲到，因為他就住在隔壁。",
+"zh": "Kevin 不太可能遲到，因為他就住在隔壁。",
 "base": "likelihood",
 "answer": "unlikely"
 },
@@ -36786,7 +36786,7 @@
 ],
 "q": {
 "en": "Kevin worked hard to master the piano before the school concert.",
-"zh": "凱文在校內音樂會前努力精通鋼琴。",
+"zh": "Kevin 在校內音樂會前努力精通鋼琴。",
 "base": "masterpiece",
 "answer": "master"
 },
@@ -36834,7 +36834,7 @@
 ],
 "q": {
 "en": "Ben's uncle is a mechanic who fixes cars at a small shop.",
-"zh": "班的叔叔是機械技師，在一間小店修車。",
+"zh": "Ben 的叔叔是機械技師，在一間小店修車。",
 "base": "mechanism",
 "answer": "mechanic"
 },
@@ -36857,7 +36857,7 @@
 ],
 "q": {
 "en": "Amy took some medicine for her cold and went to bed early.",
-"zh": "艾咪吃了一些感冒藥就早早上床睡覺。",
+"zh": "Amy 吃了一些感冒藥就早早上床睡覺。",
 "base": "medication",
 "answer": "medicine"
 },
@@ -36970,7 +36970,7 @@
 ],
 "q": {
 "en": "Lisa needs a minimum of sixty points to pass the quiz.",
-"zh": "麗莎至少需要六十分才能通過這次小考。",
+"zh": "Lisa 至少需要六十分才能通過這次小考。",
 "base": "minimal",
 "answer": "minimum"
 },
@@ -37043,7 +37043,7 @@
 ],
 "q": {
 "en": "Kevin was hurt by the mockery of his classmates.",
-"zh": "凱文被同學的嘲笑傷到了。",
+"zh": "同學的嘲笑讓 Kevin 很受傷。",
 "base": "mock",
 "answer": "mockery"
 },
@@ -37117,7 +37117,7 @@
 ],
 "q": {
 "en": "Ben learned an important moral lesson from the old story.",
-"zh": "班從那個老故事裡學到了重要的道德教訓。",
+"zh": "Ben 從那個老故事裡學到了重要的道德教訓。",
 "base": "morality",
 "answer": "moral"
 },
@@ -37229,7 +37229,7 @@
 ],
 "q": {
 "en": "Lisa loves reading Greek mythology in her free time.",
-"zh": "麗莎空閒時喜歡讀希臘神話。",
+"zh": "Lisa 空閒時喜歡讀希臘神話。",
 "base": "myth",
 "answer": "mythology"
 },
@@ -37252,7 +37252,7 @@
 ],
 "q": {
 "en": "Amy naively believed that the test would be easy.",
-"zh": "艾咪天真地以為這次考試會很簡單。",
+"zh": "Amy 天真地以為這次考試會很簡單。",
 "base": "naive",
 "answer": "naively"
 },
@@ -37330,7 +37330,7 @@
 ],
 "q": {
 "en": "Amy was happy to receive a nomination for class leader.",
-"zh": "艾咪很高興獲得班長的提名。",
+"zh": "Amy 很高興被提名為班長候選人。",
 "base": "nominate",
 "answer": "nomination"
 },
@@ -37353,7 +37353,7 @@
 ],
 "q": {
 "en": "We will nominate Kevin as the leader of our science club.",
-"zh": "我們會提名凱文擔任我們科學社的社長。",
+"zh": "我們會提名 Kevin 擔任我們科學社的社長。",
 "base": "nomination",
 "answer": "nominate"
 },
@@ -37376,7 +37376,7 @@
 ],
 "q": {
 "en": "Our class will nominate Lisa as the best reader this year.",
-"zh": "我們班會提名麗莎為今年的閱讀之星。",
+"zh": "我們班會提名 Lisa 為今年的閱讀之星。",
 "base": "nominee",
 "answer": "nominate"
 },
@@ -37427,7 +37427,7 @@
 ],
 "q": {
 "en": "Ben's temperature was normal, so he went to school as usual.",
-"zh": "班的體溫正常，所以他照常去上學。",
+"zh": "Ben 的體溫正常，所以他照常去上學。",
 "base": "norm",
 "answer": "normal"
 },
@@ -37450,7 +37450,7 @@
 ],
 "q": {
 "en": "Amy has improved noticeably in math since she joined the study group.",
-"zh": "艾咪加入讀書小組後，數學明顯進步了。",
+"zh": "Amy 加入讀書小組後，數學明顯進步了。",
 "base": "noticeable",
 "answer": "noticeably"
 },
@@ -37586,7 +37586,7 @@
 ],
 "q": {
 "en": "Amy likes to observe birds in the park every Sunday morning.",
-"zh": "艾咪喜歡每個星期天早上在公園觀察鳥類。",
+"zh": "Amy 喜歡每個星期天早上在公園觀察鳥類。",
 "base": "observer",
 "answer": "observe"
 },
@@ -37687,7 +37687,7 @@
 ],
 "q": {
 "en": "Lisa sat on the opposite side of the table from Amy.",
-"zh": "麗莎坐在桌子對面，正對著艾咪。",
+"zh": "Lisa 坐在桌子對面，正對著 Amy。",
 "base": "opposition",
 "answer": "opposite"
 },
@@ -37733,7 +37733,7 @@
 ],
 "q": {
 "en": "Amy is optimistic about the result because she studied hard.",
-"zh": "艾咪對結果很樂觀，因為她很用功。",
+"zh": "Amy 對結果很樂觀，因為她很用功。",
 "base": "optimism",
 "answer": "optimistic"
 },
@@ -37786,7 +37786,7 @@
 ],
 "q": {
 "en": "Ben only buys organic vegetables from the farmers' market.",
-"zh": "班只在農夫市集買有機蔬菜。",
+"zh": "Ben 只在農夫市集買有機蔬菜。",
 "base": "organism",
 "answer": "organic"
 },
@@ -37814,7 +37814,7 @@
 ],
 "q": {
 "en": "Lisa's original idea won first prize in the school contest.",
-"zh": "麗莎的原創點子在校內比賽中得到第一名。",
+"zh": "Lisa 的原創點子在校內比賽中得到第一名。",
 "base": "originality",
 "answer": "original"
 },
@@ -37911,7 +37911,7 @@
 ],
 "q": {
 "en": "Kevin felt overwhelmed by all the homework due this week.",
-"zh": "凱文對這週要交的所有功課感到不知所措。",
+"zh": "Kevin 對這週要交的所有功課感到不知所措。",
 "base": "overwhelm",
 "answer": "overwhelmed"
 },
@@ -37971,7 +37971,7 @@
 ],
 "q": {
 "en": "Amy only had partial answers to the last three questions.",
-"zh": "艾咪對最後三題只答得出一部分。",
+"zh": "Amy 對最後三題只答得出一部分。",
 "base": "partly",
 "answer": "partial"
 },
@@ -37994,7 +37994,7 @@
 ],
 "q": {
 "en": "Kevin has a deep passion for playing the guitar.",
-"zh": "凱文對彈吉他有很深的熱情。",
+"zh": "Kevin 對彈吉他充滿熱情。",
 "base": "passionate",
 "answer": "passion"
 },
@@ -38089,7 +38089,7 @@
 ],
 "q": {
 "en": "Ben's perception of the test changed after he studied with Amy.",
-"zh": "班和艾咪一起讀書後，他對這次考試的看法改變了。",
+"zh": "Ben 和 Amy 一起讀書後，他對這次考試的看法改變了。",
 "base": "perceive",
 "answer": "perception"
 },
@@ -38130,7 +38130,7 @@
 ],
 "q": {
 "en": "Lisa will perform a violin solo at the school festival.",
-"zh": "麗莎將在校慶上表演小提琴獨奏。",
+"zh": "Lisa 將在校慶上表演小提琴獨奏。",
 "base": "performer",
 "answer": "perform"
 },
@@ -38143,7 +38143,7 @@
 [
 "persistent",
 "adj.",
-"堅持的"
+"堅持不懈的；持續的"
 ],
 [
 "persistence",
@@ -38201,7 +38201,7 @@
 ],
 "q": {
 "en": "Ben felt pessimistic about the game after losing the first set.",
-"zh": "班輸了第一局之後，對這場比賽感到悲觀。",
+"zh": "Ben 輸了第一局之後，對這場比賽感到悲觀。",
 "base": "pessimism",
 "answer": "pessimistic"
 },
@@ -38250,7 +38250,7 @@
 ],
 "q": {
 "en": "Amy took a beautiful photograph of the sunset from the school roof.",
-"zh": "艾咪從學校屋頂拍了一張美麗的夕陽照片。",
+"zh": "Amy 從學校屋頂拍了一張美麗的夕陽照片。",
 "base": "photographic",
 "answer": "photograph"
 },
@@ -38309,7 +38309,7 @@
 ],
 "q": {
 "en": "Kevin can pitch the ball very fast in baseball practice.",
-"zh": "凱文在棒球練習時可以投出很快的球。",
+"zh": "Kevin 在棒球練習時可以投出很快的球。",
 "base": "pitcher",
 "answer": "pitch"
 },
@@ -38352,7 +38352,7 @@
 ],
 "q": {
 "en": "Amy listened to her brother's plea for more game time.",
-"zh": "艾咪聽了弟弟想多玩一點遊戲的請求。",
+"zh": "Amy 聽了弟弟想多玩一點遊戲的請求。",
 "base": "plead",
 "answer": "plea"
 },
@@ -38401,7 +38401,7 @@
 ],
 "q": {
 "en": "Lisa wrote a short poem for her mother on Mother's Day.",
-"zh": "麗莎在母親節為媽媽寫了一首短詩。",
+"zh": "Lisa 在母親節為媽媽寫了一首短詩。",
 "base": "poetic",
 "answer": "poem"
 },
@@ -38440,7 +38440,7 @@
 ],
 "q": {
 "en": "Ben needs more practice before the English speech contest.",
-"zh": "班在英語演講比賽前需要多練習。",
+"zh": "Ben 在英語演講比賽前需要多練習。",
 "base": "practitioner",
 "answer": "practice"
 },
@@ -38477,7 +38477,7 @@
 ],
 "q": {
 "en": "Amy would prefer to stay home and read on rainy days.",
-"zh": "下雨天艾咪比較想待在家裡看書。",
+"zh": "下雨天 Amy 比較想待在家裡看書。",
 "base": "preference",
 "answer": "prefer"
 },
@@ -38495,7 +38495,7 @@
 ],
 "q": {
 "en": "Kevin is never prejudiced against people from other countries.",
-"zh": "凱文從不對來自其他國家的人抱有偏見。",
+"zh": "Kevin 從不對來自其他國家的人抱有偏見。",
 "base": "prejudice",
 "answer": "prejudiced"
 },
@@ -38548,7 +38548,7 @@
 ],
 "q": {
 "en": "The doctor gave Amy a prescription for her bad cough.",
-"zh": "醫生為艾咪的嚴重咳嗽開了處方。",
+"zh": "醫生為 Amy 的嚴重咳嗽開了處方。",
 "base": "prescribe",
 "answer": "prescription"
 },
@@ -38584,7 +38584,7 @@
 ],
 "q": {
 "en": "Ben was elected president of the school student council last year.",
-"zh": "班去年被選為學校學生會的會長。",
+"zh": "Ben 去年被選為學校學生會的會長。",
 "base": "presidency",
 "answer": "president"
 },
@@ -38607,7 +38607,7 @@
 ],
 "q": {
 "en": "Lisa hopes to become class president next semester.",
-"zh": "麗莎希望下學期能當選班長。",
+"zh": "Lisa 希望下學期能當選班長。",
 "base": "presidential",
 "answer": "president"
 },
@@ -38625,7 +38625,7 @@
 ],
 "q": {
 "en": "I presume Kevin is late because of the heavy traffic.",
-"zh": "我猜凱文是因為塞車才遲到的。",
+"zh": "我猜 Kevin 是因為塞車才遲到的。",
 "base": "presumably",
 "answer": "presume"
 },
@@ -38643,7 +38643,7 @@
 ],
 "q": {
 "en": "Amy is presumably still at school, because her bag is here.",
-"zh": "艾咪大概還在學校，因為她的書包在這裡。",
+"zh": "Amy 大概還在學校，因為她的書包在這裡。",
 "base": "presume",
 "answer": "presumably"
 },
@@ -38741,7 +38741,7 @@
 ],
 "q": {
 "en": "The story profoundly changed the way Amy thinks about friends.",
-"zh": "那個故事深深改變了艾咪看待朋友的方式。",
+"zh": "那個故事深深改變了 Amy 看待朋友的方式。",
 "base": "profound",
 "answer": "profoundly"
 },
@@ -38759,7 +38759,7 @@
 ],
 "q": {
 "en": "Ben has made great progress in English this semester.",
-"zh": "班這學期的英文進步很多。",
+"zh": "Ben 這學期的英文進步很多。",
 "base": "progressive",
 "answer": "progress"
 },
@@ -38936,7 +38936,7 @@
 ],
 "q": {
 "en": "Amy has the right qualification to join the national swim team.",
-"zh": "艾咪具備加入國家游泳隊的資格。",
+"zh": "Amy 具備加入國家游泳隊的資格。",
 "base": "qualify",
 "answer": "qualification"
 },
@@ -38982,7 +38982,7 @@
 ],
 "q": {
 "en": "The teacher said that racist jokes are never acceptable in our class.",
-"zh": "老師說種族歧視的玩笑在我們班上絕對不被允許。",
+"zh": "老師說，在我們班上絕不允許開種族歧視的玩笑。",
 "base": "racism",
 "answer": "racist"
 },
@@ -39100,7 +39100,7 @@
 ],
 "q": {
 "en": "The teacher randomly picked Amy to answer the first question.",
-"zh": "老師隨機點了艾咪來回答第一題。",
+"zh": "老師隨機點了 Amy 來回答第一題。",
 "base": "random",
 "answer": "randomly"
 },
@@ -39160,7 +39160,7 @@
 ],
 "q": {
 "en": "Lisa's plan is realistic because it fits her budget and schedule.",
-"zh": "莉莎的計畫很實際，因為符合她的預算和時間表。",
+"zh": "Lisa 的計畫很實際，因為符合她的預算和時間表。",
 "base": "realism",
 "answer": "realistic"
 },
@@ -39265,7 +39265,7 @@
 ],
 "q": {
 "en": "Ben asked the librarian for a recommendation about science fiction novels.",
-"zh": "班向圖書館員詢問有哪些科幻小說值得推薦。",
+"zh": "Ben 向圖書館員詢問有哪些科幻小說值得推薦。",
 "base": "recommend",
 "answer": "recommendation"
 },
@@ -39283,7 +39283,7 @@
 ],
 "q": {
 "en": "Kevin's teacher will recommend him for the summer science camp.",
-"zh": "凱文的老師會推薦他參加暑期科學營。",
+"zh": "Kevin 的老師會推薦他參加暑期科學營。",
 "base": "recommendation",
 "answer": "recommend"
 },
@@ -39405,7 +39405,7 @@
 ],
 "q": {
 "en": "Lisa tried to remove the stain from her white shirt.",
-"zh": "莉莎試著去除她白襯衫上的污漬。",
+"zh": "Lisa 試著去除她白襯衫上的污漬。",
 "base": "removal",
 "answer": "remove"
 },
@@ -39448,7 +39448,7 @@
 ],
 "q": {
 "en": "The repayment of the loan will take about three years.",
-"zh": "這筆貸款的償還大約需要三年。",
+"zh": "這筆貸款大約需要三年才能還清。",
 "base": "repay",
 "answer": "repayment"
 },
@@ -39484,7 +39484,7 @@
 ],
 "q": {
 "en": "Ben and his father resemble each other in many ways.",
-"zh": "班和他爸爸在很多方面都很像。",
+"zh": "Ben 和他爸爸在很多方面都很像。",
 "base": "resemblance",
 "answer": "resemble"
 },
@@ -39575,7 +39575,7 @@
 ],
 "q": {
 "en": "Many students reside in the dormitory during the school week.",
-"zh": "許多學生在上課週期間住在宿舍。",
+"zh": "許多學生平日上課期間都住在宿舍。",
 "base": "residential",
 "answer": "reside"
 },
@@ -39700,7 +39700,7 @@
 ],
 "q": {
 "en": "Nobody should ridicule others for their appearance or accent.",
-"zh": "沒有人應該因為別人的外表或口音而嘲笑他們。",
+"zh": "任何人都不該因為別人的外表或口音而嘲笑對方。",
 "base": "ridiculous",
 "answer": "ridicule"
 },
@@ -39759,7 +39759,7 @@
 ],
 "q": {
 "en": "Skipping breakfast every day is a risk to your health.",
-"zh": "每天不吃早餐對你的健康是一種風險。",
+"zh": "每天不吃早餐會對健康造成風險。",
 "base": "risky",
 "answer": "risk"
 },
@@ -39851,7 +39851,7 @@
 ],
 "q": {
 "en": "Lisa used the scanner in the library to copy her notes.",
-"zh": "莉莎用圖書館的掃描機影印她的筆記。",
+"zh": "Lisa 用圖書館的掃描機複製她的筆記。",
 "base": "scan",
 "answer": "scanner"
 },
@@ -39989,7 +39989,7 @@
 ],
 "q": {
 "en": "Amy is sensitive to cold weather, so she wears a scarf.",
-"zh": "艾咪對寒冷的天氣很敏感，所以她會圍圍巾。",
+"zh": "Amy 對寒冷的天氣很敏感，所以她會圍圍巾。",
 "base": "sensitivity",
 "answer": "sensitive"
 },
@@ -40014,7 +40014,7 @@
 ],
 "q": {
 "en": "Grandma keeps the old doll for sentimental reasons.",
-"zh": "奶奶出於懷舊的原因保留著那個舊娃娃。",
+"zh": "奶奶出於懷舊之情，一直留著那個舊娃娃。",
 "base": "sentiment",
 "answer": "sentimental"
 },
@@ -40069,7 +40069,7 @@
 ],
 "q": {
 "en": "Amy works part-time to serve customers at a small noodle shop.",
-"zh": "艾咪打工在一家小麵店服務客人。",
+"zh": "Amy 在一家小麵店打工，服務客人。",
 "base": "server",
 "answer": "serve"
 },
@@ -40101,7 +40101,7 @@
 ],
 "q": {
 "en": "Kevin likes to share his lunch with his classmates.",
-"zh": "凱文喜歡和同學分享他的午餐。",
+"zh": "Kevin 喜歡和同學分享他的午餐。",
 "base": "shareholder",
 "answer": "share"
 },
@@ -40349,7 +40349,7 @@
 ],
 "q": {
 "en": "Kevin was solely responsible for cleaning the classroom this week.",
-"zh": "凱文這週單獨負責打掃教室。",
+"zh": "Kevin 這週單獨負責打掃教室。",
 "base": "sole",
 "answer": "solely"
 },
@@ -40439,7 +40439,7 @@
 ],
 "q": {
 "en": "Amy wore a sparkling necklace to the school dance.",
-"zh": "艾咪戴著一條閃閃發亮的項鍊去參加學校舞會。",
+"zh": "Amy 戴著一條閃閃發亮的項鍊去參加學校舞會。",
 "base": "sparkle",
 "answer": "sparkling"
 },
@@ -40467,7 +40467,7 @@
 ],
 "q": {
 "en": "Today is a special day because it is Amy's birthday.",
-"zh": "今天是特別的日子，因為是艾咪的生日。",
+"zh": "今天是特別的日子，因為是 Amy 的生日。",
 "base": "specialist",
 "answer": "special"
 },
@@ -40800,7 +40800,7 @@
 ],
 "q": {
 "en": "Amy is taking a statistics class because she likes numbers.",
-"zh": "艾咪修了一門統計學的課，因為她喜歡數字。",
+"zh": "Amy 修了一門統計學的課，因為她喜歡數字。",
 "base": "statistical",
 "answer": "statistics"
 },
@@ -41028,7 +41028,7 @@
 ],
 "q": {
 "en": "Amy missed the bus and subsequently arrived late to school.",
-"zh": "艾咪錯過了公車，後來上學就遲到了。",
+"zh": "Amy 錯過了公車，後來上學就遲到了。",
 "base": "subsequent",
 "answer": "subsequently"
 },
@@ -41100,7 +41100,7 @@
 ],
 "q": {
 "en": "Lisa subtly changed the topic when her friends began arguing.",
-"zh": "當朋友們開始爭吵時，莉莎巧妙地轉移了話題。",
+"zh": "當朋友們開始爭吵時，Lisa 巧妙地轉移了話題。",
 "base": "subtle",
 "answer": "subtly"
 },
@@ -41118,7 +41118,7 @@
 ],
 "q": {
 "en": "Kevin's family moved to a quiet suburb of Taichung last year.",
-"zh": "凱文一家去年搬到台中一個安靜的郊區。",
+"zh": "Kevin 一家去年搬到台中一個安靜的郊區。",
 "base": "suburban",
 "answer": "suburb"
 },
@@ -41443,7 +41443,7 @@
 ],
 "q": {
 "en": "The smell of fried chicken is a big temptation for Ben.",
-"zh": "炸雞的香味對班來說是一大誘惑。",
+"zh": "炸雞的香味對 Ben 來說是一大誘惑。",
 "base": "tempt",
 "answer": "temptation"
 },
@@ -41501,7 +41501,7 @@
 ],
 "q": {
 "en": "Lisa was terrified when she heard a strange noise outside.",
-"zh": "莉莎聽到外面有奇怪的聲音時嚇壞了。",
+"zh": "Lisa 聽到外面有奇怪的聲音時嚇壞了。",
 "base": "terrify",
 "answer": "terrified"
 },
@@ -41586,8 +41586,8 @@
 ]
 ],
 "q": {
-"en": "Ben goes to physical therapy twice a week after his injury.",
-"zh": "班受傷之後，每週去做兩次物理治療。",
+"en": "Ben went to physical therapy twice a week after his injury.",
+"zh": "Ben 受傷之後，每週去做兩次物理治療。",
 "base": "therapist",
 "answer": "therapy"
 },
@@ -41605,7 +41605,7 @@
 ],
 "q": {
 "en": "A therapist helped Kevin recover from his leg injury.",
-"zh": "治療師協助凱文從腿傷中復原。",
+"zh": "治療師協助 Kevin 從腿傷中復原。",
 "base": "therapy",
 "answer": "therapist"
 },
@@ -41661,7 +41661,7 @@
 ],
 "q": {
 "en": "Amy was thrilled to win first prize in the speech contest.",
-"zh": "艾咪很興奮能在演講比賽中得到第一名。",
+"zh": "Amy 很興奮能在演講比賽中得到第一名。",
 "base": "thrill",
 "answer": "thrilled"
 },
@@ -41941,7 +41941,7 @@
 ],
 "q": {
 "en": "After a long talk, Kevin ultimately chose to join the chess club.",
-"zh": "經過一番長談，凱文最後選擇加入西洋棋社。",
+"zh": "經過一番長談，Kevin 最後選擇加入西洋棋社。",
 "base": "ultimate",
 "answer": "ultimately"
 },
@@ -41984,7 +41984,7 @@
 ],
 "q": {
 "en": "Amy will graduate from senior high school next June.",
-"zh": "艾咪明年六月將從高中畢業。",
+"zh": "Amy 明年六月將從高中畢業。",
 "base": "undergraduate",
 "answer": "graduate"
 },
@@ -42035,7 +42035,7 @@
 ],
 "q": {
 "en": "I have no doubt that Lisa will pass the exam.",
-"zh": "我毫不懷疑莉莎會通過考試。",
+"zh": "我毫不懷疑 Lisa 會通過考試。",
 "base": "undoubtedly",
 "answer": "doubt"
 },
@@ -42063,7 +42063,7 @@
 ],
 "q": {
 "en": "Many unemployed workers attended the job fair at the city hall.",
-"zh": "許多失業的工人參加了市政府舉辦的就業博覽會。",
+"zh": "許多失業的工人參加了在市政府舉行的就業博覽會。",
 "base": "unemployment",
 "answer": "unemployed"
 },
@@ -42171,7 +42171,7 @@
 ],
 "q": {
 "en": "Ben vaguely remembered seeing the old man at the night market.",
-"zh": "班隱約記得曾在夜市看過那位老先生。",
+"zh": "Ben 隱約記得曾在夜市看過那位老先生。",
 "base": "vague",
 "answer": "vaguely"
 },
@@ -42434,7 +42434,7 @@
 ],
 "q": {
 "en": "Lisa has a sweet voice and loves singing in the choir.",
-"zh": "莉莎有甜美的嗓音，也很愛在合唱團唱歌。",
+"zh": "Lisa 有甜美的嗓音，也很愛在合唱團唱歌。",
 "base": "vocal",
 "answer": "voice"
 },
@@ -42519,7 +42519,7 @@
 ],
 "q": {
 "en": "Kevin has been acting weirdly since he lost his phone.",
-"zh": "凱文自從手機掉了之後，行為就很奇怪。",
+"zh": "Kevin 自從手機掉了之後，行為就很奇怪。",
 "base": "weird",
 "answer": "weirdly"
 },
@@ -42647,7 +42647,7 @@
 ],
 "q": {
 "en": "Ben's wit makes everyone laugh during lunch break.",
-"zh": "班的機智讓大家在午休時間哈哈大笑。",
+"zh": "Ben 的機智讓大家在午餐時間哈哈大笑。",
 "base": "witty",
 "answer": "wit"
 },
@@ -42804,7 +42804,7 @@
 ],
 "q": {
 "en": "Lisa works hard to keep her academic grades high every semester.",
-"zh": "莉莎每學期都很努力維持她的學業成績。",
+"zh": "Lisa 每學期都很努力維持優異的學業成績。",
 "base": "academy",
 "answer": "academic"
 },
@@ -42855,7 +42855,7 @@
 ],
 "q": {
 "en": "Amy opened a bank account to save her allowance.",
-"zh": "艾咪開了一個銀行帳戶來存她的零用錢。",
+"zh": "Amy 開了一個銀行帳戶來存她的零用錢。",
 "base": "accountable",
 "answer": "account"
 },
@@ -42873,7 +42873,7 @@
 ],
 "q": {
 "en": "The accumulation of dust under the bed made Ben sneeze.",
-"zh": "床底下積了一層灰塵，讓班一直打噴嚏。",
+"zh": "床底下積了一層灰塵，讓 Ben 一直打噴嚏。",
 "base": "accumulate",
 "answer": "accumulation"
 },
@@ -42927,7 +42927,7 @@
 ],
 "q": {
 "en": "Kevin is not accustomed to waking up at five every morning.",
-"zh": "凱文不習慣每天早上五點起床。",
+"zh": "Kevin 不習慣每天早上五點起床。",
 "base": "accustom",
 "answer": "accustomed"
 },
@@ -42987,7 +42987,7 @@
 ],
 "q": {
 "en": "Ben is addicted to online games and sleeps too little.",
-"zh": "班沉迷於線上遊戲，睡得太少。",
+"zh": "Ben 沉迷於線上遊戲，睡得太少。",
 "base": "addiction",
 "answer": "addicted"
 },
@@ -43295,7 +43295,7 @@
 ],
 "q": {
 "en": "Amy loves watching animation films with her little brother.",
-"zh": "艾咪喜歡和弟弟一起看動畫電影。",
+"zh": "Amy 喜歡和弟弟一起看動畫電影。",
 "base": "animate",
 "answer": "animation"
 },
@@ -43323,7 +43323,7 @@
 ],
 "q": {
 "en": "Ben was annoyed because his brother kept using his computer.",
-"zh": "班很生氣，因為他弟弟一直在用他的電腦。",
+"zh": "Ben 很生氣，因為他弟弟一直在用他的電腦。",
 "base": "annoyance",
 "answer": "annoyed"
 },
@@ -43355,7 +43355,7 @@
 ],
 "q": {
 "en": "We anticipate that many people will attend the school fair.",
-"zh": "我們預期會有很多人來參加校慶園遊會。",
+"zh": "我們預期會有很多人來參加學校園遊會。",
 "base": "anticipation",
 "answer": "anticipate"
 },
@@ -43408,7 +43408,7 @@
 ],
 "q": {
 "en": "Kevin wants to apply for the summer English camp.",
-"zh": "凱文想申請暑期英語營。",
+"zh": "Kevin 想申請暑期英語營。",
 "base": "applicable",
 "answer": "apply"
 },
@@ -43490,7 +43490,7 @@
 ],
 "q": {
 "en": "Lisa's aspiration is to become a famous doctor someday.",
-"zh": "莉莎的抱負是有一天成為著名的醫師。",
+"zh": "Lisa 的抱負是有一天成為著名的醫師。",
 "base": "aspire",
 "answer": "aspiration"
 },
@@ -43536,7 +43536,7 @@
 ],
 "q": {
 "en": "Kevin joined the astronomy club to learn about the stars.",
-"zh": "凱文加入天文社來認識星星。",
+"zh": "Kevin 加入天文社來認識星星。",
 "base": "astronomer",
 "answer": "astronomy"
 },
@@ -43572,7 +43572,7 @@
 ],
 "q": {
 "en": "Hard work is the key to the attainment of your goals.",
-"zh": "努力是達成你目標的關鍵。",
+"zh": "努力是達成目標的關鍵。",
 "base": "attain",
 "answer": "attainment"
 },
@@ -43595,7 +43595,7 @@
 ],
 "q": {
 "en": "Amy must attend the meeting after school on Tuesday.",
-"zh": "艾咪星期二放學後必須出席那場會議。",
+"zh": "Amy 星期二放學後必須出席那場會議。",
 "base": "attendant",
 "answer": "attend"
 },
@@ -44042,7 +44042,7 @@
 [
 "broiler",
 "n.",
-"烤架；烤雞"
+"烤架；肉雞"
 ]
 ],
 "q": null,
@@ -44630,7 +44630,7 @@
 [
 "close",
 "v./adj.",
-"關閉；接近"
+"關閉；接近的"
 ]
 ],
 "q": null,
@@ -45674,7 +45674,7 @@
 [
 "destine",
 "v.",
-"註定"
+"注定"
 ]
 ],
 "q": {
@@ -45908,7 +45908,7 @@
 [
 "disabled",
 "adj.",
-"殘障的"
+"身心障礙的"
 ]
 ],
 "q": null,
@@ -46554,7 +46554,7 @@
 ],
 "q": {
 "en": "Kevin works as an editor for the school newspaper every Thursday afternoon.",
-"zh": "Kevin 每週四下午為校刊擔任編輯。",
+"zh": "Kevin 每週四下午都在校刊社當編輯。",
 "base": "editorial",
 "answer": "editor"
 },
@@ -46936,7 +46936,7 @@
 ],
 "q": {
 "en": "Amy gave an excellent speech, and everyone in the hall clapped loudly.",
-"zh": "Amy 發表了一場精采的演講，禮堂裡每個人都大聲鼓掌。",
+"zh": "Amy 發表了一場精采的演講，禮堂裡每個人都熱烈鼓掌。",
 "base": "excel",
 "answer": "excellent"
 },
@@ -46993,8 +46993,8 @@
 ]
 ],
 "q": {
-"en": "The price does not include tax, so please exclude it from the total.",
-"zh": "這個價格不含稅，所以請把稅從總額中排除。",
+"en": "Don't exclude anyone from the game; everyone should have a chance to play.",
+"zh": "別把任何人排除在遊戲之外，每個人都應該有機會一起玩。",
 "base": "exclusion",
 "answer": "exclude"
 },
@@ -47876,7 +47876,7 @@
 ],
 "q": {
 "en": "I do not like greasy food because it makes my stomach feel heavy.",
-"zh": "我不喜歡油膩的食物，因為它讓我的胃感到沉重。",
+"zh": "我不喜歡油膩的食物，因為吃了胃會覺得沉甸甸的。",
 "base": "grease",
 "answer": "greasy"
 },
@@ -48211,7 +48211,7 @@
 ],
 "q": {
 "en": "The family treated us with warm hospitality when we visited their farm.",
-"zh": "我們拜訪他們的農場時，那家人以熱情的款待招呼我們。",
+"zh": "我們拜訪他們的農場時，那家人熱情地款待我們。",
 "base": "hospitable",
 "answer": "hospitality"
 },
@@ -48407,7 +48407,7 @@
 [
 "implicitly",
 "adv.",
-"暗中地"
+"含蓄地；隱含地"
 ],
 [
 "imply",
@@ -48551,7 +48551,7 @@
 ],
 "q": {
 "en": "Taiwan has a strong industry that makes computer parts for many countries.",
-"zh": "台灣有一個強大的產業，為許多國家製造電腦零件。",
+"zh": "台灣擁有強大的產業，為許多國家製造電腦零件。",
 "base": "industrialize",
 "answer": "industry"
 },
@@ -48740,7 +48740,7 @@
 [
 "intellectual",
 "adj./n.",
-"智力的；知識份子"
+"智力的；有學識的；知識分子"
 ]
 ],
 "q": {
@@ -48976,7 +48976,7 @@
 ],
 "q": {
 "en": "The fastest runner in class was, ironically, late for the race.",
-"zh": "班上跑最快的人，諷刺的是，比賽卻遲到了。",
+"zh": "諷刺的是，班上跑得最快的人參加賽跑竟然遲到了。",
 "base": "ironic",
 "answer": "ironically"
 },
@@ -49515,8 +49515,8 @@
 ]
 ],
 "q": {
-"en": "Don't take his words literally, because Kevin was only joking.",
-"zh": "別把他的話照字面解釋，因為 Kevin 只是在開玩笑。",
+"en": "Don't take Kevin's words literally, because he was only joking.",
+"zh": "別把 Kevin 的話照字面解釋，因為他只是在開玩笑。",
 "base": "literal",
 "answer": "literally"
 },
@@ -49529,7 +49529,7 @@
 [
 "literacy",
 "n.",
-"讀寫能力"
+"讀寫能力；素養"
 ],
 [
 "illiterate",
@@ -49738,7 +49738,7 @@
 [
 "majesty",
 "n.",
-"威嚴"
+"威嚴；雄偉"
 ]
 ],
 "q": {
@@ -49825,7 +49825,7 @@
 [
 "marvelous",
 "adj.",
-"了不起的"
+"極好的；了不起的"
 ]
 ],
 "q": {
@@ -49939,7 +49939,7 @@
 [
 "mentally",
 "adv.",
-"心理上地"
+"心理上；精神上"
 ]
 ],
 "q": {
@@ -50084,7 +50084,7 @@
 ],
 "q": {
 "en": "Kevin uses his mobile phone to listen to English podcasts on the bus.",
-"zh": "Kevin 在公車上用手機聽英語播客。",
+"zh": "Kevin 在公車上用手機聽英語 Podcast。",
 "base": "mobilize",
 "answer": "mobile"
 },
@@ -50817,7 +50817,7 @@
 ],
 "q": {
 "en": "Our school holds an orientation for new students in September.",
-"zh": "我們學校九月會為新生舉辦迎新活動。",
+"zh": "我們學校九月會舉辦新生訓練。",
 "base": "orient",
 "answer": "orientation"
 },
@@ -50877,7 +50877,7 @@
 ],
 "q": {
 "en": "Lisa read a story about a kind orphan who loved books.",
-"zh": "Lisa 讀了一個關於愛書的善良孤兒的故事。",
+"zh": "Lisa 讀了一則故事，講的是一個善良又愛書的孤兒。",
 "base": "orphanage",
 "answer": "orphan"
 },
@@ -50990,7 +50990,7 @@
 ],
 "q": {
 "en": "Kevin felt great outrage when someone broke his new bicycle.",
-"zh": "有人弄壞他的新腳踏車時，Kevin 非常憤怒。",
+"zh": "有人弄壞了 Kevin 的新腳踏車，讓他非常憤怒。",
 "base": "outrageous",
 "answer": "outrage"
 },
@@ -51893,7 +51893,7 @@
 ],
 "q": {
 "en": "The prospect of a long holiday made everyone in class excited.",
-"zh": "即將有長假的前景讓全班都很興奮。",
+"zh": "一想到即將放長假，全班都很興奮。",
 "base": "prospective",
 "answer": "prospect"
 },
@@ -51987,8 +51987,8 @@
 "fam": [
 [
 "public",
-"adj.",
-"公開的；公共的"
+"adj./n.",
+"公開的；公共的；大眾"
 ],
 [
 "publicity",
@@ -52399,7 +52399,7 @@
 ],
 "q": {
 "en": "A short walk can refresh your mind after a long study session.",
-"zh": "長時間讀書後散個步可以讓你的頭腦恢復精神。",
+"zh": "長時間讀書後散個步可以讓你恢復精神、頭腦清醒。",
 "base": "refreshment",
 "answer": "refresh"
 },
@@ -52579,21 +52579,21 @@
 "word": "reminiscent",
 "fam": [
 [
-"remind",
+"reminisce",
 "v.",
-"提醒"
+"回憶往事；追憶"
 ],
 [
-"reminder",
+"reminiscence",
 "n.",
-"提醒物"
+"回憶；往事"
 ]
 ],
 "q": {
-"en": "Please remind me to bring my umbrella tomorrow, Amy.",
-"zh": "Amy，請提醒我明天帶雨傘。",
+"en": "Amy's grandfather loves to reminisce about his school days.",
+"zh": "Amy 的爺爺很喜歡回憶他的學生時代。",
 "base": "reminiscent",
-"answer": "remind"
+"answer": "reminisce"
 },
 "status": "ok"
 },
@@ -52640,8 +52640,8 @@
 ]
 ],
 "q": {
-"en": "Ben felt resentful when his brother took his seat again.",
-"zh": "Ben 的弟弟又佔了他的位子，他覺得很不高興。",
+"en": "Ben was resentful that his parents always took his brother's side.",
+"zh": "Ben 對爸媽總是偏袒弟弟感到憤恨不平。",
 "base": "resent",
 "answer": "resentful"
 },
@@ -53011,7 +53011,7 @@
 ],
 "q": {
 "en": "Wash your hands to keep the kitchen clean and sanitary.",
-"zh": "洗手能讓廚房保持乾淨衛生。",
+"zh": "請洗手，讓廚房保持乾淨衛生。",
 "base": "sanitation",
 "answer": "sanitary"
 },
@@ -53332,8 +53332,8 @@
 ]
 ],
 "q": {
-"en": "Amy likes the simplicity of this recipe because it takes ten minutes.",
-"zh": "Amy 喜歡這份食譜的簡單，因為只要十分鐘。",
+"en": "Amy likes the simplicity of this recipe because it takes only ten minutes.",
+"zh": "Amy 喜歡這份食譜，因為它很簡單，只要十分鐘就能完成。",
 "base": "simplify",
 "answer": "simplicity"
 },
@@ -53489,8 +53489,8 @@
 ]
 ],
 "q": {
-"en": "Lisa is very social and makes friends easily at every school event.",
-"zh": "Lisa 很善於交際，在每場學校活動都很容易交到朋友。",
+"en": "Poverty is a serious social problem in many big cities.",
+"zh": "貧窮是許多大城市的嚴重社會問題。",
 "base": "sociable",
 "answer": "social"
 },
@@ -53666,7 +53666,7 @@
 ],
 "q": {
 "en": "The soothing music helped Lisa relax after a long day.",
-"zh": "舒緩的音樂幫助 Lisa 在漫長的一天後放鬆。",
+"zh": "忙了一整天後，舒緩的音樂讓 Lisa 放鬆下來。",
 "base": "soothe",
 "answer": "soothing"
 },
@@ -53837,7 +53837,7 @@
 ],
 "q": {
 "en": "Kevin is a fair sportsman who always shakes hands after games.",
-"zh": "Kevin 是個公平的運動員，比賽後總是會握手。",
+"zh": "Kevin 是個講求公平競爭的運動員，比賽後總會和對手握手。",
 "base": "sportsmanship",
 "answer": "sportsman"
 },
@@ -54615,7 +54615,7 @@
 ],
 "q": {
 "en": "The long hike was tiring, but the view was worth it.",
-"zh": "這趟長途健行很累人，但風景很值得。",
+"zh": "這趟長途健行很累人，但風景讓這一切都值得。",
 "base": "tiresome",
 "answer": "tiring"
 },
@@ -54668,7 +54668,7 @@
 ],
 "q": {
 "en": "A strong signal is needed for the transmission of clear pictures.",
-"zh": "要傳送清晰的畫面需要強的訊號。",
+"zh": "要傳送清晰的畫面，需要夠強的訊號。",
 "base": "transmit",
 "answer": "transmission"
 },
@@ -54906,7 +54906,7 @@
 ],
 "q": {
 "en": "Strong unity helped our class win the sports day trophy.",
-"zh": "強大的團結力幫助我們班贏得運動會獎盃。",
+"zh": "我們班靠著高度的團結，贏得了運動會獎盃。",
 "base": "unify",
 "answer": "unity"
 },
@@ -55174,7 +55174,7 @@
 ],
 "q": {
 "en": "Our class won a great victory in the basketball game.",
-"zh": "我們班在籃球賽中贏得了大勝利。",
+"zh": "我們班在籃球賽中贏得了一場大勝。",
 "base": "victor",
 "answer": "victory"
 },
@@ -56795,8 +56795,8 @@
 ]
 ],
 "q": {
-"en": "Taking exams can be a stressful time for students.",
-"zh": "考試對學生來說可能是壓力大的時期。",
+"en": "Taking exams can be a stressful experience for students.",
+"zh": "考試對學生來說可能是壓力很大的經驗。",
 "base": "stress",
 "answer": "stressful"
 },
@@ -57196,7 +57196,7 @@
 ]
 ],
 "q": {
-"en": "Amy looked young, but she is actually eighteen years old.",
+"en": "Amy looks young, but she is actually eighteen years old.",
 "zh": "Amy 看起來很年輕，但她其實十八歲了。",
 "base": "actual",
 "answer": "actually"
@@ -57733,7 +57733,7 @@
 [
 "supposed",
 "adj.",
-"應該的"
+"（be supposed to）應該；所謂的"
 ],
 [
 "supposedly",
@@ -58409,7 +58409,7 @@
 ]
 ],
 "q": {
-"en": "Students must take an examination at the end of term.",
+"en": "Students must take an examination at the end of the semester.",
 "zh": "學生在學期末必須參加考試。",
 "base": "examine",
 "answer": "examination"
@@ -58673,7 +58673,7 @@
 ],
 "q": {
 "en": "Lisa showed great maturity when she solved the problem with her classmates.",
-"zh": "麗莎在和同學解決問題時展現了很大的成熟度。",
+"zh": "Lisa 在和同學解決問題時表現得十分成熟。",
 "base": "mature",
 "answer": "maturity"
 },
@@ -58709,7 +58709,7 @@
 ],
 "q": {
 "en": "Amy is moody today, so nobody wants to talk to her.",
-"zh": "小艾今天心情陰晴不定，所以沒人想跟她說話。",
+"zh": "Amy 今天心情陰晴不定，所以沒人想跟她說話。",
 "base": "mood",
 "answer": "moody"
 },
@@ -58734,7 +58734,7 @@
 ],
 "q": {
 "en": "Lisa's uncle lives in the north of Taiwan, near Keelung.",
-"zh": "麗莎的叔叔住在台灣北部，靠近基隆。",
+"zh": "Lisa 的叔叔住在台灣北部，靠近基隆。",
 "base": "northern",
 "answer": "north"
 },
@@ -58752,7 +58752,7 @@
 ],
 "q": {
 "en": "Ben was obviously tired, so the teacher let him rest.",
-"zh": "阿班顯然很累，所以老師讓他休息。",
+"zh": "Ben 顯然很累，所以老師讓他休息。",
 "base": "obvious",
 "answer": "obviously"
 },
@@ -58817,7 +58817,7 @@
 ],
 "q": {
 "en": "Amy wrote a short poem for her mother's birthday.",
-"zh": "小艾為媽媽的生日寫了一首短詩。",
+"zh": "Amy 為媽媽的生日寫了一首短詩。",
 "base": "poet",
 "answer": "poem"
 },
@@ -58845,7 +58845,7 @@
 ],
 "q": {
 "en": "It is possible that it will rain during the school sports day.",
-"zh": "校運會當天有可能會下雨。",
+"zh": "運動會當天有可能會下雨。",
 "base": "possibility",
 "answer": "possible"
 },
@@ -58876,7 +58876,7 @@
 ],
 "q": {
 "en": "Kevin's parents were very proud of him after the speech contest.",
-"zh": "演講比賽後，凱文的父母非常以他為榮。",
+"zh": "演講比賽後，Kevin 的父母非常以他為榮。",
 "base": "pride",
 "answer": "proud"
 },
@@ -58940,7 +58940,7 @@
 ],
 "q": {
 "en": "Lisa's problem is not related to her grades at all.",
-"zh": "麗莎的問題和她的成績完全無關。",
+"zh": "Lisa 的問題和她的成績完全無關。",
 "base": "relation",
 "answer": "related"
 },
@@ -58953,7 +58953,7 @@
 [
 "relate",
 "v.",
-"關聯"
+"有關聯；產生共鳴"
 ],
 [
 "related",
@@ -58963,7 +58963,7 @@
 ],
 "q": {
 "en": "Amy finds it easy to relate to people her own age.",
-"zh": "小艾覺得和同年齡的人很容易相處投緣。",
+"zh": "Amy 覺得和同年齡的人很容易相處投緣。",
 "base": "relationship",
 "answer": "relate"
 },
@@ -59019,7 +59019,7 @@
 ],
 "q": {
 "en": "Ben likes to run along the river every morning before school.",
-"zh": "阿班喜歡每天早上上學前沿著河邊跑步。",
+"zh": "Ben 喜歡每天早上上學前沿著河邊跑步。",
 "base": "runner",
 "answer": "run"
 },
@@ -59037,7 +59037,7 @@
 ],
 "q": {
 "en": "Lisa added too much salt to the soup, so it tasted awful.",
-"zh": "麗莎在湯裡加了太多鹽，所以味道很糟。",
+"zh": "Lisa 在湯裡加了太多鹽，所以味道很糟。",
 "base": "salty",
 "answer": "salt"
 },
@@ -59069,7 +59069,7 @@
 ],
 "q": {
 "en": "Kevin practices hard so that he can shoot three-pointers more accurately.",
-"zh": "凱文努力練習，好讓他能更準確地投三分球。",
+"zh": "Kevin 努力練習，好讓他能更準確地投三分球。",
 "base": "shot",
 "answer": "shoot"
 },
@@ -59168,7 +59168,7 @@
 ],
 "q": {
 "en": "Amy left her English textbook on the bus this morning.",
-"zh": "小艾今天早上把英文課本忘在公車上了。",
+"zh": "Amy 今天早上把英文課本忘在公車上了。",
 "base": "text",
 "answer": "textbook"
 },
@@ -59193,7 +59193,7 @@
 ],
 "q": {
 "en": "The weight of Ben's schoolbag is almost ten kilograms.",
-"zh": "阿班書包的重量將近十公斤。",
+"zh": "Ben 書包的重量將近十公斤。",
 "base": "weigh",
 "answer": "weight"
 },
@@ -59210,8 +59210,8 @@
 ]
 ],
 "q": {
-"en": "The sun sets in the west, so our classroom gets hot in the afternoon.",
-"zh": "太陽從西邊落下，所以我們教室下午很熱。",
+"en": "Our classroom faces west, so it gets hot in the afternoon.",
+"zh": "我們的教室面向西邊，所以下午會很熱。",
 "base": "western",
 "answer": "west"
 },
@@ -59255,7 +59255,7 @@
 ],
 "q": {
 "en": "The river near Amy's house is about twenty meters wide.",
-"zh": "小艾家附近的河大約有二十公尺寬。",
+"zh": "Amy 家附近的河大約有二十公尺寬。",
 "base": "width",
 "answer": "wide"
 },
@@ -59283,7 +59283,7 @@
 ],
 "q": {
 "en": "Lisa helped us willingly after school every Friday.",
-"zh": "麗莎每週五放學後都樂意幫助我們。",
+"zh": "Lisa 每週五放學後都樂意幫助我們。",
 "base": "willing",
 "answer": "willingly"
 },
@@ -59381,7 +59381,7 @@
 ],
 "q": {
 "en": "Lisa ordered a small salad as an appetizer before the main dish.",
-"zh": "麗莎在主菜前點了一份小沙拉當開胃菜。",
+"zh": "Lisa 在主菜前點了一份小沙拉當開胃菜。",
 "base": "appetite",
 "answer": "appetizer"
 },
@@ -59420,7 +59420,7 @@
 ],
 "q": {
 "en": "Kevin gave some bread to a beggar near the night market.",
-"zh": "凱文給了夜市附近的一位乞丐一些麵包。",
+"zh": "Kevin 給了夜市附近的一位乞丐一些麵包。",
 "base": "beg",
 "answer": "beggar"
 },
@@ -59470,7 +59470,7 @@
 ],
 "q": {
 "en": "Ben and Amy had lunch in the school cafeteria today.",
-"zh": "阿班和小艾今天在學校餐廳吃午餐。",
+"zh": "Ben 和 Amy 今天在學校餐廳吃午餐。",
 "base": "cafe",
 "answer": "cafeteria"
 },
@@ -59495,7 +59495,7 @@
 ],
 "q": {
 "en": "Lisa enjoys listening to classical music while she studies.",
-"zh": "麗莎喜歡一邊讀書一邊聽古典音樂。",
+"zh": "Lisa 喜歡一邊讀書一邊聽古典音樂。",
 "base": "classic",
 "answer": "classical"
 },
@@ -59545,7 +59545,7 @@
 ],
 "q": {
 "en": "Ben's denial of the rumor made his classmates believe him.",
-"zh": "阿班對謠言的否認讓同學們相信了他。",
+"zh": "Ben 否認了那則謠言，同學們因此相信了他。",
 "base": "deny",
 "answer": "denial"
 },
@@ -59618,7 +59618,7 @@
 ],
 "q": {
 "en": "Amy loves to draw cartoon characters in her free time.",
-"zh": "小艾喜歡在空閒時間畫卡通人物。",
+"zh": "Amy 喜歡在空閒時間畫卡通人物。",
 "base": "drawing",
 "answer": "draw"
 },
@@ -59648,7 +59648,7 @@
 ],
 "q": {
 "en": "Lisa wants to be an editor of the school newspaper.",
-"zh": "麗莎想當校刊的編輯。",
+"zh": "Lisa 想當校刊的編輯。",
 "base": "edition",
 "answer": "editor"
 },
@@ -59694,7 +59694,7 @@
 ],
 "q": {
 "en": "Kevin arrived at exactly seven o'clock this morning.",
-"zh": "凱文今天早上剛好七點到達。",
+"zh": "Kevin 今天早上剛好七點到達。",
 "base": "exact",
 "answer": "exactly"
 },
@@ -59735,7 +59735,7 @@
 ],
 "q": {
 "en": "Amy didn't buy the bag because it was too expensive.",
-"zh": "小艾沒買那個包包，因為太貴了。",
+"zh": "Amy 沒買那個包包，因為太貴了。",
 "base": "expense",
 "answer": "expensive"
 },
@@ -59760,7 +59760,7 @@
 ],
 "q": {
 "en": "Ben was afraid he would fail the math test again.",
-"zh": "阿班擔心他的數學考試又會不及格。",
+"zh": "Ben 擔心他的數學考試又會不及格。",
 "base": "failure",
 "answer": "fail"
 },
@@ -59832,7 +59832,7 @@
 ],
 "q": {
 "en": "Lisa is an independent girl who can cook for herself.",
-"zh": "麗莎是個獨立的女孩，可以自己煮飯。",
+"zh": "Lisa 是個獨立的女孩，可以自己煮飯。",
 "base": "independence",
 "answer": "independent"
 },
@@ -59850,7 +59850,7 @@
 [
 "instructor",
 "n.",
-"指導員"
+"講師；教練"
 ]
 ],
 "q": {
@@ -59887,7 +59887,7 @@
 ],
 "q": {
 "en": "Amy wants to become a journalist and travel around the world.",
-"zh": "小艾想成為記者並環遊世界。",
+"zh": "Amy 想成為記者並環遊世界。",
 "base": "journal",
 "answer": "journalist"
 },
@@ -60002,7 +60002,7 @@
 ],
 "q": {
 "en": "Kevin felt lonely after he moved to a new school.",
-"zh": "凱文轉到新學校後感到孤單。",
+"zh": "Kevin 轉到新學校後感到孤單。",
 "base": "lone",
 "answer": "lonely"
 },
@@ -60015,12 +60015,12 @@
 [
 "member",
 "n.",
-"會員"
+"成員；會員"
 ]
 ],
 "q": {
 "en": "Amy became a member of the school choir last month.",
-"zh": "小艾上個月成為學校合唱團的成員。",
+"zh": "Amy 上個月成為學校合唱團的成員。",
 "base": "membership",
 "answer": "member"
 },
@@ -60063,7 +60063,7 @@
 ],
 "q": {
 "en": "Lisa felt nervous before she gave her speech in class.",
-"zh": "麗莎在課堂上演講前覺得很緊張。",
+"zh": "Lisa 在課堂上演講前覺得很緊張。",
 "base": "nerve",
 "answer": "nervous"
 },
@@ -60193,7 +60193,7 @@
 ],
 "q": {
 "en": "Kevin's uncle became rich after he opened a small noodle shop.",
-"zh": "凱文的叔叔開了一家小麵店後變得富有。",
+"zh": "Kevin 的叔叔開了一家小麵店後變得富有。",
 "base": "riches",
 "answer": "rich"
 },
@@ -60206,12 +60206,12 @@
 [
 "rock",
 "n.",
-"岩石"
+"岩石；石頭"
 ]
 ],
 "q": {
 "en": "Amy picked up a small rock and threw it into the lake.",
-"zh": "小艾撿起一顆小石頭丟進湖裡。",
+"zh": "Amy 撿起一顆小石頭丟進湖裡。",
 "base": "rocky",
 "answer": "rock"
 },
@@ -60254,7 +60254,7 @@
 ],
 "q": {
 "en": "Ben is scared of dogs because one chased him once.",
-"zh": "阿班怕狗，因為曾經被一隻狗追過。",
+"zh": "Ben 怕狗，因為曾經被一隻狗追過。",
 "base": "scare",
 "answer": "scared"
 },
@@ -60315,7 +60315,7 @@
 ],
 "q": {
 "en": "Kevin's family drives to the south of Taiwan every summer.",
-"zh": "凱文一家每年夏天都開車到台灣南部。",
+"zh": "Kevin 一家每年夏天都開車到台灣南部。",
 "base": "southern",
 "answer": "south"
 },
@@ -60333,7 +60333,7 @@
 ],
 "q": {
 "en": "Can you spell your name for me, please, Lisa?",
-"zh": "麗莎，可以請你幫我拼一下你的名字嗎？",
+"zh": "Lisa，可以請你幫我拼一下你的名字嗎？",
 "base": "spelling",
 "answer": "spell"
 },
@@ -60376,7 +60376,7 @@
 ],
 "q": {
 "en": "Amy is a typical teenager who loves music and sleeping late.",
-"zh": "小艾是個典型的青少年，愛音樂也愛晚起。",
+"zh": "Amy 是個典型的青少年，愛音樂也愛晚起。",
 "base": "teens",
 "answer": "teenager"
 },
@@ -60424,8 +60424,8 @@
 ]
 ],
 "q": {
-"en": "Amy was so tired after the long hike that she slept early.",
-"zh": "小艾健行那麼久後太累了，所以很早就睡了。",
+"en": "Amy was so tired after the long hike that she went to bed early.",
+"zh": "Amy 健行那麼久後太累了，所以很早就睡了。",
 "base": "tire",
 "answer": "tired"
 },
@@ -60467,7 +60467,7 @@
 ],
 "q": {
 "en": "Lisa finds the new app very useful for learning English.",
-"zh": "麗莎覺得這個新應用程式對學英文很有用。",
+"zh": "Lisa 覺得這個新應用程式對學英文很有用。",
 "base": "user",
 "answer": "useful"
 },
@@ -60517,7 +60517,7 @@
 ],
 "q": {
 "en": "Grandma knitted a warm woolen scarf for Amy last winter.",
-"zh": "奶奶去年冬天為小艾織了一條溫暖的羊毛圍巾。",
+"zh": "奶奶去年冬天為 Amy 織了一條溫暖的羊毛圍巾。",
 "base": "wool",
 "answer": "woolen"
 },
@@ -60552,7 +60552,7 @@
 ],
 "q": {
 "en": "Amy played the piano perfectly at the school concert.",
-"zh": "小艾在學校音樂會上完美地演奏了鋼琴。",
+"zh": "Amy 在學校音樂會上完美地演奏了鋼琴。",
 "base": "perfect",
 "answer": "perfectly"
 },
@@ -60575,7 +60575,7 @@
 ],
 "q": {
 "en": "Kevin broke the window by accident while playing baseball.",
-"zh": "凱文打棒球時不小心打破了窗戶。",
+"zh": "Kevin 打棒球時不小心打破了窗戶。",
 "base": "accidentally",
 "answer": "accident"
 },
@@ -60603,7 +60603,7 @@
 ],
 "q": {
 "en": "It was embarrassing when Ben forgot his lines on the stage.",
-"zh": "阿班在舞台上忘詞時真的很尷尬。",
+"zh": "Ben 在舞台上忘詞時真的很尷尬。",
 "base": "embarrassed",
 "answer": "embarrassing"
 },
@@ -60644,7 +60644,7 @@
 [
 "real",
 "adj.",
-"真的"
+"真實的"
 ],
 [
 "reality",
@@ -60659,7 +60659,7 @@
 ],
 "q": {
 "en": "Amy's dream of studying abroad finally became a reality.",
-"zh": "小艾出國讀書的夢想終於成真了。",
+"zh": "Amy 出國讀書的夢想終於成真了。",
 "base": "realize",
 "answer": "reality"
 },
@@ -60710,7 +60710,7 @@
 ],
 "q": {
 "en": "Ben unfortunately missed the last bus and had to walk home.",
-"zh": "阿班很不幸地錯過了末班公車，只好走路回家。",
+"zh": "Ben 很不幸地錯過了末班公車，只好走路回家。",
 "base": "fortunately",
 "answer": "unfortunately"
 },
@@ -60738,7 +60738,7 @@
 ],
 "q": {
 "en": "Amy was satisfied with her score on the English test.",
-"zh": "小艾對她的英文考試成績很滿意。",
+"zh": "Amy 對她的英文考試成績很滿意。",
 "base": "satisfying",
 "answer": "satisfied"
 },
@@ -60781,7 +60781,7 @@
 ],
 "q": {
 "en": "Kevin stayed focused during the whole three-hour exam.",
-"zh": "凱文在整整三小時的考試中都保持專注。",
+"zh": "Kevin 在整整三小時的考試中都保持專注。",
 "base": "focus",
 "answer": "focused"
 },
@@ -60799,12 +60799,12 @@
 [
 "ignorant",
 "adj.",
-"無知的"
+"無知的；不知情的"
 ]
 ],
 "q": {
 "en": "Amy was ignorant of the new rule, so she wore the wrong clothes.",
-"zh": "小艾不知道新規定，所以穿錯了衣服。",
+"zh": "Amy 不知道新規定，所以穿錯了衣服。",
 "base": "ignore",
 "answer": "ignorant"
 },
@@ -60827,7 +60827,7 @@
 ],
 "q": {
 "en": "Lisa listened attentively to the teacher's instructions during the class.",
-"zh": "麗莎專心聆聽老師的指示。",
+"zh": "Lisa 在課堂上專心聆聽老師的指示。",
 "base": "attention",
 "answer": "attentively"
 },
@@ -60883,7 +60883,7 @@
 ],
 "q": {
 "en": "Everyone likes Lisa because she has a warm and friendly personality.",
-"zh": "大家都喜歡麗莎，因為她的個性溫暖又友善。",
+"zh": "大家都喜歡 Lisa，因為她的個性溫暖又友善。",
 "base": "personally",
 "answer": "personality"
 },
@@ -60916,7 +60916,7 @@
 ],
 "q": {
 "en": "Everyone was amazed by Kevin's drawing of the school gate.",
-"zh": "大家都對凱文畫的校門感到驚訝。",
+"zh": "大家都對 Kevin 畫的校門感到驚訝。",
 "base": "amazing",
 "answer": "amazed"
 },
@@ -60959,7 +60959,7 @@
 ],
 "q": {
 "en": "Ben's grandparents live in a distant village in the mountains.",
-"zh": "阿班的祖父母住在山裡一個遙遠的村莊。",
+"zh": "Ben 的祖父母住在山裡一個遙遠的村莊。",
 "base": "distance",
 "answer": "distant"
 },
@@ -60977,7 +60977,7 @@
 ],
 "q": {
 "en": "Amy hopes to fly to Japan with her family next summer.",
-"zh": "小艾希望明年夏天和家人搭飛機去日本。",
+"zh": "Amy 希望明年夏天和家人搭飛機去日本。",
 "base": "flight",
 "answer": "fly"
 },
@@ -61068,7 +61068,7 @@
 ],
 "q": {
 "en": "Lisa is a creative girl who makes her own clothes.",
-"zh": "麗莎是個有創意的女孩，會自己做衣服。",
+"zh": "Lisa 是個有創意的女孩，會自己做衣服。",
 "base": "create",
 "answer": "creative"
 },
@@ -61096,7 +61096,7 @@
 ],
 "q": {
 "en": "Kevin was completely exhausted after the long basketball game.",
-"zh": "長時間的籃球賽後，凱文完全累壞了。",
+"zh": "長時間的籃球賽後，Kevin 完全累壞了。",
 "base": "complete",
 "answer": "completely"
 },
@@ -61114,7 +61114,7 @@
 ],
 "q": {
 "en": "Ben is eager to try the new game at the arcade.",
-"zh": "阿班迫不及待想去遊樂場試玩那款新遊戲。",
+"zh": "Ben 迫不及待想去電子遊樂場試玩那款新遊戲。",
 "base": "eagerly",
 "answer": "eager"
 },
@@ -61132,7 +61132,7 @@
 ],
 "q": {
 "en": "A large crowd gathered outside the stadium to watch the game.",
-"zh": "一大群人聚集在體育場外觀看比賽。",
+"zh": "一大群人聚集在體育場外，等著看比賽。",
 "base": "crowded",
 "answer": "crowd"
 },
@@ -61150,7 +61150,7 @@
 ],
 "q": {
 "en": "It was obvious that Amy had practiced a lot.",
-"zh": "很明顯小艾練習了很多。",
+"zh": "很明顯 Amy 練習了很多。",
 "base": "obviously",
 "answer": "obvious"
 },
@@ -61186,12 +61186,12 @@
 [
 "environmentally",
 "adv.",
-"在環境方面地"
+"在環境方面"
 ]
 ],
 "q": {
 "en": "Lisa joined an environmental club to protect the local river.",
-"zh": "麗莎加入了環保社團來保護當地的河川。",
+"zh": "Lisa 加入了環保社團來保護當地的河川。",
 "base": "environment",
 "answer": "environmental"
 },
@@ -61255,7 +61255,7 @@
 ],
 "q": {
 "en": "Amy has a firm belief that hard work pays off.",
-"zh": "小艾堅信努力就會有回報。",
+"zh": "Amy 堅信努力就會有回報。",
 "base": "firmly",
 "answer": "firm"
 },
@@ -61308,7 +61308,7 @@
 ],
 "q": {
 "en": "The doctor will treat Kevin's sore throat with some medicine.",
-"zh": "醫生會用一些藥來治療凱文的喉嚨痛。",
+"zh": "醫生會用一些藥來治療 Kevin 的喉嚨痛。",
 "base": "treatment",
 "answer": "treat"
 },
@@ -61361,7 +61361,7 @@
 ],
 "q": {
 "en": "Amy's bag is similar to mine, but the color is different.",
-"zh": "小艾的包包和我的很像，但顏色不同。",
+"zh": "Amy 的包包和我的很像，但顏色不同。",
 "base": "similarly",
 "answer": "similar"
 },
@@ -61419,7 +61419,7 @@
 ],
 "q": {
 "en": "Lisa cleverly solved the puzzle in less than five minutes.",
-"zh": "麗莎聰明地在不到五分鐘內解開了謎題。",
+"zh": "Lisa 聰明地在不到五分鐘內解開了謎題。",
 "base": "clever",
 "answer": "cleverly"
 },
@@ -61460,7 +61460,7 @@
 ],
 "q": {
 "en": "Amy had a worried expression on her face before the test.",
-"zh": "考試前，小艾臉上帶著擔心的表情。",
+"zh": "考試前，Amy 臉上帶著擔心的表情。",
 "base": "express",
 "answer": "expression"
 },
@@ -61490,7 +61490,7 @@
 ],
 "q": {
 "en": "The dancer moved effortlessly across the stage during the school show.",
-"zh": "舞者毫不費力地在舞台上移動。",
+"zh": "在學校表演中，那位舞者毫不費力地舞過整個舞台。",
 "base": "effort",
 "answer": "effortlessly"
 },
@@ -61549,7 +61549,7 @@
 ],
 "q": {
 "en": "The old coin has great value to Ben's grandfather.",
-"zh": "這枚舊硬幣對阿班的爺爺來說很有價值。",
+"zh": "這枚舊硬幣對 Ben 的爺爺來說很有價值。",
 "base": "valuable",
 "answer": "value"
 },
@@ -61572,7 +61572,7 @@
 ],
 "q": {
 "en": "Amy cares a lot about her appearance, especially her hair.",
-"zh": "小艾很在意自己的外表，尤其是頭髮。",
+"zh": "Amy 很在意自己的外表，尤其是頭髮。",
 "base": "disappear",
 "answer": "appearance"
 },
@@ -61614,7 +61614,7 @@
 ],
 "q": {
 "en": "Amy's idea is quite different from Ben's idea.",
-"zh": "小艾的想法和阿班的想法很不一樣。",
+"zh": "Amy 的想法和 Ben 的想法很不一樣。",
 "base": "difference",
 "answer": "different"
 },
@@ -61637,7 +61637,7 @@
 ],
 "q": {
 "en": "Lisa always thinks positively, even when she fails a test.",
-"zh": "麗莎即使考試不及格，也總是正面思考。",
+"zh": "Lisa 即使考試不及格，也總是正面思考。",
 "base": "positive",
 "answer": "positively"
 },
@@ -61655,7 +61655,7 @@
 ],
 "q": {
 "en": "Mr. Chen noticed a big improvement in Kevin's English.",
-"zh": "陳老師注意到凱文的英文有很大的進步。",
+"zh": "陳老師注意到 Kevin 的英文有很大的進步。",
 "base": "improve",
 "answer": "improvement"
 },
@@ -61715,7 +61715,7 @@
 ],
 "q": {
 "en": "Lisa is active in many clubs at school.",
-"zh": "麗莎在學校參與許多社團，非常活躍。",
+"zh": "Lisa 在學校參與許多社團，非常活躍。",
 "base": "activity",
 "answer": "active"
 },
@@ -61733,7 +61733,7 @@
 ],
 "q": {
 "en": "The damaged bike needs to be fixed before Ben can ride it.",
-"zh": "那輛壞掉的腳踏車必須修好，阿班才能騎。",
+"zh": "那輛壞掉的腳踏車必須修好，Ben 才能騎。",
 "base": "damage",
 "answer": "damaged"
 },
@@ -61751,7 +61751,7 @@
 ],
 "q": {
 "en": "Amy listened to a recording of the English speech many times.",
-"zh": "小艾把那段英文演講的錄音聽了很多遍。",
+"zh": "Amy 把那段英文演講的錄音聽了很多遍。",
 "base": "record",
 "answer": "recording"
 },
@@ -61779,7 +61779,7 @@
 ],
 "q": {
 "en": "Kevin's first science project at senior high school was very successful.",
-"zh": "凱文上高中後的第一個科學專題非常成功。",
+"zh": "Kevin 上高中後的第一個科學專題非常成功。",
 "base": "success",
 "answer": "successful"
 },
@@ -61802,7 +61802,7 @@
 ],
 "q": {
 "en": "Ben's leg was so painful that he could hardly walk.",
-"zh": "阿班的腿痛到幾乎不能走路。",
+"zh": "Ben 的腿痛到幾乎不能走路。",
 "base": "pain",
 "answer": "painful"
 },
@@ -61871,7 +61871,7 @@
 ],
 "q": {
 "en": "Amy's parents are very supportive of her dream to become a chef.",
-"zh": "小艾的父母非常支持她成為廚師的夢想。",
+"zh": "Amy 的父母非常支持她成為廚師的夢想。",
 "base": "support",
 "answer": "supportive"
 },
@@ -61912,7 +61912,7 @@
 ],
 "q": {
 "en": "Lisa, please press the red button to start the machine.",
-"zh": "麗莎，請按下紅色按鈕來啟動機器。",
+"zh": "Lisa，請按下紅色按鈕來啟動機器。",
 "base": "pressure",
 "answer": "press"
 },
@@ -61935,7 +61935,7 @@
 ],
 "q": {
 "en": "Everything seemed normal when Ben got to school this morning.",
-"zh": "阿班今天早上到學校時，一切看起來都很正常。",
+"zh": "Ben 今天早上到學校時，一切看起來都很正常。",
 "base": "normally",
 "answer": "normal"
 },
@@ -62046,7 +62046,7 @@
 ],
 "q": {
 "en": "Amy was pleased with the gift from her best friend.",
-"zh": "小艾對好朋友送的禮物感到很高興。",
+"zh": "Amy 對好朋友送的禮物感到很高興。",
 "base": "pleasant",
 "answer": "pleased"
 },
@@ -62069,7 +62069,7 @@
 ],
 "q": {
 "en": "Ben was desperate to find his lost phone before class.",
-"zh": "阿班拚命想在上課前找到他遺失的手機。",
+"zh": "Ben 拚命想在上課前找到他遺失的手機。",
 "base": "desperately",
 "answer": "desperate"
 },
@@ -62092,7 +62092,7 @@
 ],
 "q": {
 "en": "Lisa was reluctant to give her speech in front of the whole school.",
-"zh": "麗莎不太願意在全校面前演講。",
+"zh": "Lisa 不太願意在全校面前演講。",
 "base": "reluctantly",
 "answer": "reluctant"
 },
@@ -62110,7 +62110,7 @@
 ],
 "q": {
 "en": "Kevin wrote a long description of his school trip in his diary.",
-"zh": "凱文在日記裡詳細描述了他的校外旅行。",
+"zh": "Kevin 在日記裡用很長的篇幅描述了他的校外旅行。",
 "base": "describe",
 "answer": "description"
 },
@@ -62156,7 +62156,7 @@
 ],
 "q": {
 "en": "It is hard for Amy to get up early on cold mornings.",
-"zh": "天氣冷的早晨，小艾很難早起。",
+"zh": "天氣冷的早晨，Amy 很難早起。",
 "base": "hardly",
 "answer": "hard"
 },
@@ -62274,7 +62274,7 @@
 ],
 "q": {
 "en": "Amy made a quick recovery after she had the flu.",
-"zh": "小艾得流感後很快就康復了。",
+"zh": "Amy 得流感後很快就康復了。",
 "base": "recover",
 "answer": "recovery"
 },
@@ -62310,7 +62310,7 @@
 [
 "consistent",
 "adj.",
-"一致的"
+"一致的；始終如一的"
 ],
 [
 "consistency",
@@ -62325,7 +62325,7 @@
 ],
 "q": {
 "en": "Lisa's grades have been consistent throughout the whole semester.",
-"zh": "麗莎整個學期的成績都很穩定。",
+"zh": "Lisa 整個學期的成績都很穩定。",
 "base": "consistently",
 "answer": "consistent"
 },
@@ -62342,8 +62342,8 @@
 ]
 ],
 "q": {
-"en": "Kevin works part time on food delivery after school.",
-"zh": "凱文放學後兼職做外送。",
+"en": "Kevin works part time in food delivery after school.",
+"zh": "Kevin 放學後兼職做外送。",
 "base": "deliver",
 "answer": "delivery"
 },
@@ -62366,7 +62366,7 @@
 ],
 "q": {
 "en": "Ben answered rudely, so the teacher asked him to apologize.",
-"zh": "阿班回答得很無禮，所以老師要他道歉。",
+"zh": "Ben 回答得很無禮，所以老師要他道歉。",
 "base": "rude",
 "answer": "rudely"
 },
@@ -62438,7 +62438,7 @@
 ],
 "q": {
 "en": "Amy has absolute trust in her best friend.",
-"zh": "小艾對她的好朋友有絕對的信任。",
+"zh": "Amy 對她的好朋友有絕對的信任。",
 "base": "absolutely",
 "answer": "absolute"
 },
@@ -62468,7 +62468,7 @@
 ],
 "q": {
 "en": "Lisa wants to increase her reading speed before the exam.",
-"zh": "麗莎想在考試前提高她的閱讀速度。",
+"zh": "Lisa 想在考試前提高她的閱讀速度。",
 "base": "increasingly",
 "answer": "increase"
 },
@@ -62544,7 +62544,7 @@
 ],
 "q": {
 "en": "Ben's unexpected gift on her birthday made Amy very happy.",
-"zh": "阿班出乎意料的禮物讓小艾非常開心。",
+"zh": "Ben 出乎意料的生日禮物讓 Amy 非常開心。",
 "base": "expect",
 "answer": "unexpected"
 },
@@ -62567,7 +62567,7 @@
 ],
 "q": {
 "en": "Kevin's curiosity about space led him to join the science club.",
-"zh": "凱文對太空的好奇心讓他加入了科學社。",
+"zh": "Kevin 對太空的好奇心讓他加入了科學社。",
 "base": "curious",
 "answer": "curiosity"
 },
@@ -62592,7 +62592,7 @@
 ],
 "q": {
 "en": "Lisa often helps elderly people carry their bags on the bus.",
-"zh": "麗莎常在公車上幫年長者提袋子。",
+"zh": "Lisa 常在公車上幫年長者提袋子。",
 "base": "elder",
 "answer": "elderly"
 },
@@ -62684,7 +62684,7 @@
 ],
 "q": {
 "en": "The constant noise from the street made it hard for Amy to sleep.",
-"zh": "街上持續不斷的噪音讓小艾很難入睡。",
+"zh": "街上持續不斷的噪音讓 Amy 很難入睡。",
 "base": "constantly",
 "answer": "constant"
 },
@@ -62787,7 +62787,7 @@
 ],
 "q": {
 "en": "Amy is an energetic girl who runs five kilometers every morning.",
-"zh": "小艾是個精力充沛的女孩，每天早上跑五公里。",
+"zh": "Amy 是個精力充沛的女孩，每天早上跑五公里。",
 "base": "energy",
 "answer": "energetic"
 },
@@ -62835,7 +62835,7 @@
 ],
 "q": {
 "en": "Lisa has a systematic way of organizing her notes.",
-"zh": "麗莎有一套有系統的整理筆記的方法。",
+"zh": "Lisa 整理筆記的方法很有系統。",
 "base": "system",
 "answer": "systematic"
 },
@@ -62853,7 +62853,7 @@
 ],
 "q": {
 "en": "Ben likes to abbreviate long words when he takes notes in class.",
-"zh": "阿班上課做筆記時喜歡把長單字縮寫。",
+"zh": "Ben 上課做筆記時喜歡把長單字縮寫。",
 "base": "abbreviation",
 "answer": "abbreviate"
 },
@@ -62883,7 +62883,7 @@
 ],
 "q": {
 "en": "Lisa asked her teacher for guidance about choosing a college major.",
-"zh": "麗莎請老師指導她如何選擇大學主修。",
+"zh": "Lisa 請老師指導她如何選擇大學主修。",
 "base": "guide",
 "answer": "guidance"
 },
@@ -62908,7 +62908,7 @@
 ],
 "q": {
 "en": "Amy added a spoonful of milk powder to her coffee.",
-"zh": "小艾在咖啡裡加了一匙奶粉。",
+"zh": "Amy 在咖啡裡加了一匙奶粉。",
 "base": "powdered",
 "answer": "powder"
 },
@@ -62938,7 +62938,7 @@
 ],
 "q": {
 "en": "Kevin has a regular habit of reading before bed.",
-"zh": "凱文有睡前閱讀的固定習慣。",
+"zh": "Kevin 有睡前閱讀的固定習慣。",
 "base": "regularly",
 "answer": "regular"
 },
@@ -63035,7 +63035,7 @@
 ],
 "q": {
 "en": "Ben stayed home because he was ill with a bad cold.",
-"zh": "阿班因為重感冒生病而待在家裡。",
+"zh": "Ben 因為得了重感冒而待在家裡。",
 "base": "illness",
 "answer": "ill"
 },
@@ -63053,7 +63053,7 @@
 ],
 "q": {
 "en": "Lisa put in tremendous effort to win the speech contest.",
-"zh": "麗莎為了贏得演講比賽付出了極大的努力。",
+"zh": "Lisa 為了贏得演講比賽付出了極大的努力。",
 "base": "tremendously",
 "answer": "tremendous"
 },
@@ -63078,7 +63078,7 @@
 ],
 "q": {
 "en": "Kevin's refusal to join the team surprised his coach.",
-"zh": "凱文拒絕加入球隊，讓教練很驚訝。",
+"zh": "Kevin 拒絕加入球隊，讓教練很驚訝。",
 "base": "refuse",
 "answer": "refusal"
 },
@@ -63096,7 +63096,7 @@
 ],
 "q": {
 "en": "Amy is a promising young singer in our school.",
-"zh": "小艾是我們學校一位有前途的年輕歌手。",
+"zh": "Amy 是我們學校一位有前途的年輕歌手。",
 "base": "promise",
 "answer": "promising"
 },
@@ -63178,7 +63178,7 @@
 ],
 "q": {
 "en": "Thanks to Ben's generosity, we had enough food for the party.",
-"zh": "多虧阿班的慷慨，我們派對的食物才夠吃。",
+"zh": "多虧 Ben 的慷慨，我們派對的食物才夠吃。",
 "base": "generous",
 "answer": "generosity"
 },
@@ -63251,7 +63251,7 @@
 ],
 "q": {
 "en": "Take a deep breath and relax before the speech, Amy.",
-"zh": "小艾，演講前深呼吸放輕鬆。",
+"zh": "Amy，演講前深呼吸放輕鬆。",
 "base": "breathtaking",
 "answer": "breath"
 },
@@ -63276,7 +63276,7 @@
 ],
 "q": {
 "en": "Ben had a big bruise on his arm after the basketball game.",
-"zh": "阿班打完籃球賽後手臂上有一大塊瘀青。",
+"zh": "Ben 打完籃球賽後手臂上有一大塊瘀青。",
 "base": "bruised",
 "answer": "bruise"
 },
@@ -63299,7 +63299,7 @@
 ],
 "q": {
 "en": "Amy and Lisa are intimate friends who share everything.",
-"zh": "小艾和麗莎是無話不談的親密好友。",
+"zh": "Amy 和 Lisa 是無話不談的親密好友。",
 "base": "intimately",
 "answer": "intimate"
 },
@@ -63321,8 +63321,8 @@
 ]
 ],
 "q": {
-"en": "Mr. Chen is a skillful driver who never gets lost.",
-"zh": "陳老師是個技術熟練的駕駛，從不迷路。",
+"en": "Mr. Chen is a skillful driver who can park in very tight spaces.",
+"zh": "陳老師是個技術熟練的駕駛，再窄的車位都停得進去。",
 "base": "skillfully",
 "answer": "skillful"
 },
@@ -63388,7 +63388,7 @@
 ],
 "q": {
 "en": "The door at the school gate is automatic, so it opens by itself.",
-"zh": "校門的門是自動的，所以會自己打開。",
+"zh": "校門口那扇門是自動的，所以會自己打開。",
 "base": "automatically",
 "answer": "automatic"
 },
@@ -63411,7 +63411,7 @@
 ],
 "q": {
 "en": "Parking in front of the school gate is illegal.",
-"zh": "在校門口前停車是違法的。",
+"zh": "在校門前停車是違法的。",
 "base": "illegally",
 "answer": "illegal"
 },
@@ -63480,7 +63480,7 @@
 ],
 "q": {
 "en": "Amy was exhausted after running the whole marathon.",
-"zh": "小艾跑完整場馬拉松後筋疲力盡。",
+"zh": "Amy 跑完整場馬拉松後筋疲力盡。",
 "base": "exhaustion",
 "answer": "exhausted"
 },
@@ -63541,7 +63541,7 @@
 ],
 "q": {
 "en": "Kevin has great enthusiasm for baseball and plays every day.",
-"zh": "凱文對棒球充滿熱情，每天都打。",
+"zh": "Kevin 對棒球充滿熱情，每天都打。",
 "base": "enthusiastically",
 "answer": "enthusiasm"
 },
@@ -63578,7 +63578,7 @@
 ],
 "q": {
 "en": "Lisa is flexible, so she can touch her toes easily.",
-"zh": "麗莎身體很柔軟，所以可以輕鬆摸到腳趾。",
+"zh": "Lisa 身體很柔軟，所以可以輕鬆摸到腳趾。",
 "base": "flex",
 "answer": "flexible"
 },
@@ -63596,7 +63596,7 @@
 ],
 "q": {
 "en": "Ben has a relative who works at a famous hospital.",
-"zh": "阿班有一位親戚在一家有名的醫院工作。",
+"zh": "Ben 有一位親戚在一家有名的醫院工作。",
 "base": "relatively",
 "answer": "relative"
 },
@@ -63626,7 +63626,7 @@
 ],
 "q": {
 "en": "Kevin wore protective glasses in the science lab.",
-"zh": "凱文在自然實驗室戴了護目鏡。",
+"zh": "Kevin 在自然實驗室戴了護目鏡。",
 "base": "protect",
 "answer": "protective"
 },
@@ -63681,7 +63681,7 @@
 ],
 "q": {
 "en": "Amy can't afford a new phone right now.",
-"zh": "小艾現在買不起新手機。",
+"zh": "Amy 現在買不起新手機。",
 "base": "affordable",
 "answer": "afford"
 },
@@ -63732,7 +63732,7 @@
 ],
 "q": {
 "en": "Taking care of the class plants is Lisa's responsibility.",
-"zh": "照顧班上的植物是麗莎的責任。",
+"zh": "照顧班上的植物是 Lisa 的責任。",
 "base": "responsible",
 "answer": "responsibility"
 },
@@ -63760,7 +63760,7 @@
 ],
 "q": {
 "en": "Lisa wants to build a sustainable future by saving energy.",
-"zh": "麗莎想透過節約能源來打造永續的未來。",
+"zh": "Lisa 想透過節約能源來打造永續的未來。",
 "base": "sustainably",
 "answer": "sustainable"
 },
@@ -63785,7 +63785,7 @@
 ],
 "q": {
 "en": "At Ben's insistence, we walked to school instead of taking a bus.",
-"zh": "在阿班的堅持下，我們走路上學而不搭公車。",
+"zh": "在 Ben 的堅持下，我們走路上學而不搭公車。",
 "base": "insist",
 "answer": "insistence"
 },
@@ -63868,7 +63868,7 @@
 ],
 "q": {
 "en": "Kevin wants to develop his English skills by reading every day.",
-"zh": "凱文想藉由每天閱讀來培養他的英文能力。",
+"zh": "Kevin 想藉由每天閱讀來培養他的英文能力。",
 "base": "development",
 "answer": "develop"
 },
@@ -63893,7 +63893,7 @@
 ],
 "q": {
 "en": "Lisa was in a difficult situation when she lost her wallet.",
-"zh": "麗莎弄丟錢包時陷入了困境。",
+"zh": "Lisa 弄丟錢包時陷入了困境。",
 "base": "situated",
 "answer": "situation"
 },
@@ -63916,7 +63916,7 @@
 ],
 "q": {
 "en": "Ben went on a great adventure with his friends last summer.",
-"zh": "阿班去年夏天和朋友們展開了一場很棒的冒險。",
+"zh": "Ben 去年夏天和朋友們展開了一場很棒的冒險。",
 "base": "adventurous",
 "answer": "adventure"
 },
@@ -63999,7 +63999,7 @@
 ],
 "q": {
 "en": "It was selfish of Kevin to eat all the cookies alone.",
-"zh": "凱文一個人把餅乾全吃光，真是自私。",
+"zh": "Kevin 一個人把餅乾全吃光，真是自私。",
 "base": "selfless",
 "answer": "selfish"
 },
@@ -64035,7 +64035,7 @@
 ],
 "q": {
 "en": "Ben's swift reply surprised everyone in the classroom.",
-"zh": "阿班迅速的回答讓教室裡的每個人都很驚訝。",
+"zh": "Ben 迅速的回答讓教室裡的每個人都很驚訝。",
 "base": "swiftly",
 "answer": "swift"
 },
@@ -64053,7 +64053,7 @@
 ],
 "q": {
 "en": "There was no trace of Ben's lost key anywhere in the classroom.",
-"zh": "教室裡到處都找不到阿班遺失的鑰匙的蹤影。",
+"zh": "Ben 遺失的鑰匙在教室裡完全不見蹤影。",
 "base": "retrace",
 "answer": "trace"
 },
@@ -64094,7 +64094,7 @@
 ],
 "q": {
 "en": "Amy played the piece flawlessly during the school concert.",
-"zh": "小艾在學校音樂會上完美無瑕地演奏了那首曲子。",
+"zh": "Amy 在學校音樂會上完美無瑕地演奏了那首曲子。",
 "base": "flawless",
 "answer": "flawlessly"
 },
@@ -64140,7 +64140,7 @@
 ],
 "q": {
 "en": "Lisa bought an additional notebook for her art class.",
-"zh": "麗莎為美術課多買了一本筆記本。",
+"zh": "Lisa 為美術課多買了一本筆記本。",
 "base": "additionally",
 "answer": "additional"
 },
@@ -64158,7 +64158,7 @@
 ],
 "q": {
 "en": "Ben narrowly missed the last train home after the long practice.",
-"zh": "長時間練習後，阿班以些微之差錯過了回家的末班火車。",
+"zh": "長時間練習後，Ben 以些微之差錯過了回家的末班火車。",
 "base": "narrow",
 "answer": "narrowly"
 },
@@ -64181,7 +64181,7 @@
 ],
 "q": {
 "en": "Kevin joined the drama club because he loves acting.",
-"zh": "凱文加入戲劇社，因為他熱愛表演。",
+"zh": "Kevin 加入戲劇社，因為他熱愛表演。",
 "base": "dramatically",
 "answer": "drama"
 },
@@ -64209,7 +64209,7 @@
 ],
 "q": {
 "en": "It was thoughtful of Amy to bring a gift for everyone.",
-"zh": "小艾替大家都帶了禮物，真體貼。",
+"zh": "Amy 替大家都帶了禮物，真體貼。",
 "base": "thoughtless",
 "answer": "thoughtful"
 },
@@ -64245,7 +64245,7 @@
 ],
 "q": {
 "en": "Lisa tries not to think negatively when she gets a low score.",
-"zh": "麗莎拿到低分時，盡量不往壞處想。",
+"zh": "Lisa 拿到低分時，盡量不往壞處想。",
 "base": "negative",
 "answer": "negatively"
 },
@@ -64281,7 +64281,7 @@
 ],
 "q": {
 "en": "Ben followed his instinct and chose the second answer.",
-"zh": "阿班憑直覺選了第二個答案。",
+"zh": "Ben 憑直覺選了第二個答案。",
 "base": "instinctively",
 "answer": "instinct"
 },
@@ -64335,7 +64335,7 @@
 ],
 "q": {
 "en": "This club is primarily for students who love photography.",
-"zh": "這個社團主要是給熱愛攝影的學生。",
+"zh": "這個社團主要是為熱愛攝影的學生而設的。",
 "base": "primary",
 "answer": "primarily"
 },
@@ -64400,7 +64400,7 @@
 ],
 "q": {
 "en": "Amy has a great talent for singing and dancing.",
-"zh": "小艾在唱歌跳舞方面很有天分。",
+"zh": "Amy 在唱歌跳舞方面很有天分。",
 "base": "talented",
 "answer": "talent"
 },
@@ -64441,7 +64441,7 @@
 ],
 "q": {
 "en": "Amy saw an advertisement for the new phone on the bus.",
-"zh": "小艾在公車上看到新手機的廣告。",
+"zh": "Amy 在公車上看到新手機的廣告。",
 "base": "advertiser",
 "answer": "advertisement"
 },
@@ -64466,7 +64466,7 @@
 ],
 "q": {
 "en": "Winning the championship is Ben's ultimate goal this school year.",
-"zh": "贏得冠軍是阿班的終極目標。",
+"zh": "贏得冠軍是 Ben 這學年的終極目標。",
 "base": "ultimately",
 "answer": "ultimate"
 },
@@ -64494,7 +64494,7 @@
 ],
 "q": {
 "en": "Online games can be addictive, so Lisa limits her playing time.",
-"zh": "網路遊戲可能會讓人上癮，所以麗莎限制自己的遊玩時間。",
+"zh": "網路遊戲可能會讓人上癮，所以 Lisa 限制自己的遊玩時間。",
 "base": "addicted",
 "answer": "addictive"
 },
@@ -64583,7 +64583,7 @@
 ],
 "q": {
 "en": "Sunlight can hardly penetrate the thick forest on the mountain.",
-"zh": "陽光幾乎無法穿透濃密的森林。",
+"zh": "陽光幾乎無法穿透山上濃密的森林。",
 "base": "penetrating",
 "answer": "penetrate"
 },
@@ -64611,7 +64611,7 @@
 ],
 "q": {
 "en": "Lisa made a decision to join the swimming team.",
-"zh": "麗莎決定加入游泳隊。",
+"zh": "Lisa 決定加入游泳隊。",
 "base": "indecision",
 "answer": "decision"
 },
@@ -64711,7 +64711,7 @@
 ],
 "q": {
 "en": "Mr. Chen found a flaw in Ben's math solution.",
-"zh": "陳老師在阿班的數學解法中找到一個錯誤。",
+"zh": "陳老師在 Ben 的數學解法中發現一個瑕疵。",
 "base": "flawed",
 "answer": "flaw"
 },
@@ -64780,7 +64780,7 @@
 ],
 "q": {
 "en": "Ben wants to sail around Taiwan on a small boat someday.",
-"zh": "阿班希望有一天能駕小船環島航行。",
+"zh": "Ben 希望有一天能駕小船環島航行。",
 "base": "sailor",
 "answer": "sail"
 },
@@ -64808,7 +64808,7 @@
 ],
 "q": {
 "en": "Lisa saved a considerable amount of money for the trip.",
-"zh": "麗莎為了這趟旅行存了相當多的錢。",
+"zh": "Lisa 為了這趟旅行存了相當多的錢。",
 "base": "considerably",
 "answer": "considerable"
 },
@@ -64905,7 +64905,7 @@
 ],
 "q": {
 "en": "Amy's parents are concerned about her health during the exam week.",
-"zh": "小艾的父母很擔心她在考試週期間的健康。",
+"zh": "Amy 的父母很擔心她在考試週期間的健康。",
 "base": "concern",
 "answer": "concerned"
 },
@@ -64928,7 +64928,7 @@
 ],
 "q": {
 "en": "Eye color is genetic, so Amy has brown eyes like her parents.",
-"zh": "眼睛的顏色是遺傳的，所以小艾和她父母一樣有棕色的眼睛。",
+"zh": "眼睛的顏色是遺傳的，所以 Amy 和她父母一樣有棕色的眼睛。",
 "base": "genetically",
 "answer": "genetic"
 },
@@ -64951,7 +64951,7 @@
 ],
 "q": {
 "en": "Ben has been very tired lately because of the exams.",
-"zh": "阿班最近因為考試而非常疲倦。",
+"zh": "Ben 最近因為考試而非常疲倦。",
 "base": "latter",
 "answer": "lately"
 },
@@ -64969,7 +64969,7 @@
 [
 "suitcase",
 "n.",
-"手提箱"
+"行李箱"
 ]
 ],
 "q": {
@@ -64992,7 +64992,7 @@
 ],
 "q": {
 "en": "Amy enjoys the tranquility of the library after school.",
-"zh": "小艾喜歡放學後圖書館的寧靜。",
+"zh": "Amy 喜歡放學後圖書館的寧靜。",
 "base": "tranquil",
 "answer": "tranquility"
 },
@@ -65020,7 +65020,7 @@
 ],
 "q": {
 "en": "Lisa loves reading literature in her free time.",
-"zh": "麗莎空閒時喜歡閱讀文學作品。",
+"zh": "Lisa 空閒時喜歡閱讀文學作品。",
 "base": "literally",
 "answer": "literature"
 },
@@ -65043,7 +65043,7 @@
 ],
 "q": {
 "en": "Take the elevator to the fifth floor, Kevin.",
-"zh": "凱文，搭電梯到五樓。",
+"zh": "Kevin，搭電梯到五樓。",
 "base": "elevation",
 "answer": "elevator"
 },
@@ -65061,7 +65061,7 @@
 ],
 "q": {
 "en": "A small incident happened in the cafeteria at lunchtime.",
-"zh": "午餐時間餐廳裡發生了一件小事故。",
+"zh": "午餐時間餐廳裡發生了一段小插曲。",
 "base": "incidence",
 "answer": "incident"
 },
@@ -65127,7 +65127,7 @@
 ],
 "q": {
 "en": "Amy gave an eloquent speech at the graduation ceremony.",
-"zh": "小艾在畢業典禮上發表了一場很有說服力的演講。",
+"zh": "Amy 在畢業典禮上發表了一場很有說服力的演講。",
 "base": "eloquence",
 "answer": "eloquent"
 },
