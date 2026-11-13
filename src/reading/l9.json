@@ -1,0 +1,4119 @@
+[
+ {
+  "id": "L9-S02",
+  "level": 9,
+  "day": 2,
+  "kind": "short",
+  "title": "My First Flight",
+  "topic": "旅行・機場",
+  "paragraphs": [
+   "Last summer, Mia traveled [[abroad|J-0008]] for the first time. She was seventeen, and her parents [[allowed|J-0040]] her to visit her aunt in another country with her older cousin, Leo. On the day of the trip, her [[alarm|J-0035]] went off at four in the morning, but she was [[already|J-0045]] up. She felt happy and a little nervous at the same time.",
+   "At the [[airport|J-0034]], the two of them checked in at the [[airline|J-0032]] counter and walked [[along|J-0043]] a long hall to the gate. Leo gave Mia some [[advice|J-0021]]: \"Keep your passport in your bag and stay close to me.\" Mia [[agreed|J-0029]]. On the [[airplane|J-0033]], she looked out the window at the clouds and the blue sky. \"I am really flying,\" she said [[aloud|J-0044]].",
+   "During the trip, Mia and Leo took many photos together. After she came home, Mia put them in an [[album|J-0036]]. Her parents looked at the pictures and laughed. \"You and Leo look [[alike|J-0037]] in this one!\" Mia smiled. The trip was short, but it made her feel more like an [[adult|J-0020]]."
+  ],
+  "zh": [
+   "去年夏天，Mia 第一次出國旅行。她當時十七歲，爸媽允許她和表哥 Leo 一起去另一個國家看阿姨。出發那天，她的鬧鐘在清晨四點響起，但她早就醒了。她同時覺得很開心，又有一點緊張。",
+   "到了機場，兩人在航空公司櫃檯辦好報到手續，沿著一條長長的走廊走到登機門。Leo 給了 Mia 一些建議：「護照放在包包裡，跟緊我。」Mia 同意了。在飛機上，她望向窗外的雲和藍天，大聲說：「我真的在飛耶！」",
+   "旅途中，Mia 和 Leo 一起拍了很多照片。回家以後，Mia 把照片放進相簿。爸媽看著照片笑了：「這張裡你和 Leo 長得好像！」Mia 笑了笑。這趟旅行雖然很短，卻讓她覺得自己更像個大人了。"
+  ],
+  "glosses": [
+   {
+    "word": "passport",
+    "zh": "護照"
+   }
+  ],
+  "targets": [
+   "J-0008",
+   "J-0040",
+   "J-0035",
+   "J-0045",
+   "J-0034",
+   "J-0032",
+   "J-0043",
+   "J-0021",
+   "J-0029",
+   "J-0033",
+   "J-0044",
+   "J-0036",
+   "J-0037",
+   "J-0020"
+  ],
+  "review": [],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "What happened when Mia's alarm went off?",
+    "options": [
+     "She was still asleep.",
+     "She was late for the airplane.",
+     "She was already up.",
+     "She called her aunt."
+    ],
+    "answer": 2,
+    "explain": "第一段說鬧鐘四點響時她早就起來了，故選 (C)。(A) 說她還在睡，和 already up 相反。",
+    "evidence": "On the day of the trip, her alarm went off at four in the morning, but she was already up."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"aloud\" in paragraph 2 is closest in meaning to ______.",
+    "options": [
+     "in a way that others can hear",
+     "very quietly",
+     "only in her mind",
+     "many times"
+    ],
+    "answer": 0,
+    "explain": "aloud 是「出聲地、大聲地」，也就是別人聽得到，故選 (A)。(C) 是在心裡想，沒有說出來，意思相反。",
+    "evidence": "\"I am really flying,\" she said aloud."
+   },
+   {
+    "type": "指涉",
+    "stem": "In paragraph 3, what does \"this one\" refer to?",
+    "options": [
+     "the trip",
+     "the album",
+     "the window",
+     "a photo"
+    ],
+    "answer": 3,
+    "explain": "爸媽正在看照片，說「這張」裡兩人長得很像，this one 指的是一張照片，故選 (D)。(B) 相簿是整本，不會說人在相簿裡長得像。",
+    "evidence": "Her parents looked at the pictures and laughed."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to buy cheap airplane tickets",
+     "Mia's first trip abroad and how it made her feel",
+     "Why Mia's parents like taking photos",
+     "A problem Mia had at the airport"
+    ],
+    "answer": 1,
+    "explain": "全文從出發、搭機到回家整理相簿，寫 Mia 第一次出國的經過與感受，故選 (B)。(D) 文中在機場一切順利，沒有遇到問題。",
+    "evidence": "The trip was short, but it made her feel more like an adult."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "My teacher gave me some good ______ about how to study for the test.",
+    "options": [
+     "accident",
+     "album",
+     "advice",
+     "airport"
+    ],
+    "answer": 2,
+    "word": "J-0021",
+    "explain": "老師給了關於如何準備考試的好「建議」，故選 advice。accident（意外）、album（相簿）、airport（機場）都不合句意。"
+   },
+   {
+    "stem": "Our school does not ______ students to use cellphones in class.",
+    "options": [
+     "add",
+     "allow",
+     "arrive",
+     "agree"
+    ],
+    "answer": 1,
+    "word": "J-0040",
+    "explain": "allow sb. to V 表示「允許某人做某事」，學校不允許上課用手機，故選 allow。agree 後面不能直接接人再接 to V。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S04",
+  "level": 9,
+  "day": 4,
+  "kind": "short",
+  "title": "An Afternoon with Baby Nina",
+  "topic": "家庭・幫忙",
+  "paragraphs": [
+   "One Saturday in [[autumn|J-0089]], my [[aunt|J-0088]] called me. She had to work, and her usual [[baby sitter|J-0093]] was not [[available|J-0090]]. \"Can you take care of Nina this afternoon?\" she asked. Nina is her one-year-old [[baby|J-0092]]. I said yes, but I was nervous. It was my first time [[alone|J-0042]] with a baby.",
+   "When I [[arrived|J-0079]] at her [[apartment|J-0068]], Nina was crying in her bed. I held her in my [[arms|J-0075]] and walked around the room. Then I sat down in a big [[armchair|J-0076]] and sang some songs to her. Slowly, she stopped crying. Twenty minutes later, she was [[asleep|J-0084]].",
+   "While Nina slept, I [[baked|J-0100]] some cookies in the kitchen. When my aunt came home, she looked tired, but a big smile [[appeared|J-0069]] on her face. \"I really [[appreciate|J-0071]] your help,\" she said. By then, I was [[almost|J-0041]] as tired as she was. Taking care of a baby is hard work, but I felt proud."
+  ],
+  "zh": [
+   "秋天的某個星期六，阿姨打電話給我。她得去上班，平常的保母又沒空。「你今天下午可以幫忙照顧 Nina 嗎？」她問。Nina 是她一歲大的寶寶。我答應了，但心裡很緊張。這是我第一次一個人照顧嬰兒。",
+   "我到了阿姨的公寓時，Nina 正在床上哭。我把她抱在懷裡，在房間裡走來走去。接著我坐進一張大扶手椅，唱了幾首歌給她聽。慢慢地，她不哭了。二十分鐘後，她就睡著了。",
+   "Nina 睡覺時，我在廚房烤了一些餅乾。阿姨回到家時看起來很累，但臉上露出了大大的笑容。「真的很感謝你的幫忙。」她說。那時，我幾乎跟她一樣累了。照顧寶寶是件辛苦的工作，但我為自己感到驕傲。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0089",
+   "J-0088",
+   "J-0093",
+   "J-0090",
+   "J-0092",
+   "J-0079",
+   "J-0068",
+   "J-0075",
+   "J-0076",
+   "J-0084",
+   "J-0100",
+   "J-0069",
+   "J-0071"
+  ],
+  "review": [
+   "J-0042",
+   "J-0041"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Why did the aunt call the writer?",
+    "options": [
+     "She wanted the writer to bake cookies for a party.",
+     "She needed someone to take care of her baby.",
+     "She wanted to visit the writer's apartment.",
+     "She was sick and needed to see a doctor."
+    ],
+    "answer": 1,
+    "explain": "第一段說阿姨要上班、保母沒空，所以請作者照顧寶寶，故選 (B)。(A) 烤餅乾是作者後來自己做的，不是阿姨打電話的原因。",
+    "evidence": "She had to work, and her usual baby sitter was not available."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"available\" in paragraph 1 is closest in meaning to ______.",
+    "options": [
+     "free to help",
+     "very kind",
+     "too young",
+     "good at cooking"
+    ],
+    "answer": 0,
+    "explain": "available 指人「有空的、可以來的」，保母沒空所以阿姨才找作者，故選 (A)。(B) kind 是「親切的」，和有沒有空無關。",
+    "evidence": "She had to work, and her usual baby sitter was not available."
+   },
+   {
+    "type": "推論",
+    "stem": "How did the aunt most likely feel when she came home?",
+    "options": [
+     "Angry, because the baby was crying",
+     "Bored, because there was nothing to do",
+     "Worried, because the apartment was dirty",
+     "Thankful, because the writer helped her"
+    ],
+    "answer": 3,
+    "explain": "阿姨回家露出笑容，還說 I really appreciate your help，可見她很感激，故選 (D)。(A) 寶寶當時已經睡著，並沒有在哭。",
+    "evidence": "\"I really appreciate your help,\" she said."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the best title for the passage?",
+    "options": [
+     "How to Bake Easy Cookies",
+     "My Aunt's New Apartment",
+     "A Hard but Proud Afternoon",
+     "Why Babies Cry at Night"
+    ],
+    "answer": 2,
+    "explain": "全文寫作者第一次獨自照顧寶寶，雖然很累卻為自己驕傲，故選 (C)。(A) 烤餅乾只是其中一個小細節。",
+    "evidence": "Taking care of a baby is hard work, but I felt proud."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "The bus finally ______ at the station after a two-hour trip.",
+    "options": [
+     "answered",
+     "argued",
+     "asked",
+     "arrived"
+    ],
+    "answer": 3,
+    "word": "J-0079",
+    "explain": "公車經過兩小時車程終於「抵達」車站，arrive at 最通順，故選 arrived。answered（回答）、argued（爭吵）、asked（問）都不合句意。"
+   },
+   {
+    "stem": "Ken was so tired that he fell ______ on the sofa while watching TV.",
+    "options": [
+     "away",
+     "asleep",
+     "afraid",
+     "alive"
+    ],
+    "answer": 1,
+    "word": "J-0084",
+    "explain": "fall asleep 是「睡著」，Ken 太累在沙發上睡著了，故選 asleep。fall away、fall afraid、fall alive 都不是正確搭配。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S06",
+  "level": 9,
+  "day": 6,
+  "kind": "short",
+  "title": "A Class Barbecue by the Sea",
+  "topic": "旅行・海邊",
+  "paragraphs": [
+   "Last Saturday, our class went to a [[beach|J-0120]] in Hualien for a [[barbecue|J-0108]]. We [[arrived|J-0079]] at ten in the morning. The sea was blue, and the sky was clear. \"What [[beautiful|J-0125]] weather!\" Amy said. Everyone helped. Some students carried the food, and others put [[beef|J-0132]], corn, and green [[beans|J-0121]] on the fire.",
+   "I am a [[beginner|J-0136]] at cooking, so I was nervous. In the [[beginning|J-0137]], I burned two pieces of meat. Then Ben stood [[beside|J-0146]] me and showed me some [[basic|J-0113]] rules. \"Turn the meat often, and be patient,\" he said. Soon my food tasted great. I could not [[believe|J-0140]] it!",
+   "After lunch, we played with a [[ball|J-0103]] on the sand. Later, I sat on a [[bench|J-0145]] and watched the waves. A bee flew around our food, but nobody was [[afraid|J-0022]]. Before we left, we picked up all our trash because the beach [[belongs|J-0142]] to everyone. It was a perfect day by the sea."
+  ],
+  "zh": [
+   "上星期六，我們班到花蓮的海灘烤肉。我們早上十點抵達。海很藍，天空很晴朗。「天氣真好！」Amy 說。大家都來幫忙，有些同學搬食物，有些把牛肉、玉米和四季豆放到火上烤。",
+   "我是烹飪新手，所以很緊張。一開始，我烤焦了兩塊肉。後來 Ben 站在我旁邊，教我一些基本原則。「肉要常翻面，而且要有耐心。」他說。很快地，我烤的東西變得很好吃。我簡直不敢相信！",
+   "午餐後，我們在沙灘上玩球。後來，我坐在長椅上看海浪。有一隻蜜蜂在我們的食物旁飛來飛去，但沒有人害怕。離開前，我們把垃圾全部撿乾淨，因為海灘屬於每一個人。那是在海邊度過的完美一天。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0120",
+   "J-0108",
+   "J-0125",
+   "J-0132",
+   "J-0121",
+   "J-0136",
+   "J-0137",
+   "J-0146",
+   "J-0113",
+   "J-0140",
+   "J-0103",
+   "J-0145",
+   "J-0142"
+  ],
+  "review": [
+   "J-0079",
+   "J-0022"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Who helped the writer cook?",
+    "options": [
+     "Amy",
+     "The teacher",
+     "Ben",
+     "Nobody"
+    ],
+    "answer": 2,
+    "explain": "第二段說 Ben 站在作者旁邊，教他基本原則，故選 (C)。(A) Amy 只有在第一段稱讚天氣，沒有教作者烤肉。",
+    "evidence": "Then Ben stood beside me and showed me some basic rules."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"beginner\" in paragraph 2 means a person who ______.",
+    "options": [
+     "is just starting to learn something",
+     "teaches other people",
+     "never makes mistakes",
+     "works at a restaurant"
+    ],
+    "answer": 0,
+    "explain": "beginner 是「初學者、新手」，作者剛開始學做菜，所以會烤焦肉，故選 (A)。(C) 從不犯錯與作者烤焦兩塊肉的事實相反。",
+    "evidence": "I am a beginner at cooking, so I was nervous."
+   },
+   {
+    "type": "推論",
+    "stem": "Why did the students pick up their trash?",
+    "options": [
+     "Their teacher wanted to check their work.",
+     "They wanted to keep the beach clean for other people.",
+     "The bee was flying around their trash.",
+     "They wanted to take the trash home to use again."
+    ],
+    "answer": 1,
+    "explain": "文中說他們撿垃圾是因為海灘屬於每個人，可推知他們想為別人保持海灘乾淨，故選 (B)。(C) 蜜蜂是繞著食物飛，不是撿垃圾的原因。",
+    "evidence": "Before we left, we picked up all our trash because the beach belongs to everyone."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to cook beef at home",
+     "Why bees are dangerous",
+     "A trip to buy food in Hualien",
+     "A fun day of cooking and playing at the beach"
+    ],
+    "answer": 3,
+    "explain": "全文寫全班到海邊烤肉、玩球、撿垃圾的一天，故選 (D)。(A) 文中是在海邊烤肉，不是在家做菜。",
+    "evidence": "It was a perfect day by the sea."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "This bag doesn't ______ to me. It's Lisa's.",
+    "options": [
+     "believe",
+     "belong",
+     "begin",
+     "behave"
+    ],
+    "answer": 1,
+    "word": "J-0142",
+    "explain": "belong to 表示「屬於」，這個包包不是我的，是 Lisa 的，故選 belong。believe（相信）、begin（開始）、behave（表現）都不能接 to me 表示所有權。"
+   },
+   {
+    "stem": "Before you learn hard songs on the guitar, you should practice some ______ skills first.",
+    "options": [
+     "afraid",
+     "beautiful",
+     "basic",
+     "asleep"
+    ],
+    "answer": 2,
+    "word": "J-0113",
+    "explain": "學難的曲子之前，應該先練「基本的」技巧，故選 basic。afraid、asleep 不能放在名詞前修飾 skills，beautiful 也不合句意。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S08",
+  "level": 9,
+  "day": 8,
+  "kind": "short",
+  "title": "A Birthday Plan for Leo",
+  "topic": "家庭・生日",
+  "paragraphs": [
+   "My little [[brother|J-0192]], Leo, has his [[birthday|J-0154]] next Sunday. He was [[born|J-0173]] 15 years [[ago|J-0028]]. Last year, we gave him a book, but he said it was [[boring|J-0172]] and never read it. This year, my sister and I want to do something different for him.",
+   "First, we plan to make him a special [[breakfast|J-0188]]. My sister will [[bake|J-0100]] some [[bread|J-0186]] and [[boil|J-0167]] a few eggs. I will [[build|J-0196]] a small birthday sign from an old box and paint his name on it. We also want to [[borrow|J-0174]] a camera from our neighbor, so we can take many photos.",
+   "Leo loves [[birds|J-0153]], so after breakfast we will take him to the park by the river. There is an old [[bridge|J-0189]] there, and many birds sit on the [[branches|J-0184]] of the tall trees. We will bring a [[blanket|J-0158]] and sit on the grass together. I [[believe|J-0140]] this will be his best birthday ever."
+  ],
+  "zh": [
+   "下星期天是我弟弟 Leo 的生日。他是十五年前出生的。去年我們送他一本書，但他說很無聊，從來沒讀過。今年，我和姊姊想為他做點不一樣的事。",
+   "首先，我們打算幫他做一頓特別的早餐。姊姊會烤一些麵包、煮幾顆蛋。我會用舊箱子做一個小小的生日牌子，在上面畫上他的名字。我們也想跟鄰居借一台相機，這樣就能拍很多照片。",
+   "Leo 很喜歡鳥，所以吃完早餐後，我們會帶他去河邊的公園。那裡有一座老橋，很多鳥會停在高大樹木的樹枝上。我們會帶一條毯子，一起坐在草地上。我相信這會是他有史以來最棒的生日。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0192",
+   "J-0154",
+   "J-0173",
+   "J-0172",
+   "J-0188",
+   "J-0186",
+   "J-0167",
+   "J-0196",
+   "J-0174",
+   "J-0153",
+   "J-0189",
+   "J-0184",
+   "J-0158"
+  ],
+  "review": [
+   "J-0028",
+   "J-0100",
+   "J-0140"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "What did Leo think of last year's birthday present?",
+    "options": [
+     "He thought it was boring.",
+     "He loved it very much.",
+     "He gave it to his sister.",
+     "He read it many times."
+    ],
+    "answer": 0,
+    "explain": "第一段說去年送的書 Leo 覺得無聊，而且從沒讀過，故選 (A)。(D) 說他讀了很多次，與 never read it 相反。",
+    "evidence": "Last year, we gave him a book, but he said it was boring and never read it."
+   },
+   {
+    "type": "細節",
+    "stem": "What will the writer make for Leo?",
+    "options": [
+     "Some bread",
+     "A birthday sign",
+     "A new blanket",
+     "A birthday cake"
+    ],
+    "answer": 1,
+    "explain": "第二段說作者會用舊箱子做一個生日牌子，故選 (B)。(A) 烤麵包的是姊姊，不是作者。",
+    "evidence": "I will build a small birthday sign from an old box and paint his name on it."
+   },
+   {
+    "type": "推論",
+    "stem": "Why will they take Leo to the park by the river?",
+    "options": [
+     "Leo wants to swim in the river.",
+     "The park is next to a bookstore.",
+     "Leo can see many birds there.",
+     "They want to borrow a camera there."
+    ],
+    "answer": 2,
+    "explain": "Leo 喜歡鳥，而河邊公園的樹上有很多鳥，可知是為了讓他看鳥，故選 (C)。(D) 相機是向鄰居借，與公園無關。",
+    "evidence": "Leo loves birds, so after breakfast we will take him to the park by the river."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "Why Leo does not like books",
+     "How to take good photos of birds",
+     "A trip the family took last year",
+     "A plan for a younger brother's birthday"
+    ],
+    "answer": 3,
+    "explain": "全文說明作者和姊姊為弟弟生日準備早餐、牌子和公園行程，故選 (D)。(C) 文章講的是下週的計畫，不是去年的旅行。",
+    "evidence": "This year, my sister and I want to do something different for him."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "I forgot my umbrella. Can I ______ yours for a day?",
+    "options": [
+     "boil",
+     "build",
+     "bring",
+     "borrow"
+    ],
+    "answer": 3,
+    "word": "J-0174",
+    "explain": "忘了帶傘，想「借用」對方的傘一天，故選 borrow。bring（帶來）不是「借用」的意思，boil（煮沸）、build（建造）不合句意。"
+   },
+   {
+    "stem": "The movie was so ______ that half of the people fell asleep.",
+    "options": [
+     "boring",
+     "brave",
+     "bright",
+     "busy"
+    ],
+    "answer": 0,
+    "word": "J-0172",
+    "explain": "電影太「無聊」，一半的人都睡著了，故選 boring。brave（勇敢的）、bright（明亮的）、busy（忙碌的）都不會讓人睡著。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S10",
+  "level": 9,
+  "day": 10,
+  "kind": "short",
+  "title": "No Camp This Weekend",
+  "topic": "天氣・颱風",
+  "paragraphs": [
+   "Our club planned a two-day [[camp|J-0218]] in the mountains this weekend. I marked the date on my [[calendar|J-0214]] a month ago and could not wait. But on Thursday, our teacher [[called|J-0215]] all of us to a meeting. \"A typhoon is coming,\" she said. \"We have to [[cancel|J-0220]] the camp.\" Everyone felt sad.",
+   "Our teacher stayed [[calm|J-0216]]. She explained that heavy rain can [[cause|J-0237]] big problems in the mountains. \"Your safety is the most important thing,\" she said. \"Please be [[careful|J-0228]] and stay home this weekend.\" She also promised that we would have another [[chance|J-0249]] to go next month.",
+   "On Saturday, the wind was strong, so I stayed home with my [[cat|J-0235]]. I watched [[cartoons|J-0231]] and helped my sister make a [[cake|J-0213]] with [[carrots|J-0229]] in it. My little [[brother|J-0192]] was [[brave|J-0185]] and not afraid of the loud wind. I sent photos of our cake to my club friends on my [[cellphone|J-0240]]. Plans can [[change|J-0250]], but a rainy day at home can still be fun."
+  ],
+  "zh": [
+   "我們社團原本計畫這個週末到山上露營兩天。我一個月前就在月曆上做了記號，等不及要去了。但星期四，老師把我們全部叫去開會。「颱風要來了，」她說，「我們必須取消露營。」大家都很難過。",
+   "老師很冷靜。她解釋說，大雨可能會在山區造成大問題。「你們的安全最重要，」她說，「這個週末請小心，待在家裡。」她也答應我們下個月還有機會去。",
+   "星期六風很大，所以我和我的貓待在家裡。我看卡通，也幫姊姊做了一個加了胡蘿蔔的蛋糕。我的弟弟很勇敢，一點也不怕呼呼的風聲。我用手機把蛋糕的照片傳給社團朋友。計畫會改變，但在家度過的雨天還是可以很有趣。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0218",
+   "J-0214",
+   "J-0215",
+   "J-0220",
+   "J-0216",
+   "J-0237",
+   "J-0228",
+   "J-0249",
+   "J-0235",
+   "J-0231",
+   "J-0213",
+   "J-0229",
+   "J-0240",
+   "J-0250"
+  ],
+  "review": [
+   "J-0192",
+   "J-0185"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Why was the camp canceled?",
+    "options": [
+     "The teacher was sick.",
+     "Not many students wanted to go.",
+     "The camp cost too much money.",
+     "A typhoon was coming."
+    ],
+    "answer": 3,
+    "explain": "第一段老師說颱風要來，所以必須取消露營，故選 (D)。(A) 老師並沒有生病，還親自開會說明。",
+    "evidence": "\"A typhoon is coming,\" she said."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"calm\" in paragraph 2 is closest in meaning to ______.",
+    "options": [
+     "angry",
+     "quiet and not worried",
+     "very sad",
+     "busy and tired"
+    ],
+    "answer": 1,
+    "explain": "calm 是「冷靜的」，老師沒有慌張，平靜地解釋原因，故選 (B)。(C) 很難過的是學生，不是老師。",
+    "evidence": "Our teacher stayed calm."
+   },
+   {
+    "type": "細節",
+    "stem": "What did the writer do on Saturday?",
+    "options": [
+     "The writer helped make a cake at home.",
+     "The writer went camping with friends.",
+     "The writer bought a new cellphone.",
+     "The writer went to the mountains."
+    ],
+    "answer": 0,
+    "explain": "第三段說作者星期六在家看卡通，並幫姊姊做胡蘿蔔蛋糕，故選 (A)。(C) 手機是用來傳照片，不是新買的。",
+    "evidence": "I watched cartoons and helped my sister make a cake with carrots in it."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the main idea of the passage?",
+    "options": [
+     "Camping in the mountains is always dangerous.",
+     "Cats are afraid of strong wind.",
+     "A camp was canceled, but the writer still had a good day at home.",
+     "Students should not join clubs."
+    ],
+    "answer": 2,
+    "explain": "全文寫露營因颱風取消，但作者在家仍過得很開心，最後一句點出主旨，故選 (C)。(A) 用了 always，太過絕對，文中只說颱風時山區危險。",
+    "evidence": "Plans can change, but a rainy day at home can still be fun."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "The floor is wet. Please be ______ when you walk.",
+    "options": [
+     "careful",
+     "certain",
+     "central",
+     "calm"
+    ],
+    "answer": 0,
+    "word": "J-0228",
+    "explain": "地板濕濕的，走路要「小心」，故選 careful。certain（確定的）、central（中央的）不合句意；calm（冷靜的）也不是在提醒注意安全。"
+   },
+   {
+    "stem": "This is your last ______ to finish the test, so do your best.",
+    "options": [
+     "cartoon",
+     "calendar",
+     "chance",
+     "cause"
+    ],
+    "answer": 2,
+    "word": "J-0249",
+    "explain": "這是你完成考試的最後「機會」，故選 chance。cartoon（卡通）、calendar（月曆）、cause（原因）都不合句意。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S12",
+  "level": 9,
+  "day": 12,
+  "kind": "short",
+  "title": "Starting My Own Club",
+  "topic": "校園・社團",
+  "paragraphs": [
+   "At the start of the new school year, every student had to [[choose|J-0270]] a [[club|J-0291]]. There were many [[choices|J-0269]]: dance, guitar, [[chess|J-0260]], and even a mountain [[climbing|J-0285]] club. My [[classmate|J-0279]] Emma joined the music club right away because she loves [[classical|J-0278]] music.",
+   "I was not sure. Since my [[childhood|J-0263]], I have liked to [[collect|J-0299]] old [[coins|J-0296]], so I looked for a club about that. An older student showed me a [[chart|J-0254]] of all the clubs. \"There is no coin club,\" she said, \"but you can start one!\" I was surprised, but I was also [[careful|J-0228]] to ask a teacher first. He said it was a good idea.",
+   "The next week, I put a notice on the wall of our [[classroom|J-0280]]. Five students joined me. At our first meeting, we sat in a [[circle|J-0274]] and showed our coins. When I talked about my oldest coin, from the last [[century|J-0245]], everyone began to [[clap|J-0276]]. Now I am [[certain|J-0247]] that I made a good start."
+  ],
+  "zh": [
+   "新學年開始時，每個學生都得選一個社團。選擇很多：舞蹈、吉他、西洋棋，甚至還有登山社。我的同學 Emma 馬上加入了音樂社，因為她很喜歡古典音樂。",
+   "我拿不定主意。我從小就喜歡收集舊硬幣，所以想找跟這有關的社團。一位學姊給我看所有社團的一覽表。「沒有錢幣社，」她說，「但你可以自己創一個！」我很驚訝，但也很謹慎地先去問老師。老師說這是個好主意。",
+   "隔週，我在教室牆上貼了一張公告，有五位同學加入。第一次聚會時，我們圍坐成一圈，展示各自的硬幣。當我介紹我最老的一枚、來自上個世紀的硬幣時，大家都開始拍手。現在我很確定，我有了一個好的開始。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0270",
+   "J-0291",
+   "J-0269",
+   "J-0260",
+   "J-0285",
+   "J-0279",
+   "J-0278",
+   "J-0263",
+   "J-0299",
+   "J-0296",
+   "J-0254",
+   "J-0280",
+   "J-0274",
+   "J-0276"
+  ],
+  "review": [
+   "J-0228",
+   "J-0245",
+   "J-0247"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Why did Emma join the music club?",
+    "options": [
+     "Her friend asked her to join.",
+     "She wanted to learn chess.",
+     "The club had a lot of coins.",
+     "She loves classical music."
+    ],
+    "answer": 3,
+    "explain": "第一段說 Emma 加入音樂社是因為她喜歡古典音樂，故選 (D)。(B) 西洋棋社只是社團選項之一，與 Emma 無關。",
+    "evidence": "My classmate Emma joined the music club right away because she loves classical music."
+   },
+   {
+    "type": "指涉",
+    "stem": "In paragraph 2, what does \"one\" in \"you can start one\" refer to?",
+    "options": [
+     "a coin club",
+     "a chart",
+     "an old coin",
+     "a music class"
+    ],
+    "answer": 0,
+    "explain": "學姊先說沒有錢幣社，接著說「你可以創一個」，one 指的是錢幣社，故選 (A)。(C) 舊硬幣不能用 start 來搭配。",
+    "evidence": "\"There is no coin club,\" she said, \"but you can start one!\""
+   },
+   {
+    "type": "推論",
+    "stem": "Why did everyone clap at the first meeting?",
+    "options": [
+     "The writer told a funny story.",
+     "They liked the writer's very old coin.",
+     "The meeting was finally over.",
+     "The teacher gave them a prize."
+    ],
+    "answer": 1,
+    "explain": "作者介紹上個世紀的老硬幣時大家開始拍手，可推知大家很喜歡這枚硬幣，故選 (B)。(C) 文中沒有說聚會結束。",
+    "evidence": "When I talked about my oldest coin, from the last century, everyone began to clap."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to collect old coins",
+     "Why classical music is popular",
+     "How the writer started a new club at school",
+     "A chess game between two classmates"
+    ],
+    "answer": 2,
+    "explain": "全文寫作者找不到喜歡的社團，於是自己創立錢幣社的經過，故選 (C)。(A) 收集硬幣是背景，文章沒有教人怎麼收集。",
+    "evidence": "Now I am certain that I made a good start."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "It's hard to ______ a gift for my friend because she already has everything.",
+    "options": [
+     "clap",
+     "choose",
+     "climb",
+     "collect"
+    ],
+    "answer": 1,
+    "word": "J-0270",
+    "explain": "朋友什麼都有，所以很難「挑選」禮物，故選 choose。clap（拍手）、climb（爬）不合句意；collect（收集）也不是挑一份禮物的意思。"
+   },
+   {
+    "stem": "When the singer finished her song, the people in the hall began to ______ their hands.",
+    "options": [
+     "clean",
+     "close",
+     "check",
+     "clap"
+    ],
+    "answer": 3,
+    "word": "J-0276",
+    "explain": "歌手唱完歌，大家開始「拍手」，clap one's hands 是固定說法，故選 clap。clean（清潔）、close（關閉）、check（檢查）都不合句意。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S14",
+  "level": 9,
+  "day": 14,
+  "kind": "short",
+  "title": "Basketball with My Cousin",
+  "topic": "運動・親戚",
+  "paragraphs": [
+   "My [[cousin|J-0334]] Jack lives in another [[country|J-0330]], and he visited Taiwan last week. He is my age, and we both love basketball. On Saturday afternoon, the sky was [[clear|J-0282]], so we went to the [[court|J-0333]] near my house. A big [[crowd|J-0344]] was already there, watching a game.",
+   "After a [[couple|J-0331]] of minutes, two players asked us to join them. At first, I did not feel [[confident|J-0311]] because they were tall and fast. Jack said, \"Do not [[compare|J-0309]] yourself with them. Just have fun.\" So I did. We played for an hour, and I scored six points. The crowd [[cheered|J-0258]] for us!",
+   "When the game ended, our [[clothes|J-0288]] were wet, and we were hot. We bought ice [[cream|J-0340]] at a [[convenience store|J-0316]] on the [[corner|J-0324]]. Then we went home and rested on the [[couch|J-0327]]. We read [[comics|J-0305]] and had a long [[conversation|J-0318]] about school life in our two countries. \"Of [[course|J-0332]] I will come back next year,\" Jack said."
+  ],
+  "zh": [
+   "我的表哥 Jack 住在另一個國家，上星期來台灣玩。他跟我同年，我們都很愛打籃球。星期六下午天氣晴朗，我們就去我家附近的球場。那裡已經有一大群人在看比賽。",
+   "過了幾分鐘，有兩位球員邀我們一起打。一開始我沒什麼自信，因為他們又高又快。Jack 說：「別拿自己跟他們比，開心玩就好。」於是我照做了。我們打了一個小時，我拿了六分。觀眾還為我們歡呼！",
+   "比賽結束時，我們的衣服都濕了，全身很熱。我們在轉角的便利商店買了冰淇淋。然後我們回家，躺在沙發上休息。我們一邊看漫畫，一邊聊了很久兩個國家的學校生活。「我明年當然還會再來。」Jack 說。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0334",
+   "J-0330",
+   "J-0333",
+   "J-0344",
+   "J-0331",
+   "J-0311",
+   "J-0309",
+   "J-0340",
+   "J-0316",
+   "J-0324",
+   "J-0327",
+   "J-0305",
+   "J-0318",
+   "J-0332"
+  ],
+  "review": [
+   "J-0282",
+   "J-0258",
+   "J-0288"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Where did the writer and Jack buy ice cream?",
+    "options": [
+     "At the basketball court",
+     "At a night market",
+     "At a convenience store on the corner",
+     "At the writer's house"
+    ],
+    "answer": 2,
+    "explain": "第三段說他們在轉角的便利商店買冰淇淋，故選 (C)。(A) 球場是打球的地方，文中沒有說在那裡買東西。",
+    "evidence": "We bought ice cream at a convenience store on the corner."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"confident\" in paragraph 2 is closest in meaning to ______.",
+    "options": [
+     "sure of yourself",
+     "tired and sleepy",
+     "angry at others",
+     "tall and fast"
+    ],
+    "answer": 0,
+    "explain": "confident 是「有自信的」，也就是對自己有把握，作者因對手高又快而沒信心，故選 (A)。(D) tall and fast 是在描述對手，不是 confident 的意思。",
+    "evidence": "At first, I did not feel confident because they were tall and fast."
+   },
+   {
+    "type": "推論",
+    "stem": "What can we learn about Jack from his words in paragraph 2?",
+    "options": [
+     "He does not like basketball.",
+     "He wants the writer to enjoy the game.",
+     "He thinks the other players are bad.",
+     "He is afraid of the crowd."
+    ],
+    "answer": 1,
+    "explain": "Jack 叫作者別和別人比，開心玩就好，可見他希望作者享受比賽，故選 (B)。(C) Jack 並沒有說對手打得不好。",
+    "evidence": "Just have fun."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to become a basketball player",
+     "Why ice cream is popular in summer",
+     "School life in another country",
+     "A fun day the writer spent with a cousin"
+    ],
+    "answer": 3,
+    "explain": "全文寫作者和來訪的表哥一起打球、吃冰、聊天的一天，故選 (D)。(C) 聊學校生活只是最後的一個小細節。",
+    "evidence": "\"Of course I will come back next year,\" Jack said."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "There was a big ______ of people outside the store on the first day of the sale.",
+    "options": [
+     "couch",
+     "crowd",
+     "court",
+     "corner"
+    ],
+    "answer": 1,
+    "word": "J-0344",
+    "explain": "特賣第一天店外有一大「群」人，a crowd of people 是常見說法，故選 crowd。couch（沙發）、court（球場）、corner（角落）都不能接 of people。"
+   },
+   {
+    "stem": "Please don't ______ me with my brother. We are different people.",
+    "options": [
+     "count",
+     "cover",
+     "cut",
+     "compare"
+    ],
+    "answer": 3,
+    "word": "J-0309",
+    "explain": "compare A with B 是「拿 A 和 B 比較」，請別拿我和哥哥比，故選 compare。count（數）、cover（覆蓋）、cut（切）都不合句意。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S16",
+  "level": 9,
+  "day": 16,
+  "kind": "short",
+  "title": "Dad's New Diet",
+  "topic": "家庭・健康",
+  "paragraphs": [
+   "Last month, my dad went to see a [[doctor|J-0400]]. The doctor said, \"Your heart is fine, but you eat too much fried food. You need a better [[diet|J-0385]].\" Dad was surprised. He [[decided|J-0365]] to change his habits, and our family wanted to help him.",
+   "[[Changing|J-0250]] was [[difficult|J-0387]] at first. Dad loves [[delicious|J-0370]] fried [[chicken|J-0261]] from the night market. My mom and I [[discovered|J-0395]] some easy ways to cook vegetables on the Internet. Every evening, we [[cook|J-0319]] [[dinner|J-0391]] together. I cut the vegetables, and Mom makes a fish [[dish|J-0397]] with little oil. We eat at the table in the [[dining room|J-0390]], not in front of the TV. We also [[divide|J-0399]] the food and put it on small plates, so nobody eats too much.",
+   "It was a big [[decision|J-0366]], but it was a good one. After four weeks, Dad feels [[different|J-0386]]. He has more energy and walks to work every day. He even writes his meals in a small [[diary|J-0381]]. Last night he said, \"My dear [[daughter|J-0357]], thank you for your help.\" I smiled. Healthy food can taste good, too."
+  ],
+  "zh": [
+   "上個月，我爸爸去看醫生。醫生說：「你的心臟沒問題，但你吃太多油炸食物了。你需要更好的飲食。」爸爸很驚訝。他決定改變自己的習慣，而我們全家都想幫他。",
+   "一開始，改變很困難。爸爸很愛夜市好吃的炸雞。媽媽和我在網路上發現了一些煮蔬菜的簡單方法。每天晚上，我們一起煮晚餐。我切菜，媽媽用很少的油做一道魚料理。我們在飯廳的餐桌吃飯，而不是在電視前面。我們也把食物分到小盤子裡，這樣就沒有人會吃太多。",
+   "這是個重大的決定，但是個好決定。四個星期後，爸爸覺得不一樣了。他更有精神，而且每天走路去上班。他甚至在一本小日記裡記下自己吃的每一餐。昨晚他說：「我親愛的女兒，謝謝妳的幫忙。」我笑了。健康的食物也可以很好吃。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0400",
+   "J-0385",
+   "J-0365",
+   "J-0387",
+   "J-0370",
+   "J-0395",
+   "J-0391",
+   "J-0397",
+   "J-0390",
+   "J-0399",
+   "J-0366",
+   "J-0386",
+   "J-0381",
+   "J-0357"
+  ],
+  "review": [
+   "J-0250",
+   "J-0261",
+   "J-0319"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Why did the doctor ask Dad to change his diet?",
+    "options": [
+     "His heart was very weak.",
+     "He did not eat enough vegetables at work.",
+     "He ate too much fried food.",
+     "He walked too much every day."
+    ],
+    "answer": 2,
+    "explain": "第一段醫生說爸爸的心臟沒問題，但吃太多油炸食物，故選 (C)。醫生明說 Your heart is fine，所以 (A) 心臟很弱是錯的。",
+    "evidence": "The doctor said, \"Your heart is fine, but you eat too much fried food."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"divide\" in paragraph 2 is closest in meaning to ______.",
+    "options": [
+     "throw away",
+     "put into parts",
+     "keep warm",
+     "buy more"
+    ],
+    "answer": 1,
+    "explain": "divide 是「分開、分配」，把食物分到小盤子裡，就是 put into parts，故選 (B)。(A) throw away 是「丟掉」，文中並沒有把食物丟掉。",
+    "evidence": "We also divide the food and put it on small plates, so nobody eats too much."
+   },
+   {
+    "type": "推論",
+    "stem": "What can we learn about Dad after four weeks?",
+    "options": [
+     "He wants to go back to fried chicken.",
+     "He is angry with his family.",
+     "He goes to the night market every night.",
+     "He is healthier and happier than before."
+    ],
+    "answer": 3,
+    "explain": "第三段說爸爸覺得不一樣、更有精神，還每天走路上班並謝謝女兒，可推知他比以前更健康、開心，故選 (D)。(C) 文中沒有說他每晚去夜市，反而是全家在家煮晚餐。",
+    "evidence": "He has more energy and walks to work every day."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "A family helps Dad eat in a healthier way.",
+     "A doctor teaches people how to cook fish.",
+     "A girl writes a diary about the night market.",
+     "A family buys a new table for the dining room."
+    ],
+    "answer": 0,
+    "explain": "全文講爸爸聽了醫生的話改變飲食，家人一起幫忙煮健康的晚餐，故選 (A)。(C) 寫日記的是爸爸，而且記的是自己的餐點，不是夜市。",
+    "evidence": "He decided to change his habits, and our family wanted to help him."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "The math test was so ______ that many students could not finish it.",
+    "options": [
+     "difficult",
+     "delicious",
+     "dirty",
+     "different"
+    ],
+    "answer": 0,
+    "word": "J-0387",
+    "explain": "考試太「難」，所以很多學生寫不完，difficult 最通順，故選 difficult。delicious（美味的）、dirty（髒的）不能形容考試；different（不同的）也無法說明寫不完的原因。"
+   },
+   {
+    "stem": "Grandma writes about her day in her ______ every night before bed.",
+    "options": [
+     "dish",
+     "desk",
+     "diary",
+     "doctor"
+    ],
+    "answer": 2,
+    "word": "J-0381",
+    "explain": "每晚睡前在「日記」裡寫下一天的事，故選 diary。dish（盤子、菜餚）、desk（書桌）、doctor（醫生）都不能「在裡面寫」一天的事。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S18",
+  "level": 9,
+  "day": 18,
+  "kind": "short",
+  "title": "The Earthquake Drill",
+  "topic": "校園・安全",
+  "paragraphs": [
+   "Last Tuesday, our school had an [[earthquake|J-0438]] drill. At 10 a.m., an [[alarm|J-0035]] rang [[during|J-0428]] English class. Our teacher said, \"Get down, [[cover|J-0335]] your head, and hold on!\" We hid under our desks. My heart was beating so loudly that I could hear it in my [[ears|J-0433]].",
+   "Then we walked [[downstairs|J-0411]] to the playground. Nobody ran, and nobody pushed. [[Each|J-0431]] class leader had one [[duty|J-0429]]: to count the students. Mia [[dropped|J-0423]] her water bottle on the stairs, but she did not go back for it. Our teacher said that was the right choice.",
+   "After the drill, Mr. Lin talked about safety at home. \"Keep a bag near the [[door|J-0405]],\" he said. \"Put water, food, and a flashlight in it. When the ground shakes, stay [[calm|J-0216]].\" He also said that Taiwan has many earthquakes because of where it is on the [[earth|J-0437]]. That night, I wrote an [[e-mail|J-0430]] to my aunt about the drill. Then my parents and I made our own bag together. Now I feel more at [[ease|J-0439]]. Getting ready is [[easy|J-0442]] if you start [[early|J-0434]]."
+  ],
+  "zh": [
+   "上星期二，我們學校舉行了地震演習。上午十點，英文課上警報響起。老師說：「趴下、掩護頭部、穩住！」我們躲到桌子底下。我的心跳得好大聲，連耳朵都聽得到。",
+   "接著我們走下樓到操場。沒有人奔跑，也沒有人推擠。每班班長都有一項任務：清點學生人數。Mia 在樓梯上掉了水壺，但她沒有回頭去撿。老師說那是正確的選擇。",
+   "演習結束後，林老師談到居家安全。「在門邊放一個包包，」他說。「裡面放水、食物和一支手電筒。地面搖晃時，要保持冷靜。」他還說，因為台灣在地球上的位置，所以地震很多。那天晚上，我寫了一封電子郵件給阿姨，告訴她演習的事。接著我和爸媽一起準備了我們自己的包包。現在我覺得比較安心了。只要提早開始，做好準備其實很容易。"
+  ],
+  "glosses": [
+   {
+    "word": "drill",
+    "zh": "演習"
+   }
+  ],
+  "targets": [
+   "J-0438",
+   "J-0428",
+   "J-0433",
+   "J-0411",
+   "J-0431",
+   "J-0429",
+   "J-0423",
+   "J-0405",
+   "J-0437",
+   "J-0430",
+   "J-0439",
+   "J-0442",
+   "J-0434"
+  ],
+  "review": [
+   "J-0035",
+   "J-0335",
+   "J-0216"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "What was the class leader's duty during the drill?",
+    "options": [
+     "To ring the alarm.",
+     "To find Mia's water bottle.",
+     "To close all the doors.",
+     "To count the students."
+    ],
+    "answer": 3,
+    "explain": "第二段說每班班長的任務是清點學生人數，故選 (D)。(B) Mia 的水壺掉了，但文中說她沒有回去撿，也沒有人被派去找。",
+    "evidence": "Each class leader had one duty: to count the students."
+   },
+   {
+    "type": "推論",
+    "stem": "Why did the teacher say Mia made the right choice?",
+    "options": [
+     "Going back during an earthquake can be dangerous.",
+     "The water bottle was too old to keep.",
+     "Mia wanted to buy a new bottle.",
+     "The teacher did not like water bottles."
+    ],
+    "answer": 0,
+    "explain": "演習時大家要快速、安全地離開大樓，回頭撿東西可能有危險，所以老師稱讚 Mia 沒回去撿，故選 (A)。(B) 文中完全沒提到水壺新舊。",
+    "evidence": "Mia dropped her water bottle on the stairs, but she did not go back for it."
+   },
+   {
+    "type": "字義",
+    "stem": "The phrase \"at ease\" in paragraph 3 is closest in meaning to ______.",
+    "options": [
+     "worried",
+     "calm and not afraid",
+     "busy",
+     "sleepy"
+    ],
+    "answer": 1,
+    "explain": "準備好防災包後，作者覺得比較 at ease，也就是「安心、不害怕」，故選 (B)。(A) worried（擔心的）意思正好相反。",
+    "evidence": "Now I feel more at ease."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the main idea of the passage?",
+    "options": [
+     "Earthquakes only happen at school.",
+     "English class is the best class of the day.",
+     "An earthquake drill taught the writer to be ready.",
+     "Mia lost her water bottle and felt sad."
+    ],
+    "answer": 2,
+    "explain": "全文從學校地震演習寫到作者回家和爸媽準備防災包，重點是學會事先做好準備，故選 (C)。(D) 掉水壺只是演習中的一個小細節。",
+    "evidence": "Getting ready is easy if you start early."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Ben sends an ______ to his teacher when he has a question about homework.",
+    "options": [
+     "ear",
+     "e-mail",
+     "earth",
+     "egg"
+    ],
+    "answer": 1,
+    "word": "J-0430",
+    "explain": "有作業問題時「寄電子郵件」給老師，send an e-mail 是常見搭配，故選 e-mail。ear（耳朵）、earth（地球）、egg（蛋）都不能「寄給老師」問問題。"
+   },
+   {
+    "stem": "Please do not use your phone ______ the movie. It may bother other people.",
+    "options": [
+     "during",
+     "early",
+     "each",
+     "easy"
+    ],
+    "answer": 0,
+    "word": "J-0428",
+    "explain": "「在電影播放期間」不要用手機，during 表示「在……期間」，後面接名詞 the movie，故選 during。early、easy 是形容詞或副詞，each 是「每個」，都不能接在這裡。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S20",
+  "level": 9,
+  "day": 20,
+  "kind": "short",
+  "title": "Leo's Study Plan",
+  "topic": "校園・考試",
+  "paragraphs": [
+   "Leo's [[English|J-0462]] [[exam|J-0480]] is next Friday, and he is worried. On the last test, he made many [[errors|J-0468]], [[especially|J-0469]] in grammar. He is afraid that he will [[fail|J-0498]] again. He told his friend Emma, \"I study hard, but it is never [[enough|J-0464]].\"",
+   "Emma gave him some advice. \"First, study a little every day. Do not try to learn [[everything|J-0477]] in one night. Second, use a [[dictionary|J-0382]] and write your own [[examples|J-0481]] for new words. Third, take a [[break|J-0187]] and get some [[exercise|J-0488]]. Your body and mind need a rest, too.\" Leo followed her plan. Every [[evening|J-0472]], he studied for one hour and then went for a walk in the park.",
+   "On the day of the exam, Leo [[entered|J-0465]] the classroom with a calm [[face|J-0495]]. He felt [[confident|J-0311]]. A week later, the teacher gave back the tests. Leo got 88 points, and she wrote \"[[Excellent|J-0482]] work!\" next to his name. Leo was so [[excited|J-0485]] that he showed it to Emma right away. \"Your plan really works,\" he said. \"Thank you!\""
+  ],
+  "zh": [
+   "Leo 的英文考試在下星期五，他很擔心。上次考試他錯了很多地方，尤其是文法。他害怕自己又會不及格。他對朋友 Emma 說：「我很用功讀書，但好像永遠都不夠。」",
+   "Emma 給了他一些建議。「第一，每天讀一點。不要想在一個晚上把所有東西都學完。第二，查字典，並替新單字寫自己的例句。第三，休息一下，做點運動。你的身體和頭腦也需要休息。」Leo 照著她的計畫做。每天傍晚，他讀書一個小時，然後去公園散步。",
+   "考試那天，Leo 帶著平靜的表情走進教室。他覺得很有信心。一星期後，老師發回考卷。Leo 考了 88 分，老師在他的名字旁邊寫著「表現優異！」。Leo 興奮得馬上拿給 Emma 看。「妳的計畫真的有用，」他說。「謝謝妳！」"
+  ],
+  "glosses": [
+   {
+    "word": "grammar",
+    "zh": "文法"
+   }
+  ],
+  "targets": [
+   "J-0462",
+   "J-0480",
+   "J-0468",
+   "J-0469",
+   "J-0498",
+   "J-0464",
+   "J-0477",
+   "J-0481",
+   "J-0488",
+   "J-0472",
+   "J-0465",
+   "J-0495",
+   "J-0482",
+   "J-0485"
+  ],
+  "review": [
+   "J-0382",
+   "J-0187",
+   "J-0311"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "On the last test, what part was especially hard for Leo?",
+    "options": [
+     "Listening.",
+     "Grammar.",
+     "Writing his name.",
+     "Math."
+    ],
+    "answer": 1,
+    "explain": "第一段說他上次考試錯很多，尤其是文法（grammar），故選 (B)。(D) 他考的是英文，不是數學。",
+    "evidence": "On the last test, he made many errors, especially in grammar."
+   },
+   {
+    "type": "細節",
+    "stem": "Which of the following is NOT part of Emma's advice?",
+    "options": [
+     "Study a little every day.",
+     "Write your own examples for new words.",
+     "Take a break and get some exercise.",
+     "Study everything in one night."
+    ],
+    "answer": 3,
+    "explain": "Emma 說「不要」想在一個晚上學完所有東西，所以 (D) 不是她的建議，故選 (D)。(A)(B)(C) 都是她提到的第一、二、三點。",
+    "evidence": "Do not try to learn everything in one night."
+   },
+   {
+    "type": "指涉",
+    "stem": "In paragraph 3, what does \"it\" in \"he showed it to Emma\" refer to?",
+    "options": [
+     "His test.",
+     "His dictionary.",
+     "His face.",
+     "The park."
+    ],
+    "answer": 0,
+    "explain": "前一句說老師發回考卷，在上面寫了「表現優異！」，Leo 興奮地拿給 Emma 看的就是考卷，故選 (A)。(B) 字典是讀書時用的，與這裡無關。",
+    "evidence": "Leo was so excited that he showed it to Emma right away."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "Emma teaches English at a school.",
+     "Leo stops studying and walks in the park.",
+     "A good study plan helps Leo do well on his exam.",
+     "Leo fails his English exam again."
+    ],
+    "answer": 2,
+    "explain": "全文寫 Leo 擔心考試，照著 Emma 的讀書計畫準備，最後考得很好，故選 (C)。(D) 與結果相反，他得到 88 分和老師的稱讚。",
+    "evidence": "\"Your plan really works,\" he said."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Please take off your shoes before you ______ the house.",
+    "options": [
+     "fail",
+     "enter",
+     "excite",
+     "exercise"
+    ],
+    "answer": 1,
+    "word": "J-0465",
+    "explain": "「進入」房子前請脫鞋，enter 是「進入」，故選 enter。fail（失敗）、excite（使興奮）、exercise（運動）都不能接 the house 表示走進去。"
+   },
+   {
+    "stem": "Ken does not have ______ money to buy the new phone, so he is saving his money.",
+    "options": [
+     "early",
+     "empty",
+     "else",
+     "enough"
+    ],
+    "answer": 3,
+    "word": "J-0464",
+    "explain": "錢「不夠」買新手機所以在存錢，enough money 是「足夠的錢」，故選 enough。empty（空的）不能放在 money 前這樣用；early、else 意思不通。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S22",
+  "level": 9,
+  "day": 22,
+  "kind": "short",
+  "title": "A Flat Tire by the Sea",
+  "topic": "旅遊・單車",
+  "paragraphs": [
+   "Last Saturday, Ben and his cousin Ken rode their [[bikes|J-0151]] along the east [[coast|J-0292]] of Taiwan. It was their first long bike trip. In the morning, there was some [[fog|J-0545]] over the sea, so they did not ride [[fast|J-0508]]. Soon the sun came out, and they saw [[flowers|J-0542]] everywhere.",
+   "After two hours, Ken's bike had a [[flat tire|J-0540]]. They were [[far|J-0505]] from any town, and Ken did not know how to [[fix|J-0538]] it. Then an old [[fisherman|J-0535]] walked by. \"Do not worry,\" he said. \"[[Follow|J-0546]] me.\" He took them to his house and helped them fix the bike in a [[few|J-0520]] minutes.",
+   "The fisherman's wife even gave them some [[food|J-0547]]: rice and fresh [[fish|J-0534]]. It was [[delicious|J-0370]]. Ben and Ken thanked them again and again. In the afternoon, they [[finally|J-0527]] [[finished|J-0531]] the trip. \"The bike trouble was bad, but meeting that kind couple was my [[favorite|J-0511]] part of the day,\" Ken said. \"Kind people are everywhere.\""
+  ],
+  "zh": [
+   "上星期六，Ben 和他的表弟 Ken 騎腳踏車沿著台灣東海岸前進。這是他們第一次長途單車旅行。早上海面上有些霧，所以他們騎得不快。不久太陽出來了，他們看到到處都是花。",
+   "兩個小時後，Ken 的腳踏車爆胎了。他們離任何城鎮都很遠，而 Ken 不知道怎麼修。這時一位老漁夫走了過來。「別擔心，」他說。「跟我來。」他帶他們到自己家，幾分鐘就幫他們把腳踏車修好了。",
+   "漁夫的太太甚至給了他們一些食物：米飯和新鮮的魚。真的很好吃。Ben 和 Ken 一再向他們道謝。下午，他們終於完成了這趟旅行。「腳踏車出問題很倒楣，但遇到那對親切的夫婦是我今天最喜歡的部分，」Ken 說。「好心人到處都有。」"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0545",
+   "J-0508",
+   "J-0542",
+   "J-0540",
+   "J-0505",
+   "J-0538",
+   "J-0535",
+   "J-0546",
+   "J-0520",
+   "J-0547",
+   "J-0534",
+   "J-0527",
+   "J-0531",
+   "J-0511"
+  ],
+  "review": [
+   "J-0151",
+   "J-0292",
+   "J-0370"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Why did Ben and Ken not ride fast in the morning?",
+    "options": [
+     "It was raining hard.",
+     "Ken's bike had a flat tire.",
+     "They wanted to look at the flowers.",
+     "There was some fog over the sea."
+    ],
+    "answer": 3,
+    "explain": "第一段說早上海面有霧，所以他們騎得不快，故選 (D)。(B) 爆胎是兩小時後才發生的事，不是早上騎得慢的原因。",
+    "evidence": "In the morning, there was some fog over the sea, so they did not ride fast."
+   },
+   {
+    "type": "細節",
+    "stem": "How did the fisherman help Ben and Ken?",
+    "options": [
+     "He helped them fix the bike.",
+     "He gave them a new bike.",
+     "He drove them back home.",
+     "He showed them the way to the beach."
+    ],
+    "answer": 0,
+    "explain": "第二段說漁夫帶他們回家，幾分鐘內就幫他們修好腳踏車，故選 (A)。(B) 他並沒有送他們新腳踏車，只是修好舊的。",
+    "evidence": "He took them to his house and helped them fix the bike in a few minutes."
+   },
+   {
+    "type": "指涉",
+    "stem": "In paragraph 3, who does \"that kind couple\" refer to?",
+    "options": [
+     "Ben and Ken.",
+     "Ben's parents.",
+     "The fisherman and his wife.",
+     "Two people in town."
+    ],
+    "answer": 2,
+    "explain": "幫忙修車又請他們吃飯的是漁夫和他的太太，所以「那對親切的夫婦」指的是他們，故選 (C)。(A) Ben 和 Ken 是說話者本人，不是被感謝的對象。",
+    "evidence": "The fisherman's wife even gave them some food: rice and fresh fish."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the main idea of the passage?",
+    "options": [
+     "Riding a bike in the fog is fun.",
+     "Two boys meet kind people during a bike trip.",
+     "A fisherman teaches boys how to catch fish.",
+     "The east coast has the best food in Taiwan."
+    ],
+    "answer": 1,
+    "explain": "全文寫 Ben 和 Ken 單車旅行時爆胎，受到漁夫夫婦幫助，最後說好心人到處都有，故選 (B)。(C) 漁夫是幫忙修車，沒有教他們捕魚。",
+    "evidence": "\"Kind people are everywhere.\""
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "My computer does not work. Can you help me ______ it?",
+    "options": [
+     "fix",
+     "fill",
+     "fly",
+     "follow"
+    ],
+    "answer": 0,
+    "word": "J-0538",
+    "explain": "電腦壞了，請人幫忙「修理」，fix 是「修理」，故選 fix。fill（裝滿）、fly（飛）、follow（跟隨）都不合文意。"
+   },
+   {
+    "stem": "After three hours of hard work, Mia ______ finished her art project.",
+    "options": [
+     "fast",
+     "finally",
+     "foolish",
+     "far"
+    ],
+    "answer": 1,
+    "word": "J-0527",
+    "explain": "努力了三個小時之後「終於」完成作品，finally 是「終於、最後」，故選 finally。foolish（愚蠢的）是形容詞，不能修飾動詞 finished；fast、far 意思不通。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S24",
+  "level": 9,
+  "day": 24,
+  "kind": "short",
+  "title": "A New Friend from Far Away",
+  "topic": "友誼・交換學生",
+  "paragraphs": [
+   "This semester, a [[foreign|J-0553]] student named Anna joined our class. On her first day, she stood in [[front|J-0580]] of the class and said hello in Chinese. She was a little nervous, and her Chinese was not perfect, but everybody [[clapped|J-0276]]. Our teacher asked me to help Anna, and I was [[glad|J-0600]] to do it.",
+   "Anna is very [[friendly|J-0574]] and [[funny|J-0585]]. At lunch, she tells us about her country, where the winter is [[freezing|J-0568]]. She thinks Taiwan is warm and fun. In our [[free|J-0567]] time, we play [[frisbee|J-0577]] on the playground. On Friday nights, we go to the night market together. She loves [[fresh|J-0570]] [[fruit|J-0581]], [[especially|J-0469]] mangoes. She can eat five in one night!",
+   "Next month, Anna will go back to her country. I will never [[forget|J-0556]] her. I made a small [[gift|J-0597]] for her: a photo [[album|J-0036]] of our class. I hope our [[friendship|J-0575]] will last for a long time. Maybe in the [[future|J-0587]], I can visit her country and see the snow there."
+  ],
+  "zh": [
+   "這學期，一位名叫 Anna 的外國學生加入我們班。她第一天站在全班面前，用中文打招呼。她有點緊張，中文也不完美，但大家都為她鼓掌。老師請我幫忙 Anna，我很樂意。",
+   "Anna 非常友善又很有趣。午餐時，她會跟我們聊她的國家，那裡的冬天冷得要命。她覺得台灣既溫暖又好玩。空閒時間，我們在操場玩飛盤。星期五晚上，我們一起去逛夜市。她很愛新鮮水果，尤其是芒果。她一個晚上可以吃五顆！",
+   "下個月，Anna 就要回她的國家了。我永遠不會忘記她。我替她做了一份小禮物：一本我們班的相簿。我希望我們的友誼能長長久久。也許將來，我可以去拜訪她的國家，看看那裡的雪。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0553",
+   "J-0580",
+   "J-0600",
+   "J-0574",
+   "J-0585",
+   "J-0568",
+   "J-0567",
+   "J-0577",
+   "J-0570",
+   "J-0581",
+   "J-0556",
+   "J-0597",
+   "J-0575",
+   "J-0587"
+  ],
+  "review": [
+   "J-0276",
+   "J-0469",
+   "J-0036"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "What did Anna do on her first day?",
+    "options": [
+     "She played frisbee with the teacher.",
+     "She went to the night market alone.",
+     "She said hello in Chinese in front of the class.",
+     "She gave everybody a gift."
+    ],
+    "answer": 2,
+    "explain": "第一段說她第一天站在全班面前用中文打招呼，故選 (C)。(D) 送禮物的是作者，而且是在 Anna 要回國前。",
+    "evidence": "On her first day, she stood in front of the class and said hello in Chinese."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"freezing\" in paragraph 2 is closest in meaning to ______.",
+    "options": [
+     "very cold",
+     "very short",
+     "very hot",
+     "very busy"
+    ],
+    "answer": 0,
+    "explain": "freezing 是「冷得要命、極冷的」，與 very cold 最接近，故選 (A)。(C) very hot 正好相反，文中說的是台灣溫暖，而 Anna 的國家冬天很冷。",
+    "evidence": "At lunch, she tells us about her country, where the winter is freezing."
+   },
+   {
+    "type": "推論",
+    "stem": "What can we learn about Anna?",
+    "options": [
+     "She does not like Taiwanese food.",
+     "She really enjoys fruit in Taiwan.",
+     "She wants to live in Taiwan.",
+     "She speaks perfect Chinese."
+    ],
+    "answer": 1,
+    "explain": "文中說她很愛新鮮水果，尤其是芒果，一個晚上能吃五顆，可知她很喜歡台灣的水果，故選 (B)。(D) 第一段明說她的中文不完美。",
+    "evidence": "She can eat five in one night!"
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to play frisbee on the playground.",
+     "Why winter is cold in other countries.",
+     "The best night market in Taiwan.",
+     "The writer's friendship with a foreign student."
+    ],
+    "answer": 3,
+    "explain": "全文寫作者幫助外國同學 Anna、一起玩、一起逛夜市，最後希望友誼長久，故選 (D)。(A) 玩飛盤只是兩人一起做的活動之一。",
+    "evidence": "I hope our friendship will last for a long time."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Do not ______ to bring your umbrella. It is going to rain this afternoon.",
+    "options": [
+     "forgive",
+     "forget",
+     "fry",
+     "free"
+    ],
+    "answer": 1,
+    "word": "J-0556",
+    "explain": "「別忘了」帶傘，下午要下雨，Do not forget to... 是「別忘了要……」，故選 forget。forgive（原諒）字形相近但意思不同；fry（油炸）、free（自由的）都不通。"
+   },
+   {
+    "stem": "The new clerk at the store is very ______. She always smiles and says hello to everyone.",
+    "options": [
+     "funny",
+     "full",
+     "foreign",
+     "friendly"
+    ],
+    "answer": 3,
+    "word": "J-0574",
+    "explain": "總是微笑、跟每個人打招呼，表示她很「友善」，故選 friendly。funny 是「好笑的」，微笑打招呼不等於好笑；full（飽的）、foreign（外國的）不合文意。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S26",
+  "level": 9,
+  "day": 26,
+  "kind": "short",
+  "title": "Summer on Grandpa's Farm",
+  "topic": "家庭・鄉間生活",
+  "paragraphs": [
+   "Every summer vacation, I visit my [[grandpa|J-0620]] and grandma in a small village in Tainan. They have a farm with two [[goats|J-0606]] and a [[goose|J-0612]]. When I [[arrive|J-0079]], the goose always runs out to [[greet|J-0627]] me. It makes loud noises, as if I were a very special [[guest|J-0634]].",
+   "Grandpa is seventy, but he still works hard. He [[grows|J-0630]] [[guavas|J-0632]] and [[grapes|J-0622]]. Every morning, he puts on his [[gloves|J-0603]] and works in the [[garden|J-0590]] until noon. I help him pick fruit. One day, I asked him, \"How do you know when a guava is ready?\" He smiled and said, \"[[Guess|J-0633]].\" Then he showed me. A ready guava is light [[green|J-0626]], not too hard, and it smells sweet.",
+   "In the evening, we sit on the [[ground|J-0628]] under a big tree and eat fruit. Grandma [[hangs|J-0650]] a lamp on the tree, and the old gray cat sleeps next to us. Grandpa says that working outside every day is his best [[habit|J-0639]]. I think he is right. Life on the farm is slow, but it is great."
+  ],
+  "zh": [
+   "每年暑假，我都會去台南一個小村莊看爺爺和奶奶。他們有一座農場，養了兩隻山羊和一隻鵝。我一到，那隻鵝總是跑出來迎接我。牠會大聲叫，好像我是一位非常特別的客人。",
+   "爺爺七十歲了，但仍然很勤勞地工作。他種芭樂和葡萄。每天早上，他戴上手套在園子裡工作到中午。我幫他採水果。有一天我問他：「你怎麼知道芭樂熟了沒？」他笑著說：「你猜猜看。」然後他示範給我看。熟的芭樂是淺綠色的，不會太硬，而且聞起來甜甜的。",
+   "傍晚，我們坐在大樹下的地上吃水果。奶奶在樹上掛一盞燈，那隻灰色的老貓就睡在我們旁邊。爺爺說，每天在戶外工作是他最好的習慣。我覺得他說得對。農場上的生活很慢，但很棒。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0620",
+   "J-0606",
+   "J-0612",
+   "J-0627",
+   "J-0634",
+   "J-0630",
+   "J-0632",
+   "J-0622",
+   "J-0603",
+   "J-0633",
+   "J-0626",
+   "J-0628",
+   "J-0650",
+   "J-0639"
+  ],
+  "review": [
+   "J-0079",
+   "J-0590"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "What does the goose do when the writer arrives?",
+    "options": [
+     "It hides behind the tree.",
+     "It sleeps next to the cat.",
+     "It eats the guavas.",
+     "It runs out to greet the writer."
+    ],
+    "answer": 3,
+    "explain": "第一段說作者一到，鵝總是跑出來迎接，故選 (D)。(B) 睡在旁邊的是灰色老貓，不是鵝。",
+    "evidence": "When I arrive, the goose always runs out to greet me."
+   },
+   {
+    "type": "細節",
+    "stem": "How can you tell that a guava is ready?",
+    "options": [
+     "It is light green and smells sweet.",
+     "It is dark and very hard.",
+     "It falls on the ground.",
+     "It is as big as a grape."
+    ],
+    "answer": 0,
+    "explain": "第二段爺爺示範：熟的芭樂是淺綠色、不會太硬、聞起來甜，故選 (A)。(B) 文中說熟的芭樂「不會太硬」，與 very hard 相反。",
+    "evidence": "A ready guava is light green, not too hard, and it smells sweet."
+   },
+   {
+    "type": "推論",
+    "stem": "What kind of person is Grandpa?",
+    "options": [
+     "He is lazy and sleeps until noon.",
+     "He is hard-working and healthy.",
+     "He does not like animals.",
+     "He wants to move to a big city."
+    ],
+    "answer": 1,
+    "explain": "爺爺七十歲仍每天早上工作到中午，還說戶外工作是他最好的習慣，可見他勤勞又健康，故選 (B)。(A) 他是工作「到中午」，不是睡到中午。",
+    "evidence": "Grandpa is seventy, but he still works hard."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to take care of a goose.",
+     "Why grapes are better than guavas.",
+     "The writer's happy summer days on the grandparents' farm.",
+     "A trip to a big night market in Tainan."
+    ],
+    "answer": 2,
+    "explain": "全文寫作者暑假到爺爺奶奶的農場，迎接的鵝、採芭樂、傍晚在樹下吃水果，結尾說農場生活很棒，故選 (C)。(A) 鵝只出現在第一段，不是全文重點。",
+    "evidence": "Life on the farm is slow, but it is great."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Kevin has a good ______. He goes to bed early and gets up at six every day.",
+    "options": [
+     "habit",
+     "guest",
+     "ground",
+     "goose"
+    ],
+    "answer": 0,
+    "word": "J-0639",
+    "explain": "每天早睡早起是好「習慣」，habit 最通順，故選 habit。guest（客人）、ground（地面）、goose（鵝）都不能用來說早睡早起。"
+   },
+   {
+    "stem": "Can you ______ what is in the box? It is round, and you can eat it.",
+    "options": [
+     "greet",
+     "grow",
+     "guess",
+     "hang"
+    ],
+    "answer": 2,
+    "word": "J-0633",
+    "explain": "請對方「猜」盒子裡是什麼，還給了提示，guess 是「猜」，故選 guess。greet（打招呼）、grow（種植、成長）、hang（掛）都不能接 what is in the box。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S28",
+  "level": 9,
+  "day": 28,
+  "kind": "short",
+  "title": "A Hot Day on the Hill",
+  "topic": "社團・登山",
+  "paragraphs": [
+   "Hiking is my [[favorite|J-0511]] [[hobby|J-0685]]. During the last [[holiday|J-0688]], our school hiking club went to a [[hill|J-0679]] near Taichung. We met at the school [[gate|J-0591]] at seven and took a bus on the [[highway|J-0677]] for one hour.",
+   "The day was very [[hot|J-0697]]. Our teacher, Mr. Wang, told us to wear a [[hat|J-0655]] and drink enough water. On the way up, Lisa said she had a [[headache|J-0658]]. Her backpack was too [[heavy|J-0664]], and the [[heat|J-0663]] made her tired. Ben was very [[helpful|J-0668]]. He [[carried|J-0230]] some of her things, and we all rested under the trees for a while. Soon Lisa felt better, and we kept going.",
+   "At the top, we could see the whole city. Mr. Wang told us about the [[history|J-0683]] of the old road on the hill. Then we sat down and ate sandwiches and [[honey|J-0692]] cake. When I got home, I was tired but happy. Hiking is good for your [[health|J-0659]], and it is a great way to make friends. I [[hope|J-0694]] our next trip comes soon."
+  ],
+  "zh": [
+   "健行是我最喜歡的嗜好。上次放假時，我們學校的登山社去了台中附近的一座山丘。我們七點在校門口集合，搭巴士走高速公路一個小時。",
+   "那天非常熱。王老師叫我們戴帽子、喝足夠的水。上山途中，Lisa 說她頭痛。她的背包太重，炎熱也讓她很累。Ben 非常樂於助人。他幫她背了一些東西，我們大家也在樹下休息了一會兒。很快 Lisa 就好多了，我們繼續往上走。",
+   "到了山頂，我們可以看到整座城市。王老師跟我們介紹山上那條老路的歷史。接著我們坐下來吃三明治和蜂蜜蛋糕。回到家時，我很累但很開心。健行對健康有益，也是交朋友的好方法。我希望下一次的出遊快點到來。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0685",
+   "J-0688",
+   "J-0679",
+   "J-0677",
+   "J-0697",
+   "J-0655",
+   "J-0658",
+   "J-0664",
+   "J-0663",
+   "J-0668",
+   "J-0683",
+   "J-0692",
+   "J-0659",
+   "J-0694"
+  ],
+  "review": [
+   "J-0511",
+   "J-0591",
+   "J-0230"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Why did Lisa feel bad on the way up?",
+    "options": [
+     "She forgot to bring her hat.",
+     "Her backpack was heavy, and it was very hot.",
+     "She did not like the other club members.",
+     "She ate too much honey cake."
+    ],
+    "answer": 1,
+    "explain": "第二段說 Lisa 的背包太重，炎熱又讓她很累，所以頭痛，故選 (B)。(D) 蜂蜜蛋糕是到山頂後才吃的，與她頭痛無關。",
+    "evidence": "Her backpack was too heavy, and the heat made her tired."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"helpful\" in paragraph 2 is closest in meaning to ______.",
+    "options": [
+     "angry and loud",
+     "tired and sleepy",
+     "afraid and shy",
+     "kind and ready to help"
+    ],
+    "answer": 3,
+    "explain": "Ben 幫 Lisa 背東西，所以 helpful 指「樂於助人的」，與 kind and ready to help 最接近，故選 (D)。(B) tired 形容的是 Lisa，不是 Ben。",
+    "evidence": "Ben was very helpful."
+   },
+   {
+    "type": "細節",
+    "stem": "What did Mr. Wang talk about at the top of the hill?",
+    "options": [
+     "The history of the old road.",
+     "The way to make honey cake.",
+     "The bus ride on the highway.",
+     "The club's next trip."
+    ],
+    "answer": 0,
+    "explain": "第三段說王老師在山頂介紹那條老路的歷史，故選 (A)。(D) 期待下一次出遊的是作者，不是老師說的話。",
+    "evidence": "Mr. Wang told us about the history of the old road on the hill."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the main idea of the passage?",
+    "options": [
+     "Hiking on hot days is always dangerous.",
+     "Lisa should not join the hiking club.",
+     "A hot but happy hiking trip with the school club.",
+     "Taichung has the best highway in Taiwan."
+    ],
+    "answer": 2,
+    "explain": "全文寫登山社在大熱天爬山，途中互相幫忙，最後開心地回家，故選 (C)。(A) 雖然天氣熱、Lisa 頭痛，但大家休息後就好了，文中沒有說熱天爬山總是很危險。",
+    "evidence": "When I got home, I was tired but happy."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Emma's favorite ______ is drawing. She draws pictures in her free time.",
+    "options": [
+     "hobby",
+     "hole",
+     "history",
+     "highway"
+    ],
+    "answer": 0,
+    "word": "J-0685",
+    "explain": "空閒時間畫畫，是她最喜歡的「嗜好」，故選 hobby。hole（洞）、history（歷史）、highway（高速公路）都不合文意。"
+   },
+   {
+    "stem": "This box is too ______ for me to carry. Can you help me?",
+    "options": [
+     "hot",
+     "high",
+     "heavy",
+     "honest"
+    ],
+    "answer": 2,
+    "word": "J-0664",
+    "explain": "箱子太「重」搬不動，需要幫忙，故選 heavy。high（高的）、honest（誠實的）不能說明搬不動；hot（燙的）也不是需要人幫忙「搬」的原因。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S30",
+  "level": 9,
+  "day": 30,
+  "kind": "short",
+  "title": "Meet Our New Classmate",
+  "topic": "校園・訪問",
+  "paragraphs": [
+   "This month, our school newspaper gave me a new [[job|J-0746]]. I had to [[interview|J-0737]] Emma, a new [[classmate|J-0279]] in our [[international|J-0735]] class. She comes from a small [[island|J-0741]] far away, and Taiwan is the first foreign [[country|J-0330]] she has lived in.",
+   "Emma is very [[independent|J-0726]]. She lives alone, cooks her own meals, and takes the bus to school by herself. I asked her, \"What was your first [[idea|J-0715]] about Taiwan?\" She laughed. \"I [[imagined|J-0718]] that it was hot all year. But in [[January|J-0744]], I needed a warm [[jacket|J-0742]]!\" Then she told a [[joke|J-0749]] about the big [[insects|J-0729]] in her room. \"They are my only friends at home,\" she said.",
+   "Emma is also [[interested|J-0733]] in sports. Every morning, she [[jogs|J-0747]] around the school field before class. She hopes to [[join|J-0748]] the basketball team next week. At the end, I said, \"You are really [[brave|J-0185]] to study in a new place.\" She smiled and answered, \"Everyone here is so kind. I feel at home already.\""
+  ],
+  "zh": [
+   "這個月，校刊給了我一份新工作。我要訪問 Emma，她是我們國際班的新同學。她來自遙遠的一座小島，而台灣是她住過的第一個外國國家。",
+   "Emma 非常獨立。她一個人住，自己煮飯，也自己搭公車上學。我問她：「你對台灣的第一個想法是什麼？」她笑了。「我原本以為這裡一年到頭都很熱。可是到了一月，我需要一件保暖的夾克！」接著她說了一個關於她房間裡大蟲子的笑話。「牠們是我在家裡唯一的朋友。」她說。",
+   "Emma 也對運動很有興趣。每天早上，她會在上課前繞著學校操場慢跑。她希望下星期加入籃球隊。訪問最後，我說：「你真勇敢，敢到一個新地方讀書。」她笑著回答：「這裡每個人都好親切，我已經覺得像在家一樣了。」"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0746",
+   "J-0737",
+   "J-0735",
+   "J-0741",
+   "J-0726",
+   "J-0715",
+   "J-0718",
+   "J-0744",
+   "J-0742",
+   "J-0749",
+   "J-0729",
+   "J-0733",
+   "J-0747",
+   "J-0748"
+  ],
+  "review": [
+   "J-0279",
+   "J-0330",
+   "J-0185"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "What does Emma do every morning before class?",
+    "options": [
+     "She cooks breakfast for her friends.",
+     "She plays basketball with the team.",
+     "She jogs around the school field.",
+     "She writes for the school newspaper."
+    ],
+    "answer": 2,
+    "explain": "第三段說她每天早上上課前繞著操場慢跑，故選 (C)。她只是「希望下星期加入」籃球隊，還沒有開始打球，(B) 不對。",
+    "evidence": "Every morning, she jogs around the school field before class."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"independent\" in paragraph 2 is closest in meaning to ______.",
+    "options": [
+     "able to take care of herself",
+     "afraid of new things",
+     "happy to tell jokes",
+     "too busy to study"
+    ],
+    "answer": 0,
+    "explain": "後面一句說她一個人住、自己煮飯、自己搭公車，可見 independent 是「獨立、能照顧自己」，故選 (A)。她雖然會說笑話，但 (C) 不是這個字的意思。",
+    "evidence": "She lives alone, cooks her own meals, and takes the bus to school by herself."
+   },
+   {
+    "type": "指涉",
+    "stem": "In paragraph 2, what does \"They\" in \"They are my only friends at home\" refer to?",
+    "options": [
+     "Her classmates",
+     "Her parents",
+     "The jackets",
+     "The insects"
+    ],
+    "answer": 3,
+    "explain": "前一句說她講了房間裡大蟲子的笑話，所以「牠們是我在家唯一的朋友」的 They 指蟲子，故選 (D)。她一個人住，同學不在她家，(A) 不對。",
+    "evidence": "Then she told a joke about the big insects in her room."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to write a good school newspaper",
+     "An interview with a new student from another country",
+     "Why Taiwan is hot all year",
+     "How to join a basketball team"
+    ],
+    "answer": 1,
+    "explain": "全文是校刊記者訪問國際班新同學 Emma 的內容，故選 (B)。台灣一年到頭都熱只是 Emma 原本的想像，而且文中說一月其實很冷，(C) 不對。",
+    "evidence": "I had to interview Emma, a new classmate in our international class."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Would you like to ______ our dance club? We practice every Friday.",
+    "options": [
+     "jog",
+     "joke",
+     "hurry",
+     "join"
+    ],
+    "answer": 3,
+    "word": "J-0748",
+    "explain": "邀請對方「加入」舞蹈社，join 最通順，故選 join。jog（慢跑）、joke（開玩笑）、hurry（趕快）都不能接 our dance club。"
+   },
+   {
+    "stem": "It is very cold outside. Put on your ______ before you go out.",
+    "options": [
+     "jacket",
+     "island",
+     "insect",
+     "idea"
+    ],
+    "answer": 0,
+    "word": "J-0742",
+    "explain": "外面很冷，出門前要穿上「夾克」，故選 jacket。island（島）、insect（昆蟲）、idea（想法）都不能穿。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S32",
+  "level": 9,
+  "day": 32,
+  "kind": "short",
+  "title": "Lights on the Lake",
+  "topic": "家庭・節慶",
+  "paragraphs": [
+   "Last Saturday was the Lantern [[Festival|J-0518]], so my [[family|J-0502]] went to a [[lantern|J-0782]] show by a [[large|J-0783]] [[lake|J-0777]] near our town. The roads were full of cars, and we got there [[late|J-0785]]. Luckily, the show had just started.",
+   "Hundreds of lanterns were floating on the water. My cousin Leo, a [[kid|J-0762]] of six, could not [[keep|J-0758]] still. He ran from one side to the other and shouted at every lantern. My favorite one was a white [[lamb|J-0778]] holding a small [[lamp|J-0779]]. A [[lady|J-0776]] next to us said an old man made it by hand. My [[grandmother|J-0619]] told us that long ago, people carried lanterns to [[lead|J-0793]] the way on dark roads.",
+   "Before we left, Dad bought us some cold [[juice|J-0752]]. In the car, Leo was so tired that he [[laid|J-0791]] his head on my [[knee|J-0770]] and fell asleep in a minute. Looking at the lights outside the window, I [[learned|J-0796]] something: a small light can make a dark night warm. Next year, we will come early!"
+  ],
+  "zh": [
+   "上星期六是元宵節，所以我們一家人到我們鎮附近一座大湖邊看燈會。路上滿滿都是車，我們到得很晚。幸好燈會才剛開始。",
+   "幾百盞燈籠漂在水面上。我的表弟 Leo 才六歲，根本安靜不下來。他從這一頭跑到那一頭，對每一盞燈籠大叫。我最喜歡的是一隻提著小燈的白色小羊。旁邊一位女士說，那是一位老爺爺親手做的。奶奶告訴我們，很久以前，人們會提著燈籠在黑暗的路上帶路。",
+   "離開前，爸爸買了冰涼的果汁給我們。在車上，Leo 累到把頭靠在我的膝蓋上，一下子就睡著了。看著窗外的燈光，我學到一件事：一盞小小的燈，就能讓黑夜變得溫暖。明年我們要早點來！"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0782",
+   "J-0783",
+   "J-0777",
+   "J-0785",
+   "J-0762",
+   "J-0758",
+   "J-0778",
+   "J-0779",
+   "J-0776",
+   "J-0793",
+   "J-0752",
+   "J-0791",
+   "J-0770",
+   "J-0796"
+  ],
+  "review": [
+   "J-0518",
+   "J-0502",
+   "J-0619"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Why did the family get to the lantern show late?",
+    "options": [
+     "Leo was sleeping in the car.",
+     "The roads were full of cars.",
+     "They went to buy juice first.",
+     "They could not find the lake."
+    ],
+    "answer": 1,
+    "explain": "第一段說路上滿是車，所以到得很晚，故選 (B)。Leo 是回家的路上才睡著，(A) 時間不對。",
+    "evidence": "The roads were full of cars, and we got there late."
+   },
+   {
+    "type": "推論",
+    "stem": "What can we learn about Leo at the lantern show?",
+    "options": [
+     "He was afraid of the dark.",
+     "He wanted to go home early.",
+     "He did not like the lanterns.",
+     "He was very excited."
+    ],
+    "answer": 3,
+    "explain": "Leo 安靜不下來、跑來跑去、對每盞燈籠大叫，可推知他非常興奮，故選 (D)。他對每盞燈籠都有反應，並不是不喜歡，(C) 不對。",
+    "evidence": "He ran from one side to the other and shouted at every lantern."
+   },
+   {
+    "type": "細節",
+    "stem": "According to the writer's grandmother, what did people use lanterns for long ago?",
+    "options": [
+     "To show the way on dark roads",
+     "To keep their houses warm",
+     "To cook food by the lake",
+     "To sell at night markets"
+    ],
+    "answer": 0,
+    "explain": "第二段最後一句說以前的人提燈籠在黑暗的路上帶路，故選 (A)。文末「讓黑夜變溫暖」是作者的感想，不是說燈籠用來取暖，(B) 不對。",
+    "evidence": "My grandmother told us that long ago, people carried lanterns to lead the way on dark roads."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to make a lantern by hand",
+     "Why the roads are busy on holidays",
+     "A family's night at a lantern show",
+     "A kid who got lost by a lake"
+    ],
+    "answer": 2,
+    "explain": "全文描述作者一家在元宵節晚上去湖邊看燈會的經過與感想，故選 (C)。手工做燈籠只是旁人提到的一句話，(A) 太細。",
+    "evidence": "Last Saturday was the Lantern Festival, so my family went to a lantern show by a large lake near our town."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Hurry up, or we will be ______ for school again.",
+    "options": [
+     "large",
+     "last",
+     "late",
+     "lazy"
+    ],
+    "answer": 2,
+    "word": "J-0785",
+    "explain": "be late for school 是「上學遲到」，前面說快一點，故選 late。large（大的）、last（最後的）不合語意；lazy（懶惰的）不和 for school 這樣搭配。"
+   },
+   {
+    "stem": "I want to ______ how to swim this summer, so I will take lessons.",
+    "options": [
+     "lead",
+     "learn",
+     "lay",
+     "keep"
+    ],
+    "answer": 1,
+    "word": "J-0796",
+    "explain": "learn how to swim 是「學游泳」，後面說要去上課，故選 learn。lead（帶領）、lay（放置）、keep（保持）都不能接 how to swim。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S34",
+  "level": 9,
+  "day": 34,
+  "kind": "short",
+  "title": "My Summer at the Ice Shop",
+  "topic": "打工・家庭",
+  "paragraphs": [
+   "This summer, I helped at my uncle's ice shop in a [[local|J-0825]] market. He is the [[manager|J-0848]], and on my first day he gave me a [[list|J-0820]] of jobs: wash the [[fruit|J-0581]], [[clean|J-0281]] the tables, and never be late.",
+   "The most popular thing we sell is [[mango|J-0849]] ice. Every afternoon, there is a [[long|J-0827]] [[line|J-0816]] outside the shop. My job is to cut the mangoes, and my uncle makes the ice with an old [[machine|J-0836]]. The machine is very [[loud|J-0830]], so we have to shout to each other. Some people also ask for a little [[lemon|J-0801]] on top.",
+   "One hot day, the shop was so [[busy|J-0204]] that I forgot to eat [[lunch|J-0835]]. I felt tired and a little [[mad|J-0837]]. Then a little girl said to me, \"Thank you! This is the best ice in my whole [[life|J-0811]]!\" Her good [[manners|J-0850]] made me smile again. At that moment, I felt [[lucky|J-0834]] to have this summer job."
+  ],
+  "zh": [
+   "這個暑假，我在舅舅位於當地市場的冰店幫忙。他是店長，第一天就給我一張工作清單：洗水果、擦桌子，而且絕對不能遲到。",
+   "我們賣得最好的是芒果冰。每天下午，店外都排著長長的隊伍。我的工作是切芒果，舅舅則用一台舊機器做冰。那台機器非常吵，所以我們得對彼此大喊。有些人還會要求在上面加一點檸檬。",
+   "有一天天氣很熱，店裡忙到我忘了吃午餐。我覺得又累又有點生氣。這時一個小女孩對我說：「謝謝你！這是我這輩子吃過最好吃的冰！」她的好禮貌讓我又笑了出來。那一刻，我覺得能有這份暑期工作真幸運。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0825",
+   "J-0848",
+   "J-0820",
+   "J-0849",
+   "J-0827",
+   "J-0816",
+   "J-0836",
+   "J-0830",
+   "J-0801",
+   "J-0835",
+   "J-0837",
+   "J-0811",
+   "J-0850",
+   "J-0834"
+  ],
+  "review": [
+   "J-0581",
+   "J-0281",
+   "J-0204"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Why do the writer and the uncle have to shout to each other?",
+    "options": [
+     "The ice machine is very loud.",
+     "There are too many people talking.",
+     "The uncle cannot hear well.",
+     "They work in different rooms."
+    ],
+    "answer": 0,
+    "explain": "第二段說那台機器很吵，所以要大喊，故選 (A)。店外雖然大排長龍，但文中沒說是人聲太吵，(B) 不對。",
+    "evidence": "The machine is very loud, so we have to shout to each other."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"mad\" in paragraph 3 is closest in meaning to ______.",
+    "options": [
+     "hungry",
+     "happy",
+     "angry",
+     "sleepy"
+    ],
+    "answer": 2,
+    "explain": "作者又忙又沒吃午餐，覺得累而且有點 mad，這裡是「生氣、不高興」，與 angry 最接近，故選 (C)。他確實沒吃午餐，但 mad 不是「餓」的意思，(A) 不對。",
+    "evidence": "I felt tired and a little mad."
+   },
+   {
+    "type": "推論",
+    "stem": "What made the writer feel better on the busy day?",
+    "options": [
+     "The writer's uncle let the writer go home early.",
+     "The writer finally ate a big lunch.",
+     "The writer got some money from the manager.",
+     "A little girl thanked him kindly."
+    ],
+    "answer": 3,
+    "explain": "小女孩有禮貌地道謝，讓作者重新笑出來，故選 (D)。文中只說他忘了吃午餐，沒有說後來吃了大餐，(B) 不對。",
+    "evidence": "Her good manners made me smile again."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to make mango ice at home",
+     "A student's summer job at an ice shop",
+     "Why local markets are popular",
+     "A girl who loves mangoes"
+    ],
+    "answer": 1,
+    "explain": "全文描述作者暑假在舅舅冰店打工的工作內容與心情，故選 (B)。小女孩只出現在最後一段，(D) 不是主旨。",
+    "evidence": "This summer, I helped at my uncle's ice shop in a local market."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Ken was very ______. He found his lost key under the bed.",
+    "options": [
+     "lucky",
+     "lonely",
+     "loud",
+     "low"
+    ],
+    "answer": 0,
+    "word": "J-0834",
+    "explain": "找回遺失的鑰匙，表示他很「幸運」，故選 lucky。lonely（寂寞的）、loud（大聲的）、low（低的）都和找到鑰匙無關。"
+   },
+   {
+    "stem": "It is twelve o'clock. Let's go and have ______ together.",
+    "options": [
+     "lemon",
+     "magic",
+     "mail",
+     "lunch"
+    ],
+    "answer": 3,
+    "word": "J-0835",
+    "explain": "中午十二點一起去吃「午餐」，have lunch 最通順，故選 lunch。lemon（檸檬）、magic（魔術）、mail（郵件）都不合語意。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S36",
+  "level": 9,
+  "day": 36,
+  "kind": "short",
+  "title": "Ben's Wrong-Way Monday",
+  "topic": "生活・小故事",
+  "paragraphs": [
+   "On [[Monday|J-0898]] morning, Ben had a club [[meeting|J-0873]] at eight. His [[alarm|J-0035]] did not ring because he forgot to set it the night before. He woke up at seven thirty, quickly looked at himself in the [[mirror|J-0891]], and ran out without breakfast.",
+   "He took the [[metro|J-0880]] across the [[city|J-0275]]. The train was warm and quiet, and Ben was very tired because he had studied [[math|J-0862]] until [[midnight|J-0882]]. For a [[moment|J-0897]], he closed his eyes. When he opened them, he saw the [[map|J-0852]] on the wall and knew he had made a big [[mistake|J-0893]]. He had [[missed|J-0892]] his stop and gone five stations too far!",
+   "Ben took a train back and ran the last few hundred [[meters|J-0879]] to school. He was twenty [[minutes|J-0890]] late, so he said sorry to the other club [[members|J-0874]]. The leader just laughed and said, \"Never [[mind|J-0887]]. We all make mistakes.\" Ben learned his lesson: go to bed early, and always set the alarm!"
+  ],
+  "zh": [
+   "星期一早上，Ben 八點要開社團會議。他的鬧鐘沒有響，因為他前一晚忘了設定。他七點半才醒來，匆匆照了一下鏡子，連早餐都沒吃就衝出門。",
+   "他搭捷運穿過市區。車廂裡又暖又安靜，而 Ben 非常累，因為他念數學念到半夜。他閉上眼睛一下下。等他再睜開眼，看到牆上的路線圖，就知道自己犯了大錯。他已經坐過站整整五站了！",
+   "Ben 搭車折回，最後幾百公尺用跑的衝到學校。他遲到了二十分鐘，所以向其他社員道歉。社長只是笑著說：「沒關係，大家都會犯錯。」Ben 學到了教訓：要早點睡，而且一定要設鬧鐘！"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0898",
+   "J-0873",
+   "J-0891",
+   "J-0880",
+   "J-0862",
+   "J-0882",
+   "J-0897",
+   "J-0852",
+   "J-0893",
+   "J-0892",
+   "J-0879",
+   "J-0890",
+   "J-0874",
+   "J-0887"
+  ],
+  "review": [
+   "J-0035",
+   "J-0275"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Why didn't Ben's alarm ring on Monday morning?",
+    "options": [
+     "It was broken.",
+     "His brother turned it off.",
+     "He put it in the wrong room.",
+     "He forgot to set it the night before."
+    ],
+    "answer": 3,
+    "explain": "第一段說他前一晚忘了設鬧鐘，故選 (D)。文中沒有說鬧鐘壞掉，(A) 是常見的錯誤聯想。",
+    "evidence": "His alarm did not ring because he forgot to set it the night before."
+   },
+   {
+    "type": "細節",
+    "stem": "Why was Ben so tired on the train?",
+    "options": [
+     "He ran all the way to the station.",
+     "He studied math until midnight.",
+     "He did not eat breakfast.",
+     "He had a long club meeting."
+    ],
+    "answer": 1,
+    "explain": "第二段說他很累是因為念數學念到半夜，故選 (B)。他確實沒吃早餐，但文中說累的原因是熬夜念書，(C) 不對。",
+    "evidence": "The train was warm and quiet, and Ben was very tired because he had studied math until midnight."
+   },
+   {
+    "type": "字義",
+    "stem": "In paragraph 3, the leader says \"Never mind.\" What does he mean?",
+    "options": [
+     "It's OK. Don't worry about it.",
+     "You should never come again.",
+     "Please think about it carefully.",
+     "I don't remember you."
+    ],
+    "answer": 0,
+    "explain": "社長笑著說 Never mind，後面接「大家都會犯錯」，意思是「沒關係，別在意」，故選 (A)。社長是笑著安慰他，不是要他別再來，(B) 不對。",
+    "evidence": "We all make mistakes."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to take the metro in a big city",
+     "Why math is hard for Ben",
+     "Ben's bad morning and the lesson he learned",
+     "A club leader who is always late"
+    ],
+    "answer": 2,
+    "explain": "全文寫 Ben 星期一早上睡過頭、坐過站、開會遲到，最後學到教訓，故選 (C)。遲到的是 Ben 不是社長，(D) 不對。",
+    "evidence": "Ben learned his lesson: go to bed early, and always set the alarm!"
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Sorry, I took your umbrella by ______. I thought it was mine.",
+    "options": [
+     "money",
+     "model",
+     "mistake",
+     "milk"
+    ],
+    "answer": 2,
+    "word": "J-0893",
+    "explain": "by mistake 是「不小心、弄錯」，後面說以為那是自己的傘，故選 mistake。money、model、milk 都不能和 by 這樣搭配。"
+   },
+   {
+    "stem": "Please wait a ______. I'll be right back.",
+    "options": [
+     "mile",
+     "minute",
+     "million",
+     "mirror"
+    ],
+    "answer": 1,
+    "word": "J-0890",
+    "explain": "wait a minute 是「等一下」，後面說馬上回來，故選 minute。mile（英里）、million（百萬）、mirror（鏡子）都不合語意。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S38",
+  "level": 9,
+  "day": 38,
+  "kind": "short",
+  "title": "A Night Under the Stars",
+  "topic": "社團・自然",
+  "paragraphs": [
+   "Last [[month|J-0901]], our nature club went to a [[national|J-0929]] park in the [[mountains|J-0909]]. We planned to [[camp|J-0218]] there for one night. Before the trip, our teacher told us that it was [[necessary|J-0935]] to bring warm clothes, because the nights are cold up there.",
+   "On the first [[morning|J-0905]], we began to [[hike|J-0678]] through a [[forest|J-0555]]. It had rained the day before, so the path was full of [[mud|J-0920]]. Our shoes became heavy and dirty, but everyone was in a good mood. We saw many kinds of [[birds|J-0153]], and a small [[mouse|J-0910]] ran across the path. The trees, the air, and the water all felt clean and [[natural|J-0930]].",
+   "At night, we lay on the grass and looked at the [[moon|J-0902]]. My friend Mia was [[nervous|J-0943]] about sleeping outside at first, but soon she [[nearly|J-0934]] fell asleep under the stars. Our teacher said, \"In the city, we [[never|J-0945]] see so many stars. [[Nature|J-0931]] is the best teacher.\" I will remember this trip for a long time."
+  ],
+  "zh": [
+   "上個月，我們自然社到山上的一座國家公園。我們打算在那裡露營一晚。出發前，老師告訴我們一定要帶保暖的衣服，因為山上的夜晚很冷。",
+   "第一天早上，我們開始穿越森林健行。前一天下過雨，所以步道上滿是泥巴。我們的鞋子變得又重又髒，但大家心情都很好。我們看到很多種鳥，還有一隻小老鼠從步道上跑過去。樹木、空氣和水，全都感覺乾淨又自然。",
+   "晚上，我們躺在草地上看月亮。我的朋友 Mia 一開始對睡在戶外感到緊張，但沒多久她就在星空下快要睡著了。老師說：「在城市裡，我們從來看不到這麼多星星。大自然是最好的老師。」我會把這趟旅行記很久很久。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0901",
+   "J-0929",
+   "J-0909",
+   "J-0935",
+   "J-0905",
+   "J-0920",
+   "J-0910",
+   "J-0930",
+   "J-0902",
+   "J-0943",
+   "J-0934",
+   "J-0945",
+   "J-0931"
+  ],
+  "review": [
+   "J-0218",
+   "J-0678",
+   "J-0555",
+   "J-0153"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Why did the teacher tell the students to bring warm clothes?",
+    "options": [
+     "They would swim in a cold river.",
+     "It was going to rain all day.",
+     "The nights in the mountains are cold.",
+     "The park did not have any houses."
+    ],
+    "answer": 2,
+    "explain": "第一段說要帶保暖衣服，因為山上夜晚很冷，故選 (C)。下雨是前一天的事，和帶保暖衣物的理由無關，(B) 不對。",
+    "evidence": "Before the trip, our teacher told us that it was necessary to bring warm clothes, because the nights are cold up there."
+   },
+   {
+    "type": "細節",
+    "stem": "Why was the path full of mud?",
+    "options": [
+     "It had rained the day before.",
+     "Many people walked on it.",
+     "A river ran across it.",
+     "The students played with water."
+    ],
+    "answer": 0,
+    "explain": "第二段說前一天下過雨，所以步道滿是泥巴，故選 (A)。文中提到水很乾淨，但沒說有河流穿過步道，(C) 不對。",
+    "evidence": "It had rained the day before, so the path was full of mud."
+   },
+   {
+    "type": "推論",
+    "stem": "How did Mia most likely feel at the end of the night?",
+    "options": [
+     "Afraid and cold",
+     "Angry and tired",
+     "Bored and lonely",
+     "Calm and relaxed"
+    ],
+    "answer": 3,
+    "explain": "Mia 一開始緊張，但後來在星空下快要睡著，可推知她已經放鬆、平靜下來，故選 (D)。害怕是她一開始的心情，不是最後的感受，(A) 不對。",
+    "evidence": "My friend Mia was nervous about sleeping outside at first, but soon she nearly fell asleep under the stars."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to choose good hiking shoes",
+     "A nature club's camping trip in the mountains",
+     "Why city people cannot see stars",
+     "The animals that live in a forest"
+    ],
+    "answer": 1,
+    "explain": "全文記錄自然社到國家公園露營、健行、看星星的經過與感想，故選 (B)。城市看不到星星只是老師的一句話，(C) 太細。",
+    "evidence": "Last month, our nature club went to a national park in the mountains."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Amy felt ______ before her first speech, and her hands were cold.",
+    "options": [
+     "national",
+     "nervous",
+     "natural",
+     "naughty"
+    ],
+    "answer": 1,
+    "word": "J-0943",
+    "explain": "第一次演講前手都冰冷，表示她很「緊張」，故選 nervous。national（國家的）、natural（自然的）、naughty（頑皮的）都不合語意。"
+   },
+   {
+    "stem": "Water is ______ for all living things. We cannot live without it.",
+    "options": [
+     "next",
+     "near",
+     "nervous",
+     "necessary"
+    ],
+    "answer": 3,
+    "word": "J-0935",
+    "explain": "沒有水就無法生存，表示水是「必要的」，故選 necessary。next（下一個）、near（附近的）、nervous（緊張的）都不合語意。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S40",
+  "level": 9,
+  "day": 40,
+  "kind": "short",
+  "title": "A Visit to the Nurse",
+  "topic": "健康・校園",
+  "paragraphs": [
+   "One [[November|J-0974]] morning, Lisa felt terrible in class. Her [[nose|J-0967]] was running, and her head hurt. At [[noon|J-0964]], she could not eat her [[noodles|J-0963]]. Her friend Ken [[noticed|J-0972]] that her face was very red, so he took her to the health [[office|J-0985]].",
+   "The school [[nurse|J-0977]], Ms. Lin, checked Lisa and said, \"You have a [[fever|J-0519]]. It is not serious, but you should go home and see a [[doctor|J-0400]].\" Then she called Lisa's mother. Lisa [[nodded|J-0959]] and lay down on the bed. The room was quiet, not [[noisy|J-0961]] like her classroom, so she soon fell asleep.",
+   "Lisa stayed home for two days. She slept a lot and did not even [[open|J-0996]] her [[notebook|J-0970]]. Before she left school, Ms. Lin had given her a [[note|J-0969]] with three simple rules: wash your hands [[often|J-0987]], go to bed early, and drink a lot of water. Now Lisa is [[healthy|J-0660]] again, and she keeps the note on her desk."
+  ],
+  "zh": [
+   "十一月的某個早上，Lisa 在課堂上覺得很不舒服。她流鼻水，頭也很痛。中午時，她連麵都吃不下。她的朋友 Ken 注意到她的臉很紅，就帶她去健康中心。",
+   "學校護理師林老師幫 Lisa 檢查後說：「你發燒了。不算嚴重，但你應該回家看醫生。」接著她打電話給 Lisa 的媽媽。Lisa 點點頭，躺到床上。房間很安靜，不像她的教室那麼吵，所以她很快就睡著了。",
+   "Lisa 在家休息了兩天。她睡了很多，連筆記本都沒打開。離開學校前，林老師給了她一張紙條，上面寫著三條簡單的規則：常洗手、早點睡、多喝水。現在 Lisa 又恢復健康了，她把那張紙條放在書桌上。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-0974",
+   "J-0967",
+   "J-0964",
+   "J-0963",
+   "J-0972",
+   "J-0985",
+   "J-0977",
+   "J-0959",
+   "J-0961",
+   "J-0996",
+   "J-0970",
+   "J-0969",
+   "J-0987"
+  ],
+  "review": [
+   "J-0519",
+   "J-0400",
+   "J-0660"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Who took Lisa to the health office?",
+    "options": [
+     "Her mother",
+     "Her friend Ken",
+     "Her doctor",
+     "Ms. Lin"
+    ],
+    "answer": 1,
+    "explain": "第一段說朋友 Ken 注意到她臉很紅，就帶她去健康中心，故選 (B)。林老師是在健康中心幫她檢查的護理師，不是帶她去的人，(D) 不對。",
+    "evidence": "Her friend Ken noticed that her face was very red, so he took her to the health office."
+   },
+   {
+    "type": "字義",
+    "stem": "In paragraph 2, \"Lisa nodded.\" What did she do?",
+    "options": [
+     "She shook her head to say no.",
+     "She cried because she was sick.",
+     "She called her mother.",
+     "She moved her head up and down to say yes."
+    ],
+    "answer": 3,
+    "explain": "nod 是「點頭」，Lisa 聽了護理師的話後點頭表示同意，故選 (D)。shake one's head 是「搖頭」，意思相反，(A) 不對。",
+    "evidence": "Lisa nodded and lay down on the bed."
+   },
+   {
+    "type": "細節",
+    "stem": "Which of these is one of Ms. Lin's rules?",
+    "options": [
+     "Wash your hands often.",
+     "Eat noodles every day.",
+     "Study in a quiet room.",
+     "Keep your notebook open."
+    ],
+    "answer": 0,
+    "explain": "第三段列出三條規則：常洗手、早點睡、多喝水，故選 (A)。安靜的房間是健康中心的描述，不是規則，(C) 不對。",
+    "evidence": "Before she left school, Ms. Lin had given her a note with three simple rules: wash your hands often, go to bed early, and drink a lot of water."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to become a school nurse",
+     "Why students should not eat noodles",
+     "A sick student who gets help and gets well",
+     "A noisy classroom in November"
+    ],
+    "answer": 2,
+    "explain": "全文寫 Lisa 生病、到健康中心求助、回家休息後康復的經過，故選 (C)。吵鬧的教室只是用來對比健康中心的安靜，(D) 不是主旨。",
+    "evidence": "Now Lisa is healthy again, and she keeps the note on her desk."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "My father works in an ______ near Taipei Station. He takes the MRT there every day.",
+    "options": [
+     "ocean",
+     "office",
+     "oil",
+     "order"
+    ],
+    "answer": 1,
+    "word": "J-0985",
+    "explain": "爸爸在台北車站附近的「辦公室」上班，故選 office。ocean（海洋）、oil（油）、order（命令、訂單）都不是上班的地方。"
+   },
+   {
+    "stem": "Mia ______ goes jogging. She runs four times a week.",
+    "options": [
+     "often",
+     "open",
+     "old",
+     "other"
+    ],
+    "answer": 0,
+    "word": "J-0987",
+    "explain": "一週跑四次，表示她「常常」去慢跑，故選 often。open（打開）、old（老的）、other（其他的）都不能放在動詞 goes 前面修飾頻率。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S42",
+  "level": 9,
+  "day": 42,
+  "kind": "short",
+  "title": "Bobo Joins the Family",
+  "topic": "寵物・家庭",
+  "paragraphs": [
+   "Last month, my [[parents|J-1024]] finally let me have a [[pet|J-1047]]. We got a [[dog|J-0402]] named Bobo from an [[animal|J-0058]] shelter. His last [[owner|J-1009]] gave him too much food, so he was a little [[overweight|J-1006]].",
+   "The doctor said Bobo needed more exercise. Now I walk him in the [[park|J-1025]] every evening after school. At first, he got tired after ten minutes and just sat down. I had to be [[patient|J-1032]] with him. Little by little, he is walking longer and longer. I also [[feed|J-0515]] him at the same times every day, and nobody gives him our food anymore.",
+   "Taking [[care|J-0227]] of a pet is not easy. It takes time and money. I [[pay|J-1034]] for his toys with [[part|J-1027]] of my pocket money. But Bobo is a great [[partner|J-1028]]. He sits next to me when I do homework, and our home feels more [[peaceful|J-1037]] with him. I take a [[photo|J-1049]] of him every day with my [[phone|J-1048]]. [[Perhaps|J-1043]] next year, he will be strong enough to jog with me!"
+  ],
+  "zh": [
+   "上個月，我爸媽終於答應讓我養寵物。我們從動物收容所帶回一隻叫 Bobo 的狗。牠的前主人給牠吃太多，所以牠有點過重。",
+   "獸醫說 Bobo 需要多運動。現在我每天放學後的傍晚都帶牠去公園散步。一開始，牠走十分鐘就累了，直接坐下來。我必須對牠很有耐心。慢慢地，牠能走得越來越久。我也每天在固定的時間餵牠，而且家裡再也沒有人拿我們的食物給牠吃。",
+   "照顧寵物並不容易，要花時間也要花錢。我用一部分的零用錢幫牠買玩具。不過 Bobo 是很棒的夥伴。我寫功課時牠會坐在我旁邊，有牠在，家裡感覺更平靜了。我每天都用手機幫牠拍一張照片。也許明年牠就壯到可以跟我一起慢跑了！"
+  ],
+  "glosses": [
+   {
+    "word": "shelter",
+    "zh": "收容所"
+   }
+  ],
+  "targets": [
+   "J-1024",
+   "J-1047",
+   "J-1009",
+   "J-1006",
+   "J-1025",
+   "J-1032",
+   "J-1034",
+   "J-1027",
+   "J-1028",
+   "J-1037",
+   "J-1049",
+   "J-1048",
+   "J-1043"
+  ],
+  "review": [
+   "J-0402",
+   "J-0058",
+   "J-0515",
+   "J-0227"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Why was Bobo a little overweight?",
+    "options": [
+     "He did not like to walk.",
+     "He ate the writer's pocket money.",
+     "He slept all day in the park.",
+     "His last owner gave him too much food."
+    ],
+    "answer": 3,
+    "explain": "第一段說牠的前主人給牠吃太多，所以有點過重，故選 (D)。牠一開始走沒多久就累，是過重的結果，不是文中說的原因，(A) 不對。",
+    "evidence": "His last owner gave him too much food, so he was a little overweight."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"patient\" in paragraph 2 is closest in meaning to ______.",
+    "options": [
+     "able to wait calmly",
+     "very sick",
+     "too busy",
+     "easy to get angry"
+    ],
+    "answer": 0,
+    "explain": "Bobo 走十分鐘就累，作者必須慢慢等牠進步，這裡 patient 是「有耐心的」，故選 (A)。patient 當名詞是「病人」，但這裡是 be patient with，不是「生病」，(B) 不對。",
+    "evidence": "I had to be patient with him."
+   },
+   {
+    "type": "推論",
+    "stem": "How does the writer feel about Bobo?",
+    "options": [
+     "He thinks Bobo costs too much money.",
+     "He wants to give Bobo back to the shelter.",
+     "He is happy to have Bobo at home.",
+     "He is tired of walking Bobo every day."
+    ],
+    "answer": 2,
+    "explain": "作者說 Bobo 是很棒的夥伴、家裡因牠更平靜，還每天幫牠拍照，可見他很高興有 Bobo，故選 (C)。作者雖然提到養寵物要花錢，但後面用 But 轉折，重點是牠的好，(A) 不對。",
+    "evidence": "But Bobo is a great partner."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to choose a dog at a shelter",
+     "A student taking care of his new dog",
+     "Why parents do not like pets",
+     "How to take good photos with a phone"
+    ],
+    "answer": 1,
+    "explain": "全文寫作者領養 Bobo 後帶牠運動、餵食、照顧牠的經過與心得，故選 (B)。拍照只是最後一段的一個細節，(D) 不是主旨。",
+    "evidence": "Taking care of a pet is not easy."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "How much did you ______ for this pair of shoes?",
+    "options": [
+     "pass",
+     "paint",
+     "pay",
+     "pack"
+    ],
+    "answer": 2,
+    "word": "J-1034",
+    "explain": "pay for 是「為……付錢」，問鞋子花了多少錢，故選 pay。pass（經過）、paint（油漆）、pack（打包）都不合語意。"
+   },
+   {
+    "stem": "Let's take a ______ in front of the lake to remember this trip.",
+    "options": [
+     "pencil",
+     "photo",
+     "period",
+     "pattern"
+    ],
+    "answer": 1,
+    "word": "J-1049",
+    "explain": "take a photo 是「拍照」，在湖前拍照留念，故選 photo。pencil（鉛筆）、period（期間）、pattern（圖案）都不合語意。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S44",
+  "level": 9,
+  "day": 44,
+  "kind": "short",
+  "title": "Kevin and the Swim Team",
+  "topic": "校園・運動",
+  "paragraphs": [
+   "Kevin [[joined|J-0748]] the school swim team last month. At first, he was a [[poor|J-1085]] swimmer. He could only swim slowly in the [[pool|J-1084]], and he often stopped to rest. But he did not give up. He went to [[practice|J-1099]] every morning before class, and he did extra [[exercise|J-0488]] at home.",
+   "Their coach, Ms. Lin, had a new [[plan|J-1064]] for the team. She gave each [[player|J-1071]] a different [[position|J-1091]] in the team race. Kevin was the first swimmer. \"Is it [[possible|J-1092]] for me to swim that fast?\" he asked. \"Yes,\" Ms. Lin said. \"Your legs have a lot of [[power|J-1098]]. Just be [[careful|J-0228]] at the start.\"",
+   "Last Saturday, the team won second [[place|J-1063]] in a city race. Ms. Lin [[praised|J-1100]] Kevin in front of everyone, and he was very [[pleased|J-1074]]. After the race, the team shared a big [[pizza|J-1062]]. Kevin learned an important [[point|J-1079]] that day: practice really makes a difference."
+  ],
+  "zh": [
+   "Kevin 上個月加入了學校游泳隊。一開始，他游得很差。他在泳池裡只能慢慢地游，而且常常停下來休息。但是他沒有放棄。他每天早上課前都去練習，回家後也做額外的運動。",
+   "他們的教練林老師為隊伍訂了新計畫。她在團體接力賽中給每位選手不同的位置。Kevin 是第一棒。「我有可能游得那麼快嗎？」他問。「可以的，」林老師說，「你的腿很有力量。只要在出發時小心一點就好。」",
+   "上週六，游泳隊在一場市賽中得到第二名。林老師在大家面前稱讚 Kevin，他非常高興。比賽結束後，全隊一起分享一個大披薩。Kevin 那天學到了一個重要的道理：練習真的會帶來改變。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-1085",
+   "J-1084",
+   "J-1099",
+   "J-1064",
+   "J-1071",
+   "J-1091",
+   "J-1092",
+   "J-1098",
+   "J-1063",
+   "J-1100",
+   "J-1074",
+   "J-1062",
+   "J-1079"
+  ],
+  "review": [
+   "J-0748",
+   "J-0488",
+   "J-0228"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "What did Kevin do to become a better swimmer?",
+    "options": [
+     "He stopped swimming for a month.",
+     "He watched swimming videos at night.",
+     "He practiced every morning and exercised at home.",
+     "He asked another player to swim for him."
+    ],
+    "answer": 2,
+    "explain": "第一段說他每天早上課前去練習，回家也做額外運動，故選 (C)。(A) 文中說他沒有放棄，並沒有停止游泳。",
+    "evidence": "He went to practice every morning before class, and he did extra exercise at home."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"power\" in paragraph 2 is closest in meaning to ______.",
+    "options": [
+     "strength",
+     "money",
+     "time",
+     "sound"
+    ],
+    "answer": 0,
+    "explain": "教練說 Kevin 的腿很有 power，指「力量」，與 strength 最接近，故選 (A)。power 雖也有「權力」的意思，但這裡指腿的力量，與錢 (B) 無關。",
+    "evidence": "Your legs have a lot of power."
+   },
+   {
+    "type": "推論",
+    "stem": "Why did Kevin ask, \"Is it possible for me to swim that fast?\"",
+    "options": [
+     "He wanted to change his position.",
+     "He was not sure he was good enough.",
+     "He thought the race was too easy.",
+     "He did not like the coach's plan."
+    ],
+    "answer": 1,
+    "explain": "Kevin 剛開始游得不好，被排第一棒時問自己是否做得到，可推論他對自己沒信心，故選 (B)。(C) 他並不覺得比賽太簡單，正好相反。",
+    "evidence": "\"Is it possible for me to swim that fast?\" he asked."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the main idea of the passage?",
+    "options": [
+     "Pizza is the best food after a race.",
+     "A coach should praise every player.",
+     "Swimming pools are popular in summer.",
+     "Hard practice can help a weak swimmer improve."
+    ],
+    "answer": 3,
+    "explain": "全文寫 Kevin 從游得很差到勤練後得名，最後點出練習會帶來改變，故選 (D)。(A) 披薩只是賽後的小細節，不是重點。",
+    "evidence": "Kevin learned an important point that day: practice really makes a difference."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "The teacher ______ Leo for his clean and careful homework, and Leo smiled.",
+    "options": [
+     "missed",
+     "broke",
+     "praised",
+     "washed"
+    ],
+    "answer": 2,
+    "word": "J-1100",
+    "explain": "老師因 Leo 的作業乾淨又仔細而「稱讚」他，Leo 才會笑，故選 praised。missed（錯過）、broke（打破）、washed（洗）都不合句意。"
+   },
+   {
+    "stem": "Is it ______ to finish this big pizza in five minutes? I don't think anyone can do it.",
+    "options": [
+     "possible",
+     "angry",
+     "hungry",
+     "rich"
+    ],
+    "answer": 0,
+    "word": "J-1092",
+    "explain": "後句說沒人做得到，前句問五分鐘吃完是否「可能」，故選 possible。angry（生氣的）、hungry（餓的）、rich（有錢的）放進 Is it ___ to... 句型都不通。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S46",
+  "level": 9,
+  "day": 46,
+  "kind": "short",
+  "title": "A Rainy Day Surprise",
+  "topic": "天氣・日記",
+  "paragraphs": [
+   "Thursday. This morning the sky was gray, and the radio said it would [[probably|J-1114]] [[rain|J-1141]]. I put my [[raincoat|J-1143]] in my bag. We had a math [[quiz|J-1135]] today, so I tried to [[prepare|J-1102]] for it on the bus. One question was a hard [[problem|J-1115]], and I spent ten minutes on it.",
+   "It was a [[rainy|J-1144]] [[afternoon|J-0024]], but my friend Mia wanted to go to the [[library|J-0808]] after school. The library was [[quiet|J-1133]], and we read for an hour. When we came out, the rain had stopped. Mia [[pulled|J-1121]] my arm and said, \"Look up!\" There was a big [[rainbow|J-1142]] over the school.",
+   "I took a [[quick|J-1132]] photo of it with my phone. Later, I found out that I did well on the quiz, so I am [[proud|J-1119]] of myself. I would [[rather|J-1148]] have sunny days, but today a rainy day gave me two nice surprises."
+  ],
+  "zh": [
+   "星期四。今天早上天空灰灰的，收音機說可能會下雨。我把雨衣放進書包。我們今天有數學小考，所以我在公車上努力準備。其中一題是很難的問題，我花了十分鐘在上面。",
+   "那是個下雨的午後，但是我的朋友 Mia 放學後想去圖書館。圖書館很安靜，我們讀了一個小時的書。出來的時候，雨已經停了。Mia 拉著我的手臂說：「抬頭看！」學校上方有一道大彩虹。",
+   "我用手機很快地拍了一張照片。後來，我發現小考考得很好，所以我為自己感到驕傲。我寧願是晴天，但今天這個雨天給了我兩個美好的驚喜。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-1114",
+   "J-1141",
+   "J-1143",
+   "J-1135",
+   "J-1102",
+   "J-1115",
+   "J-1144",
+   "J-1133",
+   "J-1121",
+   "J-1142",
+   "J-1132",
+   "J-1119",
+   "J-1148"
+  ],
+  "review": [
+   "J-0024",
+   "J-0808"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "What did the writer do on the bus?",
+    "options": [
+     "The writer slept until school.",
+     "The writer talked with Mia.",
+     "The writer took a photo of the sky.",
+     "The writer got ready for the math quiz."
+    ],
+    "answer": 3,
+    "explain": "第一段說因為今天有數學小考，作者在公車上努力準備，故選 (D)。(C) 拍照是放學後看到彩虹時的事，不是在公車上。",
+    "evidence": "We had a math quiz today, so I tried to prepare for it on the bus."
+   },
+   {
+    "type": "指涉",
+    "stem": "In paragraph 3, what does \"it\" in \"I took a quick photo of it\" refer to?",
+    "options": [
+     "The rainbow.",
+     "The library.",
+     "The quiz.",
+     "The raincoat."
+    ],
+    "answer": 0,
+    "explain": "前一句提到學校上方有一道大彩虹，作者接著拍下它，所以 it 指彩虹，故選 (A)。(B) 圖書館是他們剛離開的地方，不是拍照的對象。",
+    "evidence": "There was a big rainbow over the school."
+   },
+   {
+    "type": "推論",
+    "stem": "What are the \"two nice surprises\" in paragraph 3?",
+    "options": [
+     "A new phone and a sunny day.",
+     "A rainbow and a good quiz result.",
+     "A free raincoat and a new book.",
+     "A quiet bus and an easy question."
+    ],
+    "answer": 1,
+    "explain": "作者那天看到彩虹，又發現小考考得好，這就是兩個驚喜，故選 (B)。(D) 文中說有一題很難，並不是簡單的題目。",
+    "evidence": "Later, I found out that I did well on the quiz, so I am proud of myself."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the diary mainly about?",
+    "options": [
+     "How to prepare for a math quiz.",
+     "Why the library is a good place to study.",
+     "A rainy day that ended in a happy way.",
+     "Why the writer does not like rain."
+    ],
+    "answer": 2,
+    "explain": "日記記錄一個下雨天，最後看到彩虹、小考也考好，結局很開心，故選 (C)。(D) 作者雖然寧願晴天，但全文重點是雨天帶來驚喜，不是討厭下雨。",
+    "evidence": "I would rather have sunny days, but today a rainy day gave me two nice surprises."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Please be ______ in the classroom. Some students are taking a test.",
+    "options": [
+     "loud",
+     "quiet",
+     "hungry",
+     "late"
+    ],
+    "answer": 1,
+    "word": "J-1133",
+    "explain": "有同學在考試，所以要請大家「安靜」，故選 quiet。loud（大聲的）意思相反，hungry、late 也不合句意。"
+   },
+   {
+    "stem": "Tom's dog was too heavy, so Tom ______ it out of the water with a rope.",
+    "options": [
+     "sang",
+     "cried",
+     "wrote",
+     "pulled"
+    ],
+    "answer": 3,
+    "word": "J-1121",
+    "explain": "用繩子把狗從水裡「拉」出來，故選 pulled。sang（唱）、cried（哭）、wrote（寫）都無法搭配 out of the water with a rope。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S48",
+  "level": 9,
+  "day": 48,
+  "kind": "short",
+  "title": "The Robot That Fell Over",
+  "topic": "科學・社團",
+  "paragraphs": [
+   "Every Friday, Ben goes to the robot club at his school. This term, the club is building a small [[robot|J-1178]] that can pick up trash. Ben's [[role|J-1180]] is to write the [[computer|J-0310]] [[program|J-1118]], and his friend Amy makes the body. They use a [[ruler|J-1194]] to check the size of every part.",
+   "Last week, the robot was finally [[ready|J-1151]] for a test. They put it on the [[road|J-1177]] next to the school, but it did not move in a straight line. It hit a [[rock|J-1179]] and fell over. Amy had to [[repair|J-1161]] one of its [[round|J-1189]] wheels. Ben felt [[sad|J-1196]], but their teacher said, \"Don't worry. Take a [[rest|J-1165]] and try again.\"",
+   "The club has one important [[rule|J-1193]]: [[safety|J-1198]] first. Everyone must wear gloves when they use tools. This week, the [[result|J-1168]] of the test was much better. The robot picked up ten bottles. Ben still [[remembers|J-1160]] the teacher's words: \"Every [[mistake|J-0893]] helps us learn.\""
+  ],
+  "zh": [
+   "每個星期五，Ben 都會去學校的機器人社。這學期，社團正在做一台會撿垃圾的小機器人。Ben 的角色是寫電腦程式，他的朋友 Amy 負責做機身。他們用尺檢查每個零件的大小。",
+   "上週，機器人終於準備好要測試了。他們把它放在學校旁邊的路上，但它沒辦法走直線。它撞到一塊石頭就倒了。Amy 必須修理它的一個圓形輪子。Ben 很難過，但老師說：「別擔心。休息一下再試一次。」",
+   "社團有一條重要的規則：安全第一。每個人使用工具時都必須戴手套。這週，測試的結果好多了。機器人撿起了十個瓶子。Ben 仍然記得老師的話：「每個錯誤都能幫助我們學習。」"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-1178",
+   "J-1180",
+   "J-1194",
+   "J-1151",
+   "J-1177",
+   "J-1179",
+   "J-1161",
+   "J-1189",
+   "J-1196",
+   "J-1165",
+   "J-1193",
+   "J-1198",
+   "J-1168",
+   "J-1160"
+  ],
+  "review": [
+   "J-0310",
+   "J-1118",
+   "J-0893"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "What is Ben's job in the robot club?",
+    "options": [
+     "He makes the body of the robot.",
+     "He writes the computer program.",
+     "He fixes the wheels.",
+     "He buys the tools for the club."
+    ],
+    "answer": 1,
+    "explain": "第一段說 Ben 的角色是寫電腦程式，故選 (B)。(A) 做機身的是 Amy，不是 Ben。",
+    "evidence": "Ben's role is to write the computer program, and his friend Amy makes the body."
+   },
+   {
+    "type": "細節",
+    "stem": "What happened during the first test?",
+    "options": [
+     "The robot hit a rock and fell over.",
+     "The robot picked up ten bottles.",
+     "The robot ran into the school.",
+     "The robot lost its computer."
+    ],
+    "answer": 0,
+    "explain": "第二段說第一次測試時機器人撞到石頭倒下，故選 (A)。(B) 撿起十個瓶子是這週第二次測試的結果。",
+    "evidence": "It hit a rock and fell over."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"repair\" in paragraph 2 is closest in meaning to ______.",
+    "options": [
+     "sell",
+     "draw",
+     "fix",
+     "throw"
+    ],
+    "answer": 2,
+    "explain": "輪子壞了，Amy 必須 repair 它，意思是「修理」，與 fix 相同，故選 (C)。(D) throw 是「丟」，把輪子丟掉不合文意。",
+    "evidence": "Amy had to repair one of its round wheels."
+   },
+   {
+    "type": "主旨",
+    "stem": "What lesson does the passage mainly teach?",
+    "options": [
+     "Robots are too hard for students.",
+     "Students should not work on the road.",
+     "Only smart people can join a robot club.",
+     "We can learn from mistakes and do better."
+    ],
+    "answer": 3,
+    "explain": "機器人第一次失敗，修理後第二次成功，最後用老師的話點出錯誤能幫助學習，故選 (D)。(A) 學生最後做成功了，與文意相反。",
+    "evidence": "Ben still remembers the teacher's words: \"Every mistake helps us learn.\""
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Dinner is ______. Please wash your hands and come to the table.",
+    "options": [
+     "ready",
+     "rich",
+     "rare",
+     "round"
+    ],
+    "answer": 0,
+    "word": "J-1151",
+    "explain": "叫大家洗手上桌，表示晚餐「準備好了」，故選 ready。rich（有錢的）、rare（稀有的）、round（圓的）都不合句意。"
+   },
+   {
+    "stem": "In our school, the ______ is that students cannot use phones in class.",
+    "options": [
+     "roof",
+     "rule",
+     "rope",
+     "rose"
+    ],
+    "answer": 1,
+    "word": "J-1193",
+    "explain": "上課不能用手機是學校的「規定」，故選 rule。roof（屋頂）、rope（繩子）、rose（玫瑰）拼字相近但意思不對。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S50",
+  "level": 9,
+  "day": 50,
+  "kind": "short",
+  "title": "Our Class Sale for the Dogs",
+  "topic": "校園・公告",
+  "paragraphs": [
+   "Dear classmates, our class will hold a [[sale|J-1201]] on [[Saturday|J-1208]], [[September|J-1240]] 20, to [[raise|J-1145]] money for a dog shelter. We will [[sell|J-1235]] cookies, [[sandwiches|J-1206]], and cold drinks. We will also have a ball game. If your [[score|J-1216]] is over 80, you will get a [[free|J-0567]] cookie!",
+   "Please [[select|J-1233]] one job from the list on the classroom door. [[Several|J-1249]] students will make the food at home, and others will [[serve|J-1243]] the customers at the table. We also need two people to make an ad. We will show it on the big [[screen|J-1217]] in the school hall.",
+   "This is a [[serious|J-1241]] job, not just a party. Every dollar we [[save|J-1209]] for the dogs will help them stay warm and find a new home. Please [[send|J-1236]] me a message by Wednesday. Thank you! Lisa, class leader"
+  ],
+  "zh": [
+   "親愛的同學們，我們班將在 9 月 20 日星期六舉辦義賣，為一間流浪狗收容所募款。我們會賣餅乾、三明治和冷飲。我們還會辦一個投球遊戲。如果你的分數超過 80 分，就能得到一塊免費的餅乾！",
+   "請從教室門上的清單中選一項工作。幾位同學會在家準備食物，其他同學則在攤位上服務客人。我們也需要兩個人製作廣告。我們會把它放在學校禮堂的大螢幕上。",
+   "這是一份認真的工作，不只是一場派對。我們為狗狗存下的每一塊錢，都能幫助牠們保暖並找到新家。請在星期三以前傳訊息給我。謝謝大家！班長 Lisa"
+  ],
+  "glosses": [
+   {
+    "word": "shelter",
+    "zh": "收容所"
+   }
+  ],
+  "targets": [
+   "J-1201",
+   "J-1208",
+   "J-1240",
+   "J-1235",
+   "J-1206",
+   "J-1216",
+   "J-1233",
+   "J-1249",
+   "J-1243",
+   "J-1217",
+   "J-1241",
+   "J-1209",
+   "J-1236"
+  ],
+  "review": [
+   "J-1145",
+   "J-0567"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Why is the class holding the sale?",
+    "options": [
+     "To buy a new screen for the hall.",
+     "To have a party after the exam.",
+     "To raise money for a dog shelter.",
+     "To pay for a class trip."
+    ],
+    "answer": 2,
+    "explain": "第一段說義賣是為了替狗狗收容所募款，故選 (C)。(B) 第三段特別說這不只是一場派對。",
+    "evidence": "Dear classmates, our class will hold a sale on Saturday, September 20, to raise money for a dog shelter."
+   },
+   {
+    "type": "細節",
+    "stem": "How can a student get a free cookie?",
+    "options": [
+     "By getting a score over 80 in the ball game.",
+     "By making an ad for the sale.",
+     "By sending Lisa a message.",
+     "By buying two sandwiches."
+    ],
+    "answer": 0,
+    "explain": "第一段說投球遊戲分數超過 80 分就能得到免費餅乾，故選 (A)。(C) 傳訊息給 Lisa 是為了報名工作，與免費餅乾無關。",
+    "evidence": "If your score is over 80, you will get a free cookie!"
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"select\" in paragraph 2 is closest in meaning to ______.",
+    "options": [
+     "sell",
+     "forget",
+     "write",
+     "choose"
+    ],
+    "answer": 3,
+    "explain": "從清單中 select 一項工作，意思是「挑選」，與 choose 相同，故選 (D)。(A) sell 拼字相近，但意思是「賣」。",
+    "evidence": "Please select one job from the list on the classroom door."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the main purpose of Lisa's message?",
+    "options": [
+     "To tell classmates how to make cookies.",
+     "To ask classmates to help with the class sale.",
+     "To invite classmates to a birthday party.",
+     "To explain how to take care of dogs."
+    ],
+    "answer": 1,
+    "explain": "Lisa 說明義賣的時間、目的，並請同學選工作、回訊息，主要是請大家幫忙義賣，故選 (B)。(A) 文中只提到要賣餅乾，沒有教做法。",
+    "evidence": "Please select one job from the list on the classroom door."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "My uncle ______ fruit at the night market. His apples are sweet and cheap.",
+    "options": [
+     "sells",
+     "sleeps",
+     "swims",
+     "sits"
+    ],
+    "answer": 0,
+    "word": "J-1235",
+    "explain": "叔叔在夜市「賣」水果，後句提到蘋果又甜又便宜，故選 sells。sleeps（睡）、swims（游泳）、sits（坐）都無法接 fruit。"
+   },
+   {
+    "stem": "Don't laugh. This is a ______ problem, and we need to talk about it now.",
+    "options": [
+     "funny",
+     "silly",
+     "serious",
+     "short"
+    ],
+    "answer": 2,
+    "word": "J-1241",
+    "explain": "要大家別笑、現在就得談，表示問題很「嚴重」，故選 serious。funny（好笑的）、silly（愚蠢的）與「別笑」矛盾。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S52",
+  "level": 9,
+  "day": 52,
+  "kind": "short",
+  "title": "Mia at Grandpa's Shop",
+  "topic": "家庭・幫忙",
+  "paragraphs": [
+   "Every Sunday, Mia helps at her grandpa's small [[shop|J-1264]] near the [[market|J-0854]]. He sells [[simple|J-1285]] things like socks, [[shirts|J-1261]], and [[shorts|J-1268]]. Mia is [[shy|J-1275]], so at first she was [[silent|J-1281]] when customers came in. She only looked at her phone.",
+   "Grandpa [[showed|J-1272]] her how to say hello to people with a smile. \"Talking to people is a [[skill|J-1297]],\" he said. \"You can learn it, just like riding a bike.\" He also asked her to [[share|J-1253]] her ideas. Mia said they could put the new shirts on a [[shelf|J-1258]] near the door, so people could see them from the street.",
+   "Now Mia is not [[similar|J-1284]] to the quiet girl she was last year. She talks with every customer and even [[sings|J-1287]] along to the old songs on Grandpa's [[radio|J-1138]]. [[Since|J-1286]] she started helping, the shop has sold more shirts than before. Grandpa is very [[proud|J-1119]] of her."
+  ],
+  "zh": [
+   "每個星期天，Mia 都會到爺爺在市場附近的小店幫忙。爺爺賣一些簡單的東西，像是襪子、襯衫和短褲。Mia 很害羞，所以一開始客人進來時，她都不說話，只是看著手機。",
+   "爺爺教她如何帶著微笑向人打招呼。「和人說話是一種技能，」他說，「你學得會的，就像學騎腳踏車一樣。」他也請她分享自己的想法。Mia 說可以把新襯衫放在門邊的架子上，這樣人們從街上就看得到。",
+   "現在的 Mia 和去年那個安靜的女孩不一樣了。她會和每位客人聊天，甚至跟著爺爺收音機裡的老歌一起唱。自從她開始幫忙以來，店裡賣出的襯衫比以前更多。爺爺非常以她為傲。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-1264",
+   "J-1285",
+   "J-1261",
+   "J-1268",
+   "J-1275",
+   "J-1281",
+   "J-1272",
+   "J-1297",
+   "J-1253",
+   "J-1258",
+   "J-1284",
+   "J-1287",
+   "J-1286"
+  ],
+  "review": [
+   "J-0854",
+   "J-1138",
+   "J-1119"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "What did Mia do when customers came in at first?",
+    "options": [
+     "She sang songs to them.",
+     "She stayed silent and looked at her phone.",
+     "She showed them the new shirts.",
+     "She called her grandpa for help."
+    ],
+    "answer": 1,
+    "explain": "第一段說 Mia 很害羞，一開始客人進來時她不說話，只看手機，故選 (B)。(A) 跟著唱歌是她後來改變之後的事。",
+    "evidence": "She only looked at her phone."
+   },
+   {
+    "type": "推論",
+    "stem": "Why did Grandpa say talking to people is \"just like riding a bike\"?",
+    "options": [
+     "He wanted Mia to ride a bike to the shop.",
+     "He thought Mia should sell bikes.",
+     "He meant Mia could learn it with practice.",
+     "He thought talking was dangerous."
+    ],
+    "answer": 2,
+    "explain": "爺爺說和人說話是一種技能，可以像騎腳踏車一樣學會，意思是多練習就會，故選 (C)。(A) 爺爺只是打比方，並不是真的要她騎車。",
+    "evidence": "\"You can learn it, just like riding a bike.\""
+   },
+   {
+    "type": "細節",
+    "stem": "What was Mia's idea for the shop?",
+    "options": [
+     "Putting the new shirts on a shelf near the door.",
+     "Selling shirts on the internet.",
+     "Playing new songs on the radio.",
+     "Opening the shop on Monday."
+    ],
+    "answer": 0,
+    "explain": "第二段說 Mia 提議把新襯衫放在門邊的架子上，讓街上的人看得到，故選 (A)。(C) 收音機播的是爺爺的老歌，不是她的點子。",
+    "evidence": "Mia said they could put the new shirts on a shelf near the door, so people could see them from the street."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to sell more socks at a market.",
+     "Why old songs are better than new ones.",
+     "Why Grandpa wants to close his shop.",
+     "How a shy girl changes by helping at a shop."
+    ],
+    "answer": 3,
+    "explain": "全文寫害羞的 Mia 在爺爺店裡幫忙，學會與人交談而改變，故選 (D)。(A) 店裡賣更多的是襯衫，而且銷售只是結果，不是重點。",
+    "evidence": "Now Mia is not similar to the quiet girl she was last year."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Cooking is a useful ______. If you learn it, you can make your own meals.",
+    "options": [
+     "skill",
+     "sky",
+     "size",
+     "side"
+    ],
+    "answer": 0,
+    "word": "J-1297",
+    "explain": "做菜是一項有用的「技能」，學會了就能自己煮飯，故選 skill。sky（天空）、size（尺寸）、side（旁邊）拼字相近但意思不對。"
+   },
+   {
+    "stem": "Ken has two pieces of cake. He wants to ______ one with his little brother.",
+    "options": [
+     "shout",
+     "share",
+     "shut",
+     "shake"
+    ],
+    "answer": 1,
+    "word": "J-1253",
+    "explain": "Ken 有兩塊蛋糕，想和弟弟「分享」一塊，故選 share。shout（大叫）、shut（關上）、shake（搖動）都不合句意。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S54",
+  "level": 9,
+  "day": 54,
+  "kind": "short",
+  "title": "Soup for a Sore Throat",
+  "topic": "健康・家庭",
+  "paragraphs": [
+   "Last week, Ken caught a [[cold|J-0298]]. He had a [[sore|J-1339]] throat, and he felt [[sleepy|J-1302]] all day. He wanted to drink [[soda|J-1324]] and eat cookies and other [[snacks|J-1312]], but his mother said no. \"Those things will not help you get well,\" she said.",
+   "So she made him a bowl of hot chicken [[soup|J-1343]] with a lot of vegetables. It had a [[special|J-1350]] [[smell|J-1309]] that filled the whole house. His little sister Nina came in with a [[smile|J-1310]]. She brought him a big [[pillow|J-1058]] from the [[sofa|J-1325]] and said, \"Get well soon, big brother!\"",
+   "Ken stayed home and went to bed early. He learned that [[sometimes|J-1334]] the best [[medicine|J-0871]] is [[something|J-1333]] simple: good food, water, and a lot of [[sleep|J-1301]]. Three days later, he felt much better and played [[soccer|J-1320]] with his friends again. He thanked his mother for the soup."
+  ],
+  "zh": [
+   "上週，Ken 感冒了。他喉嚨痛，而且整天都很想睡。他想喝汽水、吃餅乾和其他零食，但媽媽說不行。「那些東西不會幫助你康復，」她說。",
+   "於是她煮了一碗加了很多蔬菜的熱雞湯給他。湯有一種特別的香味，飄滿了整間屋子。他的妹妹 Nina 帶著微笑走進來。她從沙發上拿了一個大枕頭給他，並說：「哥哥，早日康復！」",
+   "Ken 待在家裡，很早就上床睡覺。他學到，有時候最好的藥是很簡單的東西：好的食物、水，還有充足的睡眠。三天後，他覺得好多了，又和朋友們一起踢足球。他謝謝媽媽為他煮的湯。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-1339",
+   "J-1302",
+   "J-1324",
+   "J-1312",
+   "J-1343",
+   "J-1350",
+   "J-1309",
+   "J-1310",
+   "J-1325",
+   "J-1334",
+   "J-1333",
+   "J-1301",
+   "J-1320"
+  ],
+  "review": [
+   "J-0298",
+   "J-1058",
+   "J-0871"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "What did Ken's mother make for him?",
+    "options": [
+     "A cold soda.",
+     "A box of cookies.",
+     "A plate of rice.",
+     "A bowl of hot chicken soup."
+    ],
+    "answer": 3,
+    "explain": "第二段說媽媽煮了一碗加很多蔬菜的熱雞湯給他，故選 (D)。(A)(B) 汽水和餅乾是 Ken 想吃，但媽媽不讓他吃的東西。",
+    "evidence": "So she made him a bowl of hot chicken soup with a lot of vegetables."
+   },
+   {
+    "type": "指涉",
+    "stem": "In paragraph 1, what does \"Those things\" refer to?",
+    "options": [
+     "Soda and snacks.",
+     "Ken's sore throat.",
+     "The soup and vegetables.",
+     "Ken's friends."
+    ],
+    "answer": 0,
+    "explain": "前一句提到 Ken 想喝汽水、吃零食，媽媽說那些東西不能幫他康復，所以指汽水和零食，故選 (A)。(C) 湯是媽媽後來為他煮的，正是對他有幫助的東西。",
+    "evidence": "\"Those things will not help you get well,\" she said."
+   },
+   {
+    "type": "推論",
+    "stem": "How did Nina probably feel about her brother?",
+    "options": [
+     "She was angry at him.",
+     "She did not care about him.",
+     "She cared about him and wanted to help.",
+     "She wanted to play soccer with him."
+    ],
+    "answer": 2,
+    "explain": "Nina 帶著微笑拿枕頭給哥哥，還祝他早日康復，可見她很關心哥哥，故選 (C)。(D) 後來一起踢足球的是 Ken 的朋友，不是 Nina。",
+    "evidence": "She brought him a big pillow from the sofa and said, \"Get well soon, big brother!\""
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the main idea of the passage?",
+    "options": [
+     "Soda is good for a sore throat.",
+     "Simple things like good food and sleep can help us get well.",
+     "Children should play soccer every day.",
+     "Little sisters are always helpful."
+    ],
+    "answer": 1,
+    "explain": "Ken 靠熱湯、喝水和充足睡眠康復，文中直接點出最好的藥是簡單的東西，故選 (B)。(A) 媽媽說汽水不能幫助康復，與文意相反。",
+    "evidence": "He learned that sometimes the best medicine is something simple: good food, water, and a lot of sleep."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "The bread from that bakery has a wonderful ______. I can find the shop with my nose!",
+    "options": [
+     "sound",
+     "smell",
+     "color",
+     "shape"
+    ],
+    "answer": 1,
+    "word": "J-1309",
+    "explain": "用鼻子就能找到店，表示麵包有很棒的「香味」，故選 smell。sound（聲音）、color（顏色）、shape（形狀）都不是用鼻子感覺的。"
+   },
+   {
+    "stem": "I don't go to the movies often, but ______ I go with my cousins on Sunday.",
+    "options": [
+     "never",
+     "always",
+     "sometimes",
+     "ever"
+    ],
+    "answer": 2,
+    "word": "J-1334",
+    "explain": "前半句說不常去看電影，後半句用 but 表示「有時候」會去，故選 sometimes。always（總是）、never（從不）都和前後文矛盾。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S56",
+  "level": 9,
+  "day": 56,
+  "kind": "short",
+  "title": "A Storm in Taipei",
+  "topic": "旅行・交通",
+  "paragraphs": [
+   "Last [[summer|J-1397]], Leo and his [[cousin|J-0334]] Emma took a trip to Taipei. On the first day, it was [[sunny|J-1400]] and hot. They walked down a busy [[street|J-1382]], looked at the shops, and bought [[strawberry|J-1381]] ice cream.",
+   "In the afternoon, a [[sudden|J-1394]] [[storm|J-1376]] came. Heavy rain fell, and the wind was very [[strong|J-1384]]. They ran to the nearest [[subway|J-1390]] [[station|J-1367]], but they did not know which train to take. Then a [[stranger|J-1380]], an old woman with a [[kind|J-0765]] face, walked up to them. She [[suggested|J-1396]] that they [[stay|J-1368]] inside until the rain stopped. She also showed them the right train on the [[map|J-0852]].",
+   "That night, Leo wrote the [[story|J-1377]] in his notebook. \"A big city can feel [[strange|J-1379]] when you are new there,\" he wrote, \"but kind people can make it feel like home.\""
+  ],
+  "zh": [
+   "去年夏天，Leo 和他的表妹 Emma 去台北旅行。第一天天氣晴朗又炎熱。他們走在一條熱鬧的街上，逛逛商店，還買了草莓冰淇淋。",
+   "下午，一場暴風雨突然來了。大雨落下，風也非常強。他們跑進最近的捷運站，卻不知道該搭哪一班車。這時，一位面容和善的陌生老太太走向他們。她建議他們待在站內直到雨停。她也在地圖上告訴他們該搭哪一班車。",
+   "那天晚上，Leo 把這件事寫在筆記本裡。「當你初來乍到時，大城市可能會讓人覺得很陌生，」他寫道，「但親切的人能讓它感覺像家一樣。」"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-1397",
+   "J-1400",
+   "J-1382",
+   "J-1381",
+   "J-1394",
+   "J-1376",
+   "J-1384",
+   "J-1390",
+   "J-1367",
+   "J-1380",
+   "J-1396",
+   "J-1368",
+   "J-1377",
+   "J-1379"
+  ],
+  "review": [
+   "J-0334",
+   "J-0765",
+   "J-0852"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "What was the weather like on the morning of the first day?",
+    "options": [
+     "Sunny and hot.",
+     "Rainy and cold.",
+     "Windy and cool.",
+     "Cloudy and dark."
+    ],
+    "answer": 0,
+    "explain": "第一段說第一天晴朗又炎熱，故選 (A)。(B) 下雨是下午暴風雨來了之後的事，不是一開始的天氣。",
+    "evidence": "On the first day, it was sunny and hot."
+   },
+   {
+    "type": "細節",
+    "stem": "How did the old woman help Leo and Emma?",
+    "options": [
+     "She gave them an umbrella.",
+     "She drove them to their hotel.",
+     "She bought them ice cream.",
+     "She told them to stay inside and showed them the right train."
+    ],
+    "answer": 3,
+    "explain": "第二段說老太太建議他們待在站內等雨停，並在地圖上指出該搭的車，故選 (D)。(B) 文中沒有提到她開車載他們。",
+    "evidence": "She also showed them the right train on the map."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"sudden\" in paragraph 2 is closest in meaning to ______.",
+    "options": [
+     "slow",
+     "small",
+     "quick and not expected",
+     "quiet and soft"
+    ],
+    "answer": 2,
+    "explain": "早上還是晴天，下午暴風雨卻突然來了，sudden 指「突然的、沒預料到的」，故選 (C)。(A) slow（緩慢的）與「突然」意思相反。",
+    "evidence": "In the afternoon, a sudden storm came."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the main idea of the passage?",
+    "options": [
+     "Taipei has the best ice cream in Taiwan.",
+     "Kind people can make a strange city feel like home.",
+     "We should never travel in summer.",
+     "The subway in Taipei is hard to use."
+    ],
+    "answer": 1,
+    "explain": "Leo 在暴風雨中迷路，被陌生人幫助，最後寫下親切的人能讓陌生城市像家，故選 (B)。(D) 他們一時不知道搭哪班車，但這不是全文要表達的重點。",
+    "evidence": "\"A big city can feel strange when you are new there,\" he wrote, \"but kind people can make it feel like home.\""
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Lisa is very ______. She can carry two big boxes of books at the same time.",
+    "options": [
+     "sleepy",
+     "shy",
+     "strong",
+     "sick"
+    ],
+    "answer": 2,
+    "word": "J-1384",
+    "explain": "能同時搬兩大箱書，表示 Lisa 很「強壯」，故選 strong。sleepy（想睡的）、shy（害羞的）、sick（生病的）都和搬重物無關。"
+   },
+   {
+    "stem": "My mom told me not to talk to ______ on the internet. I don't know who they really are.",
+    "options": [
+     "teachers",
+     "strangers",
+     "parents",
+     "classmates"
+    ],
+    "answer": 1,
+    "word": "J-1380",
+    "explain": "後句說不知道對方真正是誰，表示是「陌生人」，故選 strangers。teachers、parents、classmates 都是認識的人。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S58",
+  "level": 9,
+  "day": 58,
+  "kind": "short",
+  "title": "Tea Time with Grandpa",
+  "topic": "家庭・祖孫",
+  "paragraphs": [
+   "My grandpa loves [[tea|J-1426]]. Every Sunday, he puts his old [[teapot|J-1430]] on the [[table|J-1416]] and calls me. \"Come and sit down,\" he says. \"Let me [[teach|J-1427]] you something.\" I am a [[teenager|J-1432]], and I usually want to play on my phone. But I always go, because his tea time is [[special|J-1350]].",
+   "Last Sunday, Grandpa [[told|J-1435]] me a [[story|J-1377]] about the teapot. Fifty years ago, he bought it near an old [[temple|J-1436]] in Tainan. Then he gave it to Grandma as a [[gift|J-0597]]. \"She was the best tea [[teacher|J-1428]] in our town,\" he said with a smile. Grandma died ten years ago, and I could see a [[tear|J-1431]] in his eye.",
+   "Then he gave me a cup. The tea did not [[taste|J-1424]] [[sweet|J-1410]] at first, but after a moment, it was soft and nice. \"Good tea [[takes|J-1420]] time,\" Grandpa said. \"So does learning.\" I was [[surprised|J-1407]]. I never knew a cup of tea could teach me about life. Now I [[thank|J-1444]] him for every Sunday."
+  ],
+  "zh": [
+   "我爺爺很愛喝茶。每個星期天，他都會把他的舊茶壺放在桌上，然後叫我過去。「來，坐下，」他說，「我教你一點東西。」我是個青少年，平常只想滑手機。但我每次都會去，因為他的喝茶時光很特別。",
+   "上個星期天，爺爺跟我講了一個關於這個茶壺的故事。五十年前，他在臺南一座老廟附近買了它，後來把它送給奶奶當禮物。「她是我們鎮上最厲害的泡茶老師，」他笑著說。奶奶十年前過世了，我看見他眼中有一滴淚。",
+   "接著他遞給我一杯茶。這茶一開始喝起來並不甜，但過了一會兒，變得溫潤又好喝。「好茶需要時間，」爺爺說，「學習也是。」我很驚訝，從來不知道一杯茶也能教我人生的道理。現在，我很感謝他給我的每一個星期天。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-1426",
+   "J-1430",
+   "J-1416",
+   "J-1427",
+   "J-1432",
+   "J-1435",
+   "J-1436",
+   "J-1428",
+   "J-1431",
+   "J-1424",
+   "J-1410",
+   "J-1420",
+   "J-1407",
+   "J-1444"
+  ],
+  "review": [
+   "J-1350",
+   "J-1377",
+   "J-0597"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Where did Grandpa buy the teapot?",
+    "options": [
+     "At a night market in Taipei.",
+     "Near an old temple in Tainan.",
+     "In a store in his town.",
+     "From a tea teacher."
+    ],
+    "answer": 1,
+    "explain": "第二段說爺爺五十年前在臺南一座老廟附近買了茶壺，故選 (B)。(D) 文中的「泡茶老師」指的是奶奶，茶壺不是向她買的，而是送給她的。",
+    "evidence": "Fifty years ago, he bought it near an old temple in Tainan."
+   },
+   {
+    "type": "指涉",
+    "stem": "In paragraph 2, who does \"She\" in \"She was the best tea teacher in our town\" refer to?",
+    "options": [
+     "The writer's mother.",
+     "The writer's teacher.",
+     "The writer's grandma.",
+     "A woman at the temple."
+    ],
+    "answer": 2,
+    "explain": "前一句說爺爺把茶壺送給奶奶，接著爺爺說「她是鎮上最好的泡茶老師」，She 指奶奶，故選 (C)。(D) 文中沒有提到廟裡的女人。",
+    "evidence": "Then he gave it to Grandma as a gift."
+   },
+   {
+    "type": "推論",
+    "stem": "What does Grandpa mean by \"Good tea takes time. So does learning.\"?",
+    "options": [
+     "Learning, like good tea, needs patience.",
+     "Students should drink tea when they study.",
+     "Making tea is harder than learning.",
+     "The writer should spend less time on tea."
+    ],
+    "answer": 0,
+    "explain": "茶要過一會兒才好喝，爺爺說學習也一樣，意思是學習和好茶都需要時間與耐心，故選 (A)。(B) 只抓住「茶」和「學習」兩個字，並不是爺爺的意思。",
+    "evidence": "\"Good tea takes time,\" Grandpa said."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to buy a good teapot.",
+     "Why teenagers like their phones.",
+     "A trip to an old temple in Tainan.",
+     "What a teenager learns from tea time with his grandpa."
+    ],
+    "answer": 3,
+    "explain": "全文寫作者每週和爺爺喝茶，聽茶壺的故事，並從中學到人生道理，故選 (D)。(C) 廟只是買茶壺的地點，作者並沒有去旅行。",
+    "evidence": "I never knew a cup of tea could teach me about life."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Mia's little sister began to cry, and a ______ ran down her face.",
+    "options": [
+     "tear",
+     "taste",
+     "table",
+     "tea"
+    ],
+    "answer": 0,
+    "word": "J-1431",
+    "explain": "哭的時候從臉上流下來的是「眼淚」，故選 tear。taste（味道）、table（桌子）、tea（茶）都不合句意。"
+   },
+   {
+    "stem": "Ben wants to be a ______ in the future because he likes to help students learn.",
+    "options": [
+     "temple",
+     "teacher",
+     "teenager",
+     "teapot"
+    ],
+    "answer": 1,
+    "word": "J-1428",
+    "explain": "喜歡幫助學生學習，所以想當「老師」，故選 teacher。teenager 是「青少年」，不是一種工作；temple（廟）、teapot（茶壺）也不合。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S60",
+  "level": 9,
+  "day": 60,
+  "kind": "short",
+  "title": "A Tiny Hole",
+  "topic": "健康・日記",
+  "paragraphs": [
+   "Thursday night. I could not sleep. One of my back teeth hurt badly. My first [[thought|J-1464]] was, \"It is nothing. It will stop soon.\" But by eleven o'clock I had a terrible [[toothache|J-1496]]. I felt [[tired|J-1480]] and [[thirsty|J-1458]], but even cold water made the pain worse.",
+   "Friday. Mom took me to the [[dentist|J-0371]] early in the morning. The dentist found a [[tiny|J-1478]] hole in my [[tooth|J-1495]]. \"It is small now, but it can grow,\" she said. She fixed it in [[thirty|J-1460]] minutes. Then she gave me a useful [[tip|J-1479]]: \"Hold your [[toothbrush|J-1497]] at an [[angle|J-0056]] and brush for two minutes. Do not [[forget|J-0556]] the backs of your teeth.\"",
+   "Before I left, I asked, \"Can I eat [[tonight|J-1492]]?\" She laughed and said, \"Yes, but only eat soft food like [[tofu|J-1486]] [[today|J-1484]]. You can eat anything [[tomorrow|J-1490]].\" Now I brush my teeth carefully every morning and night. A tiny hole can cause big pain!"
+  ],
+  "zh": [
+   "星期四晚上。我睡不著。我有一顆後面的牙齒痛得很厲害。我的第一個想法是：「沒什麼，很快就不痛了。」但到了十一點，我的牙痛變得非常嚴重。我又累又渴，可是連喝冷水都讓疼痛更加劇烈。",
+   "星期五。媽媽一大早就帶我去看牙醫。牙醫在我的牙齒上發現一個很小的洞。「它現在很小，但會變大，」她說。她花了三十分鐘把它補好。接著她給了我一個有用的訣竅：「牙刷要斜一個角度拿，刷滿兩分鐘。別忘了刷牙齒的背面。」",
+   "離開前，我問：「我今晚可以吃東西嗎？」她笑著說：「可以，但今天只能吃像豆腐這樣軟的食物。明天就什麼都能吃了。」現在我每天早晚都仔細刷牙。一個小小的洞，也能帶來大大的疼痛！"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-1464",
+   "J-1496",
+   "J-1480",
+   "J-1458",
+   "J-1478",
+   "J-1495",
+   "J-1460",
+   "J-1479",
+   "J-1497",
+   "J-1492",
+   "J-1486",
+   "J-1484",
+   "J-1490"
+  ],
+  "review": [
+   "J-0371",
+   "J-0056",
+   "J-0556"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "What did the dentist find?",
+    "options": [
+     "A broken toothbrush.",
+     "A problem in the writer's throat.",
+     "Nothing wrong with the writer's teeth.",
+     "A tiny hole in the writer's tooth."
+    ],
+    "answer": 3,
+    "explain": "第二段說牙醫在作者的牙齒上發現一個小洞，故選 (D)。(C) 與文意相反，作者的牙齒確實有問題。",
+    "evidence": "The dentist found a tiny hole in my tooth."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"tip\" in paragraph 2 is closest in meaning to ______.",
+    "options": [
+     "piece of advice",
+     "kind of medicine",
+     "small gift",
+     "short test"
+    ],
+    "answer": 0,
+    "explain": "牙醫接著說明怎麼拿牙刷、怎麼刷牙，可見 tip 是「訣竅、建議」，故選 (A)。tip 也有「小費」的意思，但這裡是牙醫給病人的建議，不是 (C) 的小禮物。",
+    "evidence": "Then she gave me a useful tip: \"Hold your toothbrush at an angle and brush for two minutes."
+   },
+   {
+    "type": "細節",
+    "stem": "What can the writer eat on Friday?",
+    "options": [
+     "Nothing at all.",
+     "Only cold water.",
+     "Soft food like tofu.",
+     "Anything he wants."
+    ],
+    "answer": 2,
+    "explain": "牙醫說今天（星期五）只能吃像豆腐這樣的軟食物，故選 (C)。(D) 是明天才可以，不是今天。",
+    "evidence": "She laughed and said, \"Yes, but only eat soft food like tofu today."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the main idea of the passage?",
+    "options": [
+     "Dentists are always busy on Fridays.",
+     "A small tooth problem taught the writer to care for his teeth.",
+     "Cold water is good for a toothache.",
+     "Tofu is the best food for students."
+    ],
+    "answer": 1,
+    "explain": "作者因小洞牙痛、看牙醫，之後每天早晚認真刷牙，重點是小問題讓他學會照顧牙齒，故選 (B)。(C) 文中說冷水反而讓疼痛更嚴重。",
+    "evidence": "Now I brush my teeth carefully every morning and night."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "After the long basketball game, Kevin felt very ______ and went to bed early.",
+    "options": [
+     "tiny",
+     "tired",
+     "total",
+     "thick"
+    ],
+    "answer": 1,
+    "word": "J-1480",
+    "explain": "打完很久的籃球賽後覺得「疲倦」，所以早早上床，故選 tired。tiny（極小的）、total（總計的）、thick（厚的）都不能形容人的感覺。"
+   },
+   {
+    "stem": "The ant is so ______ that I can hardly see it on the floor.",
+    "options": [
+     "tall",
+     "heavy",
+     "tiny",
+     "wide"
+    ],
+    "answer": 2,
+    "word": "J-1478",
+    "explain": "螞蟻「極小」，所以幾乎看不到，故選 tiny。tall（高的）、heavy（重的）、wide（寬的）都與「看不見」的語意不符。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S62",
+  "level": 9,
+  "day": 62,
+  "kind": "short",
+  "title": "A Night Without Power",
+  "topic": "天氣・颱風",
+  "paragraphs": [
+   "On Monday, a strong [[typhoon|J-1534]] hit Taiwan, so there was no school. Dad [[turned|J-1526]] on the [[TV|J-1528]], and we watched the news together. Outside, the wind was loud, and the rain fell hard. No [[train|J-1509]] was running, and the streets had no [[traffic|J-1508]] at all.",
+   "My [[uncle|J-1537]] lives with us, and he is a careful man. He asked me to help him carry the plants [[upstairs|J-1547]] and bring the bikes inside. \"A typhoon can cause big [[trouble|J-1517]],\" he said. Then he found a box of [[candles|J-0222]]. \"These are very [[useful|J-1549]] when the [[power|J-1098]] goes out,\" he told me. That night, the power really went out [[twice|J-1531]].",
+   "We sat around a candle and played a card game. My uncle told us funny [[stories|J-1377]] from his [[university|J-1541]] days. I laughed [[until|J-1542]] my face hurt. The next morning, I [[uploaded|J-1544]] a photo of our candle to my class group. It was not our [[usual|J-1550]] night, but it was a warm one."
+  ],
+  "zh": [
+   "星期一，一個強烈颱風侵襲臺灣，所以停課。爸爸打開電視，我們一起看新聞。外面風聲很大，雨下得很猛。火車全部停駛，街上一輛車也沒有。",
+   "我叔叔跟我們住在一起，他是個很細心的人。他要我幫他把盆栽搬到樓上，再把腳踏車推進屋裡。「颱風可能會帶來大麻煩，」他說。接著他找出一盒蠟燭。「停電的時候這些很有用，」他告訴我。那天晚上，真的停電了兩次。",
+   "我們圍著一根蠟燭坐著玩牌。叔叔跟我們講他大學時代的趣事。我笑到臉都痠了。隔天早上，我把我們那根蠟燭的照片上傳到班級群組。那不是一個平常的夜晚，卻是一個溫暖的夜晚。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-1534",
+   "J-1526",
+   "J-1528",
+   "J-1509",
+   "J-1508",
+   "J-1537",
+   "J-1547",
+   "J-1517",
+   "J-1549",
+   "J-1531",
+   "J-1541",
+   "J-1542",
+   "J-1544",
+   "J-1550"
+  ],
+  "review": [
+   "J-0222",
+   "J-1098",
+   "J-1377"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Why was there no school on Monday?",
+    "options": [
+     "It was a holiday.",
+     "A strong typhoon hit Taiwan.",
+     "The power went out at school.",
+     "The trains were too crowded."
+    ],
+    "answer": 1,
+    "explain": "第一段第一句說強烈颱風侵襲臺灣，所以停課，故選 (B)。(C) 停電發生在家裡、而且是晚上，不是停課的原因。",
+    "evidence": "On Monday, a strong typhoon hit Taiwan, so there was no school."
+   },
+   {
+    "type": "指涉",
+    "stem": "In paragraph 2, what does \"These\" refer to?",
+    "options": [
+     "The bikes.",
+     "The plants.",
+     "The candles.",
+     "The news."
+    ],
+    "answer": 2,
+    "explain": "前一句說叔叔找出一盒蠟燭，接著說「這些在停電時很有用」，These 指蠟燭，故選 (C)。(A) 腳踏車在停電時派不上用場。",
+    "evidence": "Then he found a box of candles."
+   },
+   {
+    "type": "細節",
+    "stem": "How many times did the power go out that night?",
+    "options": [
+     "Once.",
+     "Three times.",
+     "It never went out.",
+     "Two times."
+    ],
+    "answer": 3,
+    "explain": "第二段最後說那天晚上真的停電了兩次（twice），故選 (D)。(A) once 是一次，與 twice 不同。",
+    "evidence": "That night, the power really went out twice."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "A family spends a typhoon night together and has a good time.",
+     "How to fix the power after a typhoon.",
+     "Why trains stop running in bad weather.",
+     "A student's life at university."
+    ],
+    "answer": 0,
+    "explain": "全文寫颱風天停課、停電，一家人點蠟燭玩牌聽故事，最後說那是個溫暖的夜晚，故選 (A)。(D) 大學只出現在叔叔講的故事裡，不是重點。",
+    "evidence": "It was not our usual night, but it was a warm one."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "It is raining outside. Don't forget to take your ______ with you.",
+    "options": [
+     "uniform",
+     "umbrella",
+     "uncle",
+     "upload"
+    ],
+    "answer": 1,
+    "word": "J-1536",
+    "explain": "外面在下雨，要記得帶「雨傘」，故選 umbrella。uniform（制服）、uncle（叔叔）、upload（上傳）都不合句意。"
+   },
+   {
+    "stem": "A dictionary is very ______ when you learn a new language.",
+    "options": [
+     "useful",
+     "ugly",
+     "upper",
+     "tired"
+    ],
+    "answer": 0,
+    "word": "J-1549",
+    "explain": "學新語言時字典很「有用」，故選 useful。ugly（醜的）、upper（上面的）、tired（疲倦的）都不能形容字典的功用。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S64",
+  "level": 9,
+  "day": 64,
+  "kind": "short",
+  "title": "A Day at the Waterfalls",
+  "topic": "旅行・班遊",
+  "paragraphs": [
+   "Last [[weekend|J-1588]], my class [[visited|J-1559]] a small [[village|J-1557]] in the [[mountains|J-0909]] of Hualien. The [[weather|J-1583]] was sunny and [[warm|J-1572]]. Our teacher told us to [[wear|J-1582]] good shoes, because we had to walk for two hours.",
+   "The road was long, and some students began to feel [[weak|J-1581]]. Then we heard a loud sound. It was the [[waterfalls|J-1577]]! There were three of them, and the water fell down from high [[rocks|J-1179]]. We took off our shoes and played in the [[river|J-1176]]. Soon everyone was [[wet|J-1593]], and Ken even fell in! We all laughed, and Lisa took a [[video|J-1556]] of him.",
+   "Before we left, an old man from the village gave us a big [[watermelon|J-1578]]. It was sweet and cold. We [[waved|J-1579]] to him from the bus. On the [[way|J-1580]] home, I was tired but happy. I want to go back there on my next [[vacation|J-1552]]."
+  ],
+  "zh": [
+   "上個週末，我們班去參觀花蓮山上的一個小村莊。天氣晴朗又溫暖。老師要我們穿好走的鞋子，因為我們得走兩個小時的路。",
+   "路很長，有些同學開始覺得沒力氣。接著我們聽到很大的聲音，是瀑布！一共有三道瀑布，水從高高的岩石上落下來。我們脫掉鞋子在河裡玩。很快大家都濕透了，Ken 甚至跌進水裡！我們都笑了，Lisa 還把他拍成影片。",
+   "離開前，村裡一位老先生送我們一顆大西瓜，又甜又冰。我們在遊覽車上向他揮手。回家的路上，我很累但很開心。下次放假，我還想再去那裡。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-1588",
+   "J-1559",
+   "J-1557",
+   "J-1583",
+   "J-1572",
+   "J-1582",
+   "J-1581",
+   "J-1577",
+   "J-1593",
+   "J-1556",
+   "J-1578",
+   "J-1579",
+   "J-1580",
+   "J-1552"
+  ],
+  "review": [
+   "J-0909",
+   "J-1179",
+   "J-1176"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Why did the teacher ask the students to wear good shoes?",
+    "options": [
+     "They had to walk for two hours.",
+     "They were going to swim in the sea.",
+     "The weather was cold and wet.",
+     "They were going to play basketball."
+    ],
+    "answer": 0,
+    "explain": "第一段說老師要大家穿好鞋，因為要走兩個小時的路，故選 (A)。(C) 文中說天氣晴朗溫暖，不是又冷又濕。",
+    "evidence": "Our teacher told us to wear good shoes, because we had to walk for two hours."
+   },
+   {
+    "type": "細節",
+    "stem": "What happened to Ken at the river?",
+    "options": [
+     "He lost his shoes.",
+     "He fell into the water.",
+     "He took a video of Lisa.",
+     "He felt weak and went back to the bus."
+    ],
+    "answer": 1,
+    "explain": "第二段說大家都濕了，Ken 甚至跌進水裡，故選 (B)。(C) 是 Lisa 拍 Ken 的影片，主客顛倒了。",
+    "evidence": "Soon everyone was wet, and Ken even fell in!"
+   },
+   {
+    "type": "推論",
+    "stem": "How did the writer probably feel about the trip?",
+    "options": [
+     "Bored.",
+     "Angry.",
+     "Scared.",
+     "Glad."
+    ],
+    "answer": 3,
+    "explain": "作者說回程雖累但很開心，還想下次放假再去，可見他很喜歡這趟旅行，故選 (D)。(C) 雖然 Ken 跌進水裡，但大家都在笑，並不害怕。",
+    "evidence": "I want to go back there on my next vacation."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the best title for the passage?",
+    "options": [
+     "How to Grow Watermelons",
+     "Ken's Bad Day",
+     "A Fun Class Trip to the Mountains",
+     "Life in a Small Village"
+    ],
+    "answer": 2,
+    "explain": "全文寫全班到花蓮山上的村莊走路、玩瀑布、吃西瓜的一日班遊，故選 (C)。(B) Ken 跌進水只是其中一個小插曲。",
+    "evidence": "Last weekend, my class visited a small village in the mountains of Hualien."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "It is cold outside, so you should ______ a sweater.",
+    "options": [
+     "wash",
+     "wave",
+     "wait",
+     "wear"
+    ],
+    "answer": 3,
+    "word": "J-1582",
+    "explain": "外面很冷，應該「穿」毛衣，故選 wear。wash（洗）、wave（揮手）、wait（等待）都不合句意。"
+   },
+   {
+    "stem": "Amy forgot her umbrella, so her hair was ______ when she got home.",
+    "options": [
+     "wet",
+     "weak",
+     "warm",
+     "west"
+    ],
+    "answer": 0,
+    "word": "J-1593",
+    "explain": "忘了帶傘，回家時頭髮是「濕的」，故選 wet。weak（虛弱的）、warm（溫暖的）、west（西方）都不合。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S66",
+  "level": 9,
+  "day": 66,
+  "kind": "short",
+  "title": "The Winner Is...",
+  "topic": "校園・寫作社",
+  "paragraphs": [
+   "[[Yesterday|J-1646]] was a big day for our writing club. Every year, the school gives a [[prize|J-1113]] for the best short story, and this time I sent one in. I [[wrote|J-1638]] it in two weeks. I always [[worry|J-1635]] that my English is [[wrong|J-1640]], so I checked every [[word|J-1629]] many times.",
+   "My story is about a [[young|J-1648]] [[worker|J-1632]] in a [[bakery|J-0101]]. She works hard every day, but she has a [[wish|J-1619]]: she wants to see the [[world|J-1633]]. Our teacher, Ms. Lin, is a [[writer|J-1639]] too. She read my story and said, \"Good job. Now make the ending stronger.\" So I wrote the ending again.",
+   "At the club meeting, Ms. Lin read the name of the [[winner|J-1616]]. It was me! I could not believe it. Everyone clapped, and my best friend Emma shouted, \"[[Wonderful|J-1626]]!\" Ms. Lin gave me some [[wise|J-1618]] [[advice|J-0021]]: \"Do not stop. Keep writing, and you will grow.\" I have not started my next story [[yet|J-1647]], but I already have an idea."
+  ],
+  "zh": [
+   "昨天是我們寫作社的大日子。學校每年都會頒獎給最好的短篇故事，這次我也投稿了。我花了兩個星期寫完。我總是擔心自己的英文有錯，所以每個字都檢查了很多遍。",
+   "我的故事是關於麵包店裡一位年輕的員工。她每天都很努力工作，但她有一個願望：她想去看看這個世界。我們的老師林老師自己也是作家。她讀了我的故事後說：「寫得好。現在把結尾寫得更有力一點。」於是我把結尾重寫了一遍。",
+   "在社團聚會上，林老師唸出得獎者的名字。是我！我簡直不敢相信。大家都拍手，我最好的朋友 Emma 大喊：「太棒了！」林老師給了我一個很有智慧的建議：「不要停下來。繼續寫，你就會進步。」我還沒開始寫下一個故事，但我已經有點子了。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-1646",
+   "J-1638",
+   "J-1635",
+   "J-1640",
+   "J-1629",
+   "J-1648",
+   "J-1632",
+   "J-1619",
+   "J-1633",
+   "J-1639",
+   "J-1616",
+   "J-1626",
+   "J-1618",
+   "J-1647"
+  ],
+  "review": [
+   "J-1113",
+   "J-0101",
+   "J-0021"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "What is the writer's story about?",
+    "options": [
+     "A teacher who wants to win a prize.",
+     "A young bakery worker who wants to see the world.",
+     "A writer who works in a big city.",
+     "A club that wins a basketball game."
+    ],
+    "answer": 1,
+    "explain": "第二段說故事是關於麵包店裡一位想看看世界的年輕員工，故選 (B)。(C) 作家指的是林老師，不是故事內容。",
+    "evidence": "My story is about a young worker in a bakery."
+   },
+   {
+    "type": "細節",
+    "stem": "What did Ms. Lin ask the writer to do with the story?",
+    "options": [
+     "Make it shorter.",
+     "Change the title.",
+     "Make the ending stronger.",
+     "Write it in Chinese."
+    ],
+    "answer": 2,
+    "explain": "林老師說「現在把結尾寫得更有力一點」，故選 (C)。(A) 老師並沒有要求縮短故事。",
+    "evidence": "She read my story and said, \"Good job. Now make the ending stronger.\""
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"wise\" in paragraph 3 is closest in meaning to ______.",
+    "options": [
+     "funny",
+     "strange",
+     "short",
+     "smart"
+    ],
+    "answer": 3,
+    "explain": "wise 是「有智慧的、明智的」，與 smart 最接近，故選 (D)。林老師的建議是要作者繼續寫作，並不好笑，所以不是 (A)。",
+    "evidence": "Ms. Lin gave me some wise advice: \"Do not stop."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "A student wins a writing prize and wants to keep writing.",
+     "How to work in a bakery.",
+     "Why English is hard for students.",
+     "A teacher who writes many books."
+    ],
+    "answer": 0,
+    "explain": "全文寫作者投稿短篇故事、修改結尾、得獎，最後打算繼續寫，故選 (A)。(C) 作者擔心英文出錯只是一個細節。",
+    "evidence": "I have not started my next story yet, but I already have an idea."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Don't ______ about the test. You studied hard, so you will do well.",
+    "options": [
+     "write",
+     "worry",
+     "wish",
+     "work"
+    ],
+    "answer": 1,
+    "word": "J-1635",
+    "explain": "你很用功，所以別「擔心」考試，故選 worry。write（寫）、wish（希望）、work（工作）接 about the test 不合句意。"
+   },
+   {
+    "stem": "Sorry, I took the ______ bus and came to school late.",
+    "options": [
+     "wise",
+     "young",
+     "wrong",
+     "wonderful"
+    ],
+    "answer": 2,
+    "word": "J-1640",
+    "explain": "搭「錯」公車所以遲到，故選 wrong。wise（明智的）、young（年輕的）、wonderful（極好的）都無法解釋為什麼遲到。"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "L9-S67",
+  "level": 9,
+  "day": 67,
+  "kind": "short",
+  "title": "A Winter Day at the Zoo",
+  "topic": "家庭・動物園",
+  "paragraphs": [
+   "It was a cold and [[windy|J-1614]] Saturday in [[winter|J-1617]], but my little [[cousin|J-0334]] Leo really wanted to go to the [[zoo|J-1655]]. He is only six, so my aunt asked me to take him. \"Staying home is [[zero|J-1654]] fun!\" Leo said. I laughed and put on my coat.",
+   "At the zoo, Leo ran from one animal to the next. He loved the [[zebra|J-1653]] most. \"[[Why|J-1606]] does it have black and [[white|J-1602]] lines?\" he asked. I did not know the answer, so we read the sign together. Next, we saw a gray [[wolf|J-1623]]. It looked [[wild|J-1609]] and strong, and Leo held my hand. Then a big bird opened its [[wings|J-1615]]. They were very [[wide|J-1607]]!",
+   "At [[noon|J-0964]], we shared a sweet potato and some hot soup. \"[[Yummy|J-1652]]!\" Leo said. On the bus home, he fell asleep on my arm. I looked out the [[window|J-1613]] and smiled. When I was a kid, my older cousin took me to this zoo, too. Now it is my [[turn|J-1526]]. Someday, Leo will remember this day from his [[youth|J-1651]], just like I remember mine."
+  ],
+  "zh": [
+   "那是個寒冷又風大的冬天星期六，但我的小表弟 Leo 非常想去動物園。他才六歲，所以阿姨請我帶他去。「待在家一點都不好玩！」Leo 說。我笑了笑，穿上外套。",
+   "到了動物園，Leo 從一種動物跑到下一種動物。他最喜歡斑馬。「為什麼牠身上有黑白線條？」他問。我不知道答案，所以我們一起看了解說牌。接著我們看到一隻灰狼，牠看起來野性十足又強壯，Leo 緊緊握住我的手。然後一隻大鳥張開了翅膀，好寬啊！",
+   "中午，我們一起分著吃一顆烤地瓜和一碗熱湯。「好好吃！」Leo 說。回家的公車上，他靠在我的手臂上睡著了。我望著窗外微笑。我小時候，我的表哥也帶我來過這座動物園。現在輪到我了。總有一天，Leo 也會想起他年少時的這一天，就像我記得我的那一天一樣。"
+  ],
+  "glosses": [],
+  "targets": [
+   "J-1614",
+   "J-1617",
+   "J-1655",
+   "J-1654",
+   "J-1653",
+   "J-1606",
+   "J-1602",
+   "J-1623",
+   "J-1609",
+   "J-1615",
+   "J-1607",
+   "J-1652",
+   "J-1613",
+   "J-1651"
+  ],
+  "review": [
+   "J-0334",
+   "J-0964",
+   "J-1526"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Which animal did Leo like the most?",
+    "options": [
+     "The wolf.",
+     "The big bird.",
+     "The zebra.",
+     "The monkey."
+    ],
+    "answer": 2,
+    "explain": "第二段說 Leo 最喜歡斑馬，故選 (C)。(A) 看到狼時 Leo 反而有點怕，握住了作者的手。",
+    "evidence": "He loved the zebra most."
+   },
+   {
+    "type": "推論",
+    "stem": "Why did Leo probably hold the writer's hand?",
+    "options": [
+     "He was cold.",
+     "He wanted to buy food.",
+     "He was tired and sleepy.",
+     "The wolf looked wild and a little scary."
+    ],
+    "answer": 3,
+    "explain": "狼看起來野性十足又強壯，Leo 就握住作者的手，可推知他有點害怕，故選 (D)。(C) 他是在回程公車上才睡著。",
+    "evidence": "It looked wild and strong, and Leo held my hand."
+   },
+   {
+    "type": "指涉",
+    "stem": "In paragraph 3, what does \"Now it is my turn\" mean?",
+    "options": [
+     "Now the writer takes a younger cousin to the zoo.",
+     "Now the writer wants to see the animals alone.",
+     "Now the writer has to cook lunch.",
+     "Now the writer must go back to school."
+    ],
+    "answer": 0,
+    "explain": "作者小時候是表哥帶他來動物園，現在換他帶小表弟來，所以「輪到我了」，故選 (A)。(B) 作者是帶著 Leo 一起去，不是一個人。",
+    "evidence": "When I was a kid, my older cousin took me to this zoo, too."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to keep warm in winter.",
+     "A teenager takes his little cousin to the zoo and shares a happy day.",
+     "Why zebras have black and white lines.",
+     "The best food to eat at the zoo."
+    ],
+    "answer": 1,
+    "explain": "全文寫作者在冬天帶小表弟逛動物園、吃午餐，並想起自己小時候的回憶，故選 (B)。(C) 斑馬的線條只是 Leo 的一個問題，文中沒有回答。",
+    "evidence": "Now it is my turn."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Our team scored ______ points in the first half, but we did better later.",
+    "options": [
+     "zero",
+     "wide",
+     "yummy",
+     "white"
+    ],
+    "answer": 0,
+    "word": "J-1654",
+    "explain": "上半場得「零」分，後來表現較好，故選 zero。wide（寬的）、yummy（好吃的）、white（白色的）都不能修飾 points。"
+   },
+   {
+    "stem": "This night market sells many ______ snacks, like hot dogs and fried chicken.",
+    "options": [
+     "windy",
+     "wild",
+     "yummy",
+     "wide"
+    ],
+    "answer": 2,
+    "word": "J-1652",
+    "explain": "夜市賣很多「好吃的」點心，故選 yummy。windy（風大的）、wild（野生的）、wide（寬的）都不適合形容食物。"
+   }
+  ],
+  "status": "draft"
+ }
+]

@@ -173,6 +173,21 @@ if os.path.exists(pt) and os.path.exists(et):
     out = out + o8   # 一定接在最後
     print('多益主題包', len(o8), '字')
 
+# ---- 國中基礎站（等級 9，國中 2000 字裡網站還沒有的字）：src/raw/jh_words.json ＋ src/examples/jh.json，接在最後 ----
+pj = os.path.join(RAW, 'jh_words.json')
+ej = os.path.join(ROOT, 'src', 'examples', 'jh.json')
+if os.path.exists(pj) and os.path.exists(ej):
+    okset = ('ok', 'draft') if '--drafts' in sys.argv else ('ok',)
+    xj = {r['id']: r for r in json.load(open(ej, encoding='utf-8')) if r.get('status') in okset}
+    o9 = []
+    for e in json.load(open(pj, encoding='utf-8')):
+        x = xj.get(e['id'])
+        if not x: continue
+        ex = [x['en'], x['exzh'], x['target'], 1 if x.get('status') == 'ok' else 0] if x['target'] in x['en'] else None
+        o9.append([e['id'], 9, e['day'], e['hday'], x.get('word', e['word']), x['pos'], x['zh'], e['years'], None, ex, 0])
+    out = out + o9   # 一定接在最後
+    print('國中基礎站', len(o9), '字')
+
 json.dump(out, open(os.path.join(ROOT, 'src', 'words.json'), 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
 n_exam = sum(1 for r in out if r[8]); n_ex = sum(1 for r in out if r[9])
 print(f'words={len(out)} 真題句={n_exam} 編寫例句={n_ex}')
