@@ -423,6 +423,7 @@ function qTypeFor(w){
   const s=star(w), sent=simpleSentence(w);
   if(s<=1)return 'en2zh';
   if(isPh(w))return s===2||!sent?'zh2en':'ctxmc'; // 片語不考拼字
+  if(w.lv===9&&s>=2&&capKind(w)&&Math.random()<.4)return 'cap';   // 國中基礎站：會考題型
   if(s>=3&&FAM[w.id]&&FAM[w.id][1]&&Math.random()<.35)return 'form'; // 填入正確詞性
   if(s===2)return sent&&Math.random()<.5?'ctxmc':'zh2en';
   if(w.lv>=6&&w.lv!==9)return sent?'ctxmc':'zh2en';   // 第六、七級不考拼字
@@ -431,6 +432,13 @@ function qTypeFor(w){
   return w.exam?'examcloze':(sent?'cloze':'spell');
 }
 function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+// 會考題型（國中基礎站）：A. 字義題：例句裡是原形，四個同詞性的國中字；B. 詞形題：例句裡是規則動詞過去式，選項是同一字的四種形式
+function rforms(b){const y=/[^aeiou]y$/.test(b),e=/[^e]e$/.test(b),d=/^[^aeiou]*[aeiou][bdgmnprt]$/.test(b);
+  return [b,/(s|x|z|ch|sh)$/.test(b)?b+'es':y?b.slice(0,-1)+'ies':b+'s',e?b+'d':y?b.slice(0,-1)+'ied':d?b+b.slice(-1)+'ed':b+'ed',/ie$/.test(b)?b.slice(0,-2)+'ying':e?b.slice(0,-1)+'ing':d?b+b.slice(-1)+'ing':b+'ing'];}
+function capKind(w){if(!w.ex||isPh(w)||/[^a-z]/.test(w.word))return null;const t=w.ex[2].toLowerCase();
+  if(t===w.word)return 'word';
+  if(/v\./.test(w.pos)&&!/ed$/.test(w.word)&&rforms(w.word)[2]===t)return 'form';
+  return null;}
 function distractors(w,n=3){
   const p=mainPos(w);
   let pool=W.filter(x=>x.lv===w.lv&&x!==w&&mainPos(x)===p&&x.zh!==w.zh);
@@ -810,12 +818,18 @@ function learnCard(it){
 function ask(it){
   const w=it.w; const type=it.fresh?'en2zh':(it.retry?'en2zh':qTypeFor(w));
   const s=star(w);
-  const label={en2zh:'選出中文意思',zh2en:isPh(w)?'選出英文片語':'選出英文單字',ctxmc:isPh(w)?'選出最適合填入句子的片語':'選出最適合填入句子的字',spell:'聽發音、看中文，拼出單字',cloze:'依句意填入單字（已給首字母）',examcloze:'學測原句：填入單字',form:'填入正確詞性'}[type];
+  const label={en2zh:'選出中文意思',zh2en:isPh(w)?'選出英文片語':'選出英文單字',ctxmc:isPh(w)?'選出最適合填入句子的片語':'選出最適合填入句子的字',spell:'聽發音、看中文，拼出單字',cloze:'依句意填入單字（已給首字母）',examcloze:'學測原句：填入單字',form:'填入正確詞性',cap:'國中會考題型・選出最適合的答案'}[type];
   let body='';
   if(type==='en2zh'){
     const opts=shuffle([w,...distractors(w)]);
     body=`<div class="word">${esc(display(w))}<button class="speak" data-say="${esc(sayForm(w))}" aria-label="發音">${SPK}</button></div><div class="pos">${esc(w.pos)}</div>
     <div class="opts">${opts.map((o,k)=>`<button class="opt" data-ok="${o===w}"><span class="k">${k+1}</span>${esc(o.zh)}</button>`).join('')}</div>`;
+  }else if(type==='cap'){
+    const k=capKind(w),sent=simpleSentence(w),t=sent.t;it._sent=sent;
+    const cap=x=>t[0]===t[0].toUpperCase()?x[0].toUpperCase()+x.slice(1):x;
+    const opts=k==='form'?shuffle(rforms(w.word).map(f=>({f:cap(f),ok:f===t.toLowerCase()}))):shuffle([{f:cap(w.word),ok:true},...distractors(w,8).filter(x=>/^[a-z]+$/.test(x.word)).slice(0,3).map(x=>({f:cap(x.word),ok:false}))]);
+    body=`<div class="ex"><span class="src">${k==='form'?'會考・文法（動詞形式）':'會考・字彙'}</span><span class="s">${markTarget(sent.s,t,'blank')}</span></div>
+    <div class="opts">${opts.map((o,j)=>`<button class="opt en" data-ok="${o.ok}"><span class="k">${'ABCD'[j]}</span>${esc(o.f)}</button>`).join('')}</div>`;
   }else if(type==='zh2en'||type==='ctxmc'){
     const opts=shuffle([w,...distractors(w)]);
     const sent=simpleSentence(w);
@@ -830,7 +844,7 @@ function ask(it){
     body=top+`<div class="hintline" id="hint"></div><form class="spell" id="sf" autocomplete="off"><input id="sp" autocapitalize="off" autocorrect="off" spellcheck="false" aria-label="輸入單字"><button class="primary" style="width:auto">送出</button></form><button class="ghost" id="hintBtn">提示一個字母</button>`;
     it._sent=sent;
   }
-  app.innerHTML=progressBar()+`<div class="card pop"><div class="qtype"><span>${label}</span>${starsHTML(s)}</div>${body}<div id="fbx"></div></div><div class="kbd">${type.includes('2')||type==='ctxmc'?'數字鍵 1–4 作答・':''}Enter 下一題</div>`;
+  app.innerHTML=progressBar()+`<div class="card pop"><div class="qtype"><span>${label}</span>${starsHTML(s)}</div>${body}<div id="fbx"></div></div><div class="kbd">${type.includes('2')||type==='ctxmc'||type==='cap'?'數字鍵 1–4 作答・':''}Enter 下一題</div>`;
   bindSpeak();bindQuit();
   if(type==='spell')speak(sayForm(w));
   let answered=false;
@@ -842,7 +856,7 @@ function ask(it){
     if(g.after>g.before)SES.ups.push(w);
     if(!ok){SES.downs.push(w);
       if(!it.retry){const at=Math.min(SES.items.length,SES.pos+4);SES.items.splice(at,0,{w,kind:'q',retry:true});SES.total++;}}
-    const ans=type==='form'?display(w)+' → '+it._sent.t:type==='cloze'||type==='examcloze'?it._sent.t:display(w);
+    const ans=type==='form'?display(w)+' → '+it._sent.t:type==='cloze'||type==='examcloze'||type==='cap'?it._sent.t:display(w);
     document.getElementById('fbx').innerHTML=`<div class="fb ${ok?'right':'wrong'}">${ok?'':pic('guide_think','fbimg')}<b>${ok?(soft?'答對了（用了提示，明天再複習）':'答對了'):'再記一次'}</b>
       <span><span class="en" style="font-weight:700;font-size:18px">${esc(ans)}</span>　${esc(w.pos)}　${esc(w.zh)}</span>
       ${ok&&g.after>g.before?'<span>升到 '+starsHTML(g.after)+'</span>':''}
