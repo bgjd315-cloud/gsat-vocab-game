@@ -205,8 +205,8 @@
   "phrase": "because of",
   "zh": "因為；由於",
   "say": "because of",
-  "en": "The baseball game was canceled because of the heavy rain.",
-  "exzh": "棒球比賽因為大雨取消了。",
+  "en": "Kevin stayed home from school because of a bad cold.",
+  "exzh": "Kevin 因為重感冒沒去上學，待在家裡。",
   "targets": [
    "because of"
   ],
@@ -928,8 +928,8 @@
   "phrase": "plenty of",
   "zh": "很多的；充足的",
   "say": "plenty of",
-  "en": "Drink plenty of water when you play sports on hot days.",
-  "exzh": "天氣熱運動時要多喝水。",
+  "en": "We have plenty of time, so let's walk to the station.",
+  "exzh": "我們時間還很充裕，所以走路去車站吧。",
   "targets": [
    "plenty of"
   ],
