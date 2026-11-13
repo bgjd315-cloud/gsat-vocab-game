@@ -40,6 +40,9 @@ const mop = path.join(__dirname, 'src', 'examples', 'morph.json');
 if (fs.existsSync(mop)) gr = gr.concat(JSON.parse(fs.readFileSync(mop, 'utf8')).filter(c => withDrafts ? c.status !== 'deleted' : c.status === 'ok'));
 if (!out.includes('/*__GR__*/[]')) throw new Error('app.html 找不到文法卡佔位符');
 out = out.replace('/*__GR__*/[]', () => esc(JSON.stringify(gr)));
+// 國中會考字彙題的固定錯誤選項（逐題人工挑選並複核）：src/raw/jh_cap.json {id: [3 個錯誤選項]}
+const capp = path.join(__dirname, 'src', 'raw', 'jh_cap.json');
+out = out.replace('/*__CAPD__*/{}', () => esc(JSON.stringify(fs.existsSync(capp) ? JSON.parse(fs.readFileSync(capp, 'utf8')) : {})));
 // 學測闖關（綜合測驗、文意選填）：src/examples/gsat_cz.json（原題＋官方答案＋本站中譯解析；正式版只放 ok）
 const czp = path.join(__dirname, 'src', 'examples', 'gsat_cz.json');
 const cz = fs.existsSync(czp) ? JSON.parse(fs.readFileSync(czp, 'utf8')).filter(c => withDrafts ? c.status !== 'deleted' : c.status === 'ok') : [];

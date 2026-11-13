@@ -335,6 +335,7 @@ const RAW = /*__DATA__*/[];
 const READ = /*__READ__*/[];
 const JHPOOL = /*__JH__*/[];
 const TB = /*__TB__*/null;
+const CAPD = /*__CAPD__*/{};  // 國中會考字彙題：{單字編號: [3 個複核過的錯誤選項]}
 const GR = /*__GR__*/[];  // 課本文法卡 {id,b,l,title,formula,points[],examples[{en,zh,hl[]}],tip,qs[{type,s,o[4],a,ex}]}
 const KK = /*__KK__*/{};  // KK 音標 {單字 id: '[...]'}
 const TT = /*__TT__*/null;  // 多益：{ids: 多益常見的既有字 id, groups: {新字 id: 情境}}
@@ -437,7 +438,7 @@ function rforms(b){const y=/[^aeiou]y$/.test(b),e=/[^e]e$/.test(b),d=/^[^aeiou]*
   return [b,/(s|x|z|ch|sh)$/.test(b)?b+'es':y?b.slice(0,-1)+'ies':b+'s',e?b+'d':y?b.slice(0,-1)+'ied':d?b+b.slice(-1)+'ed':b+'ed',/ie$/.test(b)?b.slice(0,-2)+'ying':e?b.slice(0,-1)+'ing':d?b+b.slice(-1)+'ing':b+'ing'];}
 const CAPF=new Set(["J-0111", "J-0167", "J-0200", "J-0220", "J-0276", "J-0329", "J-0335", "J-0384", "J-0423", "J-0498", "J-0531", "J-0538", "J-0651", "J-0725", "J-0754", "J-0761", "J-0767", "J-0772", "J-0788", "J-0796", "J-0959", "J-1029", "J-1126", "J-1161", "J-1191", "J-1253", "J-1271", "J-1272", "J-1310", "J-1559", "J-1575"]);
 function capKind(w){if(!w.ex||isPh(w)||/[^a-z]/.test(w.word))return null;const t=w.ex[2].toLowerCase();
-  if(t===w.word&&/^(n|v)\./.test(w.pos))return 'word';   // 字彙題只出名詞、動詞（形容詞放進句子常常互換也通）
+  if(t===w.word&&CAPD[w.id])return 'word';   // 只出有「逐題挑選並複核過」固定錯誤選項的字   // 字彙題只出名詞、動詞（形容詞放進句子常常互換也通）
   if(CAPF.has(w.id)&&rforms(w.word)[2]===t)return 'form';   // 只用句中有明確過去線索（時間詞、when 子句、被動、完成式）的句子，避免現在式也說得通
   return null;}
 function distractors(w,n=3){
@@ -828,7 +829,7 @@ function ask(it){
   }else if(type==='cap'){
     const k=capKind(w),sent=simpleSentence(w),t=sent.t;it._sent=sent;
     const cap=x=>t[0]===t[0].toUpperCase()?x[0].toUpperCase()+x.slice(1):x;
-    const opts=k==='form'?shuffle(rforms(w.word).map(f=>({f:cap(f),ok:f===t.toLowerCase()}))):shuffle([{f:cap(w.word),ok:true},...distractors(w,8).filter(x=>/^[a-z]+$/.test(x.word)).slice(0,3).map(x=>({f:cap(x.word),ok:false}))]);
+    const opts=k==='form'?shuffle(rforms(w.word).map(f=>({f:cap(f),ok:f===t.toLowerCase()}))):shuffle([{f:cap(w.word),ok:true},...CAPD[w.id].map(x=>({f:cap(x),ok:false}))]);
     body=`<div class="ex"><span class="src">${k==='form'?'會考・文法（動詞形式）':'會考・字彙'}</span><span class="s">${markTarget(sent.s,t,'blank')}</span></div>
     <div class="opts">${opts.map((o,j)=>`<button class="opt en" data-ok="${o.ok}"><span class="k">${'ABCD'[j]}</span>${esc(o.f)}</button>`).join('')}</div>`;
   }else if(type==='zh2en'||type==='ctxmc'){
