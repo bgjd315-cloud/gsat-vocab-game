@@ -235,7 +235,7 @@
     ],
     "answer": 1,
     "word": "J-0084",
-    "explain": "fall asleep 是「睡著」，Ken 太累在沙發上睡著了，故選 asleep。fall away、fall afraid、fall alive 都不是正確搭配。"
+    "explain": "fall asleep 是「睡著」，Ken 太累在沙發上睡著了，故選 asleep。fall away（脫落、減少）不合句意；fall afraid、fall alive 都不是正確搭配。"
    }
   ],
   "status": "ok"
@@ -851,7 +851,7 @@
   "paragraphs": [
    "Last month, my dad went to see a [[doctor|J-0400]]. The doctor said, \"Your heart is fine, but you eat too much fried food. You need a better [[diet|J-0385]].\" Dad was surprised. He [[decided|J-0365]] to change his habits, and our family wanted to help him.",
    "[[Changing|J-0250]] was [[difficult|J-0387]] at first. Dad loves [[delicious|J-0370]] fried [[chicken|J-0261]] from the night market. My mom and I [[discovered|J-0395]] some easy ways to cook vegetables on the Internet. Every evening, we [[cook|J-0319]] [[dinner|J-0391]] together. I cut the vegetables, and Mom makes a fish [[dish|J-0397]] with little oil. We eat at the table in the [[dining room|J-0390]], not in front of the TV. We also [[divide|J-0399]] the food and put it on small plates, so nobody eats too much.",
-   "It was a big [[decision|J-0366]], but it was a good one. After four weeks, Dad feels [[different|J-0386]]. He has more energy and walks to work every day. He even writes his meals in a small [[diary|J-0381]]. Last night he said, \"My dear [[daughter|J-0357]], thank you for your help.\" I smiled. Healthy food can taste good, too."
+   "It was a big [[decision|J-0366]], but it was a good one. After four weeks, Dad feels [[different|J-0386]]. He has more energy and walks to work every day. He even writes down his meals in a small [[diary|J-0381]]. Last night he said, \"My dear [[daughter|J-0357]], thank you for your help.\" I smiled. Healthy food can taste good, too."
   ],
   "zh": [
    "上個月，我爸爸去看醫生。醫生說：「你的心臟沒問題，但你吃太多油炸食物了。你需要更好的飲食。」爸爸很驚訝。他決定改變自己的習慣，而我們全家都想幫他。",
@@ -1095,12 +1095,12 @@
   "title": "Leo's Study Plan",
   "topic": "校園・考試",
   "paragraphs": [
-   "Leo's [[English|J-0462]] [[exam|J-0480]] is next Friday, and he is worried. On the last test, he made many [[errors|J-0468]], [[especially|J-0469]] in grammar. He is afraid that he will [[fail|J-0498]] again. He told his friend Emma, \"I study hard, but it is never [[enough|J-0464]].\"",
+   "Leo's [[English|J-0462]] [[exam|J-0480]] was on Friday, and he was worried. On the last test, he made many [[errors|J-0468]], [[especially|J-0469]] in grammar. He was afraid that he would [[fail|J-0498]] again. He told his friend Emma, \"I study hard, but it is never [[enough|J-0464]].\"",
    "Emma gave him some advice. \"First, study a little every day. Do not try to learn [[everything|J-0477]] in one night. Second, use a [[dictionary|J-0382]] and write your own [[examples|J-0481]] for new words. Third, take a [[break|J-0187]] and get some [[exercise|J-0488]]. Your body and mind need a rest, too.\" Leo followed her plan. Every [[evening|J-0472]], he studied for one hour and then went for a walk in the park.",
    "On the day of the exam, Leo [[entered|J-0465]] the classroom with a calm [[face|J-0495]]. He felt [[confident|J-0311]]. A week later, the teacher gave back the tests. Leo got 88 points, and she wrote \"[[Excellent|J-0482]] work!\" next to his name. Leo was so [[excited|J-0485]] that he showed it to Emma right away. \"Your plan really works,\" he said. \"Thank you!\""
   ],
   "zh": [
-   "Leo 的英文考試在下星期五，他很擔心。上次考試他錯了很多地方，尤其是文法。他害怕自己又會不及格。他對朋友 Emma 說：「我很用功讀書，但好像永遠都不夠。」",
+   "Leo 的英文考試就在星期五，他很擔心。上次考試他錯了很多地方，尤其是文法。他害怕自己又會不及格。他對朋友 Emma 說：「我很用功讀書，但好像永遠都不夠。」",
    "Emma 給了他一些建議。「第一，每天讀一點。不要想在一個晚上把所有東西都學完。第二，查字典，並替新單字寫自己的例句。第三，休息一下，做點運動。你的身體和頭腦也需要休息。」Leo 照著她的計畫做。每天傍晚，他讀書一個小時，然後去公園散步。",
    "考試那天，Leo 帶著平靜的表情走進教室。他覺得很有信心。一星期後，老師發回考卷。Leo 考了 88 分，老師在他的名字旁邊寫著「表現優異！」。Leo 興奮得馬上拿給 Emma 看。「妳的計畫真的有用，」他說。「謝謝妳！」"
   ],
@@ -1289,7 +1289,7 @@
      "Two people in town."
     ],
     "answer": 2,
-    "explain": "幫忙修車又請他們吃飯的是漁夫和他的太太，所以「那對親切的夫婦」指的是他們，故選 (C)。(A) Ben 和 Ken 是說話者本人，不是被感謝的對象。",
+    "explain": "幫忙修車又請他們吃飯的是漁夫和他的太太，所以「那對親切的夫婦」指的是他們，故選 (C)。(A) Ben 和 Ken 是受到幫助、向人道謝的一方，不是被稱讚的那對夫婦。",
     "evidence": "The fisherman's wife even gave them some food: rice and fresh fish."
    },
    {
@@ -1660,7 +1660,7 @@
     "options": [
      "Hiking on hot days is always dangerous.",
      "Lisa should not join the hiking club.",
-     "A hot but happy hiking trip with the school club.",
+     "The writer had a hot but happy hiking trip with the school club.",
      "Taichung has the best highway in Taiwan."
     ],
     "answer": 2,
@@ -2011,7 +2011,7 @@
      "The writer's uncle let the writer go home early.",
      "The writer finally ate a big lunch.",
      "The writer got some money from the manager.",
-     "A little girl thanked him kindly."
+     "A little girl thanked the writer kindly."
     ],
     "answer": 3,
     "explain": "小女孩有禮貌地道謝，讓作者重新笑出來，故選 (D)。文中只說他忘了吃午餐，沒有說後來吃了大餐，(B) 不對。",
@@ -3038,12 +3038,12 @@
   "title": "Mia at Grandpa's Shop",
   "topic": "家庭・幫忙",
   "paragraphs": [
-   "Every Sunday, Mia helps at her grandpa's small [[shop|J-1264]] near the [[market|J-0854]]. He sells [[simple|J-1285]] things like socks, [[shirts|J-1261]], and [[shorts|J-1268]]. Mia is [[shy|J-1275]], so at first she was [[silent|J-1281]] when customers came in. She only looked at her phone.",
+   "Every Sunday, Mia helps at her grandpa's small [[shop|J-1264]] near the [[market|J-0854]]. He sells [[simple|J-1285]] things like socks, [[shirts|J-1261]], and [[shorts|J-1268]]. Mia was [[shy|J-1275]], so at first she was [[silent|J-1281]] when customers came in. She only looked at her phone.",
    "Grandpa [[showed|J-1272]] her how to say hello to people with a smile. \"Talking to people is a [[skill|J-1297]],\" he said. \"You can learn it, just like riding a bike.\" He also asked her to [[share|J-1253]] her ideas. Mia said they could put the new shirts on a [[shelf|J-1258]] near the door, so people could see them from the street.",
    "Now Mia is not [[similar|J-1284]] to the quiet girl she was last year. She talks with every customer and even [[sings|J-1287]] along to the old songs on Grandpa's [[radio|J-1138]]. [[Since|J-1286]] she started helping, the shop has sold more shirts than before. Grandpa is very [[proud|J-1119]] of her."
   ],
   "zh": [
-   "每個星期天，Mia 都會到爺爺在市場附近的小店幫忙。爺爺賣一些簡單的東西，像是襪子、襯衫和短褲。Mia 很害羞，所以一開始客人進來時，她都不說話，只是看著手機。",
+   "每個星期天，Mia 都會到爺爺在市場附近的小店幫忙。爺爺賣一些簡單的東西，像是襪子、襯衫和短褲。Mia 原本很害羞，所以一開始客人進來時，她都不說話，只是看著手機。",
    "爺爺教她如何帶著微笑向人打招呼。「和人說話是一種技能，」他說，「你學得會的，就像學騎腳踏車一樣。」他也請她分享自己的想法。Mia 說可以把新襯衫放在門邊的架子上，這樣人們從街上就看得到。",
    "現在的 Mia 和去年那個安靜的女孩不一樣了。她會和每位客人聊天，甚至跟著爺爺收音機裡的老歌一起唱。自從她開始幫忙以來，店裡賣出的襯衫比以前更多。爺爺非常以她為傲。"
   ],
@@ -3136,7 +3136,7 @@
     "explain": "做菜是一項有用的「技能」，學會了就能自己煮飯，故選 skill。sky（天空）、size（尺寸）、side（旁邊）拼字相近但意思不對。"
    },
    {
-    "stem": "Ken has two pieces of cake. He wants to ______ one with his little brother.",
+    "stem": "Ken has a big piece of cake. He wants to ______ it with his little brother.",
     "options": [
      "shout",
      "share",
@@ -3145,7 +3145,7 @@
     ],
     "answer": 1,
     "word": "J-1253",
-    "explain": "Ken 有兩塊蛋糕，想和弟弟「分享」一塊，故選 share。shout（大叫）、shut（關上）、shake（搖動）都不合句意。"
+    "explain": "Ken 有一大塊蛋糕，想和弟弟「分享」，故選 share。shout（大叫）、shut（關上）、shake（搖動）都不合句意。"
    }
   ],
   "status": "ok"
@@ -4216,7 +4216,7 @@
   ],
   "vocab": [
    {
-    "stem": "Don't ______ the test. You studied hard, and you will do well.",
+    "stem": "Don't ______ the rain. I have an extra umbrella for you.",
     "options": [
      "look at",
      "pick up",
@@ -4225,7 +4225,7 @@
     ],
     "answer": 2,
     "word": "JP-040",
-    "explain": "考試前叫人不要「擔心」，worry about 最通順，故選 worry about。look at（看）、pick up（撿起）、come from（來自）都不合句意。"
+    "explain": "我多帶了一把傘，所以叫對方不要「擔心」下雨，worry about 最通順，故選 worry about。look at（看）、pick up（撿起）、come from（來自）都不合句意。"
    },
    {
     "stem": "Kevin used his phone to ______ when the next train leaves.",

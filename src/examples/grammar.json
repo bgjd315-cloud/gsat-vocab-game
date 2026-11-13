@@ -580,7 +580,7 @@
    },
    {
     "type": "mc",
-    "s": "I lost a pen yesterday, but I found ______ pen under my desk today.",
+    "s": "I bought a pen and a ruler yesterday, and ______ pen is blue.",
     "o": [
      "the",
      "a",
@@ -700,7 +700,7 @@
     ]
    },
    {
-    "t": "共同規則：助動詞後面接原形動詞，主詞是第三人稱單數也不加 -s；一個句子不能連用兩個助動詞，也不用 do / does 幫忙。",
+    "t": "共同規則：助動詞後面接原形動詞，主詞是第三人稱單數也不加 -s；can, must, should, may 這類助動詞不能兩個連用（不說 will can），也不用 do / does 幫忙。",
     "ex": [
      {
       "en": "Ben should study harder for the math test.",
@@ -1431,7 +1431,7 @@
      "Mia studies at the library at night."
     ],
     "a": 3,
-    "ex": "at night 是固定說法；at the library 表示在圖書館這個場所。in night 和 on night 都不對，on the library 意思是在圖書館屋頂上。",
+    "ex": "at night 是固定說法；at the library 表示在圖書館這個場所。in night 和 on night 都不對，on the library 也不能表示「在圖書館裡」。",
     "hint": "「在晚上」是固定搭配，先找出它正確的介系詞。"
    },
    {
