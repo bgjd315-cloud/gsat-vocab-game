@@ -4115,5 +4115,383 @@
    }
   ],
   "status": "ok"
+ },
+ {
+  "id": "L9-S70",
+  "level": 9,
+  "day": 70,
+  "kind": "short",
+  "title": "My Summer Job at the Night Market",
+  "topic": "打工・夜市",
+  "paragraphs": [
+   "This summer, I helped at my uncle's food stall at the night market [[for the first time|JP-033]]. The stall sells [[lots of|JP-036]] snacks, [[such as|JP-003]] fried chicken and sweet potato balls. I worked there [[from six to eleven|JP-002]] every night. On the first night, I was [[so slow that|JP-007]] a long line of people stood [[in front of|JP-030]] our stall. I [[had to|JP-005]] say sorry again and again.",
+   "My uncle told me not to [[worry about|JP-040]] it. He showed me how to [[pick up|JP-027]] the chicken quickly and put it into bags. He also said a good seller must remember the [[price|J-1106]] of every snack. After a few nights, I [[was able to|JP-009]] work much faster. [[More and more|JP-037]] people came to our stall, and the [[smell|J-1309]] of fried chicken was everywhere.",
+   "[[At the end of|JP-048]] the summer, I [[found out|JP-019]] that the job taught me [[not only how to cook but also|JP-015]] how to talk with all kinds of people. My uncle smiled and gave me a big bag of [[delicious|J-0370]] chicken to take home."
+  ],
+  "zh": [
+   "今年暑假，我第一次到舅舅在夜市的小吃攤幫忙。攤子賣很多小吃，像是炸雞和地瓜球。我每天晚上從六點工作到十一點。第一天晚上，我動作慢到攤子前面排了一長串人。我只好一再說抱歉。",
+   "舅舅叫我不要擔心。他教我怎麼快速夾起雞肉、裝進袋子裡。他還說，好的賣家一定要記得每樣小吃的價錢。過了幾個晚上，我已經能做得快多了。越來越多人來我們的攤子，到處都是炸雞的香味。",
+   "暑假結束時，我發現這份工作不只教我怎麼煮東西，也教我怎麼和各式各樣的人說話。舅舅笑著給我一大袋好吃的炸雞帶回家。"
+  ],
+  "glosses": [
+   {
+    "word": "stall",
+    "zh": "攤位"
+   }
+  ],
+  "targets": [
+   "JP-033",
+   "JP-036",
+   "JP-003",
+   "JP-002",
+   "JP-007",
+   "JP-030",
+   "JP-005",
+   "JP-040",
+   "JP-027",
+   "JP-009",
+   "JP-037",
+   "JP-048",
+   "JP-019",
+   "JP-015"
+  ],
+  "review": [
+   "J-1106",
+   "J-1309",
+   "J-0370"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "When did the writer work at the stall every night?",
+    "options": [
+     "From five to ten.",
+     "From six to eleven.",
+     "From seven to twelve.",
+     "From six to nine."
+    ],
+    "answer": 1,
+    "explain": "第一段說作者每天晚上從六點工作到十一點，故選 (B)。(D) 起始時間對，但結束時間錯。",
+    "evidence": "I worked there from six to eleven every night."
+   },
+   {
+    "type": "推論",
+    "stem": "Why did a long line of people stand in front of the stall on the first night?",
+    "options": [
+     "The snacks were very cheap that night.",
+     "The uncle was not at the stall.",
+     "The writer worked too slowly.",
+     "There was a free show at the night market."
+    ],
+    "answer": 2,
+    "explain": "第一段說第一天晚上作者動作慢到攤子前排了長長的人龍，可知是因為作者做得太慢，故選 (C)。(B) 文中沒說舅舅不在。",
+    "evidence": "On the first night, I was so slow that a long line of people stood in front of our stall."
+   },
+   {
+    "type": "細節",
+    "stem": "What did the uncle say a good seller must do?",
+    "options": [
+     "Cook new snacks every week.",
+     "Smile at every customer.",
+     "Work from morning to night.",
+     "Remember the price of every snack."
+    ],
+    "answer": 3,
+    "explain": "第二段說舅舅認為好的賣家一定要記得每樣小吃的價錢，故選 (D)。(B) 微笑待客聽起來合理，但文中沒有提到。",
+    "evidence": "He also said a good seller must remember the price of every snack."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "A student learns a lot from a summer job at a night-market stall.",
+     "A student explains how to make fried chicken.",
+     "An uncle opens a new restaurant in Taipei.",
+     "A family visits many night markets in Taiwan."
+    ],
+    "answer": 0,
+    "explain": "全文寫作者暑假在夜市攤位打工，從手忙腳亂到學會做事與待人，故選 (A)。(B) 炸雞只是攤位賣的東西，文中沒有教做法。",
+    "evidence": "At the end of the summer, I found out that the job taught me not only how to cook but also how to talk with all kinds of people."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "Don't ______ the test. You studied hard, and you will do well.",
+    "options": [
+     "look at",
+     "pick up",
+     "worry about",
+     "come from"
+    ],
+    "answer": 2,
+    "word": "JP-040",
+    "explain": "考試前叫人不要「擔心」，worry about 最通順，故選 worry about。look at（看）、pick up（撿起）、come from（來自）都不合句意。"
+   },
+   {
+    "stem": "Kevin used his phone to ______ when the next train leaves.",
+    "options": [
+     "arrive at",
+     "find out",
+     "be famous for",
+     "a piece of"
+    ],
+    "answer": 1,
+    "word": "JP-019",
+    "explain": "用手機「查出」下一班火車何時開，find out 最適合，故選 find out。arrive at（到達）、be famous for（以⋯⋯聞名）、a piece of（一片）都不合。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "L9-S72",
+  "level": 9,
+  "day": 72,
+  "kind": "short",
+  "title": "Our Class Play",
+  "topic": "校園・戲劇",
+  "paragraphs": [
+   "Our class will act in a short play at the school festival. I [[was interested in|JP-051]] acting, so I tried out for the main role and got it. [[At first|JP-085]], I was very happy. Then I read my part. There were so many lines to remember!",
+   "[[First of all|JP-058]], I wrote my lines on cards and read them [[all the time|JP-082]], even on the bus. I [[woke up|JP-076]] early every morning to [[practice|J-1099]]. Some lines were hard, and I wanted to [[give up|JP-060]]. But my friend Amy [[believed in|JP-092]] me. She [[helped me with|JP-062]] my lines after school. We also made the clothes for the play. They [[were made of|JP-087]] old paper bags, but they looked great.",
+   "On the day of the play, I [[was worried about|JP-091]] forgetting my lines. I had never acted [[in public|JP-064]] before. Amy said, \"Just [[do your best|JP-057]].\" [[After a while|JP-081]] on the stage, I felt [[brave|J-0185]], and every line came back to me. When the play ended, the [[crowd|J-0344]] clapped loudly. I was so [[proud|J-1119]] of our class."
+  ],
+  "zh": [
+   "我們班要在校慶上演一齣短劇。我對演戲有興趣，所以去爭取主角，結果選上了。一開始我很開心。後來我讀了自己的部分，要背的台詞好多！",
+   "首先，我把台詞寫在卡片上，隨時拿出來讀，連在公車上也讀。我每天早上很早起床練習。有些台詞很難，我曾經想放棄。但我的朋友 Amy 相信我做得到。她放學後幫我練台詞。我們也自己做了戲服。戲服是用舊紙袋做的，但看起來很棒。",
+   "演出當天，我很擔心忘詞。我以前從來沒有在大家面前演過戲。Amy 說：「盡力就好。」在台上過了一會兒，我覺得勇敢起來，每句台詞都想起來了。戲演完時，觀眾大聲鼓掌。我真為我們班感到驕傲。"
+  ],
+  "glosses": [
+   {
+    "word": "stage",
+    "zh": "舞台"
+   }
+  ],
+  "targets": [
+   "JP-051",
+   "JP-085",
+   "JP-058",
+   "JP-082",
+   "JP-076",
+   "JP-060",
+   "JP-092",
+   "JP-062",
+   "JP-087",
+   "JP-091",
+   "JP-064",
+   "JP-057",
+   "JP-081"
+  ],
+  "review": [
+   "J-1099",
+   "J-0185",
+   "J-0344",
+   "J-1119"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "What did the writer do first to remember the lines?",
+    "options": [
+     "The writer asked the teacher to make the lines shorter.",
+     "The writer wrote the lines on cards and read them all the time.",
+     "The writer listened to the lines on a phone at night.",
+     "The writer watched other students act the play."
+    ],
+    "answer": 1,
+    "explain": "第二段說作者首先把台詞寫在卡片上並隨時閱讀，故選 (B)。(C) 用手機聽台詞文中沒有提到。",
+    "evidence": "First of all, I wrote my lines on cards and read them all the time, even on the bus."
+   },
+   {
+    "type": "推論",
+    "stem": "Why did the writer want to give up?",
+    "options": [
+     "Amy did not help the writer.",
+     "The writer did not like the role.",
+     "The clothes for the play looked bad.",
+     "Some of the lines were hard."
+    ],
+    "answer": 3,
+    "explain": "第二段說有些台詞很難，作者想放棄，故選 (D)。(A) 與文意相反，Amy 其實有幫作者練台詞。",
+    "evidence": "Some lines were hard, and I wanted to give up."
+   },
+   {
+    "type": "字義",
+    "stem": "The word \"crowd\" in paragraph 3 refers to ______.",
+    "options": [
+     "the teachers on the stage",
+     "the students in the play",
+     "the people watching the play",
+     "the clothes for the play"
+    ],
+    "answer": 2,
+    "explain": "crowd 是「人群」，戲演完時大聲鼓掌的是看戲的人，故選 (C)。(B) 演戲的同學在台上演出，不是鼓掌的人群。",
+    "evidence": "When the play ended, the crowd clapped loudly."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "A student works hard for a class play and does well with a friend's help.",
+     "A student teaches friends how to make clothes.",
+     "A class decides not to join the school festival.",
+     "A teacher writes a new play for the school."
+    ],
+    "answer": 0,
+    "explain": "全文寫作者為班級戲劇努力背台詞、在朋友鼓勵下成功演出，故選 (A)。(B) 做戲服只是其中一個小細節。",
+    "evidence": "I was so proud of our class."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "The math problem was very hard, but Leo did not ______. He tried again and finally got the answer.",
+    "options": [
+     "show up",
+     "take off",
+     "look up",
+     "give up"
+    ],
+    "answer": 3,
+    "word": "JP-060",
+    "explain": "題目很難但 Leo 沒有「放棄」，再試一次後解出答案，故選 give up。show up（出現）、take off（脫下；起飛）、look up（查詢）都不合句意。"
+   },
+   {
+    "stem": "My brother ______ animals, so he wants to be a doctor for dogs and cats.",
+    "options": [
+     "lives on",
+     "is interested in",
+     "belongs to",
+     "is made from"
+    ],
+    "answer": 1,
+    "word": "JP-051",
+    "explain": "想當獸醫是因為「對動物有興趣」，故選 is interested in。lives on（以⋯⋯為生）、belongs to（屬於）、is made from（由⋯⋯製成）都不合句意。"
+   }
+  ],
+  "status": "ok"
+ },
+ {
+  "id": "L9-S74",
+  "level": 9,
+  "day": 74,
+  "kind": "short",
+  "title": "A Morning at the Beach",
+  "topic": "志工・環保",
+  "paragraphs": [
+   "Last Saturday, our club helped clean a [[beach|J-0120]] near Hualien. We [[got off|JP-140]] the bus at eight and [[waited for|JP-133]] our leader, Ms. Lin. She said, \"You [[had better|JP-141]] [[put on|JP-147]] your hats. The sun is strong today.\" Then she gave each of us a pair of [[gloves|J-0603]] and a big bag.",
+   "At first, the beach looked clean. But soon we saw that the sand [[was full of|JP-137]] small pieces of plastic. We also found old shoes and lots of [[bottles|J-0178]]. Ben and I [[kept on|JP-112]] working for two hours. Every time we found something strange, we [[wrote it down|JP-135]] in a notebook. Some people who [[passed by|JP-119]] stopped to thank us.",
+   "Before we [[went back|JP-106]] to the bus, Ms. Lin [[took a picture|JP-148]] of us with our forty full bags. On the way home, we [[talked about|JP-127]] how to [[take care of|JP-125]] the ocean in our daily life, such as bringing our own cups. We were tired, but we [[had a good time|JP-110]]. [[In short|JP-111]], it was a morning to remember."
+  ],
+  "zh": [
+   "上星期六，我們社團到花蓮附近幫忙淨灘。我們八點下公車，等待領隊林老師。她說：「你們最好戴上帽子，今天太陽很大。」接著她發給每個人一雙手套和一個大袋子。",
+   "一開始，海灘看起來很乾淨。但很快我們就發現沙子裡滿是小塊的塑膠。我們還找到舊鞋子和很多瓶子。Ben 和我持續工作了兩個小時。每次找到奇怪的東西，我們就把它記在筆記本上。有些路過的人停下來向我們道謝。",
+   "回到公車上之前，林老師幫我們和四十袋裝滿的垃圾拍了一張照片。回家路上，我們討論在日常生活中可以怎麼愛護海洋，像是自備杯子。我們雖然很累，但玩得很開心。總之，這是一個難忘的早晨。"
+  ],
+  "glosses": [
+   {
+    "word": "plastic",
+    "zh": "塑膠"
+   }
+  ],
+  "targets": [
+   "JP-140",
+   "JP-133",
+   "JP-141",
+   "JP-147",
+   "JP-137",
+   "JP-112",
+   "JP-135",
+   "JP-119",
+   "JP-106",
+   "JP-148",
+   "JP-127",
+   "JP-125",
+   "JP-110",
+   "JP-111"
+  ],
+  "review": [
+   "J-0120",
+   "J-0603",
+   "J-0178"
+  ],
+  "questions": [
+   {
+    "type": "細節",
+    "stem": "Why did Ms. Lin ask the students to put on their hats?",
+    "options": [
+     "It was going to rain.",
+     "Their club wanted to take a picture.",
+     "The sun was strong that day.",
+     "The wind on the beach was cold."
+    ],
+    "answer": 2,
+    "explain": "第一段林老師說今天太陽很大，所以最好戴帽子，故選 (C)。(B) 拍照是最後才發生的事，與戴帽子無關。",
+    "evidence": "The sun is strong today."
+   },
+   {
+    "type": "細節",
+    "stem": "What did the writer and Ben do when they found something strange?",
+    "options": [
+     "They wrote it down in a notebook.",
+     "They gave it to the people passing by.",
+     "They took it home.",
+     "They showed it to Ms. Lin at once."
+    ],
+    "answer": 0,
+    "explain": "第二段說每次找到奇怪的東西，他們就記在筆記本上，故選 (A)。(D) 文中沒有說要馬上拿給林老師看。",
+    "evidence": "Every time we found something strange, we wrote it down in a notebook."
+   },
+   {
+    "type": "推論",
+    "stem": "How did the writer most likely feel at the end of the day?",
+    "options": [
+     "Angry and bored.",
+     "Sick and sad.",
+     "Afraid and worried.",
+     "Tired but happy."
+    ],
+    "answer": 3,
+    "explain": "第三段說雖然很累但玩得很開心，可知作者又累又開心，故選 (D)。(B) 文中沒有提到生病或難過。",
+    "evidence": "We were tired, but we had a good time."
+   },
+   {
+    "type": "主旨",
+    "stem": "What is the passage mainly about?",
+    "options": [
+     "How to swim safely at the beach.",
+     "A club cleans a beach and learns to care for the ocean.",
+     "Why Hualien is famous for its beaches.",
+     "A student loses a notebook at the beach."
+    ],
+    "answer": 1,
+    "explain": "全文寫社團到海灘撿垃圾，並討論如何愛護海洋，故選 (B)。(C) 花蓮只是地點，文章沒有介紹它為何出名。",
+    "evidence": "In short, it was a morning to remember."
+   }
+  ],
+  "vocab": [
+   {
+    "stem": "When Mom is at work, I ______ my little brother and make lunch for him.",
+    "options": [
+     "laugh at",
+     "pass by",
+     "take care of",
+     "get off"
+    ],
+    "answer": 2,
+    "word": "JP-125",
+    "explain": "媽媽上班時由我「照顧」弟弟並幫他做午餐，故選 take care of。laugh at（嘲笑）、pass by（路過）、get off（下車）都不合句意。"
+   },
+   {
+    "stem": "It is going to rain this afternoon. You ______ take an umbrella with you.",
+    "options": [
+     "had better",
+     "are afraid of",
+     "would like",
+     "are good at"
+    ],
+    "answer": 0,
+    "word": "JP-141",
+    "explain": "快下雨了，「最好」帶傘，had better 後接原形動詞，故選 had better。are afraid of、are good at 後面不能直接接原形動詞 take；would like 要接 to take。"
+   }
+  ],
+  "status": "ok"
  }
 ]

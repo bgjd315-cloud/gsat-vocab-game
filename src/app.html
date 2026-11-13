@@ -660,7 +660,7 @@ function home(){
     <button class="htile" id="dexBtn" style="--tint:var(--t-dex)">${pic('dex','')}<b>字卡圖鑑</b><span class="d">金框是學測常考核心卡</span><span class="rec">${learned} / ${W.filter(w=>w.lv>=3&&w.lv!==9).length}</span></button>
     <button class="htile" id="listBtn" style="--tint:var(--t-list)">${pic('list','')}<b>每日詞表</b><span class="d">每天一組單字與星等</span><span class="rec">${S.order==='freq'?'學測高頻優先':'字母順序'}</span></button>
   </div>
-  <div class="foot">KK 音標由 CMU Pronouncing Dictionary（© Carnegie Mellon University，BSD 授權）轉換整理。單字與詞性：大考中心《高中英文參考詞彙表（111 學年度起適用）》第三至六級。${LEVELS.includes(7)?'第七級依開放授權的英文詞頻資料 wordfreq（Robyn Speer 等，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" target="_blank" rel="noopener">CC BY-SA 4.0</a>）選出大考詞彙表以外的常用字，再依對高中閱讀的實用度挑選排序；國中基礎站取自十二年國教課綱〈國民中小學英語 2000 基本字彙〉中本站其他級別未收的字；中文與例句為本站編寫，第七級字表以 CC BY-SA 4.0 釋出。':''}<br>中文意思為簡要參考；例句標「學測原句」者取自大考中心 107–115 學年度學測英文試題，標「編寫例句」者為本站編寫、經老師審閱。<br>進度只存在這台裝置的瀏覽器，換手機或清除瀏覽資料前請先到「設定・備份」匯出。</div>`;
+  <div class="foot">KK 音標由 CMU Pronouncing Dictionary（© Carnegie Mellon University，BSD 授權）轉換整理。單字與詞性：大考中心《高中英文參考詞彙表（111 學年度起適用）》第三至六級。${LEVELS.includes(7)?'第七級依開放授權的英文詞頻資料 wordfreq（Robyn Speer 等，<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" target="_blank" rel="noopener">CC BY-SA 4.0</a>）選出大考詞彙表以外的常用字，再依對高中閱讀的實用度挑選排序；國中基礎站單字取自十二年國教課綱〈國民中小學英語 2000 基本字彙〉中本站其他級別未收的字，國中片語由本站選編；中文與例句為本站編寫，第七級字表以 CC BY-SA 4.0 釋出。':''}<br>中文意思為簡要參考；例句標「學測原句」者取自大考中心 107–115 學年度學測英文試題，標「編寫例句」者為本站編寫、經老師審閱。<br>進度只存在這台裝置的瀏覽器，換手機或清除瀏覽資料前請先到「設定・備份」匯出。</div>`;
   app.querySelectorAll('.jstep,.spot').forEach(b=>b.onclick=()=>{S.level=+b.dataset.lv;save();home();});
   document.getElementById('setBtn').onclick=settings;
   bindInstall();
