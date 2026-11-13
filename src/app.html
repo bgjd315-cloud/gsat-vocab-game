@@ -435,9 +435,10 @@ function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random
 // 會考題型（國中基礎站）：A. 字義題：例句裡是原形，四個同詞性的國中字；B. 詞形題：例句裡是規則動詞過去式，選項是同一字的四種形式
 function rforms(b){const y=/[^aeiou]y$/.test(b),e=/[^e]e$/.test(b),d=/^[^aeiou]*[aeiou][bdgmnprt]$/.test(b);
   return [b,/(s|x|z|ch|sh)$/.test(b)?b+'es':y?b.slice(0,-1)+'ies':b+'s',e?b+'d':y?b.slice(0,-1)+'ied':d?b+b.slice(-1)+'ed':b+'ed',/ie$/.test(b)?b.slice(0,-2)+'ying':e?b.slice(0,-1)+'ing':d?b+b.slice(-1)+'ing':b+'ing'];}
+const CAPF=new Set(["J-0111", "J-0167", "J-0200", "J-0220", "J-0276", "J-0329", "J-0335", "J-0384", "J-0423", "J-0498", "J-0531", "J-0538", "J-0651", "J-0725", "J-0754", "J-0761", "J-0767", "J-0772", "J-0788", "J-0796", "J-0959", "J-1029", "J-1126", "J-1161", "J-1191", "J-1253", "J-1271", "J-1272", "J-1310", "J-1559", "J-1575"]);
 function capKind(w){if(!w.ex||isPh(w)||/[^a-z]/.test(w.word))return null;const t=w.ex[2].toLowerCase();
-  if(t===w.word)return 'word';
-  if(/v\./.test(w.pos)&&!/ed$/.test(w.word)&&rforms(w.word)[2]===t)return 'form';
+  if(t===w.word&&/^(n|v)\./.test(w.pos))return 'word';   // 字彙題只出名詞、動詞（形容詞放進句子常常互換也通）
+  if(CAPF.has(w.id)&&rforms(w.word)[2]===t)return 'form';   // 只用句中有明確過去線索（時間詞、when 子句、被動、完成式）的句子，避免現在式也說得通
   return null;}
 function distractors(w,n=3){
   const p=mainPos(w);
