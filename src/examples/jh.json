@@ -18212,7 +18212,7 @@
   "en": "Did you do your English homework before dinner?",
   "exzh": "你晚餐前有做英文作業嗎？",
   "target": "do",
-  "status": "draft",
+  "status": "ok",
   "note": "do–did–done；第三人稱單數 does；do homework 寫作業"
  },
  {
@@ -18223,7 +18223,7 @@
   "en": "My father drives me to school when it rains.",
   "exzh": "下雨時，我爸爸會開車送我上學。",
   "target": "father",
-  "status": "draft",
+  "status": "ok",
   "note": "口語作 dad；Father's Day 父親節"
  },
  {
@@ -18234,7 +18234,7 @@
   "en": "Lisa waved goodbye to her friends at the MRT station.",
   "exzh": "Lisa 在捷運站向朋友揮手道別。",
   "target": "goodbye",
-  "status": "draft",
+  "status": "ok",
   "note": "也寫作 good-bye；口語作 bye；say goodbye to sb. 向某人道別"
  },
  {
@@ -18245,7 +18245,7 @@
   "en": "We have PE class on Tuesday and Friday this semester.",
   "exzh": "這學期我們星期二和星期五有體育課。",
   "target": "have",
-  "status": "draft",
+  "status": "ok",
   "note": "have–had–had；第三人稱單數 has；have to 必須"
  },
  {
@@ -18256,7 +18256,7 @@
   "en": "Ben is my classmate, and he is good at basketball.",
   "exzh": "Ben 是我的同學，他很會打籃球。",
   "target": "he",
-  "status": "draft",
+  "status": "ok",
   "note": "受格 him；所有格 his"
  },
  {
@@ -18267,7 +18267,7 @@
   "en": "Amy lost her phone, so I helped her look for it.",
   "exzh": "Amy 弄丟了她的手機，所以我幫她找。",
   "target": "her",
-  "status": "draft",
+  "status": "ok",
   "note": "主格 she；her 可當受格（help her）也可當所有格（her phone）"
  },
  {
@@ -18278,7 +18278,7 @@
   "en": "Mia taught herself to play the guitar by watching videos.",
   "exzh": "Mia 看影片自學彈吉他。",
   "target": "herself",
-  "status": "draft",
+  "status": "ok",
   "note": "teach oneself 自學；by herself 她獨自"
  },
  {
@@ -18289,7 +18289,7 @@
   "en": "Kevin was sick, so we called him after school.",
   "exzh": "Kevin 生病了，所以我們放學後打電話給他。",
   "target": "him",
-  "status": "draft",
+  "status": "ok",
   "note": "主格 he；所有格 his"
  },
  {
@@ -18300,7 +18300,7 @@
   "en": "Tom cut himself while he was making a salad.",
   "exzh": "Tom 做沙拉時割傷了自己。",
   "target": "himself",
-  "status": "draft",
+  "status": "ok",
   "note": "by himself 他獨自；enjoy himself 他玩得開心"
  },
  {
@@ -18311,7 +18311,7 @@
   "en": "I usually take the bus to school with my sister.",
   "exzh": "我通常和妹妹一起搭公車上學。",
   "target": "I",
-  "status": "draft",
+  "status": "ok",
   "note": "永遠大寫；受格 me；所有格 my"
  },
  {
@@ -18322,7 +18322,7 @@
   "en": "It rained all day, so our soccer game was canceled.",
   "exzh": "下了一整天的雨，所以我們的足球比賽取消了。",
   "target": "It",
-  "status": "draft",
+  "status": "ok",
   "note": "It is…to… 句型的虛主詞；所有格 its"
  },
  {
@@ -18333,7 +18333,7 @@
   "en": "The cat is licking its paws on the sofa.",
   "exzh": "貓正在沙發上舔牠的爪子。",
   "target": "its",
-  "status": "draft",
+  "status": "ok",
   "note": "its 是所有格；it's ＝ it is／it has，不要混淆"
  },
  {
@@ -18344,7 +18344,7 @@
   "en": "The robot can clean the floor and charge itself.",
   "exzh": "這台機器人會掃地，也會自己充電。",
   "target": "itself",
-  "status": "draft",
+  "status": "ok",
   "note": "by itself 單獨地；自動地"
  },
  {
@@ -18355,7 +18355,7 @@
   "en": "Could you send me the photos from the class trip?",
   "exzh": "你可以把校外教學的照片傳給我嗎？",
   "target": "me",
-  "status": "draft",
+  "status": "ok",
   "note": "主格 I；介系詞、動詞後面用 me"
  },
  {
@@ -18366,7 +18366,7 @@
   "en": "My mother makes beef noodles for us every Sunday.",
   "exzh": "我媽媽每個星期天都會煮牛肉麵給我們吃。",
   "target": "mother",
-  "status": "draft",
+  "status": "ok",
   "note": "口語作 mom；Mother's Day 母親節"
  },
  {
@@ -18377,7 +18377,7 @@
   "en": "I made this birthday card for Emma by myself.",
   "exzh": "我自己一個人做了這張給 Emma 的生日卡片。",
   "target": "myself",
-  "status": "draft",
+  "status": "ok",
   "note": "by myself 我獨自；help myself 自己來（取用）"
  },
  {
@@ -18388,7 +18388,7 @@
   "en": "We cleaned the classroom ourselves before the school festival.",
   "exzh": "校慶前，我們自己把教室打掃乾淨。",
   "target": "ourselves",
-  "status": "draft",
+  "status": "ok",
   "note": "by ourselves 我們自己；enjoy ourselves 我們玩得開心"
  },
  {
@@ -18399,7 +18399,7 @@
   "en": "Emma loves animals, and she wants to be a vet.",
   "exzh": "Emma 很愛動物，她想當獸醫。",
   "target": "she",
-  "status": "draft",
+  "status": "ok",
   "note": "受格 her；所有格 her"
  },
  {
@@ -18410,7 +18410,7 @@
   "en": "I bought some apples and put them in the fridge.",
   "exzh": "我買了一些蘋果，把它們放進冰箱。",
   "target": "them",
-  "status": "draft",
+  "status": "ok",
   "note": "主格 they；所有格 their"
  },
  {
@@ -18421,7 +18421,7 @@
   "en": "The students made the posters for the club fair themselves.",
   "exzh": "學生們自己製作社團博覽會的海報。",
   "target": "themselves",
-  "status": "draft",
+  "status": "ok",
   "note": "by themselves 他們獨自"
  },
  {
@@ -18432,7 +18432,7 @@
   "en": "Leo and Ken missed the bus, so they were late for class.",
   "exzh": "Leo 和 Ken 錯過了公車，所以上課遲到了。",
   "target": "they",
-  "status": "draft",
+  "status": "ok",
   "note": "受格 them；所有格 their"
  },
  {
@@ -18443,7 +18443,7 @@
   "en": "Our teacher gave us ten minutes to finish the quiz.",
   "exzh": "老師給我們十分鐘完成小考。",
   "target": "us",
-  "status": "draft",
+  "status": "ok",
   "note": "主格 we；Let's ＝ Let us"
  },
  {
@@ -18454,7 +18454,7 @@
   "en": "We are going to visit the night market after the game.",
   "exzh": "比賽結束後，我們要去逛夜市。",
   "target": "We",
-  "status": "draft",
+  "status": "ok",
   "note": "受格 us；所有格 our"
  },
  {
@@ -18465,7 +18465,7 @@
   "en": "Can you help me carry these books to the library?",
   "exzh": "你可以幫我把這些書搬到圖書館嗎？",
   "target": "you",
-  "status": "draft",
+  "status": "ok",
   "note": "單複數同形；所有格 your"
  },
  {
@@ -18476,7 +18476,7 @@
   "en": "Please write your name at the top of the paper.",
   "exzh": "請把你的名字寫在考卷最上方。",
   "target": "your",
-  "status": "draft",
+  "status": "ok",
   "note": "your 是所有格；you're ＝ you are，不要混淆"
  },
  {
@@ -18487,7 +18487,7 @@
   "en": "Help yourselves to the snacks on the table, everyone.",
   "exzh": "大家，桌上的點心請自己拿。",
   "target": "yourselves",
-  "status": "draft",
+  "status": "ok",
   "note": "單數為 yourself；help yourselves to… 請自行取用…"
  }
 ]
