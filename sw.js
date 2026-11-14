@@ -2,7 +2,7 @@
 // - 網頁本身（index.html）與 audio/index.json：先上網拿最新的，沒網路才用存起來的
 // - 圖片、音檔、圖示：用過一次就存起來，之後沒網路也能用（檔案有更新時 VER 會變，舊的自動清掉）
 // - iPhone 播音檔會用 Range 請求，存起來的音檔要切成 206 回應才能播
-const VER = '5e70589225';
+const VER = '37496aba1c';
 const SHELL = 'shell-v1', MEDIA = 'media-' + VER, FONT = 'font-v1';
 const PRE = ['./', 'index.html', 'manifest.json', 'icons/icon-192.png', 'icons/apple-touch-icon.png', 'img/map6.webp', 'img/guide_hello.webp', 'img/guide_think.webp', 'img/guide_cheer.webp'];
 

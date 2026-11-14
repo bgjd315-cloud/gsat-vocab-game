@@ -1,0 +1,3438 @@
+[
+{
+"y": 103,
+"n": 21,
+"stem": "I have to catch the bus right now, ______ I’ll miss my brother’s birthday party.",
+"o": [
+"and",
+"because",
+"or",
+"until"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-0997"
+]
+},
+{
+"y": 103,
+"n": 22,
+"stem": "Oliver ______ with joy when he saw his favorite band. He kept saying loudly, “I love you guys!”",
+"o": [
+"waited",
+"shouted",
+"listened",
+"agreed"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-1271"
+]
+},
+{
+"y": 103,
+"n": 23,
+"stem": "Ms. Lee is a(n) ______ businesswoman. Just now in her shop, she gave me back the wallet I left on the table last week.",
+"o": [
+"famous",
+"honest",
+"important",
+"smart"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0691"
+]
+},
+{
+"y": 103,
+"n": 24,
+"stem": "Lexie ______ reading maps. Even with a map, she still cannot find her way when she is in a foreign city.",
+"o": [
+"is careful about",
+"is good at",
+"has fun",
+"has trouble"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1517"
+]
+},
+{
+"y": 103,
+"n": 25,
+"stem": "More and more cows on this farm are getting sick. The problem is so ______ that the farm will be closed from tomorrow on.",
+"o": [
+"heavy",
+"popular",
+"serious",
+"strong"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-1241"
+]
+},
+{
+"y": 103,
+"n": 26,
+"stem": "Some songs are forgotten very quickly. A really good song can pass the test of ______ and be remembered for many, many years.",
+"o": [
+"knowledge",
+"sound",
+"time",
+"weather"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-1477"
+]
+},
+{
+"y": 103,
+"n": 27,
+"stem": "I’m not sure if Kevin ______ this morning, but if he does, I’ll tell him that you called.",
+"o": [
+"will come in",
+"comes in",
+"has come in",
+"came in"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-0303"
+]
+},
+{
+"y": 103,
+"n": 28,
+"stem": "I think the road ends here; it won’t go any ______. Shouldn’t we turn back?",
+"o": [
+"closer",
+"farther",
+"faster",
+"longer"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0505"
+]
+},
+{
+"y": 103,
+"n": 29,
+"stem": "Jogging is the only exercise I enjoy. I find ______ other kinds of exercise boring.",
+"o": [
+"all",
+"few",
+"many",
+"some"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-0520"
+]
+},
+{
+"y": 103,
+"n": 30,
+"stem": "Smart Head, one of the hottest TV programs these days, ______ people free plane tickets to Hawaii if they can answer 20 questions correctly in 15 minutes.",
+"o": [
+"have given",
+"gives",
+"giving",
+"to give"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-0599"
+]
+},
+{
+"y": 103,
+"n": 31,
+"stem": "Helen: Can you turn off the TV? I can’t study with the ______.\nTroy: You can just go back to your room so you won’t hear it.",
+"o": [
+"noise",
+"heat",
+"power",
+"light"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0960"
+]
+},
+{
+"y": 103,
+"n": 32,
+"stem": "Carson: Bye, girls. See you tomorrow, Phoebe.\nShirley: ______ did Carson say he would see you tomorrow?\nPhoebe: We’re going out for a picnic. Do you want to come?",
+"o": [
+"What",
+"When",
+"Where",
+"Why"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-1606"
+]
+},
+{
+"y": 104,
+"n": 1,
+"stem": "Look at the picture. The girl drew two ______ on the wall.",
+"o": [
+"circles",
+"lines",
+"points",
+"squares"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1360"
+],
+"img": "img/gsat/parts/gsat_cap104.webp"
+},
+{
+"y": 104,
+"n": 2,
+"stem": "This dress is pretty, ______ it does not look good on me.",
+"o": [
+"so",
+"but",
+"or",
+"if"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-0205"
+]
+},
+{
+"y": 104,
+"n": 3,
+"stem": "Getting up early on a cold morning is not easy, ______?",
+"o": [
+"are you",
+"do you",
+"does it",
+"is it"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-1666"
+]
+},
+{
+"y": 104,
+"n": 4,
+"stem": "Tonight I’ll stay at the office until I ______ the work.",
+"o": [
+"finish",
+"am finishing",
+"finished",
+"will finish"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0531"
+]
+},
+{
+"y": 104,
+"n": 5,
+"stem": "Charles ______ a day in the department store looking for a hat for his wife.",
+"o": [
+"cost",
+"spent",
+"saw",
+"made"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-1354"
+]
+},
+{
+"y": 104,
+"n": 6,
+"stem": "Tom ______ ten pounds over the past two months. He looks much thinner now.",
+"o": [
+"loses",
+"has lost",
+"will lose",
+"was losing"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-0829"
+]
+},
+{
+"y": 104,
+"n": 7,
+"stem": "I don’t like any one of these three watches. Can you show me ______ one?",
+"o": [
+"the others",
+"other",
+"either",
+"another"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-0060"
+]
+},
+{
+"y": 104,
+"n": 8,
+"stem": "The waiters are asked to be ______; they should always smile and remember to say “Welcome” and “Please.”",
+"o": [
+"honest",
+"polite",
+"special",
+"strong"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-1082"
+]
+},
+{
+"y": 104,
+"n": 9,
+"stem": "On Children’s Day, Ms. Lee, a famous storybook writer, ______ to Molly’s Bookstore to talk about her new book. My two little kids just can’t wait to see her.",
+"o": [
+"came",
+"was coming",
+"has come",
+"is going to come"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-0303"
+]
+},
+{
+"y": 104,
+"n": 10,
+"stem": "No one thought James would appear at Katie’s party. So when he ______, everyone was surprised and could not believe their eyes.",
+"o": [
+"would",
+"was",
+"had",
+"did"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-1656"
+]
+},
+{
+"y": 104,
+"n": 11,
+"stem": "B&J Café ______ known as the tallest building in town. However, O&G Restaurant became the tallest building in 2010.",
+"o": [
+"has been",
+"had been",
+"is",
+"would be"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-1659"
+]
+},
+{
+"y": 104,
+"n": 12,
+"stem": "Actor David Piper became tired of talking about the movie ______ after he was interviewed about it many times.",
+"o": [
+"he is famous",
+"that he is famous",
+"that is famous for",
+"he is famous for"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-0503"
+]
+},
+{
+"y": 105,
+"n": 1,
+"stem": "Look at the picture. What is the dog doing?",
+"o": [
+"Biting the man.",
+"Crossing the street.",
+"Running after the bus.",
+"Sitting on the sidewalk."
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0343"
+],
+"img": "img/gsat/parts/gsat_cap105.webp"
+},
+{
+"y": 105,
+"n": 2,
+"stem": "Chris: Which ______ looks better on me?\nPenny: I think purple’s better. You look great in purple.",
+"o": [
+"color",
+"grade",
+"shape",
+"size"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0301"
+]
+},
+{
+"y": 105,
+"n": 3,
+"stem": "My cat got excited when it saw the boy ______ the birds.",
+"o": [
+"catches",
+"catching",
+"to catch",
+"caught"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-0236"
+]
+},
+{
+"y": 105,
+"n": 4,
+"stem": "Mr. Jackson is a very ______ writer; people of all ages enjoy his stories.",
+"o": [
+"polite",
+"popular",
+"handsome",
+"honest"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-1089"
+]
+},
+{
+"y": 105,
+"n": 5,
+"stem": "Carol sounded happy when we talked on the phone; I could feel joy in her ______.",
+"o": [
+"eyes",
+"mail",
+"smile",
+"voice"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"L0-0154"
+]
+},
+{
+"y": 105,
+"n": 6,
+"stem": "Mark studies very hard and never ______ classes. He goes to school even when he is sick.",
+"o": [
+"loses",
+"misses",
+"changes",
+"forgets"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0892"
+]
+},
+{
+"y": 105,
+"n": 7,
+"stem": "Have you got anything for Joe ______? He’d be happy to get your gift on his birthday.",
+"o": [
+"almost",
+"either",
+"soon",
+"yet"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1647"
+]
+},
+{
+"y": 105,
+"n": 8,
+"stem": "Susan bought ______ bread in the supermarket, but she did not buy anything to drink.",
+"o": [
+"many",
+"some",
+"any",
+"one"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-1330"
+]
+},
+{
+"y": 105,
+"n": 9,
+"stem": "Playing sports at least three times a week ______ good for your health.",
+"o": [
+"is",
+"are",
+"has",
+"have"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-1070"
+]
+},
+{
+"y": 105,
+"n": 10,
+"stem": "My parents have different hobbies. One enjoys baking; ______ enjoys taking pictures.",
+"o": [
+"another",
+"the next",
+"the other",
+"the second"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-1000"
+]
+},
+{
+"y": 105,
+"n": 11,
+"stem": "My mom told me to take care of ______ in England. She worried that I couldn’t eat or sleep well there.",
+"o": [
+"me",
+"myself",
+"her",
+"herself"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-1671"
+]
+},
+{
+"y": 105,
+"n": 12,
+"stem": "The paint on the wall is not as ______ as it was ten years ago. It has changed from white to gray.",
+"o": [
+"bright",
+"heavy",
+"sure",
+"young"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0190"
+]
+},
+{
+"y": 105,
+"n": 13,
+"stem": "I told you this road went the wrong way, but you just wouldn’t listen. Now we have to ______ and take another road.",
+"o": [
+"go ahead",
+"move away",
+"pass by",
+"turn back"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1526"
+]
+},
+{
+"y": 105,
+"n": 14,
+"stem": "The last five years have not been ______ to Jennie. Her face is covered with lines and she looks much older than she is.",
+"o": [
+"kind",
+"special",
+"real",
+"enough"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0765"
+]
+},
+{
+"y": 105,
+"n": 15,
+"stem": "My dog Jimmy loves ______ with a comb. Every time I comb his hair, he will close his eyes and fall asleep.",
+"o": [
+"to brush",
+"brushing",
+"to be brushing",
+"being brushed"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-0194"
+]
+},
+{
+"y": 106,
+"n": 1,
+"stem": "Look at the picture. The dog is sitting ______.",
+"o": [
+"on the bag",
+"next to the woman",
+"inside the bag",
+"between the woman and the bag"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"JP-145"
+],
+"img": "img/gsat/parts/gsat_cap106.webp"
+},
+{
+"y": 106,
+"n": 2,
+"stem": "My sister wants to buy a car ______ she doesn’t have enough money.",
+"o": [
+"because",
+"but",
+"if",
+"or"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-0205"
+]
+},
+{
+"y": 106,
+"n": 3,
+"stem": "Jim always forgets my birthday. He has asked me many times and still can’t ______ it.",
+"o": [
+"answer",
+"celebrate",
+"remember",
+"understand"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-1160"
+]
+},
+{
+"y": 106,
+"n": 4,
+"stem": "The little girl was ______ by a truck on her way home and was badly hurt.",
+"o": [
+"hit",
+"led",
+"lost",
+"paid"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0684"
+]
+},
+{
+"y": 106,
+"n": 5,
+"stem": "Excuse me. I really need to go now. My kids ______ for me at school.",
+"o": [
+"are waiting",
+"were waiting",
+"wait",
+"waited"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-1563"
+]
+},
+{
+"y": 106,
+"n": 6,
+"stem": "Amy’s father is very sick. The doctors can do nothing for him, so Amy went to the temple to ______ for him.",
+"o": [
+"care",
+"count",
+"look",
+"pray"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1101"
+]
+},
+{
+"y": 106,
+"n": 7,
+"stem": "I’m glad that my school has students wear ______. I don’t have to worry about what clothes to wear to school.",
+"o": [
+"belts",
+"caps",
+"gloves",
+"uniforms"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1540"
+]
+},
+{
+"y": 106,
+"n": 8,
+"stem": "We are surprised that Sally and Ray decided to get married. No one knows ______. They often fight with each other and are unhappy together.",
+"o": [
+"why",
+"where",
+"when",
+"how"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-1606"
+]
+},
+{
+"y": 106,
+"n": 9,
+"stem": "I don’t think Katie will read any one of the books you’ve picked out for her: ______ look(s) very boring.",
+"o": [
+"it",
+"one",
+"some",
+"they"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-1676"
+]
+},
+{
+"y": 106,
+"n": 10,
+"stem": "Jenny’s bag is very heavy because ______ filled with toy cars.",
+"o": [
+"it is",
+"they are",
+"there is",
+"there are"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-1666"
+]
+},
+{
+"y": 106,
+"n": 11,
+"stem": "______ a map with you when you go to a place for the first time.",
+"o": [
+"Have taken",
+"Take",
+"Taking",
+"To take"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-1420"
+]
+},
+{
+"y": 106,
+"n": 12,
+"stem": "The weather ______ rainy and cloudy in the last few days. I hope the sun will come out soon.",
+"o": [
+"has been",
+"had been",
+"will be",
+"would be"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-1659"
+]
+},
+{
+"y": 106,
+"n": 13,
+"stem": "All the excuses Nick made ______ a lot about how much he hates to do the job.",
+"o": [
+"say",
+"saying",
+"which say",
+"to say"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-1210"
+]
+},
+{
+"y": 106,
+"n": 15,
+"stem": "In the past, people thought it was a ______ idea to send e-mails and read news online, but now it is part of our everyday life.",
+"o": [
+"simple",
+"popular",
+"good",
+"fresh"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-0570"
+]
+},
+{
+"y": 107,
+"n": 1,
+"stem": "Look at the picture. The girl is ______ the clothes.",
+"o": [
+"making",
+"packing",
+"showing",
+"washing"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-1011"
+],
+"img": "img/gsat/parts/gsat_cap107.webp"
+},
+{
+"y": 107,
+"n": 2,
+"stem": "The ______ is so strong today that my hair keeps blowing in the air.",
+"o": [
+"rain",
+"snow",
+"sun",
+"wind"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1612"
+]
+},
+{
+"y": 107,
+"n": 3,
+"stem": "When the baby cried, Mr. Wu ______ in the kitchen and did not hear it.",
+"o": [
+"cooked",
+"was cooking",
+"has cooked",
+"is going to cook"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-0319"
+]
+},
+{
+"y": 107,
+"n": 4,
+"stem": "I don’t have any money with me because I ______ my wallet this morning.",
+"o": [
+"had lost",
+"would lose",
+"lost",
+"was losing"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-0829"
+]
+},
+{
+"y": 107,
+"n": 5,
+"stem": "You need not only good luck but also hard work to become a ______ baseball player.",
+"o": [
+"young",
+"successful",
+"happy",
+"friendly"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-1392"
+]
+},
+{
+"y": 107,
+"n": 6,
+"stem": "The woman who lives next door to Ken is a ______ to him. They have never met and he doesn’t even know her name.",
+"o": [
+"daughter",
+"friend",
+"stranger",
+"teacher"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-1380"
+]
+},
+{
+"y": 107,
+"n": 7,
+"stem": "With the new bus line, it is much more ______ for Fanny to go to school. It saves her a lot of time now.",
+"o": [
+"useful",
+"possible",
+"interesting",
+"convenient"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-0317"
+]
+},
+{
+"y": 107,
+"n": 8,
+"stem": "Dad: Have you brushed your teeth yet?\nAnn: No, but I ______ before I go to bed.",
+"o": [
+"haven’t",
+"have",
+"won’t",
+"will"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-1610"
+]
+},
+{
+"y": 107,
+"n": 9,
+"stem": "Alice: Do you know ______ Grandma is going to visit us?\nWilly: It’s next week. She told me on the phone. And we’ll take her to the national park.",
+"o": [
+"where",
+"when",
+"whether",
+"why"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-1597"
+]
+},
+{
+"y": 107,
+"n": 10,
+"stem": "It took the police lots of time ______ who entered Liu’s house and killed her one year ago.",
+"o": [
+"and found out",
+"find out",
+"finding out",
+"to find out"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-0528"
+]
+},
+{
+"y": 107,
+"n": 11,
+"stem": "Many famous people visit this restaurant. Popular singers like A-mei and Jay Chou ______ here with their friends.",
+"o": [
+"to be often seen",
+"often seen",
+"are often seen",
+"and are often seen"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-0987"
+]
+},
+{
+"y": 107,
+"n": 12,
+"stem": "The factory has been throwing trash into the river for years. Now ______ must be taken to stop this.",
+"o": [
+"action",
+"chances",
+"exercise",
+"notes"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0014"
+]
+},
+{
+"y": 107,
+"n": 13,
+"stem": "The beach party tonight ______ the end of our summer vacation. Tomorrow we are all going back home and getting ready for school.",
+"o": [
+"changes",
+"marks",
+"passes",
+"saves"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0853"
+]
+},
+{
+"y": 107,
+"n": 14,
+"stem": "Anyone who reads Loren’s business plan will quickly see some serious problems in it, or ______ feel something is not right.",
+"o": [
+"at least",
+"even",
+"in fact",
+"still"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"P-0099"
+]
+},
+{
+"y": 107,
+"n": 15,
+"stem": "I’ve wanted to read The Diary of a Young Girl for months, ______ today I finally borrowed the book from the library.",
+"o": [
+"and",
+"since",
+"so",
+"until"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0054"
+]
+},
+{
+"y": 108,
+"n": 1,
+"stem": "Look at the picture. The mother duck is ______ the baby ducks across the street.",
+"o": [
+"carrying",
+"leading",
+"pushing",
+"watching"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0793"
+],
+"img": "img/gsat/parts/gsat_cap108.webp"
+},
+{
+"y": 108,
+"n": 2,
+"stem": "Ms. Liu usually gives us a lot of homework, ______ she didn’t give us any today.",
+"o": [
+"but",
+"if",
+"or",
+"so"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0205"
+]
+},
+{
+"y": 108,
+"n": 3,
+"stem": "Playing games on the cellphone ______ popular with high school students.",
+"o": [
+"is",
+"are",
+"being",
+"to be"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-1070"
+]
+},
+{
+"y": 108,
+"n": 4,
+"stem": "There ______ more than twenty clubs in our school. Which one would you like to join?",
+"o": [
+"has",
+"have",
+"is",
+"are"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-1450"
+]
+},
+{
+"y": 108,
+"n": 5,
+"stem": "Diane had a bad cold last week. She is still too ______ to go mountain climbing with you.",
+"o": [
+"busy",
+"short",
+"weak",
+"young"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-1581"
+]
+},
+{
+"y": 108,
+"n": 6,
+"stem": "The book under Mary’s desk is ______, but I don’t know why it is there.",
+"o": [
+"us",
+"me",
+"my",
+"mine"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-0888"
+]
+},
+{
+"y": 108,
+"n": 7,
+"stem": "Last night a garbage truck hit a tree and turned over. Now the street is ______ with lots of garbage.",
+"o": [
+"dark",
+"dirty",
+"heavy",
+"poor"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0394"
+]
+},
+{
+"y": 108,
+"n": 8,
+"stem": "It almost killed Kevin to take care of his baby sister for one afternoon. He wondered how his mom could do ______ every day.",
+"o": [
+"her",
+"it",
+"one",
+"them"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-1666"
+]
+},
+{
+"y": 108,
+"n": 9,
+"stem": "Joyce tells her brother everything. She never ______ anything from him.",
+"o": [
+"covers",
+"believes",
+"hides",
+"takes"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-0675"
+]
+},
+{
+"y": 108,
+"n": 10,
+"stem": "Ben always uses his birthday as a(n) ______ to ask Dad to buy him something expensive.",
+"o": [
+"action",
+"excuse",
+"prize",
+"rule"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0487"
+]
+},
+{
+"y": 108,
+"n": 11,
+"stem": "______ that last piece of pie? If not, can I have it? I didn’t eat much this morning.",
+"o": [
+"Had you eaten",
+"Were you eating",
+"Do you eat",
+"Are you going to eat"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-0443"
+]
+},
+{
+"y": 108,
+"n": 12,
+"stem": "Everyone in the class enjoys playing chess ______ Bill; he thinks the game is boring.",
+"o": [
+"except",
+"for",
+"like",
+"of"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0483"
+]
+},
+{
+"y": 108,
+"n": 13,
+"stem": "In my school days, I ______ to English radio programs every day. That was how I learned English at that time.",
+"o": [
+"listen",
+"have listened",
+"used to listen",
+"was listening"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"JP-013"
+]
+},
+{
+"y": 108,
+"n": 14,
+"stem": "Tom’s voice ______ when he talks about his neighbors. He speaks faster, his face becomes redder and you can almost see fire in his eyes.",
+"o": [
+"appears",
+"drops",
+"grows",
+"rises"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1175"
+]
+},
+{
+"y": 108,
+"n": 15,
+"stem": "______ other waiters in the restaurant have worked here longer than Clark; only Lois and Lana started working here before him.",
+"o": [
+"All",
+"Most",
+"Some",
+"Few"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-0520"
+]
+},
+{
+"y": 109,
+"n": 1,
+"stem": "Look at the picture. The man is holding one of the ______.",
+"o": [
+"bowls",
+"glasses",
+"plates",
+"spoons"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0601"
+],
+"img": "img/gsat/parts/gsat_cap109.webp"
+},
+{
+"y": 109,
+"n": 2,
+"stem": "My mom puts the ______ on to keep her hands away from water when she washes the dishes.",
+"o": [
+"gloves",
+"jacket",
+"ring",
+"socks"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0603"
+]
+},
+{
+"y": 109,
+"n": 3,
+"stem": "Can you ______ your feet a little off the floor? I want to see if my keys are under the sofa.",
+"o": [
+"check",
+"kick",
+"raise",
+"show"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-1145"
+]
+},
+{
+"y": 109,
+"n": 4,
+"stem": "______ of my sisters are older than I am. I’m the youngest of the three children in my family.",
+"o": [
+"Both",
+"Few",
+"Most",
+"Some"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0176"
+]
+},
+{
+"y": 109,
+"n": 5,
+"stem": "The beach near our town is a very ______ place. Every summer at least one kid dies there in the water.",
+"o": [
+"dangerous",
+"exciting",
+"lonely",
+"popular"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0354"
+]
+},
+{
+"y": 109,
+"n": 6,
+"stem": "My wife enjoys going to the movies with her friends, but I like to watch TV at home by ______.",
+"o": [
+"I",
+"me",
+"myself",
+"mine"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-1671"
+]
+},
+{
+"y": 109,
+"n": 7,
+"stem": "For the past twenty years, my father ______ in a school library. But he’ll leave the job next month.",
+"o": [
+"worked",
+"has worked",
+"is working",
+"works"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-1630"
+]
+},
+{
+"y": 109,
+"n": 8,
+"stem": "It’s great that we can buy train tickets over the phone without going out. It ______ us a lot of time.",
+"o": [
+"lends",
+"prepares",
+"saves",
+"takes"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-1209"
+]
+},
+{
+"y": 109,
+"n": 9,
+"stem": "Mozart ______ his first music when he was only six years old.",
+"o": [
+"is writing",
+"has written",
+"will write",
+"wrote"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-1638"
+]
+},
+{
+"y": 109,
+"n": 10,
+"stem": "Jill: Have you decided ______ you will celebrate your 30th birthday?\nSue: Yeah, I’m going to have a big barbecue party.",
+"o": [
+"how",
+"where",
+"what",
+"when"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0703"
+]
+},
+{
+"y": 109,
+"n": 11,
+"stem": "Alison doesn’t like ______ what to do. She only does things she wants to do.",
+"o": [
+"told",
+"to tell",
+"be told",
+"to be told"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-1435"
+]
+},
+{
+"y": 109,
+"n": 12,
+"stem": "Josh has planned to make a trip to New York and ______ some of his friends there.",
+"o": [
+"visit",
+"visits",
+"visiting",
+"visited"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-1559"
+]
+},
+{
+"y": 109,
+"n": 13,
+"stem": "Ms. Johnson has been taking phone calls since she entered the office this morning. Just when she thought she could finally leave work, ______ call came in.",
+"o": [
+"another",
+"each",
+"the next",
+"the other"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0060"
+]
+},
+{
+"y": 109,
+"n": 14,
+"stem": "We were so sure that Jerry ______ well on the difficult job. His past experience in other work showed he was the right guy for it. So when he failed, no one believed it.",
+"o": [
+"had done",
+"did",
+"has done",
+"would do"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-1656"
+]
+},
+{
+"y": 109,
+"n": 15,
+"stem": "For Mike, the price is ______ important thing when he shops for jeans. He cares even more about the shape and the size of the pockets.",
+"o": [
+"the more",
+"the most",
+"the less",
+"the least"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-0797"
+]
+},
+{
+"y": 110,
+"n": 1,
+"stem": "In the picture, the boy is ______ the old man.",
+"o": [
+"smiling at",
+"dancing with",
+"cheering for",
+"bowing to"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-0180"
+],
+"img": "img/gsat/parts/gsat_cap110.webp"
+},
+{
+"y": 110,
+"n": 2,
+"stem": "Listen! The baby ______ in the bedroom. Why don’t you go in and take a look?",
+"o": [
+"cried",
+"cries",
+"is crying",
+"will cry"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-0345"
+]
+},
+{
+"y": 110,
+"n": 3,
+"stem": "Jill is ______ that the city park is closed for the music festival because now she can’t jog there.",
+"o": [
+"excited",
+"proud",
+"scared",
+"unhappy"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"TO-0207"
+]
+},
+{
+"y": 110,
+"n": 4,
+"stem": "Steven wants to be a ______, because he loves to watch people enjoy the food he prepares.",
+"o": [
+"cook",
+"doctor",
+"driver",
+"farmer"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0319"
+]
+},
+{
+"y": 110,
+"n": 5,
+"stem": "Paul misses his parents a lot. He ______ them since he came to work in Taiwan a year ago.",
+"o": [
+"didn’t see",
+"doesn’t see",
+"hasn’t seen",
+"won’t see"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-1228"
+]
+},
+{
+"y": 110,
+"n": 6,
+"stem": "Our teacher Ms. Wu seldom laughs, but when she ______, everyone in the same building can hear her.",
+"o": [
+"can",
+"does",
+"has",
+"will"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-1656"
+]
+},
+{
+"y": 110,
+"n": 7,
+"stem": "My sister is coming to my home today. She ______ with me for a week.",
+"o": [
+"stays",
+"stayed",
+"has stayed",
+"will stay"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-1368"
+]
+},
+{
+"y": 110,
+"n": 8,
+"stem": "Edward had worked as a computer engineer for ten years. This ______ helped him a lot when he started his own computer shop.",
+"o": [
+"chance",
+"experience",
+"hobby",
+"knowledge"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0492"
+]
+},
+{
+"y": 110,
+"n": 9,
+"stem": "If you’re interested in our business plan, ______ this number and ask for Ms. Lee. She’ll answer your questions.",
+"o": [
+"calling",
+"call",
+"and call",
+"to call"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-0215"
+]
+},
+{
+"y": 110,
+"n": 10,
+"stem": "Jimmy would not get up for breakfast, ______ his dad had already tried to pull him from his bed several times.",
+"o": [
+"although",
+"because",
+"if",
+"until"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0047"
+]
+},
+{
+"y": 110,
+"n": 11,
+"stem": "Duncan spent all his money trying to ______ the bookstore his mom left him. Sadly, the business never got better, and he had to close it in the end.",
+"o": [
+"build",
+"buy",
+"save",
+"start"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-1209"
+]
+},
+{
+"y": 110,
+"n": 12,
+"stem": "Fiona loves listening to her children sing songs ______ at school.",
+"o": [
+"are learned",
+"that learned",
+"they learned",
+"that they are learned"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-0796"
+]
+},
+{
+"y": 110,
+"n": 13,
+"stem": "Beverly eats lots of snacks ______ meals. That’s why she is often too full to eat anything at mealtimes.",
+"o": [
+"after",
+"between",
+"during",
+"from"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-0147"
+]
+},
+{
+"y": 110,
+"n": 14,
+"stem": "Nora: Can I check your drawer for some tools we can use?\nMatt: Sure. Take a look. See if you can find ______ in there.",
+"o": [
+"any",
+"it",
+"others",
+"those"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0063"
+]
+},
+{
+"y": 111,
+"n": 1,
+"stem": "Look at the picture. The woman is putting ______ on the cake.",
+"o": [
+"candles",
+"forks",
+"plates",
+"strawberries"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0222"
+],
+"img": "img/gsat/parts/gsat_cap111.webp"
+},
+{
+"y": 111,
+"n": 2,
+"stem": "The movie starts at two o’clock, ______ let’s meet at the theater at one forty-five.",
+"o": [
+"so",
+"or",
+"if",
+"because"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-1318"
+]
+},
+{
+"y": 111,
+"n": 3,
+"stem": "Peter is afraid of the dark. He even leaves the ______ on when sleeping.",
+"o": [
+"computer",
+"fans",
+"lights",
+"music"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-0813"
+]
+},
+{
+"y": 111,
+"n": 4,
+"stem": "Pam is a ______ baseball player; she has more fans than any other player on her team.",
+"o": [
+"boring",
+"heavy",
+"popular",
+"rich"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-1089"
+]
+},
+{
+"y": 111,
+"n": 5,
+"stem": "I did not do my homework, so my teacher said I ______ stay after school to finish it.",
+"o": [
+"failed to",
+"had to",
+"hoped to",
+"used to"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"JP-005"
+]
+},
+{
+"y": 111,
+"n": 6,
+"stem": "Kevin has only enough money for the bag or the shoes. That is a hard ______ to make because he likes them both.",
+"o": [
+"choice",
+"gift",
+"rule",
+"trick"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0269"
+]
+},
+{
+"y": 111,
+"n": 7,
+"stem": "It was ______ for us to answer the math question because we’ve done the same kind of questions many times.",
+"o": [
+"common",
+"easy",
+"safe",
+"special"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0442"
+]
+},
+{
+"y": 111,
+"n": 8,
+"stem": "Although it took me lots of time ______ a big meal for ten people, I was happy that everyone enjoyed it.",
+"o": [
+"prepare",
+"to prepare",
+"preparing",
+"prepared"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-1102"
+]
+},
+{
+"y": 111,
+"n": 9,
+"stem": "Don’t let the children swim in the river. We don’t know how ______ it is. It could be dangerous.",
+"o": [
+"deep",
+"far",
+"long",
+"thick"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0367"
+]
+},
+{
+"y": 111,
+"n": 10,
+"stem": "Bob is ______ of the boys in the family. He never does any housework. His brothers at least take out the garbage sometimes.",
+"o": [
+"lazier",
+"the lazy",
+"the lazier",
+"the laziest"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-0792"
+]
+},
+{
+"y": 111,
+"n": 11,
+"stem": "Aunt Gina has lived in this town for more than sixty years, so she ______ it very well.",
+"o": [
+"will know",
+"knew",
+"knows",
+"was going to know"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-0773"
+]
+},
+{
+"y": 111,
+"n": 12,
+"stem": "We won’t see the sun even after the typhoon leaves, because the news said that heavier rain will soon ______.",
+"o": [
+"catch",
+"follow",
+"move",
+"stop"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0546"
+]
+},
+{
+"y": 111,
+"n": 13,
+"stem": "Yesterday when I got home from work, my brother ______ for dinner, so he invited me to join him.",
+"o": [
+"goes out",
+"went out",
+"has gone out",
+"was going out"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-0605"
+]
+},
+{
+"y": 111,
+"n": 14,
+"stem": "You were ______ not to lend Amy money. She never gives back what she borrows.",
+"o": [
+"crazy",
+"helpful",
+"wise",
+"wrong"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-1618"
+]
+},
+{
+"y": 111,
+"n": 15,
+"stem": "Have you found a summer job yet? Mr. Firth ______ someone to take care of his kids during the vacation. Maybe you can talk to him.",
+"o": [
+"has looked for",
+"is looking for",
+"looks for",
+"was looking for"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-0828"
+]
+},
+{
+"y": 111,
+"n": 16,
+"stem": "David looked out of the balcony window and saw a woman get in his car ______ away.",
+"o": [
+"drive",
+"drove",
+"and drive",
+"and drove"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-0421"
+]
+},
+{
+"y": 111,
+"n": 17,
+"stem": "The police haven’t found the little girl who ______ at a supermarket. They’ll keep doing all they can to find her.",
+"o": [
+"took away",
+"taken away",
+"has taken away",
+"was taken away"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-1420"
+]
+},
+{
+"y": 111,
+"n": 18,
+"stem": "Buses to the airport only come once every hour, and we just missed ______. Why don’t we take a taxi?",
+"o": [
+"another",
+"it",
+"one",
+"them"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-0993"
+]
+},
+{
+"y": 111,
+"n": 19,
+"stem": "Ariel ______ every night for a week before her Chinese test and got a very good grade.",
+"o": [
+"studied",
+"studies",
+"has studied",
+"was going to study"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-1386"
+]
+},
+{
+"y": 111,
+"n": 20,
+"stem": "While reading this story, Brad saw the word “trolling” and didn’t know what it meant.\nJosh turned off the screen and sat back. “Why are they trolling me like this?” He didn’t understand. They wanted him to share what he thought about the show, and he did. And now look what he got. In the end, all they wanted was nice words.\nHe found several meanings of the word in a dictionary. Which one should Brad choose?",
+"o": [
+"To celebrate in song.",
+"To make someone or something move around.",
+"To pull a fishing line through the water, often from a boat.",
+"To write something on the Internet to hurt someone or make them angry."
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1638"
+]
+},
+{
+"y": 112,
+"n": 1,
+"stem": "Look at the picture. The man is holding a ______ of grapes in his hands.",
+"o": [
+"bag",
+"basket",
+"bowl",
+"box"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0114"
+],
+"img": "img/gsat/parts/gsat_cap112.webp"
+},
+{
+"y": 112,
+"n": 2,
+"stem": "Dennis enjoys ______ in public. He is proud of his beautiful voice.",
+"o": [
+"dancing",
+"drawing",
+"shopping",
+"singing"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1287"
+]
+},
+{
+"y": 112,
+"n": 3,
+"stem": "Mrs. Johnson can’t hear very well. If you need to talk to her, you must ______.",
+"o": [
+"explain",
+"hurry",
+"listen",
+"shout"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1271"
+]
+},
+{
+"y": 112,
+"n": 4,
+"stem": "People got very excited when they watched Ms. Smith ______ at the party.",
+"o": [
+"danced",
+"dancing",
+"has danced",
+"to dance"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-0352"
+]
+},
+{
+"y": 112,
+"n": 5,
+"stem": "I tried on these shoes in several different ______, and I thought the white pair looked best on me.",
+"o": [
+"colors",
+"prices",
+"shapes",
+"sizes"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0301"
+]
+},
+{
+"y": 112,
+"n": 6,
+"stem": "Rex did not feel the earthquake this morning. He ______ in the park at the time.",
+"o": [
+"jogged",
+"was jogging",
+"has jogged",
+"would jog"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-0747"
+]
+},
+{
+"y": 112,
+"n": 7,
+"stem": "Mr. Lee has worked in the same store for ten years; he’s never thought about ______ his job.",
+"o": [
+"changing",
+"finding",
+"remembering",
+"starting"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0250"
+]
+},
+{
+"y": 112,
+"n": 8,
+"stem": "I didn’t take the bus today because it was ______. All the seats were taken and a lot of students were standing.",
+"o": [
+"dirty",
+"fast",
+"full",
+"wrong"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-0583"
+]
+},
+{
+"y": 112,
+"n": 9,
+"stem": "Don’t go away when you’re cooking, ______ the food might burn.",
+"o": [
+"but",
+"if",
+"or",
+"so"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-0997"
+]
+},
+{
+"y": 112,
+"n": 10,
+"stem": "Jerry wanted to know ______ he was kicked off the soccer team, but no one gave him a good reason.",
+"o": [
+"where",
+"when",
+"whether",
+"why"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-1606"
+]
+},
+{
+"y": 112,
+"n": 11,
+"stem": "Jenny is already forty, doesn’t have a job and often makes trouble for her parents. To them, she is really a(n) ______.",
+"o": [
+"daughter",
+"example",
+"gift",
+"headache"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-0658"
+]
+},
+{
+"y": 112,
+"n": 12,
+"stem": "Ed and Jill ______ camping this weekend, so they have to finish their homework by Friday.",
+"o": [
+"went",
+"were going",
+"are going",
+"have gone"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-0605"
+]
+},
+{
+"y": 112,
+"n": 13,
+"stem": "Doraemon, a blue Japanese robot cat, has hated mice since his ears ______ by a mouse.",
+"o": [
+"bit",
+"bite",
+"were bitten",
+"have bitten"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-0155"
+]
+},
+{
+"y": 112,
+"n": 14,
+"stem": "If we play some interesting games in class, there ______ more fun in learning English.",
+"o": [
+"are",
+"has",
+"will be",
+"will have"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-1450"
+]
+},
+{
+"y": 112,
+"n": 15,
+"stem": "The ______ of this shop was so bad; I never got any answer after I emailed them my questions.",
+"o": [
+"item",
+"business",
+"price",
+"service"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1244"
+]
+},
+{
+"y": 112,
+"n": 16,
+"stem": "It’s not easy to see those islands clearly from here on sunny days, and it’s even less ______ to see them on cloudy days.",
+"o": [
+"difficult",
+"lucky",
+"possible",
+"special"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-1092"
+]
+},
+{
+"y": 112,
+"n": 17,
+"stem": "Do you remember the CD I was looking for for months? I ______ found it in a small shop. Look, here it is!",
+"o": [
+"almost",
+"even",
+"finally",
+"still"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-0527"
+]
+},
+{
+"y": 112,
+"n": 18,
+"stem": "Business at Jane’s shop has not been good these days. And the new supermarket across the street only makes things ______.",
+"o": [
+"easier",
+"worse",
+"more boring",
+"more convenient"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0097"
+]
+},
+{
+"y": 112,
+"n": 19,
+"stem": "Scott wasn’t sure if the young woman before him was ______ pulled him out of a car on fire.",
+"o": [
+"who",
+"the one",
+"the one she",
+"the one who"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-0993"
+]
+},
+{
+"y": 112,
+"n": 20,
+"stem": "I ______ swimming for several years before I went to this high school. I gave it up because of heavy schoolwork.",
+"o": [
+"have practiced",
+"am practicing",
+"practiced",
+"would practice"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-1099"
+]
+},
+{
+"y": 112,
+"n": 21,
+"stem": "Frank Kane is so good in the movie that many people ______ he will win the best actor prize.",
+"o": [
+"expect",
+"forget",
+"notice",
+"plan"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"T-0104"
+]
+},
+{
+"y": 112,
+"n": 22,
+"stem": "The new medicine that just came out on the market ______ thousands of lives.",
+"o": [
+"and saved",
+"has saved",
+"saving",
+"to save"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-1209"
+]
+},
+{
+"y": 112,
+"n": 23,
+"stem": "Now I often think of those days with Pip, my pet dog. When I read in my room, he ______ quietly beside me.",
+"o": [
+"will come and sit",
+"comes and sits",
+"has come and sat",
+"used to come and sit"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"JP-013"
+]
+},
+{
+"y": 113,
+"n": 1,
+"stem": "Look at the picture. There is ______ under the door.",
+"o": [
+"an envelope",
+"a plant",
+"a sign",
+"an umbrella"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0466"
+],
+"img": "img/gsat/parts/gsat_cap113.webp"
+},
+{
+"y": 113,
+"n": 2,
+"stem": "My ______ hurts so much that I cannot even turn my head.",
+"o": [
+"arm",
+"knee",
+"neck",
+"stomach"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-0936"
+]
+},
+{
+"y": 113,
+"n": 3,
+"stem": "Our school basketball team won the national game last night. We are so ______ them.",
+"o": [
+"popular with",
+"proud of",
+"sorry for",
+"worried about"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-1119"
+]
+},
+{
+"y": 113,
+"n": 4,
+"stem": "Tomorrow is Sam’s last day in the office. Nobody knows why he decided to ______.",
+"o": [
+"hide",
+"leave",
+"pack",
+"walk"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0798"
+]
+},
+{
+"y": 113,
+"n": 5,
+"stem": "It’s not a good idea to go mountain climbing in this bad ______. We should wait until the typhoon goes away.",
+"o": [
+"chance",
+"dream",
+"habit",
+"weather"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1583"
+]
+},
+{
+"y": 113,
+"n": 6,
+"stem": "Chris loves walking with Anna on snowy days, but Anna hates ______ very much.",
+"o": [
+"them",
+"so",
+"one",
+"it"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-1666"
+]
+},
+{
+"y": 113,
+"n": 7,
+"stem": "Lora likes to eat bananas that are already a little brown on the outside, and so ______ I.",
+"o": [
+"am",
+"do",
+"have",
+"will"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-1656"
+]
+},
+{
+"y": 113,
+"n": 8,
+"stem": "Your refrigerator shouldn’t be making loud noises now, but if it ______ does, just give me a call and I’ll come check it again.",
+"o": [
+"already",
+"even",
+"finally",
+"still"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1371"
+]
+},
+{
+"y": 113,
+"n": 9,
+"stem": "After winning money in the card game, Jay decided to try again. He felt that he might also be ______ a second time.",
+"o": [
+"famous",
+"interested",
+"lucky",
+"ready"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-0834"
+]
+},
+{
+"y": 113,
+"n": 10,
+"stem": "The knife doesn’t cut very well. It’s not as ______ as before.",
+"o": [
+"bright",
+"heavy",
+"quick",
+"sharp"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1255"
+]
+},
+{
+"y": 113,
+"n": 11,
+"stem": "John will stay with his sister until he ______ an apartment.",
+"o": [
+"will find",
+"would find",
+"finds",
+"found"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-0528"
+]
+},
+{
+"y": 113,
+"n": 12,
+"stem": "Students ______ to go on the school trip should ask their parents first.",
+"o": [
+"who want",
+"want",
+"who they want",
+"what they want"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-1603"
+]
+},
+{
+"y": 113,
+"n": 13,
+"stem": "The temple sits alone in the mountains at a height of 3,000m ______ sea level.",
+"o": [
+"above",
+"at",
+"below",
+"in"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0007"
+]
+},
+{
+"y": 113,
+"n": 14,
+"stem": "Patty spent several days planning to invite Charlie to dinner, ______ she couldn’t say a word when they met.",
+"o": [
+"but",
+"if",
+"or",
+"so"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0205"
+]
+},
+{
+"y": 113,
+"n": 15,
+"stem": "I can’t tell you what I think of the movie because I ______ it. I’ll probably watch it this Saturday.",
+"o": [
+"am not seeing",
+"don’t see",
+"haven’t seen",
+"won’t see"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-1228"
+]
+},
+{
+"y": 113,
+"n": 16,
+"stem": "The new guy at the help desk answers calls like a ______. There are no ups and downs in his voice and you can’t tell if he is happy or sad.",
+"o": [
+"father",
+"foreigner",
+"radio",
+"robot"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1178"
+]
+},
+{
+"y": 113,
+"n": 17,
+"stem": "Jasmine planned to spend her summer in the country, but right after she got there, she started to ______ the noise in the city.",
+"o": [
+"enjoy",
+"mind",
+"miss",
+"notice"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-0892"
+]
+},
+{
+"y": 113,
+"n": 18,
+"stem": "“Bad traffic” is perhaps the ______ excuse for being late when your boss knows it only takes you five minutes to walk to work.",
+"o": [
+"easiest",
+"oldest",
+"smartest",
+"worst"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-0097"
+]
+},
+{
+"y": 113,
+"n": 19,
+"stem": "The housework in Mr. and Mrs. Wang’s family ______ between them and their kids. Everyone’s got their own job to do.",
+"o": [
+"is shared",
+"are shared",
+"shares",
+"share"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-1253"
+]
+},
+{
+"y": 113,
+"n": 20,
+"stem": "I want to find another dentist because ______ pulled out a good tooth last time I went to him.",
+"o": [
+"I",
+"me",
+"mine",
+"myself"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-0888"
+]
+},
+{
+"y": 113,
+"n": 21,
+"stem": "Mom: Linda, you’ve been playing computer games all evening! Have you finished your report?\nLinda: Well, ______ most of it this afternoon, and I’ll finish it by Friday.",
+"o": [
+"I would do",
+"I did",
+"I was doing",
+"I’ll do"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-1656"
+]
+},
+{
+"y": 114,
+"n": 1,
+"stem": "Look at the picture. A ______ is flying over the houses.",
+"o": [
+"bird",
+"butterfly",
+"kite",
+"plane"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1065"
+],
+"img": "img/gsat/parts/gsat_cap114.webp"
+},
+{
+"y": 114,
+"n": 2,
+"stem": "When I was a teenager, I was very ______. But now, it’s easier for me to talk to people.",
+"o": [
+"happy",
+"lazy",
+"popular",
+"shy"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1275"
+]
+},
+{
+"y": 114,
+"n": 3,
+"stem": "Lena doesn’t want to go ______ with John because she is afraid of water.",
+"o": [
+"dancing",
+"hiking",
+"sailing",
+"shopping"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-1199"
+]
+},
+{
+"y": 114,
+"n": 4,
+"stem": "Cindy enjoys ______ her dad read stories to her before bed.",
+"o": [
+"to listen to",
+"listening to",
+"listen to",
+"listens to"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"JP-143"
+]
+},
+{
+"y": 114,
+"n": 5,
+"stem": "Dad is busy cooking in the kitchen. Dinner will be ______ in ten minutes.",
+"o": [
+"free",
+"full",
+"medium",
+"ready"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1151"
+]
+},
+{
+"y": 114,
+"n": 6,
+"stem": "There are so many new ______ in the office. It’ll take me some time to remember who is who.",
+"o": [
+"faces",
+"ideas",
+"rules",
+"tools"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0495"
+]
+},
+{
+"y": 114,
+"n": 7,
+"stem": "I feel like a ______. I was looking for my keys for hours but they have been in my pocket the whole time.",
+"o": [
+"fool",
+"ghost",
+"king",
+"stranger"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0548"
+]
+},
+{
+"y": 114,
+"n": 8,
+"stem": "Mr. and Mrs. Wu have three daughters. Two are in high school, and ______ is in elementary school.",
+"o": [
+"each",
+"the other",
+"the one",
+"the next"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-1000"
+]
+},
+{
+"y": 114,
+"n": 9,
+"stem": "It is hard for trees to ______ along this beach because of the strong winds from the sea.",
+"o": [
+"blow",
+"build",
+"follow",
+"grow"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-0630"
+]
+},
+{
+"y": 114,
+"n": 10,
+"stem": "Christmas ______ and I want to visit my aunt abroad. Do you have any plans yet?",
+"o": [
+"came",
+"comes",
+"is coming",
+"was coming"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-0303"
+]
+},
+{
+"y": 114,
+"n": 11,
+"stem": "Jo won’t be happy if you’re late for his party tonight, so ______ sure that you arrive on time.",
+"o": [
+"make",
+"makes",
+"to make",
+"is making"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0845"
+]
+},
+{
+"y": 114,
+"n": 12,
+"stem": "You may have a long drive because of the terrible ______. There are usually a lot of cars and buses during this time.",
+"o": [
+"experience",
+"machine",
+"service",
+"traffic"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1508"
+]
+},
+{
+"y": 114,
+"n": 13,
+"stem": "In the future, there will ______ be greater basketball players than Stephen Curry, but now we believe he is the best!",
+"o": [
+"again",
+"already",
+"never",
+"perhaps"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1043"
+]
+},
+{
+"y": 114,
+"n": 14,
+"stem": "I guess the rainwater has come in from the kitchen. See? ______ of the windows are closed except the one in the kitchen.",
+"o": [
+"All",
+"Both",
+"Most",
+"Some"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0039"
+]
+},
+{
+"y": 114,
+"n": 15,
+"stem": "______ machines have been used to pick fruits for a long time, they were not used on strawberry farms until several years ago.",
+"o": [
+"Although",
+"Because",
+"Before",
+"If"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0047"
+]
+},
+{
+"y": 114,
+"n": 16,
+"stem": "There are online videos that teach you exercises you can do at home. They’ll ______ you a trip to the gym, and some money too.",
+"o": [
+"cost",
+"give",
+"keep",
+"save"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1209"
+]
+},
+{
+"y": 114,
+"n": 17,
+"stem": "Jane’s parents are always happy to see their grandchildren, but mine ______ less so when I visit them with my kids.",
+"o": [
+"is",
+"are",
+"do",
+"does"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-0888"
+]
+},
+{
+"y": 114,
+"n": 18,
+"stem": "Before she ______ about it, you should tell Daphne you broke her favorite cup.",
+"o": [
+"asks",
+"asked",
+"was asking",
+"will ask"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0083"
+]
+},
+{
+"y": 114,
+"n": 19,
+"stem": "It was very windy this morning. Some of the shirts on the balcony were blown away ______ in the pond.",
+"o": [
+"fell",
+"and fell",
+"fallen",
+"and fallen"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-0500"
+]
+},
+{
+"y": 115,
+"n": 1,
+"stem": "Look at the picture. All of the students who are exercising are wearing ______.",
+"o": [
+"caps",
+"glasses",
+"jackets",
+"pants"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0602"
+],
+"img": "img/gsat/parts/gsat_cap115.webp"
+},
+{
+"y": 115,
+"n": 2,
+"stem": "Rita ______ her dogs many times a day. That’s why they’re too fat.",
+"o": [
+"feeds",
+"kisses",
+"walks",
+"washes"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0515"
+]
+},
+{
+"y": 115,
+"n": 3,
+"stem": "You can ask Sophia anything about butterflies and bees. She has great ______ of insects.",
+"o": [
+"chances",
+"knowledge",
+"news",
+"power"
+],
+"a": 1,
+"type": "vocab",
+"ids": [
+"J-0774"
+]
+},
+{
+"y": 115,
+"n": 4,
+"stem": "Adam slept ______ last night because he kept waking up from bad dreams.",
+"o": [
+"deeply",
+"early",
+"terribly",
+"quickly"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-1440"
+]
+},
+{
+"y": 115,
+"n": 5,
+"stem": "Tara enjoys being with all kinds of animals; she even ______ a snake as a pet.",
+"o": [
+"drops",
+"gives",
+"keeps",
+"makes"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-0758"
+]
+},
+{
+"y": 115,
+"n": 6,
+"stem": "Little Eric chose the doll ______ big brown eyes because it was the cutest in the store.",
+"o": [
+"at",
+"in",
+"on",
+"with"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-1620"
+]
+},
+{
+"y": 115,
+"n": 7,
+"stem": "After four hours of mountain climbing, Rosa’s legs got ______, so she took a rest on the top of the mountain.",
+"o": [
+"dirty",
+"sick",
+"sore",
+"strong"
+],
+"a": 2,
+"type": "vocab",
+"ids": [
+"J-1339"
+]
+},
+{
+"y": 115,
+"n": 8,
+"stem": "Having three cups of coffee a day can’t be bad for our health, ______?",
+"o": [
+"can it",
+"can they",
+"is it",
+"are they"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0219"
+]
+},
+{
+"y": 115,
+"n": 9,
+"stem": "You can’t push that door open with only one hand. It’s too heavy. You have to use ______!",
+"o": [
+"all",
+"another",
+"both",
+"one"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-0176"
+]
+},
+{
+"y": 115,
+"n": 10,
+"stem": "Alan works hard in his new job, and he wants to know ______ his boss feels about him.",
+"o": [
+"how",
+"that",
+"whether",
+"why"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0703"
+]
+},
+{
+"y": 115,
+"n": 11,
+"stem": "I thought the girl ______ was Kate, but it was her sister, Candy. They sounded almost the same.",
+"o": [
+"answered the phone",
+"she answered the phone",
+"who answered the phone",
+"and answered the phone"
+],
+"a": 2,
+"type": "grammar",
+"ids": [
+"J-1603"
+]
+},
+{
+"y": 115,
+"n": 12,
+"stem": "Ken is going abroad with a woman he met online, though he doesn’t know ______ well.",
+"o": [
+"her",
+"each other",
+"any",
+"another"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-1661"
+]
+},
+{
+"y": 115,
+"n": 13,
+"stem": "Joe is happy he is not at the ______ of the class now. His grades are better than half of his classmates’ this school year.",
+"o": [
+"side",
+"front",
+"center",
+"bottom"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-0179"
+]
+},
+{
+"y": 115,
+"n": 14,
+"stem": "Look! There is not a cloud in the sky. I think the chances of getting some rain today are really ______.",
+"o": [
+"far",
+"good",
+"possible",
+"small"
+],
+"a": 3,
+"type": "vocab",
+"ids": [
+"J-1307"
+]
+},
+{
+"y": 115,
+"n": 15,
+"stem": "On windy days, the flowers in my garden ______ like shy children with their heads down.",
+"o": [
+"bow",
+"fall",
+"rise",
+"smell"
+],
+"a": 0,
+"type": "vocab",
+"ids": [
+"J-0180"
+]
+},
+{
+"y": 115,
+"n": 16,
+"stem": "Mr. Olson went to the doctor when he found he ______ his hair. He hoped he would be able to keep his thick hair.",
+"o": [
+"was losing",
+"is losing",
+"will lose",
+"has lost"
+],
+"a": 0,
+"type": "grammar",
+"ids": [
+"J-0829"
+]
+},
+{
+"y": 115,
+"n": 17,
+"stem": "Do you know what Lindsey’s first job was? Before becoming a movie star, she ______ the floors at the supermarket.",
+"o": [
+"mops",
+"is mopping",
+"has mopped",
+"mopped"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-0903"
+]
+},
+{
+"y": 115,
+"n": 18,
+"stem": "Our dog Lassie hides under the bed every time the moon comes out. She has been ______ for years, but we don’t know why.",
+"o": [
+"it",
+"like this",
+"like us",
+"that"
+],
+"a": 1,
+"type": "grammar",
+"ids": [
+"J-0814"
+]
+},
+{
+"y": 115,
+"n": 19,
+"stem": "Tom: Sam, could you help me in the kitchen now?\nSam: No, I ______ TV. It’s the most important game of the season.",
+"o": [
+"watch",
+"watched",
+"have watched",
+"am watching"
+],
+"a": 3,
+"type": "grammar",
+"ids": [
+"J-1575"
+]
+}
+]

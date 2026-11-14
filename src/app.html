@@ -335,7 +335,7 @@ const RAW = /*__DATA__*/[];
 const READ = /*__READ__*/[];
 const JHPOOL = /*__JH__*/[];
 const TB = /*__TB__*/null;
-const CAPD = /*__CAPD__*/{};  // 國中會考字彙題：{單字編號: [3 個複核過的錯誤選項]}
+const CAPQ = /*__CAPQ__*/[];  // 國中教育會考英語單題真題 {y,n,stem,o[4],a,type,ids[]}
 const GR = /*__GR__*/[];  // 課本文法卡 {id,b,l,title,formula,points[],examples[{en,zh,hl[]}],tip,qs[{type,s,o[4],a,ex}]}
 const KK = /*__KK__*/{};  // KK 音標 {單字 id: '[...]'}
 const TT = /*__TT__*/null;  // 多益：{ids: 多益常見的既有字 id, groups: {新字 id: 情境}}
@@ -424,7 +424,7 @@ function qTypeFor(w){
   const s=star(w), sent=simpleSentence(w);
   if(s<=1)return 'en2zh';
   if(isPh(w))return s===2||!sent?'zh2en':'ctxmc'; // 片語不考拼字
-  if(w.lv===9&&s>=2&&capKind(w)&&Math.random()<.4)return 'cap';   // 國中基礎站：會考題型
+  if(s>=2&&CAPBY[w.id]&&Math.random()<.5)return 'cap';   // 這個字考過國中會考：出會考真題
   if(s>=3&&FAM[w.id]&&FAM[w.id][1]&&Math.random()<.35)return 'form'; // 填入正確詞性
   if(s===2)return sent&&Math.random()<.5?'ctxmc':'zh2en';
   if(w.lv>=6&&w.lv!==9)return sent?'ctxmc':'zh2en';   // 第六、七級不考拼字
@@ -433,14 +433,8 @@ function qTypeFor(w){
   return w.exam?'examcloze':(sent?'cloze':'spell');
 }
 function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
-// 會考題型（國中基礎站）：A. 字義題：例句裡是原形，四個同詞性的國中字；B. 詞形題：例句裡是規則動詞過去式，選項是同一字的四種形式
-function rforms(b){const y=/[^aeiou]y$/.test(b),e=/[^e]e$/.test(b),d=/^[^aeiou]*[aeiou][bdgmnprt]$/.test(b);
-  return [b,/(s|x|z|ch|sh)$/.test(b)?b+'es':y?b.slice(0,-1)+'ies':b+'s',e?b+'d':y?b.slice(0,-1)+'ied':d?b+b.slice(-1)+'ed':b+'ed',/ie$/.test(b)?b.slice(0,-2)+'ying':e?b.slice(0,-1)+'ing':d?b+b.slice(-1)+'ing':b+'ing'];}
-const CAPF=new Set(["J-0111", "J-0167", "J-0200", "J-0220", "J-0276", "J-0329", "J-0335", "J-0384", "J-0423", "J-0498", "J-0531", "J-0538", "J-0651", "J-0725", "J-0754", "J-0761", "J-0767", "J-0772", "J-0788", "J-0796", "J-0959", "J-1029", "J-1126", "J-1161", "J-1191", "J-1253", "J-1271", "J-1272", "J-1310", "J-1559", "J-1575"]);
-function capKind(w){if(!w.ex||isPh(w)||/[^a-z]/.test(w.word))return null;const t=w.ex[2].toLowerCase();
-  if(t===w.word&&CAPD[w.id])return 'word';   // 只出有「逐題挑選並複核過」固定錯誤選項的字   // 字彙題只出名詞、動詞（形容詞放進句子常常互換也通）
-  if(CAPF.has(w.id)&&rforms(w.word)[2]===t)return 'form';   // 只用句中有明確過去線索（時間詞、when 子句、被動、完成式）的句子，避免現在式也說得通
-  return null;}
+// 國中教育會考真題（單題：字彙、文法）：CAPQ 由 build.js 內嵌，對應到本站單字；不放原創題
+const CAPBY={};CAPQ.forEach(q=>(q.ids||[]).forEach(id=>(CAPBY[id]=CAPBY[id]||[]).push(q)));
 function distractors(w,n=3){
   const p=mainPos(w);
   let pool=W.filter(x=>x.lv===w.lv&&x!==w&&mainPos(x)===p&&x.zh!==w.zh);
@@ -820,18 +814,16 @@ function learnCard(it){
 function ask(it){
   const w=it.w; const type=it.fresh?'en2zh':(it.retry?'en2zh':qTypeFor(w));
   const s=star(w);
-  const label={en2zh:'選出中文意思',zh2en:isPh(w)?'選出英文片語':'選出英文單字',ctxmc:isPh(w)?'選出最適合填入句子的片語':'選出最適合填入句子的字',spell:'聽發音、看中文，拼出單字',cloze:'依句意填入單字（已給首字母）',examcloze:'學測原句：填入單字',form:'填入正確詞性',cap:'國中會考題型・選出最適合的答案'}[type];
+  const label={en2zh:'選出中文意思',zh2en:isPh(w)?'選出英文片語':'選出英文單字',ctxmc:isPh(w)?'選出最適合填入句子的片語':'選出最適合填入句子的字',spell:'聽發音、看中文，拼出單字',cloze:'依句意填入單字（已給首字母）',examcloze:'學測原句：填入單字',form:'填入正確詞性',cap:'國中會考真題・選出最適合的答案'}[type];
   let body='';
   if(type==='en2zh'){
     const opts=shuffle([w,...distractors(w)]);
     body=`<div class="word">${esc(display(w))}<button class="speak" data-say="${esc(sayForm(w))}" aria-label="發音">${SPK}</button></div><div class="pos">${esc(w.pos)}</div>
     <div class="opts">${opts.map((o,k)=>`<button class="opt" data-ok="${o===w}"><span class="k">${k+1}</span>${esc(o.zh)}</button>`).join('')}</div>`;
   }else if(type==='cap'){
-    const k=capKind(w),sent=simpleSentence(w),t=sent.t;it._sent=sent;
-    const cap=x=>t[0]===t[0].toUpperCase()?x[0].toUpperCase()+x.slice(1):x;
-    const opts=k==='form'?shuffle(rforms(w.word).map(f=>({f:cap(f),ok:f===t.toLowerCase()}))):shuffle([{f:cap(w.word),ok:true},...CAPD[w.id].map(x=>({f:cap(x),ok:false}))]);
-    body=`<div class="ex"><span class="src">${k==='form'?'會考・文法（動詞形式）':'會考・字彙'}</span><span class="s">${markTarget(sent.s,t,'blank')}</span></div>
-    <div class="opts">${opts.map((o,j)=>`<button class="opt en" data-ok="${o.ok}"><span class="k">${'ABCD'[j]}</span>${esc(o.f)}</button>`).join('')}</div>`;
+    const qs=CAPBY[w.id],q=qs[Math.floor(Math.random()*qs.length)];it._q=q;
+    body=`${q.img?`<img src="${q.img}" alt="題目附圖" style="display:block;max-width:100%;max-height:240px;margin:0 auto 10px;border-radius:8px;background:#fff">`:''}<div class="ex"><span class="src exam">國中教育會考・${q.y} 年第 ${q.n} 題（${q.type==='grammar'?'文法':'字彙'}）</span><span class="s">${esc(q.stem).replace(/_{3,}/g,'<span class="blank">　　　　</span>').replace(/\n/g,'<br>')}</span></div>
+    <div class="opts">${q.o.map((o,j)=>`<button class="opt en" data-ok="${j===q.a}"><span class="k">${'ABCD'[j]}</span>${esc(o)}</button>`).join('')}</div>`;
   }else if(type==='zh2en'||type==='ctxmc'){
     const opts=shuffle([w,...distractors(w)]);
     const sent=simpleSentence(w);
@@ -858,7 +850,7 @@ function ask(it){
     if(g.after>g.before)SES.ups.push(w);
     if(!ok){SES.downs.push(w);
       if(!it.retry){const at=Math.min(SES.items.length,SES.pos+4);SES.items.splice(at,0,{w,kind:'q',retry:true});SES.total++;}}
-    const ans=type==='form'?display(w)+' → '+it._sent.t:type==='cloze'||type==='examcloze'||type==='cap'?it._sent.t:display(w);
+    const ans=type==='form'?display(w)+' → '+it._sent.t:type==='cloze'||type==='examcloze'?it._sent.t:type==='cap'?'('+'ABCD'[it._q.a]+') '+it._q.o[it._q.a]:display(w);
     document.getElementById('fbx').innerHTML=`<div class="fb ${ok?'right':'wrong'}">${ok?'':pic('guide_think','fbimg')}<b>${ok?(soft?'答對了（用了提示，明天再複習）':'答對了'):'再記一次'}</b>
       <span><span class="en" style="font-weight:700;font-size:18px">${esc(ans)}</span>　${esc(w.pos)}　${esc(w.zh)}</span>
       ${ok&&g.after>g.before?'<span>升到 '+starsHTML(g.after)+'</span>':''}
