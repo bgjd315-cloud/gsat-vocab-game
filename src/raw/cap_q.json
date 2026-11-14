@@ -836,6 +836,20 @@
 },
 {
 "y": 106,
+"n": 14,
+"stem": "Sabine walks so ______ in the apartment that sometimes you don’t even know she’s just passed by. You wonder if her feet ever touch the floor.",
+"o": [
+"freely",
+"lightly",
+"shyly",
+"slowly"
+],
+"a": 1,
+"type": "vocab",
+"ids": []
+},
+{
+"y": 106,
 "n": 15,
 "stem": "In the past, people thought it was a ______ idea to send e-mails and read news online, but now it is part of our everyday life.",
 "o": [

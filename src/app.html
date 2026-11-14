@@ -377,7 +377,7 @@ function maxStar(w){return 5;}
 
 /* ========== 狀態 ========== */
 const today=()=>Math.floor((Date.now()-new Date().getTimezoneOffset()*60000)/864e5);
-const DEF={v:1,name:'',order:'freq',daily:25,level:3,w:{},streak:{cur:0,best:0,last:0,tickets:0},newDone:{},best:{blitz:0,boss:0,listen:0},bossWins:0,qToday:{},audio:{music:true,vol:0.5,sfx:true},read:{},gq:{},gr:{},cz:{}};
+const DEF={v:1,name:'',order:'freq',daily:25,level:3,w:{},streak:{cur:0,best:0,last:0,tickets:0},newDone:{},best:{blitz:0,boss:0,listen:0},bossWins:0,qToday:{},audio:{music:true,vol:0.5,sfx:true},read:{},gq:{},capq:{},gr:{},cz:{}};
 let S=load();
 // 進度原本依「單字在清單中的位置」存（S.w[序號]），改成依單字編號存（S.w[id]）；OLDIDX 是改版前的固定順序（只增不減），舊序號照它換成編號
 const OLDIDX = /*__OLDIDX__*/[];
@@ -609,7 +609,7 @@ const REGION={9:['新手碼頭',null,null],0:['出發港',null,null],7:['銀河�
 function pic(n,cls,alt=''){return `<img src="img/${n}.webp" class="${cls}" alt="${alt}" onerror="this.remove()">`;}
 function starsHTML(s,max=5){let h='';for(let i=1;i<=max;i++)h+=i<=s?'★':'<span class="off">★</span>';return '<span class="stars" aria-label="'+s+' 星">'+h+'</span>';}
 let view='home';
-function go(v,arg){view=v;window.scrollTo(0,0);PP.on=false;if(recPlayer)recPlayer.pause();if('speechSynthesis' in window)speechSynthesis.cancel();AUD.duck(false);({home,dex:()=>dex(arg),list:()=>list(arg),journal:()=>journal(arg),tb:()=>tbBooks(arg),phr:()=>phrHub(arg),gq:()=>gqHub(),cz:()=>czHub(arg),czp:()=>czPlay(arg),listen:()=>listenGame(),trp:()=>trPlay(arg),rcp:()=>rcPlay(arg),toeic:()=>toeicHub(arg),toeicg:()=>toeicGroup(arg),gr:()=>grBook(arg),grc:()=>grCard(arg),tbl:()=>tbLesson(arg),read:()=>readView(arg)})[v]?.();}
+function go(v,arg){view=v;window.scrollTo(0,0);PP.on=false;if(recPlayer)recPlayer.pause();if('speechSynthesis' in window)speechSynthesis.cancel();AUD.duck(false);({home,dex:()=>dex(arg),list:()=>list(arg),journal:()=>journal(arg),tb:()=>tbBooks(arg),phr:()=>phrHub(arg),gq:()=>gqHub(),capq:()=>capHub(),cz:()=>czHub(arg),czp:()=>czPlay(arg),listen:()=>listenGame(),trp:()=>trPlay(arg),rcp:()=>rcPlay(arg),toeic:()=>toeicHub(arg),toeicg:()=>toeicGroup(arg),gr:()=>grBook(arg),grc:()=>grCard(arg),tbl:()=>tbLesson(arg),read:()=>readView(arg)})[v]?.();}
 
 function home(){
   const due=dueList(); const q=newQuota(due.length); const lv=S.level;
@@ -658,6 +658,7 @@ function home(){
   ${GR.some(c=>c.b===9)?(()=>{const M=GR.filter(c=>c.b===9);return `<button class="htb" id="moBtn" style="background:var(--t-boss)">${pic('dex','')}<span class="t"><b>構詞卡：字首・字尾・字根</b><span>${M.length} 張・拆字猜義、看字尾判斷詞性・已練 ${M.filter(c=>S.gr[c.id]!=null).length} →</span></span></button>`;})():''}
   ${CZ.length||RC.length?(()=>{const all=CZ.concat(RC,VQ,TR);const st=all.reduce((s,c)=>s+((S.cz[c.id]||{}).stars||0),0);return `<button class="htb" id="czBtn" style="background:var(--t-blitz)">${pic('boss','')}<span class="t"><b>學測闖關：詞彙・綜合・文意選填・閱讀・翻譯</b><span>${all.length} 關・已得 ${st} / ${all.length*3} 顆星 →</span></span></button>`;})():''}
   ${GQ.length?(()=>{const done=GQ.filter(q=>S.gq[q.y+'-'+q.n]!=null).length;return `<button class="htb" id="gqBtn" style="background:var(--t-boss)">${pic('trophy','')}<span class="t"><b>歷屆學測詞彙題</b><span>${Math.min(...GQ.map(q=>q.y))}–${Math.max(...GQ.map(q=>q.y))} 學年度共 ${GQ.length} 題・已做 ${done} →</span></span></button>`;})():''}
+  ${CAPQ.length?(()=>{const ys=CAPQ.map(q=>q.y),done=CAPQ.filter(q=>S.capq[q.y+'-'+q.n]!=null).length;return `<button class="htb" id="capBtn" style="background:var(--t-boss)">${pic('trophy','')}<span class="t"><b>歷屆會考單題</b><span>國中教育會考 ${Math.min(...ys)}–${Math.max(...ys)} 年共 ${CAPQ.length} 題・已做 ${done} →</span></span></button>`;})():''}
   ${TT&&W.some(w=>w.lv===8)?(()=>{const N=W.filter(w=>w.lv===8);const g=N.filter(w=>star(w)>=1).length;const T=TT.ids.map(id=>BYID[id]).filter(Boolean);return `<button class="htb" id="toBtn" style="background:var(--t-list)">${pic('toeic','')}<span class="t"><b>多益職場英文</b><span>職場新字 ${N.length}（已學 ${g}）・多益常見字 ${T.length}（已學 ${T.filter(w=>star(w)>=1).length}）→</span></span></button>`;})():''}
   <div class="hsub"><b>更多玩法</b></div>
   <div class="hmodes">
@@ -682,6 +683,7 @@ function home(){
   const tbb=document.getElementById('tbBtn'); if(tbb)tbb.onclick=()=>go('tb');
   const phb=document.getElementById('phrBtn'); if(phb)phb.onclick=()=>go('phr');
   const gqb=document.getElementById('gqBtn'); if(gqb)gqb.onclick=()=>go('gq');
+  const cpb=document.getElementById('capBtn'); if(cpb)cpb.onclick=()=>go('capq');
   const grb=document.getElementById('grBtn'); if(grb)grb.onclick=()=>go('gr');
   const lsb=document.getElementById('lsBtn'); if(lsb)lsb.onclick=()=>go('listen');
   const mob=document.getElementById('moBtn'); if(mob)mob.onclick=()=>go('gr',9);
@@ -1112,6 +1114,60 @@ function boss(){
   const over=()=>{AUD.sfx('finish');const win=score>=8;if(win)S.bossWins++;if(score>S.best.boss)S.best.boss=score;touchStreak();save();
     app.innerHTML=`<div class="card result pop"><div class="qtype" style="width:100%"><span>真題現場結算</span></div>${pic(win?'trophy':'boss','resimg')}<div class="big">${score}/10</div><div>${win?'通關！累計通關 '+S.bossWins+' 次':'答對 8 題以上算通關'}</div><div class="row" style="width:100%"><button class="ghost" id="again">再挑戰</button><button class="primary" id="home">回首頁</button></div></div>`;
     document.getElementById('again').onclick=boss;document.getElementById('home').onclick=()=>go('home');};
+  render();
+}
+
+/* ---------- 歷屆會考單題：國中教育會考英語閱讀「單題」原題，依年度練習 ---------- */
+// S.capq['115-3']=1 答對／0 答錯（最近一次）；答錯題對應的單字可一鍵加入複習
+const capKey=q=>q.y+'-'+q.n;
+function capHub(){
+  const years=[...new Set(CAPQ.map(q=>q.y))].sort((a,b)=>b-a);
+  const wrong=CAPQ.filter(q=>S.capq[capKey(q)]===0);
+  app.innerHTML=`<div class="top"><button class="iconbtn" id="back">← 首頁</button><b>歷屆會考單題</b><span></span></div>
+  <div class="tbact"><button class="primary" id="cpRand">隨機 10 題</button><button class="ghost" id="cpWrong" ${wrong.length?'':'disabled'}>錯題重做（${wrong.length}）</button></div>
+  <div class="list">${years.map(y=>{const qs=CAPQ.filter(q=>q.y===y);const d=qs.filter(q=>S.capq[capKey(q)]!=null).length,ok=qs.filter(q=>S.capq[capKey(q)]===1).length;
+    return `<button class="les" data-y="${y}"><span class="no">${y}</span><span class="ti">${y} 年會考・單題 ${qs.length} 題</span><span class="c">${d?ok+'/'+qs.length:'未做'}</span><span class="bar"><i style="width:${(ok/qs.length*100).toFixed(1)}%"></i></span></button>`;}).join('')}</div>
+  <div class="foot">試題取自國中教育會考 ${years[years.length-1]}–${years[0]} 年英語科閱讀試題「單題」，答案依心測中心公布之參考答案。看圖題的附圖為本站依題意重繪。</div>`;
+  document.getElementById('back').onclick=()=>go('home');
+  document.getElementById('cpRand').onclick=()=>capQuiz(shuffle(CAPQ.slice()).slice(0,10),'隨機 10 題');
+  document.getElementById('cpWrong').onclick=()=>capQuiz(shuffle(wrong.slice()),'錯題重做');
+  app.querySelectorAll('[data-y]').forEach(b=>b.onclick=()=>capQuiz(CAPQ.filter(q=>q.y===+b.dataset.y).sort((a,b)=>a.n-b.n),b.dataset.y+' 年會考'));
+}
+function capQuiz(qs,title){
+  let k=0,score=0,answered=0;const missed=[];
+  const BL='<span class="blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>';
+  const stemHTML=(q,fill)=>esc(q.stem).replace(/_{3,}/g,fill).replace(/\n/g,'<br>');
+  const render=()=>{
+    if(k>=qs.length)return over();
+    const q=qs[k];
+    app.innerHTML=`<div class="sbar"><button class="iconbtn" id="quit">結束</button><div class="prog"><i style="width:${(k/qs.length*100).toFixed(1)}%"></i></div><div class="scount">${k+1}/${qs.length}</div></div>
+    <div class="card pop"><div class="qtype"><span>${esc(title)}</span><span>${q.y} 年第 ${q.n} 題・${q.type==='grammar'?'文法':'字彙'}</span></div>
+    ${q.img?`<img src="${q.img}" alt="題目附圖" style="display:block;max-width:100%;max-height:240px;margin:0 auto 10px;border-radius:8px;background:#fff">`:''}
+    <div class="ex"><span class="src exam">國中教育會考・${q.y} 年</span><span class="s">${stemHTML(q,BL)}</span></div>
+    <div class="opts">${q.o.map((o,j)=>`<button class="opt en" data-j="${j}"><span class="k">${'ABCD'[j]}</span>${esc(o)}</button>`).join('')}</div>
+    <div id="fbx"></div></div><div class="kbd">數字鍵 1–4 作答・Enter 下一題</div>`;
+    document.getElementById('quit').onclick=()=>answered?over():capHub();
+    app.querySelectorAll('.opt').forEach(b=>b.onclick=()=>{
+      const j=+b.dataset.j, ok=j===q.a; answered++;
+      app.querySelectorAll('.opt').forEach(x=>{x.disabled=true;if(+x.dataset.j===q.a)x.classList.add('right');});if(!ok)b.classList.add('wrong');
+      AUD.sfx(ok?'right':'wrong');if(ok)score++;else missed.push(q);
+      S.capq[capKey(q)]=ok?1:0;bumpToday();touchStreak();save();
+      const ws=(q.ids||[]).map(id=>BYID[id]).filter(Boolean);
+      document.getElementById('fbx').innerHTML=`<div class="fb ${ok?'right':'wrong'}"><b>${ok?'答對了':'正解是 ('+'ABCD'[q.a]+') '+esc(q.o[q.a])}</b></div>
+        <div class="ex"><span class="src exam">國中教育會考・${q.y} 年第 ${q.n} 題</span><span class="s">${stemHTML(q,'<b>'+esc(q.o[q.a])+'</b>')}</span></div>
+        ${ws.length?`<div class="list" style="margin:8px 0">${ws.map(w=>`<button class="li cpw" data-i="${w.i}" style="text-align:left"><span class="w">${esc(display(w))} <span class="badge lv" style="--lc:${LC[w.lv]}">${lvName(w.lv)}</span></span><span class="badge core">本題關鍵字</span><span class="m">${esc(w.zh)}</span></button>`).join('')}</div>`:''}
+        <button class="primary" id="nx">${k===qs.length-1?'看結果':'下一題'}</button>`;
+      app.querySelectorAll('.cpw').forEach(x=>x.onclick=()=>wordModal(W[+x.dataset.i]));
+      const nx=document.getElementById('nx');nx.focus();nx.onclick=()=>{k++;render();};
+    });
+  };
+  const over=()=>{AUD.sfx('finish');const n=answered;
+    const add=[...new Set(missed.flatMap(q=>q.ids||[]).filter(id=>BYID[id]))].map(id=>BYID[id]);
+    app.innerHTML=`<div class="card result pop"><div class="qtype" style="width:100%"><span>${esc(title)}・結算</span></div>${pic(n&&score>=n*0.8?'trophy':'guide_think','resimg')}<div class="big">${score}/${n}</div>
+    ${add.length?`<div style="width:100%"><div class="kbd">答錯題的關鍵字</div><div class="chips">${add.map(w=>`<span class="chip down">${esc(display(w))}</span>`).join('')}</div></div><button class="ghost" id="addRev" style="width:100%">把這 ${add.length} 個字加入今天的複習</button>`:''}
+    <div class="row" style="width:100%"><button class="ghost" id="again">回題庫</button><button class="primary" id="home">回首頁</button></div></div>`;
+    const ar=document.getElementById('addRev');if(ar)ar.onclick=()=>{const t0=today();add.forEach(w=>{const r=rec(w);if(r)r[1]=t0;else S.w[w.id]=[1,t0,0,1];});save();ar.disabled=true;ar.textContent='已加入，回首頁開始今天的任務就會複習';};
+    document.getElementById('again').onclick=capHub;document.getElementById('home').onclick=()=>go('home');};
   render();
 }
 
