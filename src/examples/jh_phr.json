@@ -114,7 +114,7 @@
   "zh": "能夠",
   "say": "be able to",
   "en": "Lisa was able to finish the math test on time.",
-  "exzh": "Lisa 能準時寫完數學考試。",
+  "exzh": "Lisa 順利在時間內寫完了數學考試。",
   "targets": [
    "was able to"
   ],
@@ -444,7 +444,7 @@
   "phrase": "in the middle of",
   "zh": "在⋯⋯中間；在⋯⋯當中",
   "say": "in the middle of",
-  "en": "My phone rang in the middle of the English class.",
+  "en": "My phone rang in the middle of English class.",
   "exzh": "我的手機在英文課上到一半時響了。",
   "targets": [
    "in the middle of"
@@ -942,7 +942,7 @@
   "zh": "出現；露面",
   "say": "show up",
   "en": "Ben didn't show up for club practice yesterday afternoon.",
-  "exzh": "Ben 昨天下午沒有出現在社團練習。",
+  "exzh": "Ben 昨天下午沒有來參加社團練習。",
   "targets": [
    "show up"
   ],
