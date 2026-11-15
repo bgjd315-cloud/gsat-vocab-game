@@ -40,7 +40,11 @@ def word_text(r):
 
 jobs = []
 if '--words' in args or DRY:
-    jobs += [('w', r[0], word_text(r), VOICE_WORD, CFG_WORD) for r in words]
+    # 個別單字指定別的聲音（src/raw/audio_voice.json，id → Google 語音名稱；例如 unique 用 Chirp3 語調較自然）
+    _vp = os.path.join(ROOT, 'src', 'raw', 'audio_voice.json')
+    VOV = json.load(open(_vp, encoding='utf-8')) if os.path.exists(_vp) else {}
+    jobs += [('w', r[0], (word_text(r) if r[0] not in VOV else (lambda t: t[0].upper() + t[1:] + '.')(r[11] if len(r) > 11 and r[11] else say_form(r[4]))),
+              ({'languageCode': 'en-US', 'name': VOV[r[0]]} if r[0] in VOV else VOICE_WORD), CFG_WORD) for r in words]
 if '--sentences' in args or DRY:
     jobs += [('s', r[0], r[9][0], VOICE_SENT, CFG_SENT) for r in words if r[9]]
 # 詞性變化的相關字（audio/f/<slug>.mp3）：只做網站單字表裡沒有錄音的形式

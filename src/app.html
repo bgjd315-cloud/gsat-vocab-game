@@ -314,6 +314,7 @@ textarea{width:100%;min-height:110px;font-family:ui-monospace,Consolas,monospace
 .legendr i{display:inline-block;width:14px;height:10px;border-radius:2px;margin-right:4px;vertical-align:middle}
 .tip{position:fixed;z-index:30;left:50%;bottom:calc(76px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--fg);color:var(--bg);border-radius:14px;padding:10px 14px;font-size:15px;max-width:min(92vw,420px);box-shadow:0 8px 24px rgba(0,0,0,.25);display:flex;gap:10px;align-items:center}
 .tip b{font-family:var(--en)}
+.tip{flex-wrap:wrap;justify-content:center;row-gap:4px}.tip>*{white-space:nowrap}.tip .tz{white-space:normal;min-width:5em;flex:0 1 auto}
 .rq{border-top:1px dashed var(--line);padding-top:12px;display:grid;gap:8px}
 .rq .stem{font-family:var(--en);font-size:16px;font-weight:600}
 .rq .ty{font-family:var(--font);font-size:12px;color:var(--muted);font-weight:400;margin-left:6px}
@@ -953,7 +954,7 @@ function readView(id){
   document.getElementById('back').onclick=()=>{speechSynthesis?.cancel();backTo();};
   // 點字看意思
   app.querySelectorAll('.tw').forEach(el=>{const f=()=>{const w=BYID[el.dataset.w];if(!w)return;speak(sayForm(w));
-    showTip(`<b>${esc(display(w))}</b> ${KK[w.id]?`<span class="kk">${esc(KK[w.id])}</span> `:''}<span>${esc(w.pos)}</span> <span>${esc(w.zh)}</span>${starsHTML(star(w))}`);};
+    showTip(`<b>${esc(display(w))}</b> ${KK[w.id]?`<span class="kk">${esc(KK[w.id])}</span> `:''}<span>${esc(w.pos)}</span> <span class="tz">${esc(w.zh)}</span>${starsHTML(star(w))}`);};
     el.onclick=f;el.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();f();}};});
   // 中譯
   const zb=document.getElementById('zhAll');zb.onclick=()=>{const on=!zb.classList.contains('on');zb.classList.toggle('on',on);zb.textContent=on?'隱藏中譯':'顯示中譯';app.querySelectorAll('.pzh').forEach(x=>x.hidden=!on);};
