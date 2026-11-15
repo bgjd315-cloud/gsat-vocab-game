@@ -16,7 +16,7 @@
   "id": "JP-002",
   "phrase": "from...to...",
   "zh": "從⋯⋯到⋯⋯",
-  "say": "from something to",
+  "say": "from Monday to Friday",
   "en": "Our school library is open from eight to five on weekdays.",
   "exzh": "我們學校圖書館平日從八點開到五點。",
   "targets": [
@@ -43,7 +43,7 @@
   "id": "JP-004",
   "phrase": "as...as...",
   "zh": "和⋯⋯一樣",
-  "say": "as something as",
+  "say": "as tall as",
   "en": "Kevin is as tall as his older brother now.",
   "exzh": "Kevin 現在和他哥哥一樣高。",
   "targets": [
@@ -70,7 +70,7 @@
   "id": "JP-006",
   "phrase": "between...and...",
   "zh": "在⋯⋯和⋯⋯之間",
-  "say": "between something and",
+  "say": "between you and me",
   "en": "The bus stop is between the bakery and the post office.",
   "exzh": "公車站在麵包店和郵局之間。",
   "targets": [
@@ -84,7 +84,7 @@
   "id": "JP-007",
   "phrase": "so...that...",
   "zh": "如此⋯⋯以至於⋯⋯",
-  "say": "so something that",
+  "say": "so tired that",
   "en": "Mia was so tired that she fell asleep on the bus.",
   "exzh": "Mia 累到在公車上睡著了。",
   "targets": [
@@ -98,7 +98,7 @@
   "id": "JP-008",
   "phrase": "both...and...",
   "zh": "⋯⋯和⋯⋯兩者都",
-  "say": "both something and",
+  "say": "both Tom and Amy",
   "en": "Both Leo and Tom joined the basketball club this year.",
   "exzh": "Leo 和 Tom 今年都加入了籃球社。",
   "targets": [
@@ -190,7 +190,7 @@
   "id": "JP-015",
   "phrase": "not only...but also...",
   "zh": "不僅⋯⋯而且⋯⋯",
-  "say": "not only something but also",
+  "say": "not only smart but also kind",
   "en": "Ben is not only good at math but also great at sports.",
   "exzh": "Ben 不只數學好，運動也很強。",
   "targets": [
@@ -217,7 +217,7 @@
   "id": "JP-017",
   "phrase": "not...until...",
   "zh": "直到⋯⋯才⋯⋯",
-  "say": "not something until",
+  "say": "not leave until",
   "en": "Kevin did not go to bed until midnight last night.",
   "exzh": "Kevin 昨晚直到半夜才上床睡覺。",
   "targets": [
@@ -270,7 +270,7 @@
   "id": "JP-021",
   "phrase": "either...or...",
   "zh": "不是⋯⋯就是⋯⋯；⋯⋯或⋯⋯",
-  "say": "either something or",
+  "say": "either tea or coffee",
   "en": "You can either take the bus or ride your bike to school.",
   "exzh": "你可以搭公車或騎腳踏車上學。",
   "targets": [
@@ -297,7 +297,7 @@
   "id": "JP-023",
   "phrase": "some...others...",
   "zh": "有些⋯⋯，有些⋯⋯",
-  "say": "some something others",
+  "say": "some people, others",
   "en": "Some students like to read, and others like to play basketball.",
   "exzh": "有些學生喜歡閱讀，有些則喜歡打籃球。",
   "targets": [
@@ -311,7 +311,7 @@
   "id": "JP-024",
   "phrase": "such...that...",
   "zh": "如此⋯⋯以至於⋯⋯",
-  "say": "such something that",
+  "say": "such a nice day that",
   "en": "It was such a hot day that we stayed inside all afternoon.",
   "exzh": "那天實在太熱，我們整個下午都待在室內。",
   "targets": [
@@ -913,7 +913,7 @@
   "id": "JP-070",
   "phrase": "one...the other...",
   "zh": "（兩者中）一個⋯⋯，另一個⋯⋯",
-  "say": "one something the other",
+  "say": "one, the other",
   "en": "Amy has two cats; one is white, and the other is black.",
   "exzh": "Amy 養了兩隻貓，一隻是白的，另一隻是黑的。",
   "targets": [
@@ -1512,7 +1512,7 @@
   "id": "JP-116",
   "phrase": "neither...nor...",
   "zh": "既不⋯⋯也不⋯⋯",
-  "say": "neither something nor",
+  "say": "neither Tom nor Amy",
   "en": "Neither Kevin nor his brother likes to eat vegetables at dinner.",
   "exzh": "Kevin 和他弟弟晚餐時都不喜歡吃蔬菜。",
   "targets": [
@@ -1604,7 +1604,7 @@
   "id": "JP-123",
   "phrase": "spend...on...",
   "zh": "花（時間、金錢）在⋯⋯上",
-  "say": "spend something on",
+  "say": "spend money on",
   "en": "Lisa spends two hours on her homework every night after dinner.",
   "exzh": "Lisa 每天晚餐後花兩個小時寫功課。",
   "targets": [

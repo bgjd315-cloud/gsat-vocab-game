@@ -28,9 +28,19 @@ def say_form(word):
     m = re.match(r"^([a-zA-Z'\- ]+)\(([a-z]+)\)([a-z]*)$", p)
     return (m.group(1) + m.group(3)) if m else re.sub(r'[()]', '', p)
 
+# 一字多音或縮寫：用 SSML 指定 IPA 讀音（src/raw/audio_ipa.json，id → IPA，由網站 KK 音標轉來）
+IPA = {}
+_ip = os.path.join(ROOT, 'src', 'raw', 'audio_ipa.json')
+if os.path.exists(_ip): IPA = json.load(open(_ip, encoding='utf-8'))
+def _esc(t): return t.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('"', '&quot;')
+def word_text(r):
+    t = r[11] if len(r) > 11 and r[11] else say_form(r[4])
+    if r[0] in IPA: return '<speak><phoneme alphabet="ipa" ph="' + _esc(IPA[r[0]]) + '">' + _esc(t) + '</phoneme></speak>'
+    return t
+
 jobs = []
 if '--words' in args or DRY:
-    jobs += [('w', r[0], (r[11] if len(r) > 11 else say_form(r[4])), VOICE_WORD, CFG_WORD) for r in words]
+    jobs += [('w', r[0], word_text(r), VOICE_WORD, CFG_WORD) for r in words]
 if '--sentences' in args or DRY:
     jobs += [('s', r[0], r[9][0], VOICE_SENT, CFG_SENT) for r in words if r[9]]
 # 詞性變化的相關字（audio/f/<slug>.mp3）：只做網站單字表裡沒有錄音的形式
@@ -97,7 +107,7 @@ for kind, wid, text, voice, cfg in jobs:
     out = os.path.join(ROOT, 'audio', kind, wid + '.mp3')
     if os.path.exists(out) and not FORCE: skipped += 1; continue
     os.makedirs(os.path.dirname(out), exist_ok=True)
-    body = json.dumps({'input': {'text': text}, 'voice': voice, 'audioConfig': cfg}).encode('utf-8')
+    body = json.dumps({'input': ({'ssml': text} if text.startswith('<speak>') else {'text': text}), 'voice': voice, 'audioConfig': cfg}).encode('utf-8')
     for attempt in range(3):
         try:
             req = urllib.request.Request(URL, data=body, headers={'Content-Type': 'application/json'})
